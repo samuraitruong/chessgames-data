@@ -1,0 +1,14 @@
+[Event "London Chess Classic Open"]
+[Site "London ENG"]
+[Date "2015.12.04"]
+[EventDate "2015.12.04"]
+[Round "1.4"]
+[Result "0-1"]
+[White "Jan Rogiers"]
+[Black "Romain Edouard"]
+[ECO "E00"]
+[WhiteElo "2132"]
+[BlackElo "2635"]
+[PlyCount "46"]
+
+1. d4 e6 2. c4 Bb4+ 3. Bd2 a5 4. g3 d5 5. Bg2 dxc4 6. Nf3 Nc6 7. e3 Nge7 8. O-O O-O 9. Qe2 b6 10. Ne5 Nxe5 11. Bxb4 axb4 12. Bxa8 c6 13. dxe5 Ba6 14. Bb7 Bxb7 15. Qxc4 c5 16. a3 Nc6 17. f4 Na5 18. Qc2 Qd5 19. e4 Qd4+ 20. Rf2 Nc4 21. Nd2 Ne3 22. Qb1 Ng4 23. Qe1 Nxf2 0-1
