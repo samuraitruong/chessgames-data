@@ -1,0 +1,16 @@
+[Event "pawn odds match"]
+[Site "chessplanet.ru"]
+[Date "2007.03.07"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Rybka (Computer)"]
+[Black "Jaan Yukhanovich Ehlvest"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "2640"]
+[PlyCount "25"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 1"]
+
+1.d4 d5 2.c4 Nf6 3.Nc3 c6 4.Nf3 g6 5.cxd5 Nxd5 6.Bc4 Bg7 7.O-O O-O 8.Re1 Bg4 9.Bg5 Bf6 10.Bh6 Bg7 11.Bg5 Bf6 12.Bh6 Bg7 13.Bg5 1/2-1/2

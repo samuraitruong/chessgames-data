@@ -52,42 +52,48 @@
     "name": "YEE, Lorne",
     "year": "1982-2011",
     "games": 64,
-    "id": "10059"
+    "id": "10059",
+    "synced": true
   },
   {
     "higestRating": 2523,
     "name": "MULYAR, Michael",
     "year": "1993-2021",
     "games": 176,
-    "id": "10061"
+    "id": "10061",
+    "synced": true
   },
   {
     "higestRating": 2640,
     "name": "EHLVEST, Jaan",
     "year": "1977-2022",
     "games": null,
-    "id": "10065"
+    "id": "10065",
+    "synced": true
   },
   {
     "higestRating": 2346,
     "name": "RUBENCHIK, Rodion",
     "year": "1999-2004",
     "games": 24,
-    "id": "10066"
+    "id": "10066",
+    "synced": true
   },
   {
     "higestRating": 2316,
     "name": "DOUGHERTY, Michael",
     "year": "1980-2022",
     "games": 236,
-    "id": "10073"
+    "id": "10073",
+    "synced": true
   },
   {
     "higestRating": 2313,
     "name": "FEINSTEIN, Michael",
     "year": "1990-2019",
     "games": 27,
-    "id": "10076"
+    "id": "10076",
+    "synced": true
   },
   {
     "higestRating": 2346,
