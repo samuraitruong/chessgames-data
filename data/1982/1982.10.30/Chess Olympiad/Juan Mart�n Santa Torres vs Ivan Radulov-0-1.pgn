@@ -1,0 +1,15 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.10.30"]
+[EventDate "1982.10.30"]
+[Round "1"]
+[Result "0-1"]
+[White "Juan Mart�n Santa Torres"]
+[Black "Ivan Radulov"]
+[ECO "D31"]
+[WhiteElo "2230"]
+[BlackElo "2480"]
+[Source "Olimpbase"]
+[PlyCount "52"]
+
+1.c4 e6 2.Nc3 d5 3.d4 dxc4 4.e3 Nf6 5.Bxc4 c5 6.Nf3 a6 7.dxc5 Qxd1+ 8.Kxd1 Bxc5 9.a3 b5 10.Bd3 Bb7 11.Ke2 Nbd7 12.Rd1 Ke7 13.b3 Rac8 14.Bb2 Bd6 15. Rac1 Rc7 16.Nb1 Nc5 17.Bc2 Rhc8 18.Rxd6 Bxf3+ 19.Kxf3 Kxd6 20.Rd1+ Ke7 21. Be5 Rd7 22.b4 Rxd1 23.Bxd1 Nd3 24.Bc3 Nxf2 25.Bxf6+ gxf6 26.Be2 Nd1 0-1
