@@ -1,0 +1,14 @@
+[Event "Campeonato Nacional de Máxima Categorí"]
+[Site "Santo Domingo VEN"]
+[Date "2018.01.13"]
+[EventDate "2018.01.09"]
+[Round "9.2"]
+[Result "1-0"]
+[White "Pacheco Lugo, Alejandro Jose"]
+[Black "Julio Eduardo Ostos"]
+[ECO "C05"]
+[WhiteElo "2190"]
+[BlackElo "2271"]
+[PlyCount "40"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Qb6 8. g3 cxd4 9. cxd4 g5 10. fxg5 Bb4+ 11. Ke2 h6 12. gxh6 f6 13. Qd3 fxe5 14. Qg6+ Kd8 15. Qg7 Rf8 16. h7 Nxd4+ 17. Kd1 Nxf3 18. Nxf3 Rxf3 19. h8=Q+ Kc7 20. Qg4 1-0
