@@ -38856,7 +38856,8 @@
     "name": "AROVEN, Mikael",
     "year": "1994-2017",
     "games": 32,
-    "id": "78530"
+    "id": "78530",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -50018,7 +50019,8 @@
     "name": "BORMIDA, Adolfo A",
     "year": "1993-1999",
     "games": 44,
-    "id": "90273"
+    "id": "90273",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -76541,7 +76543,8 @@
     "name": "GONZALEZ, Juan Carlos Fernandez",
     "year": "1974-1994",
     "games": 110,
-    "id": "28231"
+    "id": "28231",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -94896,7 +94899,8 @@
     "name": "CYBOROWSKI, Lukasz",
     "year": "1992-2022",
     "games": 367,
-    "id": "49447"
+    "id": "49447",
+    "synced": true
   },
   {
     "higestRating": 2585,
@@ -97637,7 +97641,8 @@
     "name": "KARTHIKEYAN, Murali",
     "year": "2010-2023",
     "games": 502,
-    "id": "131321"
+    "id": "131321",
+    "synced": true
   },
   {
     "higestRating": 2593,
