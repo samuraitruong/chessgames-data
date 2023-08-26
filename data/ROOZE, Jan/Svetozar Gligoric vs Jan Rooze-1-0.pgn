@@ -1,0 +1,14 @@
+[Event "EU-ch U20 clock sim1"]
+[Site "Groningen NED"]
+[Date "1967.01.07"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Svetozar Gligoric"]
+[Black "Jan Rooze"]
+[ECO "B85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.Be2 Nc6 7.Be3 Nf6 8.f4 d6 9.O-O Be7 10.Qe1 O-O 11.Qg3 Nxd4 12.Bxd4 b5 13.a3 Bb7 14.Bd3 Rad8 15.Kh1 Rfe8 16.Rae1 g6 17.f5 e5 18.Be3 Rd7 19.Bh6 Qd8 20.Re3 Kh8 21.Qh3 Ng8 22.fxg6 fxg6 23.Rf7 1-0
