@@ -1,0 +1,14 @@
+[Event "Banter Blitz 189"]
+[Site "chess24.com"]
+[Date "2019.07.10"]
+[EventDate "2019.07.10"]
+[Round "3"]
+[Result "1-0"]
+[White "NN"]
+[Black "Jan Gustafsson"]
+[ECO "B45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be3 Bb4 7.Nb5 Nxe4 8.Qg4 Nxc3 9.bxc3 Bf8 10.Rd1 d5 11.Qg3 e5 12.Rxd5 Bd7 13.Bc4 a6 14.Rxe5+ Nxe5 15.Qxe5+ Be7 16.Nd6+ Kf8 17.Nxf7 Bf6 18.Bc5+ Kg8 19.Nh6# 1-0

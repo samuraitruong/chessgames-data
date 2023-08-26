@@ -1,0 +1,14 @@
+[Event "banter blitz"]
+[Site "chess24.com"]
+[Date "2018.06.18"]
+[EventDate "2018.06.18"]
+[Round "?"]
+[Result "1-0"]
+[White "Jan Gustafsson"]
+[Black "NN"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "2519"]
+[PlyCount "17"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e5 4.Bc4 d6 5.d3 Bg4 6.h3 Bh5 7.Nxe5 Bxd1 8.Bxf7+ Ke7 9.Nd5# 1-0
