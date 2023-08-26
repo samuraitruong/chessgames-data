@@ -2690,7 +2690,8 @@
     "name": "FIROUZJA, Alireza",
     "year": "2015-2023",
     "games": 1062,
-    "id": "152702"
+    "id": "152702",
+    "synced": true
   },
   {
     "higestRating": 2570,
@@ -21261,7 +21262,8 @@
     "name": "ANDERSEN, Daniel",
     "year": "1990-2019",
     "games": 158,
-    "id": "98749"
+    "id": "98749",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -35759,7 +35761,8 @@
     "name": "HERTOG, Hugo ten",
     "year": "2006-2023",
     "games": 82,
-    "id": "102264"
+    "id": "102264",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -54711,7 +54714,8 @@
     "name": "GARCIA, Carlos Ferron",
     "year": "1989-2005",
     "games": 44,
-    "id": "61264"
+    "id": "61264",
+    "synced": true
   },
   {
     "higestRating": 2399,
@@ -63993,7 +63997,8 @@
     "name": "VLADIMIROV, Vladimir",
     "year": "1990-2021",
     "games": 34,
-    "id": "116672"
+    "id": "116672",
+    "synced": true
   },
   {
     "higestRating": 2269,
@@ -84033,7 +84038,8 @@
     "name": "WANDERER, Thomas",
     "year": "1996-2017",
     "games": 20,
-    "id": "106690"
+    "id": "106690",
+    "synced": true
   },
   {
     "higestRating": 2333,
