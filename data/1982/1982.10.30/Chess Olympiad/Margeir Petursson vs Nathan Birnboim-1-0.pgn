@@ -1,0 +1,14 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.11.07"]
+[EventDate "1982.10.30"]
+[Round "8"]
+[Result "1-0"]
+[White "Margeir Petursson"]
+[Black "Nathan Birnboim"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1 Nc6 9.d5 Ne5 10.Nxe5 Bxe5 11.Bb5+ Kf8 12.Bh6+ Kg8 13.O-O Bxc3 14.Qb3 Bd4 15.Bc4 Qd6 16.Kh1 b6 17.f4 Rb8 18.e5 Qd8 19.f5 Qe8 20.d6 e6 21.fxe6 1-0

@@ -187,7 +187,8 @@
     "name": "EPISHIN, Vladimir",
     "year": "1980-2021",
     "games": null,
-    "id": "11675"
+    "id": "11675",
+    "synced": true
   },
   {
     "higestRating": 2624,
@@ -5732,7 +5733,8 @@
     "name": "ORTEGA, Xavier Bosque",
     "year": "2003-2005",
     "games": 7,
-    "id": "91129"
+    "id": "91129",
+    "synced": true
   },
   {
     "higestRating": 2269,
@@ -9451,7 +9453,8 @@
     "name": "FOGEL, Pierre",
     "year": "1991-2019",
     "games": 15,
-    "id": "58061"
+    "id": "58061",
+    "synced": true
   },
   {
     "higestRating": 2222,
@@ -25511,7 +25514,8 @@
     "name": "STRYBUK, Artsiom I",
     "year": "2017-2023",
     "games": 22,
-    "id": "159355"
+    "id": "159355",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -36548,7 +36552,8 @@
     "name": "WIWE, Andreas",
     "year": "2005-2015",
     "games": 30,
-    "id": "105205"
+    "id": "105205",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -37941,7 +37946,8 @@
     "name": "KRUCHEV, Boris",
     "year": "2004-2014",
     "games": 31,
-    "id": "107076"
+    "id": "107076",
+    "synced": true
   },
   {
     "higestRating": 2452,
@@ -41518,7 +41524,8 @@
     "name": "TARHON, Brian",
     "year": "2012-2017",
     "games": 34,
-    "id": "142588"
+    "id": "142588",
+    "synced": true
   },
   {
     "higestRating": 2439,
@@ -48712,7 +48719,8 @@
     "name": "VALKAMA, Eero",
     "year": "2018-2023",
     "games": 42,
-    "id": "162958"
+    "id": "162958",
+    "synced": true
   },
   {
     "higestRating": 2289,
@@ -51435,7 +51443,8 @@
     "name": "LAPICCIRELLA, Daniele",
     "year": "2001-2018",
     "games": 46,
-    "id": "54010"
+    "id": "54010",
+    "synced": true
   },
   {
     "higestRating": 2268,
@@ -51694,7 +51703,8 @@
     "name": "ESCOBAR, Alvaro Valdes",
     "year": "2005-2018",
     "games": 46,
-    "id": "122757"
+    "id": "122757",
+    "synced": true
   },
   {
     "higestRating": 2232,
@@ -64324,7 +64334,8 @@
     "name": "KRANZL, Peter",
     "year": "1987-2017",
     "games": 70,
-    "id": "19778"
+    "id": "19778",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -79056,7 +79067,8 @@
     "name": "RADEV, Nikolai",
     "year": "1959-1987",
     "games": 123,
-    "id": "45694"
+    "id": "45694",
+    "synced": true
   },
   {
     "higestRating": 2482,
@@ -84722,7 +84734,8 @@
     "name": "HILL, Alistair",
     "year": "2012-2023",
     "games": 169,
-    "id": "141873"
+    "id": "141873",
+    "synced": true
   },
   {
     "higestRating": 2387,
@@ -87931,7 +87944,8 @@
     "name": "POPOVYCH, Orest",
     "year": "1953-2003",
     "games": 208,
-    "id": "36336"
+    "id": "36336",
+    "synced": true
   },
   {
     "higestRating": 2442,
@@ -93514,7 +93528,8 @@
     "name": "BIRNBOIM, Nathan",
     "year": "1972-2022",
     "games": 321,
-    "id": "18721"
+    "id": "18721",
+    "synced": true
   },
   {
     "higestRating": 2410,
