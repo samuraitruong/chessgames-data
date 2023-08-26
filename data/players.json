@@ -3703,7 +3703,8 @@
     "name": "TOBAK, Andrey",
     "year": "1999",
     "games": 2,
-    "id": "101338"
+    "id": "101338",
+    "synced": true
   },
   {
     "higestRating": 2388,
@@ -18439,7 +18440,8 @@
     "name": "BESPALOV, Alexey",
     "year": "2001-2002",
     "games": 19,
-    "id": "52325"
+    "id": "52325",
+    "synced": true
   },
   {
     "higestRating": 2261,
@@ -40552,7 +40554,8 @@
     "name": "AVERBUKH, Alex",
     "year": "1999-2022",
     "games": 34,
-    "id": "11443"
+    "id": "11443",
+    "synced": true
   },
   {
     "higestRating": 2392,
@@ -40664,7 +40667,8 @@
     "name": "HAYWARD, Keith",
     "year": "1977-2002",
     "games": 34,
-    "id": "33238"
+    "id": "33238",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -42172,7 +42176,8 @@
     "name": "ALBORNOZ, Guillermo Cerda",
     "year": "2003-2018",
     "games": 35,
-    "id": "81317"
+    "id": "81317",
+    "synced": true
   },
   {
     "higestRating": 2244,
@@ -58233,7 +58238,8 @@
     "name": "PANZER, Peter",
     "year": "1988-1995",
     "games": 57,
-    "id": "26283"
+    "id": "26283",
+    "synced": true
   },
   {
     "higestRating": 2344,
@@ -64380,7 +64386,8 @@
     "name": "SEREDENKO, Vladimir",
     "year": "1962-2004",
     "games": 70,
-    "id": "19691"
+    "id": "19691",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -67496,7 +67503,8 @@
     "name": "TICA, Sven",
     "year": "2010-2023",
     "games": 77,
-    "id": "125376"
+    "id": "125376",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -69087,7 +69095,8 @@
     "name": "COCOZZA, Mario",
     "year": "1982-2018",
     "games": 82,
-    "id": "40489"
+    "id": "40489",
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -70385,7 +70394,8 @@
     "name": "DIXIT, Nikhil",
     "year": "2016-2023",
     "games": 85,
-    "id": "158071"
+    "id": "158071",
+    "synced": true
   },
   {
     "higestRating": 2387,
@@ -71225,7 +71235,8 @@
     "name": "DEL HEMANT, Sharma",
     "year": "2006-2021",
     "games": 88,
-    "id": "100921"
+    "id": "100921",
+    "synced": true
   },
   {
     "higestRating": 2234,
@@ -89752,7 +89763,8 @@
     "name": "CHEN, Wang",
     "year": "2003-2023",
     "games": 232,
-    "id": "114772"
+    "id": "114772",
+    "synced": true
   },
   {
     "higestRating": 2573,
@@ -92510,7 +92522,8 @@
     "name": "ARKHIPOV, Sergey",
     "year": "1964-2016",
     "games": 291,
-    "id": "16948"
+    "id": "16948",
+    "synced": true
   },
   {
     "higestRating": 2558,
