@@ -1959,7 +1959,8 @@
     "name": "GEORGIEV, Kiril",
     "year": "1981-2022",
     "games": null,
-    "id": "47071"
+    "id": "47071",
+    "synced": true
   },
   {
     "higestRating": 2550,
@@ -27171,7 +27172,8 @@
     "name": "MOONEY, David Paul",
     "year": "1977-1995",
     "games": 23,
-    "id": "169342"
+    "id": "169342",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -31926,7 +31928,8 @@
     "name": "BALL, Stephen",
     "year": "1975-1988",
     "games": 27,
-    "id": "22440"
+    "id": "22440",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -37961,7 +37964,8 @@
     "name": "DJOSIC, Slavoljub",
     "year": "1990-2015",
     "games": 31,
-    "id": "107147"
+    "id": "107147",
+    "synced": true
   },
   {
     "higestRating": 2233,
@@ -42330,7 +42334,8 @@
     "name": "EZSOL, Miklos",
     "year": "1991-1999",
     "games": 35,
-    "id": "103009"
+    "id": "103009",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -60769,7 +60774,8 @@
     "name": "OEI, Hway Ik",
     "year": "1984-2012",
     "games": 62,
-    "id": "50995"
+    "id": "50995",
+    "synced": true
   },
   {
     "higestRating": 2465,
@@ -69162,7 +69168,8 @@
     "name": "EVANS, Larry David",
     "year": "1971-1995",
     "games": 82,
-    "id": "82648"
+    "id": "82648",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -91965,7 +91972,8 @@
     "name": "SOLODOVNICHENKO, Yuri",
     "year": "1996-2021",
     "games": 279,
-    "id": "76787"
+    "id": "76787",
+    "synced": true
   },
   {
     "higestRating": 2378,
@@ -96894,7 +96902,8 @@
     "name": "KELLY, Brian",
     "year": "1991-2008",
     "games": 463,
-    "id": "81477"
+    "id": "81477",
+    "synced": true
   },
   {
     "higestRating": 2401,

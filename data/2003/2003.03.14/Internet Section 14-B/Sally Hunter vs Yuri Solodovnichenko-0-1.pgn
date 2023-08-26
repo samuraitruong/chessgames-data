@@ -1,0 +1,14 @@
+[Event "Internet Section 14-B"]
+[Site "Dos Hermanas"]
+[Date "2003.03.14"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Sally Hunter"]
+[Black "Yuri Solodovnichenko"]
+[ECO "B00"]
+[WhiteElo "1940"]
+[BlackElo "2567"]
+[PlyCount "40"]
+
+1.e4 Nc6 2.Nf3 d5 3.exd5 Qxd5 4.d4 e5 5.dxe5 Qxd1+ 6.Kxd1 Bg4 7.Be2 O-O-O 8.Bd2 Bxf3 9.Bxf3 Nxe5 10.Be2 Nf6 11.f3 Bc5 12.Kc1 Rhe8 13.Bb5 c6 14.Ba4 Nc4 15.Bg5 Re2 16.Bxf6 gxf6 17.g3 Be3+ 18.Nd2 Rdxd2 19.b3 Rxc2+ 20.Kb1 Na3# 0-1
