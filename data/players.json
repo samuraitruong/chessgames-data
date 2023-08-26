@@ -2920,7 +2920,8 @@
     "name": "BATISTA, Lazaro Bruzon",
     "year": "1997-2022",
     "games": 1016,
-    "id": "49084"
+    "id": "49084",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -61123,7 +61124,8 @@
     "name": "FENG, Roland",
     "year": "2014-2019",
     "games": 37,
-    "id": "153570"
+    "id": "153570",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -77405,7 +77407,8 @@
     "name": "LAINE, Heikki",
     "year": "1990-1997",
     "games": 24,
-    "id": "130181"
+    "id": "130181",
+    "synced": true
   },
   {
     "higestRating": 2280,
