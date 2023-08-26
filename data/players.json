@@ -6240,7 +6240,8 @@
     "name": "RAUSIS, Igors",
     "year": "1986-2017",
     "games": 572,
-    "id": "14248"
+    "id": "14248",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -7333,7 +7334,8 @@
     "name": "CYFKA, Karina",
     "year": "1998-2023",
     "games": 489,
-    "id": "54851"
+    "id": "54851",
+    "synced": true
   },
   {
     "higestRating": 2606,
@@ -85949,7 +85951,8 @@
     "name": "AGUILAR, Jose Manuel Ramos",
     "year": "1998-2022",
     "games": 19,
-    "id": "100035"
+    "id": "100035",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -91221,7 +91224,8 @@
     "name": "ZAKHAROV, Valentin M",
     "year": "1991-1999",
     "games": 16,
-    "id": "12414"
+    "id": "12414",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -94867,7 +94871,8 @@
     "name": "BACKLUND, Anders",
     "year": "1993-2017",
     "games": 15,
-    "id": "89750"
+    "id": "89750",
+    "synced": true
   },
   {
     "higestRating": 2265,
