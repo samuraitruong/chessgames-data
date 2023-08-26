@@ -1,0 +1,14 @@
+[Event "EM/M/A064"]
+[Site "ICCF Email"]
+[Date "1999.04.15"]
+[EventDate "1999.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Thomas Schmelz"]
+[Black "Holger Staude"]
+[ECO "C34"]
+[WhiteElo "2373"]
+[BlackElo "2273"]
+[PlyCount "44"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 d6 4.Bc4 h6 5.d4 g5 6.g3 fxg3 7.hxg3 Bg7 8.O-O Nf6 9.e5 dxe5 10.Nxe5 O-O 11.c3 Nbd7 12.Nxf7 Rxf7 13.Bxf7+ Kxf7 14.Qb3+ Kf8 15.Be3 Qe8 16.Bf2 Nb6 17.c4 Bh3 18.Re1 Qf7 19.d5 Kg8 20.Nd2 Ng4 21. Bc5 c6 22.Re7 Bd4+ 0-1

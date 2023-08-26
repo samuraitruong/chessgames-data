@@ -6458,7 +6458,8 @@
     "name": "BLETZ, Harald",
     "year": "1981-1995",
     "games": 9,
-    "id": "60356"
+    "id": "60356",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -6900,7 +6901,8 @@
     "name": "KRECAK, Zvonko",
     "year": "1998-2009",
     "games": 10,
-    "id": "90316"
+    "id": "90316",
+    "synced": true
   },
   {
     "higestRating": 2268,
@@ -14229,7 +14231,8 @@
     "name": "MUELLNERITSCH, Anton",
     "year": "1993-2001",
     "games": 17,
-    "id": "55080"
+    "id": "55080",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -15517,7 +15520,8 @@
     "name": "KRISTENSEN, Bjarke Hautop",
     "year": "2012-2018",
     "games": 17,
-    "id": "138838"
+    "id": "138838",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -16126,7 +16130,8 @@
     "name": "SCHMELZ, Thomas",
     "year": "1988-2002",
     "games": 18,
-    "id": "34097"
+    "id": "34097",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -18993,7 +18998,8 @@
     "name": "JELECEVIC, Ivo",
     "year": "2004-2017",
     "games": 19,
-    "id": "91640"
+    "id": "91640",
+    "synced": true
   },
   {
     "higestRating": 2342,
@@ -33649,7 +33655,8 @@
     "name": "SADKOWSKI, Daniel",
     "year": "1978-2018",
     "games": 28,
-    "id": "66497"
+    "id": "66497",
+    "synced": true
   },
   {
     "higestRating": 2359,
@@ -38130,7 +38137,8 @@
     "name": "XIA, Jie",
     "year": "2005-2013",
     "games": 31,
-    "id": "126229"
+    "id": "126229",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -38950,7 +38958,8 @@
     "name": "KUKULA, Pawel",
     "year": "2003-2022",
     "games": 32,
-    "id": "91456"
+    "id": "91456",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -54088,7 +54097,8 @@
     "name": "PULPAN, Jakub",
     "year": "2007-2023",
     "games": 49,
-    "id": "157000"
+    "id": "157000",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -64334,7 +64344,8 @@
     "name": "KRAUT, Rainer",
     "year": "1985-1999",
     "games": 70,
-    "id": "11652"
+    "id": "11652",
+    "synced": true
   },
   {
     "higestRating": 2307,
@@ -64769,7 +64780,8 @@
     "name": "FROEHLICH, Peter",
     "year": "1995-2006",
     "games": 71,
-    "id": "17874"
+    "id": "17874",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -66758,7 +66770,8 @@
     "name": "PEYCHEVA, Gergana",
     "year": "2017-2022",
     "games": 75,
-    "id": "159737"
+    "id": "159737",
+    "synced": true
   },
   {
     "higestRating": 2469,
@@ -70108,7 +70121,8 @@
     "name": "BOGUSZLAVSZKIJ, Jevgenyij",
     "year": "1982-2015",
     "games": 85,
-    "id": "50350"
+    "id": "50350",
+    "synced": true
   },
   {
     "higestRating": 2276,
@@ -77790,7 +77804,8 @@
     "name": "NJOBVU, Ignatius",
     "year": "1993-2014",
     "games": 115,
-    "id": "88606"
+    "id": "88606",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -79942,7 +79957,8 @@
     "name": "KULKARNI, Rakesh",
     "year": "2010-2019",
     "games": 128,
-    "id": "131328"
+    "id": "131328",
+    "synced": true
   },
   {
     "higestRating": 2423,
@@ -83135,7 +83151,8 @@
     "name": "MITRABHA, Guha",
     "year": "2017-2023",
     "games": 154,
-    "id": "158831"
+    "id": "158831",
+    "synced": true
   },
   {
     "higestRating": 2331,
@@ -96400,7 +96417,8 @@
     "name": "STONE, Ray",
     "year": "1973-1999",
     "games": 431,
-    "id": "19715"
+    "id": "19715",
+    "synced": true
   },
   {
     "higestRating": 2545,
