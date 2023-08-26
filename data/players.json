@@ -7497,7 +7497,8 @@
     "name": "BENHADI, Aziz Madani",
     "year": "1982-1986",
     "games": 11,
-    "id": "129816"
+    "id": "129816",
+    "synced": true
   },
   {
     "higestRating": 2208,
@@ -20436,7 +20437,8 @@
     "name": "KULESZA, Mateusz",
     "year": "1998-2006",
     "games": 20,
-    "id": "51885"
+    "id": "51885",
+    "synced": true
   },
   {
     "higestRating": 2267,
@@ -26274,7 +26276,8 @@
     "name": "GAMA, Eduardo Arruda da",
     "year": "1985-2014",
     "games": 23,
-    "id": "87212"
+    "id": "87212",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -36391,7 +36394,8 @@
     "name": "LOBIGAS, Julian",
     "year": "1968-1972",
     "games": 30,
-    "id": "88138"
+    "id": "88138",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -36517,7 +36521,8 @@
     "name": "BEX, Pierre-Alain",
     "year": "1986-2015",
     "games": 30,
-    "id": "99415"
+    "id": "99415",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -50384,7 +50389,8 @@
     "name": "MIRONENKO, Galina",
     "year": "2016-2021",
     "games": 44,
-    "id": "156190"
+    "id": "156190",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -65405,7 +65411,8 @@
     "name": "MUSALOV, Ruslan",
     "year": "1998-2021",
     "games": 72,
-    "id": "52140"
+    "id": "52140",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -72469,14 +72476,16 @@
     "name": "NOVIKOVA, Anna",
     "year": "1997-2019",
     "games": 93,
-    "id": "50307"
+    "id": "50307",
+    "synced": true
   },
   {
     "higestRating": 2408,
     "name": "ZAKARIAN, David",
     "year": "1994-2019",
     "games": 93,
-    "id": "51362"
+    "id": "51362",
+    "synced": true
   },
   {
     "higestRating": 2299,
@@ -78346,7 +78355,8 @@
     "name": "HAGEN, Andreas Skytte",
     "year": "2001-2023",
     "games": 118,
-    "id": "111560"
+    "id": "111560",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -91242,7 +91252,8 @@
     "name": "VIDENOVA, Iva",
     "year": "2006-2018",
     "games": 261,
-    "id": "106320"
+    "id": "106320",
+    "synced": true
   },
   {
     "higestRating": 2604,
@@ -93380,7 +93391,8 @@
     "name": "EPERJESI, Laszlo",
     "year": "1967-2013",
     "games": 314,
-    "id": "14748"
+    "id": "14748",
+    "synced": true
   },
   {
     "higestRating": 2480,
