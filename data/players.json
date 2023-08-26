@@ -11364,7 +11364,8 @@
     "name": "MAKHNEV, Denis",
     "year": "2012-2023",
     "games": 316,
-    "id": "143182"
+    "id": "143182",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -11385,7 +11386,8 @@
     "name": "TAZBIR, Marcin",
     "year": "1998-2022",
     "games": 315,
-    "id": "54472"
+    "id": "54472",
+    "synced": true
   },
   {
     "higestRating": 2543,
@@ -23714,7 +23716,8 @@
     "name": "FERNANDEZ, Maria Florencia",
     "year": "2009-2023",
     "games": 138,
-    "id": "127803"
+    "id": "127803",
+    "synced": true
   },
   {
     "higestRating": 2252,
@@ -31009,7 +31012,8 @@
     "name": "RUCKSCHLOSS, Karol",
     "year": "1978-2011",
     "games": 98,
-    "id": "24576"
+    "id": "24576",
+    "synced": true
   },
   {
     "higestRating": 2387,
@@ -43174,7 +43178,8 @@
     "name": "SCHNEGG, Anna-Lena",
     "year": "2012-2022",
     "games": 64,
-    "id": "140401"
+    "id": "140401",
+    "synced": true
   },
   {
     "higestRating": 2383,
@@ -57533,7 +57538,8 @@
     "name": "UZHVA, Andrey",
     "year": "2007-2018",
     "games": 41,
-    "id": "121882"
+    "id": "121882",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -57877,7 +57883,8 @@
     "name": "MAESER, Fabian",
     "year": "1985-2017",
     "games": 40,
-    "id": "19764"
+    "id": "19764",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -69699,7 +69706,8 @@
     "name": "CUNNINGHAM, Walter",
     "year": "1960-1999",
     "games": 29,
-    "id": "84568"
+    "id": "84568",
+    "synced": true
   },
   {
     "higestRating": 2307,
@@ -87700,7 +87708,8 @@
     "name": "KREINDL, Helmut",
     "year": "1997-2017",
     "games": 18,
-    "id": "81429"
+    "id": "81429",
+    "synced": true
   },
   {
     "higestRating": 2224,
