@@ -1463,7 +1463,8 @@
     "name": "DUBOV, Daniil",
     "year": "2006-2023",
     "games": 1448,
-    "id": "113399"
+    "id": "113399",
+    "synced": true
   },
   {
     "higestRating": 2658,
@@ -101383,7 +101384,8 @@
     "name": "GALARZA, Polo",
     "year": "1974",
     "games": 1,
-    "id": "38935"
+    "id": "38935",
+    "synced": true
   },
   {
     "higestRating": 2240,
