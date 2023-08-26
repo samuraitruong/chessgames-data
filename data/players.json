@@ -7677,7 +7677,8 @@
     "name": "AVNER, Uri",
     "year": "1964-1966",
     "games": 12,
-    "id": "48200"
+    "id": "48200",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -11859,7 +11860,8 @@
     "name": "WAGENMAKERS, Eric-Jan",
     "year": "1992-1996",
     "games": 16,
-    "id": "63674"
+    "id": "63674",
+    "synced": true
   },
   {
     "higestRating": 2281,
@@ -25625,7 +25627,8 @@
     "name": "SANDEN, Stefan",
     "year": "1990-2002",
     "games": 23,
-    "id": "18189"
+    "id": "18189",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -31929,7 +31932,8 @@
     "name": "POLOCH, Petr",
     "year": "1974-2009",
     "games": 27,
-    "id": "24601"
+    "id": "24601",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -34779,7 +34783,8 @@
     "name": "PRATHIBA, Yuvarajan",
     "year": "1998-2007",
     "games": 29,
-    "id": "49552"
+    "id": "49552",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -43089,7 +43094,8 @@
     "name": "IVANOV, Timur",
     "year": "1992-2019",
     "games": 36,
-    "id": "94493"
+    "id": "94493",
+    "synced": true
   },
   {
     "higestRating": 2448,
@@ -44687,7 +44693,8 @@
     "name": "HARESTAD, Hans Krogh",
     "year": "1991-2012",
     "games": 38,
-    "id": "49510"
+    "id": "49510",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -59025,7 +59032,8 @@
     "name": "KOJOVIC, Dragan",
     "year": "1990-2023",
     "games": 58,
-    "id": "121258"
+    "id": "121258",
+    "synced": true
   },
   {
     "higestRating": 2262,
@@ -66821,7 +66829,8 @@
     "name": "FAYARD, Alain",
     "year": "1983-2014",
     "games": 76,
-    "id": "34846"
+    "id": "34846",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -75112,7 +75121,8 @@
     "name": "BRUSTKERN, Juergen",
     "year": "1984-2015",
     "games": 104,
-    "id": "53690"
+    "id": "53690",
+    "synced": true
   },
   {
     "higestRating": 2508,
@@ -78131,7 +78141,8 @@
     "name": "VEGH, Endre",
     "year": "1982-2021",
     "games": 118,
-    "id": "17629"
+    "id": "17629",
+    "synced": true
   },
   {
     "higestRating": 2268,
@@ -92299,7 +92310,8 @@
     "name": "ZISKA, Helgi Dam",
     "year": "2005-2022",
     "games": 288,
-    "id": "98761"
+    "id": "98761",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -94287,7 +94299,8 @@
     "name": "KOCH, Jean-Rene",
     "year": "1986-2018",
     "games": 347,
-    "id": "74776"
+    "id": "74776",
+    "synced": true
   },
   {
     "higestRating": 2652,

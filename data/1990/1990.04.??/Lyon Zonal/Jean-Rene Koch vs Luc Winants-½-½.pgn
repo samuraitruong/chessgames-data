@@ -1,0 +1,15 @@
+[Event "Lyon Zonal"]
+[Site "Lyon FRA"]
+[Date "1990.??.??"]
+[EventDate "1990.04.??"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Jean-Rene Koch"]
+[Black "Luc Winants"]
+[ECO "C65"]
+[WhiteElo "2425"]
+[BlackElo "2455"]
+[Source "Olimpbase"]
+[PlyCount "36"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Bc5 5.Nxe5 Nxe5 6.d4 c6 7.dxe5 Nxe4 8. Bd3 d5 9.exd6 Nf6 10.Nc3 Bxd6 11.Bg5 Be6 12.Qe2 Be7 13.Rfe1 O-O 14.Bc4 Bxc4 15.Qxc4 Re8 16.Re5 Nd7 17.Rxe7 Rxe7 18.Bxe7 1/2-1/2
