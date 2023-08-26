@@ -6373,7 +6373,8 @@
     "name": "DONCHENKO, Oleg",
     "year": "1967-1987",
     "games": 9,
-    "id": "41311"
+    "id": "41311",
+    "synced": true
   },
   {
     "higestRating": 2222,
@@ -6464,7 +6465,8 @@
     "name": "WOLFRAM, Bernd",
     "year": "1998-2014",
     "games": 9,
-    "id": "68469"
+    "id": "68469",
+    "synced": true
   },
   {
     "higestRating": 2331,
@@ -8103,7 +8105,8 @@
     "name": "SCHILLER, Wilfried",
     "year": "1973-1998",
     "games": 13,
-    "id": "34171"
+    "id": "34171",
+    "synced": true
   },
   {
     "higestRating": 2218,
@@ -18126,7 +18129,8 @@
     "name": "SICK, Oliver",
     "year": "1987-1999",
     "games": 19,
-    "id": "24629"
+    "id": "24629",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -18448,7 +18452,8 @@
     "name": "JIMENEZ, Francisco Jose Ruiz",
     "year": "2000-2007",
     "games": 19,
-    "id": "52605"
+    "id": "52605",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -19330,7 +19335,8 @@
     "name": "KOWALCZYK, Pawel",
     "year": "2004-2021",
     "games": 19,
-    "id": "118198"
+    "id": "118198",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -23910,7 +23916,8 @@
     "name": "KAVYEV, Ruslan",
     "year": "2019-2021",
     "games": 21,
-    "id": "162924"
+    "id": "162924",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -29778,7 +29785,8 @@
     "name": "VOVINKINA, Natalia",
     "year": "2004-2008",
     "games": 25,
-    "id": "106296"
+    "id": "106296",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -35685,7 +35693,8 @@
     "name": "FOMICHENKO, Svetlana",
     "year": "1994-2012",
     "games": 29,
-    "id": "141428"
+    "id": "141428",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -39428,7 +39437,8 @@
     "name": "GRABINSKY, Joshua",
     "year": "2019-2021",
     "games": 32,
-    "id": "162639"
+    "id": "162639",
+    "synced": true
   },
   {
     "higestRating": 2273,
@@ -39778,7 +39788,8 @@
     "name": "DIVLJAN, Igor",
     "year": "2001-2011",
     "games": 33,
-    "id": "53757"
+    "id": "53757",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -40800,7 +40811,8 @@
     "name": "ERIKSSON, Jon",
     "year": "1998-2016",
     "games": 34,
-    "id": "51761"
+    "id": "51761",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -50209,7 +50221,8 @@
     "name": "WEICHHOLD, Pawel",
     "year": "2010-2017",
     "games": 44,
-    "id": "128400"
+    "id": "128400",
+    "synced": true
   },
   {
     "higestRating": 2543,
@@ -54888,7 +54901,8 @@
     "name": "BABAR, Michael",
     "year": "1991-2017",
     "games": 51,
-    "id": "56198"
+    "id": "56198",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -57809,7 +57823,8 @@
     "name": "FILEV, Georgi",
     "year": "2001-2015",
     "games": 56,
-    "id": "55914"
+    "id": "55914",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -71430,7 +71445,8 @@
     "name": "MANNHART, Marcel",
     "year": "1993-2022",
     "games": 89,
-    "id": "79617"
+    "id": "79617",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -72593,7 +72609,8 @@
     "name": "STANKOVIC, Milos",
     "year": "2003-2023",
     "games": 93,
-    "id": "127734"
+    "id": "127734",
+    "synced": true
   },
   {
     "higestRating": 2402,
@@ -76860,7 +76877,8 @@
     "name": "BARRETO, Sebastian Granara",
     "year": "1994-2018",
     "games": 111,
-    "id": "98658"
+    "id": "98658",
+    "synced": true
   },
   {
     "higestRating": 2454,
@@ -87916,7 +87934,8 @@
     "name": "DIESEN, Mark",
     "year": "1971-2002",
     "games": 208,
-    "id": "16213"
+    "id": "16213",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -91153,7 +91172,8 @@
     "name": "PETERS, Jack",
     "year": "1968-2015",
     "games": 261,
-    "id": "28794"
+    "id": "28794",
+    "synced": true
   },
   {
     "higestRating": 2507,

@@ -1,0 +1,14 @@
+[Event "80th US Open"]
+[Site "Chicago, IL USA"]
+[Date "1979.07.29"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Mark Diesen"]
+[Black "Daniel Brownstein"]
+[ECO "A18"]
+[WhiteElo "2487"]
+[BlackElo "1639"]
+[PlyCount "43"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 Bb4 4.e5 Bxc3 5.bxc3 Ng8 6.Qg4 Kf8 7.Ba3+ Ne7 8.d4 Nbc6 9.Qf4 Kg8 10.h4 Ng6 11.Qg3 h5 12.Bd3 Nce7 13.Qg5 Qe8 14.Ne2 Nf5 15.Ng3 Nxg3 16.fxg3 Rh6 17.O-O b6 18.Rf6 gxf6 19.Qxh6 fxe5 20.Bxg6 fxg6 21.Rf1 d6 22.Rf6 1-0
