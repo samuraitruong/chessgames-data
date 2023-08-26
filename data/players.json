@@ -2437,7 +2437,8 @@
     "name": "MACIEJA, Bartlomiej",
     "year": "1990-2019",
     "games": 1119,
-    "id": "19878"
+    "id": "19878",
+    "synced": true
   },
   {
     "higestRating": 2664,
@@ -10278,7 +10279,8 @@
     "name": "STUDER, Noel",
     "year": "2009-2021",
     "games": 353,
-    "id": "134838"
+    "id": "134838",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -30520,7 +30522,8 @@
     "name": "IZSAK, Gyula",
     "year": "1991-2017",
     "games": 100,
-    "id": "67211"
+    "id": "67211",
+    "synced": true
   },
   {
     "higestRating": 2342,
@@ -59105,7 +59108,8 @@
     "name": "VAN UNEN, Hans",
     "year": "1999-2019",
     "games": 39,
-    "id": "90928"
+    "id": "90928",
+    "synced": true
   },
   {
     "higestRating": 2229,
@@ -70737,7 +70741,8 @@
     "name": "MARTIN, Enrique Biedma",
     "year": "1995-2006",
     "games": 28,
-    "id": "53624"
+    "id": "53624",
+    "synced": true
   },
   {
     "higestRating": 2238,
@@ -75371,7 +75376,8 @@
     "name": "FROLOCHKIN, Vladimir",
     "year": "2003-2010",
     "games": 25,
-    "id": "81674"
+    "id": "81674",
+    "synced": true
   },
   {
     "higestRating": 2209,
@@ -85287,7 +85293,8 @@
     "name": "HOENIG, Alexander",
     "year": "1986-2022",
     "games": 19,
-    "id": "52621"
+    "id": "52621",
+    "synced": true
   },
   {
     "higestRating": 2213,
