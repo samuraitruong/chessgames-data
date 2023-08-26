@@ -1,0 +1,14 @@
+[Event "Chinese Chess League"]
+[Site "CHN"]
+[Date "2016.10.30"]
+[EventDate "2016.04.12"]
+[Round "16.1"]
+[Result "1-0"]
+[White "Zeng Chongsheng"]
+[Black "Kaifeng Yu"]
+[ECO "D53"]
+[WhiteElo "2549"]
+[BlackElo "2220"]
+[PlyCount "45"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. Qc2 h6 7. Bxf6 Bxf6 8. O-O-O c6 9. e4 Nd7 10. h4 g6 11. e5 Be7 12. cxd5 cxd5 13. Kb1 a6 14. Bd3 Kg7 15. Ne2 Re8 16. Nf4 Nf8 17. Rh3 Bd7 18. Nh5+ Kh7 19. Ng5+ Kg8 20. Nxf7 Kxf7 21. Bxg6+ Kg8 22. Rg3 Kh8 23. Bf7 1-0

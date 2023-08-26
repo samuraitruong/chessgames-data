@@ -6712,7 +6712,8 @@
     "name": "TIA, Rudy",
     "year": "1992-2006",
     "games": 10,
-    "id": "14459"
+    "id": "14459",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -23141,7 +23142,8 @@
     "name": "STREET, Frank",
     "year": "1962-1977",
     "games": 21,
-    "id": "91915"
+    "id": "91915",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -23841,7 +23843,8 @@
     "name": "YU, Kaifeng",
     "year": "2016-2018",
     "games": 21,
-    "id": "155014"
+    "id": "155014",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -38956,7 +38959,8 @@
     "name": "STEFLITSCH, Erich",
     "year": "1986-2005",
     "games": 32,
-    "id": "91286"
+    "id": "91286",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -47292,7 +47296,8 @@
     "name": "CHORFI, Khaled",
     "year": "1984-2005",
     "games": 41,
-    "id": "52088"
+    "id": "52088",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -52570,7 +52575,8 @@
     "name": "DRONOV, Aleksandr",
     "year": "2007-2015",
     "games": 47,
-    "id": "126968"
+    "id": "126968",
+    "synced": true
   },
   {
     "higestRating": 2204,
@@ -54272,7 +54278,8 @@
     "name": "AKSELROD, Vladislav",
     "year": "1997-2012",
     "games": 50,
-    "id": "49065"
+    "id": "49065",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -54735,7 +54742,8 @@
     "name": "YAN, Tianqi",
     "year": "2018-2023",
     "games": 50,
-    "id": "162714"
+    "id": "162714",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -65145,7 +65153,8 @@
     "name": "RUIZ, Javier Moreno",
     "year": "1992-2022",
     "games": 71,
-    "id": "122301"
+    "id": "122301",
+    "synced": true
   },
   {
     "higestRating": 2293,
@@ -68468,7 +68477,8 @@
     "name": "TEERAPABPAISIT, Wisuwat",
     "year": "1995-2018",
     "games": 80,
-    "id": "103370"
+    "id": "103370",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -69182,7 +69192,8 @@
     "name": "WEGENER, Olaf",
     "year": "1998-2017",
     "games": 82,
-    "id": "56328"
+    "id": "56328",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -76467,7 +76478,8 @@
     "name": "ARENAS, David",
     "year": "2006-2022",
     "games": 109,
-    "id": "118551"
+    "id": "118551",
+    "synced": true
   },
   {
     "higestRating": 2303,
@@ -83077,7 +83089,8 @@
     "name": "KLENBURG, Mikhail",
     "year": "1996-2023",
     "games": 154,
-    "id": "51143"
+    "id": "51143",
+    "synced": true
   },
   {
     "higestRating": 2462,
@@ -87487,7 +87500,8 @@
     "name": "JANJGHAVA, Lasha",
     "year": "1985-2006",
     "games": 202,
-    "id": "17067"
+    "id": "17067",
+    "synced": true
   },
   {
     "higestRating": 2423,
@@ -88490,7 +88504,8 @@
     "name": "STYAZHKINA, Anna",
     "year": "2009-2019",
     "games": 213,
-    "id": "121621"
+    "id": "121621",
+    "synced": true
   },
   {
     "higestRating": 2366,
