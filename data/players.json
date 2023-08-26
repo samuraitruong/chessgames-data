@@ -1744,7 +1744,8 @@
     "name": "THORHALLSSON, Throstur",
     "year": "1984-2023",
     "games": 1307,
-    "id": "11020"
+    "id": "11020",
+    "synced": true
   },
   {
     "higestRating": 2600,
@@ -24039,7 +24040,8 @@
     "name": "BREIER, Andreas",
     "year": "1993-2023",
     "games": 135,
-    "id": "66607"
+    "id": "66607",
+    "synced": true
   },
   {
     "higestRating": 2507,
@@ -26082,7 +26084,8 @@
     "name": "MAH, Karl C C",
     "year": "1993-2013",
     "games": 121,
-    "id": "128632"
+    "id": "128632",
+    "synced": true
   },
   {
     "higestRating": 2221,
@@ -29848,7 +29851,8 @@
     "name": "BOROCZ, Istvan",
     "year": "1987-2022",
     "games": 103,
-    "id": "60586"
+    "id": "60586",
+    "synced": true
   },
   {
     "higestRating": 2504,
@@ -31076,7 +31080,8 @@
     "name": "LEHTINEN, Heikki",
     "year": "1995-2013",
     "games": 98,
-    "id": "51773"
+    "id": "51773",
+    "synced": true
   },
   {
     "higestRating": 2347,
@@ -50670,7 +50675,8 @@
     "name": "KRYKUN, Yuriy",
     "year": "2015-2019",
     "games": 50,
-    "id": "155644"
+    "id": "155644",
+    "synced": true
   },
   {
     "higestRating": 2303,
@@ -53672,7 +53678,8 @@
     "name": "YOUNGWORTH, Perry",
     "year": "1976-1984",
     "games": 45,
-    "id": "22641"
+    "id": "22641",
+    "synced": true
   },
   {
     "higestRating": 2419,
@@ -57616,7 +57623,8 @@
     "name": "ABDALLA, Luiz Guilherme Aurelli",
     "year": "2010-2014",
     "games": 41,
-    "id": "131907"
+    "id": "131907",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -57700,7 +57708,8 @@
     "name": "MAMYRBAY, Assad",
     "year": "2013-2017",
     "games": 41,
-    "id": "147781"
+    "id": "147781",
+    "synced": true
   },
   {
     "higestRating": 2358,
@@ -58942,7 +58951,8 @@
     "name": "OLSAR, Jaroslav",
     "year": "1994-2014",
     "games": 39,
-    "id": "51859"
+    "id": "51859",
+    "synced": true
   },
   {
     "higestRating": 2362,
@@ -71596,7 +71606,8 @@
     "name": "MANUKYAN, Sargis A",
     "year": "2011-2021",
     "games": 28,
-    "id": "149274"
+    "id": "149274",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -74205,7 +74216,8 @@
     "name": "BORISOVA, Elizaveta",
     "year": "1998-2009",
     "games": 26,
-    "id": "121206"
+    "id": "121206",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -74681,7 +74693,8 @@
     "name": "GRDINIC, Zvonimir",
     "year": "1969-1999",
     "games": 25,
-    "id": "28013"
+    "id": "28013",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -81316,7 +81329,8 @@
     "name": "OLSEN, Peter Erik",
     "year": "1990-2012",
     "games": 21,
-    "id": "51803"
+    "id": "51803",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -83249,7 +83263,8 @@
     "name": "RAZMYSLOV, Alexander",
     "year": "1991-2010",
     "games": 20,
-    "id": "53736"
+    "id": "53736",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -94705,7 +94720,8 @@
     "name": "GACSO, Tibor",
     "year": "1992-1999",
     "games": 15,
-    "id": "70697"
+    "id": "70697",
+    "synced": true
   },
   {
     "higestRating": 2224,
@@ -98510,7 +98526,8 @@
     "name": "OYUNBAATAR, Tumendemberel",
     "year": "2008-2009",
     "games": 9,
-    "id": "119180"
+    "id": "119180",
+    "synced": true
   },
   {
     "higestRating": 2500,
