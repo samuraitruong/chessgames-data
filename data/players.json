@@ -7149,7 +7149,8 @@
     "name": "NEUMEIER, Klaus",
     "year": "1988-2015",
     "games": 93,
-    "id": "17252"
+    "id": "17252",
+    "synced": true
   },
   {
     "higestRating": 2523,
@@ -30746,7 +30747,8 @@
     "name": "GARAGULYA, Konstantin",
     "year": "1987-2001",
     "games": 18,
-    "id": "49066"
+    "id": "49066",
+    "synced": true
   },
   {
     "higestRating": 2414,
@@ -49730,7 +49732,8 @@
     "name": "SCHMIDT, Georg",
     "year": "1987-2004",
     "games": 15,
-    "id": "65639"
+    "id": "65639",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -50353,7 +50356,8 @@
     "name": "KUZUBOV, Yuriy",
     "year": "2001-2023",
     "games": 855,
-    "id": "66770"
+    "id": "66770",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -94789,7 +94793,8 @@
     "name": "DAVID, Alexandru-Vasile",
     "year": "2013-2023",
     "games": 36,
-    "id": "153895"
+    "id": "153895",
+    "synced": true
   },
   {
     "higestRating": 2528,
