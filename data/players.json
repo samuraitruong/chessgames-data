@@ -35748,7 +35748,8 @@
     "name": "GEDAJLOVIC, Max",
     "year": "2015-2022",
     "games": 29,
-    "id": "155916"
+    "id": "155916",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -44613,7 +44614,8 @@
     "name": "SOFRIGIN, Alexej",
     "year": "1990-2022",
     "games": 38,
-    "id": "38657"
+    "id": "38657",
+    "synced": true
   },
   {
     "higestRating": 2239,
@@ -59851,7 +59853,8 @@
     "name": "MACHALOVA, Veronika",
     "year": "1997-2020",
     "games": 60,
-    "id": "51598"
+    "id": "51598",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -99011,7 +99014,8 @@
     "name": "PETENYI, Tamas",
     "year": "2002-2022",
     "games": 621,
-    "id": "118199"
+    "id": "118199",
+    "synced": true
   },
   {
     "higestRating": 2480,
@@ -100390,7 +100394,8 @@
     "name": "MARTIROSYAN, Haik M",
     "year": "2012-2023",
     "games": 770,
-    "id": "149265"
+    "id": "149265",
+    "synced": true
   },
   {
     "higestRating": 2511,
