@@ -26911,7 +26911,8 @@
     "name": "FABIANO, Giuseppe",
     "year": "1982-1999",
     "games": 53,
-    "id": "43606"
+    "id": "43606",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -31252,7 +31253,8 @@
     "name": "MACEK, Vlasta",
     "year": "1969-2007",
     "games": 109,
-    "id": "49186"
+    "id": "49186",
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -34444,7 +34446,8 @@
     "name": "YUDIN, Sergei",
     "year": "2001-2022",
     "games": 360,
-    "id": "50304"
+    "id": "50304",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -36026,7 +36029,8 @@
     "name": "BAR, Roman",
     "year": "1997-2020",
     "games": 71,
-    "id": "51140"
+    "id": "51140",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -91930,7 +91934,8 @@
     "name": "INJAC, Teodora",
     "year": "2013-2023",
     "games": 459,
-    "id": "147263"
+    "id": "147263",
+    "synced": true
   },
   {
     "higestRating": 2381,
