@@ -4338,7 +4338,8 @@
     "name": "MOTYLIOV, Anatoly",
     "year": "1997",
     "games": 3,
-    "id": "138470"
+    "id": "138470",
+    "synced": true
   },
   {
     "higestRating": 2201,
@@ -5801,7 +5802,8 @@
     "name": "FONSECA, Jose Luis",
     "year": "1986-2010",
     "games": 7,
-    "id": "105001"
+    "id": "105001",
+    "synced": true
   },
   {
     "higestRating": 2354,
@@ -22531,7 +22533,8 @@
     "name": "ORSO, Janos",
     "year": "1983-2002",
     "games": 21,
-    "id": "49815"
+    "id": "49815",
+    "synced": true
   },
   {
     "higestRating": 2269,
@@ -24912,7 +24915,8 @@
     "name": "GUENTHNER, Oliver",
     "year": "1986-2012",
     "games": 22,
-    "id": "107281"
+    "id": "107281",
+    "synced": true
   },
   {
     "higestRating": 2214,
@@ -33277,7 +33281,8 @@
     "name": "PEYRAT, Olivier",
     "year": "1991-2008",
     "games": 28,
-    "id": "27720"
+    "id": "27720",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -57716,7 +57721,8 @@
     "name": "COMPAGNIE, Luc G",
     "year": "1987-2004",
     "games": 56,
-    "id": "48668"
+    "id": "48668",
+    "synced": true
   },
   {
     "higestRating": 2388,
@@ -62676,7 +62682,8 @@
     "name": "VASIESIU, Dan",
     "year": "1994-2022",
     "games": 66,
-    "id": "56497"
+    "id": "56497",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -75388,7 +75395,8 @@
     "name": "WIPPERMANN, Till",
     "year": "1997-2009",
     "games": 105,
-    "id": "58182"
+    "id": "58182",
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -90252,7 +90260,8 @@
     "name": "KALOD, Radek",
     "year": "1993-2013",
     "games": 245,
-    "id": "49662"
+    "id": "49662",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -92212,7 +92221,8 @@
     "name": "JAKUBIEC, Artur",
     "year": "1991-2019",
     "games": 286,
-    "id": "18198"
+    "id": "18198",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -95667,7 +95677,8 @@
     "name": "JASNIKOWSKI, Zbigniew",
     "year": "1976-2005",
     "games": 400,
-    "id": "18133"
+    "id": "18133",
+    "synced": true
   },
   {
     "higestRating": 2390,
