@@ -8069,7 +8069,8 @@
     "name": "BOJKOVIC, Natasa",
     "year": "1986-2014",
     "games": 451,
-    "id": "24798"
+    "id": "24798",
+    "synced": true
   },
   {
     "higestRating": 2540,
@@ -11442,7 +11443,8 @@
     "name": "STANISZEWSKI, Piotr",
     "year": "1981-2011",
     "games": 313,
-    "id": "49857"
+    "id": "49857",
+    "synced": true
   },
   {
     "higestRating": 2451,
@@ -16418,7 +16420,8 @@
     "name": "CROAD, Nicholas",
     "year": "1998-2023",
     "games": 213,
-    "id": "101818"
+    "id": "101818",
+    "synced": true
   },
   {
     "higestRating": 2461,
@@ -72768,7 +72771,8 @@
     "name": "SANGUINETTI, Luis",
     "year": "2009-2012",
     "games": 27,
-    "id": "124390"
+    "id": "124390",
+    "synced": true
   },
   {
     "higestRating": 2230,
