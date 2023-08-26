@@ -1,0 +1,15 @@
+[Event "Istanbul Olympiad"]
+[Site "Istanbul TUR"]
+[Date "2000.10.28"]
+[EventDate "2000.10.28"]
+[Round "1"]
+[Result "0-1"]
+[White "Yousef Abdulghafour"]
+[Black "Janis Klovans"]
+[ECO "D35"]
+[WhiteElo "2158"]
+[BlackElo "2466"]
+[Source "Olimpbase"]
+[PlyCount "40"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 Be7 6.Qc2 O-O 7.e3 Nbd7 8.Nf3 Re8 9.Bd3 Nf8 10.O-O c6 11.Rab1 Ng6 12.b4 Ne4 13.Bxe7 Qxe7 14.b5 Bg4 15. Nd2 Nxd2 16.Qxd2 Nh4 17.Kh1 Nf3 18.Qd1 Nxh2 19.Be2 Qh4 20.Kg1 Bxe2 0-1
