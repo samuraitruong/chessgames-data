@@ -1,0 +1,14 @@
+[Event "CP-1999-Q-00003"]
+[Site "IECG correspondence"]
+[Date "2000.01.10"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Josef Mrkvicka"]
+[Black "Paavo Honkakoski"]
+[ECO "C02"]
+[WhiteElo "2352"]
+[BlackElo "1926"]
+[PlyCount "42"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.a3 Nh6 7.b4 cxd4 8.Bxh6 gxh6 9.cxd4 Bd7 10.Nc3 Rc8 11.Na4 Qd8 12.Nc5 Bxc5 13.bxc5 b6 14.Rc1 bxc5 15.Rxc5 Na5 16.Qc2 Rxc5 17.Qxc5 Qb6 18.Qxb6 axb6 19.Bd3 O-O 20.h4 Rc8 21.Ke2 Nb3 1/2-1/2
