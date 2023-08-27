@@ -1,0 +1,14 @@
+[Event "California op"]
+[Site "Los Angeles, CA USA"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "John Ang"]
+[Black "Ari Ziegler"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "2339"]
+[PlyCount "38"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Nb3 c5 6.c3 Nc6 7.Be3 cxd4 8.cxd4 f6 9.f4 fxe5 10.fxe5 Bb4+ 11.Nd2 Qh4+ 12.g3 Qe4 13.Qh5+ g6 14.Qf3 Qc2 15.Bb5 Bxd2+ 16.Bxd2 Qxb2 17.Bxc6 Qxa1+ 18.Ke2 bxc6 19.Nh3 Qxd4 0-1
