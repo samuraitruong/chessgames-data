@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.21"]
+[EventDate "2020.08.21"]
+[Round "3"]
+[Result "0-1"]
+[White "Szymon Gumularz"]
+[Black "Nikolas Theodorou"]
+[ECO "E81"]
+[WhiteElo "2277"]
+[BlackElo "2559"]
+[Source "Chess-Results"]
+[PlyCount "60"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. Nge2 Nc6 8. d5 Ne5 9. Ng3 e6 10. Be2 exd5 11. cxd5 a6 12. a4 Bd7 13. O-O b5 14. Qd2 bxa4 15. h3 Bb5 16. f4 Nc4 17. Bxc4 Bxc4 18. Rf2 Rb8 19. f5 Nd7 20. Bh6 Bd4 21. Bxf8 Qxf8 22. Rxa4 Ne5 23. Kh2 Bxf2 24. Qxf2 Qh6 25. Qe1 Rxb2 26. Kg1 Qxh3 27. Nce2 Qh4 28. Rxc4 Nxc4 29. Qc3 Rb1+ 30. Kf2 Ne5 0-1

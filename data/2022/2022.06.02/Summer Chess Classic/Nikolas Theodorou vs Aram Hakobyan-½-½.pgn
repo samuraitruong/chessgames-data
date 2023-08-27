@@ -1,0 +1,15 @@
+[Event "Summer Chess Classic"]
+[Site "St. Louis MO USA"]
+[Date "2022.06.02"]
+[EventDate "2022.06.02"]
+[Round "1.4"]
+[Result "1/2-1/2"]
+[White "Nikolas Theodorou"]
+[Black "Aram Hakobyan"]
+[ECO "E04"]
+[WhiteElo "2567"]
+[BlackElo "2615"]
+[Source "Lichess"]
+[PlyCount "40"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 Bb4+ 6. Nc3 O-O 7. O-O Nc6 8. a3 Be7 9. e4 a6 10. Be3 b5 11. h4 Rb8 12. e5 Ng4 13. Ng5 Nxe3 14. fxe3 Bxg5 15. hxg5 Qxg5 16. Bxc6 Qxg3+ 17. Kh1 Qh3+ 18. Kg1 Qg3+ 19. Kh1 Qh3+ 20. Kg1 Qg3+ 1/2-1/2

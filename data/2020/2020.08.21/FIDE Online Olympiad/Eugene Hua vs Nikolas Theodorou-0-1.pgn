@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.22"]
+[EventDate "2020.08.21"]
+[Round "5"]
+[Result "0-1"]
+[White "Eugene Hua"]
+[Black "Nikolas Theodorou"]
+[ECO "A15"]
+[WhiteElo "2331"]
+[BlackElo "2559"]
+[Source "Chess-Results"]
+[PlyCount "72"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 O-O 5. e4 d6 6. Nge2 c5 7. O-O Nc6 8. d3 a6 9. h3 Rb8 10. a4 Bd7 11. Be3 Ne8 12. d4 b6 13. Kh2 Nc7 14. Rb1 Na5 15. b3 e5 16. dxe5 dxe5 17. Nd5 Nxd5 18. cxd5 c4 19. b4 Nb3 20. Nc3 f5 21. exf5 gxf5 22. f4 exf4 23. Rxf4 Rc8 24. Qc2 Qe7 25. Bd2 Qxb4 26. Ne4 Qxa4 27. Nd6 Nxd2 28. Qxd2 Rc5 29. Rb4 c3 30. Qe1 Qa3 31. Qe7 c2 32. Qxd7 c1=Q 33. Qe6+ Kh8 34. Rxb6 Qae3 35. Nf7+ Rxf7 36. Rb8+ Bf8 0-1

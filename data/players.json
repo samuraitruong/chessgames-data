@@ -3367,7 +3367,8 @@
     "name": "GUPTA, Abhijeet",
     "year": "1998-2023",
     "games": 930,
-    "id": "84020"
+    "id": "84020",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -10830,7 +10831,8 @@
     "name": "THEODOROU, Nikolas",
     "year": "2012-2023",
     "games": 334,
-    "id": "139868"
+    "id": "139868",
+    "synced": true
   },
   {
     "higestRating": 2588,
@@ -51747,7 +51749,8 @@
     "name": "NEAT, Kenneth P",
     "year": "1975-1981",
     "games": 48,
-    "id": "84183"
+    "id": "84183",
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -58382,7 +58385,8 @@
     "name": "BENNETT, Terence B",
     "year": "1968-1999",
     "games": 40,
-    "id": "96661"
+    "id": "96661",
+    "synced": true
   },
   {
     "higestRating": 2491,
@@ -63844,7 +63848,8 @@
     "name": "SCHUSTER, Ullrich",
     "year": "1989-2002",
     "games": 34,
-    "id": "90602"
+    "id": "90602",
+    "synced": true
   },
   {
     "higestRating": 2268,
