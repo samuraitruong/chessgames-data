@@ -1,0 +1,14 @@
+[Event "Eurodata"]
+[Site "Budapest HUN"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Mihael Ankerst"]
+[Black "Ralf Lau"]
+[ECO "B41"]
+[WhiteElo "2360"]
+[BlackElo "2480"]
+[PlyCount "74"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Qc7 7.Be2 b6 8.Be3 Bb7 9.f3 d6 10.Rc1 Nbd7 11.O-O Be7 12.Qe1 O-O 13.Qg3 Rfe8 14.Rfd1 Rac8 15.Qf2 Qb8 16.Nb3 Bd8 17.g4 h6 18.h4 Nh7 19.Qg3 Ne5 20.g5 hxg5 21.hxg5 Nxc4 22.Bxc4 Rxc4 23.Kf2 Nf8 24.Qxd6 Be7 25.Qd3 Rcc8 26.Ne2 Rxc1 27.Nbxc1 Ng6 28.Qb3 Bd8 29.Nd3 Qh2+ 30.Kf1 Nh4 31.Ne1 Qh1+ 32.Ng1 Bc6 33.a4 b5 34.Qc2 Ba5 35.Qe2 Bxe1 36.Rxe1 bxa4 37.Qxa6 Qg2# 0-1
