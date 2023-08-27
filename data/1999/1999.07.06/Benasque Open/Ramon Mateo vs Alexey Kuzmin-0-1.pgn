@@ -1,0 +1,14 @@
+[Event "Benasque Open"]
+[Site "Benasque ESP"]
+[Date "1999.07.11"]
+[EventDate "1999.07.06"]
+[Round "7"]
+[Result "0-1"]
+[White "Ramon Mateo"]
+[Black "Alexey Kuzmin"]
+[ECO "E84"]
+[WhiteElo "2415"]
+[BlackElo "2571"]
+[PlyCount "42"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 a6 7.Qd2 Nc6 8.Nge2 Rb8 9.g4 b5 10.g5 Nd7 11.h4 Nb6 12.Ng1 Nxc4 13.Bxc4 bxc4 14.Nge2 Nb4 15.Nc1 c5 16.dxc5 dxc5 17.Qh2 Nd3+ 18.Nxd3 Qxd3 19.Qxb8 Qxe3+ 20.Ne2 Qxf3 21.Rh2 c3 0-1
