@@ -1,0 +1,14 @@
+[Event "Open A"]
+[Site "Groningen NED"]
+[Date "2008.12.24"]
+[EventDate "2008.12.21"]
+[Round "4"]
+[Result "0-1"]
+[White "Erik Sparenberg"]
+[Black "Andreas Vinke"]
+[ECO "C01"]
+[WhiteElo "2041"]
+[BlackElo "2207"]
+[PlyCount "40"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nc6 5. Bb5 Bd6 6. c4 dxc4 7. Qe2+ Qe7 8. Bxc6+ bxc6 9. Be3 Ba6 10. Nbd2 Nf6 11. Nxc4 Bb4+ 12. Kf1 O-O 13. Nfe5 Qe6 14. Rc1 Nd5 15. b3 Rfe8 16. Kg1 c5 17. Qg4 Qxg4 18. Nxg4 cxd4 19. Bg5 f6 20. a3 Bc3 0-1

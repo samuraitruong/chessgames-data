@@ -1472,7 +1472,8 @@
     "name": "SEIRAWAN, Yasser",
     "year": "1973-2015",
     "games": 1444,
-    "id": "14075"
+    "id": "14075",
+    "synced": true
   },
   {
     "higestRating": 2641,
@@ -2033,7 +2034,8 @@
     "name": "RAHMAN, Ziaur",
     "year": "1980-2022",
     "games": 1220,
-    "id": "80120"
+    "id": "80120",
+    "synced": true
   },
   {
     "higestRating": 2604,
@@ -16491,7 +16493,8 @@
     "name": "AROSHIDZE, Levan",
     "year": "1996-2022",
     "games": 212,
-    "id": "50109"
+    "id": "50109",
+    "synced": true
   },
   {
     "higestRating": 2258,
@@ -43877,7 +43880,8 @@
     "name": "CHRISTIANSEN, Jens Jorgen",
     "year": "1989-2019",
     "games": 62,
-    "id": "40512"
+    "id": "40512",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -53317,7 +53321,8 @@
     "name": "LOPEZ, Bruci",
     "year": "1995-2009",
     "games": 46,
-    "id": "79786"
+    "id": "79786",
+    "synced": true
   },
   {
     "higestRating": 2293,
@@ -59638,7 +59643,8 @@
     "name": "VAN DOELAND, Julius",
     "year": "1991-2003",
     "games": 38,
-    "id": "26788"
+    "id": "26788",
+    "synced": true
   },
   {
     "higestRating": 2314,
@@ -62108,7 +62114,8 @@
     "name": "DRNOVSEK, Gal",
     "year": "2012-2019",
     "games": 36,
-    "id": "141834"
+    "id": "141834",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -63824,7 +63831,8 @@
     "name": "COLINDRES, Javier Medina",
     "year": "1992-2010",
     "games": 34,
-    "id": "88584"
+    "id": "88584",
+    "synced": true
   },
   {
     "higestRating": 2511,
@@ -71379,7 +71387,8 @@
     "name": "POTPARA, Nikola",
     "year": "2008-2021",
     "games": 28,
-    "id": "117771"
+    "id": "117771",
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -77038,7 +77047,8 @@
     "name": "VINKE, Andreas",
     "year": "1996-2018",
     "games": 24,
-    "id": "86937"
+    "id": "86937",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -93848,7 +93858,8 @@
     "name": "OSIPOV, Sergey",
     "year": "2020",
     "games": 16,
-    "id": "195562"
+    "id": "195562",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -96116,7 +96127,8 @@
     "name": "RULLO, Llatzer Bru",
     "year": "2016-2020",
     "games": 15,
-    "id": "163724"
+    "id": "163724",
+    "synced": true
   },
   {
     "higestRating": 2279,
