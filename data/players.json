@@ -5008,7 +5008,8 @@
     "name": "FUCHS, Reinhart",
     "year": "1951-2005",
     "games": 696,
-    "id": "37374"
+    "id": "37374",
+    "synced": true
   },
   {
     "higestRating": 2610,
@@ -6179,7 +6180,8 @@
     "name": "RAJLICH, Iweta Radziewicz",
     "year": "1993-2021",
     "games": 579,
-    "id": "49490"
+    "id": "49490",
+    "synced": true
   },
   {
     "higestRating": 2527,
@@ -8821,7 +8823,8 @@
     "name": "ROSITO, Jorge",
     "year": "1984-2012",
     "games": 409,
-    "id": "39865"
+    "id": "39865",
+    "synced": true
   },
   {
     "higestRating": 2447,
@@ -14632,7 +14635,8 @@
     "name": "KETT, Thomas",
     "year": "1985-2023",
     "games": 241,
-    "id": "59726"
+    "id": "59726",
+    "synced": true
   },
   {
     "higestRating": 2538,
@@ -65748,7 +65752,8 @@
     "name": "WILHELMI, Christian",
     "year": "1992-2000",
     "games": 32,
-    "id": "46249"
+    "id": "46249",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -66952,7 +66957,8 @@
     "name": "MAKAJ, Marko",
     "year": "2001-2017",
     "games": 31,
-    "id": "49237"
+    "id": "49237",
+    "synced": true
   },
   {
     "higestRating": 2453,
@@ -83933,7 +83939,8 @@
     "name": "ROUDSARI, Hadi Momeni",
     "year": "1973-1997",
     "games": 20,
-    "id": "91726"
+    "id": "91726",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -87386,7 +87393,8 @@
     "name": "ROMANOVICH, Leonid",
     "year": "1995-1997",
     "games": 18,
-    "id": "45318"
+    "id": "45318",
+    "synced": true
   },
   {
     "higestRating": 2215,

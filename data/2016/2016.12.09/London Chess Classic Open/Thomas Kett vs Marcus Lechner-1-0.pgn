@@ -1,0 +1,14 @@
+[Event "London Chess Classic Open"]
+[Site "London ENG"]
+[Date "2016.12.13"]
+[EventDate "2016.12.09"]
+[Round "6.72"]
+[Result "1-0"]
+[White "Thomas Kett"]
+[Black "Marcus Lechner"]
+[ECO "B94"]
+[WhiteElo "2228"]
+[BlackElo "2000"]
+[PlyCount "33"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qc7 8. Bb3 b5 9. Qe2 Nb6 10. O-O-O e6 11. f4 Be7 12. e5 dxe5 13. fxe5 Nfd5 14. Bxe7 Nxc3 15. Qg4 Nxa2+ 16. Bxa2 Kxe7 17. Qxg7 1-0
