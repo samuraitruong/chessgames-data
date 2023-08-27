@@ -1,0 +1,14 @@
+[Event "Dieren"]
+[Site "Dieren NED"]
+[Date "2000.07.27"]
+[EventDate "2000.07.18"]
+[Round "9"]
+[Result "0-1"]
+[White "Boen Tan"]
+[Black "Joost Hoogendoorn"]
+[ECO "B14"]
+[WhiteElo "?"]
+[BlackElo "2358"]
+[PlyCount "46"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. c5 Be7 7. Nf3 O-O 8. b4 b6 9. Bd3 a5 10. Na4 Nbd7 11. Bf4 axb4 12. c6 Nc5 13. c7 Nxd3+ 14. Qxd3 Qe8 15. Nxb6 Ra3 16. Qc2 Ba6 17. c8=Q Bxc8 18. O-O Ba6 19. Rfc1 Ne4 20. Qc7 Bd8 21. Qb8 Qb5 22. Nc8 Qxb8 23. Bxb8 Bf6 0-1
