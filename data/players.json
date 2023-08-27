@@ -426,7 +426,8 @@
     "name": "VAGANIAN, Rafael",
     "year": "1965-2021",
     "games": 2230,
-    "id": "13989"
+    "id": "13989",
+    "synced": true
   },
   {
     "higestRating": 2793,
@@ -8267,7 +8268,8 @@
     "name": "VOIT, Daria",
     "year": "2010-2022",
     "games": 437,
-    "id": "125267"
+    "id": "125267",
+    "synced": true
   },
   {
     "higestRating": 2563,
@@ -13457,7 +13459,8 @@
     "name": "SMITH, Axel",
     "year": "2006-2021",
     "games": 265,
-    "id": "106309"
+    "id": "106309",
+    "synced": true
   },
   {
     "higestRating": 2617,
@@ -22519,7 +22522,8 @@
     "name": "KUBICKA, Anna",
     "year": "2017-2023",
     "games": 149,
-    "id": "157768"
+    "id": "157768",
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -26846,7 +26850,8 @@
     "name": "ETCHEGARAY, Patrice",
     "year": "1989-2016",
     "games": 116,
-    "id": "22004"
+    "id": "22004",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -28767,7 +28772,8 @@
     "name": "BRYANT, John Daniel",
     "year": "2007-2023",
     "games": 108,
-    "id": "111017"
+    "id": "111017",
+    "synced": true
   },
   {
     "higestRating": 2378,
@@ -34238,7 +34244,8 @@
     "name": "VODEP, Otto",
     "year": "1961-2001",
     "games": 86,
-    "id": "17124"
+    "id": "17124",
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -35214,7 +35221,8 @@
     "name": "ROSEN, Willy",
     "year": "1951-2015",
     "games": 83,
-    "id": "28061"
+    "id": "28061",
+    "synced": true
   },
   {
     "higestRating": 2411,
@@ -43061,7 +43069,8 @@
     "name": "KIKA, Dorota",
     "year": "1999-2015",
     "games": 64,
-    "id": "54497"
+    "id": "54497",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -46118,7 +46127,8 @@
     "name": "WANYAMA, Harold",
     "year": "2010-2022",
     "games": 58,
-    "id": "127274"
+    "id": "127274",
+    "synced": true
   },
   {
     "higestRating": 2203,
@@ -48358,7 +48368,8 @@
     "name": "KONOVALOV, Nikolay",
     "year": "2005-2017",
     "games": 54,
-    "id": "107123"
+    "id": "107123",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -50020,7 +50031,8 @@
     "name": "ORTIZ, Edgardo J Almedina",
     "year": "2010-2018",
     "games": 51,
-    "id": "127604"
+    "id": "127604",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -52354,7 +52366,8 @@
     "name": "NORBY, Peter H",
     "year": "1964-1999",
     "games": 47,
-    "id": "28941"
+    "id": "28941",
+    "synced": true
   },
   {
     "higestRating": 2429,
@@ -63043,7 +63056,8 @@
     "name": "OSTOVIC, Matija",
     "year": "2007-2022",
     "games": 35,
-    "id": "117702"
+    "id": "117702",
+    "synced": true
   },
   {
     "higestRating": 2317,
@@ -67515,7 +67529,8 @@
     "name": "KLAASEN, Calvin Jong",
     "year": "2006-2019",
     "games": 31,
-    "id": "106314"
+    "id": "106314",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -73375,7 +73390,8 @@
     "name": "SOGAARD, Soren",
     "year": "1985-2019",
     "games": 26,
-    "id": "31008"
+    "id": "31008",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -81122,7 +81138,8 @@
     "name": "ZIMMERMANN, Frank",
     "year": "1977-1996",
     "games": 21,
-    "id": "27020"
+    "id": "27020",
+    "synced": true
   },
   {
     "higestRating": 2248,
@@ -82544,7 +82561,8 @@
     "name": "VRANA, Jan",
     "year": "2009-2020",
     "games": 21,
-    "id": "139494"
+    "id": "139494",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -86314,7 +86332,8 @@
     "name": "SEVILLANO, Voltaire",
     "year": "2007",
     "games": 19,
-    "id": "113133"
+    "id": "113133",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -92591,7 +92610,8 @@
     "name": "BRUECKNER, Joachim",
     "year": "1991-2003",
     "games": 16,
-    "id": "90292"
+    "id": "90292",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -93439,7 +93459,8 @@
     "name": "STUDEN, Damir",
     "year": "2009-2017",
     "games": 16,
-    "id": "131471"
+    "id": "131471",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -94512,7 +94533,8 @@
     "name": "STAVNJAK, Lazar",
     "year": "2001-2016",
     "games": 15,
-    "id": "54587"
+    "id": "54587",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -96094,7 +96116,8 @@
     "name": "ARONSSON, Marten",
     "year": "2016-2018",
     "games": 15,
-    "id": "154519"
+    "id": "154519",
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -97745,7 +97768,8 @@
     "name": "POGHOSYAN, Tigran",
     "year": "1992-2017",
     "games": 11,
-    "id": "88001"
+    "id": "88001",
+    "synced": true
   },
   {
     "higestRating": 2445,
