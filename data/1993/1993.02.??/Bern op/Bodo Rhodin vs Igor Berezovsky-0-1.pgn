@@ -1,0 +1,14 @@
+[Event "Bern op"]
+[Site "Bern SUI"]
+[Date "1993.02.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Bodo Rhodin"]
+[Black "Igor Berezovsky"]
+[ECO "C63"]
+[WhiteElo "2370"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.Nc3 fxe4 5.Nxe4 d5 6.Nxe5 dxe4 7.Nxc6 Qg5 8.Qe2 Nf6 9.f4 Qxf4 10.d4 Qd6 11.Nxa7+ c6 12.Nxc8 Qb4+ 13.Bd2 Qxb5 14.c4 Qxb2 15.O-O Rxc8 16.Qe3 Rd8 17.Bc3 Qc2 18.d5 Qd3 19.Qxd3 exd3 20.Rxf6 gxf6 21.Bxf6 Bc5+ 0-1
