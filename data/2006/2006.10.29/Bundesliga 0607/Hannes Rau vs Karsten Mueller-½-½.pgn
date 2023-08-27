@@ -1,0 +1,14 @@
+[Event "Bundesliga 0607"]
+[Site "GER"]
+[Date "2006.10.29"]
+[EventDate "?"]
+[Round "2.5"]
+[Result "1/2-1/2"]
+[White "Hannes Rau"]
+[Black "Karsten Mueller"]
+[ECO "A67"]
+[WhiteElo "2422"]
+[BlackElo "2500"]
+[PlyCount "47"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Bb5+ Nfd7 9.a4 O-O 10.Nf3 Na6 11.O-O Nb4 12.Re1 a6 13.Bf1 Re8 14.Qb3 a5 15.h3 Nb6 16.Be3 Bd7 17.Bf2 Rc8 18.Kh1 Bh6 19.Bg3 c4 20.Qd1 Rc5 21.Qd2 Rc8 22.Qd1 Rc5 23.Qd2 Rc8 24.Qd1 1/2-1/2

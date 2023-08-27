@@ -1,0 +1,14 @@
+[Event "Hamburg Open"]
+[Site "Hamburg GER"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Karsten Mueller"]
+[Black "Thomas Cording"]
+[ECO "B01"]
+[WhiteElo "2460"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 c6 6.Bc4 Bf5 7.Ne5 e6 8.Qe2 Bb4 9.Bd2 Nbd7 10.Nxd7 Nxd7 11.a3 O-O 12.O-O-O b5 13.axb4 Qa1+ 14.Nb1 bxc4 15.g4 Bg6 16.h4 Nf6 17.f3 h5 18.Qxc4 hxg4 19.h5 Nxh5 20.fxg4 Ng3 21.Rh3 Qa2 22.Rdh1 Qxc4 23.Rh8# 1-0
