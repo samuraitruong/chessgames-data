@@ -4164,7 +4164,8 @@
     "name": "MINIC, Dragoljub",
     "year": "1959-2003",
     "games": 790,
-    "id": "30960"
+    "id": "30960",
+    "synced": true
   },
   {
     "higestRating": 2640,
@@ -8757,7 +8758,8 @@
     "name": "GONZALEZ, Renier",
     "year": "1992-2018",
     "games": 411,
-    "id": "85200"
+    "id": "85200",
+    "synced": true
   },
   {
     "higestRating": 2538,
@@ -13813,7 +13815,8 @@
     "name": "AZALADZE, Shota",
     "year": "2000-2021",
     "games": 258,
-    "id": "96066"
+    "id": "96066",
+    "synced": true
   },
   {
     "higestRating": 2545,
@@ -23016,7 +23019,8 @@
     "name": "GEORGESCU, Tiberiu-Marian",
     "year": "2006-2019",
     "games": 144,
-    "id": "115599"
+    "id": "115599",
+    "synced": true
   },
   {
     "higestRating": 2451,
@@ -28691,7 +28695,8 @@
     "name": "SITNIKOV, Anton",
     "year": "2000-2021",
     "games": 108,
-    "id": "54627"
+    "id": "54627",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -31291,7 +31296,8 @@
     "name": "KRISTIANSEN, Erling",
     "year": "1964-2012",
     "games": 97,
-    "id": "29104"
+    "id": "29104",
+    "synced": true
   },
   {
     "higestRating": 2359,
@@ -40325,7 +40331,8 @@
     "name": "SMIRNOV, Igor",
     "year": "2000-2009",
     "games": 70,
-    "id": "65764"
+    "id": "65764",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -43326,7 +43333,8 @@
     "name": "CHIKOVANI, Iuri",
     "year": "1963-2000",
     "games": 63,
-    "id": "15355"
+    "id": "15355",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -51497,7 +51505,8 @@
     "name": "VEKSHENKOV, Nikolai",
     "year": "1977-2012",
     "games": 48,
-    "id": "42788"
+    "id": "42788",
+    "synced": true
   },
   {
     "higestRating": 2378,
@@ -61281,7 +61290,8 @@
     "name": "TOMCSANYI, Peter",
     "year": "1991-2003",
     "games": 37,
-    "id": "169071"
+    "id": "169071",
+    "synced": true
   },
   {
     "higestRating": 2283,
@@ -79360,7 +79370,8 @@
     "name": "KOENIG, David",
     "year": "1991-2002",
     "games": 22,
-    "id": "11283"
+    "id": "11283",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -81441,7 +81452,8 @@
     "name": "PRIBORSKY, Ivo",
     "year": "2001-2007",
     "games": 21,
-    "id": "54173"
+    "id": "54173",
+    "synced": true
   },
   {
     "higestRating": 2365,
