@@ -9150,7 +9150,8 @@
     "name": "MICHNA, Marta",
     "year": "1993-2021",
     "games": 398,
-    "id": "110145"
+    "id": "110145",
+    "synced": true
   },
   {
     "higestRating": 2615,
@@ -13989,7 +13990,8 @@
     "name": "KAUFMAN, Larry",
     "year": "1965-2023",
     "games": 255,
-    "id": "50429"
+    "id": "50429",
+    "synced": true
   },
   {
     "higestRating": 2462,
@@ -29657,7 +29659,8 @@
     "name": "LUKASIEWICZ, Grzegorz",
     "year": "1986-2001",
     "games": 104,
-    "id": "26766"
+    "id": "26766",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -62309,7 +62312,8 @@
     "name": "ILIAGUEV, Nisim",
     "year": "2015-2023",
     "games": 36,
-    "id": "152538"
+    "id": "152538",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -84994,7 +84998,8 @@
     "name": "SECHERES, Adrian-Simion",
     "year": "2016-2023",
     "games": 20,
-    "id": "157090"
+    "id": "157090",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -88936,7 +88941,8 @@
     "name": "HINRICHS, Jan",
     "year": "2012-2014",
     "games": 18,
-    "id": "138925"
+    "id": "138925",
+    "synced": true
   },
   {
     "higestRating": 2222,
