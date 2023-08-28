@@ -1,0 +1,14 @@
+[Event "Chess Olympiad"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2010.09.21"]
+[EventDate "2010.09.21"]
+[Round "1"]
+[Result "0-1"]
+[White "Tito Kahn"]
+[Black "Evgeniy Podolchenko"]
+[ECO "A15"]
+[WhiteElo "2181"]
+[BlackElo "2506"]
+[PlyCount "44"]
+
+1. c4 Nf6 2. g3 c6 3. Bg2 d5 4. Nf3 Bg4 5. O-O Nbd7 6. d4 e6 7. b3 Be7 8. Bb2 O-O 9. Nbd2 a5 10. a4 Bb4 11. Ne5 Nxe5 12. dxe5 Nd7 13. h3 Bh5 14. g4 Bg6 15. f4 Qb6+ 16. Kh1 f5 17. exf6 Nxf6 18. Nf3 Ne4 19. Bd4 Bc5 20. Kh2 Rxf4 21. Be5 Rff8 22. cxd5 exd5 0-1

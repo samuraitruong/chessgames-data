@@ -1,0 +1,14 @@
+[Event "ISR-chT"]
+[Site "ISR"]
+[Date "2020.01.17"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Michael Oratovsky"]
+[Black "Vitali Golod"]
+[ECO "B51"]
+[WhiteElo "2434"]
+[BlackElo "2503"]
+[PlyCount "34"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bxd7+ Bxd7 6.d4 cxd4 7.Qxd4 e5 8.Qd3 Rc8 9.c4 b5 10.Nfd2 Nf6 11.Nc3 Qb6 12.b3 Be7 13.a4 O-O 14.axb5 axb5 15.Nxb5 Bxb5 16.cxb5 Rb8 17.Ra6 Qxb5 1/2-1/2
