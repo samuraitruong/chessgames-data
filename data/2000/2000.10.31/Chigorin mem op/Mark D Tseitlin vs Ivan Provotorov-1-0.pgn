@@ -1,0 +1,14 @@
+[Event "Chigorin mem op"]
+[Site "St Petersburg"]
+[Date "2000.10.31"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Mark D Tseitlin"]
+[Black "Ivan Provotorov"]
+[ECO "C03"]
+[WhiteElo "2445"]
+[BlackElo "2191"]
+[PlyCount "38"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. e5 c5 5. Qg4 g5 6. Qh5 Nc6 7. Ndf3 Nb4 8. Nxg5 Bxg5 9. Bxg5 Qa5 10. Bd2 Nxc2+ 11. Kd1 Qa4 12. b3 Qxd4 13. Rc1 Na3 14. Nf3 Qxf2 15. Qg4 Ne7 16. Qa4+ Bd7 17. Qxa3 b6 18. Rc3 Nf5 19. Be1 1-0

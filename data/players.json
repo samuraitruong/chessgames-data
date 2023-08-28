@@ -2387,7 +2387,8 @@
     "name": "TSEITLIN, Mark",
     "year": "1963-2014",
     "games": 1140,
-    "id": "37413"
+    "id": "37413",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -48957,7 +48958,8 @@
     "name": "GILLANI, Tunveer M D",
     "year": "1989-2010",
     "games": 53,
-    "id": "88556"
+    "id": "88556",
+    "synced": true
   },
   {
     "higestRating": 2278,
@@ -60296,7 +60298,8 @@
     "name": "MOOSAVIAN, S Hamed",
     "year": "1998-2017",
     "games": 38,
-    "id": "98405"
+    "id": "98405",
+    "synced": true
   },
   {
     "higestRating": 2503,
@@ -68369,7 +68372,8 @@
     "name": "MENDOZA, Luciana Morales",
     "year": "2001-2012",
     "games": 30,
-    "id": "51954"
+    "id": "51954",
+    "synced": true
   },
   {
     "higestRating": 2347,
