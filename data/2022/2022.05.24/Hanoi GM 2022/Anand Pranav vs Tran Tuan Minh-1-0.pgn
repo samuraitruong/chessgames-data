@@ -1,0 +1,14 @@
+[Event "Hanoi GM 2022"]
+[Site "Hanoi VIE"]
+[Date "2022.05.26"]
+[EventDate "2022.05.24"]
+[Round "4.4"]
+[Result "1-0"]
+[White "Anand Pranav"]
+[Black "Tran Tuan Minh"]
+[ECO "E00"]
+[WhiteElo "2479"]
+[BlackElo "2533"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 a6 5. Bg2 Bb4+ 6. Bd2 Be7 7. O-O dxc4 8. Qc2 b5 9. Ne5 Nd5 10. b3 cxb3 11. axb3 Bb7 12. Rc1 O-O 13. Qb2 Bd6 14. Nd3 f5 15. Nc3 Nxc3 16. Bxc3 Bxg2 17. Kxg2 Nd7 18. e3 Qe7 19. Ra2 g5 20. f3 g4 21. fxg4 b4 22. Be1 fxg4 23. Qe2 Rf3 24. e4 Qg5 25. e5 Rxd3 26. Qxd3 Qxc1 27. Qe4 Rf8 28. exd6 Nf6 29. Qxe6+ Kg7 30. d7 Nxd7 31. Qxd7+ Kh8 32. Qe6 1-0

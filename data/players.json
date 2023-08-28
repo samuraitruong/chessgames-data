@@ -12674,7 +12674,8 @@
     "name": "MINH, Tran Tuan",
     "year": "2005-2022",
     "games": 283,
-    "id": "120856"
+    "id": "120856",
+    "synced": true
   },
   {
     "higestRating": 2512,
@@ -20590,7 +20591,8 @@
     "name": "SZABOLCSI, Janos",
     "year": "1972-2014",
     "games": 165,
-    "id": "41575"
+    "id": "41575",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -45471,7 +45473,8 @@
     "name": "DERIEUX, Christian",
     "year": "1989-2012",
     "games": 59,
-    "id": "51341"
+    "id": "51341",
+    "synced": true
   },
   {
     "higestRating": 2357,
