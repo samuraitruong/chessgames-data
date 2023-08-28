@@ -8549,7 +8549,8 @@
     "name": "MARTIN, Andrew D",
     "year": "1974-2012",
     "games": 422,
-    "id": "13780"
+    "id": "13780",
+    "synced": true
   },
   {
     "higestRating": 2556,
@@ -18534,7 +18535,8 @@
     "name": "TSCHAROTSCHKIN, Michael",
     "year": "1982-2019",
     "games": 187,
-    "id": "65110"
+    "id": "65110",
+    "synced": true
   },
   {
     "higestRating": 2243,
@@ -43255,7 +43257,8 @@
     "name": "WELZ, Peter",
     "year": "1972-2017",
     "games": 64,
-    "id": "101032"
+    "id": "101032",
+    "synced": true
   },
   {
     "higestRating": 2414,
