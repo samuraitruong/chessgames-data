@@ -1,0 +1,15 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.11.11"]
+[EventDate "1982.10.30"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Werner Hug"]
+[Black "Rafaelito Maninang"]
+[ECO "B25"]
+[WhiteElo "2435"]
+[BlackElo "2380"]
+[Source "Olimpbase"]
+[PlyCount "23"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Nge2 e6 7.O-O Nge7 8.Bg5 h6 9.Be3 O-O 10.d4 d5 11.exd5 exd5 12.h3 1/2-1/2
