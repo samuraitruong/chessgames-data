@@ -1361,7 +1361,8 @@
     "name": "DUDA, Jan-Krzysztof",
     "year": "2007-2023",
     "games": 1488,
-    "id": "126603"
+    "id": "126603",
+    "synced": true
   },
   {
     "higestRating": 2730,
@@ -69165,7 +69166,8 @@
     "name": "DEMIRCIOGLU, Emre",
     "year": "2014-2018",
     "games": 30,
-    "id": "153384"
+    "id": "153384",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -73571,7 +73573,8 @@
     "name": "PARONEN, Petteri",
     "year": "1990-2012",
     "games": 26,
-    "id": "37737"
+    "id": "37737",
+    "synced": true
   },
   {
     "higestRating": 2251,
