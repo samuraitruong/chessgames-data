@@ -1,0 +1,14 @@
+[Event "Ourense"]
+[Site "Ourense ESP"]
+[Date "1976.01.21"]
+[EventDate "1976.01.19"]
+[Round "3"]
+[Result "0-1"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Garcia Gonzales, Guillermo"]
+[ECO "B33"]
+[WhiteElo "2475"]
+[BlackElo "2475"]
+[PlyCount "42"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Bxf6 gxf6 10.Nd5 f5 11.exf5 Bxf5 12.Qf3 Nd4 13.Nc7+ Qxc7 14.Qxa8+ Bc8 15.Bd3 d5 16.O-O Bxa3 17.bxa3 O-O 18.f4 Bb7 19.Bxh7+ Kg7 20.Qxf8+ Kxf8 21.fxe5 Ne2+ 0-1
