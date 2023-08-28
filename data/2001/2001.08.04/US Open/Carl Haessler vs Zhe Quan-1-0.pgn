@@ -1,0 +1,14 @@
+[Event "US Open"]
+[Site "Framingham, MA USA"]
+[Date "2001.08.11"]
+[EventDate "2001.08.04"]
+[Round "8"]
+[Result "1-0"]
+[White "Carl Haessler"]
+[Black "Zhe Quan"]
+[ECO "A48"]
+[WhiteElo "2252"]
+[BlackElo "2272"]
+[PlyCount "43"]
+
+1. Nf3 g6 2. d4 Nf6 3. b3 Bg7 4. Bb2 O-O 5. g3 d5 6. Bg2 Ne4 7. Nbd2 Nxd2 8. Qxd2 c5 9. O-O-O c4 10. e4 cxb3 11. axb3 dxe4 12. Ne5 f6 13. Nc4 f5 14. f3 exf3 15. Bxf3 Qc7 16. Rhe1 Rd8 17. d5 Bxb2+ 18. Kxb2 e6 19. Qc3 Qf7 20. dxe6 Qe7 21. Rxd8+ Qxd8 22. e7 1-0

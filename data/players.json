@@ -4787,7 +4787,8 @@
     "name": "ANIC, Darko",
     "year": "1988-2022",
     "games": 723,
-    "id": "17308"
+    "id": "17308",
+    "synced": true
   },
   {
     "higestRating": 2444,
@@ -44070,7 +44071,8 @@
     "name": "QUAN, Zhe",
     "year": "1999-2011",
     "games": 62,
-    "id": "52086"
+    "id": "52086",
+    "synced": true
   },
   {
     "higestRating": 2303,
@@ -92531,7 +92533,8 @@
     "name": "SKJOLDBORG, Jesper",
     "year": "1999-2006",
     "games": 16,
-    "id": "71005"
+    "id": "71005",
+    "synced": true
   },
   {
     "higestRating": 2275,
