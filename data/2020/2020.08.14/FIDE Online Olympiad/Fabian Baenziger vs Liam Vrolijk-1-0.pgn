@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.15"]
+[EventDate "2020.08.14"]
+[Round "6"]
+[Result "1-0"]
+[White "Fabian Baenziger"]
+[Black "Liam Vrolijk"]
+[ECO "E04"]
+[WhiteElo "2214"]
+[BlackElo "2470"]
+[Source "Chess-Results"]
+[PlyCount "95"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 Bb4+ 6. Bd2 a5 7. Qc2 b6 8. a3 Be7 9. Bg5 Ra7 10. O-O O-O 11. Nbd2 Bb7 12. Nxc4 Be4 13. Qd1 c5 14. dxc5 Bxc5 15. Nfe5 Bxg2 16. Kxg2 Nbd7 17. Bxf6 Qa8+ 18. f3 Nxf6 19. Qa4 Bd4 20. Nc6 Qe8 21. Nd6 Qd7 22. Qxd4 Qxc6 23. Rfc1 Qd5 24. Qxb6 Rd7 25. Nc4 Rb7 26. Qxa5 Qxa5 27. Nxa5 Rxb2 28. Kf2 Rb6 29. Nc6 Nd5 30. a4 Rc8 31. Nd4 Ra8 32. a5 Rba6 33. Nc6 Kf8 34. e4 Ne7 35. Nxe7 Kxe7 36. Rc7+ Kf6 37. Rc5 Ke7 38. e5 Rb8 39. g4 g5 40. Rc7+ Ke8 41. Rc5 Rb3 42. Rd1 Ra3 43. Rc8+ Ke7 44. Rc7+ Ke8 45. Rdd7 R6xa5 46. Rxf7 R5a4 47. Rxh7 Rf4 48. Rc8# 1-0

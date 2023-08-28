@@ -10407,7 +10407,8 @@
     "name": "BAENZIGER, Fabian",
     "year": "2016-2023",
     "games": 350,
-    "id": "155064"
+    "id": "155064",
+    "synced": true
   },
   {
     "higestRating": 2464,
@@ -36752,7 +36753,8 @@
     "name": "MCCARTHY, Brian",
     "year": "1976-2008",
     "games": 79,
-    "id": "20291"
+    "id": "20291",
+    "synced": true
   },
   {
     "higestRating": 2279,
@@ -48193,7 +48195,8 @@
     "name": "JAMES, Geoffrey H",
     "year": "1968-2012",
     "games": 54,
-    "id": "48630"
+    "id": "48630",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -83480,7 +83483,8 @@
     "name": "SALAZAR, Jeyksson",
     "year": "2001-2007",
     "games": 20,
-    "id": "53139"
+    "id": "53139",
+    "synced": true
   },
   {
     "higestRating": 2223,
@@ -84176,7 +84180,8 @@
     "name": "TRKULJA, Goran",
     "year": "1998-2016",
     "games": 20,
-    "id": "98994"
+    "id": "98994",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -88900,7 +88905,8 @@
     "name": "MATEI, Cornel",
     "year": "2008-2020",
     "games": 18,
-    "id": "138801"
+    "id": "138801",
+    "synced": true
   },
   {
     "higestRating": 2565,
