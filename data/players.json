@@ -6210,7 +6210,8 @@
     "name": "BANIKAS, Hristos",
     "year": "1992-2022",
     "games": 577,
-    "id": "41086"
+    "id": "41086",
+    "synced": true
   },
   {
     "higestRating": 2494,
@@ -76626,7 +76627,8 @@
     "name": "TAN, Boen",
     "year": "2000-2006",
     "games": 24,
-    "id": "32259"
+    "id": "32259",
+    "synced": true
   },
   {
     "higestRating": 2327,
