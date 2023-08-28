@@ -14402,7 +14402,8 @@
     "name": "CONDIE, Mark",
     "year": "1980-1995",
     "games": 247,
-    "id": "19635"
+    "id": "19635",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -16397,7 +16398,8 @@
     "name": "KRIVOSHEY, Sergei",
     "year": "1988-2014",
     "games": 213,
-    "id": "44445"
+    "id": "44445",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -81111,7 +81113,8 @@
     "name": "FANTINEL, Thibault",
     "year": "2014-2022",
     "games": 22,
-    "id": "162950"
+    "id": "162950",
+    "synced": true
   },
   {
     "higestRating": 2319,
@@ -85620,7 +85623,8 @@
     "name": "VALAKER, Ole Johan",
     "year": "2000-2002",
     "games": 19,
-    "id": "52939"
+    "id": "52939",
+    "synced": true
   },
   {
     "higestRating": 2278,
