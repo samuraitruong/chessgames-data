@@ -6312,7 +6312,8 @@
     "name": "MOEHRING, Guenther",
     "year": "1954-2001",
     "games": 569,
-    "id": "45490"
+    "id": "45490",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -38137,7 +38138,8 @@
     "name": "PALIT, Somak",
     "year": "2002-2016",
     "games": 76,
-    "id": "97897"
+    "id": "97897",
+    "synced": true
   },
   {
     "higestRating": 2404,
