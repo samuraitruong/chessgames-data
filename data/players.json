@@ -15966,7 +15966,8 @@
     "name": "NARVA, Mai",
     "year": "2012-2023",
     "games": 220,
-    "id": "142111"
+    "id": "142111",
+    "synced": true
   },
   {
     "higestRating": 2387,
@@ -25425,7 +25426,8 @@
     "name": "REICH, Thomas",
     "year": "1985-2017",
     "games": 125,
-    "id": "39733"
+    "id": "39733",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -25693,7 +25695,8 @@
     "name": "ELEY, Brian",
     "year": "1964-1982",
     "games": 123,
-    "id": "16135"
+    "id": "16135",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -28795,7 +28798,8 @@
     "name": "PISK, Petr",
     "year": "1992-2017",
     "games": 108,
-    "id": "71809"
+    "id": "71809",
+    "synced": true
   },
   {
     "higestRating": 2456,
@@ -36922,7 +36926,8 @@
     "name": "OVCHINNIKOV, Vsevolod",
     "year": "2012-2020",
     "games": 79,
-    "id": "139676"
+    "id": "139676",
+    "synced": true
   },
   {
     "higestRating": 2359,
@@ -74590,7 +74595,8 @@
     "name": "BANOV, Boil",
     "year": "2012-2013",
     "games": 26,
-    "id": "138026"
+    "id": "138026",
+    "synced": true
   },
   {
     "higestRating": 2431,
