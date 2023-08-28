@@ -27201,7 +27201,8 @@
     "name": "BARTHEL, Ansgar",
     "year": "1988-2022",
     "games": 115,
-    "id": "88235"
+    "id": "88235",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -32376,7 +32377,8 @@
     "name": "STRATING, Sybolt",
     "year": "1990-2017",
     "games": 93,
-    "id": "38330"
+    "id": "38330",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -33229,7 +33231,8 @@
     "name": "KNOLL, Hermann",
     "year": "1991-2023",
     "games": 90,
-    "id": "65750"
+    "id": "65750",
+    "synced": true
   },
   {
     "higestRating": 2517,
@@ -39137,7 +39140,8 @@
     "name": "MITTELMAN, Gur",
     "year": "1990-2008",
     "games": 73,
-    "id": "91414"
+    "id": "91414",
+    "synced": true
   },
   {
     "higestRating": 2397,
@@ -46005,7 +46009,8 @@
     "name": "PEREDY, Ferenc",
     "year": "1992-2012",
     "games": 58,
-    "id": "68506"
+    "id": "68506",
+    "synced": true
   },
   {
     "higestRating": 2414,
@@ -67059,7 +67064,8 @@
     "name": "CARMEL, Ephraim",
     "year": "1965-2001",
     "games": 31,
-    "id": "51145"
+    "id": "51145",
+    "synced": true
   },
   {
     "higestRating": 2392,
@@ -70737,7 +70743,8 @@
     "name": "SHABOIAN, Vladimir",
     "year": "1982-1992",
     "games": 28,
-    "id": "27000"
+    "id": "27000",
+    "synced": true
   },
   {
     "higestRating": 2333,
@@ -94973,7 +94980,8 @@
     "name": "DOMINGUEZ, David Torres",
     "year": "1989-2018",
     "games": 15,
-    "id": "70064"
+    "id": "70064",
+    "synced": true
   },
   {
     "higestRating": 2251,
