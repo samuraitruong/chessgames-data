@@ -1990,7 +1990,8 @@
     "name": "BISGUIER, Arthur",
     "year": "1945-2013",
     "games": 1233,
-    "id": "16122"
+    "id": "16122",
+    "synced": true
   },
   {
     "higestRating": 2597,
@@ -37853,7 +37854,8 @@
     "name": "HERMLIN, Aarne",
     "year": "1959-2003",
     "games": 76,
-    "id": "25812"
+    "id": "25812",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -58047,7 +58049,8 @@
     "name": "STEFANOV, Parik",
     "year": "1977-1993",
     "games": 40,
-    "id": "24565"
+    "id": "24565",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -71386,7 +71389,8 @@
     "name": "ZULUAGA, Cesar",
     "year": "2000-2014",
     "games": 28,
-    "id": "103878"
+    "id": "103878",
+    "synced": true
   },
   {
     "higestRating": 2372,
