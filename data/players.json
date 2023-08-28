@@ -16251,7 +16251,8 @@
     "name": "SISNIEGA, Marcel",
     "year": "1975-1992",
     "games": 215,
-    "id": "21566"
+    "id": "21566",
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -17169,7 +17170,8 @@
     "name": "FOMINYKH, Maria",
     "year": "1999-2022",
     "games": 205,
-    "id": "97867"
+    "id": "97867",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -26616,7 +26618,8 @@
     "name": "OFSTAD, Per",
     "year": "1952-2012",
     "games": 118,
-    "id": "28689"
+    "id": "28689",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -43350,7 +43353,8 @@
     "name": "BOGUSLAVSKYY, Oleg",
     "year": "2002-2023",
     "games": 64,
-    "id": "136333"
+    "id": "136333",
+    "synced": true
   },
   {
     "higestRating": 2217,
@@ -46319,7 +46323,8 @@
     "name": "BURCHARDT, Brigitte",
     "year": "1974-2019",
     "games": 57,
-    "id": "11979"
+    "id": "11979",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -65851,7 +65856,8 @@
     "name": "VOGLER, Tilmann",
     "year": "1987-2004",
     "games": 32,
-    "id": "38333"
+    "id": "38333",
+    "synced": true
   },
   {
     "higestRating": 2440,
