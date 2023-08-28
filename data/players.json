@@ -6669,7 +6669,8 @@
     "name": "VADASZ, Laszlo",
     "year": "1965-2000",
     "games": 536,
-    "id": "19272"
+    "id": "19272",
+    "synced": true
   },
   {
     "higestRating": 2643,
@@ -29289,7 +29290,8 @@
     "name": "NESTOROVIC, Lazar",
     "year": "2003-2017",
     "games": 106,
-    "id": "118214"
+    "id": "118214",
+    "synced": true
   },
   {
     "higestRating": 2349,
@@ -30232,7 +30234,8 @@
     "name": "SALOV, Sergej",
     "year": "1978-2017",
     "games": 102,
-    "id": "114616"
+    "id": "114616",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -37607,7 +37610,8 @@
     "name": "VOLODIN, Viktor",
     "year": "1990-2010",
     "games": 77,
-    "id": "50848"
+    "id": "50848",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -39396,7 +39400,8 @@
     "name": "GRAF, Juergen",
     "year": "1979-1997",
     "games": 72,
-    "id": "20844"
+    "id": "20844",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -59448,7 +59453,8 @@
     "name": "PICCARDO, Vittorio",
     "year": "1990-2003",
     "games": 39,
-    "id": "108242"
+    "id": "108242",
+    "synced": true
   },
   {
     "higestRating": 2338,
