@@ -1,0 +1,15 @@
+[Event "Yerevan Olympiad"]
+[Site "Yerevan ARM"]
+[Date "1996.09.27"]
+[EventDate "1996.09.16"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Belli Pino, Mario"]
+[Black "Emelbek Sapar"]
+[ECO "A10"]
+[WhiteElo "2425"]
+[BlackElo "2490"]
+[Source "Olimpbase"]
+[PlyCount "40"]
+
+1.c4 g6 2.Nc3 Bg7 3.g3 e5 4.Bg2 d6 5.e3 Nf6 6.Nge2 O-O 7.O-O Nbd7 8.d4 Re8 9.Qc2 exd4 10.Nxd4 Nb6 11.b3 c5 12.Nde2 Bf5 13.Qd1 d5 14.Ba3 dxc4 15.Bxc5 Ne4 16.Nxe4 Bxe4 17.Bd4 Bxg2 18.Kxg2 Rc8 19.bxc4 Nxc4 20.Bxg7 1/2-1/2
