@@ -1,0 +1,14 @@
+[Event "Copenhagen Open"]
+[Site "Brondby DEN"]
+[Date "1995.06.28"]
+[EventDate "1995.06.26"]
+[Round "3"]
+[Result "1-0"]
+[White "Johan Hellsten"]
+[Black "Soren Boeck Petersen"]
+[ECO "D45"]
+[WhiteElo "2420"]
+[BlackElo "2230"]
+[PlyCount "46"]
+
+1. d4 d5 2. Nf3 e6 3. c4 c6 4. e3 Nf6 5. Nc3 Be7 6. b3 O-O 7. Bd3 c5 8. O-O Nc6 9. Bb2 cxd4 10. exd4 b6 11. Rc1 Bb7 12. Bb1 Rc8 13. Ne2 dxc4 14. bxc4 Na5 15. Ne5 Qd6 16. Ng3 Rfd8 17. d5 exd5 18. Nf5 Qe6 19. Ng4 Ne4 20. Nxg7 Qg6 21. Nf5 Bg5 22. Qd4 dxc4 23. Qh8# 1-0
