@@ -2101,7 +2101,8 @@
     "name": "SOSONKO, Gennadi",
     "year": "1957-2002",
     "games": 1208,
-    "id": "23985"
+    "id": "23985",
+    "synced": true
   },
   {
     "higestRating": 2726,
@@ -13972,7 +13973,8 @@
     "name": "ORR, Mark",
     "year": "1976-2014",
     "games": 255,
-    "id": "27793"
+    "id": "27793",
+    "synced": true
   },
   {
     "higestRating": 2521,
@@ -27186,7 +27188,8 @@
     "name": "WEMMERS, Xander",
     "year": "1994-2020",
     "games": 115,
-    "id": "50901"
+    "id": "50901",
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -29417,7 +29420,8 @@
     "name": "LEMMERS, Oscar",
     "year": "1991-2021",
     "games": 105,
-    "id": "46676"
+    "id": "46676",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -85353,7 +85357,8 @@
     "name": "MCDONNELL, Gerard",
     "year": "1990-2001",
     "games": 19,
-    "id": "19333"
+    "id": "19333",
+    "synced": true
   },
   {
     "higestRating": 2333,
