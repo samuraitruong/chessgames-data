@@ -1954,7 +1954,8 @@
     "name": "SARIC, Ivan",
     "year": "2001-2023",
     "games": 1249,
-    "id": "54689"
+    "id": "54689",
+    "synced": true
   },
   {
     "higestRating": 2510,
@@ -58764,7 +58765,8 @@
     "name": "KOCHAVI, Ori",
     "year": "2015-2023",
     "games": 40,
-    "id": "152558"
+    "id": "152558",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -81292,7 +81294,8 @@
     "name": "PODVRSNIK, Marko",
     "year": "1989-2004",
     "games": 21,
-    "id": "38034"
+    "id": "38034",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -92438,7 +92441,8 @@
     "name": "CELA, Shkelqim",
     "year": "1990-2008",
     "games": 16,
-    "id": "79263"
+    "id": "79263",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -96495,7 +96499,8 @@
     "name": "BABIY, Anatoly",
     "year": "1990-2012",
     "games": 14,
-    "id": "95411"
+    "id": "95411",
+    "synced": true
   },
   {
     "higestRating": 2269,
