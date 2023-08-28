@@ -8035,7 +8035,8 @@
     "name": "BORGO, Giulio",
     "year": "1984-2019",
     "games": 454,
-    "id": "46378"
+    "id": "46378",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -55694,7 +55695,8 @@
     "name": "DE VILLIERS, Charles",
     "year": "1972-2005",
     "games": 43,
-    "id": "43081"
+    "id": "43081",
+    "synced": true
   },
   {
     "higestRating": 2258,
@@ -98166,7 +98168,8 @@
     "name": "ARANGUREN, Alain Prieto",
     "year": "2012-2017",
     "games": 11,
-    "id": "138437"
+    "id": "138437",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -99526,7 +99529,8 @@
     "name": "PENKO, Igor",
     "year": "2001-2005",
     "games": 7,
-    "id": "55878"
+    "id": "55878",
+    "synced": true
   },
   {
     "higestRating": 2225,

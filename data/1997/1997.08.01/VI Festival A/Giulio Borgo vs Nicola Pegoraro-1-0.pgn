@@ -1,0 +1,14 @@
+[Event "VI Festival A"]
+[Site "Montecatini Terme ITA"]
+[Date "1997.08.01"]
+[EventDate "1997.08.01"]
+[Round "1"]
+[Result "1-0"]
+[White "Giulio Borgo"]
+[Black "Nicola Pegoraro"]
+[ECO "B54"]
+[WhiteElo "2370"]
+[BlackElo "2115"]
+[PlyCount "46"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 g6 6.c4 Bg7 7.Be3 O-O 8.Nc3 Bd7 9.Be2 Nc6 10.O-O a6 11.Qd2 Rb8 12.Rfd1 Nxd4 13.Bxd4 b5 14.e5 Ne8 15.exd6 Bxd4+ 16.Qxd4 exd6 17.c5 Qc7 18.Nd5 Qd8 19.cxd6 f6 20.Nc7 Rf7 21.Rac1 Bc8 22.Qa7 Bf5 23.Qxa6 1-0
