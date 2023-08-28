@@ -1,0 +1,14 @@
+[Event "Swedish Blitz Championship"]
+[Site "Stockholm SWE"]
+[Date "2023.01.01"]
+[EventDate "2023.01.01"]
+[Round "7.10"]
+[Result "1-0"]
+[White "Elie Milikow"]
+[Black "Yotam Shohat"]
+[ECO "B06"]
+[WhiteElo "2420"]
+[BlackElo "2284"]
+[PlyCount "38"]
+
+1. e4 g6 2. d4 Nf6 3. Nc3 d5 4. e5 Ne4 5. Bd3 Nxc3 6. bxc3 c5 7. h4 Bf5 8. Bxf5 gxf5 9. e6 fxe6 10. Nh3 Qa5 11. O-O Nc6 12. Nf4 Qxc3 13. Qh5+ Kd7 14. Rb1 Nxd4 15. Bb2 Qd2 16. Bxd4 Qxd4 17. Rxb7+ Kc6 18. Qe2 Qxf4 19. Qa6# 1-0
