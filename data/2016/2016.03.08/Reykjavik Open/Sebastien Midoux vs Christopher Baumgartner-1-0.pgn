@@ -1,0 +1,14 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2016.03.11"]
+[EventDate "2016.03.08"]
+[Round "5.47"]
+[Result "1-0"]
+[White "Sebastien Midoux"]
+[Black "Christopher Baumgartner"]
+[ECO "C20"]
+[WhiteElo "2342"]
+[BlackElo "1821"]
+[PlyCount "31"]
+
+1. e4 e5 2. d4 Nf6 3. dxe5 Nxe4 4. Bc4 Qh4 5. Qf3 d5 6. Bxd5 f5 7. exf6 Nxf6 8. Qe2+ Be7 9. Nf3 Qb4+ 10. c3 Qb6 11. Bb3 Nc6 12. Na3 Bg4 13. Be3 Qa5 14. O-O-O Bxa3 15. Bc5+ Ne7 16. Qxe7# 1-0
