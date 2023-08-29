@@ -6103,7 +6103,8 @@
     "name": "PETROSIAN, Arshak B",
     "year": "1970-2000",
     "games": 588,
-    "id": "47134"
+    "id": "47134",
+    "synced": true
   },
   {
     "higestRating": 2379,
@@ -16119,7 +16120,8 @@
     "name": "PIERROT, Juan Facundo",
     "year": "1990-2021",
     "games": 218,
-    "id": "50009"
+    "id": "50009",
+    "synced": true
   },
   {
     "higestRating": 2375,
