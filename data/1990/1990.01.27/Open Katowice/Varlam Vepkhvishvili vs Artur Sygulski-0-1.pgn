@@ -1,0 +1,14 @@
+[Event "Open Katowice"]
+[Site "Katowice POL"]
+[Date "1990.01.27"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Varlam Vepkhvishvili"]
+[Black "Artur Sygulski"]
+[ECO "A46"]
+[WhiteElo "2359"]
+[BlackElo "2410"]
+[PlyCount "43"]
+
+1.d4 Nf6 2.Nf3 c5 3.c3 Qb6 4.Qb3 d5 5.Bf4 Nc6 6.e3 c4 7.Qxb6 axb6 8.Na3 e5 9.Nb5 Ra5 10.Nc7+ Kd7 11.Nxe5+ Nxe5 12.dxe5 Nh5 13.Nxd5 Rxd5 14.Bxc4 Nxf4 15.exf4 Ra5 16.Bxf7 Ke7 17.b4 Ra3 18.Bb3 Be6 19.Kd2 g6 20.Kc2 Bh6 21.Kb2 Raa8 22.Bxe6 0-1
