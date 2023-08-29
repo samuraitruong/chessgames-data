@@ -1,0 +1,15 @@
+[Event "Chess Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.26"]
+[EventDate "1988.11.13"]
+[Round "12"]
+[Result "1-0"]
+[White "Veijo Maki"]
+[Black "Kamel Skalli"]
+[ECO "B17"]
+[WhiteElo "2375"]
+[BlackElo "2205"]
+[Source "Olimpbase"]
+[PlyCount "43"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Be7 8.Qe2 O-O 9.Ne5 Nb6 10.c3 c5 11.dxc5 Bxc5 12.O-O Nbd5 13.Qc2 g6 14.Qe2 Kg7 15. Bd2 Ne7 16.Ngf3 b6 17.c4 Nfg8 18.Be4 Rb8 19.Rad1 Qe8 20.b4 f6 21.bxc5 fxe5 22.Bc3 1-0
