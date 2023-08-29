@@ -5440,7 +5440,8 @@
     "name": "KARAKLAJIC, Nikola",
     "year": "1949-2008",
     "games": 658,
-    "id": "17941"
+    "id": "17941",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -25251,7 +25252,8 @@
     "name": "MURUGAN, Krishnamoorthy",
     "year": "1987-2001",
     "games": 127,
-    "id": "29191"
+    "id": "29191",
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -25724,7 +25726,8 @@
     "name": "NEZAR, Mustapha",
     "year": "1997-2018",
     "games": 124,
-    "id": "95632"
+    "id": "95632",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -66276,7 +66279,8 @@
     "name": "HOBUSS, Udo",
     "year": "1991-2009",
     "games": 32,
-    "id": "61632"
+    "id": "61632",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -80127,7 +80131,8 @@
     "name": "KAMADADZE, Zviad",
     "year": "1996-2017",
     "games": 22,
-    "id": "50133"
+    "id": "50133",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -97895,7 +97900,8 @@
     "name": "SANDERS, Gary",
     "year": "1982-1993",
     "games": 12,
-    "id": "100135"
+    "id": "100135",
+    "synced": true
   },
   {
     "higestRating": 2230,
