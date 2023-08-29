@@ -5359,7 +5359,8 @@
     "name": "ZAKHARTSOV, Viacheslav",
     "year": "1983-2023",
     "games": 668,
-    "id": "81235"
+    "id": "81235",
+    "synced": true
   },
   {
     "higestRating": 2537,
@@ -47291,7 +47292,8 @@
     "name": "KAWUMA, Steven Male",
     "year": "2000-2010",
     "games": 56,
-    "id": "79616"
+    "id": "79616",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -53868,7 +53870,8 @@
     "name": "LI, Henry",
     "year": "2016-2022",
     "games": 46,
-    "id": "154251"
+    "id": "154251",
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -64166,7 +64169,8 @@
     "name": "LIMAYO, Edgardo V",
     "year": "1997-2000",
     "games": 34,
-    "id": "90432"
+    "id": "90432",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -79906,7 +79910,8 @@
     "name": "DOROSHENKO, Maxim",
     "year": "1992-2013",
     "games": 22,
-    "id": "44736"
+    "id": "44736",
+    "synced": true
   },
   {
     "higestRating": 2214,
@@ -88151,7 +88156,8 @@
     "name": "NIELSEN, Henning",
     "year": "1985-2006",
     "games": 18,
-    "id": "69607"
+    "id": "69607",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -95734,7 +95740,8 @@
     "name": "KISLOV, Sergey",
     "year": "1970-2005",
     "games": 15,
-    "id": "98929"
+    "id": "98929",
+    "synced": true
   },
   {
     "higestRating": 2249,
