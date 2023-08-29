@@ -13089,7 +13089,8 @@
     "name": "SORIN, Ariel",
     "year": "1987-2021",
     "games": 274,
-    "id": "19906"
+    "id": "19906",
+    "synced": true
   },
   {
     "higestRating": 2578,
@@ -27406,7 +27407,8 @@
     "name": "MUKHIN, Mikhail",
     "year": "1964-1977",
     "games": 114,
-    "id": "17505"
+    "id": "17505",
+    "synced": true
   },
   {
     "higestRating": 2241,
@@ -45477,7 +45479,8 @@
     "name": "SCHULZE, Ulrich",
     "year": "1969-2013",
     "games": 59,
-    "id": "11697"
+    "id": "11697",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -47239,7 +47242,8 @@
     "name": "OVEREEM, Marc",
     "year": "1988-2013",
     "games": 56,
-    "id": "50983"
+    "id": "50983",
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -70997,7 +71001,8 @@
     "name": "DONEV, Ivo Hristov",
     "year": "1977-1996",
     "games": 28,
-    "id": "18155"
+    "id": "18155",
+    "synced": true
   },
   {
     "higestRating": 2221,
@@ -89937,7 +89942,8 @@
     "name": "NEIL, David R",
     "year": "1993-2001",
     "games": 17,
-    "id": "36805"
+    "id": "36805",
+    "synced": true
   },
   {
     "higestRating": 2315,

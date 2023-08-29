@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Tournament"]
+[Site "Amsterdam NED"]
+[Date "2006.07.23"]
+[EventDate "2006.07.15"]
+[Round "9"]
+[Result "1-0"]
+[White "Joost van Ruitenburg"]
+[Black "Marc Overeem"]
+[ECO "A45"]
+[WhiteElo "2315"]
+[BlackElo "2243"]
+[PlyCount "43"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. f3 g5 5. fxe4 gxh4 6. e3 Bh6 7. Nd2 Bxe3 8. d5 Bd4 9. c3 Bf6 10. Qh5 d6 11. Ngf3 Rg8 12. e5 dxe5 13. O-O-O Bg4 14. Qxh7 Rh8 15. Qe4 Bh5 16. d6 Nc6 17. Bb5 Qb6 18. a4 Bg6 19. Qe3 exd6 20. Nc4 Qc7 21. Rxd6 Bg7 22. Qxc5 1-0
