@@ -2146,7 +2146,8 @@
     "name": "MAGHAMI, Ehsan Ghaem",
     "year": "1999-2022",
     "games": 1199,
-    "id": "49243"
+    "id": "49243",
+    "synced": true
   },
   {
     "higestRating": 2545,
@@ -94750,7 +94751,8 @@
     "name": "THOMSEN, Torbjorn",
     "year": "1989-2001",
     "games": 15,
-    "id": "42815"
+    "id": "42815",
+    "synced": true
   },
   {
     "higestRating": 2210,

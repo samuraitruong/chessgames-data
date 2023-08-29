@@ -1,0 +1,14 @@
+[Event "Nordic Grand Prix"]
+[Site "Torshavn"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Tiger Hillarp Persson"]
+[Black "Torbjorn Thomsen"]
+[ECO "D43"]
+[WhiteElo "2475"]
+[BlackElo "2170"]
+[PlyCount "43"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.Bg5 Nbd7 6.e3 Be7 7.Qc2 O-O 8.O-O-O b6 9.h4 Ba6 10.Ne5 Nxe5 11.dxe5 Nd7 12.cxd5 Nc5 13.d6 Bxg5 14.hxg5 g6 15.Bxa6 Nxa6 16.Ne4 f5 17.gxf6 Nb4 18.Rxh7 Kxh7 19.Ng5+ Kh6 20.Rh1+ Kxg5 21.f4+ Kg4 22.Qxg6# 1-0
