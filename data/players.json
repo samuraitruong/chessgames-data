@@ -11665,7 +11665,8 @@
     "name": "BREGADZE, Levan",
     "year": "2001-2019",
     "games": 309,
-    "id": "110378"
+    "id": "110378",
+    "synced": true
   },
   {
     "higestRating": 2600,
@@ -33718,7 +33719,8 @@
     "name": "FILIPOVICH, David",
     "year": "1978-2022",
     "games": 88,
-    "id": "10093"
+    "id": "10093",
+    "synced": true
   },
   {
     "higestRating": 2359,
@@ -40263,7 +40265,8 @@
     "name": "DEL CASTILHO, Martyn",
     "year": "2004-2020",
     "games": 71,
-    "id": "127225"
+    "id": "127225",
+    "synced": true
   },
   {
     "higestRating": 2333,
@@ -53856,7 +53859,8 @@
     "name": "BABIKOV, Ivan",
     "year": "2009-2019",
     "games": 46,
-    "id": "132042"
+    "id": "132042",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -72874,7 +72878,8 @@
     "name": "BORODAY, Sergey",
     "year": "1992-2008",
     "games": 27,
-    "id": "86532"
+    "id": "86532",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -83504,7 +83509,8 @@
     "name": "LESKOVAR, Matias",
     "year": "1998-2017",
     "games": 20,
-    "id": "42720"
+    "id": "42720",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -90341,7 +90347,8 @@
     "name": "STAECHELIN, Ruedi",
     "year": "1983-2017",
     "games": 17,
-    "id": "70361"
+    "id": "70361",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -101105,7 +101112,8 @@
     "name": "RODRIGUEZ, David Lana",
     "year": "2010-2014",
     "games": 4,
-    "id": "132265"
+    "id": "132265",
+    "synced": true
   },
   {
     "higestRating": 2276,
