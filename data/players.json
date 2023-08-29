@@ -5184,7 +5184,8 @@
     "name": "SACHDEV, Tania",
     "year": "1996-2022",
     "games": 680,
-    "id": "98434"
+    "id": "98434",
+    "synced": true
   },
   {
     "higestRating": 2555,
@@ -36458,7 +36459,8 @@
     "name": "FUS, Jakub",
     "year": "2017-2022",
     "games": 81,
-    "id": "158875"
+    "id": "158875",
+    "synced": true
   },
   {
     "higestRating": 2397,
@@ -83104,7 +83106,8 @@
     "name": "JIMENEZ, Jesus Alberto Alcazar",
     "year": "1995-2007",
     "games": 20,
-    "id": "10962"
+    "id": "10962",
+    "synced": true
   },
   {
     "higestRating": 2213,
