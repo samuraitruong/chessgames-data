@@ -27321,7 +27321,8 @@
     "name": "PERSHIN, Denis",
     "year": "2012-2023",
     "games": 115,
-    "id": "141351"
+    "id": "141351",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -28108,7 +28109,8 @@
     "name": "TAPASZTO, Laszlo Binet",
     "year": "1954-2011",
     "games": 111,
-    "id": "45063"
+    "id": "45063",
+    "synced": true
   },
   {
     "higestRating": 2233,
@@ -38644,7 +38646,8 @@
     "name": "PENG, Xiongjian",
     "year": "2016-2023",
     "games": 75,
-    "id": "156956"
+    "id": "156956",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -47664,7 +47667,8 @@
     "name": "CASAFUS, Ruben Andres",
     "year": "1977-1999",
     "games": 55,
-    "id": "38791"
+    "id": "38791",
+    "synced": true
   },
   {
     "higestRating": 2231,
@@ -69585,7 +69589,8 @@
     "name": "RIMAWI, Bahjat T",
     "year": "1986-2008",
     "games": 29,
-    "id": "34219"
+    "id": "34219",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -70239,7 +70244,8 @@
     "name": "WEINWURM, Wolfgang",
     "year": "1959-2012",
     "games": 29,
-    "id": "97370"
+    "id": "97370",
+    "synced": true
   },
   {
     "higestRating": 2349,
@@ -82643,7 +82649,8 @@
     "name": "MESZAROS, Ignac",
     "year": "1955-2008",
     "games": 21,
-    "id": "121132"
+    "id": "121132",
+    "synced": true
   },
   {
     "higestRating": 2304,
@@ -86589,7 +86596,8 @@
     "name": "ZACURDAJEV, Mikhail",
     "year": "2002-2007",
     "games": 19,
-    "id": "107251"
+    "id": "107251",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -94514,7 +94522,8 @@
     "name": "METRAL, Jean-Paul",
     "year": "1989-1993",
     "games": 15,
-    "id": "37583"
+    "id": "37583",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -95685,7 +95694,8 @@
     "name": "JAZBINSEK, Sebastjan",
     "year": "1992-2005",
     "games": 15,
-    "id": "98842"
+    "id": "98842",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -98831,7 +98841,8 @@
     "name": "TOOMANIAN, Hamlet",
     "year": "2001",
     "games": 9,
-    "id": "53943"
+    "id": "53943",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -99088,7 +99099,8 @@
     "name": "KISELEV, Pavel",
     "year": "2012",
     "games": 9,
-    "id": "141338"
+    "id": "141338",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -102211,7 +102223,8 @@
     "name": "LUNA, Pedro Toledano",
     "year": "1996",
     "games": 1,
-    "id": "101948"
+    "id": "101948",
+    "synced": true
   },
   {
     "higestRating": 2320,

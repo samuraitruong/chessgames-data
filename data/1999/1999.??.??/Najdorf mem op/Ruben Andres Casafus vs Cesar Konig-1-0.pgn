@@ -1,0 +1,14 @@
+[Event "Najdorf mem op"]
+[Site "Buenos Aires"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Ruben Andres Casafus"]
+[Black "Cesar Konig"]
+[ECO "D02"]
+[WhiteElo "2364"]
+[BlackElo "2145"]
+[PlyCount "39"]
+
+1. d4 Nc6 2. Nf3 d5 3. Bg5 Bg4 4. Nbd2 h6 5. Bh4 g5 6. Bg3 Bg7 7. c3 e6 8. h4 Bxf3 9. exf3 Nge7 10. hxg5 hxg5 11. Rxh8+ Bxh8 12. f4 Ng6 13. fxg5 Qxg5 14. Bxc7 Kd7 15. Nf3 Qg4 16. Bg3 Qe4+ 17. Kd2 b6 18. Bb5 Rc8 19. Qa4 Nf4 20. Re1 1-0
