@@ -1,0 +1,14 @@
+[Event "Pardubice Czech op"]
+[Site "Pardubice CZE"]
+[Date "1998.07.20"]
+[EventDate "1998.07.17"]
+[Round "4"]
+[Result "0-1"]
+[White "Vladimir Grabinsky"]
+[Black "Pavel Jirovsky"]
+[ECO "A36"]
+[WhiteElo "2230"]
+[BlackElo "2375"]
+[PlyCount "46"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.a3 d6 6.Rb1 a5 7.d3 e5 8.Nf3 Nge7 9.O-O O-O 10.Ne1 Be6 11.Nc2 d5 12.cxd5 Nxd5 13.Ne3 Nde7 14.Qa4 Nd4 15.Nc4 b5 16.Nxb5 Bd7 17.Qd1 Bxb5 18.Bxa8 Qxa8 19.b4 cxb4 20.axb4 axb4 21.Rxb4 Nd5 22.Rb2 Nc3 23.Qe1 Ncxe2+ 0-1
