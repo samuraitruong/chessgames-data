@@ -14077,7 +14077,8 @@
     "name": "FAIZRAKHMANOV, Ramil",
     "year": "2010-2023",
     "games": 255,
-    "id": "139683"
+    "id": "139683",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -17040,7 +17041,8 @@
     "name": "BOJKOV, Dejan",
     "year": "2001-2017",
     "games": 207,
-    "id": "48977"
+    "id": "48977",
+    "synced": true
   },
   {
     "higestRating": 2557,
@@ -36311,7 +36313,8 @@
     "name": "KASPRET, Guido",
     "year": "1977-2010",
     "games": 81,
-    "id": "49900"
+    "id": "49900",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -48670,7 +48673,8 @@
     "name": "ILLNER, Achim",
     "year": "1990-2012",
     "games": 54,
-    "id": "128514"
+    "id": "128514",
+    "synced": true
   },
   {
     "higestRating": 2442,
@@ -83118,7 +83122,8 @@
     "name": "KHOLMIRZAEV, Bakhodir",
     "year": "2004-2017",
     "games": 21,
-    "id": "149963"
+    "id": "149963",
+    "synced": true
   },
   {
     "higestRating": 2292,

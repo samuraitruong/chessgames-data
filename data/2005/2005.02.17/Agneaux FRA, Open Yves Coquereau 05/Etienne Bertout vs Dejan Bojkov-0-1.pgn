@@ -1,0 +1,14 @@
+[Event "Agneaux FRA, Open Yves Coquereau 05"]
+[Site "Agneaux FRA"]
+[Date "2005.02.17"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Etienne Bertout"]
+[Black "Dejan Bojkov"]
+[ECO "C00"]
+[WhiteElo "1499"]
+[BlackElo "2505"]
+[PlyCount "36"]
+
+1.e4 e6 2.Nf3 d5 3.Nc3 Bb4 4.d3 d4 5.Bd2 dxc3 6.Bxc3 Bxc3+ 7.bxc3 Nf6 8.h3 Nc6 9.e5 Nd5 10.Qd2 Bd7 11.d4 f6 12.c4 Nb6 13.d5 Nxe5 14.Nxe5 fxe5 15.c5 Nxd5 16.g3 Qf6 17.Bg2 e4 18.O-O-O Qa1# 0-1
