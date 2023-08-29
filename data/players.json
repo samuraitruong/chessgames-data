@@ -5119,7 +5119,8 @@
     "name": "RODRIGUEZ, Walter Arencibia",
     "year": "1984-2019",
     "games": 688,
-    "id": "29190"
+    "id": "29190",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -81030,7 +81031,8 @@
     "name": "BRESSAC, Stephane",
     "year": "2011-2021",
     "games": 22,
-    "id": "128839"
+    "id": "128839",
+    "synced": true
   },
   {
     "higestRating": 2607,
