@@ -9863,7 +9863,8 @@
     "name": "PIKULA, Dejan",
     "year": "1990-2022",
     "games": 371,
-    "id": "60395"
+    "id": "60395",
+    "synced": true
   },
   {
     "higestRating": 2468,
@@ -34859,7 +34860,8 @@
     "name": "LOEW, Gerald",
     "year": "1985-2018",
     "games": 85,
-    "id": "57715"
+    "id": "57715",
+    "synced": true
   },
   {
     "higestRating": 2362,
@@ -49988,7 +49990,8 @@
     "name": "HAESSLER, Carl",
     "year": "1983-2017",
     "games": 51,
-    "id": "53365"
+    "id": "53365",
+    "synced": true
   },
   {
     "higestRating": 2299,
@@ -53318,7 +53321,8 @@
     "name": "MERCADANTE, Ricardo Rodrigues",
     "year": "1978-2001",
     "games": 47,
-    "id": "168588"
+    "id": "168588",
+    "synced": true
   },
   {
     "higestRating": 2283,
@@ -63871,7 +63875,8 @@
     "name": "PEVZNER, Lev",
     "year": "2001-2008",
     "games": 34,
-    "id": "49061"
+    "id": "49061",
+    "synced": true
   },
   {
     "higestRating": 2472,
@@ -71963,7 +71968,8 @@
     "name": "GOFF, Damien Le",
     "year": "2008-2021",
     "games": 28,
-    "id": "130278"
+    "id": "130278",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -83881,7 +83887,8 @@
     "name": "VENEMAN, Henry",
     "year": "1995-2001",
     "games": 20,
-    "id": "56121"
+    "id": "56121",
+    "synced": true
   },
   {
     "higestRating": 2226,
@@ -88873,7 +88880,8 @@
     "name": "GROCHAL, Joey",
     "year": "2007-2019",
     "games": 18,
-    "id": "112098"
+    "id": "112098",
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -95090,7 +95098,8 @@
     "name": "FRANK, Paul",
     "year": "2001-2017",
     "games": 15,
-    "id": "55057"
+    "id": "55057",
+    "synced": true
   },
   {
     "higestRating": 2210,
