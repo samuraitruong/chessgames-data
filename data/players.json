@@ -322,7 +322,8 @@
     "name": "GODENA, Michele",
     "year": "1980-2023",
     "games": 2417,
-    "id": "17040"
+    "id": "17040",
+    "synced": true
   },
   {
     "higestRating": 2816,
@@ -48479,7 +48480,8 @@
     "name": "THOMAS, Nicholas",
     "year": "1983-2012",
     "games": 54,
-    "id": "78900"
+    "id": "78900",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -60769,7 +60771,8 @@
     "name": "MARATKANOV, Evgeny",
     "year": "2000-2016",
     "games": 37,
-    "id": "10888"
+    "id": "10888",
+    "synced": true
   },
   {
     "higestRating": 2202,
@@ -88057,7 +88060,8 @@
     "name": "SCHLANDER, Sabine",
     "year": "1999-2001",
     "games": 18,
-    "id": "56974"
+    "id": "56974",
+    "synced": true
   },
   {
     "higestRating": 2248,
@@ -91370,7 +91374,8 @@
     "name": "VASILYEV, Mikhail",
     "year": "1992-2019",
     "games": 17,
-    "id": "139356"
+    "id": "139356",
+    "synced": true
   },
   {
     "higestRating": 2252,
