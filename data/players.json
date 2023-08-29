@@ -23756,7 +23756,8 @@
     "name": "HARTMAN, Christer",
     "year": "1980-2000",
     "games": 138,
-    "id": "17748"
+    "id": "17748",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -31521,7 +31522,8 @@
     "name": "KOVACS, Gabor",
     "year": "1993-2021",
     "games": 97,
-    "id": "50804"
+    "id": "50804",
+    "synced": true
   },
   {
     "higestRating": 2426,
@@ -38782,7 +38784,8 @@
     "name": "KRISTENSEN, Kaare Hove",
     "year": "1987-2021",
     "games": 74,
-    "id": "35513"
+    "id": "35513",
+    "synced": true
   },
   {
     "higestRating": 2234,
@@ -53290,7 +53293,8 @@
     "name": "PEDERSEN, Henrik Bolding",
     "year": "1989-2015",
     "games": 46,
-    "id": "22736"
+    "id": "22736",
+    "synced": true
   },
   {
     "higestRating": 2329,
@@ -55252,7 +55256,8 @@
     "name": "SORKIN, Igor",
     "year": "1994-2016",
     "games": 44,
-    "id": "95608"
+    "id": "95608",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -61585,7 +61590,8 @@
     "name": "AUNG, Aung Myo Hlaing Aung",
     "year": "1999-2015",
     "games": 36,
-    "id": "11036"
+    "id": "11036",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -70034,7 +70040,8 @@
     "name": "TREYBAL, Dusan",
     "year": "1976-2008",
     "games": 29,
-    "id": "74149"
+    "id": "74149",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -83815,7 +83822,8 @@
     "name": "MIROSLAW, Michal",
     "year": "1998-2018",
     "games": 20,
-    "id": "57934"
+    "id": "57934",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -89313,7 +89321,8 @@
     "name": "BALLEISEN, Aaron",
     "year": "2015-2019",
     "games": 18,
-    "id": "157396"
+    "id": "157396",
+    "synced": true
   },
   {
     "higestRating": 2349,
