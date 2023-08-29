@@ -9620,7 +9620,8 @@
     "name": "ZHOU, Weiqi",
     "year": "2000-2023",
     "games": 380,
-    "id": "51561"
+    "id": "51561",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -26579,7 +26580,8 @@
     "name": "BRISCOE, Christopher",
     "year": "2001-2023",
     "games": 119,
-    "id": "87026"
+    "id": "87026",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -31609,7 +31611,8 @@
     "name": "CUMMING, Rhys",
     "year": "2006-2021",
     "games": 97,
-    "id": "107870"
+    "id": "107870",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -46471,7 +46474,8 @@
     "name": "POSCHEL, Paul",
     "year": "1945-1986",
     "games": 57,
-    "id": "24421"
+    "id": "24421",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -54096,7 +54100,8 @@
     "name": "PAUNOVIC, Tomislav",
     "year": "1979-2009",
     "games": 45,
-    "id": "38301"
+    "id": "38301",
+    "synced": true
   },
   {
     "higestRating": 2213,
@@ -67764,7 +67769,8 @@
     "name": "DE BOER, Sybolt",
     "year": "1994-2006",
     "games": 31,
-    "id": "95489"
+    "id": "95489",
+    "synced": true
   },
   {
     "higestRating": 2363,
