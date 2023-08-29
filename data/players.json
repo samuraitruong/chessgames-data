@@ -3240,7 +3240,8 @@
     "name": "KOVACEVIC, Aleksandar",
     "year": "1989-2023",
     "games": 958,
-    "id": "37987"
+    "id": "37987",
+    "synced": true
   },
   {
     "higestRating": 2555,
@@ -25500,7 +25501,8 @@
     "name": "SZYMANSKI, Marcin",
     "year": "1993-2011",
     "games": 125,
-    "id": "29594"
+    "id": "29594",
+    "synced": true
   },
   {
     "higestRating": 2442,
@@ -59408,7 +59410,8 @@
     "name": "PEDERSEN, Finn",
     "year": "1983-2009",
     "games": 39,
-    "id": "66476"
+    "id": "66476",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -80998,7 +81001,8 @@
     "name": "SANTIC, Berislav",
     "year": "1998-2011",
     "games": 22,
-    "id": "128270"
+    "id": "128270",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -84382,7 +84386,8 @@
     "name": "PREGARAC, Valter",
     "year": "2002-2017",
     "games": 20,
-    "id": "96743"
+    "id": "96743",
+    "synced": true
   },
   {
     "higestRating": 2304,
@@ -87092,7 +87097,8 @@
     "name": "TIRATURYAN, David",
     "year": "2012-2021",
     "games": 19,
-    "id": "139472"
+    "id": "139472",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -100721,7 +100727,8 @@
     "name": "PECHISKER, Alfred",
     "year": "2000-2007",
     "games": 5,
-    "id": "135977"
+    "id": "135977",
+    "synced": true
   },
   {
     "higestRating": 2326,
