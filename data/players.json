@@ -8062,7 +8062,8 @@
     "name": "RUDD, Jack",
     "year": "1994-2023",
     "games": 453,
-    "id": "11518"
+    "id": "11518",
+    "synced": true
   },
   {
     "higestRating": 2631,
@@ -10602,7 +10603,8 @@
     "name": "VUCKOVIC, Bojan",
     "year": "1995-2020",
     "games": 343,
-    "id": "52149"
+    "id": "52149",
+    "synced": true
   },
   {
     "higestRating": 2576,
@@ -47520,7 +47522,8 @@
     "name": "ZHANG, Lanlin",
     "year": "2017-2023",
     "games": 56,
-    "id": "158330"
+    "id": "158330",
+    "synced": true
   },
   {
     "higestRating": 2429,
@@ -74376,7 +74379,8 @@
     "name": "EJSMONT, Krzysztof",
     "year": "2004-2007",
     "games": 26,
-    "id": "98703"
+    "id": "98703",
+    "synced": true
   },
   {
     "higestRating": 2442,
@@ -87780,7 +87784,8 @@
     "name": "GYPSER, Andreas",
     "year": "1998-2006",
     "games": 18,
-    "id": "50048"
+    "id": "50048",
+    "synced": true
   },
   {
     "higestRating": 2323,
