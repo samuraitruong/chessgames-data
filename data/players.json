@@ -5459,7 +5459,8 @@
     "name": "RUBINETTI, Jorge",
     "year": "1961-2005",
     "games": 656,
-    "id": "16273"
+    "id": "16273",
+    "synced": true
   },
   {
     "higestRating": 2374,
@@ -34266,7 +34267,8 @@
     "name": "RAMONDINO, Renzo",
     "year": "2002-2019",
     "games": 87,
-    "id": "113081"
+    "id": "113081",
+    "synced": true
   },
   {
     "higestRating": 2388,
