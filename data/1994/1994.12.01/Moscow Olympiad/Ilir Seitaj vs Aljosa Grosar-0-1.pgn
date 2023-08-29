@@ -1,0 +1,15 @@
+[Event "Moscow Olympiad"]
+[Site "Moscow RUS"]
+[Date "1994.12.03"]
+[EventDate "1994.12.01"]
+[Round "3"]
+[Result "0-1"]
+[White "Ilir Seitaj"]
+[Black "Aljosa Grosar"]
+[ECO "B58"]
+[WhiteElo "2420"]
+[BlackElo "2430"]
+[Source "Olimpbase"]
+[PlyCount "74"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 e5 7.Nf3 h6 8.O-O Be7 9.Re1 O-O 10.h3 Be6 11.Bf1 Nb8 12.Nd5 Nxd5 13.exd5 Bf5 14.a4 Qc7 15.c3 Bg6 16.a5 a6 17.Nd2 Nd7 18.c4 Rfe8 19.b4 Bh4 20.Ra3 f5 21.Nb3 Kh7 22.Bb2 Rac8 23.g3 Bf6 24.h4 Kh8 25.Ra1 Qd8 26.Rc1 e4 27.Bxf6 Qxf6 28.f4 exf3 29. Qxf3 Ne5 30.Qf4 Bh5 31.Nd4 g5 32.hxg5 hxg5 33.Qf2 Ng4 34.Qd2 f4 35.Rc3 Rxe1 36.gxf4 Qxf4 37.Qxe1 Qh2# 0-1

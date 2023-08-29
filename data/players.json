@@ -10093,7 +10093,8 @@
     "name": "GROSAR, Aljosa",
     "year": "1985-2004",
     "games": 361,
-    "id": "14463"
+    "id": "14463",
+    "synced": true
   },
   {
     "higestRating": 2613,
@@ -42592,7 +42593,8 @@
     "name": "LOEBLER, Heimo",
     "year": "1989-2014",
     "games": 65,
-    "id": "21982"
+    "id": "21982",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -51996,7 +51998,8 @@
     "name": "SOLIS, Guillermo Scholz",
     "year": "1976-1989",
     "games": 48,
-    "id": "84741"
+    "id": "84741",
+    "synced": true
   },
   {
     "higestRating": 2378,
@@ -53025,7 +53028,8 @@
     "name": "SWAN, Iain",
     "year": "1988-2013",
     "games": 47,
-    "id": "108567"
+    "id": "108567",
+    "synced": true
   },
   {
     "higestRating": 2353,
@@ -57651,7 +57655,8 @@
     "name": "PIVEN, Igor",
     "year": "1984-2003",
     "games": 41,
-    "id": "90041"
+    "id": "90041",
+    "synced": true
   },
   {
     "higestRating": 2528,
