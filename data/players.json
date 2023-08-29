@@ -1037,7 +1037,8 @@
     "name": "LIEM, Le Quang",
     "year": "2002-2023",
     "games": 1636,
-    "id": "99199"
+    "id": "99199",
+    "synced": true
   },
   {
     "higestRating": 2521,
@@ -37070,7 +37071,8 @@
     "name": "SALIH, Akar Ali",
     "year": "2012-2022",
     "games": 79,
-    "id": "140130"
+    "id": "140130",
+    "synced": true
   },
   {
     "higestRating": 2363,
@@ -37196,7 +37198,8 @@
     "name": "ROEDER, Frank",
     "year": "1969-1999",
     "games": 78,
-    "id": "19744"
+    "id": "19744",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -60781,7 +60784,8 @@
     "name": "ROCCO, Federico",
     "year": "2015-2023",
     "games": 38,
-    "id": "154042"
+    "id": "154042",
+    "synced": true
   },
   {
     "higestRating": 2226,
@@ -93207,7 +93211,8 @@
     "name": "OTT, Roland",
     "year": "1972-1976",
     "games": 16,
-    "id": "92897"
+    "id": "92897",
+    "synced": true
   },
   {
     "higestRating": 2430,
