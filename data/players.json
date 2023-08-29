@@ -7609,7 +7609,8 @@
     "name": "VARGAS, Orestes Rodriguez",
     "year": "1964-2012",
     "games": 479,
-    "id": "15584"
+    "id": "15584",
+    "synced": true
   },
   {
     "higestRating": 2475,
@@ -60845,7 +60846,8 @@
     "name": "ZAVORONKOV, Vladimir",
     "year": "1992-2012",
     "games": 37,
-    "id": "25276"
+    "id": "25276",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -87527,7 +87529,8 @@
     "name": "VON GLEICH, Alexander",
     "year": "1989-1996",
     "games": 18,
-    "id": "26296"
+    "id": "26296",
+    "synced": true
   },
   {
     "higestRating": 2267,
