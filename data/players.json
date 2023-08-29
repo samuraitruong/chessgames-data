@@ -12921,7 +12921,8 @@
     "name": "NASUTA, Grzegorz",
     "year": "2007-2023",
     "games": 278,
-    "id": "128364"
+    "id": "128364",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -17414,7 +17415,8 @@
     "name": "DOLZHYKOVA, Kateryna",
     "year": "2000-2023",
     "games": 202,
-    "id": "87925"
+    "id": "87925",
+    "synced": true
   },
   {
     "higestRating": 2462,
@@ -42586,7 +42588,8 @@
     "name": "BULAT, Ante",
     "year": "1953-2005",
     "games": 65,
-    "id": "26438"
+    "id": "26438",
+    "synced": true
   },
   {
     "higestRating": 2287,
@@ -60697,7 +60700,8 @@
     "name": "LONDON, Dimitri",
     "year": "1982-1994",
     "games": 37,
-    "id": "15591"
+    "id": "15591",
+    "synced": true
   },
   {
     "higestRating": 2333,
@@ -60950,7 +60954,8 @@
     "name": "KOUNTZ, Jochen",
     "year": "1988-2006",
     "games": 37,
-    "id": "55072"
+    "id": "55072",
+    "synced": true
   },
   {
     "higestRating": 2393,
