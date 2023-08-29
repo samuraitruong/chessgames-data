@@ -13815,7 +13815,8 @@
     "name": "DE JONG, Migchiel",
     "year": "1991-2019",
     "games": 259,
-    "id": "84654"
+    "id": "84654",
+    "synced": true
   },
   {
     "higestRating": 2462,
@@ -35193,7 +35194,8 @@
     "name": "STERN, Werner",
     "year": "1965-2002",
     "games": 84,
-    "id": "90150"
+    "id": "90150",
+    "synced": true
   },
   {
     "higestRating": 2600,
@@ -43135,7 +43137,8 @@
     "name": "LAGUMINA, Giulio",
     "year": "1982-2017",
     "games": 64,
-    "id": "30757"
+    "id": "30757",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -51187,7 +51190,8 @@
     "name": "SCHUBERT, Christian",
     "year": "1975-1998",
     "games": 49,
-    "id": "44474"
+    "id": "44474",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -64475,7 +64479,8 @@
     "name": "GRANDADAM, Patrik",
     "year": "2006-2016",
     "games": 34,
-    "id": "128849"
+    "id": "128849",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -73341,7 +73346,8 @@
     "name": "OKIKE, David",
     "year": "1993-2017",
     "games": 27,
-    "id": "148514"
+    "id": "148514",
+    "synced": true
   },
   {
     "higestRating": 2201,
@@ -93442,7 +93448,8 @@
     "name": "ASLANOV, Sergei",
     "year": "2007-2016",
     "games": 16,
-    "id": "109129"
+    "id": "109129",
+    "synced": true
   },
   {
     "higestRating": 2216,
