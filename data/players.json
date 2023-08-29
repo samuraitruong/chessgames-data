@@ -4488,7 +4488,8 @@
     "name": "TRENT, Lawrence",
     "year": "1998-2022",
     "games": 760,
-    "id": "50412"
+    "id": "50412",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -47767,7 +47768,8 @@
     "name": "KRALEVSKI, Aleksandar",
     "year": "1998-2015",
     "games": 55,
-    "id": "57163"
+    "id": "57163",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -53405,7 +53407,8 @@
     "name": "VOGEL, Heike",
     "year": "2001-2011",
     "games": 46,
-    "id": "51194"
+    "id": "51194",
+    "synced": true
   },
   {
     "higestRating": 2329,
@@ -72640,7 +72643,8 @@
     "name": "WEISSENBECK, Manuel",
     "year": "1991-2018",
     "games": 27,
-    "id": "58592"
+    "id": "58592",
+    "synced": true
   },
   {
     "higestRating": 2220,
