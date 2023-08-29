@@ -8502,7 +8502,8 @@
     "name": "NIKITENKO, Mihail",
     "year": "2012-2023",
     "games": 427,
-    "id": "149791"
+    "id": "149791",
+    "synced": true
   },
   {
     "higestRating": 2485,
@@ -57940,7 +57941,8 @@
     "name": "BIRTWISTLE, Nigel",
     "year": "2009-2022",
     "games": 41,
-    "id": "122848"
+    "id": "122848",
+    "synced": true
   },
   {
     "higestRating": 2379,
@@ -68175,7 +68177,8 @@
     "name": "STROMBOLI, Ettore",
     "year": "2003-2019",
     "games": 31,
-    "id": "149771"
+    "id": "149771",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -76015,7 +76018,8 @@
     "name": "BOTVINNIK, Ilia",
     "year": "1993-2012",
     "games": 25,
-    "id": "89389"
+    "id": "89389",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -99798,7 +99802,8 @@
     "name": "MAKAROV, Andrei",
     "year": "1966-1998",
     "games": 7,
-    "id": "62914"
+    "id": "62914",
+    "synced": true
   },
   {
     "higestRating": 2423,
