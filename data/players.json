@@ -3089,7 +3089,8 @@
     "name": "LANDA, Konstantin",
     "year": "1985-2020",
     "games": 987,
-    "id": "14495"
+    "id": "14495",
+    "synced": true
   },
   {
     "higestRating": 2465,
@@ -65646,7 +65647,8 @@
     "name": "YERITSYAN, Hayk",
     "year": "2017-2019",
     "games": 33,
-    "id": "159300"
+    "id": "159300",
+    "synced": true
   },
   {
     "higestRating": 2234,
@@ -83298,7 +83300,8 @@
     "name": "HUISL, Wolfgang",
     "year": "1975-1992",
     "games": 20,
-    "id": "34980"
+    "id": "34980",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -93146,7 +93149,8 @@
     "name": "KREBS, Johann",
     "year": "1992-2019",
     "games": 16,
-    "id": "99427"
+    "id": "99427",
+    "synced": true
   },
   {
     "higestRating": 2297,
