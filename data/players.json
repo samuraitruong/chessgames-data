@@ -620,7 +620,8 @@
     "name": "GANGULY, Surya Shekhar",
     "year": "1991-2022",
     "games": 1983,
-    "id": "49536"
+    "id": "49536",
+    "synced": true
   },
   {
     "higestRating": 2676,
@@ -19519,7 +19520,8 @@
     "name": "NOWAK, Ignacy",
     "year": "1971-1997",
     "games": 176,
-    "id": "19604"
+    "id": "19604",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -47015,7 +47017,8 @@
     "name": "MOLINAROLI, Martin",
     "year": "1987-2015",
     "games": 56,
-    "id": "18226"
+    "id": "18226",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -51790,7 +51793,8 @@
     "name": "XU, Hanbing",
     "year": "2000-2011",
     "games": 48,
-    "id": "48915"
+    "id": "48915",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -59796,7 +59800,8 @@
     "name": "SARGISSYAN, Sargis",
     "year": "2014-2018",
     "games": 39,
-    "id": "149268"
+    "id": "149268",
+    "synced": true
   },
   {
     "higestRating": 2226,
