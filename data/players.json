@@ -1984,7 +1984,8 @@
     "name": "POSTNY, Evgeny",
     "year": "1997-2022",
     "games": 1239,
-    "id": "51579"
+    "id": "51579",
+    "synced": true
   },
   {
     "higestRating": 2625,
@@ -23382,7 +23383,8 @@
     "name": "MICHELI, Carlo",
     "year": "1969-2015",
     "games": 141,
-    "id": "23609"
+    "id": "23609",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -42974,7 +42976,8 @@
     "name": "WHEELER, Cameron",
     "year": "2012-2019",
     "games": 65,
-    "id": "138161"
+    "id": "138161",
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -62611,7 +62614,8 @@
     "name": "HUERTA, Ramon",
     "year": "1980-2004",
     "games": 35,
-    "id": "20750"
+    "id": "20750",
+    "synced": true
   },
   {
     "higestRating": 2246,
@@ -86913,7 +86917,8 @@
     "name": "ANADON, Daniel Gomez",
     "year": "2001-2020",
     "games": 19,
-    "id": "132979"
+    "id": "132979",
+    "synced": true
   },
   {
     "higestRating": 2446,
@@ -92278,7 +92283,8 @@
     "name": "ORTEGA, Luis Olaizola",
     "year": "1991-2003",
     "games": 16,
-    "id": "53597"
+    "id": "53597",
+    "synced": true
   },
   {
     "higestRating": 2293,
@@ -97774,7 +97780,8 @@
     "name": "PURUSHOTHAMAN, Thirumalai",
     "year": "2003-2008",
     "games": 12,
-    "id": "117362"
+    "id": "117362",
+    "synced": true
   },
   {
     "higestRating": 2263,
