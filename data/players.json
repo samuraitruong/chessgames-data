@@ -2972,7 +2972,8 @@
     "name": "MARJANOVIC, Slavoljub",
     "year": "1970-2013",
     "games": 1011,
-    "id": "16966"
+    "id": "16966",
+    "synced": true
   },
   {
     "higestRating": 2636,
@@ -70097,7 +70098,8 @@
     "name": "KOPAL, Josef",
     "year": "1994-2010",
     "games": 29,
-    "id": "84956"
+    "id": "84956",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -87682,7 +87684,8 @@
     "name": "KIVIOJA, Endel",
     "year": "1960-1984",
     "games": 18,
-    "id": "47838"
+    "id": "47838",
+    "synced": true
   },
   {
     "higestRating": 2260,
