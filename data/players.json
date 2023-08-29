@@ -6513,7 +6513,8 @@
     "name": "RUKAVINA, Josip",
     "year": "1971-2015",
     "games": 546,
-    "id": "15378"
+    "id": "15378",
+    "synced": true
   },
   {
     "higestRating": 2580,
@@ -17575,7 +17576,8 @@
     "name": "LEVY, David",
     "year": "1963-1989",
     "games": 199,
-    "id": "16097"
+    "id": "16097",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -30860,7 +30862,8 @@
     "name": "CLADOURAS, Panagiotis",
     "year": "1983-2003",
     "games": 99,
-    "id": "19735"
+    "id": "19735",
+    "synced": true
   },
   {
     "higestRating": 2370,

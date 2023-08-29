@@ -1,0 +1,14 @@
+[Event "SCO-ch"]
+[Site "Aberdeen SCO"]
+[Date "1975.07.13"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "David Neil Lawrence Levy"]
+[Black "Simon Robert Gillam"]
+[ECO "B09"]
+[WhiteElo "2335"]
+[BlackElo "2000"]
+[PlyCount "45"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4 Nf6 5.Nf3 O-O 6.Bd3 Nc6 7.e5 dxe5 8.dxe5 Nd5 9.Bd2 Ndb4 10.Be4 Bg4 11.a3 Na6 12.Be3 Qxd1+ 13.Rxd1 Rfd8 14.Kf2 Bf5 15.Bxf5 gxf5 16.b4 Naxb4 17.axb4 Nxb4 18.Rxd8+ Rxd8 19.Rd1 Rxd1 20.Nxd1 Nxc2 21.Bxa7 b6 22.Bb8 c5 23.Ba7 1-0
