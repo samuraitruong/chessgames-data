@@ -11056,7 +11056,8 @@
     "name": "TRAPL, Jindrich",
     "year": "1960-2008",
     "games": 329,
-    "id": "67071"
+    "id": "67071",
+    "synced": true
   },
   {
     "higestRating": 2582,
@@ -19132,7 +19133,8 @@
     "name": "JOKSIC, Sinisa",
     "year": "1966-2008",
     "games": 180,
-    "id": "39393"
+    "id": "39393",
+    "synced": true
   },
   {
     "higestRating": 2233,
@@ -29110,7 +29112,8 @@
     "name": "GHUKASYAN, Siranush",
     "year": "2011-2021",
     "games": 107,
-    "id": "152866"
+    "id": "152866",
+    "synced": true
   },
   {
     "higestRating": 2472,
@@ -92124,7 +92127,8 @@
     "name": "DAWIDOW, Jacek",
     "year": "1987-2004",
     "games": 16,
-    "id": "38072"
+    "id": "38072",
+    "synced": true
   },
   {
     "higestRating": 2359,
