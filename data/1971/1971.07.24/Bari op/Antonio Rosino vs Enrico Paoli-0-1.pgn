@@ -1,0 +1,14 @@
+[Event "Bari op"]
+[Site "Bari ITA"]
+[Date "1971.07.??"]
+[EventDate "1971.07.24"]
+[Round "?"]
+[Result "0-1"]
+[White "Antonio Rosino"]
+[Black "Enrico Paoli"]
+[ECO "B61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 d6 5.Nc3 Nf6 6.Bg5 Bd7 7.Qd2 Nxd4 8.Qxd4 Qa5 9.f4 e6 10.O-O-O Be7 11.e5 dxe5 12.fxe5 Bc6 13.Bb5 Bxb5 14.exf6 Bc6 15.fxe7 Qxg5+ 16.Kb1 Qf6 17.Qc5 Qxe7 18.Rd6 Rc8 19.Rhd1 O-O 20.Qxa7 Bxg2 21.Qd4 Bc6 22.h4 e5 0-1
