@@ -5995,7 +5995,8 @@
     "name": "GRETARSSON, Hjorvar Steinn",
     "year": "2003-2023",
     "games": 601,
-    "id": "105320"
+    "id": "105320",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -10666,7 +10667,8 @@
     "name": "ARBAKOV, Valentin",
     "year": "1966-2003",
     "games": 341,
-    "id": "18122"
+    "id": "18122",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -28349,7 +28351,8 @@
     "name": "RIBEIRO, Fernando",
     "year": "1985-2016",
     "games": 110,
-    "id": "27665"
+    "id": "27665",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -69920,7 +69923,8 @@
     "name": "GLODEANU, Ion",
     "year": "1994-2006",
     "games": 29,
-    "id": "54150"
+    "id": "54150",
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -93709,7 +93713,8 @@
     "name": "GARAKOV, Mikhael",
     "year": "2003-2017",
     "games": 16,
-    "id": "115940"
+    "id": "115940",
+    "synced": true
   },
   {
     "higestRating": 2304,
