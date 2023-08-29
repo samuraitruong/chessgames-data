@@ -13219,7 +13219,8 @@
     "name": "WERNER, Dimo",
     "year": "1975-2017",
     "games": 270,
-    "id": "22024"
+    "id": "22024",
+    "synced": true
   },
   {
     "higestRating": 2382,
@@ -38092,7 +38093,8 @@
     "name": "ERWICH, Frank",
     "year": "1996-2015",
     "games": 76,
-    "id": "50886"
+    "id": "50886",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -53829,7 +53831,8 @@
     "name": "AARON, Deepak",
     "year": "2006-2022",
     "games": 46,
-    "id": "131259"
+    "id": "131259",
+    "synced": true
   },
   {
     "higestRating": 2394,
@@ -65041,7 +65044,8 @@
     "name": "FATKHUTDINOV, Gafiyat",
     "year": "2001-2014",
     "games": 33,
-    "id": "52354"
+    "id": "52354",
+    "synced": true
   },
   {
     "higestRating": 2204,
@@ -71267,7 +71271,8 @@
     "name": "SIMON, Olivier",
     "year": "1999-2012",
     "games": 28,
-    "id": "57468"
+    "id": "57468",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -80561,7 +80566,8 @@
     "name": "FLUTUR, Gavril Draghici",
     "year": "2000-2018",
     "games": 22,
-    "id": "94498"
+    "id": "94498",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -90130,7 +90136,8 @@
     "name": "JAKUBOWSKI, Marcin",
     "year": "1998-2010",
     "games": 17,
-    "id": "57904"
+    "id": "57904",
+    "synced": true
   },
   {
     "higestRating": 2277,
@@ -93266,7 +93273,8 @@
     "name": "YAREMKO, Nazar",
     "year": "2002-2006",
     "games": 16,
-    "id": "99142"
+    "id": "99142",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -101153,7 +101161,8 @@
     "name": "ZAMORA, Alex Vidal",
     "year": "2015-2016",
     "games": 4,
-    "id": "155911"
+    "id": "155911",
+    "synced": true
   },
   {
     "higestRating": 2333,
