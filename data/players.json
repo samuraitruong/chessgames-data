@@ -13589,7 +13589,8 @@
     "name": "KRIVOBORODOV, Egor",
     "year": "1999-2019",
     "games": 264,
-    "id": "54703"
+    "id": "54703",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -41022,7 +41023,8 @@
     "name": "GOLDSTERN, Filip",
     "year": "1982-2019",
     "games": 69,
-    "id": "63019"
+    "id": "63019",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -47608,7 +47610,8 @@
     "name": "REYES, Romuel",
     "year": "1967-1992",
     "games": 55,
-    "id": "19307"
+    "id": "19307",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -48697,7 +48700,8 @@
     "name": "ORIMI, Mahdi Gholami",
     "year": "2016-2022",
     "games": 54,
-    "id": "157067"
+    "id": "157067",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -55615,7 +55619,8 @@
     "name": "SZABO, Zsolt",
     "year": "1989-1998",
     "games": 44,
-    "id": "169044"
+    "id": "169044",
+    "synced": true
   },
   {
     "higestRating": 2561,
@@ -57558,7 +57563,8 @@
     "name": "PETZOLD, Klaus",
     "year": "2001-2022",
     "games": 41,
-    "id": "55534"
+    "id": "55534",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -67534,7 +67540,8 @@
     "name": "KUNZ, Konstantin",
     "year": "1996-2006",
     "games": 31,
-    "id": "70368"
+    "id": "70368",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -77266,7 +77273,8 @@
     "name": "JOVANOVIC, Nenad R",
     "year": "1974-2011",
     "games": 24,
-    "id": "58178"
+    "id": "58178",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -97600,7 +97608,8 @@
     "name": "BISSIERES, Matthieu",
     "year": "2001-2017",
     "games": 12,
-    "id": "50659"
+    "id": "50659",
+    "synced": true
   },
   {
     "higestRating": 2333,
