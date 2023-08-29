@@ -1,0 +1,15 @@
+[Event "Moscow Olympiad"]
+[Site "Moscow RUS"]
+[Date "1994.12.03"]
+[EventDate "1994.12.01"]
+[Round "3"]
+[Result "0-1"]
+[White "John Miles Cochrane"]
+[Black "Boris Pineda"]
+[ECO "B40"]
+[WhiteElo "2215"]
+[BlackElo "2230"]
+[Source "Olimpbase"]
+[PlyCount "30"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.g3 g6 5.d4 cxd4 6.Nxd4 a6 7.Bg2 Bg7 8.Nb3 Nge7 9.Be3 O-O 10.O-O b5 11.Bc5 Re8 12.f4 Bb7 13.Qd2 Na5 14.Nd5 Nxb3 15. Nxe7+ Qxe7 0-1

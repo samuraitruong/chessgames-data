@@ -1,0 +1,14 @@
+[Event "Hanoi GM 2022"]
+[Site "Hanoi VIE"]
+[Date "2022.05.29"]
+[EventDate "2022.05.24"]
+[Round "9.5"]
+[Result "0-1"]
+[White "Nguyen Van Huy"]
+[Black "Anand Pranav"]
+[ECO "E00"]
+[WhiteElo "2405"]
+[BlackElo "2479"]
+[PlyCount "96"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O Nbd7 8. Qc2 c6 9. Rd1 b6 10. b3 a5 11. Bc3 Ne4 12. Bb2 Ba6 13. Nc3 f5 14. e3 Qe8 15. Ne2 g5 16. Ne5 Nxe5 17. dxe5 Rc8 18. Rac1 h5 19. Nd4 Qf7 20. f3 Nc5 21. Bf1 Bb7 22. h3 g4 23. hxg4 hxg4 24. fxg4 fxg4 25. Bg2 Kg7 26. Rf1 Qg6 27. Qxg6+ Kxg6 28. Rxf8 Rxf8 29. Rf1 Rc8 30. Ne2 dxc4 31. bxc4 Ba6 32. Nf4+ Kg7 33. Rc1 Kf7 34. Bd4 a4 35. Kf2 a3 36. Ke2 Na4 37. Be4 Nb2 38. Bg6+ Kg7 39. Bd3 Rh8 40. Kd2 Rh2+ 41. Ne2 Bb4+ 42. Kc2 Bxc4 43. Bxc4 Nxc4 44. Kd3 b5 45. Nf4 Kf7 46. Rf1 Nd2 47. Rc1 Nf3 48. Ne2 Ne1+ 0-1
