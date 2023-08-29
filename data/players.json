@@ -24007,7 +24007,8 @@
     "name": "DOMOGAEV, Sergey",
     "year": "2004-2019",
     "games": 137,
-    "id": "134031"
+    "id": "134031",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -35300,7 +35301,8 @@
     "name": "SHARBAF, Mohsen",
     "year": "2001-2017",
     "games": 84,
-    "id": "97890"
+    "id": "97890",
+    "synced": true
   },
   {
     "higestRating": 2282,
@@ -37049,7 +37051,8 @@
     "name": "RATKOVIC, Milovan",
     "year": "2008-2022",
     "games": 79,
-    "id": "119677"
+    "id": "119677",
+    "synced": true
   },
   {
     "higestRating": 2497,
@@ -39701,7 +39704,8 @@
     "name": "MUNIZ, Rafael",
     "year": "1994-2018",
     "games": 72,
-    "id": "58577"
+    "id": "58577",
+    "synced": true
   },
   {
     "higestRating": 2249,
@@ -40162,7 +40166,8 @@
     "name": "ANDREASEN, Per Naesby",
     "year": "1984-2013",
     "games": 71,
-    "id": "64340"
+    "id": "64340",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -49057,7 +49062,8 @@
     "name": "OLENIN, Nikolay",
     "year": "1995-2009",
     "games": 53,
-    "id": "54529"
+    "id": "54529",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -69641,7 +69647,8 @@
     "name": "ROOS, Thomas",
     "year": "1984-2010",
     "games": 29,
-    "id": "26295"
+    "id": "26295",
+    "synced": true
   },
   {
     "higestRating": 2243,
@@ -73053,7 +73060,8 @@
     "name": "FREIXAS, Alberto Gonzalez",
     "year": "1990-2008",
     "games": 27,
-    "id": "90620"
+    "id": "90620",
+    "synced": true
   },
   {
     "higestRating": 2313,
