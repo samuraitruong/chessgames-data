@@ -1793,7 +1793,8 @@
     "name": "KOMLJENOVIC, Davorin",
     "year": "1971-2017",
     "games": 1298,
-    "id": "27660"
+    "id": "27660",
+    "synced": true
   },
   {
     "higestRating": 2550,
@@ -10168,7 +10169,8 @@
     "name": "NIKOLAC, Juraj",
     "year": "1951-2011",
     "games": 360,
-    "id": "43739"
+    "id": "43739",
+    "synced": true
   },
   {
     "higestRating": 2599,
@@ -62957,7 +62959,8 @@
     "name": "VAN VOORTHUIJSEN, Pieter W",
     "year": "1983-2016",
     "games": 35,
-    "id": "56899"
+    "id": "56899",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -76003,7 +76006,8 @@
     "name": "RAIJMAEKERS, Rene C H",
     "year": "1989-2020",
     "games": 25,
-    "id": "90180"
+    "id": "90180",
+    "synced": true
   },
   {
     "higestRating": 2510,
@@ -91888,7 +91892,8 @@
     "name": "HRIVNAK, Martin",
     "year": "1993-1996",
     "games": 16,
-    "id": "17823"
+    "id": "17823",
+    "synced": true
   },
   {
     "higestRating": 2360,
