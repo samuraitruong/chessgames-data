@@ -5942,7 +5942,8 @@
     "name": "LAGARDE, Maxime",
     "year": "2006-2023",
     "games": 602,
-    "id": "117694"
+    "id": "117694",
+    "synced": true
   },
   {
     "higestRating": 2531,
@@ -26866,7 +26867,8 @@
     "name": "GRAFL, Florian",
     "year": "1995-2020",
     "games": 117,
-    "id": "50347"
+    "id": "50347",
+    "synced": true
   },
   {
     "higestRating": 2461,
@@ -101672,7 +101674,8 @@
     "name": "UNALMIS, Omer",
     "year": "1992",
     "games": 2,
-    "id": "92964"
+    "id": "92964",
+    "synced": true
   },
   {
     "higestRating": 2260,
