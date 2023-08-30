@@ -1,0 +1,15 @@
+[Event "Thessaloniki Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.16"]
+[EventDate "1988.11.13"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Stephen J Solomon"]
+[Black "Dimitar I Donchev"]
+[ECO "B03"]
+[WhiteElo "2345"]
+[BlackElo "2495"]
+[Source "Olimpbase"]
+[PlyCount "32"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 Bf5 6.Nc3 dxe5 7.fxe5 Nc6 8.Be3 e6 9.Nf3 Bg4 10.Be2 Bxf3 11.gxf3 Qh4+ 12.Bf2 Qf4 13.c5 Nd7 14.Qc1 Qxc1+ 15. Rxc1 O-O-O 16.f4 Ndb8 1/2-1/2

@@ -15425,7 +15425,8 @@
     "name": "DONCHEV, Dimitar I",
     "year": "1975-1997",
     "games": 229,
-    "id": "14336"
+    "id": "14336",
+    "synced": true
   },
   {
     "higestRating": 2563,
@@ -18128,7 +18129,8 @@
     "name": "ZHURAVLIOV, Valerij",
     "year": "1962-2004",
     "games": 193,
-    "id": "14837"
+    "id": "14837",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -31697,7 +31699,8 @@
     "name": "HARTVIG, Ove Weiss",
     "year": "1980-2012",
     "games": 97,
-    "id": "64128"
+    "id": "64128",
+    "synced": true
   },
   {
     "higestRating": 2595,
@@ -72073,7 +72076,8 @@
     "name": "DUDYEV, Vladimir",
     "year": "2002-2011",
     "games": 28,
-    "id": "114931"
+    "id": "114931",
+    "synced": true
   },
   {
     "higestRating": 2281,
@@ -83240,7 +83244,8 @@
     "name": "DOLSONOV, Ayusha",
     "year": "2007-2021",
     "games": 21,
-    "id": "135257"
+    "id": "135257",
+    "synced": true
   },
   {
     "higestRating": 2294,

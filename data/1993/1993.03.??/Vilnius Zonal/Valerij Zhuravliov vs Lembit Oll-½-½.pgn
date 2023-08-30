@@ -1,0 +1,15 @@
+[Event "Vilnius Zonal"]
+[Site "Vilnius LTU"]
+[Date "1993.??.??"]
+[EventDate "1993.03.??"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Valerij Zhuravliov"]
+[Black "Lembit Oll"]
+[ECO "C10"]
+[WhiteElo "2485"]
+[BlackElo "2585"]
+[Source "Olimpbase"]
+[PlyCount "26"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6 6.Bd3 Nd7 7.O-O Ngf6 8.Re1 Bxe4 9.Bxe4 Nxe4 10.Rxe4 Nf6 11.Re1 Be7 12.c3 O-O 13.Bg5 1/2-1/2
