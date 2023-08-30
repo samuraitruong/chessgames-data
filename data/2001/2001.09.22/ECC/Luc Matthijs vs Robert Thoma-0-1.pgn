@@ -1,0 +1,14 @@
+[Event "ECC"]
+[Site "Panormo GRE"]
+[Date "2001.09.23"]
+[EventDate "2001.09.22"]
+[Round "1"]
+[Result "0-1"]
+[White "Luc Matthijs"]
+[Black "Robert Thoma"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "2358"]
+[PlyCount "42"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. d3 Nc6 5. Be2 Nge7 6. Nbd2 Ng6 7. c4 Ngxe5 8. Nxe5 Nxe5 9. cxd5 Qxd5 10. O-O Be7 11. Nf3 O-O 12. Nxe5 Qxe5 13. Be3 Qxb2 14. Bf3 Rd8 15. Be4 f5 16. Bf3 Qa3 17. d4 cxd4 18. Bxd4 Qb4 19. Re1 Rxd4 20. Qe2 Rd2 21. Rab1 Rxe2 0-1
