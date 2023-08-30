@@ -24647,7 +24647,8 @@
     "name": "TREVELYAN, John",
     "year": "1974-2017",
     "games": 132,
-    "id": "55605"
+    "id": "55605",
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -29767,7 +29768,8 @@
     "name": "DOBROWOLSKI, Piotr",
     "year": "1994-2019",
     "games": 104,
-    "id": "22062"
+    "id": "22062",
+    "synced": true
   },
   {
     "higestRating": 2259,
@@ -33203,7 +33205,8 @@
     "name": "SOYSAL, Serkan",
     "year": "2011-2019",
     "games": 91,
-    "id": "140892"
+    "id": "140892",
+    "synced": true
   },
   {
     "higestRating": 2373,
@@ -43371,7 +43374,8 @@
     "name": "RASIDOVIC, Sead",
     "year": "1976-2013",
     "games": 64,
-    "id": "80705"
+    "id": "80705",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -49849,7 +49853,8 @@
     "name": "VILLEGAS, Franco",
     "year": "2012-2023",
     "games": 52,
-    "id": "159486"
+    "id": "159486",
+    "synced": true
   },
   {
     "higestRating": 2373,
@@ -64015,7 +64020,8 @@
     "name": "MOHAMED, Hossein",
     "year": "1999-2008",
     "games": 34,
-    "id": "53952"
+    "id": "53952",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -79999,7 +80005,8 @@
     "name": "FIGIEL, Marek",
     "year": "1987",
     "games": 22,
-    "id": "33934"
+    "id": "33934",
+    "synced": true
   },
   {
     "higestRating": 2212,
@@ -86489,7 +86496,8 @@
     "name": "TERADA, Shoji",
     "year": "1999-2000",
     "games": 19,
-    "id": "90233"
+    "id": "90233",
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -87547,7 +87555,8 @@
     "name": "BOCHKAREV, Alexander2",
     "year": "2000-2001",
     "games": 19,
-    "id": "196508"
+    "id": "196508",
+    "synced": true
   },
   {
     "higestRating": 2207,
