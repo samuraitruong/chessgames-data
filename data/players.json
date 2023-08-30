@@ -3851,7 +3851,8 @@
     "name": "HORVATH, Jozsef",
     "year": "1980-2020",
     "games": 851,
-    "id": "14091"
+    "id": "14091",
+    "synced": true
   },
   {
     "higestRating": 2565,
@@ -28481,7 +28482,8 @@
     "name": "SUTTON, Richard John",
     "year": "1960-2006",
     "games": 110,
-    "id": "82148"
+    "id": "82148",
+    "synced": true
   },
   {
     "higestRating": 2570,
@@ -44796,7 +44798,8 @@
     "name": "TODOR, Razvan",
     "year": "1990-2008",
     "games": 61,
-    "id": "53449"
+    "id": "53449",
+    "synced": true
   },
   {
     "higestRating": 2453,
@@ -48446,7 +48449,8 @@
     "name": "WEMPE, Joost",
     "year": "1995-2017",
     "games": 54,
-    "id": "46899"
+    "id": "46899",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -71848,7 +71852,8 @@
     "name": "YAROVIK, Yuri",
     "year": "1999-2001",
     "games": 28,
-    "id": "102853"
+    "id": "102853",
+    "synced": true
   },
   {
     "higestRating": 2407,
@@ -75103,7 +75108,8 @@
     "name": "KASSANI, Sam",
     "year": "2011-2016",
     "games": 26,
-    "id": "148692"
+    "id": "148692",
+    "synced": true
   },
   {
     "higestRating": 2244,
@@ -97080,7 +97086,8 @@
     "name": "SAMUELSON, Andrew",
     "year": "2001-2017",
     "games": 14,
-    "id": "53400"
+    "id": "53400",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -100768,7 +100775,8 @@
     "name": "SZTERCSCO, Sztyepan",
     "year": "1995-2000",
     "games": 5,
-    "id": "67959"
+    "id": "67959",
+    "synced": true
   },
   {
     "higestRating": 2277,

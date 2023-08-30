@@ -1,0 +1,14 @@
+[Event "Eger"]
+[Site "Eger HUN"]
+[Date "1994.08.14"]
+[EventDate "1994.08.13"]
+[Round "3"]
+[Result "0-1"]
+[White "Razvan Todor"]
+[Black "Peter Varga"]
+[ECO "B10"]
+[WhiteElo "2165"]
+[BlackElo "2405"]
+[PlyCount "42"]
+
+1.c4 c6 2.e4 d5 3.exd5 cxd5 4.cxd5 Nf6 5.Nc3 Nxd5 6.Bb5+ Bd7 7.Bc4 Nb6 8.Bb3 Nc6 9.Nf3 Bf5 10.d4 e6 11.O-O Na5 12.Bc2 Bxc2 13.Qxc2 Be7 14.Qe4 O-O 15.Bf4 Bf6 16.b3 a6 17.Rac1 Rc8 18.Rfd1 Qe7 19.Be5 Rfd8 20.Qf4 Bxe5 21.dxe5 Rxc3 0-1

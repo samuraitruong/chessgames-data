@@ -1,0 +1,14 @@
+[Event "Eger"]
+[Site "Eger HUN"]
+[Date "1994.08.20"]
+[EventDate "1994.08.13"]
+[Round "10"]
+[Result "0-1"]
+[White "Razvan Todor"]
+[Black "Andre Schmitt"]
+[ECO "B02"]
+[WhiteElo "2165"]
+[BlackElo "2285"]
+[PlyCount "40"]
+
+1.e4 Nf6 2.Nc3 d5 3.exd5 Nxd5 4.Nf3 Bg4 5.Nxd5 Qxd5 6.Be2 Nc6 7.c3 e5 8.d3 Be7 9.Qa4 Bd7 10.Qb3 Qxb3 11.axb3 O-O 12.b4 a6 13.O-O Rad8 14.Be3 Bf6 15.Nd2 Bf5 16.Ne4 Be7 17.Rfd1 Rd7 18.Rd2 Rfd8 19.Rad1 Bg6 20.Bc5 Bxe4 0-1
