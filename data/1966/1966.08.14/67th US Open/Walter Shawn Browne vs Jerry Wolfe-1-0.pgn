@@ -1,0 +1,14 @@
+[Event "67th US Open"]
+[Site "Seattle, WA USA"]
+[Date "1966.08.17"]
+[EventDate "1966.08.14"]
+[Round "4"]
+[Result "1-0"]
+[White "Walter Shawn Browne"]
+[Black "Jerry Wolfe"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.d4 Nf6 2.c4 c5 3.d5 g6 4.Nc3 Bg7 5.g3 O-O 6.Bg2 d6 7.Nf3 Na6 8.O-O Nc7 9.a4 e6 10.dxe6 Bxe6 11.Bf4 Bxc4 12.Qxd6 Ne6 13.Rfd1 Qa5 14.Ne5 Bb3 15.Bxb7 Nxf4 16.Bxa8 Nh3+ 17.Kg2 Bxd1 18.Rxd1 Nxf2 19.Kxf2 Rxa8 20.Qe7 Rf8 21.Kg2 Qb4 22.Rd8 1-0

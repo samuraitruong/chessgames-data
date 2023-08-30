@@ -985,7 +985,8 @@
     "name": "BROWNE, Walter",
     "year": "1963-2015",
     "games": 1676,
-    "id": "16174"
+    "id": "16174",
+    "synced": true
   },
   {
     "higestRating": 2605,
@@ -88454,7 +88455,8 @@
     "name": "LANG, Jens",
     "year": "1979-1996",
     "games": 18,
-    "id": "60201"
+    "id": "60201",
+    "synced": true
   },
   {
     "higestRating": 2347,
