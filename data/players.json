@@ -2186,7 +2186,8 @@
     "name": "SOCKO, Monika",
     "year": "1992-2023",
     "games": 1188,
-    "id": "51452"
+    "id": "51452",
+    "synced": true
   },
   {
     "higestRating": 2659,
@@ -44019,7 +44020,8 @@
     "name": "SCHARTZ, Alain",
     "year": "1986-2022",
     "games": 63,
-    "id": "83077"
+    "id": "83077",
+    "synced": true
   },
   {
     "higestRating": 2373,
