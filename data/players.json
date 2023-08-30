@@ -4821,7 +4821,8 @@
     "name": "FOISOR, Cristina-Adela",
     "year": "1988-2016",
     "games": 723,
-    "id": "25154"
+    "id": "25154",
+    "synced": true
   },
   {
     "higestRating": 2669,
@@ -49307,7 +49308,8 @@
     "name": "FAHAD, Rahman Mohammad",
     "year": "2014-2023",
     "games": 53,
-    "id": "149653"
+    "id": "149653",
+    "synced": true
   },
   {
     "higestRating": 2304,
