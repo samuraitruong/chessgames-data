@@ -7401,7 +7401,8 @@
     "name": "SUMMERSCALE, Aaron",
     "year": "1985-2018",
     "games": 489,
-    "id": "13772"
+    "id": "13772",
+    "synced": true
   },
   {
     "higestRating": 2419,
@@ -14353,7 +14354,8 @@
     "name": "BUENO, Julio Boudy",
     "year": "1967-2016",
     "games": 249,
-    "id": "24015"
+    "id": "24015",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -84490,7 +84492,8 @@
     "name": "BOJARINOV, Viktor",
     "year": "1974-2013",
     "games": 20,
-    "id": "94499"
+    "id": "94499",
+    "synced": true
   },
   {
     "higestRating": 2389,
@@ -86104,7 +86107,8 @@
     "name": "PANAJOTOV, Janko",
     "year": "1995-2011",
     "games": 19,
-    "id": "55892"
+    "id": "55892",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -96582,7 +96586,8 @@
     "name": "MAIER, Martin",
     "year": "1986-1999",
     "games": 15,
-    "id": "136980"
+    "id": "136980",
+    "synced": true
   },
   {
     "higestRating": 2610,
