@@ -18065,7 +18065,8 @@
     "name": "BERKOVICH, Mark A",
     "year": "1971-2017",
     "games": 194,
-    "id": "46436"
+    "id": "46436",
+    "synced": true
   },
   {
     "higestRating": 2345,
@@ -19058,7 +19059,8 @@
     "name": "MARTZ, William",
     "year": "1963-1982",
     "games": 181,
-    "id": "22431"
+    "id": "22431",
+    "synced": true
   },
   {
     "higestRating": 2363,
@@ -48473,7 +48475,8 @@
     "name": "RATH, Ulrik",
     "year": "1974-2000",
     "games": 54,
-    "id": "48870"
+    "id": "48870",
+    "synced": true
   },
   {
     "higestRating": 2489,
@@ -55202,7 +55205,8 @@
     "name": "SHEREMETIEVA, Marina",
     "year": "1991-2003",
     "games": 44,
-    "id": "60598"
+    "id": "60598",
+    "synced": true
   },
   {
     "higestRating": 2264,
@@ -56276,7 +56280,8 @@
     "name": "KUZEVANOVA, Evgenia",
     "year": "2002-2010",
     "games": 43,
-    "id": "94544"
+    "id": "94544",
+    "synced": true
   },
   {
     "higestRating": 2373,
@@ -90869,7 +90874,8 @@
     "name": "YAM, Alex",
     "year": "2005-2015",
     "games": 17,
-    "id": "95262"
+    "id": "95262",
+    "synced": true
   },
   {
     "higestRating": 2316,
