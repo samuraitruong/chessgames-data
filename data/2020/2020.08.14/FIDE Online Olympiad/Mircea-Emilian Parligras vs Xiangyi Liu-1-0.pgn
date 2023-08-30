@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.14"]
+[EventDate "2020.08.14"]
+[Round "2"]
+[Result "1-0"]
+[White "Mircea-Emilian Parligras"]
+[Black "Xiangyi Liu"]
+[ECO "D85"]
+[WhiteElo "2602"]
+[BlackElo "2178"]
+[PlyCount "69"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8. h3 O-O 9. Be3 Qa5 10. Bd2 Rd8 11. Be2 e6 12. O-O Nc6 13. a4 Qc7 14. Bg5 Rd7 15. Rc1 h6 16. Be3 b6 17. d5 exd5 18. exd5 Ne7 19. c4 Nf5 20. Bd2 Re7 21. Bd3 Nd4 22. Nxd4 Bxd4 23. Qf3 Qd7 24. Bxh6 Qe8 25. Bg5 Re5 26. Bf6 Rh5 27. Rfe1 Qxa4 28. Bxd4 cxd4 29. d6 Rb8 30. Ra1 Qb4 31. Re8+ Kg7 32. d7 Bb7 33. Rxb8 Bxf3 34. d8=Q Bxg2 35. Kxg2 1-0
