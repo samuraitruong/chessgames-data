@@ -9560,7 +9560,8 @@
     "name": "MANNION, Stephen R",
     "year": "1979-2023",
     "games": 384,
-    "id": "13777"
+    "id": "13777",
+    "synced": true
   },
   {
     "higestRating": 2535,
@@ -46402,7 +46403,8 @@
     "name": "GENOVA, Ruzka",
     "year": "1986-2011",
     "games": 58,
-    "id": "104379"
+    "id": "104379",
+    "synced": true
   },
   {
     "higestRating": 2304,
@@ -55467,7 +55469,8 @@
     "name": "SCHERER, Max",
     "year": "1988-2015",
     "games": 44,
-    "id": "101303"
+    "id": "101303",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -72567,7 +72570,8 @@
     "name": "ANGELOV, Kosta",
     "year": "1971-2013",
     "games": 27,
-    "id": "28323"
+    "id": "28323",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -78427,7 +78431,8 @@
     "name": "INSAM, Heinz",
     "year": "1983-1996",
     "games": 23,
-    "id": "18460"
+    "id": "18460",
+    "synced": true
   },
   {
     "higestRating": 2254,
@@ -102176,7 +102181,8 @@
     "name": "ESTRADA, Miguel Angel Accensi",
     "year": "1996-2006",
     "games": 2,
-    "id": "106818"
+    "id": "106818",
+    "synced": true
   },
   {
     "higestRating": 2260,
