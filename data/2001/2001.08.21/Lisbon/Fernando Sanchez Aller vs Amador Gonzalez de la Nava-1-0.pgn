@@ -1,0 +1,14 @@
+[Event "Lisbon"]
+[Site "Lisbon POR"]
+[Date "2001.08.26"]
+[EventDate "2001.08.21"]
+[Round "6"]
+[Result "1-0"]
+[White "Fernando Sanchez Aller"]
+[Black "Amador Gonzalez de la Nava"]
+[ECO "C42"]
+[WhiteElo "2118"]
+[BlackElo "2345"]
+[PlyCount "41"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 5. d4 g6 6. Nc3 Qe8 7. Bd3 Bg7 8. O-O Rf8 9. e5 dxe5 10. dxe5 Qxe5 11. Re1 Qc5 12. Be3 Qb4 13. a3 Qg4 14. f3 Qh5 15. Bc4+ Be6 16. Bxe6+ Kxe6 17. Bg5+ Kf7 18. h4 Nc6 19. g4 Rad8 20. Qe2 Qxg5 21. Qe6# 1-0

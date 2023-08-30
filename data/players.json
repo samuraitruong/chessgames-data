@@ -6350,7 +6350,8 @@
     "name": "PIGUSOV, Evgeny",
     "year": "1977-2019",
     "games": 570,
-    "id": "11040"
+    "id": "11040",
+    "synced": true
   },
   {
     "higestRating": 2418,
@@ -51520,7 +51521,8 @@
     "name": "REBERS, Eugene",
     "year": "1994-2023",
     "games": 49,
-    "id": "56207"
+    "id": "56207",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -54628,7 +54630,8 @@
     "name": "SHIVANANDA, B S",
     "year": "2003-2015",
     "games": 45,
-    "id": "97901"
+    "id": "97901",
+    "synced": true
   },
   {
     "higestRating": 2436,
@@ -56525,7 +56528,8 @@
     "name": "ALLER, Fernando Sanchez",
     "year": "1999-2018",
     "games": 43,
-    "id": "123791"
+    "id": "123791",
+    "synced": true
   },
   {
     "higestRating": 2480,
@@ -101005,7 +101009,8 @@
     "name": "PLOMP, Gordon",
     "year": "1992-2003",
     "games": 5,
-    "id": "90228"
+    "id": "90228",
+    "synced": true
   },
   {
     "higestRating": 2295,
