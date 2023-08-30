@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.16"]
+[EventDate "2022.12.16"]
+[Round "6.82"]
+[Result "0-1"]
+[White "Jakub Janeczko"]
+[Black "Gabriel Gaehwiler"]
+[ECO "B20"]
+[WhiteElo "2247"]
+[BlackElo "2408"]
+[PlyCount "36"]
+
+1. e4 c5 2. d3 Nc6 3. g3 g6 4. Bg2 Bg7 5. f4 b6 6. Nf3 Bb7 7. O-O h5 8. c3 Nh6 9. Na3 d5 10. exd5 Qxd5 11. Ne5 Qe6 12. Re1 Bxe5 13. fxe5 O-O-O 14. Nb5 h4 15. Bxc6 Bxc6 16. Nxa7+ Kb7 17. Nxc6 Qxc6 18. Re4 Qxe4 0-1
