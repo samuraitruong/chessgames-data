@@ -663,7 +663,8 @@
     "name": "MATULOVIC, Milan",
     "year": "1953-2007",
     "games": 1919,
-    "id": "13888"
+    "id": "13888",
+    "synced": true
   },
   {
     "higestRating": 2679,
@@ -16435,7 +16436,8 @@
     "name": "SIKOROVA, Olga",
     "year": "1994-2019",
     "games": 214,
-    "id": "55979"
+    "id": "55979",
+    "synced": true
   },
   {
     "higestRating": 2570,
@@ -27765,7 +27767,8 @@
     "name": "SCHIENDORFER, Emanuel",
     "year": "2005-2018",
     "games": 113,
-    "id": "96466"
+    "id": "96466",
+    "synced": true
   },
   {
     "higestRating": 2548,
@@ -68358,7 +68361,8 @@
     "name": "MARTYNOV, Roman",
     "year": "2013-2019",
     "games": 31,
-    "id": "155777"
+    "id": "155777",
+    "synced": true
   },
   {
     "higestRating": 2392,
