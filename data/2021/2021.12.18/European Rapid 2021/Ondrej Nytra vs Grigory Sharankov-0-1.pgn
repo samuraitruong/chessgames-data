@@ -1,0 +1,14 @@
+[Event "European Rapid 2021"]
+[Site "Katowice POL"]
+[Date "2021.12.18"]
+[EventDate "2021.12.18"]
+[Round "6.34"]
+[Result "0-1"]
+[White "Ondrej Nytra"]
+[Black "Grigory Sharankov"]
+[ECO "C02"]
+[WhiteElo "2125"]
+[BlackElo "2238"]
+[PlyCount "40"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 Qc7 7. O-O f6 8. exf6 Nxf6 9. Re1 Bd6 10. Bd3 O-O 11. Bg5 Ng4 12. h3 Bh2+ 13. Kf1 Nxf2 14. Kxf2 Qg3+ 15. Ke3 Rxf3+ 16. gxf3 Qxg5+ 17. Ke2 Qg2+ 18. Ke3 Rf8 19. Be2 Bf4+ 20. Kd3 Qg6# 0-1

@@ -5186,7 +5186,8 @@
     "name": "DELY, Peter",
     "year": "1953-1998",
     "games": 682,
-    "id": "45186"
+    "id": "45186",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -96930,7 +96931,8 @@
     "name": "SHARANKOV, Grigory",
     "year": "2007-2021",
     "games": 15,
-    "id": "156921"
+    "id": "156921",
+    "synced": true
   },
   {
     "higestRating": 2291,
