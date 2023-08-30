@@ -2377,7 +2377,8 @@
     "name": "KJARTANSSON, Gudmundur",
     "year": "1997-2023",
     "games": 1148,
-    "id": "11002"
+    "id": "11002",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -46171,7 +46172,8 @@
     "name": "TOMCZAK, Rafal",
     "year": "1998-2015",
     "games": 58,
-    "id": "53052"
+    "id": "53052",
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -53834,7 +53836,8 @@
     "name": "ZIELINSKI, Marek",
     "year": "1981-1990",
     "games": 46,
-    "id": "100959"
+    "id": "100959",
+    "synced": true
   },
   {
     "higestRating": 2271,
@@ -57491,7 +57494,8 @@
     "name": "GUSEV, Vladimir",
     "year": "1968-2004",
     "games": 41,
-    "id": "38220"
+    "id": "38220",
+    "synced": true
   },
   {
     "higestRating": 2348,
@@ -73158,7 +73162,8 @@
     "name": "HUDA, Maryana",
     "year": "2009-2021",
     "games": 27,
-    "id": "99231"
+    "id": "99231",
+    "synced": true
   },
   {
     "higestRating": 2314,
@@ -73884,7 +73889,8 @@
     "name": "GRIFFITHS, Paul V",
     "year": "1992-1999",
     "games": 26,
-    "id": "34983"
+    "id": "34983",
+    "synced": true
   },
   {
     "higestRating": 2293,
@@ -75555,7 +75561,8 @@
     "name": "HAMM, Stefan",
     "year": "1997-2004",
     "games": 25,
-    "id": "49289"
+    "id": "49289",
+    "synced": true
   },
   {
     "higestRating": 2307,
@@ -102660,7 +102667,8 @@
     "name": "CONDE, Isaac Trigo",
     "year": "2003",
     "games": 1,
-    "id": "133202"
+    "id": "133202",
+    "synced": true
   },
   {
     "higestRating": 2237,
