@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.21"]
+[EventDate "2020.08.21"]
+[Round "1"]
+[Result "0-1"]
+[White "Roy Mwadzura"]
+[Black "Santosh Gujrathi Vidit"]
+[ECO "B56"]
+[WhiteElo "2029"]
+[BlackElo "2636"]
+[Source "Chess-Results"]
+[PlyCount "40"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be3 Ng4 7. Nxc6 bxc6 8. Qd2 Nxe3 9. Qxe3 Qb6 10. Qxb6 axb6 11. Bd3 g5 12. O-O Bg7 13. Nd1 b5 14. c3 e6 15. a3 Ke7 16. Ne3 Bd7 17. f4 gxf4 18. Rxf4 h5 19. Rff1 c5 20. Rae1 Rab8 0-1

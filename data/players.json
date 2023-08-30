@@ -2119,7 +2119,8 @@
     "name": "GUJRATHI, Vidit Santosh",
     "year": "2006-2023",
     "games": 1205,
-    "id": "117302"
+    "id": "117302",
+    "synced": true
   },
   {
     "higestRating": 2634,
@@ -72965,7 +72966,8 @@
     "name": "KADHI, Hameed Mansour Ali",
     "year": "1990-2004",
     "games": 27,
-    "id": "85284"
+    "id": "85284",
+    "synced": true
   },
   {
     "higestRating": 2279,
