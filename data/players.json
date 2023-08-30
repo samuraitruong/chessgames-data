@@ -3029,7 +3029,8 @@
     "name": "KOVALEV, Vladislav",
     "year": "2005-2023",
     "games": 1001,
-    "id": "117697"
+    "id": "117697",
+    "synced": true
   },
   {
     "higestRating": 2724,
@@ -82370,7 +82371,8 @@
     "name": "LEHTO, Ville",
     "year": "1988-2001",
     "games": 21,
-    "id": "58723"
+    "id": "58723",
+    "synced": true
   },
   {
     "higestRating": 2394,
@@ -88466,7 +88468,8 @@
     "name": "BASHILIN, Roman",
     "year": "1998-2004",
     "games": 18,
-    "id": "58644"
+    "id": "58644",
+    "synced": true
   },
   {
     "higestRating": 2327,
