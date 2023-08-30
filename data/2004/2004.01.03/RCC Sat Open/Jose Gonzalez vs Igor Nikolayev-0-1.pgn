@@ -1,0 +1,14 @@
+[Event "RCC Sat Open"]
+[Site "Rochester, NY"]
+[Date "2004.01.03"]
+[EventDate "2004.01.03"]
+[Round "3"]
+[Result "0-1"]
+[White "Jose Gonzalez"]
+[Black "Igor Nikolayev"]
+[ECO "C78"]
+[WhiteElo "2106"]
+[BlackElo "2379"]
+[PlyCount "38"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4 b5 8.dxe5 Nxe4 9.Qd5 Qh4 10.g3 Nxg3 11.hxg3 Qxg3+ 12.Kh1 Qh3+ 13.Kg1 Rb8 14.e6 fxe6 15.Qxc5 Bb7 16.f3 Qg3+ 17.Kh1 Bxf3+ 18.Rxf3 Qxf3+ 19.Kh2 Qe2+ 0-1

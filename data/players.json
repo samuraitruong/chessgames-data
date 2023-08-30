@@ -5706,7 +5706,8 @@
     "name": "NIKOLAYEV, Igor",
     "year": "1977-2015",
     "games": 630,
-    "id": "55750"
+    "id": "55750",
+    "synced": true
   },
   {
     "higestRating": 2501,
@@ -19707,7 +19708,8 @@
     "name": "SIMANTSEV, Mikhail",
     "year": "1998-2021",
     "games": 175,
-    "id": "10887"
+    "id": "10887",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -22529,7 +22531,8 @@
     "name": "SVANE, Frederik",
     "year": "2014-2023",
     "games": 150,
-    "id": "150644"
+    "id": "150644",
+    "synced": true
   },
   {
     "higestRating": 2268,
@@ -70347,7 +70350,8 @@
     "name": "MATTHAEI, Alexander",
     "year": "1991-2002",
     "games": 29,
-    "id": "73899"
+    "id": "73899",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -72235,7 +72239,8 @@
     "name": "KOZIOL, Kamil",
     "year": "2010-2018",
     "games": 28,
-    "id": "134991"
+    "id": "134991",
+    "synced": true
   },
   {
     "higestRating": 2250,
