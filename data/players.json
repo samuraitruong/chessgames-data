@@ -17334,7 +17334,8 @@
     "name": "RAVI, Lanka",
     "year": "1986-2014",
     "games": 203,
-    "id": "15895"
+    "id": "15895",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -33704,7 +33705,8 @@
     "name": "SHUKUROVA, Mehriban",
     "year": "1994-2007",
     "games": 89,
-    "id": "56850"
+    "id": "56850",
+    "synced": true
   },
   {
     "higestRating": 2379,
@@ -38200,7 +38202,8 @@
     "name": "POPOV, Roman",
     "year": "1992-2010",
     "games": 76,
-    "id": "50328"
+    "id": "50328",
+    "synced": true
   },
   {
     "higestRating": 2223,
@@ -40888,7 +40891,8 @@
     "name": "GROSS, David2",
     "year": "1994-2010",
     "games": 70,
-    "id": "180010"
+    "id": "180010",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -65551,7 +65555,8 @@
     "name": "VAN ELST, Andreas",
     "year": "2000-2012",
     "games": 33,
-    "id": "95420"
+    "id": "95420",
+    "synced": true
   },
   {
     "higestRating": 2407,
@@ -79512,7 +79517,8 @@
     "name": "VOROBJEV, Dmitry",
     "year": "2007-2013",
     "games": 23,
-    "id": "124582"
+    "id": "124582",
+    "synced": true
   },
   {
     "higestRating": 2224,
@@ -87997,7 +88003,8 @@
     "name": "GEORGIEV, Biser",
     "year": "1980-2013",
     "games": 18,
-    "id": "40842"
+    "id": "40842",
+    "synced": true
   },
   {
     "higestRating": 2255,

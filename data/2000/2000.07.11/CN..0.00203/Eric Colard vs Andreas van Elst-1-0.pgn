@@ -1,0 +1,14 @@
+[Event "CN..0.00203"]
+[Site "IECG email"]
+[Date "2000.07.11"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Eric Colard"]
+[Black "Andreas van Elst"]
+[ECO "D21"]
+[WhiteElo "?"]
+[BlackElo "2350"]
+[PlyCount "19"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 c6 4.e4 Bg4 5.Bxc4 b5 6.Bxf7+ Kxf7 7.Ne5+ Ke8 8.Qxg4 Nf6 9.Qe6 Nxe4 10.Qf7# 1-0
