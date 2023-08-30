@@ -1,0 +1,14 @@
+[Event "MT-Bergraser (FRA)"]
+[Site "ICCF corr"]
+[Date "1989.02.01"]
+[EventDate "1989.02.01"]
+[Round "-"]
+[Result "0-1"]
+[White "István Schrancz"]
+[Black "Dick Smit"]
+[ECO "E21"]
+[WhiteElo "2340"]
+[BlackElo "2500"]
+[PlyCount "44"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.g3 cxd4 6.Nxd4 O-O 7.Bg2 d5 8.cxd5 Nxd5 9.Bd2 Nxc3 10.bxc3 Bc5 11.Nb3 Bb6 12.O-O Nc6 13.Qc1 e5 14.Be3 Bg4 15.Rd1 Qc7 16.Bxb6 Qxb6 17.Rd2 Rad8 18.Rb2 Qc7 19.Qe3 Rd6 20.Nc5 b6 21.Ne4 Rh6 22.Rb5 Rd8 0-1
