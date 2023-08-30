@@ -10830,7 +10830,8 @@
     "name": "GALOJAN, Lilit",
     "year": "2000-2017",
     "games": 337,
-    "id": "79651"
+    "id": "79651",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -25036,7 +25037,8 @@
     "name": "MUNKHGAL, Gombosuren",
     "year": "2009-2022",
     "games": 129,
-    "id": "127110"
+    "id": "127110",
+    "synced": true
   },
   {
     "higestRating": 2461,
@@ -37720,7 +37722,8 @@
     "name": "ETRUK, Rein Toomas",
     "year": "1954-1987",
     "games": 77,
-    "id": "47822"
+    "id": "47822",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -53505,7 +53508,8 @@
     "name": "ABBINK, Michel",
     "year": "1992-2002",
     "games": 46,
-    "id": "41457"
+    "id": "41457",
+    "synced": true
   },
   {
     "higestRating": 2260,
