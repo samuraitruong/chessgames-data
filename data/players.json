@@ -14860,7 +14860,8 @@
     "name": "KALLIO, Heikki",
     "year": "1993-2005",
     "games": 238,
-    "id": "49489"
+    "id": "49489",
+    "synced": true
   },
   {
     "higestRating": 2523,
@@ -21928,7 +21929,8 @@
     "name": "ZINCHENKO, Yaroslav",
     "year": "1998-2016",
     "games": 154,
-    "id": "67988"
+    "id": "67988",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -28133,7 +28135,8 @@
     "name": "ROOT, Douglas",
     "year": "1978-2022",
     "games": 111,
-    "id": "18736"
+    "id": "18736",
+    "synced": true
   },
   {
     "higestRating": 2520,
@@ -57382,7 +57385,8 @@
     "name": "MARGOLIT, Remir B",
     "year": "1967-2007",
     "games": 42,
-    "id": "175678"
+    "id": "175678",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -83714,7 +83718,8 @@
     "name": "KANDYBA, Leonid",
     "year": "1989-1997",
     "games": 20,
-    "id": "42780"
+    "id": "42780",
+    "synced": true
   },
   {
     "higestRating": 2220,
