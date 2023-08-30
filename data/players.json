@@ -8072,7 +8072,8 @@
     "name": "LANE, Gary W",
     "year": "1979-2022",
     "games": 455,
-    "id": "13776"
+    "id": "13776",
+    "synced": true
   },
   {
     "higestRating": 2588,
@@ -47249,7 +47250,8 @@
     "name": "SUSNIK, Matej",
     "year": "1990-2004",
     "games": 56,
-    "id": "35016"
+    "id": "35016",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -82269,7 +82271,8 @@
     "name": "TSIGELNITSKIY, Ilusha",
     "year": "2001-2008",
     "games": 21,
-    "id": "56679"
+    "id": "56679",
+    "synced": true
   },
   {
     "higestRating": 2372,
