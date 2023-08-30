@@ -11221,7 +11221,8 @@
     "name": "BLEES, Albert",
     "year": "1981-2020",
     "games": 325,
-    "id": "20755"
+    "id": "20755",
+    "synced": true
   },
   {
     "higestRating": 2515,
@@ -25440,7 +25441,8 @@
     "name": "GRUZMANN, Boris",
     "year": "1964-2017",
     "games": 126,
-    "id": "32444"
+    "id": "32444",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -36719,7 +36721,8 @@
     "name": "AKESSON, Joel",
     "year": "1998-2017",
     "games": 80,
-    "id": "50756"
+    "id": "50756",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -86403,7 +86406,8 @@
     "name": "FIOL, Fabrice",
     "year": "1990-1997",
     "games": 19,
-    "id": "63289"
+    "id": "63289",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -87594,7 +87598,8 @@
     "name": "ARCHIBOLD, Nestor Cofre",
     "year": "2016-2018",
     "games": 19,
-    "id": "155361"
+    "id": "155361",
+    "synced": true
   },
   {
     "higestRating": 2320,
