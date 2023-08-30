@@ -6327,7 +6327,8 @@
     "name": "BERRY, Neil",
     "year": "1992-2022",
     "games": 571,
-    "id": "22068"
+    "id": "22068",
+    "synced": true
   },
   {
     "higestRating": 2610,
@@ -8985,7 +8986,8 @@
     "name": "VASILEVICH, Tatjana",
     "year": "1993-2020",
     "games": 406,
-    "id": "44341"
+    "id": "44341",
+    "synced": true
   },
   {
     "higestRating": 2588,
@@ -45689,7 +45691,8 @@
     "name": "HOCHSTRASSER, Michael",
     "year": "1993-2018",
     "games": 59,
-    "id": "44678"
+    "id": "44678",
+    "synced": true
   },
   {
     "higestRating": 2362,
