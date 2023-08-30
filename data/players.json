@@ -25760,7 +25760,8 @@
     "name": "ORSAG, Milan",
     "year": "1990-2020",
     "games": 124,
-    "id": "55105"
+    "id": "55105",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -29179,7 +29180,8 @@
     "name": "ROGANOVIC, Milos",
     "year": "2001-2020",
     "games": 107,
-    "id": "106677"
+    "id": "106677",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -37204,7 +37206,8 @@
     "name": "KALAVANNAN, Koby",
     "year": "2014-2019",
     "games": 79,
-    "id": "151977"
+    "id": "151977",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -38770,7 +38773,8 @@
     "name": "THOGERSEN, Rasmus",
     "year": "2012-2021",
     "games": 75,
-    "id": "138818"
+    "id": "138818",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -54101,7 +54105,8 @@
     "name": "AYDINCELEBI, Kagan",
     "year": "2012-2023",
     "games": 46,
-    "id": "140218"
+    "id": "140218",
+    "synced": true
   },
   {
     "higestRating": 2289,
@@ -56318,7 +56323,8 @@
     "name": "BODE, Wilfried",
     "year": "1990-2015",
     "games": 43,
-    "id": "89502"
+    "id": "89502",
+    "synced": true
   },
   {
     "higestRating": 2344,
@@ -62596,7 +62602,8 @@
     "name": "ULANOV, Alexandr",
     "year": "2006-2013",
     "games": 36,
-    "id": "124570"
+    "id": "124570",
+    "synced": true
   },
   {
     "higestRating": 2209,
@@ -71903,7 +71910,8 @@
     "name": "CHOCENKA, Dmitrijus",
     "year": "2001-2017",
     "games": 28,
-    "id": "99099"
+    "id": "99099",
+    "synced": true
   },
   {
     "higestRating": 2441,
@@ -84907,7 +84915,8 @@
     "name": "PANOCKI, Adrian",
     "year": "2001-2009",
     "games": 20,
-    "id": "105729"
+    "id": "105729",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -90136,7 +90145,8 @@
     "name": "KARNAR, Marijan",
     "year": "1975-2008",
     "games": 17,
-    "id": "29480"
+    "id": "29480",
+    "synced": true
   },
   {
     "higestRating": 2290,

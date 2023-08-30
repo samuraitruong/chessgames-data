@@ -1,0 +1,14 @@
+[Event "London Chess Classic Open"]
+[Site "London ENG"]
+[Date "2016.12.10"]
+[EventDate "2016.12.09"]
+[Round "2.60"]
+[Result "0-1"]
+[White "Oddvar Solli"]
+[Black "Koby Kalavannan"]
+[ECO "E73"]
+[WhiteElo "1731"]
+[BlackElo "2163"]
+[PlyCount "42"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 Nbd7 7. Qd2 e5 8. d5 a5 9. f3 Nc5 10. h4 Qd7 11. Nh3 Nh5 12. g4 Ng3 13. Rg1 Nxe2 14. Qxe2 h6 15. Be3 Qe7 16. g5 Bxh3 17. Rh1 Bd7 18. gxh6 Bf6 19. h5 Kh7 20. hxg6+ fxg6 21. O-O-O Bg5 0-1
