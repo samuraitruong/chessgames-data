@@ -2135,7 +2135,8 @@
     "name": "AZMAIPARASHVILI, Zurab",
     "year": "1968-2015",
     "games": 1202,
-    "id": "14175"
+    "id": "14175",
+    "synced": true
   },
   {
     "higestRating": 2578,
@@ -28348,7 +28349,8 @@
     "name": "MACIEJEWSKI, Miroslaw",
     "year": "1987-2009",
     "games": 110,
-    "id": "18160"
+    "id": "18160",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -28476,7 +28478,8 @@
     "name": "LALLEMAND, Roza",
     "year": "1985-2008",
     "games": 110,
-    "id": "96106"
+    "id": "96106",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -36322,7 +36325,8 @@
     "name": "KOZHUHAROV, Spas",
     "year": "2000-2019",
     "games": 81,
-    "id": "48964"
+    "id": "48964",
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -38609,7 +38613,8 @@
     "name": "ACEVEDO, Cristobal Jose Blanco",
     "year": "1993-2021",
     "games": 75,
-    "id": "88873"
+    "id": "88873",
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -57787,7 +57792,8 @@
     "name": "KAPPLER, Jean Marie",
     "year": "1983-2002",
     "games": 41,
-    "id": "83027"
+    "id": "83027",
+    "synced": true
   },
   {
     "higestRating": 2261,
@@ -57978,7 +57984,8 @@
     "name": "TASIC, Zoran T",
     "year": "1989-2010",
     "games": 41,
-    "id": "119763"
+    "id": "119763",
+    "synced": true
   },
   {
     "higestRating": 2391,
@@ -100101,7 +100108,8 @@
     "name": "MATEO, Felipe Porras",
     "year": "2004-2007",
     "games": 7,
-    "id": "105067"
+    "id": "105067",
+    "synced": true
   },
   {
     "higestRating": 2210,
