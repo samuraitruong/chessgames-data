@@ -1,0 +1,14 @@
+[Event "AUT-chT 9495"]
+[Site "AUT"]
+[Date "1994.11.12"]
+[EventDate "1994.10.22"]
+[Round "3"]
+[Result "1-0"]
+[White "Georg Mohr"]
+[Black "Friedrich Woeber"]
+[ECO "C36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 d5 4.exd5 Nf6 5.Bc4 Nxd5 6.d4 Be7 7.O-O O-O 8.Bxd5 Qxd5 9.Bxf4 c5 10.Nc3 Qc4 11.Qe1 Nc6 12.b3 Qe6 13.d5 Qxe1 14.Raxe1 Bf6 15.Ne4 Bd4+ 16.Nxd4 Nxd4 17.c3 Nc2 18.Rc1 Re8 19.Nd6 Re2 20.Rf2 Rxf2 21.Kxf2 Na3 22.Re1 Bd7 23.Re7 1-0
