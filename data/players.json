@@ -422,7 +422,8 @@
     "name": "SOCKO, Bartosz",
     "year": "1990-2023",
     "games": 2249,
-    "id": "34659"
+    "id": "34659",
+    "synced": true
   },
   {
     "higestRating": 2662,
@@ -32847,7 +32848,8 @@
     "name": "WOODHAMS, Michael",
     "year": "1967-2009",
     "games": 92,
-    "id": "25447"
+    "id": "25447",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -80162,7 +80164,8 @@
     "name": "CUSI, Ronald",
     "year": "1988-2004",
     "games": 22,
-    "id": "43136"
+    "id": "43136",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -83799,7 +83802,8 @@
     "name": "DESBONNES, Samy",
     "year": "1990-2001",
     "games": 20,
-    "id": "45818"
+    "id": "45818",
+    "synced": true
   },
   {
     "higestRating": 2250,
