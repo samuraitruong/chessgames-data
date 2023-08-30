@@ -2369,7 +2369,8 @@
     "name": "PARAVYAN, David",
     "year": "2008-2023",
     "games": 1151,
-    "id": "118119"
+    "id": "118119",
+    "synced": true
   },
   {
     "higestRating": 2540,
@@ -15953,7 +15954,8 @@
     "name": "JONES, Iolo Ceredig",
     "year": "1970-2017",
     "games": 221,
-    "id": "36299"
+    "id": "36299",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -64998,7 +65000,8 @@
     "name": "HERB, Pascal",
     "year": "1989-2004",
     "games": 33,
-    "id": "34378"
+    "id": "34378",
+    "synced": true
   },
   {
     "higestRating": 2402,
@@ -68714,7 +68717,8 @@
     "name": "CARRILLO, Esteban Montilla",
     "year": "1993-2017",
     "games": 30,
-    "id": "53545"
+    "id": "53545",
+    "synced": true
   },
   {
     "higestRating": 2276,

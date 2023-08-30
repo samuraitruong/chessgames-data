@@ -1,0 +1,15 @@
+[Event "Russian Championship"]
+[Site "Obninsk RUS"]
+[Date "2022.06.26"]
+[EventDate "2022-06-26"]
+[Round "1"]
+[Result "0-1"]
+[White "David Paravyan"]
+[Black "Kirill Shubin"]
+[ECO "B40"]
+[WhiteElo "2620"]
+[BlackElo "2475"]
+[Source "Lichess"]
+[PlyCount "124"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 Kf8 8. Bd2 h5 9. Qe2 Nxc3 10. bxc3 Be7 11. g3 b6 12. Qf3 Nc6 13. Nxc6 dxc6 14. Bd3 Qc7 15. O-O Bb7 16. Bg6 Bd8 17. h4 c5 18. Be4 Rb8 19. a4 Bxe4 20. Qxe4 g6 21. c4 Kg7 22. Rfd1 Be7 23. a5 Rhd8 24. axb6 axb6 25. Bc3 Rxd1+ 26. Rxd1 b5 27. cxb5 Rxb5 28. Kg2 Rb8 29. Qf3 Qb7 30. Qxb7 Rxb7 31. Ra1 Rd7 32. Kf3 Bf8 33. Ke3 Be7 34. Ke2 Kf8 35. Ra8+ Kg7 36. Ra5 Kf8 37. Ra8+ Kg7 38. Ra5 Kf8 39. Bd2 Rd5 40. Ra8+ Kg7 41. Bf4 Rd7 42. Bc1 Rd5 43. Bb2 g5 44. Ra7 gxh4 45. gxh4 Bxh4 46. f4 Kg6 47. Bc1 f6 48. Be3 fxe5 49. c4 Rd8 50. fxe5 Bg5 51. Bxc5 Rc8 52. Ra5 h4 53. Kd3 h3 54. Bd6 h2 55. Ra1 Kf5 56. Rh1 Bf4 57. c5 Rg8 58. c6 Rg1 59. c7 Rxh1 60. c8=Q Rd1+ 61. Ke2 Rd2+ 62. Kf3 h1=Q# 0-1
