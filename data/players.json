@@ -3999,7 +3999,8 @@
     "name": "PAVLOVIC, Milos",
     "year": "1983-2020",
     "games": 824,
-    "id": "42541"
+    "id": "42541",
+    "synced": true
   },
   {
     "higestRating": 2551,
@@ -26348,7 +26349,8 @@
     "name": "DANIELIAN, Oganes",
     "year": "1989-2013",
     "games": 120,
-    "id": "22028"
+    "id": "22028",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -47890,7 +47892,8 @@
     "name": "BALCERAK, Jakob",
     "year": "1993-2017",
     "games": 55,
-    "id": "52716"
+    "id": "52716",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -86251,7 +86254,8 @@
     "name": "BEZNOSIKOV, Vladimir",
     "year": "1995-2008",
     "games": 19,
-    "id": "61549"
+    "id": "61549",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -97249,7 +97253,8 @@
     "name": "WEISSBEIN, Tom",
     "year": "1975-1987",
     "games": 14,
-    "id": "128079"
+    "id": "128079",
+    "synced": true
   },
   {
     "higestRating": 2485,
@@ -99582,7 +99587,8 @@
     "name": "ORFALEA, Mark",
     "year": "1981-2002",
     "games": 8,
-    "id": "62001"
+    "id": "62001",
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -99807,7 +99813,8 @@
     "name": "HANSEN, Lars",
     "year": "1988-2016",
     "games": 8,
-    "id": "137039"
+    "id": "137039",
+    "synced": true
   },
   {
     "higestRating": 2383,
