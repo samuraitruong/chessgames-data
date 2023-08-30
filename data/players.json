@@ -10237,7 +10237,8 @@
     "name": "GUNDAVAA, Bayarsaikhan",
     "year": "2005-2022",
     "games": 360,
-    "id": "122065"
+    "id": "122065",
+    "synced": true
   },
   {
     "higestRating": 2464,
@@ -25661,7 +25662,8 @@
     "name": "SCHACHINGER, Mario",
     "year": "2006-2022",
     "games": 125,
-    "id": "106694"
+    "id": "106694",
+    "synced": true
   },
   {
     "higestRating": 2512,
@@ -72854,7 +72856,8 @@
     "name": "BENGTSON, Matthew",
     "year": "1996-2008",
     "games": 27,
-    "id": "50481"
+    "id": "50481",
+    "synced": true
   },
   {
     "higestRating": 2310,
