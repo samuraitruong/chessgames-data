@@ -1,0 +1,14 @@
+[Event "Internet Section 10A g/8’+2"]
+[Site "Dos Hermanas"]
+[Date "2004.03.10"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Santiago Cervino"]
+[Black "Mert Erdogdu"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "2359"]
+[PlyCount "34"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O d6 6. c3 Bb6 7. Bg5 h6 8. Be3 Be6 9. Nbd2 Qe7 10. Qe2 O-O 11. h3 Rad8 12. a4 d5 13. exd5 Nxd5 14. Bxb6 axb6 15. Nxe5 Nf4 16. Qe3 Qg5 17. Bxe6 Qxg2# 0-1

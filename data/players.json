@@ -3724,7 +3724,8 @@
     "name": "ERDOGDU, Mert",
     "year": "1995-2021",
     "games": 872,
-    "id": "57238"
+    "id": "57238",
+    "synced": true
   },
   {
     "higestRating": 2485,
@@ -66097,7 +66098,8 @@
     "name": "AMILAL, Munkhdalai",
     "year": "2022",
     "games": 33,
-    "id": "189894"
+    "id": "189894",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -77366,7 +77368,8 @@
     "name": "GERMAN, Gustavo",
     "year": "1992-1997",
     "games": 24,
-    "id": "42656"
+    "id": "42656",
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -91276,7 +91279,8 @@
     "name": "SOROKIN, Valentin",
     "year": "2004-2008",
     "games": 17,
-    "id": "106622"
+    "id": "106622",
+    "synced": true
   },
   {
     "higestRating": 2280,
