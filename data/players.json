@@ -11378,7 +11378,8 @@
     "name": "ZICHICHI, Alvise",
     "year": "1956-2002",
     "games": 319,
-    "id": "21442"
+    "id": "21442",
+    "synced": true
   },
   {
     "higestRating": 2519,
@@ -12095,7 +12096,8 @@
     "name": "THORSTEINS, Karl",
     "year": "1979-2017",
     "games": 299,
-    "id": "15523"
+    "id": "15523",
+    "synced": true
   },
   {
     "higestRating": 2558,
@@ -41402,7 +41404,8 @@
     "name": "SPRECIC, Mustafa",
     "year": "1979-2011",
     "games": 68,
-    "id": "37853"
+    "id": "37853",
+    "synced": true
   },
   {
     "higestRating": 2212,
