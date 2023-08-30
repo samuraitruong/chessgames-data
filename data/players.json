@@ -882,7 +882,8 @@
     "name": "SHABALOV, Alexander",
     "year": "1978-2022",
     "games": 1750,
-    "id": "17665"
+    "id": "17665",
+    "synced": true
   },
   {
     "higestRating": 2653,
@@ -34266,7 +34267,8 @@
     "name": "BURGESS, Mark Robert",
     "year": "1984-1988",
     "games": 87,
-    "id": "28312"
+    "id": "28312",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -50696,7 +50698,8 @@
     "name": "KONIUSHKOV, Igor",
     "year": "1994-1998",
     "games": 50,
-    "id": "46399"
+    "id": "46399",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -55239,7 +55242,8 @@
     "name": "FERNANDEZ, Enrique Alvarez",
     "year": "2000-2022",
     "games": 44,
-    "id": "68070"
+    "id": "68070",
+    "synced": true
   },
   {
     "higestRating": 2362,
@@ -58067,7 +58071,8 @@
     "name": "OLAY, Edgar Reggie",
     "year": "2001-2012",
     "games": 41,
-    "id": "122071"
+    "id": "122071",
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -63082,7 +63087,8 @@
     "name": "TUMA, Jiri",
     "year": "1995-2019",
     "games": 35,
-    "id": "54202"
+    "id": "54202",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -73908,7 +73914,8 @@
     "name": "BEHLING, Helmut",
     "year": "1993-2012",
     "games": 26,
-    "id": "29131"
+    "id": "29131",
+    "synced": true
   },
   {
     "higestRating": 2273,
