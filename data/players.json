@@ -223,7 +223,8 @@
     "name": "MILES, Tony",
     "year": "1967-2001",
     "games": 2691,
-    "id": "15843"
+    "id": "15843",
+    "synced": true
   },
   {
     "higestRating": 2784,
@@ -27071,7 +27072,8 @@
     "name": "OSBORNE, Marcus E",
     "year": "1992-2023",
     "games": 116,
-    "id": "27043"
+    "id": "27043",
+    "synced": true
   },
   {
     "higestRating": 2475,
