@@ -13027,7 +13027,8 @@
     "name": "RISTIC, Nenad",
     "year": "1975-2022",
     "games": 276,
-    "id": "42051"
+    "id": "42051",
+    "synced": true
   },
   {
     "higestRating": 2640,
@@ -16522,7 +16523,8 @@
     "name": "MAHDY, Khaled",
     "year": "1986-2017",
     "games": 213,
-    "id": "49119"
+    "id": "49119",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -47733,7 +47735,8 @@
     "name": "PINO, Diego Macias",
     "year": "2019-2022",
     "games": 56,
-    "id": "173807"
+    "id": "173807",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -51210,7 +51213,8 @@
     "name": "MULLICK, Raahil",
     "year": "2018-2021",
     "games": 50,
-    "id": "160633"
+    "id": "160633",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -97732,7 +97736,8 @@
     "name": "MILLER, Eduard",
     "year": "2010-2023",
     "games": 13,
-    "id": "134738"
+    "id": "134738",
+    "synced": true
   },
   {
     "higestRating": 2410,
