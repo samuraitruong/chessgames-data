@@ -11911,7 +11911,8 @@
     "name": "VISSER, Yge",
     "year": "1983-2009",
     "games": 303,
-    "id": "10929"
+    "id": "10929",
+    "synced": true
   },
   {
     "higestRating": 2464,
@@ -31648,7 +31649,8 @@
     "name": "GEIRNAERT, Steven",
     "year": "2000-2022",
     "games": 97,
-    "id": "52255"
+    "id": "52255",
+    "synced": true
   },
   {
     "higestRating": 2396,
@@ -45247,7 +45249,8 @@
     "name": "LIU, Elliott",
     "year": "2001-2017",
     "games": 60,
-    "id": "49804"
+    "id": "49804",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -52423,7 +52426,8 @@
     "name": "CAMACHO, Chardine Cheradee",
     "year": "2007-2014",
     "games": 48,
-    "id": "120297"
+    "id": "120297",
+    "synced": true
   },
   {
     "higestRating": 2488,
@@ -64514,7 +64518,8 @@
     "name": "REIPSCH, Jens",
     "year": "1995-2013",
     "games": 34,
-    "id": "101450"
+    "id": "101450",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -102022,7 +102027,8 @@
     "name": "TAMME, Ants",
     "year": "1977",
     "games": 2,
-    "id": "26985"
+    "id": "26985",
+    "synced": true
   },
   {
     "higestRating": 2255,
