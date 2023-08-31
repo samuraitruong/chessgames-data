@@ -16313,7 +16313,8 @@
     "name": "HAUG, Johannes",
     "year": "2014-2022",
     "games": 217,
-    "id": "149673"
+    "id": "149673",
+    "synced": true
   },
   {
     "higestRating": 2553,
@@ -21263,7 +21264,8 @@
     "name": "CHEN, Lin",
     "year": "2003-2023",
     "games": 160,
-    "id": "98962"
+    "id": "98962",
+    "synced": true
   },
   {
     "higestRating": 2397,
@@ -32132,7 +32134,8 @@
     "name": "SANTOS, Carlos Pereira dos",
     "year": "1989-2003",
     "games": 95,
-    "id": "50354"
+    "id": "50354",
+    "synced": true
   },
   {
     "higestRating": 2414,
@@ -32153,7 +32156,8 @@
     "name": "SBARRA, Marco",
     "year": "1996-2019",
     "games": 95,
-    "id": "54020"
+    "id": "54020",
+    "synced": true
   },
   {
     "higestRating": 2439,
