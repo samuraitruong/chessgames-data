@@ -1,0 +1,14 @@
+[Event "Bergen"]
+[Site "Bergen NOR"]
+[Date "2000.07.22"]
+[EventDate "2000.07.21"]
+[Round "2"]
+[Result "1-0"]
+[White "Trond Gabrielsen"]
+[Black "Remi Soupizon"]
+[ECO "B01"]
+[WhiteElo "2197"]
+[BlackElo "2046"]
+[PlyCount "45"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Bc4 c6 7. Bd2 e6 8. Qe2 Bb4 9. O-O O-O 10. a3 Bxc3 11. Bxc3 Qc7 12. Rfc1 Nbd7 13. h3 Rfe8 14. b4 Nd5 15. Bb2 Qf4 16. Bd3 Qh6 17. Bxf5 exf5 18. Qd2 Nf4 19. Re1 Nf6 20. Re5 Rxe5 21. dxe5 g5 22. exf6 g4 23. Be5 1-0

@@ -10935,7 +10935,8 @@
     "name": "SCHUURMAN, Petra",
     "year": "1989-2009",
     "games": 335,
-    "id": "49856"
+    "id": "49856",
+    "synced": true
   },
   {
     "higestRating": 2510,
@@ -34554,7 +34555,8 @@
     "name": "LICZNERSKI, Lukasz",
     "year": "2010-2022",
     "games": 87,
-    "id": "128408"
+    "id": "128408",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -44880,7 +44882,8 @@
     "name": "GABRIELSEN, Trond",
     "year": "1993-2010",
     "games": 61,
-    "id": "40658"
+    "id": "40658",
+    "synced": true
   },
   {
     "higestRating": 2208,
@@ -86385,7 +86388,8 @@
     "name": "SHUTZMAN, Joseph",
     "year": "1988-2008",
     "games": 19,
-    "id": "51138"
+    "id": "51138",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -93303,7 +93307,8 @@
     "name": "RUPPRECHT, Andreas",
     "year": "2000-2021",
     "games": 16,
-    "id": "68512"
+    "id": "68512",
+    "synced": true
   },
   {
     "higestRating": 2415,
