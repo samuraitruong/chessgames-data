@@ -19700,7 +19700,8 @@
     "name": "PERIC, Slavisa",
     "year": "1982-2017",
     "games": 176,
-    "id": "49834"
+    "id": "49834",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -22822,7 +22823,8 @@
     "name": "DRENCHEV, Petar",
     "year": "1992-2016",
     "games": 148,
-    "id": "48969"
+    "id": "48969",
+    "synced": true
   },
   {
     "higestRating": 2358,
@@ -24146,7 +24148,8 @@
     "name": "NOZDRACHEV, Vladislav",
     "year": "2007-2021",
     "games": 137,
-    "id": "141799"
+    "id": "141799",
+    "synced": true
   },
   {
     "higestRating": 2261,
@@ -46307,7 +46310,8 @@
     "name": "GORIATCHKIN, Jouri",
     "year": "1994-2019",
     "games": 58,
-    "id": "18246"
+    "id": "18246",
+    "synced": true
   },
   {
     "higestRating": 2210,
