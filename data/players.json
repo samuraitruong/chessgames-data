@@ -3780,7 +3780,8 @@
     "name": "GAREYEV, Timur",
     "year": "2000-2023",
     "games": 862,
-    "id": "56780"
+    "id": "56780",
+    "synced": true
   },
   {
     "higestRating": 2674,
@@ -77701,7 +77702,8 @@
     "name": "GAVELA, Dragan",
     "year": "1981-2003",
     "games": 24,
-    "id": "58177"
+    "id": "58177",
+    "synced": true
   },
   {
     "higestRating": 2351,
