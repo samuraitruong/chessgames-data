@@ -12060,7 +12060,8 @@
     "name": "KOTANJIAN, Tigran",
     "year": "1998-2019",
     "games": 301,
-    "id": "50097"
+    "id": "50097",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -26488,7 +26489,8 @@
     "name": "VANCINI, Edoardo",
     "year": "1983-2015",
     "games": 120,
-    "id": "54011"
+    "id": "54011",
+    "synced": true
   },
   {
     "higestRating": 2521,
@@ -37921,7 +37923,8 @@
     "name": "GRALKA, Julian",
     "year": "1966-2009",
     "games": 77,
-    "id": "54431"
+    "id": "54431",
+    "synced": true
   },
   {
     "higestRating": 2436,
@@ -45143,7 +45146,8 @@
     "name": "FOLKOVA, Martina",
     "year": "1992-2015",
     "games": 61,
-    "id": "134396"
+    "id": "134396",
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -66236,7 +66240,8 @@
     "name": "TOOTHILL, John A",
     "year": "1965-2002",
     "games": 32,
-    "id": "27477"
+    "id": "27477",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -97548,7 +97553,8 @@
     "name": "ARIPOV, Iskandar",
     "year": "2009-2021",
     "games": 14,
-    "id": "134830"
+    "id": "134830",
+    "synced": true
   },
   {
     "higestRating": 2430,

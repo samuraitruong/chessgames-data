@@ -1,0 +1,14 @@
+[Event "Sofia"]
+[Site "Sofia BUL"]
+[Date "1979.05.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Julian Gralka"]
+[Black "Aleksandar Babev"]
+[ECO "A71"]
+[WhiteElo "2345"]
+[BlackElo "2340"]
+[PlyCount "44"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Bg5 h6 9.Bh4 g5 10.Bg3 Nh5 11.Bb5+ Kf8 12.e5 Nxg3 13.fxg3 dxe5 14.O-O Bg4 15.Qa4 Bd7 16.Rae1 Qe7 17.Qe4 Bxb5 18.Nxb5 Nd7 19.d6 Qd8 20.Nc7 Rb8 21.Nxe5 Kg8 22.Rxf7 1-0
