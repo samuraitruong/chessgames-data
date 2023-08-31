@@ -7496,7 +7496,8 @@
     "name": "HUSCHENBETH, Niclas",
     "year": "2003-2023",
     "games": 486,
-    "id": "95997"
+    "id": "95997",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -15932,7 +15933,8 @@
     "name": "LUBBE, Melanie",
     "year": "2007-2021",
     "games": 222,
-    "id": "110075"
+    "id": "110075",
+    "synced": true
   },
   {
     "higestRating": 2554,
@@ -46645,7 +46647,8 @@
     "name": "SCHWARTZ, Ylon",
     "year": "1994-2018",
     "games": 57,
-    "id": "18910"
+    "id": "18910",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -61674,7 +61677,8 @@
     "name": "STIPS, Felix",
     "year": "2006-2015",
     "games": 37,
-    "id": "110050"
+    "id": "110050",
+    "synced": true
   },
   {
     "higestRating": 2454,
@@ -87892,7 +87896,8 @@
     "name": "FRANSSON, Peter",
     "year": "1980-1994",
     "games": 18,
-    "id": "20789"
+    "id": "20789",
+    "synced": true
   },
   {
     "higestRating": 2310,
