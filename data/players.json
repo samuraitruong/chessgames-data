@@ -16898,7 +16898,8 @@
     "name": "SMITH, Andrew Philip",
     "year": "1981-2023",
     "games": 210,
-    "id": "48998"
+    "id": "48998",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -17119,7 +17120,8 @@
     "name": "SANDE, Oystein",
     "year": "1969-2021",
     "games": 208,
-    "id": "90244"
+    "id": "90244",
+    "synced": true
   },
   {
     "higestRating": 2591,
@@ -32059,7 +32061,8 @@
     "name": "WU, Li",
     "year": "2001-2019",
     "games": 96,
-    "id": "78898"
+    "id": "78898",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -94059,7 +94062,8 @@
     "name": "GLAVAN, Slavenko",
     "year": "1974-2011",
     "games": 16,
-    "id": "101248"
+    "id": "101248",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -94152,7 +94156,8 @@
     "name": "ANDERSEN, Harry",
     "year": "2006-2009",
     "games": 16,
-    "id": "105194"
+    "id": "105194",
+    "synced": true
   },
   {
     "higestRating": 2372,
