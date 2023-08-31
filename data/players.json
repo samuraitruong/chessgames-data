@@ -13861,7 +13861,8 @@
     "name": "BJORNSSON, Sigurbjorn",
     "year": "1992-2023",
     "games": 260,
-    "id": "50346"
+    "id": "50346",
+    "synced": true
   },
   {
     "higestRating": 2548,
@@ -27681,7 +27682,8 @@
     "name": "TARLEV, Konstantin",
     "year": "2002-2022",
     "games": 114,
-    "id": "76825"
+    "id": "76825",
+    "synced": true
   },
   {
     "higestRating": 2454,
@@ -34660,7 +34662,8 @@
     "name": "SHVEDCHIKOV, Anatoli I",
     "year": "1971-2018",
     "games": 86,
-    "id": "17767"
+    "id": "17767",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -34892,7 +34895,8 @@
     "name": "RADOSAVLJEVIC, Slobodan D",
     "year": "1981-2010",
     "games": 86,
-    "id": "130851"
+    "id": "130851",
+    "synced": true
   },
   {
     "higestRating": 2214,
@@ -65205,7 +65209,8 @@
     "name": "BACH, Ngoc Thuy Duong",
     "year": "2018-2022",
     "games": 34,
-    "id": "161347"
+    "id": "161347",
+    "synced": true
   },
   {
     "higestRating": 2321,
@@ -70748,7 +70753,8 @@
     "name": "VILLALBA, Angel Acevedo",
     "year": "1958-2011",
     "games": 29,
-    "id": "90618"
+    "id": "90618",
+    "synced": true
   },
   {
     "higestRating": 2405,
