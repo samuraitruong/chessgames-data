@@ -1,0 +1,14 @@
+[Event "I Open A"]
+[Site "Padua ITA"]
+[Date "1998.12.11"]
+[EventDate "1998.12.11"]
+[Round "1"]
+[Result "1-0"]
+[White "Lexy Ortega"]
+[Black "Christian Cacco"]
+[ECO "E97"]
+[WhiteElo "2490"]
+[BlackElo "2190"]
+[PlyCount "48"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.b4 a5 10.Ba3 axb4 11.Bxb4 b6 12.a4 Ne8 13.Nb5 f5 14.Nd2 Bh6 15.a5 bxa5 16.Rxa5 Rxa5 17.Bxa5 Bd7 18.c5 Qa8 19.Nb3 Qb7 20.Nxc7 Ba4 21.Bc4 fxe4 22. Nxe8 Rxe8 23.cxd6 Bxb3 24.Qxb3 1-0

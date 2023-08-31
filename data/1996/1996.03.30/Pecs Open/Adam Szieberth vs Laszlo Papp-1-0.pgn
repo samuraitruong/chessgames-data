@@ -1,0 +1,14 @@
+[Event "Pecs Open"]
+[Site "Pecs HUN"]
+[Date "1996.04.03"]
+[EventDate "1996.03.30"]
+[Round "6"]
+[Result "1-0"]
+[White "Adam Szieberth"]
+[Black "Laszlo Papp"]
+[ECO "C17"]
+[WhiteElo "2325"]
+[BlackElo "2205"]
+[PlyCount "42"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 cxd4 6.axb4 dxc3 7.Nf3 Qc7 8.Ra3 cxb2 9.Bxb2 Nc6 10.Qd2 d4 11.b5 Nxe5 12.Bxd4 Nxf3+ 13.gxf3 Qd6 14.Rd3 e5 15.Bxe5 Qe7 16.Re3 Be6 17.Bxg7 Rd8 18.Bd3 Nf6 19.Bxh8 Nd5 20.Re4 f6 21.Rg1 1-0
