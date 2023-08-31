@@ -6420,7 +6420,8 @@
     "name": "SPASSOV, Liuben",
     "year": "1965-2014",
     "games": 565,
-    "id": "67486"
+    "id": "67486",
+    "synced": true
   },
   {
     "higestRating": 2601,
@@ -21445,7 +21446,8 @@
     "name": "MORTAZAVI, Ali",
     "year": "1985-2018",
     "games": 158,
-    "id": "13805"
+    "id": "13805",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -22900,7 +22902,8 @@
     "name": "MCCAMBRIDGE, Vincent",
     "year": "1977-2018",
     "games": 147,
-    "id": "15509"
+    "id": "15509",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -76421,7 +76424,8 @@
     "name": "VARELA, Daniel",
     "year": "2003-2012",
     "games": 25,
-    "id": "88410"
+    "id": "88410",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -92422,7 +92426,8 @@
     "name": "KELECEVIC, Mladen",
     "year": "1971-2004",
     "games": 16,
-    "id": "14996"
+    "id": "14996",
+    "synced": true
   },
   {
     "higestRating": 2305,
