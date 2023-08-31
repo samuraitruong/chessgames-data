@@ -1,0 +1,15 @@
+[Event "Online rapid game"]
+[Site "lichess"]
+[Date "2021.02.20"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Garg Aradhya"]
+[ECO "D10"]
+[WhiteElo "2018"]
+[BlackElo "2130"]
+[Source "https://lichess.org/5YXxZwPB"]
+[PlyCount "40"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Nc6 6. e3 a6 7. Bd3 Bg4 8. Qb3 Na5 9. Qa4+ b5 10. Qc2 Rc8 11. a3 e6 12. h3 Bh5 13. Nge2 Be7 14. O-O Bg6 15. Bxg6 hxg6 16. Nc1 Ne4 17. N1e2 g5 18. Bh2 g4 19. hxg4 Bd6 20. Bxd6 Qh4 0-1

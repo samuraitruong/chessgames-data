@@ -15870,7 +15870,8 @@
     "name": "ZYSK, Robert",
     "year": "1983-2020",
     "games": 222,
-    "id": "19622"
+    "id": "19622",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -21302,7 +21303,8 @@
     "name": "KHMELNITSKY, Igor",
     "year": "1984-2022",
     "games": 159,
-    "id": "15657"
+    "id": "15657",
+    "synced": true
   },
   {
     "higestRating": 2501,
@@ -26012,7 +26014,8 @@
     "name": "ARADHYA, Garg",
     "year": "2014-2023",
     "games": 123,
-    "id": "151614"
+    "id": "151614",
+    "synced": true
   },
   {
     "higestRating": 2528,
@@ -49012,7 +49015,8 @@
     "name": "BOLL, Peter Albertus",
     "year": "1976-2000",
     "games": 53,
-    "id": "23208"
+    "id": "23208",
+    "synced": true
   },
   {
     "higestRating": 2305,
