@@ -5049,7 +5049,8 @@
     "name": "BARLOV, Dragan",
     "year": "1974-2015",
     "games": 697,
-    "id": "41145"
+    "id": "41145",
+    "synced": true
   },
   {
     "higestRating": 2543,
@@ -16673,7 +16674,8 @@
     "name": "VENKATESH, Pranav",
     "year": "2016-2023",
     "games": 213,
-    "id": "156243"
+    "id": "156243",
+    "synced": true
   },
   {
     "higestRating": 2439,
@@ -38904,7 +38906,8 @@
     "name": "ZLATIN, Alexander",
     "year": "2014-2023",
     "games": 75,
-    "id": "150616"
+    "id": "150616",
+    "synced": true
   },
   {
     "higestRating": 2407,
@@ -43437,7 +43440,8 @@
     "name": "DONGUINES, Fernie",
     "year": "1989-2008",
     "games": 64,
-    "id": "23693"
+    "id": "23693",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -61613,7 +61617,8 @@
     "name": "JOVIC, Ljubomir",
     "year": "1960-1994",
     "games": 37,
-    "id": "85462"
+    "id": "85462",
+    "synced": true
   },
   {
     "higestRating": 2396,
@@ -62463,7 +62468,8 @@
     "name": "HILWANI, Talal",
     "year": "2004-2020",
     "games": 36,
-    "id": "84011"
+    "id": "84011",
+    "synced": true
   },
   {
     "higestRating": 2207,
@@ -70862,7 +70868,8 @@
     "name": "MERTENS, Heiko",
     "year": "2003-2015",
     "games": 29,
-    "id": "105807"
+    "id": "105807",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -74453,7 +74460,8 @@
     "name": "ADAN, Carlos Mate",
     "year": "1997-2012",
     "games": 26,
-    "id": "53574"
+    "id": "53574",
+    "synced": true
   },
   {
     "higestRating": 2246,
@@ -98756,7 +98764,8 @@
     "name": "CUENCA, Victor Garcia",
     "year": "2001",
     "games": 11,
-    "id": "55713"
+    "id": "55713",
+    "synced": true
   },
   {
     "higestRating": 2337,
