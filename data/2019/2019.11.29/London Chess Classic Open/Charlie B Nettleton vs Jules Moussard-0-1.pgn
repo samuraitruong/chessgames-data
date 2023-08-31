@@ -1,0 +1,14 @@
+[Event "London Chess Classic Open"]
+[Site "London ENG"]
+[Date "2019.11.29"]
+[EventDate "2019.11.29"]
+[Round "1.2"]
+[Result "0-1"]
+[White "Charlie B Nettleton"]
+[Black "Jules Moussard"]
+[ECO "B09"]
+[WhiteElo "2058"]
+[BlackElo "2600"]
+[PlyCount "44"]
+
+1. e4 Nf6 2. Nc3 d6 3. d4 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. e5 Nd7 9. e6 fxe6 10. Qe1 cxd4 11. Ne4 Nac5 12. Qh4 Nxe4 13. Bxe4 Rf6 14. Ng5 h6 15. f5 Nc5 16. fxg6 Nxe4 17. Nf7 Rxf1+ 18. Kxf1 Qa5 19. Bxh6 Qf5+ 20. Kg1 Bf6 21. Bg5 Qxg6 22. Bxf6 Nxf6 0-1
