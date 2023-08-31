@@ -1234,7 +1234,8 @@
     "name": "DRONAVALLI, Harika",
     "year": "2000-2023",
     "games": 1552,
-    "id": "54964"
+    "id": "54964",
+    "synced": true
   },
   {
     "higestRating": 2703,
@@ -38663,7 +38664,8 @@
     "name": "BOZINOVIC, Bogdan",
     "year": "1991-2021",
     "games": 75,
-    "id": "52148"
+    "id": "52148",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -65202,7 +65204,8 @@
     "name": "CERISIER, Philippe",
     "year": "1985-1993",
     "games": 33,
-    "id": "28833"
+    "id": "28833",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -92463,7 +92466,8 @@
     "name": "WESTERVELD, Wim J",
     "year": "1973-1992",
     "games": 16,
-    "id": "25450"
+    "id": "25450",
+    "synced": true
   },
   {
     "higestRating": 2252,
