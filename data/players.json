@@ -7604,7 +7604,8 @@
     "name": "KHADEMALSHARIEH, Sarasadat",
     "year": "2009-2023",
     "games": 482,
-    "id": "122087"
+    "id": "122087",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -9787,7 +9788,8 @@
     "name": "CORDOVIL, Joao Maria",
     "year": "1964-2017",
     "games": 374,
-    "id": "37381"
+    "id": "37381",
+    "synced": true
   },
   {
     "higestRating": 2526,
