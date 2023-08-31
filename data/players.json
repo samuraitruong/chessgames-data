@@ -2473,7 +2473,8 @@
     "name": "KVEINYS, Aloyzas",
     "year": "1980-2018",
     "games": 1121,
-    "id": "17778"
+    "id": "17778",
+    "synced": true
   },
   {
     "higestRating": 2653,
@@ -22995,7 +22996,8 @@
     "name": "PARIDAR, Shadi",
     "year": "1997-2010",
     "games": 146,
-    "id": "51286"
+    "id": "51286",
+    "synced": true
   },
   {
     "higestRating": 2223,
@@ -47786,7 +47788,8 @@
     "name": "OKUYAZ, Duru",
     "year": "2012-2022",
     "games": 56,
-    "id": "140304"
+    "id": "140304",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -77866,7 +77869,8 @@
     "name": "ZAREZENKO, Ilya",
     "year": "1997-2002",
     "games": 24,
-    "id": "84894"
+    "id": "84894",
+    "synced": true
   },
   {
     "higestRating": 2212,
@@ -84707,7 +84711,8 @@
     "name": "LAURENT, Claude",
     "year": "1988-1999",
     "games": 20,
-    "id": "90294"
+    "id": "90294",
+    "synced": true
   },
   {
     "higestRating": 2502,
@@ -88180,7 +88185,8 @@
     "name": "LEUBA, Didier",
     "year": "1986-2005",
     "games": 18,
-    "id": "39591"
+    "id": "39591",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -90098,7 +90104,8 @@
     "name": "ANDRESEN, Steffen",
     "year": "1984-2012",
     "games": 17,
-    "id": "14259"
+    "id": "14259",
+    "synced": true
   },
   {
     "higestRating": 2226,
