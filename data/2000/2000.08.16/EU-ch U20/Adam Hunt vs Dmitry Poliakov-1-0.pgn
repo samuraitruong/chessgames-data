@@ -1,0 +1,14 @@
+[Event "EU-ch U20"]
+[Site "Aviles ESP"]
+[Date "2000.08.24"]
+[EventDate "2000.08.16"]
+[Round "8"]
+[Result "1-0"]
+[White "Adam Hunt"]
+[Black "Dmitry Poliakov"]
+[ECO "B60"]
+[WhiteElo "2392"]
+[BlackElo "2262"]
+[PlyCount "24"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e5 7.Nf5 g6 8.Nd5 Be7 9.Ndxe7 Nxe4 10.Nxc6 Qc7 11.Nxd6+ Nxd6 12.Bf6 1-0
