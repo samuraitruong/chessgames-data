@@ -7818,7 +7818,8 @@
     "name": "PFLEGER, Helmut",
     "year": "1959-1996",
     "games": 469,
-    "id": "14779"
+    "id": "14779",
+    "synced": true
   },
   {
     "higestRating": 2443,
@@ -32040,7 +32041,8 @@
     "name": "SURAN, Jan",
     "year": "1992-2019",
     "games": 96,
-    "id": "70226"
+    "id": "70226",
+    "synced": true
   },
   {
     "higestRating": 2345,
@@ -96690,7 +96692,8 @@
     "name": "KAYSER, Felix",
     "year": "2006-2017",
     "games": 15,
-    "id": "110029"
+    "id": "110029",
+    "synced": true
   },
   {
     "higestRating": 2309,
