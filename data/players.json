@@ -14814,7 +14814,8 @@
     "name": "RAZNIKOV, Danny",
     "year": "2007-2021",
     "games": 241,
-    "id": "109568"
+    "id": "109568",
+    "synced": true
   },
   {
     "higestRating": 2382,
@@ -15673,7 +15674,8 @@
     "name": "FAKHIRIDOU, Ekaterini",
     "year": "1996-2013",
     "games": 226,
-    "id": "53823"
+    "id": "53823",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -39530,7 +39532,8 @@
     "name": "JIMENEZ, Victoriano Gallego",
     "year": "1989-2001",
     "games": 73,
-    "id": "94506"
+    "id": "94506",
+    "synced": true
   },
   {
     "higestRating": 2267,
@@ -55321,7 +55324,8 @@
     "name": "RENTERIA, Jorge",
     "year": "1993-2018",
     "games": 44,
-    "id": "53129"
+    "id": "53129",
+    "synced": true
   },
   {
     "higestRating": 2359,
@@ -59248,7 +59252,8 @@
     "name": "LOZANO, Javier Benitez",
     "year": "2011-2021",
     "games": 40,
-    "id": "131316"
+    "id": "131316",
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -97911,7 +97916,8 @@
     "name": "DEDE, Erno",
     "year": "1993-2000",
     "games": 13,
-    "id": "70155"
+    "id": "70155",
+    "synced": true
   },
   {
     "higestRating": 2306,
