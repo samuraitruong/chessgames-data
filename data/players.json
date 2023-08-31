@@ -5854,7 +5854,8 @@
     "name": "OGAARD, Leif",
     "year": "1969-2019",
     "games": 612,
-    "id": "23594"
+    "id": "23594",
+    "synced": true
   },
   {
     "higestRating": 2676,
@@ -44484,7 +44485,8 @@
     "name": "WEGENER, Dirk",
     "year": "1991-2016",
     "games": 62,
-    "id": "57040"
+    "id": "57040",
+    "synced": true
   },
   {
     "higestRating": 2362,
@@ -49914,7 +49916,8 @@
     "name": "SAMAKOV, Nurdin",
     "year": "2000-2010",
     "games": 52,
-    "id": "98408"
+    "id": "98408",
+    "synced": true
   },
   {
     "higestRating": 2330,
