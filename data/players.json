@@ -2696,7 +2696,8 @@
     "name": "GAPRINDASHVILI, Nona",
     "year": "1955-2018",
     "games": 1074,
-    "id": "16111"
+    "id": "16111",
+    "synced": true
   },
   {
     "higestRating": 2702,
@@ -21923,7 +21924,8 @@
     "name": "RAKHMANGULOVA, Anastasiya",
     "year": "2008-2023",
     "games": 155,
-    "id": "118084"
+    "id": "118084",
+    "synced": true
   },
   {
     "higestRating": 2522,
