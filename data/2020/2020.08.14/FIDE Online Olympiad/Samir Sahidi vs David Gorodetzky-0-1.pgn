@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.16"]
+[EventDate "2020.08.14"]
+[Round "8"]
+[Result "0-1"]
+[White "Samir Sahidi"]
+[Black "David Gorodetzky"]
+[ECO "D30"]
+[WhiteElo "2380"]
+[BlackElo "2424"]
+[PlyCount "168"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 dxc4 5. Qa4+ Nbd7 6. e4 a6 7. Bxc4 Rb8 8. Qc2 h6 9. Bxf6 Nxf6 10. O-O Be7 11. Nc3 b5 12. Bd3 Bb7 13. Rfd1 O-O 14. a3 Nd7 15. b4 Bd6 16. Be2 Re8 17. Rab1 Ba8 18. a4 bxa4 19. Qxa4 Qe7 20. b5 axb5 21. Bxb5 c6 22. Bc4 e5 23. Rxb8 Rxb8 24. d5 Nb6 25. Qa2 Bb4 26. d6 Qf6 27. Ne2 Nxc4 28. Qxc4 Bxd6 29. Ng3 g6 30. h4 h5 31. Qa6 Rd8 32. Rc1 Bf8 33. Qb6 Be7 34. Qc7 Qd6 35. Qa7 c5 36. Ng5 Bxg5 37. hxg5 Rc8 38. Qa4 Qd2 39. Rd1 Qxg5 40. Qd7 Rf8 41. Qd3 Qg4 42. Re1 Rc8 43. Qc4 h4 44. Nf1 h3 45. Ng3 hxg2 46. Kxg2 Kg7 47. Rh1 Rd8 48. Re1 Rd4 49. Qxc5 Rxe4 50. Rxe4 Bxe4+ 51. Kh2 Qf4 52. Kg1 Bf3 53. Qc3 Bg4 54. Qe1 Be6 55. Qc3 Kh7 56. Qe1 f6 57. Qa1 Qd4 58. Qb1 Bd5 59. Qc1 Qc4 60. Qd1 Bf7 61. Qe1 Qd5 62. Qc1 f5 63. Qg5 f4 64. Nf1 Qe4 65. Qf6 Qf5 66. Qh4+ Kg7 67. Nh2 g5 68. Qg4 Qxg4+ 69. Nxg4 e4 70. Ne5 Kf6 71. Ng4+ Ke6 72. f3 Bh5 73. Nh2 Bxf3 74. Kf2 Kf5 75. Nf1 Bh5 76. Kg1 e3 77. Nh2 Ke4 78. Kf1 Kd3 79. Ke1 e2 80. Kf2 Kd2 81. Kg2 e1=Q 82. Nf1+ Kd3 83. Kh2 Qf2+ 84. Kh3 g4# 0-1

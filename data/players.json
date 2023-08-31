@@ -4158,7 +4158,8 @@
     "name": "FURMAN, Semyon",
     "year": "1940-1977",
     "games": 798,
-    "id": "15346"
+    "id": "15346",
+    "synced": true
   },
   {
     "higestRating": 2640,
@@ -26911,7 +26912,8 @@
     "name": "SAHIDI, Samir",
     "year": "2015-2023",
     "games": 118,
-    "id": "160226"
+    "id": "160226",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -47130,7 +47132,8 @@
     "name": "PETROSYAN, Tigran S",
     "year": "2011-2019",
     "games": 57,
-    "id": "141813"
+    "id": "141813",
+    "synced": true
   },
   {
     "higestRating": 2532,
@@ -94525,7 +94528,8 @@
     "name": "PARFENOV, Viktor N",
     "year": "2014-2021",
     "games": 16,
-    "id": "149626"
+    "id": "149626",
+    "synced": true
   },
   {
     "higestRating": 2551,
