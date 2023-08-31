@@ -1,0 +1,14 @@
+[Event "Budapest FS05 Elo"]
+[Site "Budapest"]
+[Date "1999.05.03"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Tomas Balogh"]
+[Black "Slavoljub Stupar"]
+[ECO "C10"]
+[WhiteElo "2135"]
+[BlackElo "2200"]
+[PlyCount "43"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ Qxf6 6.Nf3 h6 7.Bd3 Bd6 8.Qe2 Qe7 9.Bd2 c5 10.Bc3 O-O 11.dxc5 Bxc5 12.O-O-O Nc6 13.a3 Bd6 14.Rhe1 Re8 15.Qe4 f5 16.Qc4 Qf7 17.Bxf5 Bxa3 18.Nh4 Rf8 19.Rxe6 Nd8 20.Rg6 Qxc4 21.Rxg7+ Kh8 22.Ng6# 1-0
