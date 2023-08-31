@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.18"]
+[EventDate "2022.12.17"]
+[Round "10.32"]
+[Result "0-1"]
+[White "Thomas Paehtz"]
+[Black "Kacper Piorun"]
+[ECO "B52"]
+[WhiteElo "2339"]
+[BlackElo "2611"]
+[PlyCount "40"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 e5 6. Nc3 Nc6 7. d3 g6 8. Nd5 Bg7 9. a3 Nge7 10. Bh6 O-O 11. Qd2 f5 12. Bxg7 Kxg7 13. h4 fxe4 14. dxe4 Rxf3 15. gxf3 Nd4 16. Qd3 Nxd5 17. cxd5 Rf8 18. f4 Rxf4 19. Kf1 Rf3 20. Qd2 Rh3 0-1
