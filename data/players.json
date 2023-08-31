@@ -3949,7 +3949,8 @@
     "name": "DAVID, Alberto",
     "year": "1985-2023",
     "games": 838,
-    "id": "57000"
+    "id": "57000",
+    "synced": true
   },
   {
     "higestRating": 2584,
@@ -38455,7 +38456,8 @@
     "name": "NITISH, Belurkar",
     "year": "2014-2022",
     "games": 76,
-    "id": "151618"
+    "id": "151618",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -44334,7 +44336,8 @@
     "name": "BARTSCH, Berthold",
     "year": "1976-2013",
     "games": 62,
-    "id": "39541"
+    "id": "39541",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -57216,7 +57219,8 @@
     "name": "AMARELLE, Mariano Ortega",
     "year": "2004-2022",
     "games": 42,
-    "id": "99126"
+    "id": "99126",
+    "synced": true
   },
   {
     "higestRating": 2349,
@@ -90079,7 +90083,8 @@
     "name": "JUAREZ, Alberto",
     "year": "1986-2003",
     "games": 17,
-    "id": "16461"
+    "id": "16461",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -99031,7 +99036,8 @@
     "name": "FISCHER, Marc",
     "year": "2001-2009",
     "games": 10,
-    "id": "50252"
+    "id": "50252",
+    "synced": true
   },
   {
     "higestRating": 2408,
