@@ -1172,7 +1172,8 @@
     "name": "CSOM, Istvan",
     "year": "1964-2012",
     "games": 1570,
-    "id": "10765"
+    "id": "10765",
+    "synced": true
   },
   {
     "higestRating": 2637,
@@ -36609,7 +36610,8 @@
     "name": "YARMONOV, Igor",
     "year": "2002-2020",
     "games": 81,
-    "id": "79527"
+    "id": "79527",
+    "synced": true
   },
   {
     "higestRating": 2475,
@@ -46369,7 +46371,8 @@
     "name": "HAMED, Ahmed Ibrahim",
     "year": "1987-2002",
     "games": 58,
-    "id": "49124"
+    "id": "49124",
+    "synced": true
   },
   {
     "higestRating": 2488,
@@ -48925,7 +48928,8 @@
     "name": "SOLBERG, Joachim",
     "year": "1991-2019",
     "games": 54,
-    "id": "105217"
+    "id": "105217",
+    "synced": true
   },
   {
     "higestRating": 2501,
@@ -73394,7 +73398,8 @@
     "name": "STEFANOPOULOS, Orestis",
     "year": "1997-2006",
     "games": 27,
-    "id": "85472"
+    "id": "85472",
+    "synced": true
   },
   {
     "higestRating": 2395,
