@@ -1,0 +1,14 @@
+[Event "US Open"]
+[Site "Phoenix, AZ USA"]
+[Date "2015.08.03"]
+[EventDate "2015.08.01"]
+[Round "3"]
+[Result "1-0"]
+[White "Nolan R Hendrickson"]
+[Black "Buddy Thompson"]
+[ECO "C00"]
+[WhiteElo "2200"]
+[BlackElo "1879"]
+[PlyCount "25"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Bc5 5. c3 dxe4 6. Nxe4 Nxe4 7. Qa4+ Bd7 8. Qxe4 Bc6 9. Qg4 Qf6 10. Be2 Nd7 11. Bg5 Bxf3 12. Bxf3 Ne5 13. Qa4+ 1-0
