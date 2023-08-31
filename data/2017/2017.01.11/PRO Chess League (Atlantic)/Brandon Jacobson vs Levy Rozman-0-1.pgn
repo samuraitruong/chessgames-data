@@ -1,0 +1,14 @@
+[Event "PRO Chess League (Atlantic)"]
+[Site "chess.com INT"]
+[Date "2017.01.18"]
+[EventDate "2017.01.11"]
+[Round "2"]
+[Result "0-1"]
+[White "Brandon Jacobson"]
+[Black "Levy Rozman"]
+[ECO "A07"]
+[WhiteElo "2225"]
+[BlackElo "2404"]
+[PlyCount "44"]
+
+1. Nf3 f5 2. d3 d6 3. e4 e5 4. Nc3 c5 5. g3 Nc6 6. Bg2 Nf6 7. O-O Be7 8. Bg5 O-O 9. exf5 Bxf5 10. Nd2 Qd7 11. Bxf6 Rxf6 12. Nde4 Rh6 13. h4 Rf8 14. Nd5 Bd8 15. Qd2 Bh3 16. Ng5 Bxg5 17. Qxg5 Rg6 18. Qd2 Nd4 19. h5 Bxg2 20. Kxg2 Rh6 21. Rh1 Qf7 22. Ne3 Qf3+ 0-1

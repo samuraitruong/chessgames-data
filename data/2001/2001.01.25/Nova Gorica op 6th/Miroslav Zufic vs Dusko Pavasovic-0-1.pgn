@@ -1,0 +1,14 @@
+[Event "Nova Gorica op 6th"]
+[Site "Nova Gorica SLO"]
+[Date "2001.01.25"]
+[EventDate "2001.01.25"]
+[Round "3"]
+[Result "0-1"]
+[White "Miroslav Zufic"]
+[Black "Dusko Pavasovic"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Be3 a6 5.f4 b5 6.Bd3 Bb7 7.Nf3 Nd7 8.e5 c5 9.Ng5 Qa5 10.e6 fxe6 11.Nxe6 Bxd4 12.Bxd4 cxd4 13.f5 Ne5 14.fxg6 hxg6 15.Bxg6+ Nxg6 16.Qg4 dxc3 17.Qxg6+ Kd7 18.O-O Qb6+ 19.Kh1 Rh6 20.Nf8+ Rxf8 21.Qg4+ Ke8 0-1
