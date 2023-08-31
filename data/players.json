@@ -22220,7 +22220,8 @@
     "name": "ZILBER, Israel",
     "year": "1949-1980",
     "games": 152,
-    "id": "37272"
+    "id": "37272",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -23025,7 +23026,8 @@
     "name": "MORCHIASHVILI, Bachana",
     "year": "2000-2021",
     "games": 146,
-    "id": "50089"
+    "id": "50089",
+    "synced": true
   },
   {
     "higestRating": 2264,
@@ -46459,7 +46461,8 @@
     "name": "ABOUDI, Marwan",
     "year": "1983-2022",
     "games": 58,
-    "id": "57600"
+    "id": "57600",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -63772,7 +63775,8 @@
     "name": "RONQUILLO, Humberto Blanco",
     "year": "2007-2018",
     "games": 35,
-    "id": "109962"
+    "id": "109962",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -65555,7 +65559,8 @@
     "name": "STAJNER, Samo",
     "year": "2000-2017",
     "games": 33,
-    "id": "54658"
+    "id": "54658",
+    "synced": true
   },
   {
     "higestRating": 2570,
@@ -73822,7 +73827,8 @@
     "name": "DIMOV, Dian",
     "year": "1994-2016",
     "games": 27,
-    "id": "138048"
+    "id": "138048",
+    "synced": true
   },
   {
     "higestRating": 2378,
@@ -79306,7 +79312,8 @@
     "name": "CORRE, Benjamin Le",
     "year": "2004-2018",
     "games": 23,
-    "id": "83229"
+    "id": "83229",
+    "synced": true
   },
   {
     "higestRating": 2221,
@@ -96784,7 +96791,8 @@
     "name": "JORGENSEN, Jorgen",
     "year": "1993-2012",
     "games": 15,
-    "id": "118516"
+    "id": "118516",
+    "synced": true
   },
   {
     "higestRating": 2314,
@@ -97002,7 +97010,8 @@
     "name": "KOVACS, Elod",
     "year": "1989-2009",
     "games": 15,
-    "id": "133985"
+    "id": "133985",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -100976,7 +100985,8 @@
     "name": "RUST, Keith",
     "year": "1996-1998",
     "games": 6,
-    "id": "97582"
+    "id": "97582",
+    "synced": true
   },
   {
     "higestRating": 2235,
