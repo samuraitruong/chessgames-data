@@ -7185,7 +7185,8 @@
     "name": "BORISEK, Jure",
     "year": "1997-2022",
     "games": 504,
-    "id": "35978"
+    "id": "35978",
+    "synced": true
   },
   {
     "higestRating": 2387,
@@ -28601,7 +28602,8 @@
     "name": "SAKELSEK, Tadej",
     "year": "2001-2011",
     "games": 110,
-    "id": "49943"
+    "id": "49943",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -71618,7 +71620,8 @@
     "name": "BOKOR, Istvan",
     "year": "1960-1993",
     "games": 28,
-    "id": "41837"
+    "id": "41837",
+    "synced": true
   },
   {
     "higestRating": 2325,

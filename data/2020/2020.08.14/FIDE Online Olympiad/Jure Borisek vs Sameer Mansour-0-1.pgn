@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.15"]
+[EventDate "2020.08.14"]
+[Round "5"]
+[Result "0-1"]
+[White "Jure Borisek"]
+[Black "Sameer Mansour"]
+[ECO "B07"]
+[WhiteElo "2552"]
+[BlackElo "2239"]
+[Source "Chess-Results"]
+[PlyCount "146"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 exd4 5. Nxd4 Be7 6. g3 O-O 7. Bg2 Re8 8. O-O Bf8 9. h3 Nc6 10. Nde2 g6 11. g4 Bg7 12. Ng3 Nd7 13. f4 Nb6 14. Nd5 Nxd5 15. exd5 Qh4 16. Kh2 Nd4 17. c3 Ne2 18. Nxe2 Bxg4 19. Qe1 Qxe1 20. Rxe1 Bxe2 21. Bd2 f5 22. Kg3 Kf7 23. Kf2 Bd3 24. Rxe8 Rxe8 25. Be3 Bf6 26. Bf1 Bh4+ 27. Kf3 Be4+ 28. Ke2 Bxd5 29. Kd2 a6 30. b4 Bf6 31. Bf2 Bf3 32. a4 d5 33. Rb1 Re4 34. Bg3 Re6 35. b5 axb5 36. axb5 Ke7 37. Ra1 Kd7 38. Ra8 Bh5 39. Rb8 Bxc3+ 40. Kxc3 Re3+ 41. Kd4 Rxg3 42. Rxb7 Rf3 43. Bd3 Rxf4+ 44. Ke5 Rb4 45. Ra7 Rb3 46. Kd4 f4 47. Ra8 Bf3 48. Rf8 Be4 49. Bxe4 dxe4 50. Kxe4 Rxb5 51. Rf7+ Ke6 52. Rxh7 Rb4+ 53. Kf3 c6 54. h4 Rc4 55. Rh8 Kf6 56. Kg4 c5 57. Rf8+ Kg7 58. Rc8 Kf6 59. Rf8+ Ke5 60. Kg5 Rc1 61. Re8+ Kd5 62. Kxf4 Rg1 63. Ke3 Rg3+ 64. Ke2 Kd4 65. Kd2 Rg2+ 66. Kc1 c4 67. Rf8 Kc3 68. Rf3+ Kb4 69. Re3 Rg4 70. Rh3 c3 71. h5 Kb3 72. Kd1 gxh5 73. Rxh5 Rg1+ 0-1
