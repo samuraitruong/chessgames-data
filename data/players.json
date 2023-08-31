@@ -13457,7 +13457,8 @@
     "name": "MEINS, Gerlef",
     "year": "1987-2023",
     "games": 267,
-    "id": "46396"
+    "id": "46396",
+    "synced": true
   },
   {
     "higestRating": 2567,
@@ -25115,7 +25116,8 @@
     "name": "SENADOR, Emmanuel",
     "year": "1991-2016",
     "games": 129,
-    "id": "52466"
+    "id": "52466",
+    "synced": true
   },
   {
     "higestRating": 2529,
@@ -58315,7 +58317,8 @@
     "name": "PECHENKIN, Vladimir",
     "year": "2009-2015",
     "games": 41,
-    "id": "122460"
+    "id": "122460",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -59962,7 +59965,8 @@
     "name": "SALAMA, Omar",
     "year": "2006-2019",
     "games": 39,
-    "id": "102533"
+    "id": "102533",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -62149,7 +62153,8 @@
     "name": "KOVACEVIC, Veljko",
     "year": "1979-2008",
     "games": 36,
-    "id": "37875"
+    "id": "37875",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -65578,7 +65583,8 @@
     "name": "BOIM, Inon",
     "year": "1986-2003",
     "games": 33,
-    "id": "58241"
+    "id": "58241",
+    "synced": true
   },
   {
     "higestRating": 2230,
