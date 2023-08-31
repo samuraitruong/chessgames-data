@@ -11247,7 +11247,8 @@
     "name": "LIMP, Eduardo Thelio",
     "year": "1978-2023",
     "games": 326,
-    "id": "49871"
+    "id": "49871",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -21125,7 +21126,8 @@
     "name": "HAPALA, Elisabeth",
     "year": "2012-2023",
     "games": 162,
-    "id": "141610"
+    "id": "141610",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -36502,7 +36504,8 @@
     "name": "PIKET, Joop",
     "year": "1964-2007",
     "games": 81,
-    "id": "41127"
+    "id": "41127",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -38321,7 +38324,8 @@
     "name": "BOOR, Carl Brandon",
     "year": "1998-2016",
     "games": 76,
-    "id": "36721"
+    "id": "36721",
+    "synced": true
   },
   {
     "higestRating": 2302,
