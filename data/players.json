@@ -19408,7 +19408,8 @@
     "name": "FINKEL, Alexander",
     "year": "1992-2022",
     "games": 179,
-    "id": "47329"
+    "id": "47329",
+    "synced": true
   },
   {
     "higestRating": 2503,
@@ -21215,7 +21216,8 @@
     "name": "VIDIC, Teja",
     "year": "2015-2023",
     "games": 161,
-    "id": "153867"
+    "id": "153867",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -38475,7 +38477,8 @@
     "name": "AHMED, Sheikh Nasir",
     "year": "2001-2021",
     "games": 76,
-    "id": "88809"
+    "id": "88809",
+    "synced": true
   },
   {
     "higestRating": 2374,
@@ -46039,7 +46042,8 @@
     "name": "HAVANSI, Erkki E T",
     "year": "1961-2000",
     "games": 59,
-    "id": "74046"
+    "id": "74046",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -48728,7 +48732,8 @@
     "name": "GUTIERREZ, Belinda Vidina Vega",
     "year": "1998-2020",
     "games": 54,
-    "id": "50571"
+    "id": "50571",
+    "synced": true
   },
   {
     "higestRating": 2338,
