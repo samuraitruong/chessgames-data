@@ -14774,7 +14774,8 @@
     "name": "ENKHTUUL, Altan-Ulzii",
     "year": "2008-2022",
     "games": 242,
-    "id": "127456"
+    "id": "127456",
+    "synced": true
   },
   {
     "higestRating": 2546,
@@ -32953,7 +32954,8 @@
     "name": "RISTOJA, Thomas W",
     "year": "1969-2004",
     "games": 92,
-    "id": "40476"
+    "id": "40476",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -40610,7 +40612,8 @@
     "name": "PAAVILAINEN, Jorma",
     "year": "1980-2001",
     "games": 70,
-    "id": "18051"
+    "id": "18051",
+    "synced": true
   },
   {
     "higestRating": 2349,
@@ -58352,7 +58355,8 @@
     "name": "SHAPIRO, David",
     "year": "2012-2023",
     "games": 41,
-    "id": "139264"
+    "id": "139264",
+    "synced": true
   },
   {
     "higestRating": 2438,
@@ -64748,7 +64752,8 @@
     "name": "BUKHTEEVA, Viktoria",
     "year": "2006-2019",
     "games": 34,
-    "id": "109157"
+    "id": "109157",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -67242,7 +67247,8 @@
     "name": "TORNGREN, Gustav",
     "year": "2018-2022",
     "games": 32,
-    "id": "168822"
+    "id": "168822",
+    "synced": true
   },
   {
     "higestRating": 2212,
@@ -83261,7 +83267,8 @@
     "name": "FORCEN, Alberto Chueca",
     "year": "2003-2019",
     "games": 21,
-    "id": "131844"
+    "id": "131844",
+    "synced": true
   },
   {
     "higestRating": 2270,
