@@ -5064,7 +5064,8 @@
     "name": "SKEMBRIS, Spyridon",
     "year": "1977-2018",
     "games": 696,
-    "id": "20808"
+    "id": "20808",
+    "synced": true
   },
   {
     "higestRating": 2389,
@@ -51356,7 +51357,8 @@
     "name": "SCHMIDEK, Emil",
     "year": "2017-2022",
     "games": 50,
-    "id": "157929"
+    "id": "157929",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -61010,7 +61012,8 @@
     "name": "KURASZKIEWICZ, Michael",
     "year": "1994-2018",
     "games": 38,
-    "id": "128371"
+    "id": "128371",
+    "synced": true
   },
   {
     "higestRating": 2383,
@@ -100831,7 +100834,8 @@
     "name": "LWIN, Maung Maung",
     "year": "2001",
     "games": 6,
-    "id": "52448"
+    "id": "52448",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -102517,7 +102521,8 @@
     "name": "SENTEF, Joseph",
     "year": "1981-1983",
     "games": 2,
-    "id": "100840"
+    "id": "100840",
+    "synced": true
   },
   {
     "higestRating": 2280,

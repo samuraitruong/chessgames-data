@@ -1,0 +1,15 @@
+[Event "Moscow Olympiad"]
+[Site "Moscow RUS"]
+[Date "1994.12.10"]
+[EventDate "1994.12.01"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Fouad El Taher"]
+[Black "Spyridon Skembris"]
+[ECO "B31"]
+[WhiteElo "2420"]
+[BlackElo "2525"]
+[Source "Olimpbase"]
+[PlyCount "27"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 Nf6 6.c3 O-O 7.d4 cxd4 8.cxd4 d5 9.e5 Ne4 10.Nc3 Nxc3 11.bxc3 Qa5 12.Qa4 Qxa4 13.Bxa4 Bd7 14.Rb1 1/2-1/2

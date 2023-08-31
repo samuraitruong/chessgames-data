@@ -1,0 +1,15 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.11.06"]
+[EventDate "1982.10.30"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Spyridon Skembris"]
+[Black "Vernon Albert Small"]
+[ECO "D93"]
+[WhiteElo "2355"]
+[BlackElo "2290"]
+[Source "Olimpbase"]
+[PlyCount "26"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.Rc1 c6 6.e3 O-O 7.Nf3 Bg4 8.h3 Bxf3 9.Qxf3 Qa5 10.Bd3 dxc4 11.Bxc4 Nbd7 12.O-O e5 13.dxe5 Nxe5 1/2-1/2
