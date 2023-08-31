@@ -19902,7 +19902,8 @@
     "name": "PAIVA, Jose Pinto",
     "year": "1963-1976",
     "games": 174,
-    "id": "93789"
+    "id": "93789",
+    "synced": true
   },
   {
     "higestRating": 2578,
@@ -20509,7 +20510,8 @@
     "name": "SKOMOROKHIN, Roman",
     "year": "1988-2017",
     "games": 167,
-    "id": "19065"
+    "id": "19065",
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -26656,7 +26658,8 @@
     "name": "GROENN, Atle",
     "year": "1990-2018",
     "games": 119,
-    "id": "49508"
+    "id": "49508",
+    "synced": true
   },
   {
     "higestRating": 2282,
@@ -57403,7 +57406,8 @@
     "name": "ZAKARYAN, David",
     "year": "2012-2021",
     "games": 42,
-    "id": "143095"
+    "id": "143095",
+    "synced": true
   },
   {
     "higestRating": 2267,
@@ -58648,7 +58652,8 @@
     "name": "GITERMAN, Shlomo",
     "year": "1948-1976",
     "games": 40,
-    "id": "40022"
+    "id": "40022",
+    "synced": true
   },
   {
     "higestRating": 2366,
@@ -67367,7 +67372,8 @@
     "name": "CAVENDISH, James",
     "year": "1987-1991",
     "games": 31,
-    "id": "28459"
+    "id": "28459",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -70590,7 +70596,8 @@
     "name": "SPIRIC, Igor",
     "year": "1992-2012",
     "games": 29,
-    "id": "91585"
+    "id": "91585",
+    "synced": true
   },
   {
     "higestRating": 2232,
@@ -81964,7 +81971,8 @@
     "name": "SEGURA, Adalberto Gomez",
     "year": "1989-1997",
     "games": 21,
-    "id": "29141"
+    "id": "29141",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -89613,7 +89621,8 @@
     "name": "WAHEDI, Ahmad Siar",
     "year": "2001-2015",
     "games": 18,
-    "id": "136298"
+    "id": "136298",
+    "synced": true
   },
   {
     "higestRating": 2252,
@@ -94444,7 +94453,8 @@
     "name": "BRNAS, Augustin",
     "year": "1996-2018",
     "games": 16,
-    "id": "136763"
+    "id": "136763",
+    "synced": true
   },
   {
     "higestRating": 2225,
