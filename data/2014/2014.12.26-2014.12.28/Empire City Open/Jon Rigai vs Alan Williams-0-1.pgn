@@ -1,0 +1,14 @@
+[Event "Empire City Open"]
+[Site "New York, NY USA"]
+[Date "2014.12.26"]
+[EventDate "2014.12.26-2014.12.28"]
+[Round "6"]
+[Result "0-1"]
+[White "Jon Rigai"]
+[Black "Alan Williams"]
+[ECO "B23"]
+[WhiteElo "1897"]
+[BlackElo "2200"]
+[PlyCount "42"]
+
+1.e4 c5 2.Nc3 d6 3.f4 Nc6 4.Nf3 e6 5.Bc4 Nge7 6.d3 g6 7.f5 d5 8.fxe6 dxc4 9.exf7+ Kxf7 10.Ng5+ Ke8 11.Qf3 Ne5 12.Qf6 Qd4 13.Rf1 Bg7 14.Qf4 Rf8 15.Qg3 Rxf1+ 16.Kxf1 cxd3 17.Be3 Qc4 18.Kg1 dxc2 19.Rc1 Ng4 20.Kh1 Qd3 21.Bxc5 Qd2 0-1

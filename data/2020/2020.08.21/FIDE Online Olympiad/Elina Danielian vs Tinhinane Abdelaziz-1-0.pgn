@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.22"]
+[EventDate "2020.08.21"]
+[Round "5"]
+[Result "1-0"]
+[White "Elina Danielian"]
+[Black "Tinhinane Abdelaziz"]
+[ECO "A45"]
+[WhiteElo "2358"]
+[BlackElo "1521"]
+[Source "Chess-Results"]
+[PlyCount "25"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nd2 g6 4. e4 Be7 5. e5 Nd5 6. Bxe7 Nxe7 7. Ne4 O-O 8. Qd2 Nf5 9. g4 Ng7 10. Nf6+ Kh8 11. Qh6 Qxf6 12. exf6 Ne8 13. Qxf8# 1-0

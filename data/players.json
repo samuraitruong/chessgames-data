@@ -1050,7 +1050,8 @@
     "name": "DANIELIAN, Elina",
     "year": "1991-2023",
     "games": 1635,
-    "id": "26789"
+    "id": "26789",
+    "synced": true
   },
   {
     "higestRating": 2535,
@@ -29134,7 +29135,8 @@
     "name": "LACCOURREYE, Augusto Menvielle",
     "year": "1964-2014",
     "games": 107,
-    "id": "16171"
+    "id": "16171",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -29589,7 +29591,8 @@
     "name": "LU, Maximillian",
     "year": "2018-2023",
     "games": 106,
-    "id": "175872"
+    "id": "175872",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -41349,7 +41352,8 @@
     "name": "HANDLER, Lukas",
     "year": "2008-2021",
     "games": 69,
-    "id": "118189"
+    "id": "118189",
+    "synced": true
   },
   {
     "higestRating": 2208,
@@ -55276,7 +55280,8 @@
     "name": "AKBARINIA, Sayed Arash",
     "year": "1996-2014",
     "games": 44,
-    "id": "51278"
+    "id": "51278",
+    "synced": true
   },
   {
     "higestRating": 2363,
@@ -62489,7 +62494,8 @@
     "name": "WILLIAMS, Alan",
     "year": "1979-2017",
     "games": 36,
-    "id": "92494"
+    "id": "92494",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -92585,7 +92591,8 @@
     "name": "WAPNER, Jonathan",
     "year": "1994-1998",
     "games": 16,
-    "id": "29876"
+    "id": "29876",
+    "synced": true
   },
   {
     "higestRating": 2358,
