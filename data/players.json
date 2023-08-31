@@ -10465,7 +10465,8 @@
     "name": "KANTSLER, Boris",
     "year": "1975-2021",
     "games": 350,
-    "id": "15715"
+    "id": "15715",
+    "synced": true
   },
   {
     "higestRating": 2478,
@@ -33075,7 +33076,8 @@
     "name": "NIELSEN, Hogni Egilstoft",
     "year": "2012-2022",
     "games": 92,
-    "id": "138895"
+    "id": "138895",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -37795,7 +37797,8 @@
     "name": "SZMETAN, Ricardo",
     "year": "1970-2005",
     "games": 77,
-    "id": "27166"
+    "id": "27166",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -69127,7 +69130,8 @@
     "name": "RIVERA, Alberto",
     "year": "1992-2012",
     "games": 30,
-    "id": "71570"
+    "id": "71570",
+    "synced": true
   },
   {
     "higestRating": 2451,
@@ -79278,7 +79282,8 @@
     "name": "KHOKHLOV, Igor",
     "year": "1985-2008",
     "games": 23,
-    "id": "90585"
+    "id": "90585",
+    "synced": true
   },
   {
     "higestRating": 2407,

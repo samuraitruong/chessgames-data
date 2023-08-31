@@ -1,0 +1,14 @@
+[Event "XS06B"]
+[Site "Internet Chess Club"]
+[Date "2004.03.06"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Eric Schiller"]
+[Black "Ricardo Szmetan"]
+[ECO "B12"]
+[WhiteElo "2711"]
+[BlackElo "2329"]
+[PlyCount "77"]
+
+1.e4 c6 2.d4 d5 3.e5 g6 4.Nf3 Bg4 5.c3 e6 6.h3 Bxf3 7.Qxf3 h5 8.Bd3 Bh6 9.O-O Bxc1 10.Rxc1 Nh6 11.Nd2 Nf5 12.Bxf5 gxf5 13.Qf4 Rg8 14.Nf3 Nd7 15.b4 Nb6 16.a4 Nc4 17.b5 cxb5 18.axb5 Qe7 19.Qh6 Kd7 20.Ra2 Rg6 21.Qxh5 Rag8 22.Ne1 Qf8 23.Rca1 Qg7 24.Qf3 Qh6 25.Rxa7 Kc7 26.Qd3 Qg7 27.Kf1 Rxg2 28.Nxg2 Qxg2+ 29.Ke1 Nb2 30.Qe2 Qxh3 31.b6+ Kc6 32.Kd2 Nc4+ 33.Kc2 Rg2 34.Kb3 Qh4 35.Qa2 Nxb6 36.Qa5 Qxf2 37.Qc5+ Kd7 38.Rxb7+ Ke8 39.Qe7# 1-0
