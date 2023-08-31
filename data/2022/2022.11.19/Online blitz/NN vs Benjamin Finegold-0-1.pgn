@@ -1,0 +1,15 @@
+[Event "Online blitz"]
+[Site "chess.com"]
+[Date "2022.11.19"]
+[EventDate "2022.11.19"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Benjamin Finegold"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "https://www.youtube.com/watch?v=XbtEbnsnKYU"]
+[PlyCount "22"]
+
+1.e4 c5 2.Bc4 Nc6 3.d3 e6 4.Nc3 Nf6 5.Nf3 d5 6.exd5 exd5 7.Bb3 Bd6 8.Bg5 O-O 9.Nxd5 Re8+ 10.Kd2 Nxd5 11.Bxd8 Bf4# 0-1

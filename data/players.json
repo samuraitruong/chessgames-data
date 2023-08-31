@@ -6656,7 +6656,8 @@
     "name": "FINEGOLD, Benjamin",
     "year": "1981-2022",
     "games": 540,
-    "id": "27532"
+    "id": "27532",
+    "synced": true
   },
   {
     "higestRating": 2617,
@@ -13118,7 +13119,8 @@
     "name": "ANTONIEWSKI, Rafal",
     "year": "1993-2021",
     "games": 275,
-    "id": "55107"
+    "id": "55107",
+    "synced": true
   },
   {
     "higestRating": 2551,
@@ -66118,7 +66120,8 @@
     "name": "KUMALA, Aleksander",
     "year": "2016-2018",
     "games": 33,
-    "id": "158057"
+    "id": "158057",
+    "synced": true
   },
   {
     "higestRating": 2327,
