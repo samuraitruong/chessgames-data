@@ -10676,7 +10676,8 @@
     "name": "LAURUSAS, Tomas",
     "year": "2005-2023",
     "games": 343,
-    "id": "124126"
+    "id": "124126",
+    "synced": true
   },
   {
     "higestRating": 2567,
@@ -13811,7 +13812,8 @@
     "name": "ISUPOV, Vladimir",
     "year": "1984-2009",
     "games": 260,
-    "id": "50185"
+    "id": "50185",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -34087,7 +34089,8 @@
     "name": "HAMMES, Michael",
     "year": "1995-2021",
     "games": 88,
-    "id": "57330"
+    "id": "57330",
+    "synced": true
   },
   {
     "higestRating": 2516,
@@ -87301,7 +87304,8 @@
     "name": "PRANIZIN, Gennady",
     "year": "2011-2019",
     "games": 19,
-    "id": "129896"
+    "id": "129896",
+    "synced": true
   },
   {
     "higestRating": 2405,
