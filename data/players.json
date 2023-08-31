@@ -15653,7 +15653,8 @@
     "name": "DALY, Colm",
     "year": "1987-2019",
     "games": 226,
-    "id": "17158"
+    "id": "17158",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -16086,7 +16087,8 @@
     "name": "SANCHEZ, Cristhian Cruz",
     "year": "2002-2023",
     "games": 221,
-    "id": "103442"
+    "id": "103442",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -61456,7 +61458,8 @@
     "name": "SAVERYMUTTU, Seth",
     "year": "1969-1974",
     "games": 37,
-    "id": "48711"
+    "id": "48711",
+    "synced": true
   },
   {
     "higestRating": 2468,
@@ -91714,7 +91717,8 @@
     "name": "AGZAMOV, Valeriy",
     "year": "1976-2014",
     "games": 17,
-    "id": "118491"
+    "id": "118491",
+    "synced": true
   },
   {
     "higestRating": 2245,
