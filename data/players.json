@@ -8188,7 +8188,8 @@
     "name": "BATES, Richard A",
     "year": "1991-2023",
     "games": 449,
-    "id": "14222"
+    "id": "14222",
+    "synced": true
   },
   {
     "higestRating": 2597,
@@ -29930,7 +29931,8 @@
     "name": "POYATOS, Jordi Fluvia",
     "year": "1996-2022",
     "games": 104,
-    "id": "53858"
+    "id": "53858",
+    "synced": true
   },
   {
     "higestRating": 2386,
@@ -37543,7 +37545,8 @@
     "name": "HANSEN, Lars-Henrik Bech",
     "year": "1988-2016",
     "games": 78,
-    "id": "90371"
+    "id": "90371",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -57499,7 +57502,8 @@
     "name": "VLASOVA, Nataliya",
     "year": "1995-2003",
     "games": 42,
-    "id": "168494"
+    "id": "168494",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -61914,7 +61918,8 @@
     "name": "SCETININ, Alexander",
     "year": "1990-2009",
     "games": 36,
-    "id": "19841"
+    "id": "19841",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -66113,7 +66118,8 @@
     "name": "MONOKROUSSOS, Dennis",
     "year": "1983-2008",
     "games": 32,
-    "id": "11255"
+    "id": "11255",
+    "synced": true
   },
   {
     "higestRating": 2389,
