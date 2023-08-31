@@ -1,0 +1,14 @@
+[Event "Chinese Chess League"]
+[Site "CHN"]
+[Date "2016.04.12"]
+[EventDate "2016.04.12"]
+[Round "1.4"]
+[Result "0-1"]
+[White "Mo Zhai"]
+[Black "Tan Zhongyi"]
+[ECO "E40"]
+[WhiteElo "2371"]
+[BlackElo "2518"]
+[PlyCount "62"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Bd3 e5 6. dxe5 dxc4 7. Bxc4 Qxd1+ 8. Kxd1 Ng4 9. Ke1 Nxe5 10. Be2 Bf5 11. Bd2 Nd3+ 12. Bxd3 Bxd3 13. Kd1 Nc6 14. Nf3 O-O-O 15. a3 Bxc3 16. Bxc3 Rd5 17. Ne1 Bc4+ 18. Kc2 f6 19. b3 Be2 20. Kb2 Ne5 21. h3 Rhd8 22. f4 Nd7 23. Nc2 Nc5 24. Nd4 Bh5 25. b4 Nd3+ 26. Kc2 Bg6 27. Kb3 Re8 28. Kc4 b5+ 29. Nxb5 Bf7 30. Nd4 Rxe3 31. Rhd1 Rc5# 0-1

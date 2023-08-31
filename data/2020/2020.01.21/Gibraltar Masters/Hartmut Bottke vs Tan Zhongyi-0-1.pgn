@@ -1,0 +1,15 @@
+[Event "Gibraltar Masters"]
+[Site "La Caleta GIB"]
+[Date "2020.01.21"]
+[EventDate "2020.01.21"]
+[Round "1"]
+[Result "0-1"]
+[White "Hartmut Bottke"]
+[Black "Tan Zhongyi"]
+[ECO "D38"]
+[WhiteElo "2185"]
+[BlackElo "2493"]
+[Source "http://portablegamenotation.com"]
+[PlyCount "34"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Bb4 5. cxd5 exd5 6. Qa4+ Nc6 7. Bg5 h6 8. Bxf6 Qxf6 9. Rc1 O-O 10. a3 Bxc3+ 11. Rxc3 Bg4 12. Rxc6 bxc6 13. Ne5 Be6 14. Qxc6 Rab8 15. Qc3 c5 16. dxc5 d4 17. Qxd4 Rfd8 0-1

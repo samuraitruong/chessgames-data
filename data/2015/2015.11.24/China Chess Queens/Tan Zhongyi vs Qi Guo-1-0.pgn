@@ -1,0 +1,14 @@
+[Event "China Chess Queens"]
+[Site "Taizhou CHN"]
+[Date "2015.11.26"]
+[EventDate "2015.11.24"]
+[Round "2.1"]
+[Result "1-0"]
+[White "Tan Zhongyi"]
+[Black "Qi Guo"]
+[ECO "D31"]
+[WhiteElo "2492"]
+[BlackElo "2427"]
+[PlyCount "45"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bxf6 Bxf6 7. e3 O-O 8. Qc2 dxc4 9. Bxc4 Nd7 10. O-O-O a6 11. h4 Nb6 12. Bb3 Nd5 13. g4 Nxc3 14. bxc3 g6 15. g5 hxg5 16. hxg5 Bg7 17. Ne5 Qd6 18. f4 Bd7 19. f5 gxf5 20. g6 Bxe5 21. dxe5 Qa3+ 22. Kb1 Bc6 23. Qh2 1-0

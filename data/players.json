@@ -3317,7 +3317,8 @@
     "name": "TAN, Zhongyi",
     "year": "2001-2023",
     "games": 951,
-    "id": "51565"
+    "id": "51565",
+    "synced": true
   },
   {
     "higestRating": 2704,
@@ -42910,7 +42911,8 @@
     "name": "ORLOV, Pavle",
     "year": "1980-2010",
     "games": 65,
-    "id": "44873"
+    "id": "44873",
+    "synced": true
   },
   {
     "higestRating": 2450,
@@ -73343,7 +73345,8 @@
     "name": "IOFFE, Alexander L",
     "year": "1969-2001",
     "games": 27,
-    "id": "94462"
+    "id": "94462",
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -76624,7 +76627,8 @@
     "name": "BELLIDO, Hector Mestre",
     "year": "2005-2012",
     "games": 25,
-    "id": "106931"
+    "id": "106931",
+    "synced": true
   },
   {
     "higestRating": 2206,
