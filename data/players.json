@@ -4827,7 +4827,8 @@
     "name": "HORVATH, Csaba",
     "year": "1979-2019",
     "games": 723,
-    "id": "10764"
+    "id": "10764",
+    "synced": true
   },
   {
     "higestRating": 2503,
@@ -28955,7 +28956,8 @@
     "name": "ANCESCHI, Vittorio",
     "year": "1981-2004",
     "games": 108,
-    "id": "18365"
+    "id": "18365",
+    "synced": true
   },
   {
     "higestRating": 2221,
@@ -31935,7 +31937,8 @@
     "name": "KRSTIC, Uros",
     "year": "1997-2022",
     "games": 96,
-    "id": "36891"
+    "id": "36891",
+    "synced": true
   },
   {
     "higestRating": 2305,
