@@ -1370,7 +1370,8 @@
     "name": "MUZYCHUK, Anna",
     "year": "1997-2023",
     "games": 1492,
-    "id": "54881"
+    "id": "54881",
+    "synced": true
   },
   {
     "higestRating": 2753,
@@ -14865,7 +14866,8 @@
     "name": "LY, Moulthun",
     "year": "2004-2021",
     "games": 240,
-    "id": "96001"
+    "id": "96001",
+    "synced": true
   },
   {
     "higestRating": 2484,
@@ -50172,7 +50174,8 @@
     "name": "SIELECKI, Christof",
     "year": "1992-2017",
     "games": 51,
-    "id": "49352"
+    "id": "49352",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -65504,7 +65507,8 @@
     "name": "VASQUEZ, Sergio Caceres",
     "year": "1999-2018",
     "games": 33,
-    "id": "58297"
+    "id": "58297",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -68169,7 +68173,8 @@
     "name": "LOMAKO, Pavel",
     "year": "1999-2017",
     "games": 31,
-    "id": "99374"
+    "id": "99374",
+    "synced": true
   },
   {
     "higestRating": 2287,
@@ -77301,7 +77306,8 @@
     "name": "GRAVEL, Simon",
     "year": "1992-2004",
     "games": 24,
-    "id": "22626"
+    "id": "22626",
+    "synced": true
   },
   {
     "higestRating": 2227,
@@ -77909,7 +77915,8 @@
     "name": "GEVEKE, Michael",
     "year": "1982-2006",
     "games": 24,
-    "id": "87196"
+    "id": "87196",
+    "synced": true
   },
   {
     "higestRating": 2269,

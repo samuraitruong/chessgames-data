@@ -1,0 +1,14 @@
+[Event "Australian Open"]
+[Site "Brisbane AUS"]
+[Date "2017.01.03"]
+[EventDate "2017.01.02"]
+[Round "2.4"]
+[Result "0-1"]
+[White "Patrick Halpin"]
+[Black "Moulthun Ly"]
+[ECO "B23"]
+[WhiteElo "2108"]
+[BlackElo "2508"]
+[PlyCount "44"]
+
+1. e4 c5 2. Nc3 a6 3. a4 Nc6 4. Bc4 e6 5. Nge2 Nf6 6. Ng3 h5 7. h4 d5 8. Ba2 d4 9. Nce2 d3 10. cxd3 Nb4 11. Bb1 Be7 12. Nf4 g6 13. d4 cxd4 14. e5 Ng4 15. Nxg6 fxg6 16. Bxg6+ Kd7 17. Qe2 Rf8 18. Nxh5 Nxf2 19. O-O d3 20. Qe3 Nc2 21. Qg3 Bxh4 22. Nf6+ Qxf6 0-1
