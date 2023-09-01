@@ -15553,7 +15553,8 @@
     "name": "JOJUA, Davit",
     "year": "1998-2021",
     "games": 229,
-    "id": "98395"
+    "id": "98395",
+    "synced": true
   },
   {
     "higestRating": 2439,
@@ -27977,7 +27978,8 @@
     "name": "MORO, Luis Javier Bernal",
     "year": "1988-2017",
     "games": 113,
-    "id": "92761"
+    "id": "92761",
+    "synced": true
   },
   {
     "higestRating": 2559,
@@ -47218,7 +47220,8 @@
     "name": "LAGO, Victor Placido Miguel",
     "year": "1989-2016",
     "games": 57,
-    "id": "89641"
+    "id": "89641",
+    "synced": true
   },
   {
     "higestRating": 2222,
@@ -51941,7 +51944,8 @@
     "name": "SIMIC, Dragan",
     "year": "1991-1999",
     "games": 49,
-    "id": "89742"
+    "id": "89742",
+    "synced": true
   },
   {
     "higestRating": 2389,
@@ -83794,7 +83798,8 @@
     "name": "PEREVERTKIN, Vladimir",
     "year": "1993-2010",
     "games": 21,
-    "id": "139065"
+    "id": "139065",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -83844,7 +83849,8 @@
     "name": "SPORNBERGER, Maximilian",
     "year": "2011-2017",
     "games": 21,
-    "id": "139772"
+    "id": "139772",
+    "synced": true
   },
   {
     "higestRating": 2233,
@@ -96028,7 +96034,8 @@
     "name": "DE ORTUNO, Borja Navarro",
     "year": "1999-2012",
     "games": 15,
-    "id": "56785"
+    "id": "56785",
+    "synced": true
   },
   {
     "higestRating": 2405,
