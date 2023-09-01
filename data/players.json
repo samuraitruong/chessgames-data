@@ -6127,7 +6127,8 @@
     "name": "GRUENFELD, Yehuda",
     "year": "1974-2018",
     "games": 593,
-    "id": "15011"
+    "id": "15011",
+    "synced": true
   },
   {
     "higestRating": 2555,
@@ -16780,7 +16781,8 @@
     "name": "CARMENATES, Holden Hernandez",
     "year": "2003-2017",
     "games": 212,
-    "id": "84337"
+    "id": "84337",
+    "synced": true
   },
   {
     "higestRating": 2519,
@@ -64684,7 +64686,8 @@
     "name": "ROEMER, Ulrich",
     "year": "1984-2001",
     "games": 34,
-    "id": "66449"
+    "id": "66449",
+    "synced": true
   },
   {
     "higestRating": 2368,
