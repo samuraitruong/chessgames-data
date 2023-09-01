@@ -1122,7 +1122,8 @@
     "name": "CHRISTIANSEN, Larry",
     "year": "1971-2022",
     "games": 1592,
-    "id": "15040"
+    "id": "15040",
+    "synced": true
   },
   {
     "higestRating": 2765,
@@ -21150,7 +21151,8 @@
     "name": "MARHOLEV, Dimitar",
     "year": "1986-2022",
     "games": 162,
-    "id": "48963"
+    "id": "48963",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -101245,7 +101247,8 @@
     "name": "RICHMOND, Robert J",
     "year": "2000-2007",
     "games": 6,
-    "id": "55849"
+    "id": "55849",
+    "synced": true
   },
   {
     "higestRating": 2221,
