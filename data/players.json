@@ -6596,7 +6596,8 @@
     "name": "OSTOJIC, Predrag",
     "year": "1962-1996",
     "games": 544,
-    "id": "14673"
+    "id": "14673",
+    "synced": true
   },
   {
     "higestRating": 2593,
@@ -10329,7 +10330,8 @@
     "name": "CHARBONNEAU, Pascal",
     "year": "1996-2019",
     "games": 358,
-    "id": "49591"
+    "id": "49591",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -67720,7 +67722,8 @@
     "name": "LISTENGARTEN, Leonid",
     "year": "1953-1976",
     "games": 31,
-    "id": "44586"
+    "id": "44586",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -78984,7 +78987,8 @@
     "name": "KADAR, Gabor",
     "year": "1976-2009",
     "games": 23,
-    "id": "47885"
+    "id": "47885",
+    "synced": true
   },
   {
     "higestRating": 2399,
@@ -85861,7 +85865,8 @@
     "name": "KALI, Omer",
     "year": "2014-2015",
     "games": 20,
-    "id": "150614"
+    "id": "150614",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -93021,7 +93026,8 @@
     "name": "PLANTET, Sebastien",
     "year": "1994-2006",
     "games": 16,
-    "id": "51991"
+    "id": "51991",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -93796,7 +93802,8 @@
     "name": "PATRICI, Norberto Eugenio",
     "year": "1988-2009",
     "games": 16,
-    "id": "90492"
+    "id": "90492",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -100761,7 +100768,8 @@
     "name": "ZHANG, Luis Pan",
     "year": "2008",
     "games": 7,
-    "id": "119033"
+    "id": "119033",
+    "synced": true
   },
   {
     "higestRating": 2403,
