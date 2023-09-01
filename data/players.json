@@ -3071,7 +3071,8 @@
     "name": "YUDASIN, Leonid",
     "year": "1976-2023",
     "games": 995,
-    "id": "21620"
+    "id": "21620",
+    "synced": true
   },
   {
     "higestRating": 2712,
@@ -38264,7 +38265,8 @@
     "name": "LOUIS, Thibault",
     "year": "2006-2022",
     "games": 77,
-    "id": "147378"
+    "id": "147378",
+    "synced": true
   },
   {
     "higestRating": 2429,
@@ -87029,7 +87031,8 @@
     "name": "WOBBE, Sven",
     "year": "1994-2005",
     "games": 19,
-    "id": "73919"
+    "id": "73919",
+    "synced": true
   },
   {
     "higestRating": 2400,
