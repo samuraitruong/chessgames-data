@@ -1,0 +1,15 @@
+[Event "Oberliga East B 2015/16"]
+[Site "Germany"]
+[Date "2016.03.13"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Uwe Kersten"]
+[Black "Samuel Minor"]
+[ECO "C10"]
+[WhiteElo "2275"]
+[BlackElo "2224"]
+[Source "Chess Assistant 18 HugeBase"]
+[PlyCount "27"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. Qe2 Ngf6 8. Nxf6+ Qxf6 9. Bg5 Bxf3 10. Qe3 Bxg2 11. Bxf6 Bxh1 12. Bg5 h6 13. Qxe6+ fxe6 14. Bg6# 1-0

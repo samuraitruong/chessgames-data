@@ -19291,7 +19291,8 @@
     "name": "KISHNEV, Sergey",
     "year": "1974-2002",
     "games": 180,
-    "id": "18237"
+    "id": "18237",
+    "synced": true
   },
   {
     "higestRating": 2491,
@@ -23248,7 +23249,8 @@
     "name": "KERSTEN, Uwe",
     "year": "1989-2019",
     "games": 145,
-    "id": "56205"
+    "id": "56205",
+    "synced": true
   },
   {
     "higestRating": 2452,
@@ -30974,7 +30976,8 @@
     "name": "VARNUSZ, Egon",
     "year": "1958-1987",
     "games": 100,
-    "id": "41826"
+    "id": "41826",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -34703,7 +34706,8 @@
     "name": "NUNEZ, Ruben Domingo",
     "year": "2016-2022",
     "games": 87,
-    "id": "155760"
+    "id": "155760",
+    "synced": true
   },
   {
     "higestRating": 2332,
