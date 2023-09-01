@@ -18093,7 +18093,8 @@
     "name": "SHARAFIEV, Azat",
     "year": "2006-2021",
     "games": 196,
-    "id": "123667"
+    "id": "123667",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -24402,7 +24403,8 @@
     "name": "NINOV, Kiril",
     "year": "1986-2010",
     "games": 135,
-    "id": "41155"
+    "id": "41155",
+    "synced": true
   },
   {
     "higestRating": 2441,
@@ -34229,7 +34231,8 @@
     "name": "NIKOLADZE, Sopio",
     "year": "1990-2019",
     "games": 88,
-    "id": "50062"
+    "id": "50062",
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -52449,7 +52452,8 @@
     "name": "EGOROV, Mikhail",
     "year": "1997-2017",
     "games": 48,
-    "id": "57043"
+    "id": "57043",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -73625,7 +73629,8 @@
     "name": "PERTIERRA, Jose Carlos Hernando",
     "year": "1975-2012",
     "games": 27,
-    "id": "89600"
+    "id": "89600",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -99830,7 +99835,8 @@
     "name": "III, James Bovay",
     "year": "1982-1991",
     "games": 9,
-    "id": "28426"
+    "id": "28426",
+    "synced": true
   },
   {
     "higestRating": 2232,
