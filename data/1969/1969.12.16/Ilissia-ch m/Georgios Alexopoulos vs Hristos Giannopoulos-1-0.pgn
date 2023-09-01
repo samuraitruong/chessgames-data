@@ -1,0 +1,14 @@
+[Event "Ilissia-ch m"]
+[Site "Ilissia"]
+[Date "1969.12.16"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Georgios Alexopoulos"]
+[Black "Hristos Giannopoulos"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.e4 g5 2.d4 h6 3.h4 gxh4 4.Rxh4 e5 5.Nf3 exd4 6.Qxd4 Qf6 7.e5 Qe7 8.Nc3 c6 9.Be3 d5 10.exd6 Qf6 11.Re4+ Be6 12.O-O-O Bg7 13.d7+ Kd8 14.Qb6+ axb6 15.Bxb6+ Ke7 16.d8=Q# 1-0
