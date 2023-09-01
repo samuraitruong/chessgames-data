@@ -8199,7 +8199,8 @@
     "name": "SCHWEBER, Samuel",
     "year": "1955-2001",
     "games": 451,
-    "id": "16369"
+    "id": "16369",
+    "synced": true
   },
   {
     "higestRating": 2566,
@@ -59308,7 +59309,8 @@
     "name": "KIRILLOVA, Varvara",
     "year": "1998-2009",
     "games": 40,
-    "id": "103232"
+    "id": "103232",
+    "synced": true
   },
   {
     "higestRating": 2261,
@@ -80855,7 +80857,8 @@
     "name": "KOLLY, Jacques",
     "year": "1993-2014",
     "games": 22,
-    "id": "52126"
+    "id": "52126",
+    "synced": true
   },
   {
     "higestRating": 2241,
