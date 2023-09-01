@@ -6880,7 +6880,8 @@
     "name": "GIORGADZE, Giorgi",
     "year": "1977-2016",
     "games": 525,
-    "id": "14250"
+    "id": "14250",
+    "synced": true
   },
   {
     "higestRating": 2637,
@@ -30209,7 +30210,8 @@
     "name": "FAWZY, Adham",
     "year": "2015-2023",
     "games": 104,
-    "id": "152694"
+    "id": "152694",
+    "synced": true
   },
   {
     "higestRating": 2358,
@@ -38738,7 +38740,8 @@
     "name": "GUYOT, Philippe",
     "year": "1987-2003",
     "games": 75,
-    "id": "41799"
+    "id": "41799",
+    "synced": true
   },
   {
     "higestRating": 2213,
@@ -51042,7 +51045,8 @@
     "name": "SHUAI, Wang",
     "year": "2001-2011",
     "games": 50,
-    "id": "48920"
+    "id": "48920",
+    "synced": true
   },
   {
     "higestRating": 2446,
@@ -61120,7 +61124,8 @@
     "name": "TIRTO, Tirto",
     "year": "2004-2012",
     "games": 38,
-    "id": "115349"
+    "id": "115349",
+    "synced": true
   },
   {
     "higestRating": 2402,
@@ -63898,7 +63903,8 @@
     "name": "ZOVKO, Mario",
     "year": "2001-2019",
     "games": 35,
-    "id": "109819"
+    "id": "109819",
+    "synced": true
   },
   {
     "higestRating": 2456,
@@ -64349,7 +64355,8 @@
     "name": "CRISTOBAL, Ruben",
     "year": "1972-2004",
     "games": 34,
-    "id": "42621"
+    "id": "42621",
+    "synced": true
   },
   {
     "higestRating": 2283,
@@ -86171,7 +86178,8 @@
     "name": "BACKE, Peter",
     "year": "1987-1998",
     "games": 20,
-    "id": "169030"
+    "id": "169030",
+    "synced": true
   },
   {
     "higestRating": 2226,
