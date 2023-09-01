@@ -1402,7 +1402,8 @@
     "name": "CORDOBA, Miguel Illescas",
     "year": "1978-2018",
     "games": 1484,
-    "id": "14067"
+    "id": "14067",
+    "synced": true
   },
   {
     "higestRating": 2677,
@@ -17587,7 +17588,8 @@
     "name": "PISCOPO, Pierluigi",
     "year": "1998-2022",
     "games": 202,
-    "id": "70457"
+    "id": "70457",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -34529,7 +34531,8 @@
     "name": "THINIUS, Marco",
     "year": "1991-2018",
     "games": 87,
-    "id": "81776"
+    "id": "81776",
+    "synced": true
   },
   {
     "higestRating": 2461,
@@ -79898,7 +79901,8 @@
     "name": "YATSENKO, Alexey",
     "year": "2003-2012",
     "games": 23,
-    "id": "118841"
+    "id": "118841",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -80302,7 +80306,8 @@
     "name": "BACROT, Alexandre",
     "year": "2017-2019",
     "games": 23,
-    "id": "157417"
+    "id": "157417",
+    "synced": true
   },
   {
     "higestRating": 2382,
@@ -103416,7 +103421,8 @@
     "name": "MINENKO, Andrey",
     "year": "2009",
     "games": 1,
-    "id": "150425"
+    "id": "150425",
+    "synced": true
   },
   {
     "higestRating": 2287,

@@ -1,0 +1,14 @@
+[Event "PRO Chess League (Central)"]
+[Site "chess.com INT"]
+[Date "2017.01.25"]
+[EventDate "2017.01.11"]
+[Round "3"]
+[Result "0-1"]
+[White "Quinten Ducarmon"]
+[Black "Alexandre Bacrot"]
+[ECO "B53"]
+[WhiteElo "2468"]
+[BlackElo "2099"]
+[PlyCount "42"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nf6 5. Bb5+ Bd7 6. c3 Bxb5 7. c4 Bd7 8. Nc3 Nc6 9. Qe3 g6 10. O-O Bg7 11. h3 O-O 12. Qg5 Rc8 13. Qh4 Nb4 14. Bh6 Rxc4 15. Ng5 e5 16. a3 Nd3 17. Nd5 Nh5 18. Bxg7 Kxg7 19. f4 h6 20. Rad1 Ndxf4 21. Nxf4 exf4 0-1
