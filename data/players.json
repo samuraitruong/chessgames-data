@@ -4215,7 +4215,8 @@
     "name": "LOMBARDY, William",
     "year": "1953-1994",
     "games": 791,
-    "id": "16188"
+    "id": "16188",
+    "synced": true
   },
   {
     "higestRating": 2663,
@@ -11962,7 +11963,8 @@
     "name": "RECHLIS, Gad",
     "year": "1984-2018",
     "games": 304,
-    "id": "13839"
+    "id": "13839",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -82909,7 +82911,8 @@
     "name": "ASHTON, Jeffrey",
     "year": "1997-2006",
     "games": 21,
-    "id": "57653"
+    "id": "57653",
+    "synced": true
   },
   {
     "higestRating": 2321,

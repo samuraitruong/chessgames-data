@@ -1,0 +1,14 @@
+[Event "64th US Open"]
+[Site "Chicago, IL USA"]
+[Date "1963.08.12"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Adam J Smith"]
+[Black "William James Lombardy"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.e4 g6 2.d4 Bg7 3.f4 c5 4.Nf3 cxd4 5.Nxd4 Nc6 6.Nxc6 bxc6 7.Bd3 d6 8.c3 Nf6 9.Qe2 O-O 10.O-O a5 11.Nd2 Nd7 12.Kh1 a4 13.Rb1 a3 14.Nb3 axb2 15.Qxb2 c5 16.Qc2 Nb6 17.Be2 Na4 18.Bd2 Bd7 19.Nc1 Bc6 20.Bf3 Qa5 21.Ne2 Qa6 22.Rfc1 Nb6 23.Ra1 Ba4 24.Qb1 Rab8 25.Ng3 0-1
