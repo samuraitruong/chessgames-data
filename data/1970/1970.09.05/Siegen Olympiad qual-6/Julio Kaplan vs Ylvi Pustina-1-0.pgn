@@ -1,0 +1,15 @@
+[Event "Siegen Olympiad qual-6"]
+[Site "Siegen FRG"]
+[Date "1970.09.10"]
+[EventDate "1970.09.05"]
+[Round "6"]
+[Result "1-0"]
+[White "Julio Kaplan"]
+[Black "Ylvi Pustina"]
+[ECO "B88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "41"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 e6 7.Bb3 Be7 8.Be3 a6 9.f4 O-O 10.Qf3 Qa5 11.O-O Bd7 12.f5 Nxd4 13.Bxd4 exf5 14.Nd5 Nxd5 15. Bxd5 g6 16.Qe3 Qd8 17.exf5 Bg5 18.Qb3 Be8 19.fxg6 hxg6 20.Qh3 Bh4 21.Rf4 1-0

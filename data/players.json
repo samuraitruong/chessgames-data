@@ -12814,7 +12814,8 @@
     "name": "KAPLAN, Julio",
     "year": "1964-1988",
     "games": 284,
-    "id": "19290"
+    "id": "19290",
+    "synced": true
   },
   {
     "higestRating": 2541,
@@ -31147,7 +31148,8 @@
     "name": "ANTOLAK, Julia",
     "year": "2012-2023",
     "games": 100,
-    "id": "142127"
+    "id": "142127",
+    "synced": true
   },
   {
     "higestRating": 2488,
@@ -56826,7 +56828,8 @@
     "name": "MOHAMMAD, Javed",
     "year": "2004-2021",
     "games": 43,
-    "id": "110065"
+    "id": "110065",
+    "synced": true
   },
   {
     "higestRating": 2394,
@@ -57228,7 +57231,8 @@
     "name": "FURLAN, Miha",
     "year": "1990-2016",
     "games": 42,
-    "id": "49231"
+    "id": "49231",
+    "synced": true
   },
   {
     "higestRating": 2228,
@@ -60404,7 +60408,8 @@
     "name": "MISCHUK, Dmitry",
     "year": "2007-2021",
     "games": 39,
-    "id": "142805"
+    "id": "142805",
+    "synced": true
   },
   {
     "higestRating": 2414,
@@ -70169,7 +70174,8 @@
     "name": "MOORE, Graham J",
     "year": "1993-2019",
     "games": 30,
-    "id": "159009"
+    "id": "159009",
+    "synced": true
   },
   {
     "higestRating": 2238,
