@@ -2858,7 +2858,8 @@
     "name": "HUZMAN, Alexander",
     "year": "1980-2022",
     "games": 1040,
-    "id": "11060"
+    "id": "11060",
+    "synced": true
   },
   {
     "higestRating": 2576,
@@ -60747,7 +60748,8 @@
     "name": "FRUMSON, Yury",
     "year": "1969-2014",
     "games": 38,
-    "id": "45301"
+    "id": "45301",
+    "synced": true
   },
   {
     "higestRating": 2264,
@@ -76558,7 +76560,8 @@
     "name": "TERENTIEV, Sergei",
     "year": "1966-2020",
     "games": 25,
-    "id": "62918"
+    "id": "62918",
+    "synced": true
   },
   {
     "higestRating": 2337,
@@ -82511,7 +82514,8 @@
     "name": "BRDICKO, Petr",
     "year": "1987-1991",
     "games": 21,
-    "id": "34855"
+    "id": "34855",
+    "synced": true
   },
   {
     "higestRating": 2267,

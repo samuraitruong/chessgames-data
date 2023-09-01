@@ -1,0 +1,14 @@
+[Event "European Blitz"]
+[Site "Minsk BLR"]
+[Date "2015.12.18"]
+[EventDate "2015.12.18"]
+[Round "21.28"]
+[Result "0-1"]
+[White "Philip Zisman"]
+[Black "Alexander Huzman"]
+[ECO "A45"]
+[WhiteElo "2304"]
+[BlackElo "2581"]
+[PlyCount "42"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 gxf6 4. e3 c5 5. g3 cxd4 6. exd4 Qb6 7. b3 Nc6 8. c3 e5 9. dxe5 Bc5 10. Qd2 Bf5 11. Nf3 Be4 12. Bg2 Nxe5 13. Qe2 Bxf2+ 14. Kd1 O-O-O 15. Nbd2 Bd3 16. Qxe5 fxe5 17. Nxe5 Be4 18. Bh3+ Kb8 19. Rf1 Qe3 20. Nxf7 d4 21. c4 Bd3 0-1
