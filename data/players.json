@@ -8890,7 +8890,8 @@
     "name": "DIVE, Russell John",
     "year": "1982-2023",
     "games": 411,
-    "id": "47274"
+    "id": "47274",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -33508,7 +33509,8 @@
     "name": "LOSEV, Dmitry",
     "year": "1973-2012",
     "games": 90,
-    "id": "25941"
+    "id": "25941",
+    "synced": true
   },
   {
     "higestRating": 2443,
@@ -90481,7 +90483,8 @@
     "name": "AKOPOV, Roman",
     "year": "1977-2019",
     "games": 17,
-    "id": "26200"
+    "id": "26200",
+    "synced": true
   },
   {
     "higestRating": 2223,
