@@ -15825,7 +15825,8 @@
     "name": "MA, Qun",
     "year": "2008-2023",
     "games": 225,
-    "id": "120074"
+    "id": "120074",
+    "synced": true
   },
   {
     "higestRating": 2441,
@@ -26236,7 +26237,8 @@
     "name": "KAPS, Darja",
     "year": "1992-2018",
     "games": 122,
-    "id": "51595"
+    "id": "51595",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -27026,7 +27028,8 @@
     "name": "BUDISAVLJEVIC, Luka",
     "year": "2016-2023",
     "games": 118,
-    "id": "156111"
+    "id": "156111",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -41610,7 +41613,8 @@
     "name": "GAWEHNS, Klaus",
     "year": "1981-2012",
     "games": 68,
-    "id": "24054"
+    "id": "24054",
+    "synced": true
   },
   {
     "higestRating": 2410,
