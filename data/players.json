@@ -8230,7 +8230,8 @@
     "name": "GARCIA, Gildardo",
     "year": "1969-2017",
     "games": 449,
-    "id": "10160"
+    "id": "10160",
+    "synced": true
   },
   {
     "higestRating": 2397,
@@ -20264,7 +20265,8 @@
     "name": "DRYGALOV, Sergey",
     "year": "2014-2023",
     "games": 171,
-    "id": "154682"
+    "id": "154682",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -29374,7 +29376,8 @@
     "name": "MERRY, Alan B",
     "year": "2011-2020",
     "games": 107,
-    "id": "136465"
+    "id": "136465",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -29923,7 +29926,8 @@
     "name": "KANTER, Eduard",
     "year": "2007-2021",
     "games": 105,
-    "id": "136424"
+    "id": "136424",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -40623,7 +40627,8 @@
     "name": "WAGENER, Anna",
     "year": "1994-2012",
     "games": 71,
-    "id": "115979"
+    "id": "115979",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -69858,7 +69863,8 @@
     "name": "MATT, Fabian",
     "year": "2010-2019",
     "games": 30,
-    "id": "134736"
+    "id": "134736",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -98379,7 +98385,8 @@
     "name": "HETENYI, Geza",
     "year": "1989-2012",
     "games": 13,
-    "id": "142058"
+    "id": "142058",
+    "synced": true
   },
   {
     "higestRating": 2280,
