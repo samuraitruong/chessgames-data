@@ -12817,7 +12817,8 @@
     "name": "KAPENGUT, Albert",
     "year": "1960-2008",
     "games": 283,
-    "id": "16907"
+    "id": "16907",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -18073,7 +18074,8 @@
     "name": "KRZYZANOWSKI, Marcin",
     "year": "2003-2023",
     "games": 196,
-    "id": "119976"
+    "id": "119976",
+    "synced": true
   },
   {
     "higestRating": 2592,
@@ -57256,7 +57258,8 @@
     "name": "HRZICA, Rok",
     "year": "2001-2010",
     "games": 42,
-    "id": "54707"
+    "id": "54707",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -61907,7 +61910,8 @@
     "name": "KORKMAZ, Necmettin",
     "year": "2002-2022",
     "games": 37,
-    "id": "102548"
+    "id": "102548",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -99489,7 +99493,8 @@
     "name": "FERNANDEZ, Xavier Pinero",
     "year": "1998-2020",
     "games": 10,
-    "id": "53612"
+    "id": "53612",
+    "synced": true
   },
   {
     "higestRating": 2288,
