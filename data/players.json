@@ -9314,7 +9314,8 @@
     "name": "GRIGORYAN, Karen H",
     "year": "2007-2022",
     "games": 397,
-    "id": "129580"
+    "id": "129580",
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -27599,7 +27600,8 @@
     "name": "MAKHMUTOV, Rail",
     "year": "2008-2021",
     "games": 115,
-    "id": "117730"
+    "id": "117730",
+    "synced": true
   },
   {
     "higestRating": 2442,
@@ -48529,7 +48531,8 @@
     "name": "WILGENHOF, Otto",
     "year": "1989-2011",
     "games": 55,
-    "id": "125767"
+    "id": "125767",
+    "synced": true
   },
   {
     "higestRating": 2315,
