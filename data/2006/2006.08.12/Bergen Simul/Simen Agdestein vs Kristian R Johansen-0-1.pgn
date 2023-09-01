@@ -1,0 +1,14 @@
+[Event "Bergen Simul"]
+[Site "Bergen, Norway"]
+[Date "2006.08.12"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Simen Agdestein"]
+[Black "Kristian R Johansen"]
+[ECO "B01"]
+[WhiteElo "2584"]
+[BlackElo "1521"]
+[PlyCount "44"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Bc4 Nc6 6.d5 Ne5 7.Bb3 Bg4 8.f3 Bd7 9.f4 Ng6 10.Bd2 O-O-O 11.Nf3 Qa6 12.Ne5 Nxe5 13.fxe5 Bg4 14.exf6 Bxd1 15.fxg7 Bxg7 16.Kxd1 e6 17.Kc1 exd5 18.Nxd5 Rhe8 19.Rd1 Bh6 20.c4 Bxd2+ 21.Rxd2 Qh6 22.g3 Rxd5 0-1
