@@ -3340,7 +3340,8 @@
     "name": "ROSSETTO, Hector",
     "year": "1935-2000",
     "games": 945,
-    "id": "11231"
+    "id": "11231",
+    "synced": true
   },
   {
     "higestRating": 2642,
@@ -58745,7 +58746,8 @@
     "name": "ALBER, Horst",
     "year": "1982-2017",
     "games": 40,
-    "id": "30517"
+    "id": "30517",
+    "synced": true
   },
   {
     "higestRating": 2305,
