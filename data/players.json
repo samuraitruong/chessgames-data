@@ -9610,7 +9610,8 @@
     "name": "ASHLEY, Maurice",
     "year": "1987-2013",
     "games": 386,
-    "id": "21714"
+    "id": "21714",
+    "synced": true
   },
   {
     "higestRating": 2594,
@@ -10038,7 +10039,8 @@
     "name": "LEVIN, Evgeny A",
     "year": "2005-2022",
     "games": 368,
-    "id": "117783"
+    "id": "117783",
+    "synced": true
   },
   {
     "higestRating": 2434,
