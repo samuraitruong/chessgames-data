@@ -5409,7 +5409,8 @@
     "name": "GYIMESI, Zoltan",
     "year": "1987-2012",
     "games": 668,
-    "id": "38768"
+    "id": "38768",
+    "synced": true
   },
   {
     "higestRating": 2608,
@@ -30489,7 +30490,8 @@
     "name": "ANTONIOU, Antonis",
     "year": "1994-2017",
     "games": 102,
-    "id": "57004"
+    "id": "57004",
+    "synced": true
   },
   {
     "higestRating": 2494,
@@ -38073,7 +38075,8 @@
     "name": "NIKITIN, Andrey",
     "year": "1992-2008",
     "games": 77,
-    "id": "61439"
+    "id": "61439",
+    "synced": true
   },
   {
     "higestRating": 2458,
@@ -41472,7 +41475,8 @@
     "name": "SEYFRIED, Claus",
     "year": "2011-2019",
     "games": 69,
-    "id": "128484"
+    "id": "128484",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -43405,7 +43409,8 @@
     "name": "AMMAR, Sedrani",
     "year": "2016-2021",
     "games": 65,
-    "id": "154383"
+    "id": "154383",
+    "synced": true
   },
   {
     "higestRating": 2456,
@@ -70349,7 +70354,8 @@
     "name": "ARSENIEV, Vladimir V",
     "year": "1955-1968",
     "games": 29,
-    "id": "44875"
+    "id": "44875",
+    "synced": true
   },
   {
     "higestRating": 2288,
@@ -82875,7 +82881,8 @@
     "name": "PEREDA, Carlos Nava",
     "year": "1994-2016",
     "games": 21,
-    "id": "67649"
+    "id": "67649",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -87775,7 +87782,8 @@
     "name": "PANCHANATHAM, Vignesh",
     "year": "2010-2018",
     "games": 19,
-    "id": "135010"
+    "id": "135010",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -93361,7 +93369,8 @@
     "name": "MANIC, Jovica",
     "year": "1983-2009",
     "games": 16,
-    "id": "63389"
+    "id": "63389",
+    "synced": true
   },
   {
     "higestRating": 2234,
@@ -94998,7 +95007,8 @@
     "name": "HOEFELSAUER, Thomas",
     "year": "2015-2020",
     "games": 16,
-    "id": "157934"
+    "id": "157934",
+    "synced": true
   },
   {
     "higestRating": 2433,
