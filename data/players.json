@@ -4822,7 +4822,8 @@
     "name": "SAYED, Mohamad Naser Al",
     "year": "1991-2018",
     "games": 724,
-    "id": "49491"
+    "id": "49491",
+    "synced": true
   },
   {
     "higestRating": 2594,
@@ -9045,7 +9046,8 @@
     "name": "GARCIA, Jose Luis Fernandez",
     "year": "1979-2022",
     "games": 406,
-    "id": "27779"
+    "id": "27779",
+    "synced": true
   },
   {
     "higestRating": 2436,
@@ -64752,7 +64754,8 @@
     "name": "TOSI, Francesco",
     "year": "1997-2009",
     "games": 34,
-    "id": "90281"
+    "id": "90281",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -80527,7 +80530,8 @@
     "name": "BITMAN, Alexander R",
     "year": "1966-2012",
     "games": 22,
-    "id": "29412"
+    "id": "29412",
+    "synced": true
   },
   {
     "higestRating": 2270,
