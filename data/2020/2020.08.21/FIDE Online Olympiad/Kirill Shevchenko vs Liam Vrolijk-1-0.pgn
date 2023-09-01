@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.23"]
+[EventDate "2020.08.21"]
+[Round "7"]
+[Result "1-0"]
+[White "Kirill Shevchenko"]
+[Black "Liam Vrolijk"]
+[ECO "C67"]
+[WhiteElo "2425"]
+[BlackElo "2470"]
+[Source "Chess-Results"]
+[PlyCount "69"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. Rd1 Ne7 11. Nd4 Nf5 12. Nf3 Ne7 13. h3 Ng6 14. Be3 Be6 15. Nd4 Nxe5 16. Re1 Nc4 17. Bf4 Bd6 18. Nxe6 fxe6 19. Rxe6+ Kd7 20. Re4 Bxf4 21. Rxc4 Raf8 22. Re1 Bd6 23. Ne4 Rf5 24. g4 Re5 25. f4 Rd5 26. Nxd6 Kxd6 27. Rce4 Rd2 28. R1e2 Rxe2 29. Rxe2 h5 30. Kg2 hxg4 31. hxg4 c5 32. f5 Rd8 33. Rd2+ Ke7 34. Rxd8 Kxd8 35. Kf3 1-0
