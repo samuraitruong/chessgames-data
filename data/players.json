@@ -9901,7 +9901,8 @@
     "name": "FOISOR, Sabina-Francesca",
     "year": "2001-2022",
     "games": 372,
-    "id": "98308"
+    "id": "98308",
+    "synced": true
   },
   {
     "higestRating": 2462,
@@ -30238,7 +30239,8 @@
     "name": "FELLER, Joseph",
     "year": "1966-2008",
     "games": 103,
-    "id": "21950"
+    "id": "21950",
+    "synced": true
   },
   {
     "higestRating": 2374,
@@ -40273,7 +40275,8 @@
     "name": "KALESIS, Nikolaos",
     "year": "1991-2014",
     "games": 71,
-    "id": "19732"
+    "id": "19732",
+    "synced": true
   },
   {
     "higestRating": 2362,
@@ -101929,7 +101932,8 @@
     "name": "UGAS, Jordi Chalmeta",
     "year": "2001-2013",
     "games": 4,
-    "id": "105060"
+    "id": "105060",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -102264,7 +102268,8 @@
     "name": "SCHMIDT, Silvia",
     "year": "1999",
     "games": 3,
-    "id": "90358"
+    "id": "90358",
+    "synced": true
   },
   {
     "higestRating": 2305,
