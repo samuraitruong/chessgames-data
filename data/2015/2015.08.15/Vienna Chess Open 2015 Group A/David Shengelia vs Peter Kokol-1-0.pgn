@@ -1,0 +1,14 @@
+[Event "Vienna Chess Open 2015 Group A"]
+[Site "Vienna AUT"]
+[Date "2015.08.21"]
+[EventDate "2015.08.15"]
+[Round "7"]
+[Result "1-0"]
+[White "David Shengelia"]
+[Black "Peter Kokol"]
+[ECO "A01"]
+[WhiteElo "2572"]
+[BlackElo "2371"]
+[PlyCount "42"]
+
+1.b3 d5 2.Bb2 c5 3.e3 Nf6 4.Nf3 Bg4 5.h3 Bxf3 6.Qxf3 a6 7.g4 Qd6 8.Bg2 e5 9.g5 e4 10.Qf5 Nfd7 11.c4 dxc4 12.Qxe4+ Be7 13.Bxg7 Rg8 14.Qxh7 Rxg7 15.Qxg7 Nc6 16.Nc3 Nce5 17.O-O O-O-O 18.f4 Qxd2 19.Nd5 Bf8 20.Qh7 Ng6 21.bxc4 1-0
