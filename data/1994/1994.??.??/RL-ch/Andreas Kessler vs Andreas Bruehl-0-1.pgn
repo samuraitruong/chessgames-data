@@ -1,0 +1,14 @@
+[Event "RL-ch"]
+[Site "Kettig GER"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Andreas Kessler"]
+[Black "Andreas Bruehl"]
+[ECO "A00"]
+[WhiteElo "2230"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.c3 d5 2.g3 e5 3.Bg2 c6 4.d3 Bd6 5.Qc2 f5 6.b4 Nf6 7.Bb2 O-O 8.a3 e4 9.Nd2 Ng4 10.h3 Nxf2 11.Kxf2 e3 12.Kxe3 Qg5+ 13.Kd4 Be5+ 14.Kxe5 Re8+ 15.Kd4 Qe3# 0-1

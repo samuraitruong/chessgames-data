@@ -9560,7 +9560,8 @@
     "name": "LIE, Kjetil A",
     "year": "1996-2023",
     "games": 388,
-    "id": "41119"
+    "id": "41119",
+    "synced": true
   },
   {
     "higestRating": 2552,
@@ -11740,7 +11741,8 @@
     "name": "ESTEBAN, Juan Mario Gomez",
     "year": "1980-2014",
     "games": 309,
-    "id": "20889"
+    "id": "20889",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -61646,7 +61648,8 @@
     "name": "BRUEHL, Andreas",
     "year": "1994-2017",
     "games": 37,
-    "id": "57325"
+    "id": "57325",
+    "synced": true
   },
   {
     "higestRating": 2302,
