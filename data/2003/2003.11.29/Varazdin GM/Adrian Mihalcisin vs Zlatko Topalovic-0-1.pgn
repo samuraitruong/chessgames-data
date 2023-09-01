@@ -1,0 +1,14 @@
+[Event "Varazdin GM"]
+[Site "Varazdin"]
+[Date "2003.11.29"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Adrian Mihalcisin"]
+[Black "Zlatko Topalovic"]
+[ECO "A15"]
+[WhiteElo "2522"]
+[BlackElo "2514"]
+[PlyCount "86"]
+
+1. Nf3 Nf6 2. c4 g6 3. b4 Bg7 ( a5 4. b5 Bg7) 4. Bb2 O-O 5. e3 b6 ( d6 6. d3 (6. d4 e5 7. dxe5 Ng4 8. Nc3 Nxe5 9. Nxe5 dxe5 $11)) 6. d4 (6. Be2 Bb7 7. O-O c5 8. a3 ) Bb7 ( c5 7. dxc5 (7. bxc5 bxc5 8. d5 Na6 9. Be2 Rb8 10. Bc3 Ne4 11. Bxg7 Kxg7 12. O-O Qb6 13. Bd3 Qf6 14. Na3 Nc3 15. Qd2 d6 16. Rfc1 Na4 17. Nb5 Bg4 ) bxc5 8. b5 a6 9. a4 Ne4 10. Bxg7 Kxg7 11. Qd5 Qa5+ 12. Ke2 Bb7 13. Qxb7 Nc6 14. Nfd2 Ra7 15. bxc6 Rxb7 16. cxb7 Qb4 ) 7. Be2 c5 8. Qb3 $6 (8. a3 ) (8. dxc5 bxc5 9. b5 $14) cxb4 9. Qxb4 d5 $36 10. Nbd2 (10. c5 $6 Nc6 $15) Nc6 11. Qa3 (11. Qb3 Na5 $15) dxc4 12. Nxc4 Rc8 13. Nce5 (13. O-O b5 14. Nce5 a6 $11) a5 $1 14. Nxc6 (14. O-O Nb4 $15) (14. Nd3 $11) Bxc6 15. Rc1 b5 $15 16. O-O (16. Rxc6 Rxc6 17. Bxb5 Rc8 18. O-O Qd5 $15) b4 17. Qd3 (17. Qb3 Qd6 $11) Qd5 18. Qa6 Bb7 $1 ( Qxa2 19. Rxc6 Rxc6 20. Qxc6 Qxb2 21. Bc4 Ne8 ( e6 22. Ne5 $132) 22. Bxf7+ Kxf7 23. Qd5+ e6 24. Ng5+ Kg8 25. Qxe6+ Kh8 26. Nf7+ Rxf7 27. Qxf7 Nf6 28. Qa7 $132) 19. Qb5 (19. Qb6) Qxa2 20. Qxb7 Rxc1 21. Bxc1 (21. Rxc1 $2 Qxb2 22. Re1 a4 $19) Qxe2 22. Qxe7 Qb5 $17 23. Bd2 b3 ( Re8 $17) 24. Rb1 a4 25. h4 Re8 26. Qa7 Ne4 ( Nd5 $17) 27. Be1 Bf8 28. h5 gxh5 29. Ne5 Rxe5 $1 ( Be7 $17) 30. dxe5 Qd3 31. Rc1 (31. Ra1 a3 ( b2 32. Qxa4 bxa1=Q 33. Qxa1 Qe2 $19) 32. Rxa3 Bxa3 33. Qxa3 Qd1 $19) b2 32. Rc8 b1=Q 33. Qe7 Qxe1+ 34. Kh2 Qh1+ $8 35. Kxh1 Nxf2+ 36. Kg1 (36. Kh2 Ng4+ $19) Qb1+ 37. Kh2 (37. Kxf2 Qf5+ $19 ) Ng4+ 38. Kg3 (38. Kh3 Qh1+ 39. Kg3 Qh2+ $19 ) Qe1+ 39. Kh3 Qh1+ ( Qxe3+ 40. g3 Qh6 $19) 40. Kg3 Qh2+ 41. Kf3 Nxe5+ 42. Ke4 Ng6 $19 43. Qg5 h6 0-1

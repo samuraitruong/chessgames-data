@@ -1633,7 +1633,8 @@
     "name": "MIKHALCHISHIN, Adrian",
     "year": "1972-2022",
     "games": 1393,
-    "id": "15391"
+    "id": "15391",
+    "synced": true
   },
   {
     "higestRating": 2580,
@@ -44374,7 +44375,8 @@
     "name": "NOVIKOV, Vitalij",
     "year": "1987-2015",
     "games": 63,
-    "id": "99098"
+    "id": "99098",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -44817,7 +44819,8 @@
     "name": "ATAKISI, Fatih",
     "year": "1976-2009",
     "games": 62,
-    "id": "106084"
+    "id": "106084",
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -46249,7 +46252,8 @@
     "name": "BENTE, Bjoern",
     "year": "2004-2017",
     "games": 59,
-    "id": "85209"
+    "id": "85209",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -50920,7 +50924,8 @@
     "name": "MICHAELIDES, Konstantinos",
     "year": "2016-2022",
     "games": 51,
-    "id": "155312"
+    "id": "155312",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -68221,7 +68226,8 @@
     "name": "DE BORTOLI, Peter",
     "year": "1993-1999",
     "games": 31,
-    "id": "62816"
+    "id": "62816",
+    "synced": true
   },
   {
     "higestRating": 2326,
@@ -86267,7 +86273,8 @@
     "name": "KHAIRAT, Ahmed",
     "year": "2017",
     "games": 20,
-    "id": "160292"
+    "id": "160292",
+    "synced": true
   },
   {
     "higestRating": 2258,
@@ -88316,7 +88323,8 @@
     "name": "REUKER, Jari",
     "year": "2017-2022",
     "games": 19,
-    "id": "160601"
+    "id": "160601",
+    "synced": true
   },
   {
     "higestRating": 2567,
@@ -88709,7 +88717,8 @@
     "name": "SWOBODA, Ernst",
     "year": "1978-1981",
     "games": 18,
-    "id": "41917"
+    "id": "41917",
+    "synced": true
   },
   {
     "higestRating": 2365,

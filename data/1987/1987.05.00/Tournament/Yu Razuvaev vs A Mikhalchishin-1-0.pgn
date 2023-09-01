@@ -1,0 +1,14 @@
+[Event "Tournament"]
+[Site "Truskavets URS"]
+[Date "1987.05.??"]
+[EventDate "1987.05.00"]
+[Round "2"]
+[Result "1-0"]
+[White "Yu Razuvaev"]
+[Black "A Mikhalchishin"]
+[ECO "D21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 c5 4.d5 e6 5.e4 b5 6.a4 Nf6 7.Bg5 exd5 8.axb5 Be7 9.exd5 Nxd5 10.Bxc4 Bb7 11.Nc3 Nb6 12.Qxd8+ Bxd8 13.O-O-O N8d7 14.Rhe1+ Kf8 15.Bxd8 Rxd8 16.Ne5 Re8 17.Rxd7 1-0
