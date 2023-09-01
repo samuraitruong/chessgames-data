@@ -1,0 +1,15 @@
+[Event "Moscow Olympiad"]
+[Site "Moscow RUS"]
+[Date "1994.12.03"]
+[EventDate "1994.12.01"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Marc Geenen"]
+[Black "Eduard Meduna"]
+[ECO "B17"]
+[WhiteElo "2320"]
+[BlackElo "2485"]
+[Source "Olimpbase"]
+[PlyCount "41"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ngf6 6.Nxf6+ Nxf6 7.c3 Qc7 8. Qf3 Bg4 9.Qg3 Qxg3 10.hxg3 e6 11.f3 Bf5 12.g4 Bg6 13.Ne2 Bd6 14.Bf4 Ke7 15.Bxd6+ Kxd6 16.Nf4 Nd5 17.Nxg6 hxg6 18.Kd2 g5 19.g3 a5 20.Bxd5 exd5 21. a4 1/2-1/2
