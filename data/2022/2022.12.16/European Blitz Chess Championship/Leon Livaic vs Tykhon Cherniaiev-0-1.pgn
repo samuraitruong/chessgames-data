@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.16"]
+[EventDate "2022.12.16"]
+[Round "7.12"]
+[Result "0-1"]
+[White "Leon Livaic"]
+[Black "Tykhon Cherniaiev"]
+[ECO "D38"]
+[WhiteElo "2572"]
+[BlackElo "2330"]
+[PlyCount "144"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 dxc4 8. Bxc4 c5 9. O-O Bxc3 10. bxc3 Nc6 11. Qa4 O-O 12. Qa3 cxd4 13. cxd4 e5 14. d5 Ne7 15. d6 Nf5 16. Rfd1 e4 17. Nd4 Nxd6 18. Bb3 Bg4 19. Rdc1 a6 20. h3 Bd7 21. Rc7 Nb5 22. Nxb5 Qxa1+ 23. Rc1 Qe5 24. Nd4 Rac8 25. Rd1 Rfd8 26. Qb4 b5 27. Qa5 Be8 28. Qxa6 Qd6 29. Qb7 Qe5 30. Rb1 Rb8 31. Nc6 Rxb7 32. Nxe5 Rd2 33. Rc1 Rd8 34. Rc5 Re7 35. Ng6 Red7 36. Nf4 Kf8 37. h4 Rd6 38. Re5 Bc6 39. Rc5 Be8 40. g4 Rc6 41. Re5 Rf6 42. Rxe4 Bc6 43. Re5 Rfd6 44. g5 hxg5 45. hxg5 Re8 46. Rc5 Red8 47. Kh2 g6 48. Kg3 Kg7 49. Re5 Re8 50. Rc5 Red8 51. Re5 Re8 52. Rc5 Red8 53. Rc1 Rh8 54. f3 Re8 55. e4 Re5 56. Kh4 f6 57. gxf6+ Rxf6 58. Nd3 Rh5+ 59. Kg3 Rg5+ 60. Kf2 Bxe4 61. Rc7+ Kh6 62. Ne1 Rgf5 63. Bd1 Bd5 64. a3 Rf4 65. Rc5 Bc4 66. Ng2 Rd4 67. Ne3 Rd2+ 68. Ke1 Rfd6 69. a4 R2d3 70. Ng4+ Kg7 71. Bc2 Rxf3 72. axb5 Rf1# 0-1
