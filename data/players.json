@@ -7264,7 +7264,8 @@
     "name": "GARBETT, Paul Anthony",
     "year": "1971-2017",
     "games": 502,
-    "id": "42376"
+    "id": "42376",
+    "synced": true
   },
   {
     "higestRating": 2594,
@@ -23605,7 +23606,8 @@
     "name": "ROTH, Peter",
     "year": "1966-2010",
     "games": 141,
-    "id": "32639"
+    "id": "32639",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -40593,7 +40595,8 @@
     "name": "KUKHMAZOV, Arsen",
     "year": "2008-2023",
     "games": 71,
-    "id": "118259"
+    "id": "118259",
+    "synced": true
   },
   {
     "higestRating": 2541,
@@ -55309,7 +55312,8 @@
     "name": "LEVCHENKOV, Vitaly",
     "year": "1971-2012",
     "games": 44,
-    "id": "26137"
+    "id": "26137",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -64113,7 +64117,8 @@
     "name": "NOVIKOV, Yury M",
     "year": "1995-2000",
     "games": 35,
-    "id": "194466"
+    "id": "194466",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -64953,7 +64958,8 @@
     "name": "LATORRE, Matias",
     "year": "2007-2023",
     "games": 34,
-    "id": "109856"
+    "id": "109856",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -65252,7 +65258,8 @@
     "name": "KOZUSEK, Daniel",
     "year": "2013-2021",
     "games": 34,
-    "id": "157946"
+    "id": "157946",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -71636,7 +71643,8 @@
     "name": "JOHANNESSON, Larus",
     "year": "1984-1995",
     "games": 28,
-    "id": "29162"
+    "id": "29162",
+    "synced": true
   },
   {
     "higestRating": 2388,
@@ -84092,7 +84100,8 @@
     "name": "CHAPLIN, Erik",
     "year": "1989-2009",
     "games": 20,
-    "id": "27626"
+    "id": "27626",
+    "synced": true
   },
   {
     "higestRating": 2400,
