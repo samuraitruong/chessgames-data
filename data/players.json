@@ -12679,7 +12679,8 @@
     "name": "STERN, Rene",
     "year": "1989-2021",
     "games": 286,
-    "id": "17888"
+    "id": "17888",
+    "synced": true
   },
   {
     "higestRating": 2547,
@@ -23629,7 +23630,8 @@
     "name": "BERCYS, Salvijus",
     "year": "2000-2012",
     "games": 141,
-    "id": "85882"
+    "id": "85882",
+    "synced": true
   },
   {
     "higestRating": 2491,
@@ -46874,7 +46876,8 @@
     "name": "PIKET, Marcel",
     "year": "1985-2004",
     "games": 57,
-    "id": "41176"
+    "id": "41176",
+    "synced": true
   },
   {
     "higestRating": 2227,
@@ -58680,7 +58683,8 @@
     "name": "TABOR, Jozsef",
     "year": "1960-1988",
     "games": 40,
-    "id": "17494"
+    "id": "17494",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -61320,7 +61324,8 @@
     "name": "VANDERWAEREN, Serge",
     "year": "1989-2004",
     "games": 37,
-    "id": "21411"
+    "id": "21411",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -61785,7 +61790,8 @@
     "name": "RAWLINSON, Aidan M",
     "year": "2001-2019",
     "games": 37,
-    "id": "99185"
+    "id": "99185",
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -63656,7 +63662,8 @@
     "name": "MACHYCEK, Lubomir",
     "year": "1995-2017",
     "games": 35,
-    "id": "85004"
+    "id": "85004",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -71508,7 +71515,8 @@
     "name": "ASTOLFI, Frederic",
     "year": "1989-1994",
     "games": 28,
-    "id": "18175"
+    "id": "18175",
+    "synced": true
   },
   {
     "higestRating": 2304,
@@ -77369,7 +77377,8 @@
     "name": "KILIC, Eray",
     "year": "2023",
     "games": 25,
-    "id": "190910"
+    "id": "190910",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -84620,7 +84629,8 @@
     "name": "RIEDIGER, Martin",
     "year": "1997-2017",
     "games": 20,
-    "id": "66539"
+    "id": "66539",
+    "synced": true
   },
   {
     "higestRating": 2275,
