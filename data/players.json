@@ -5745,7 +5745,8 @@
     "name": "CHERNIAEV, Alexander",
     "year": "1990-2023",
     "games": 629,
-    "id": "27642"
+    "id": "27642",
+    "synced": true
   },
   {
     "higestRating": 2635,
@@ -64377,7 +64378,8 @@
     "name": "PALACIOS, Antonio",
     "year": "1971-2013",
     "games": 34,
-    "id": "45511"
+    "id": "45511",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -68686,7 +68688,8 @@
     "name": "SHARMA, Arun",
     "year": "1993-2014",
     "games": 31,
-    "id": "132150"
+    "id": "132150",
+    "synced": true
   },
   {
     "higestRating": 2313,
