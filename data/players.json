@@ -8797,7 +8797,8 @@
     "name": "SHYAM, Sundar M",
     "year": "2007-2022",
     "games": 417,
-    "id": "117314"
+    "id": "117314",
+    "synced": true
   },
   {
     "higestRating": 2605,
@@ -62894,7 +62895,8 @@
     "name": "IVEKOVIC, Bozidar",
     "year": "2007-2019",
     "games": 36,
-    "id": "119935"
+    "id": "119935",
+    "synced": true
   },
   {
     "higestRating": 2209,
@@ -68189,7 +68191,8 @@
     "name": "DONNELY, Brian",
     "year": "1969-1984",
     "games": 31,
-    "id": "81928"
+    "id": "81928",
+    "synced": true
   },
   {
     "higestRating": 2237,
@@ -77275,7 +77278,8 @@
     "name": "ABREKOV, Mussa",
     "year": "2014-2022",
     "games": 25,
-    "id": "151461"
+    "id": "151461",
+    "synced": true
   },
   {
     "higestRating": 2440,
