@@ -579,7 +579,8 @@
     "name": "SPEELMAN, Jonathan",
     "year": "1969-2022",
     "games": 2018,
-    "id": "27451"
+    "id": "27451",
+    "synced": true
   },
   {
     "higestRating": 2702,
@@ -8126,7 +8127,8 @@
     "name": "GULIYEV, Namig",
     "year": "1993-2023",
     "games": 455,
-    "id": "65797"
+    "id": "65797",
+    "synced": true
   },
   {
     "higestRating": 2450,
