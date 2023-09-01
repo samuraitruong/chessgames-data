@@ -5255,7 +5255,8 @@
     "name": "GURGENIDZE, Bukhuti",
     "year": "1951-2007",
     "games": 679,
-    "id": "32195"
+    "id": "32195",
+    "synced": true
   },
   {
     "higestRating": 2605,
@@ -30804,7 +30805,8 @@
     "name": "BRYAKIN, Mikhail",
     "year": "2008-2023",
     "games": 101,
-    "id": "118154"
+    "id": "118154",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -72814,7 +72816,8 @@
     "name": "DUCKWORTH, William Mark",
     "year": "1981-2012",
     "games": 27,
-    "id": "15562"
+    "id": "15562",
+    "synced": true
   },
   {
     "higestRating": 2359,
