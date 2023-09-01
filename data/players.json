@@ -10012,7 +10012,8 @@
     "name": "CROUCH, Colin",
     "year": "1973-2013",
     "games": 367,
-    "id": "14257"
+    "id": "14257",
+    "synced": true
   },
   {
     "higestRating": 2481,
@@ -32120,7 +32121,8 @@
     "name": "AITBAYEV, Aslan",
     "year": "2008-2023",
     "games": 96,
-    "id": "120098"
+    "id": "120098",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -62714,7 +62716,8 @@
     "name": "GOERLINGER, Stephane",
     "year": "1994-2003",
     "games": 36,
-    "id": "108317"
+    "id": "108317",
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -74197,7 +74200,8 @@
     "name": "HORVATH, Mario",
     "year": "1995-2001",
     "games": 26,
-    "id": "24740"
+    "id": "24740",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -82150,7 +82154,8 @@
     "name": "PEREZ, Manuel Palacios",
     "year": "1993-2018",
     "games": 21,
-    "id": "28299"
+    "id": "28299",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -87111,7 +87116,8 @@
     "name": "WEETIK, Vjacheslav",
     "year": "1997-2007",
     "games": 19,
-    "id": "94504"
+    "id": "94504",
+    "synced": true
   },
   {
     "higestRating": 2270,
