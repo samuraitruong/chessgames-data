@@ -1423,7 +1423,8 @@
     "name": "GUFELD, Eduard",
     "year": "1953-2002",
     "games": 1459,
-    "id": "10156"
+    "id": "10156",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -27387,7 +27388,8 @@
     "name": "WINIWARTER, Felix",
     "year": "1953-2012",
     "games": 115,
-    "id": "25928"
+    "id": "25928",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -38450,7 +38452,8 @@
     "name": "GRAHAM, David Bruce",
     "year": "1986-2020",
     "games": 76,
-    "id": "57337"
+    "id": "57337",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -47230,7 +47233,8 @@
     "name": "VIBBERT, Sean",
     "year": "2011-2017",
     "games": 57,
-    "id": "131390"
+    "id": "131390",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -73392,7 +73396,8 @@
     "name": "NAZARENUS, Moritz",
     "year": "1999-2018",
     "games": 27,
-    "id": "68673"
+    "id": "68673",
+    "synced": true
   },
   {
     "higestRating": 2456,
@@ -98028,7 +98033,8 @@
     "name": "OSINOVSKY, Stepan",
     "year": "2001-2014",
     "games": 13,
-    "id": "57480"
+    "id": "57480",
+    "synced": true
   },
   {
     "higestRating": 2222,
@@ -101233,7 +101239,8 @@
     "name": "FRENDZAS, Panayotis",
     "year": "1993-2021",
     "games": 5,
-    "id": "35287"
+    "id": "35287",
+    "synced": true
   },
   {
     "higestRating": 2266,
