@@ -1,0 +1,14 @@
+[Event "Pardubice Czech op"]
+[Site "Pardubice CZE"]
+[Date "1998.07.20"]
+[EventDate "1998.07.17"]
+[Round "4"]
+[Result "0-1"]
+[White "Martin Vaculik"]
+[Black "Pavel Vavra"]
+[ECO "B17"]
+[WhiteElo "2130"]
+[BlackElo "2330"]
+[PlyCount "42"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Bg5 Ngf6 6.Bxf6 Nxf6 7.Nxf6+ gxf6 8.Bc4 Bf5 9.c3 e6 10.Ne2 h5 11.h4 Bd6 12.Qd2 Qa5 13.O-O-O O-O-O 14.Qe3 c5 15.Qf3 cxd4 16.Nxd4 Bg4 17.Qxf6 Bxd1 18.Rxd1 Qc7 19.Bxe6+ fxe6 20.Nxe6 Qe7 21.Qf5 Rd7 0-1
