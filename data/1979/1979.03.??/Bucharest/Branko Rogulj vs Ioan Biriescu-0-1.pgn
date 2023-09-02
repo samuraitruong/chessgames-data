@@ -1,0 +1,14 @@
+[Event "Bucharest"]
+[Site "Bucharest ROU"]
+[Date "1979.03.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "0-1"]
+[White "Branko Rogulj"]
+[Black "Ioan Biriescu"]
+[ECO "B01"]
+[WhiteElo "2440"]
+[BlackElo "2390"]
+[PlyCount "44"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bg4 6.h3 Bh5 7.g4 Bg6 8.Ne5 Nbd7 9.Nc4 Qa6 10.d5 O-O-O 11.b4 Ne4 12.Nxe4 Bxe4 13.Nd2 Qg6 14.f3 Bxc2 15.Qe2 e6 16.dxe6 Bxb4 17.exd7+ Rxd7 18.Qc4 Re8+ 19.Kf2 Bxd2 20.Bxd2 Rxd2+ 21.Kg3 Qb6 22.Rh2 Qd6+ 0-1
