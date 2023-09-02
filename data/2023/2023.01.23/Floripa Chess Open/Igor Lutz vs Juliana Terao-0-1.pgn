@@ -1,0 +1,14 @@
+[Event "Floripa Chess Open"]
+[Site "Florianopolis BRA"]
+[Date "2023.01.??"]
+[EventDate "2023.01.23"]
+[Round "6"]
+[Result "0-1"]
+[White "Igor Lutz"]
+[Black "Juliana Terao"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Bg2 b5 8. Qc2 Bb7 9. Bd2 c5 10. O-O Rc8 11. dxc5 Bxc5 12. Qd3 Be4 13. Qb3 Bc2 14. Qc3 b4 15. Qxc2 Bxf2+ 16. Rxf2 Rxc2 17. Bxb4 Qb6 18. Bc3 Rc1+ 19. Bf1 Rxc3 20. Nxc3 Qxb2 0-1

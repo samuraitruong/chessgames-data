@@ -10002,7 +10002,8 @@
     "name": "AUGUSTIN, Josef",
     "year": "1959-2006",
     "games": 370,
-    "id": "28009"
+    "id": "28009",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -20561,7 +20562,8 @@
     "name": "LEDGER, Stephen",
     "year": "1995-2022",
     "games": 168,
-    "id": "21405"
+    "id": "21405",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -25758,7 +25760,8 @@
     "name": "TERAO, Juliana Sayumi",
     "year": "2004-2023",
     "games": 126,
-    "id": "124504"
+    "id": "124504",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -38847,7 +38850,8 @@
     "name": "JORDAN, William",
     "year": "1972-2023",
     "games": 75,
-    "id": "39607"
+    "id": "39607",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -44835,7 +44839,8 @@
     "name": "BREUSTEDT, Werner",
     "year": "1956-1995",
     "games": 62,
-    "id": "81880"
+    "id": "81880",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -78406,7 +78411,8 @@
     "name": "SCHOEPPL, Engelbert",
     "year": "1988-2003",
     "games": 24,
-    "id": "83028"
+    "id": "83028",
+    "synced": true
   },
   {
     "higestRating": 2331,
@@ -85194,7 +85200,8 @@
     "name": "BERKELL, Peder",
     "year": "1972-2003",
     "games": 20,
-    "id": "80077"
+    "id": "80077",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -96695,7 +96702,8 @@
     "name": "STROMER, Alexander",
     "year": "1987-2005",
     "games": 15,
-    "id": "86746"
+    "id": "86746",
+    "synced": true
   },
   {
     "higestRating": 2311,
