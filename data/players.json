@@ -2185,7 +2185,8 @@
     "name": "BISCHOFF, Klaus",
     "year": "1977-2022",
     "games": 1193,
-    "id": "11605"
+    "id": "11605",
+    "synced": true
   },
   {
     "higestRating": 2673,
@@ -98560,7 +98561,8 @@
     "name": "BEE, Marcus",
     "year": "1987-2000",
     "games": 13,
-    "id": "136868"
+    "id": "136868",
+    "synced": true
   },
   {
     "higestRating": 2383,
