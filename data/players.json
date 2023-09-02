@@ -10437,7 +10437,8 @@
     "name": "SIMIC, Radoslav",
     "year": "1966-2016",
     "games": 356,
-    "id": "19012"
+    "id": "19012",
+    "synced": true
   },
   {
     "higestRating": 2624,
@@ -31055,7 +31056,8 @@
     "name": "HERBRECHTSMEIER, Christof",
     "year": "1971-2019",
     "games": 100,
-    "id": "28095"
+    "id": "28095",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -45929,7 +45931,8 @@
     "name": "METZ, Werner Richard",
     "year": "1970-1994",
     "games": 60,
-    "id": "138785"
+    "id": "138785",
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -66747,7 +66750,8 @@
     "name": "DANEK, Libor",
     "year": "1982-2002",
     "games": 32,
-    "id": "24575"
+    "id": "24575",
+    "synced": true
   },
   {
     "higestRating": 2291,
