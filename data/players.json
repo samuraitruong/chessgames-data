@@ -18585,7 +18585,8 @@
     "name": "HOEN, Ragnar Harald",
     "year": "1959-2006",
     "games": 189,
-    "id": "28699"
+    "id": "28699",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -22617,7 +22618,8 @@
     "name": "MATIKOZIAN, Andranik",
     "year": "1993-2016",
     "games": 150,
-    "id": "51150"
+    "id": "51150",
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -26629,7 +26631,8 @@
     "name": "BIALAS, Wolfram",
     "year": "1951-1996",
     "games": 120,
-    "id": "41713"
+    "id": "41713",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -39789,7 +39792,8 @@
     "name": "OKKES, Menno",
     "year": "1986-2022",
     "games": 73,
-    "id": "125762"
+    "id": "125762",
+    "synced": true
   },
   {
     "higestRating": 2469,
@@ -84001,7 +84005,8 @@
     "name": "RAHMAN, Adel",
     "year": "2014-2021",
     "games": 21,
-    "id": "149959"
+    "id": "149959",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -88378,7 +88383,8 @@
     "name": "CARLO, Emanuele",
     "year": "2020-2022",
     "games": 19,
-    "id": "170719"
+    "id": "170719",
+    "synced": true
   },
   {
     "higestRating": 2387,
