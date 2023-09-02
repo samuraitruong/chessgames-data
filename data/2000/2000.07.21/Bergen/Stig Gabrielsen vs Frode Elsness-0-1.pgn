@@ -1,0 +1,14 @@
+[Event "Bergen"]
+[Site "Bergen NOR"]
+[Date "2000.07.25"]
+[EventDate "2000.07.21"]
+[Round "5"]
+[Result "0-1"]
+[White "Stig Gabrielsen"]
+[Black "Frode Elsness"]
+[ECO "B80"]
+[WhiteElo "2305"]
+[BlackElo "2383"]
+[PlyCount "44"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. f3 e6 7. Be3 b5 8. Qd2 Nbd7 9. g4 Nb6 10. g5 Nfd7 11. O-O-O Bb7 12. h4 Rc8 13. h5 Ne5 14. f4 b4 15. fxe5 bxc3 16. bxc3 dxe5 17. Nxe6 Ba3+ 18. Kb1 Qxd2 19. Nxg7+ Kf8 20. Rxd2 Na4 21. Bh3 Rb8 22. Ba7 Kxg7 0-1

@@ -12281,7 +12281,8 @@
     "name": "ELSNESS, Frode",
     "year": "1993-2022",
     "games": 298,
-    "id": "22011"
+    "id": "22011",
+    "synced": true
   },
   {
     "higestRating": 2481,
@@ -24155,7 +24156,8 @@
     "name": "MOLDOVAN, Daniel",
     "year": "1989-2017",
     "games": 138,
-    "id": "68726"
+    "id": "68726",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -27896,7 +27898,8 @@
     "name": "PAPADIAMANDIS, Elliot",
     "year": "2017-2023",
     "games": 114,
-    "id": "159858"
+    "id": "159858",
+    "synced": true
   },
   {
     "higestRating": 2201,
@@ -103000,7 +103003,8 @@
     "name": "FEIGELSON, Josif",
     "year": "1989",
     "games": 2,
-    "id": "16833"
+    "id": "16833",
+    "synced": true
   },
   {
     "higestRating": 2314,

@@ -1,0 +1,15 @@
+[Event "European Individual Championship"]
+[Site "Terme Catez SLO"]
+[Date "2022.03.31"]
+[EventDate "2022.03.27"]
+[Round "5.11"]
+[Result "1/2-1/2"]
+[White "Pijus Greicius"]
+[Black "Elliot Papadiamandis"]
+[ECO "D85"]
+[WhiteElo "2100"]
+[BlackElo "2406"]
+[Source "Lichess"]
+[PlyCount "38"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8. h3 O-O 9. Be2 Nc6 10. Be3 cxd4 11. cxd4 Qa5+ 12. Bd2 Qa3 13. d5 Ne5 14. O-O Bd7 15. Rb1 Ba4 16. Qe1 Qxa2 17. Rxb7 Rfb8 18. Rxb8+ Rxb8 19. Bf4 Qb2 1/2-1/2
