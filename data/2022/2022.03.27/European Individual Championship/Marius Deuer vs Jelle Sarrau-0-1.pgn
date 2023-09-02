@@ -1,0 +1,15 @@
+[Event "European Individual Championship"]
+[Site "Terme Catez SLO"]
+[Date "2022.04.04"]
+[EventDate "2022.03.27"]
+[Round "9.18"]
+[Result "0-1"]
+[White "Marius Deuer"]
+[Black "Jelle Sarrau"]
+[ECO "A40"]
+[WhiteElo "2304"]
+[BlackElo "2401"]
+[Source "Lichess"]
+[PlyCount "40"]
+
+1. d4 e6 2. c4 Bb4+ 3. Nc3 c5 4. e3 Nc6 5. Ne2 cxd4 6. exd4 d5 7. c5 Nge7 8. a3 Bxc3+ 9. Nxc3 Nf5 10. Bb5 O-O 11. Bxc6 bxc6 12. O-O Qh4 13. Be3 e5 14. g3 Qh3 15. Ne2 f6 16. Rc1 h5 17. Kh1 Ba6 18. Re1 Bxe2 19. Qxe2 Rae8 20. Qf3 Nh4 0-1

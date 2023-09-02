@@ -1,0 +1,15 @@
+[Event "European Individual Championship"]
+[Site "Terme Catez SLO"]
+[Date "2022.04.01"]
+[EventDate "2022.03.27"]
+[Round "6.2"]
+[Result "1-0"]
+[White "Pierre Barbot"]
+[Black "Marius Deuer"]
+[ECO "E14"]
+[WhiteElo "2455"]
+[BlackElo "2304"]
+[Source "Lichess"]
+[PlyCount "40"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 d5 5. Bd3 Bb7 6. O-O Bd6 7. b3 O-O 8. Bb2 c5 9. cxd5 exd5 10. Nc3 Nbd7 11. Rc1 Re8 12. Ne2 Ne4 13. dxc5 Ndxc5 14. Bb5 Re6 15. b4 Rh6 16. bxc5 Bxh2+ 17. Nxh2 Qh4 18. Be5 f6 19. c6 fxe5 20. Qxd5+ 1-0
