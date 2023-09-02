@@ -1,0 +1,14 @@
+[Event "Bundesliga 1989/90"]
+[Site "FRG"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Dieter Pirrot"]
+[Black "Gerald Hertneck"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 cxd4 8.cxd4 f6 9.Nf4 Nxd4 10.Qh5+ Ke7 11.exf6+ Nxf6 12.Ng6+ hxg6 13.Qxh8 Kf7 14.O-O e5 15.Nf3 Nxf3+ 16.gxf3 Nh5 17.Bxg6+ Kxg6 18.Kh1 Qh4 19.Qxf8 Kh7 20.Rg1 Qxf2 21.Qf7 Bg4 0-1
