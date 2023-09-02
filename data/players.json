@@ -12787,7 +12787,8 @@
     "name": "BACH, Victor Manuel Vehi",
     "year": "1979-2022",
     "games": 285,
-    "id": "43316"
+    "id": "43316",
+    "synced": true
   },
   {
     "higestRating": 2444,
@@ -18333,7 +18334,8 @@
     "name": "BARYSHPOLETS, Andrey",
     "year": "2005-2019",
     "games": 193,
-    "id": "99228"
+    "id": "99228",
+    "synced": true
   },
   {
     "higestRating": 2329,
@@ -61123,7 +61125,8 @@
     "name": "TKESHELASHVILI, Sopio",
     "year": "1991-2009",
     "games": 38,
-    "id": "91788"
+    "id": "91788",
+    "synced": true
   },
   {
     "higestRating": 2284,
@@ -76619,7 +76622,8 @@
     "name": "PACUSZKA, Tomasz",
     "year": "1999-2022",
     "games": 25,
-    "id": "58913"
+    "id": "58913",
+    "synced": true
   },
   {
     "higestRating": 2233,
