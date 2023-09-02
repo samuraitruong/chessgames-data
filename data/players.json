@@ -18027,7 +18027,8 @@
     "name": "NOLTE, Rolando",
     "year": "1991-2017",
     "games": 197,
-    "id": "53017"
+    "id": "53017",
+    "synced": true
   },
   {
     "higestRating": 2571,
@@ -22145,7 +22146,8 @@
     "name": "LEMATSCHKO, Tatjana",
     "year": "1968-2010",
     "games": 154,
-    "id": "59409"
+    "id": "59409",
+    "synced": true
   },
   {
     "higestRating": 2548,
@@ -36984,7 +36986,8 @@
     "name": "ZAGEMA, Wieb",
     "year": "1985-2002",
     "games": 80,
-    "id": "24678"
+    "id": "24678",
+    "synced": true
   },
   {
     "higestRating": 2233,
@@ -42378,7 +42381,8 @@
     "name": "ZULFUGARLI, Magomed",
     "year": "1994-2002",
     "games": 67,
-    "id": "76958"
+    "id": "76958",
+    "synced": true
   },
   {
     "higestRating": 2281,
@@ -57234,7 +57238,8 @@
     "name": "LIRINDZAKIS, Timotheos",
     "year": "1982-2019",
     "games": 42,
-    "id": "37808"
+    "id": "37808",
+    "synced": true
   },
   {
     "higestRating": 2287,

@@ -1,0 +1,14 @@
+[Event "Donner Memorial Open"]
+[Site "Amsterdam NED"]
+[Date "1994.08.27"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Wieb Zagema"]
+[Black "Dimitri Reinderman"]
+[ECO "C41"]
+[WhiteElo "2355"]
+[BlackElo "2430"]
+[PlyCount "45"]
+
+1.e4 e5 2.Nf3 d6 3.Bc4 Be7 4.d4 exd4 5.Nxd4 Nf6 6.Nc3 O-O 7.O-O Nc6 8.Nxc6 bxc6 9.f4 Nd7 10.Qf3 Nb6 11.Bd3 Be6 12.Ne2 c5 13.c3 Qc8 14.Ng3 Bc4 15.Nf5 Re8 16.Qg3 g6 17.Nh6+ Kg7 18.f5 Bxd3 19.Qxd3 Nd7 20.Nxf7 Kxf7 21.fxg6+ Kg7 22.Qh3 Ne5 23.Qxh7# 1-0
