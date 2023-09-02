@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Tournament"]
+[Site "Amsterdam NED"]
+[Date "2006.07.15"]
+[EventDate "2006.07.15"]
+[Round "1"]
+[Result "1-0"]
+[White "Markus Schaefer"]
+[Black "Alan J Walton"]
+[ECO "C05"]
+[WhiteElo "2354"]
+[BlackElo "2222"]
+[PlyCount "37"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4 Qb6 9. Nf3 f6 10. exf6 Nxf6 11. O-O Bd6 12. Bf4 Bxf4 13. Nxf4 Qxb2 14. Rb1 Qa3 15. Ng5 O-O 16. Qc2 Ne4 17. Bxe4 Rxf4 18. Bxd5 Rf5 19. Qxf5 1-0

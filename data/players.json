@@ -8495,7 +8495,8 @@
     "name": "JANIK, Igor",
     "year": "2014-2023",
     "games": 434,
-    "id": "149398"
+    "id": "149398",
+    "synced": true
   },
   {
     "higestRating": 2559,
@@ -21963,7 +21964,8 @@
     "name": "PALO, Davor",
     "year": "1997-2014",
     "games": 155,
-    "id": "50712"
+    "id": "50712",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -24190,7 +24192,8 @@
     "name": "SCHAEFER, Markus",
     "year": "1986-2021",
     "games": 137,
-    "id": "43625"
+    "id": "43625",
+    "synced": true
   },
   {
     "higestRating": 2404,
@@ -25489,7 +25492,8 @@
     "name": "BUTURIN, Vladimir",
     "year": "1974-1999",
     "games": 127,
-    "id": "19869"
+    "id": "19869",
+    "synced": true
   },
   {
     "higestRating": 2390,
