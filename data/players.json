@@ -7047,7 +7047,8 @@
     "name": "BELOTTI, Bruno",
     "year": "1981-2005",
     "games": 514,
-    "id": "17008"
+    "id": "17008",
+    "synced": true
   },
   {
     "higestRating": 2600,
@@ -43647,7 +43648,8 @@
     "name": "STORM, Roland",
     "year": "1981-1999",
     "games": 64,
-    "id": "19740"
+    "id": "19740",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -74263,7 +74265,8 @@
     "name": "SELIVANOV, Ivan",
     "year": "2013-2017",
     "games": 27,
-    "id": "147886"
+    "id": "147886",
+    "synced": true
   },
   {
     "higestRating": 2212,
@@ -84156,7 +84159,8 @@
     "name": "NSUBUGA, Haruna",
     "year": "2018-2023",
     "games": 21,
-    "id": "161161"
+    "id": "161161",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -93099,7 +93103,8 @@
     "name": "RIBREAU, Herve",
     "year": "1995-2004",
     "games": 16,
-    "id": "28650"
+    "id": "28650",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -99513,7 +99518,8 @@
     "name": "LACLAU, Daniel",
     "year": "1992-2012",
     "games": 11,
-    "id": "125233"
+    "id": "125233",
+    "synced": true
   },
   {
     "higestRating": 2245,
