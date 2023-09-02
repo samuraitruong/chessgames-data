@@ -5167,7 +5167,8 @@
     "name": "GEORGIEV, Vladimir",
     "year": "1991-2019",
     "games": 688,
-    "id": "10947"
+    "id": "10947",
+    "synced": true
   },
   {
     "higestRating": 2579,
@@ -9236,7 +9237,8 @@
     "name": "POPCHEV, Milko",
     "year": "1985-2022",
     "games": 399,
-    "id": "17779"
+    "id": "17779",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -89650,7 +89652,8 @@
     "name": "SZCZEPINSKI, Michal",
     "year": "1998-2007",
     "games": 18,
-    "id": "98825"
+    "id": "98825",
+    "synced": true
   },
   {
     "higestRating": 2330,

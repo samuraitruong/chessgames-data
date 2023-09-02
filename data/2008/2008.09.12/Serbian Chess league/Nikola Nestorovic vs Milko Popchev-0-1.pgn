@@ -1,0 +1,14 @@
+[Event "Serbian Chess league"]
+[Site "Stara Pazova"]
+[Date "2008.09.12"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Nikola Nestorovic"]
+[Black "Milko Popchev"]
+[ECO "B06"]
+[WhiteElo "2422"]
+[BlackElo "2410"]
+[PlyCount "44"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 Nc6 4.Be3 d5 5.Nf3 dxe4 6.Nxe4 Nh6 7.d5 Nb4 8.Qd2 a5 9.a3 Qxd5 10.axb4 Qxe4 11.Bd3 Qe6 12.O-O-O O-O 13.Bxh6 axb4 14.Qe3 Bc3 15.bxc3 bxc3 16.Ba6 Qxe3 17.Bxe3 Rxa6 18.Kb1 Bh3 19.Nd4 Rb6 20.Nb3 Rxb3 21.cxb3 Bf5 22.Kc1 Ra8 0-1
