@@ -1,0 +1,15 @@
+[Event "Chess Olympiad"]
+[Site "Valletta MLT"]
+[Date "1980.11.22"]
+[EventDate "1980.11.20"]
+[Round "3"]
+[Result "0-1"]
+[White "Dafydd Johnston"]
+[Black "Eric Lobron"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "2335"]
+[Source "Olimpbase"]
+[PlyCount "38"]
+
+1.b4 e5 2.Bb2 Bxb4 3.f4 d6 4.fxe5 dxe5 5.Bxe5 Nf6 6.Nf3 Nc6 7.Bb2 Qe7 8.c4 Bg4 9.Qb3 Ne4 10.a3 Nc5 11.Qc2 Ba5 12.Nc3 Bxf3 13.gxf3 Nd4 14.Qb1 Nxf3+ 15.Kd1 Nxd2 16.Kxd2 Rd8+ 17.Kc2 Bxc3 18.Bxc3 Qe4+ 19.Kb2 Qxc4 0-1

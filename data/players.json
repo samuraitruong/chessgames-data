@@ -762,7 +762,8 @@
     "name": "LOBRON, Eric",
     "year": "1977-2019",
     "games": 1830,
-    "id": "14919"
+    "id": "14919",
+    "synced": true
   },
   {
     "higestRating": 2676,
@@ -27204,7 +27205,8 @@
     "name": "LAIRD, Craig",
     "year": "1975-1999",
     "games": 117,
-    "id": "16969"
+    "id": "16969",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -38727,7 +38729,8 @@
     "name": "BARRETO, Luiz Ney Menna",
     "year": "1980-2008",
     "games": 76,
-    "id": "87218"
+    "id": "87218",
+    "synced": true
   },
   {
     "higestRating": 2379,
@@ -91263,7 +91266,8 @@
     "name": "TROFFIGUER, Olivier",
     "year": "1990-2004",
     "games": 17,
-    "id": "51905"
+    "id": "51905",
+    "synced": true
   },
   {
     "higestRating": 2221,
