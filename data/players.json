@@ -15622,7 +15622,8 @@
     "name": "BAGHDASARYAN, Vahe",
     "year": "2006-2019",
     "games": 229,
-    "id": "125328"
+    "id": "125328",
+    "synced": true
   },
   {
     "higestRating": 2696,
@@ -19958,7 +19959,8 @@
     "name": "KREMENIETSKY, Anatoly M",
     "year": "1968-2012",
     "games": 175,
-    "id": "46339"
+    "id": "46339",
+    "synced": true
   },
   {
     "higestRating": 2526,
@@ -48808,7 +48810,8 @@
     "name": "KONONENKO, Dmitry",
     "year": "2001-2022",
     "games": 55,
-    "id": "155896"
+    "id": "155896",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -67377,7 +67380,8 @@
     "name": "PRADEEP, Kumar R A",
     "year": "2008-2016",
     "games": 32,
-    "id": "117356"
+    "id": "117356",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -92587,7 +92591,8 @@
     "name": "NESTEROVSKY, Alex",
     "year": "2007-2009",
     "games": 17,
-    "id": "134413"
+    "id": "134413",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -101383,7 +101388,8 @@
     "name": "MCCLELLAND, Shearwood",
     "year": "1992-2000",
     "games": 6,
-    "id": "10164"
+    "id": "10164",
+    "synced": true
   },
   {
     "higestRating": 2301,
