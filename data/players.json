@@ -14585,7 +14585,8 @@
     "name": "NORITSYN, Nikolay",
     "year": "2002-2023",
     "games": 248,
-    "id": "88515"
+    "id": "88515",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -17397,7 +17398,8 @@
     "name": "BUNZMANN, Dimitrij",
     "year": "1994-2014",
     "games": 205,
-    "id": "52728"
+    "id": "52728",
+    "synced": true
   },
   {
     "higestRating": 2568,
@@ -27424,7 +27426,8 @@
     "name": "KOZIAK, Vitali",
     "year": "1995-2021",
     "games": 116,
-    "id": "88083"
+    "id": "88083",
+    "synced": true
   },
   {
     "higestRating": 2457,
@@ -46136,7 +46139,8 @@
     "name": "ELLERS, Holger",
     "year": "1992-2005",
     "games": 59,
-    "id": "44557"
+    "id": "44557",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -53946,7 +53950,8 @@
     "name": "RIZZITANO, James A",
     "year": "1978-2017",
     "games": 46,
-    "id": "16822"
+    "id": "16822",
+    "synced": true
   },
   {
     "higestRating": 2378,
@@ -64440,7 +64445,8 @@
     "name": "ATLAS, Dimitry",
     "year": "1987-2017",
     "games": 34,
-    "id": "27162"
+    "id": "27162",
+    "synced": true
   },
   {
     "higestRating": 2257,
@@ -103655,7 +103661,8 @@
     "name": "RUANO, Lluis Casanellas",
     "year": "2007",
     "games": 1,
-    "id": "114375"
+    "id": "114375",
+    "synced": true
   },
   {
     "higestRating": 2340,

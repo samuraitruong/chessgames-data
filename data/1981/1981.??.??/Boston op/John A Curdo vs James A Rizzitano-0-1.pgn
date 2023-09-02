@@ -1,0 +1,14 @@
+[Event "Boston op"]
+[Site "Boston, MA"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "John A Curdo"]
+[Black "James A Rizzitano"]
+[ECO "B28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.e4 c5 2.Nf3 a6 3.c3 b5 4.d4 e6 5.a4 Bb7 6.d5 Qb6 7.axb5 axb5 8.Rxa8 Bxa8 9.Na3 Nf6 10.Bxb5 Nxe4 11.dxe6 fxe6 12.O-O Be7 13.Qa4 Bd5 14.Nc4 Qc7 15.Nce5 Nd6 16.Bd3 c4 17.Be2 O-O 18.Qd1 Rf5 19.Qd4 Bf6 20.g4 Rxe5 21.Nxe5 Nc6 22.Qd1 Nxe5 23.f4 Qb6+ 24.Rf2 Ne4 0-1

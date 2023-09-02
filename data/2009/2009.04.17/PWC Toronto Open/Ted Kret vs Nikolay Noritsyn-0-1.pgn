@@ -1,0 +1,14 @@
+[Event "PWC Toronto Open"]
+[Site "Toronto CAN"]
+[Date "2009.04.17"]
+[EventDate "2009.04.17"]
+[Round "1"]
+[Result "0-1"]
+[White "Ted Kret"]
+[Black "Nikolay Noritsyn"]
+[ECO "A31"]
+[WhiteElo "2117"]
+[BlackElo "2381"]
+[PlyCount "42"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 Nc6 5. g3 d6 6. Bg2 Bd7 7. O-O g6 8. Nc3 Bg7 9. h3 Nxd4 10. Qxd4 Qc8 11. Nd5 Bxh3 12. Bg5 Bxg2 13. Kxg2 Qc6 14. f3 e5 15. Bxf6 exd4 16. Bxg7 Rg8 17. Nf6+ Ke7 18. Nd5+ Ke6 19. Bxd4 Qxc4 20. Nf4+ Kd7 21. Rfd1 g5 0-1
