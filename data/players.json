@@ -5107,7 +5107,8 @@
     "name": "LOGINOV, Valery",
     "year": "1973-2022",
     "games": 694,
-    "id": "15148"
+    "id": "15148",
+    "synced": true
   },
   {
     "higestRating": 2595,
@@ -70926,7 +70927,8 @@
     "name": "MULET, Piotr",
     "year": "1990-2021",
     "games": 29,
-    "id": "60319"
+    "id": "60319",
+    "synced": true
   },
   {
     "higestRating": 2265,
