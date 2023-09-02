@@ -15437,7 +15437,8 @@
     "name": "THESING, Matthias",
     "year": "1982-2018",
     "games": 231,
-    "id": "25925"
+    "id": "25925",
+    "synced": true
   },
   {
     "higestRating": 2479,
@@ -17595,7 +17596,8 @@
     "name": "BULJOVCIC, Ivan",
     "year": "1959-2002",
     "games": 202,
-    "id": "25850"
+    "id": "25850",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -62222,7 +62224,8 @@
     "name": "IVANOV, Stojan Lubomirov",
     "year": "2006-2012",
     "games": 37,
-    "id": "126780"
+    "id": "126780",
+    "synced": true
   },
   {
     "higestRating": 2264,
@@ -64731,7 +64734,8 @@
     "name": "RADOCAJ, Denis",
     "year": "1994-2011",
     "games": 34,
-    "id": "55615"
+    "id": "55615",
+    "synced": true
   },
   {
     "higestRating": 2388,
