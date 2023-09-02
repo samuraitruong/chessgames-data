@@ -2081,7 +2081,8 @@
     "name": "JU, Wen",
     "year": "2004-2023",
     "games": 1217,
-    "id": "102346"
+    "id": "102346",
+    "synced": true
   },
   {
     "higestRating": 2600,
@@ -47446,7 +47447,8 @@
     "name": "RIVADENEIRA, Cristhian Barros",
     "year": "2010-2018",
     "games": 57,
-    "id": "134812"
+    "id": "134812",
+    "synced": true
   },
   {
     "higestRating": 2411,
@@ -84321,7 +84323,8 @@
     "name": "SCHULZ, Rainer",
     "year": "1987-1996",
     "games": 20,
-    "id": "18261"
+    "id": "18261",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -87288,7 +87291,8 @@
     "name": "DRAGANIC, Veljko",
     "year": "2002-2015",
     "games": 19,
-    "id": "76766"
+    "id": "76766",
+    "synced": true
   },
   {
     "higestRating": 2307,
@@ -100229,7 +100233,8 @@
     "name": "MOMIC, Milan",
     "year": "1955-1975",
     "games": 9,
-    "id": "79822"
+    "id": "79822",
+    "synced": true
   },
   {
     "higestRating": 2339,
