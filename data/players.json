@@ -18841,7 +18841,8 @@
     "name": "DIMITROV, Radoslav",
     "year": "2002-2023",
     "games": 187,
-    "id": "113933"
+    "id": "113933",
+    "synced": true
   },
   {
     "higestRating": 2578,
@@ -21114,7 +21115,8 @@
     "name": "GYORKOS, Lajos",
     "year": "1982-2005",
     "games": 163,
-    "id": "38734"
+    "id": "38734",
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -36500,7 +36502,8 @@
     "name": "DJUROVIC, Goran",
     "year": "2006-2017",
     "games": 82,
-    "id": "121261"
+    "id": "121261",
+    "synced": true
   },
   {
     "higestRating": 2537,
@@ -40809,7 +40812,8 @@
     "name": "SANTERAMO, Alessia",
     "year": "2012-2018",
     "games": 71,
-    "id": "137116"
+    "id": "137116",
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -70402,7 +70406,8 @@
     "name": "PORTER, Russel",
     "year": "1994-2010",
     "games": 29,
-    "id": "19899"
+    "id": "19899",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -88357,7 +88362,8 @@
     "name": "AGUILAR, Luis Miguel",
     "year": "2016-2018",
     "games": 19,
-    "id": "155293"
+    "id": "155293",
+    "synced": true
   },
   {
     "higestRating": 2370,
