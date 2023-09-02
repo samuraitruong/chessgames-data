@@ -8608,7 +8608,8 @@
     "name": "BOLBOCHAN, Julio",
     "year": "1941-1991",
     "games": 426,
-    "id": "18939"
+    "id": "18939",
+    "synced": true
   },
   {
     "higestRating": 2607,
@@ -39503,7 +39504,8 @@
     "name": "MICHALEK, Jan",
     "year": "1989-2019",
     "games": 73,
-    "id": "19796"
+    "id": "19796",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -72212,7 +72214,8 @@
     "name": "SHAMUGIA, Shavleg",
     "year": "2000-2007",
     "games": 28,
-    "id": "74503"
+    "id": "74503",
+    "synced": true
   },
   {
     "higestRating": 2204,
