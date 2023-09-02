@@ -9601,7 +9601,8 @@
     "name": "KOLBUS, Dietmar",
     "year": "1993-2023",
     "games": 388,
-    "id": "52151"
+    "id": "52151",
+    "synced": true
   },
   {
     "higestRating": 2603,
@@ -26949,7 +26950,8 @@
     "name": "ALLAN, Denis",
     "year": "1963-1999",
     "games": 118,
-    "id": "22415"
+    "id": "22415",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -49003,7 +49005,8 @@
     "name": "MERTANEN, Janne",
     "year": "1992-2022",
     "games": 54,
-    "id": "58730"
+    "id": "58730",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -67251,7 +67254,8 @@
     "name": "HARAZY, Khalid Al",
     "year": "1985-2022",
     "games": 32,
-    "id": "103574"
+    "id": "103574",
+    "synced": true
   },
   {
     "higestRating": 2387,
@@ -74409,7 +74413,8 @@
     "name": "PARFENOV, Vladislav",
     "year": "1994-1999",
     "games": 26,
-    "id": "12352"
+    "id": "12352",
+    "synced": true
   },
   {
     "higestRating": 2319,

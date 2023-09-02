@@ -1,0 +1,14 @@
+[Event "Amman tt"]
+[Site "Amman JOR"]
+[Date "2008.06.28"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Evgeny Gleizerov"]
+[Black "Al Harazy, Khalid"]
+[ECO "D08"]
+[WhiteElo "2556"]
+[BlackElo "2184"]
+[PlyCount "42"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.e4 Nc6 5.f4 g5 6.f5 Nxe5 7.Nf3 Bb4+ 8.Nbd2 Nxf3+ 9.Qxf3 g4 10.Qxg4 Nf6 11.Qh4 Bxf5 12.exf5 Qe7+ 13.Kd1 O-O-O 14.Bd3 Rhg8 15.Ne4 Nxe4 16.Qxe7 Nf2+ 17.Ke2 Nxd3 18.Qxd8+ Kxd8 19.Kxd3 Rxg2 20.Kxd4 Bd6 21.h3 1-0
