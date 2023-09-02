@@ -8478,7 +8478,8 @@
     "name": "DAS, Neelotpal",
     "year": "1992-2022",
     "games": 435,
-    "id": "49539"
+    "id": "49539",
+    "synced": true
   },
   {
     "higestRating": 2605,
@@ -14501,7 +14502,8 @@
     "name": "KOZAK, Adam",
     "year": "2012-2023",
     "games": 250,
-    "id": "140941"
+    "id": "140941",
+    "synced": true
   },
   {
     "higestRating": 2464,
@@ -36859,7 +36861,8 @@
     "name": "YAKSIN, Oleg",
     "year": "2006-2022",
     "games": 81,
-    "id": "110022"
+    "id": "110022",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -54200,7 +54203,8 @@
     "name": "SALOM, Juan Ramon Galiana",
     "year": "1991-2019",
     "games": 46,
-    "id": "53541"
+    "id": "53541",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -72724,7 +72728,8 @@
     "name": "MARKEVICH, Ilya",
     "year": "2009-2016",
     "games": 28,
-    "id": "124583"
+    "id": "124583",
+    "synced": true
   },
   {
     "higestRating": 2212,
@@ -89097,7 +89102,8 @@
     "name": "PERELSHTEYN, Mikhail",
     "year": "1977-2003",
     "games": 18,
-    "id": "53252"
+    "id": "53252",
+    "synced": true
   },
   {
     "higestRating": 2283,

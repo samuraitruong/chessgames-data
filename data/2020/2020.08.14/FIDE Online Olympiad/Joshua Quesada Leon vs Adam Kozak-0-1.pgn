@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.14"]
+[EventDate "2020.08.14"]
+[Round "1"]
+[Result "0-1"]
+[White "Joshua Quesada Leon"]
+[Black "Adam Kozak"]
+[ECO "C52"]
+[WhiteElo "1702"]
+[BlackElo "2438"]
+[Source "Chess-Results"]
+[PlyCount "44"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. Qb3 Qf6 8. O-O Bb6 9. e5 Qg6 10. Ba3 Nge7 11. Bb5 d6 12. exd6 cxd6 13. Bxc6+ bxc6 14. Re1 Be6 15. Qa4 O-O 16. Nxd4 Bd5 17. f3 Bxf3 18. g3 Nf5 19. Nd2 Bd5 20. Re2 Nxd4 21. cxd4 Qg4 22. Rae1 Bxd4+ 0-1
