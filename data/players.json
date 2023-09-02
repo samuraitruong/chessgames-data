@@ -4818,7 +4818,8 @@
     "name": "EVANS, Larry",
     "year": "1946-2002",
     "games": 724,
-    "id": "18982"
+    "id": "18982",
+    "synced": true
   },
   {
     "higestRating": 2562,
@@ -17073,7 +17074,8 @@
     "name": "KANMAZALP, Ogulcan",
     "year": "2004-2018",
     "games": 209,
-    "id": "118268"
+    "id": "118268",
+    "synced": true
   },
   {
     "higestRating": 2549,
@@ -17696,7 +17698,8 @@
     "name": "GERBER, Richard",
     "year": "1986-2018",
     "games": 201,
-    "id": "27496"
+    "id": "27496",
+    "synced": true
   },
   {
     "higestRating": 2522,
@@ -56691,7 +56694,8 @@
     "name": "POPOVICS, Adam",
     "year": "1997-2020",
     "games": 43,
-    "id": "71149"
+    "id": "71149",
+    "synced": true
   },
   {
     "higestRating": 2217,
@@ -92315,7 +92319,8 @@
     "name": "ARONOV, Yuri",
     "year": "1995-2011",
     "games": 17,
-    "id": "126849"
+    "id": "126849",
+    "synced": true
   },
   {
     "higestRating": 2298,
