@@ -8458,7 +8458,8 @@
     "name": "TOTH, Bela",
     "year": "1965-2014",
     "games": 435,
-    "id": "11709"
+    "id": "11709",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -48606,7 +48607,8 @@
     "name": "KOLLEN, Zyon",
     "year": "2010-2019",
     "games": 55,
-    "id": "131173"
+    "id": "131173",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -97034,7 +97036,8 @@
     "name": "TOMOV, Georgi",
     "year": "2006-2015",
     "games": 15,
-    "id": "106800"
+    "id": "106800",
+    "synced": true
   },
   {
     "higestRating": 2332,
