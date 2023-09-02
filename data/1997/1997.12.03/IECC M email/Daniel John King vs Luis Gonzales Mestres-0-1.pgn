@@ -1,0 +1,14 @@
+[Event "IECC M email"]
+[Site "IECC email"]
+[Date "1997.12.03"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Daniel John King"]
+[Black "Luis Gonzales Mestres"]
+[ECO "C45"]
+[WhiteElo "2517"]
+[BlackElo "2552"]
+[PlyCount "38"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 dxc6 6.Nd2 Bd6 7.Bd3 O-O 8.Nf3 Bb4+ 9.c3 Bc5 10.O-O b5 11.Qb3 Be6 12.Rd1 Bxb3 13.axb3 Ng4 14.Nd4 Qd6 15.f4 Bxd4+ 16.Kf1 Nxh2+ 17.Ke2 Qg6 18.e5 Qxg2+ 19.Ke1 Nf3# 0-1
