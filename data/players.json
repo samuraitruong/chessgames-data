@@ -15542,7 +15542,8 @@
     "name": "PODZIELNY, Karl-Heinz",
     "year": "1972-2016",
     "games": 230,
-    "id": "28052"
+    "id": "28052",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -23129,7 +23130,8 @@
     "name": "LIASCOVICH, Lucas",
     "year": "1998-2020",
     "games": 147,
-    "id": "69209"
+    "id": "69209",
+    "synced": true
   },
   {
     "higestRating": 2283,
@@ -36149,7 +36151,8 @@
     "name": "VAN DAEL, Siem",
     "year": "2017-2023",
     "games": 83,
-    "id": "158796"
+    "id": "158796",
+    "synced": true
   },
   {
     "higestRating": 2204,
@@ -40984,7 +40987,8 @@
     "name": "SHOVUNOV, Baatr",
     "year": "1994-2001",
     "games": 70,
-    "id": "25202"
+    "id": "25202",
+    "synced": true
   },
   {
     "higestRating": 2258,
@@ -67703,7 +67707,8 @@
     "name": "SABER, Yasser",
     "year": "2015-2018",
     "games": 32,
-    "id": "152315"
+    "id": "152315",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -82636,7 +82641,8 @@
     "name": "TERREAUX, Gilles",
     "year": "1980-2020",
     "games": 21,
-    "id": "28148"
+    "id": "28148",
+    "synced": true
   },
   {
     "higestRating": 2246,
