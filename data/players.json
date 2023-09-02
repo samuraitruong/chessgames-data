@@ -5222,7 +5222,8 @@
     "name": "SCHLOSSER, Philipp",
     "year": "1986-2018",
     "games": 685,
-    "id": "11689"
+    "id": "11689",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -23841,7 +23842,8 @@
     "name": "LAZAREV, Efim",
     "year": "1951-1993",
     "games": 140,
-    "id": "37196"
+    "id": "37196",
+    "synced": true
   },
   {
     "higestRating": 2380,
