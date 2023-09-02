@@ -5252,7 +5252,8 @@
     "name": "SYCHEV, Klementy",
     "year": "2007-2023",
     "games": 681,
-    "id": "141633"
+    "id": "141633",
+    "synced": true
   },
   {
     "higestRating": 2620,
@@ -19219,7 +19220,8 @@
     "name": "ZAKURDJAEVA, Irina",
     "year": "1997-2019",
     "games": 182,
-    "id": "51602"
+    "id": "51602",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -21884,7 +21886,8 @@
     "name": "NURKIC, Sahbaz",
     "year": "1981-2011",
     "games": 156,
-    "id": "29127"
+    "id": "29127",
+    "synced": true
   },
   {
     "higestRating": 2516,
@@ -63389,7 +63392,8 @@
     "name": "DAMIANOU, Ioannis",
     "year": "2017-2022",
     "games": 36,
-    "id": "158992"
+    "id": "158992",
+    "synced": true
   },
   {
     "higestRating": 2279,
@@ -82294,7 +82298,8 @@
     "name": "NIELSEN, Viktor Haarmark",
     "year": "2015-2022",
     "games": 22,
-    "id": "153177"
+    "id": "153177",
+    "synced": true
   },
   {
     "higestRating": 2297,
