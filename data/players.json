@@ -7029,7 +7029,8 @@
     "name": "MCDONALD, Neil",
     "year": "1984-2022",
     "games": 515,
-    "id": "27732"
+    "id": "27732",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -91648,7 +91649,8 @@
     "name": "GNUSAREV, Petr",
     "year": "1997-2007",
     "games": 17,
-    "id": "88640"
+    "id": "88640",
+    "synced": true
   },
   {
     "higestRating": 2249,
@@ -101521,7 +101523,8 @@
     "name": "BOGNER, Harold",
     "year": "1981-1992",
     "games": 6,
-    "id": "98587"
+    "id": "98587",
+    "synced": true
   },
   {
     "higestRating": 2336,
