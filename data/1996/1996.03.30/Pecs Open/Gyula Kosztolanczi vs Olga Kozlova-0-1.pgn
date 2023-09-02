@@ -1,0 +1,14 @@
+[Event "Pecs Open"]
+[Site "Pecs HUN"]
+[Date "1996.04.02"]
+[EventDate "1996.03.30"]
+[Round "5"]
+[Result "0-1"]
+[White "Gyula Kosztolanczi"]
+[Black "Olga Kozlova"]
+[ECO "C69"]
+[WhiteElo "2205"]
+[BlackElo "2055"]
+[PlyCount "40"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Qe7 6.d4 exd4 7.Qxd4 Bg4 8.Nbd2 h5 9.Qe5 O-O-O 10.Qxe7 Bxe7 11.Ne5 Nh6 12.Nb3 Bf6 13.Nxg4 hxg4 14.c3 Be5 15.f4 gxf3 16.gxf3 Rd6 17.Rf2 Rd1+ 18.Kg2 Nf5 19.f4 Nh4+ 20.Kh3 Rg1 0-1
