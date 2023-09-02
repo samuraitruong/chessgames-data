@@ -4487,7 +4487,8 @@
     "name": "KROGIUS, Nikolai",
     "year": "1945-1998",
     "games": 763,
-    "id": "30026"
+    "id": "30026",
+    "synced": true
   },
   {
     "higestRating": 2595,
@@ -80561,7 +80562,8 @@
     "name": "MAROSI, Levente",
     "year": "2014-2019",
     "games": 23,
-    "id": "150470"
+    "id": "150470",
+    "synced": true
   },
   {
     "higestRating": 2284,
@@ -82091,7 +82093,8 @@
     "name": "KARGER, Frank",
     "year": "2004-2016",
     "games": 22,
-    "id": "136162"
+    "id": "136162",
+    "synced": true
   },
   {
     "higestRating": 2308,
