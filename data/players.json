@@ -54,7 +54,8 @@
     "name": "TIMMAN, Jan",
     "year": "1963-2020",
     "games": 3644,
-    "id": "14220"
+    "id": "14220",
+    "synced": true
   },
   {
     "higestRating": 2814,
@@ -48456,7 +48457,8 @@
     "name": "SLABY, Jerzy",
     "year": "2001-2011",
     "games": 55,
-    "id": "54505"
+    "id": "54505",
+    "synced": true
   },
   {
     "higestRating": 2389,
@@ -80849,7 +80851,8 @@
     "name": "PONS, Carlos Luis  Pastor",
     "year": "1990-1996",
     "games": 23,
-    "id": "174412"
+    "id": "174412",
+    "synced": true
   },
   {
     "higestRating": 2367,
