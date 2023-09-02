@@ -2146,7 +2146,8 @@
     "name": "FEDOROWICZ, John",
     "year": "1974-2021",
     "games": 1203,
-    "id": "14905"
+    "id": "14905",
+    "synced": true
   },
   {
     "higestRating": 2679,
@@ -28790,7 +28791,8 @@
     "name": "WAGEIH, Kareim",
     "year": "2003-2023",
     "games": 110,
-    "id": "120052"
+    "id": "120052",
+    "synced": true
   },
   {
     "higestRating": 2453,
@@ -40489,7 +40491,8 @@
     "name": "KUJOVIC, Michal",
     "year": "1995-2011",
     "games": 71,
-    "id": "51591"
+    "id": "51591",
+    "synced": true
   },
   {
     "higestRating": 2338,
@@ -60874,7 +60877,8 @@
     "name": "KOKOLIAS, Konstantinos",
     "year": "2001-2019",
     "games": 38,
-    "id": "54390"
+    "id": "54390",
+    "synced": true
   },
   {
     "higestRating": 2302,
@@ -61270,7 +61274,8 @@
     "name": "BERNSTEIN, Yaacov",
     "year": "1967-1976",
     "games": 38,
-    "id": "115629"
+    "id": "115629",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -62492,7 +62497,8 @@
     "name": "SIRKIA, Mauri Olavi",
     "year": "1966-1978",
     "games": 36,
-    "id": "48172"
+    "id": "48172",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -102931,7 +102937,8 @@
     "name": "BIRKE, Matthias",
     "year": "1985-1988",
     "games": 2,
-    "id": "80280"
+    "id": "80280",
+    "synced": true
   },
   {
     "higestRating": 2239,

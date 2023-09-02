@@ -1,0 +1,15 @@
+[Event "77th US Open"]
+[Site "Fairfax, VA USA"]
+[Date "1976.08.27"]
+[EventDate "?"]
+[Round "12"]
+[Result "0-1"]
+[White "Peter Thompson"]
+[Black "John Fedorowicz"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Life, Nov 1976, p.612"]
+[PlyCount "42"]
+
+1.e4 c5 2.c3 g6 3.d4 cxd4 4.cxd4 d5 5.exd5 Nf6 6.Bb5+ Nbd7 7.d6 e6 8.Nc3 Bxd6 9.Bh6 a6 10.Ba4 b5 11.Bb3 Bb7 12.d5 Nc5 13.dxe6 Bxg2 14.Bg7 Bxh1 15. Bxh8 Nfe4 16.exf7+ Kd7 17.Nxe4 Bxe4 18.Bg7 Nd3+ 19.Kf1 Qh4 20.Qe2 Bg2+ 21. Kxg2 Nf4+ 0-1
