@@ -9328,7 +9328,8 @@
     "name": "ISKUSNYH, Sergei",
     "year": "1991-2023",
     "games": 397,
-    "id": "18300"
+    "id": "18300",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -45770,7 +45771,8 @@
     "name": "HALLDORSSON, Halldor B",
     "year": "2000-2017",
     "games": 60,
-    "id": "56542"
+    "id": "56542",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -56512,7 +56514,8 @@
     "name": "LHAGVA, Jambaldoo",
     "year": "1968-2009",
     "games": 43,
-    "id": "38586"
+    "id": "38586",
+    "synced": true
   },
   {
     "higestRating": 2464,
@@ -58637,7 +58640,8 @@
     "name": "KOCHEEV, Aleksandr",
     "year": "2008-2017",
     "games": 41,
-    "id": "120030"
+    "id": "120030",
+    "synced": true
   },
   {
     "higestRating": 2208,
@@ -59924,7 +59928,8 @@
     "name": "BREDEWOUT, Henk",
     "year": "1960-1969",
     "games": 39,
-    "id": "25430"
+    "id": "25430",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -73782,7 +73787,8 @@
     "name": "BORSUK, Konstantin",
     "year": "2001-2021",
     "games": 27,
-    "id": "71530"
+    "id": "71530",
+    "synced": true
   },
   {
     "higestRating": 2423,
@@ -84485,7 +84491,8 @@
     "name": "GRYNSZPAN, Mariano",
     "year": "1985-1999",
     "games": 20,
-    "id": "28161"
+    "id": "28161",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -93372,7 +93379,8 @@
     "name": "MERTINS, Klaus",
     "year": "1978-1993",
     "games": 16,
-    "id": "41984"
+    "id": "41984",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -98113,7 +98121,8 @@
     "name": "FERNANDEZ, Antonio Ayas",
     "year": "1995-2014",
     "games": 14,
-    "id": "55399"
+    "id": "55399",
+    "synced": true
   },
   {
     "higestRating": 2230,
