@@ -366,7 +366,8 @@
     "name": "BACROT, Etienne",
     "year": "1992-2023",
     "games": 2330,
-    "id": "29565"
+    "id": "29565",
+    "synced": true
   },
   {
     "higestRating": 2658,
@@ -78791,7 +78792,8 @@
     "name": "KURAYAN, Ruslan",
     "year": "2007-2018",
     "games": 24,
-    "id": "113388"
+    "id": "113388",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -99663,7 +99665,8 @@
     "name": "FERNANDEZ, Ramon A Hernandez",
     "year": "2007-2014",
     "games": 11,
-    "id": "145717"
+    "id": "145717",
+    "synced": true
   },
   {
     "higestRating": 2417,
