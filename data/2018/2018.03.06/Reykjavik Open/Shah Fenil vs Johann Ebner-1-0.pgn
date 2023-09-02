@@ -1,0 +1,14 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2018.03.06"]
+[EventDate "2018.03.06"]
+[Round "1.47"]
+[Result "1-0"]
+[White "Shah Fenil"]
+[Black "Johann Ebner"]
+[ECO "C10"]
+[WhiteElo "2346"]
+[BlackElo "2070"]
+[PlyCount "43"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 c5 8. Be3 Qc7 9. Qe2 Bd6 10. O-O-O Bd7 11. dxc5 Bxc5 12. Bxc5 Qxc5 13. Ne5 Ke7 14. Rhe1 Bc6 15. f4 Bd5 16. Kb1 g6 17. c4 Bc6 18. Bxg6 hxg6 19. Nxg6+ Ke8 20. Nxh8 Be4+ 21. Ka1 Ke7 22. g4 1-0
