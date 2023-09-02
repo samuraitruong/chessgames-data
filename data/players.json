@@ -8346,7 +8346,8 @@
     "name": "GUNNARSSON, Jon Viktor",
     "year": "1990-2018",
     "games": 444,
-    "id": "36650"
+    "id": "36650",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -37594,7 +37595,8 @@
     "name": "STORME, Isak",
     "year": "2015-2022",
     "games": 79,
-    "id": "154107"
+    "id": "154107",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -93973,7 +93975,8 @@
     "name": "PUSCH, Hermann",
     "year": "1988-2001",
     "games": 16,
-    "id": "67768"
+    "id": "67768",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -98925,7 +98928,8 @@
     "name": "GLORIA, Eric",
     "year": "1988-1993",
     "games": 12,
-    "id": "47297"
+    "id": "47297",
+    "synced": true
   },
   {
     "higestRating": 2315,

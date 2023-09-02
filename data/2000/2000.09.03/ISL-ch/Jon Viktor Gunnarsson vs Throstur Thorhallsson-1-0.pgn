@@ -1,14 +1,14 @@
 [Event "ISL-ch"]
-[Site "Kopavogur"]
+[Site "Kopavogur ISL"]
 [Date "2000.09.03"]
 [EventDate "?"]
-[Round "4.7"]
+[Round "4.6"]
 [Result "1-0"]
 [White "Jon Viktor Gunnarsson"]
 [Black "Throstur Thorhallsson"]
-[ECO "C14"]
+[ECO "C11"]
 [WhiteElo "2368"]
 [BlackElo "2454"]
-[PlyCount "108"]
+[PlyCount "69"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3 c5 9. Qd2 Nc6 10. O-O-O b5 11. dxc5 Qxc5 12. Bd3 b4 13. Ne2 a5 14. Kb1 Ba6 15. h4 a4 16. Bxa6 Rxa6 17. Qd3 Rb6 18. Rh3 Qa5 19. Nfd4 Nxd4 20. Nxd4 Nc5 21. Qg3 O-O 22. f5 Ne4 23. Qe1 exf5 24. Nxf5 Kh8 25. Rhd3 Rb5 26. Nd4 Rc5 27. e6 Qc7 28. Qxb4 Nf2 29. Rc3 Nxd1 30. Rxc5 Qd8 31. Rxd5 Qc8 32. e7 Rg8 33. Qd2 Qb7 34. Rb5 Qxe7 35. Qxd1 Qxh4 36. Rh5 Qf6 37. Rf5 Qd6 38. Rxf7 Rd8 39. Rf3 h6 40. Rd3 Re8 41. Nf3 Qg3 42. Rd8 Rxd8 43. Qxd8+ Kh7 44. Qd3+ Kh8 45. Qe2 Qg4 46. a3 Qf4 47. Qe5 Qc4 48. Qe8+ Kh7 49. Nd2 Qa6 50. Qe4+ Kh8 51. c4 Qd6 52. Qd5 Qg6+ 53. Ka2 Qc2 54. Qa8+ 1-0
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 a6 8.Qd2 cxd4 9.Nxd4 Bc5 10.Be2 Nxd4 11.Bxd4 b5 12.O-O-O Qa5 13.f5 Bxd4 14.Qxd4 b4 15.fxe6 fxe6 16.Nxd5 exd5 17.Bh5+ Kd8 18.e6 Nf6 19.Qe5 Ke7 20.Rhf1 Bb7 21.Qg5 Rhg8 22.Bf7 Qd8 23.Rf5 h6 24.Qg6 Rc8 25.Rdf1 d4 26.Rxf6 Be4 27.Qxe4 gxf6 28.Bxg8 Qxg8 29.Qb7+ Kxe6 30.Re1+ Kf5 31.Qe4+ Kg5 32.h4+ Kh5 33.Qf5+ Kxh4 34.Rh1+ Kg3 35.Qf3# 1-0
