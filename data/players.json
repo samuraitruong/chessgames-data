@@ -12160,7 +12160,8 @@
     "name": "BUCKLEY, Graeme N",
     "year": "1987-2023",
     "games": 301,
-    "id": "25059"
+    "id": "25059",
+    "synced": true
   },
   {
     "higestRating": 2529,
@@ -14732,7 +14733,8 @@
     "name": "JEREZ, Jose Carlos Ibarra",
     "year": "1999-2023",
     "games": 246,
-    "id": "50564"
+    "id": "50564",
+    "synced": true
   },
   {
     "higestRating": 2567,
@@ -63101,7 +63103,8 @@
     "name": "KLIMAKOVS, Sergejs",
     "year": "2005-2018",
     "games": 36,
-    "id": "107290"
+    "id": "107290",
+    "synced": true
   },
   {
     "higestRating": 2222,
@@ -103146,7 +103149,8 @@
     "name": "SOLE, Jordi Garriga",
     "year": "1995-1997",
     "games": 2,
-    "id": "64058"
+    "id": "64058",
+    "synced": true
   },
   {
     "higestRating": 2215,
