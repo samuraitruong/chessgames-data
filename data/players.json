@@ -4258,7 +4258,8 @@
     "name": "ADLY, Ahmed",
     "year": "1997-2023",
     "games": 790,
-    "id": "49127"
+    "id": "49127",
+    "synced": true
   },
   {
     "higestRating": 2524,
@@ -13524,7 +13525,8 @@
     "name": "DIERMAIR, Andreas",
     "year": "2000-2023",
     "games": 268,
-    "id": "54628"
+    "id": "54628",
+    "synced": true
   },
   {
     "higestRating": 2548,
@@ -41749,7 +41751,8 @@
     "name": "KUSHCH, Nikolai",
     "year": "1990-2007",
     "games": 68,
-    "id": "10830"
+    "id": "10830",
+    "synced": true
   },
   {
     "higestRating": 2439,
@@ -59895,7 +59898,8 @@
     "name": "SEVILLANO, Gustavo Rafael Hernandez",
     "year": "1988-2008",
     "games": 39,
-    "id": "16363"
+    "id": "16363",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -61913,7 +61917,8 @@
     "name": "CIGANOVIC, Nikola",
     "year": "2001-2017",
     "games": 37,
-    "id": "55672"
+    "id": "55672",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -63746,7 +63751,8 @@
     "name": "BACHMANN, Andreas",
     "year": "1972-2008",
     "games": 35,
-    "id": "52945"
+    "id": "52945",
+    "synced": true
   },
   {
     "higestRating": 2378,
