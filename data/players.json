@@ -13504,7 +13504,8 @@
     "name": "DARINI, Pouria",
     "year": "2006-2023",
     "games": 268,
-    "id": "103177"
+    "id": "103177",
+    "synced": true
   },
   {
     "higestRating": 2347,
@@ -14467,7 +14468,8 @@
     "name": "ZDEBSKAJA, Natalia",
     "year": "1996-2010",
     "games": 250,
-    "id": "50278"
+    "id": "50278",
+    "synced": true
   },
   {
     "higestRating": 2544,
@@ -77785,7 +77787,8 @@
     "name": "TITENKO, Vladimir F",
     "year": "1960-1971",
     "games": 24,
-    "id": "21186"
+    "id": "21186",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -94918,7 +94921,8 @@
     "name": "NETO, Jose Luis Cominato",
     "year": "2000-2023",
     "games": 16,
-    "id": "125437"
+    "id": "125437",
+    "synced": true
   },
   {
     "higestRating": 2315,
