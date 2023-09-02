@@ -8827,7 +8827,8 @@
     "name": "PAIKIDZE, Nazi",
     "year": "2003-2023",
     "games": 417,
-    "id": "114150"
+    "id": "114150",
+    "synced": true
   },
   {
     "higestRating": 2552,
@@ -12639,7 +12640,8 @@
     "name": "HEINEMANN, Thies",
     "year": "1986-2022",
     "games": 289,
-    "id": "29114"
+    "id": "29114",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -62752,7 +62754,8 @@
     "name": "SCHUH, Dirk",
     "year": "1999-2019",
     "games": 36,
-    "id": "56201"
+    "id": "56201",
+    "synced": true
   },
   {
     "higestRating": 2300,

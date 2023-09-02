@@ -1,0 +1,14 @@
+[Event "Bundesliga 2006/07"]
+[Site "GER"]
+[Date "2007.02.03"]
+[EventDate "?"]
+[Round "8.7"]
+[Result "1-0"]
+[White "Thies Heinemann"]
+[Black "Torsten Sarbok"]
+[ECO "B13"]
+[WhiteElo "2453"]
+[BlackElo "2325"]
+[PlyCount "41"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 g6 6.Bf4 Bg7 7.Nf3 a6 8.O-O Bg4 9.Nbd2 Bxf3 10.Nxf3 e6 11.Re1 Nge7 12.h4 h5 13.Ng5 Nf5 14.Bxf5 gxf5 15.Qd3 Qf6 16.Qf3 Rd8 17.Re3 Qg6 18.Qe2 Kf8 19.Re1 Bh6 20.Nxe6+ fxe6 21.Rxe6 1-0
