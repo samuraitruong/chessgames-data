@@ -1,0 +1,14 @@
+[Event "MI Exhibition Game"]
+[Site "San Francisco"]
+[Date "2000.07.26"]
+[EventDate "2000.10.23"]
+[Round "?"]
+[Result "0-1"]
+[White "Suat Atalik"]
+[Black "Alexey Vladislavovich Yermolinsky"]
+[ECO "A70"]
+[WhiteElo "2549"]
+[BlackElo "2596"]
+[PlyCount "78"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. e4 a6 8. Bd3 $5 (8. a4 Bg4 9. Qb3 Bxf3 10. Qxb7 Bxg2 11. Bxg2 Nbd7 $13) b5 9. h3 (9. O-O Bg4 $1) Bg7 10. O-O O-O 11. Re1 Nbd7 ( Re8 12. a3 Nbd7 13. Bf4 ) 12. Bf4 Nb6 $5 ( Qb6 13. a4 b4 14. a5 Qc7 15. Na4 $14) 13. a3 Re8 14. Rc1 $6 (14. Qd2 Bb7 15. Bg5 ) (14. b4 $2 cxb4 15. axb4 Nh5 16. Bd2 Nf4 17. Bf1 Nc4 $40) Bb7 15. b4 Rc8 16. Qd2 (16. bxc5 Rxc5 17. Be3 Rxc3 18. Rxc3 Nfxd5 19. Rc2 $8 (19. Rc1 $2 Nxe3 20. Rxe3 Bh6) (19. Bxb6 $2 Nxc3 20. Bxd8 Nxd1 $19) Nxe3 ( Nc3 20. Qc1 Nba4 21. Bd4) 20. Rxe3 Na4 $40) cxb4 17. axb4 Nc4 18. Qa2 Nh5 19. Bh2 f5 $5 ( Qb6 20. Na4 bxa4 21. Bxc4 Qxb4 22. e5 $44 ) 20. exf5 Rxe1+ 21. Nxe1 Qg5 22. Ne2 Re8 ( Bxd5 $2 23. Qxa6 $18) 23. Nf3 $1 (23. Bxc4 bxc4 ( Rxe2 $2 24. Qxe2 Qxc1 25. Qe6+ $1 ) 24. Qxc4 Qd2 25. Kf1 $13) (23. f4 $2 Qe7 24. fxg6 Qe3+ 25. Kh1 Qxc1 $3 26. Nxc1 Rxe1+ 27. Bg1 Rxc1 28. gxh7+ Kh8 ) Rxe2 24. Qb1 Qe7 $5 ( Qh6 25. Rxc4 (25. Bxe2 $2 Na3 26. Qe4 Qxc1+ 27. Bf1 Qc8 $19) Rb2 26. Qe1 bxc4 27. Qe6+ Kh8 28. Qe8+ Bf8 29. Bxd6 $40) 25. Bxe2 Qxe2 26. Re1 Nd2 $8 ( Qb2 $2 27. Re8+ Kf7 28. Qe1 Ne5 29. Nxe5+ Bxe5 ( Kxe8 $2 30. Nd3+) 30. Bxe5 dxe5 31. Rxe5 $18) 27. Rxe2 $1 (27. Nxd2 Qxd2 28. Qe4 Qxd5 ) Nxb1 28. Bxd6 $2 (28. Re8+ $1 Kf7 29. Re1 Nc3 30. Ng5+ Kf6 31. Nxh7+ Kf7 32. Re6 $1 $16) Nf6 $1 ( Bxd5 $2 29. Re8+ Kf7 30. Re7+ Kf6 31. Ne5 gxf5 32. g4 $18) 29. fxg6 hxg6 30. Nh4 Nxd5 $1 ( Nc3 31. Re7 Bf8 32. Rxb7 Bxd6 33. Nxg6 ) 31. Nxg6 Nbc3 32. Re8+ Kf7 33. Rb8 Bc6 34. Ne5+ Ke6 $1 ( Bxe5 $2 35. Bxe5 ) 35. Nxc6 Kxd6 36. Na5 $1 Nxb4 37. h4 Ne4 38. g4 (38. h5 Nf6 39. g4 $1 $16) Bd4 39. Kg2 $138 (39. Kg2 Nxf2 40. Rd8+ Ke5 41. Rxd4 Kxd4 42. Kxf2 ) 0-1

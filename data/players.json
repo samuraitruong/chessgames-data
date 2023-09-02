@@ -1719,7 +1719,8 @@
     "name": "YERMOLINSKY, Alex",
     "year": "1973-2022",
     "games": 1329,
-    "id": "12166"
+    "id": "12166",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -46582,7 +46583,8 @@
     "name": "MEDUNOVA, Vera",
     "year": "1991-2016",
     "games": 58,
-    "id": "50876"
+    "id": "50876",
+    "synced": true
   },
   {
     "higestRating": 2305,
