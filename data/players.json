@@ -11650,7 +11650,8 @@
     "name": "RABIEGA, Robert",
     "year": "1986-2017",
     "games": 314,
-    "id": "17878"
+    "id": "17878",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -13940,7 +13941,8 @@
     "name": "KRYSA, Leandro",
     "year": "2008-2022",
     "games": 260,
-    "id": "118602"
+    "id": "118602",
+    "synced": true
   },
   {
     "higestRating": 2522,
@@ -56694,7 +56696,8 @@
     "name": "BOTVINNIK, Irina",
     "year": "1999-2010",
     "games": 43,
-    "id": "65400"
+    "id": "65400",
+    "synced": true
   },
   {
     "higestRating": 2387,
@@ -82758,7 +82761,8 @@
     "name": "HILLYARD, Graham D",
     "year": "1977-1979",
     "games": 21,
-    "id": "48645"
+    "id": "48645",
+    "synced": true
   },
   {
     "higestRating": 2304,
