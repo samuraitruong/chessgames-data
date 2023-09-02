@@ -12025,7 +12025,8 @@
     "name": "WAITZKIN, Joshua",
     "year": "1985-1999",
     "games": 303,
-    "id": "17030"
+    "id": "17030",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -20233,7 +20234,8 @@
     "name": "SUKHAREVA, Evgeniya",
     "year": "2010-2018",
     "games": 172,
-    "id": "125264"
+    "id": "125264",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -32287,7 +32289,8 @@
     "name": "MOLES, John",
     "year": "1966-1973",
     "games": 95,
-    "id": "21457"
+    "id": "21457",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -66924,7 +66927,8 @@
     "name": "VOLTOLINI, Giuseppe",
     "year": "1983-2004",
     "games": 32,
-    "id": "55437"
+    "id": "55437",
+    "synced": true
   },
   {
     "higestRating": 2319,
