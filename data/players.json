@@ -8599,7 +8599,8 @@
     "name": "KER, Anthony F",
     "year": "1981-2023",
     "games": 430,
-    "id": "14539"
+    "id": "14539",
+    "synced": true
   },
   {
     "higestRating": 2475,
@@ -26262,7 +26263,8 @@
     "name": "DE FILOMENO, Simone",
     "year": "2006-2022",
     "games": 123,
-    "id": "118187"
+    "id": "118187",
+    "synced": true
   },
   {
     "higestRating": 2406,
