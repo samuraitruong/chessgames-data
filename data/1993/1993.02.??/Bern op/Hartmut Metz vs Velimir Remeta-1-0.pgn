@@ -1,0 +1,14 @@
+[Event "Bern op"]
+[Site "Bern SUI"]
+[Date "1993.02.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Hartmut Metz"]
+[Black "Velimir Remeta"]
+[ECO "C18"]
+[WhiteElo "2270"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 c5 7.Qg4 O-O 8.Bd3 Nbc6 9.Nf3 f6 10.Bh6 Rf7 11.exf6 e5 12.Bxh7+ Kxh7 13.Ng5+ Kg6 14.Ne6+ Kh7 15.Bxg7 Kg8 16.Qh5 Rxg7 17.Nxd8 Nxd8 18.Qe8+ Kh7 19.fxe7 Nf7 20.Qxf7 1-0
