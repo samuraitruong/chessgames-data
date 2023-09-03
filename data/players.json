@@ -13253,7 +13253,8 @@
     "name": "STEADMAN, Michael",
     "year": "1977-2023",
     "games": 275,
-    "id": "52173"
+    "id": "52173",
+    "synced": true
   },
   {
     "higestRating": 2614,
@@ -34946,7 +34947,8 @@
     "name": "MARGOLIN, Boris",
     "year": "1991-2019",
     "games": 86,
-    "id": "17858"
+    "id": "17858",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -42357,7 +42359,8 @@
     "name": "BERTHELOT, Yannick",
     "year": "1974-2011",
     "games": 67,
-    "id": "30787"
+    "id": "30787",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -60475,7 +60478,8 @@
     "name": "ALAVERDYAN, Gevorg",
     "year": "2000-2021",
     "games": 39,
-    "id": "106307"
+    "id": "106307",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -77313,7 +77317,8 @@
     "name": "TRIFONOV, Denis",
     "year": "2005-2015",
     "games": 25,
-    "id": "99373"
+    "id": "99373",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -96694,7 +96699,8 @@
     "name": "BACHMAYR, Peter",
     "year": "1986-2000",
     "games": 15,
-    "id": "66775"
+    "id": "66775",
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -99421,7 +99427,8 @@
     "name": "ELISEEV, Evgeniy",
     "year": "2016-2023",
     "games": 12,
-    "id": "158092"
+    "id": "158092",
+    "synced": true
   },
   {
     "higestRating": 2397,
