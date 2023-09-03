@@ -3066,7 +3066,8 @@
     "name": "NI, Hua",
     "year": "1995-2023",
     "games": 1000,
-    "id": "51556"
+    "id": "51556",
+    "synced": true
   },
   {
     "higestRating": 2615,
@@ -17995,7 +17996,8 @@
     "name": "WERLE, Iozefina",
     "year": "2001-2020",
     "games": 198,
-    "id": "54888"
+    "id": "54888",
+    "synced": true
   },
   {
     "higestRating": 2502,
@@ -33794,7 +33796,8 @@
     "name": "KOCH, Thomas",
     "year": "1989-2021",
     "games": 90,
-    "id": "37969"
+    "id": "37969",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -74971,7 +74974,8 @@
     "name": "SHOVEL, Kenneth",
     "year": "1981-1986",
     "games": 26,
-    "id": "43917"
+    "id": "43917",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -97946,7 +97950,8 @@
     "name": "BURIC, Danijel",
     "year": "1996-2009",
     "games": 15,
-    "id": "141779"
+    "id": "141779",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -99657,7 +99662,8 @@
     "name": "SALOKANGAS, Hannu",
     "year": "1986-2003",
     "games": 11,
-    "id": "69685"
+    "id": "69685",
+    "synced": true
   },
   {
     "higestRating": 2370,

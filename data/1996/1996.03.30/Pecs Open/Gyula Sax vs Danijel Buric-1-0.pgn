@@ -1,0 +1,14 @@
+[Event "Pecs Open"]
+[Site "Pecs HUN"]
+[Date "1996.03.30"]
+[EventDate "1996.03.30"]
+[Round "1"]
+[Result "1-0"]
+[White "Gyula Sax"]
+[Black "Danijel Buric"]
+[ECO "B05"]
+[WhiteElo "2540"]
+[BlackElo "2260"]
+[PlyCount "36"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.c4 Nb6 6.Be2 c6 7.exd6 Bxf3 8.Bxf3 Nxc4 9.dxe7 Qxe7+ 10.Kf1 Nd7 11.Nc3 Ndb6 12.b3 Nd6 13.Bf4 O-O-O 14.d5 g5 15.Be3 Bg7 16.Qe1 Rhe8 17.dxc6 Kb8 18.cxb7 1-0
