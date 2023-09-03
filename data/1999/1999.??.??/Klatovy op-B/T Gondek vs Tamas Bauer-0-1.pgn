@@ -1,0 +1,14 @@
+[Event "Klatovy op-B"]
+[Site "Klatovy CZE"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6330"]
+[Result "0-1"]
+[White "T Gondek"]
+[Black "Tamas Bauer"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "2634"]
+[PlyCount "64"]
+
+1.e4 d6 2.Nc3 g6 3.Nf3 Bg7 4.d4 Nf6 5.Bc4 O-O 6.Bf4 c6 7.d5 Qa5 8.O-O b5 9.e5 bxc4 10.exf6 Bxf6 11.Ne4 Bxb2 12.Nfg5 Bxa1 13.Qxa1 cxd5 14.Qd4 dxe4 15.Bd2 Nc6 16.Qe3 Qc5 17.Qc3 d5 18.Qg3 f6 19.Nxh7 Kxh7 20.Qh4+ Kg8 21.Qh6 Ne5 22.Bf4 Rf7 23.Qh4 Rh7 24.Bh6 Ng4 25.Qg3 Rxh6 26.h3 Nxf2 27.Rxf2 e3 28.Re2 d4 29.Qf4 Rh5 30.g4 Rxh3 31.g5 Qd5 32.gxf6 Qh1# 0-1
