@@ -10395,7 +10395,8 @@
     "name": "MATLAK, Marek",
     "year": "1984-2008",
     "games": 358,
-    "id": "21341"
+    "id": "21341",
+    "synced": true
   },
   {
     "higestRating": 2443,
@@ -34144,7 +34145,8 @@
     "name": "OREL, Oskar",
     "year": "1978-2005",
     "games": 89,
-    "id": "80718"
+    "id": "80718",
+    "synced": true
   },
   {
     "higestRating": 2439,
@@ -42946,7 +42948,8 @@
     "name": "ASYLGUZHIN, Radik",
     "year": "1999-2004",
     "games": 66,
-    "id": "58090"
+    "id": "58090",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -44954,7 +44957,8 @@
     "name": "SABIROVA, Olga",
     "year": "1996-2014",
     "games": 62,
-    "id": "89005"
+    "id": "89005",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -47350,7 +47354,8 @@
     "name": "ZUNKER, Reinhard",
     "year": "1972-2017",
     "games": 57,
-    "id": "73898"
+    "id": "73898",
+    "synced": true
   },
   {
     "higestRating": 2561,
@@ -65572,7 +65577,8 @@
     "name": "STEPHAN, Victor",
     "year": "2011-2021",
     "games": 34,
-    "id": "145253"
+    "id": "145253",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -66719,7 +66725,8 @@
     "name": "BAUER, Thomas",
     "year": "2017-2022",
     "games": 33,
-    "id": "157765"
+    "id": "157765",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -75368,7 +75375,8 @@
     "name": "WHEELER, Darren P",
     "year": "2002-2018",
     "games": 26,
-    "id": "83106"
+    "id": "83106",
+    "synced": true
   },
   {
     "higestRating": 2388,
@@ -98148,7 +98156,8 @@
     "name": "LLAVANES, Ronald",
     "year": "1996-2014",
     "games": 15,
-    "id": "187293"
+    "id": "187293",
+    "synced": true
   },
   {
     "higestRating": 2249,

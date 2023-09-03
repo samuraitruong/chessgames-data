@@ -1,0 +1,15 @@
+[Event "Moscow Olympiad"]
+[Site "Moscow RUS"]
+[Date "1994.12.01"]
+[EventDate "1994.12.01"]
+[Round "1"]
+[Result "0-1"]
+[White "Renos Melas"]
+[Black "Marek Matlak"]
+[ECO "D45"]
+[WhiteElo "?"]
+[BlackElo "2490"]
+[Source "Olimpbase"]
+[PlyCount "44"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 Nf6 5.Qc2 Nbd7 6.Nf3 Bd6 7.b3 O-O 8.Bb2 Qe7 9.Bd3 dxc4 10.bxc4 e5 11.d5 Nc5 12.e4 Nh5 13.Ne2 Bd7 14.O-O cxd5 15.cxd5 Rac8 16.Qb1 f5 17.Nd2 f4 18.f3 b5 19.Ba3 a5 20.Bxb5 Rb8 21.Nc3 Na4 22.Bxd6 Qxd6 0-1
