@@ -4849,7 +4849,8 @@
     "name": "ROGOZENCO, Dorian",
     "year": "1988-2021",
     "games": 724,
-    "id": "25196"
+    "id": "25196",
+    "synced": true
   },
   {
     "higestRating": 2525,
@@ -33949,7 +33950,8 @@
     "name": "GAVASHELI, Ana",
     "year": "1997-2018",
     "games": 90,
-    "id": "102777"
+    "id": "102777",
+    "synced": true
   },
   {
     "higestRating": 2537,
@@ -39972,7 +39974,8 @@
     "name": "CALUGAR, Arthur",
     "year": "2006-2015",
     "games": 73,
-    "id": "105079"
+    "id": "105079",
+    "synced": true
   },
   {
     "higestRating": 2448,
@@ -92842,7 +92845,8 @@
     "name": "SCHAERER, Julian",
     "year": "2009-2022",
     "games": 17,
-    "id": "132189"
+    "id": "132189",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -96964,7 +96968,8 @@
     "name": "SAMULEVICIUS, Tomas",
     "year": "1992-2002",
     "games": 15,
-    "id": "75328"
+    "id": "75328",
+    "synced": true
   },
   {
     "higestRating": 2359,
