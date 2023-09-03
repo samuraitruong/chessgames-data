@@ -1,0 +1,14 @@
+[Event "NED-ch"]
+[Site "Eindhoven NED"]
+[Date "1993.06.08"]
+[EventDate "1993.06.06"]
+[Round "3"]
+[Result "1-0"]
+[White "Friso Nijboer"]
+[Black "Hendrik Pieter Hoeksema"]
+[ECO "C18"]
+[WhiteElo "2505"]
+[BlackElo "2405"]
+[PlyCount "39"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Nc6 7.Nf3 f6 8.Bb5 Nge7 9.O-O Qa5 10.c4 a6 11.Bd2 Qc7 12.cxd5 axb5 13.d6 Qd7 14.dxe7 cxd4 15.Bb4 fxe5 16.Re1 Qd5 17.Ng5 h5 18.Qd3 Rh6 19.Ne4 Nxb4 20.Qg3 1-0

@@ -14065,7 +14065,8 @@
     "name": "GEVORGYAN, Maria",
     "year": "2010-2021",
     "games": 259,
-    "id": "131283"
+    "id": "131283",
+    "synced": true
   },
   {
     "higestRating": 2524,
@@ -14192,7 +14193,8 @@
     "name": "HOEKSEMA, Hendrik Pieter",
     "year": "1979-2016",
     "games": 256,
-    "id": "39580"
+    "id": "39580",
+    "synced": true
   },
   {
     "higestRating": 2592,
@@ -41102,7 +41104,8 @@
     "name": "ROGHANI, Arash",
     "year": "1998-2015",
     "games": 70,
-    "id": "52592"
+    "id": "52592",
+    "synced": true
   },
   {
     "higestRating": 2289,
@@ -48171,7 +48174,8 @@
     "name": "LIOU, Yian",
     "year": "2011-2019",
     "games": 56,
-    "id": "128274"
+    "id": "128274",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -48939,7 +48943,8 @@
     "name": "BARNES, Craig",
     "year": "1971-1976",
     "games": 54,
-    "id": "22441"
+    "id": "22441",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -74817,7 +74822,8 @@
     "name": "SAMPIERI, Maurizio",
     "year": "1987-2019",
     "games": 26,
-    "id": "33805"
+    "id": "33805",
+    "synced": true
   },
   {
     "higestRating": 2218,
@@ -101002,7 +101008,8 @@
     "name": "LEONIDOV, Vitaly",
     "year": "1971-2005",
     "games": 8,
-    "id": "130743"
+    "id": "130743",
+    "synced": true
   },
   {
     "higestRating": 2331,
