@@ -8286,7 +8286,8 @@
     "name": "VAN KAMPEN, Robin",
     "year": "2005-2019",
     "games": 448,
-    "id": "113403"
+    "id": "113403",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -30989,7 +30990,8 @@
     "name": "HOMA, Seth",
     "year": "2002-2023",
     "games": 101,
-    "id": "83807"
+    "id": "83807",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -67608,7 +67610,8 @@
     "name": "BRZEZINSKI, Mateusz",
     "year": "2011-2021",
     "games": 32,
-    "id": "134571"
+    "id": "134571",
+    "synced": true
   },
   {
     "higestRating": 2271,
