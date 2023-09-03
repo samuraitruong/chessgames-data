@@ -19181,7 +19181,8 @@
     "name": "LISS, Eran",
     "year": "1989-2019",
     "games": 183,
-    "id": "27082"
+    "id": "27082",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -30762,7 +30763,8 @@
     "name": "HASAN, Mehdi",
     "year": "2001-2022",
     "games": 102,
-    "id": "91783"
+    "id": "91783",
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -39822,7 +39824,8 @@
     "name": "JUKIC, Branimir",
     "year": "1991-2018",
     "games": 73,
-    "id": "55617"
+    "id": "55617",
+    "synced": true
   },
   {
     "higestRating": 2358,
@@ -53039,7 +53042,8 @@
     "name": "CIA, Miguel Navarro",
     "year": "2000-2018",
     "games": 48,
-    "id": "104902"
+    "id": "104902",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -53112,7 +53116,8 @@
     "name": "MAURITSSON, Sebastian",
     "year": "2002-2022",
     "games": 48,
-    "id": "120793"
+    "id": "120793",
+    "synced": true
   },
   {
     "higestRating": 2248,
@@ -64465,7 +64470,8 @@
     "name": "VAN MEEGEN, Ruud",
     "year": "2011-2021",
     "games": 35,
-    "id": "131170"
+    "id": "131170",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -87823,7 +87829,8 @@
     "name": "OORTWIJN, Ron A",
     "year": "1995-1999",
     "games": 19,
-    "id": "90969"
+    "id": "90969",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -88154,7 +88161,8 @@
     "name": "ANDERSEN, Lars Even",
     "year": "1998-2012",
     "games": 19,
-    "id": "114893"
+    "id": "114893",
+    "synced": true
   },
   {
     "higestRating": 2279,
@@ -97231,7 +97239,8 @@
     "name": "BROEDER, Guido den",
     "year": "1976-1995",
     "games": 15,
-    "id": "94920"
+    "id": "94920",
+    "synced": true
   },
   {
     "higestRating": 2518,
@@ -100616,7 +100625,8 @@
     "name": "KARAS, Boris",
     "year": "2002",
     "games": 9,
-    "id": "76819"
+    "id": "76819",
+    "synced": true
   },
   {
     "higestRating": 2207,
