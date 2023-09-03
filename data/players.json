@@ -5473,7 +5473,8 @@
     "name": "KOKAREV, Dmitry",
     "year": "1997-2022",
     "games": 666,
-    "id": "49694"
+    "id": "49694",
+    "synced": true
   },
   {
     "higestRating": 2669,
@@ -46237,7 +46238,8 @@
     "name": "DAUDZVARDIS, Janis",
     "year": "1985-2008",
     "games": 59,
-    "id": "22320"
+    "id": "22320",
+    "synced": true
   },
   {
     "higestRating": 2356,
