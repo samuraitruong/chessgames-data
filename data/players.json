@@ -3339,7 +3339,8 @@
     "name": "NOGUEIRAS, Jesus",
     "year": "1976-2022",
     "games": 951,
-    "id": "15575"
+    "id": "15575",
+    "synced": true
   },
   {
     "higestRating": 2524,
@@ -46240,7 +46241,8 @@
     "name": "LESKIEWICZ, Maksymilian",
     "year": "1995-1999",
     "games": 59,
-    "id": "42608"
+    "id": "42608",
+    "synced": true
   },
   {
     "higestRating": 2444,
@@ -52934,7 +52936,8 @@
     "name": "MAZZILLI, Piero",
     "year": "2005-2015",
     "games": 48,
-    "id": "102240"
+    "id": "102240",
+    "synced": true
   },
   {
     "higestRating": 2282,
@@ -66895,7 +66898,8 @@
     "name": "TRZASKA, Peter",
     "year": "1990-2000",
     "games": 32,
-    "id": "27786"
+    "id": "27786",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -100543,7 +100547,8 @@
     "name": "INGERSOL, Harry",
     "year": "1999-2023",
     "games": 9,
-    "id": "97643"
+    "id": "97643",
+    "synced": true
   },
   {
     "higestRating": 2220,
