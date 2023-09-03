@@ -15375,7 +15375,8 @@
     "name": "ORLOV, Georgi",
     "year": "1968-2019",
     "games": 233,
-    "id": "16563"
+    "id": "16563",
+    "synced": true
   },
   {
     "higestRating": 2555,
@@ -22385,7 +22386,8 @@
     "name": "ABEL, Dennes",
     "year": "2003-2022",
     "games": 153,
-    "id": "118413"
+    "id": "118413",
+    "synced": true
   },
   {
     "higestRating": 2457,
@@ -25521,7 +25523,8 @@
     "name": "FEDOROVSKY, Michael",
     "year": "2004-2022",
     "games": 128,
-    "id": "118712"
+    "id": "118712",
+    "synced": true
   },
   {
     "higestRating": 2444,
@@ -53701,7 +53704,8 @@
     "name": "BETKO, Lubomir",
     "year": "1992-2004",
     "games": 47,
-    "id": "66822"
+    "id": "66822",
+    "synced": true
   },
   {
     "higestRating": 2243,
@@ -58376,7 +58380,8 @@
     "name": "BUCHER, Michael",
     "year": "2001-2014",
     "games": 41,
-    "id": "51066"
+    "id": "51066",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -89384,7 +89389,8 @@
     "name": "FUNGUEIRO, Manuel Antonio Perez",
     "year": "1992-2007",
     "games": 18,
-    "id": "53642"
+    "id": "53642",
+    "synced": true
   },
   {
     "higestRating": 2202,
@@ -96599,7 +96605,8 @@
     "name": "ABATINO, Maurizio",
     "year": "1999-2005",
     "games": 15,
-    "id": "58893"
+    "id": "58893",
+    "synced": true
   },
   {
     "higestRating": 2273,
@@ -97922,7 +97929,8 @@
     "name": "TOSIC, Srecko",
     "year": "2010-2013",
     "games": 15,
-    "id": "137814"
+    "id": "137814",
+    "synced": true
   },
   {
     "higestRating": 2351,
