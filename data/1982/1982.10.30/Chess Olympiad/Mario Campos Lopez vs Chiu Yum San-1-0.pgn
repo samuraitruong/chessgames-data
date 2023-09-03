@@ -1,0 +1,15 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.10.30"]
+[EventDate "1982.10.30"]
+[Round "1"]
+[Result "1-0"]
+[White "Mario Campos Lopez"]
+[Black "Chiu Yum San"]
+[ECO "C18"]
+[WhiteElo "2330"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "35"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Ba5 6.b4 cxb4 7.Nb5 bxa3+ 8.c3 Bc7 9.Bxa3 Ne7 10.Qg4 O-O 11.Qh4 Re8 12.Bd3 Ng6 13.Qxd8 Bxd8 14.Nd6 Re7 15. Nxc8 Rc7 16.Nd6 Rxc3 17.Bxg6 hxg6 18.Nxb7 1-0
