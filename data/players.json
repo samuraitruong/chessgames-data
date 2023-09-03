@@ -260,7 +260,8 @@
     "name": "LARSEN, Bent",
     "year": "1948-2008",
     "games": 2569,
-    "id": "11227"
+    "id": "11227",
+    "synced": true
   },
   {
     "higestRating": 2640,
@@ -17954,7 +17955,8 @@
     "name": "IVANOV, Victor L",
     "year": "1985-2009",
     "games": 198,
-    "id": "50148"
+    "id": "50148",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -68443,7 +68445,8 @@
     "name": "MURAWSKI, Grzegorz",
     "year": "1994-2013",
     "games": 31,
-    "id": "63846"
+    "id": "63846",
+    "synced": true
   },
   {
     "higestRating": 2277,
@@ -79177,7 +79180,8 @@
     "name": "PHILIPPE, Guillaume",
     "year": "2016-2023",
     "games": 24,
-    "id": "156967"
+    "id": "156967",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -103387,7 +103391,8 @@
     "name": "CLEVER, Gerd",
     "year": "1976-1986",
     "games": 2,
-    "id": "130173"
+    "id": "130173",
+    "synced": true
   },
   {
     "higestRating": 2267,
