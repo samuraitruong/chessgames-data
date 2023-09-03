@@ -4523,7 +4523,8 @@
     "name": "LIGTERINK, Gert",
     "year": "1966-2006",
     "games": 762,
-    "id": "23103"
+    "id": "23103",
+    "synced": true
   },
   {
     "higestRating": 2561,
@@ -44908,7 +44909,8 @@
     "name": "TIKKANEN, Kari",
     "year": "1975-2009",
     "games": 62,
-    "id": "58262"
+    "id": "58262",
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -46802,7 +46804,8 @@
     "name": "CHOJNACKI, Krzysztof",
     "year": "2001-2018",
     "games": 58,
-    "id": "54520"
+    "id": "54520",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -55967,7 +55970,8 @@
     "name": "DEMKOVICH, Anatoliy",
     "year": "1996-2017",
     "games": 44,
-    "id": "76794"
+    "id": "76794",
+    "synced": true
   },
   {
     "higestRating": 2259,
@@ -103439,7 +103443,8 @@
     "name": "NOVAK, David J",
     "year": "2003",
     "games": 2,
-    "id": "119311"
+    "id": "119311",
+    "synced": true
   },
   {
     "higestRating": 2237,
