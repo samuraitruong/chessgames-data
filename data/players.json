@@ -1470,7 +1470,8 @@
     "name": "CHIBURDANIDZE, Maia",
     "year": "1973-2019",
     "games": 1450,
-    "id": "16894"
+    "id": "16894",
+    "synced": true
   },
   {
     "higestRating": 2545,
@@ -7773,7 +7774,8 @@
     "name": "BORISENKO, Georgy",
     "year": "1948-1998",
     "games": 476,
-    "id": "17459"
+    "id": "17459",
+    "synced": true
   },
   {
     "higestRating": 2632,
@@ -20563,7 +20565,8 @@
     "name": "RYAN, Joseph",
     "year": "1988-2022",
     "games": 169,
-    "id": "89282"
+    "id": "89282",
+    "synced": true
   },
   {
     "higestRating": 2516,
@@ -28456,7 +28459,8 @@
     "name": "GURVICH, Vitaly",
     "year": "2014-2020",
     "games": 112,
-    "id": "154689"
+    "id": "154689",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -30572,7 +30576,8 @@
     "name": "RAMIREZ, Brian Sebastian Escalante",
     "year": "2016-2022",
     "games": 103,
-    "id": "155664"
+    "id": "155664",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -51524,7 +51529,8 @@
     "name": "SILVA, Hugo Lopez",
     "year": "2004-2022",
     "games": 50,
-    "id": "92919"
+    "id": "92919",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -55149,7 +55155,8 @@
     "name": "LUPIK, Marina",
     "year": "2005-2017",
     "games": 45,
-    "id": "94545"
+    "id": "94545",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -65779,7 +65786,8 @@
     "name": "STEFFENS, Olaf",
     "year": "1987-2017",
     "games": 33,
-    "id": "27785"
+    "id": "27785",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -69133,7 +69141,8 @@
     "name": "LAINE, Panu",
     "year": "1992-2015",
     "games": 31,
-    "id": "139697"
+    "id": "139697",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -72624,7 +72633,8 @@
     "name": "PARDO, Juan Carlos Perez",
     "year": "1987-2010",
     "games": 28,
-    "id": "95220"
+    "id": "95220",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -76127,7 +76137,8 @@
     "name": "COOLEY, Chris M",
     "year": "1979-1985",
     "games": 26,
-    "id": "169371"
+    "id": "169371",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -76169,7 +76180,8 @@
     "name": "TILAK, Sharad S",
     "year": "1985-1997",
     "games": 25,
-    "id": "14572"
+    "id": "14572",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -87309,7 +87321,8 @@
     "name": "BEUDAERT, Xavier",
     "year": "1997-2005",
     "games": 19,
-    "id": "58415"
+    "id": "58415",
+    "synced": true
   },
   {
     "higestRating": 2314,
