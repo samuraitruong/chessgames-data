@@ -8903,7 +8903,8 @@
     "name": "SHENGELIA, David",
     "year": "1995-2022",
     "games": 415,
-    "id": "50092"
+    "id": "50092",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -26708,7 +26709,8 @@
     "name": "ROLVAG, Mikael",
     "year": "1988-2023",
     "games": 121,
-    "id": "135092"
+    "id": "135092",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -36868,7 +36870,8 @@
     "name": "STAMENKOV, Vanco",
     "year": "2001-2015",
     "games": 81,
-    "id": "49457"
+    "id": "49457",
+    "synced": true
   },
   {
     "higestRating": 2241,
@@ -68428,7 +68431,8 @@
     "name": "ALIEV, Kerim",
     "year": "1996-2005",
     "games": 31,
-    "id": "50878"
+    "id": "50878",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -68571,7 +68575,8 @@
     "name": "NIELSEN, Thomas Bach",
     "year": "1988-2017",
     "games": 31,
-    "id": "59691"
+    "id": "59691",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -73443,7 +73448,8 @@
     "name": "KISELEV, Alexander",
     "year": "1988-2014",
     "games": 27,
-    "id": "12249"
+    "id": "12249",
+    "synced": true
   },
   {
     "higestRating": 2241,
@@ -86843,7 +86849,8 @@
     "name": "SCHAFFER, Hendrik",
     "year": "1999-2019",
     "games": 20,
-    "id": "176625"
+    "id": "176625",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -91808,7 +91815,8 @@
     "name": "HAGESAETHER, Halvard",
     "year": "1997-2016",
     "games": 17,
-    "id": "66041"
+    "id": "66041",
+    "synced": true
   },
   {
     "higestRating": 2318,
