@@ -1,0 +1,14 @@
+[Event "UT Dallas Fall Open"]
+[Site "Dallas USA"]
+[Date "2017.11.18"]
+[EventDate "2017.11.17"]
+[Round "3.8"]
+[Result "1-0"]
+[White "Joshua Sheng"]
+[Black "Razvan Preotu"]
+[ECO "A45"]
+[WhiteElo "2373"]
+[BlackElo "2497"]
+[PlyCount "45"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 a6 4. e3 e6 5. Nf3 c5 6. dxc5 Bxc5 7. Bd3 Nc6 8. O-O h6 9. e4 d4 10. Ne2 g5 11. Bg3 Nh5 12. Be5 Nxe5 13. Nxe5 O-O 14. Ng3 Nxg3 15. fxg3 f6 16. Qh5 fxe5 17. Qg6+ Kh8 18. Qxh6+ Kg8 19. Qg6+ Kh8 20. Rxf8+ Bxf8 21. Rf1 Bg7 22. Rf7 Qg8 23. Re7 1-0
