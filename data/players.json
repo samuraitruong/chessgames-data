@@ -14842,7 +14842,8 @@
     "name": "VEZZOSI, Paolo",
     "year": "1983-2021",
     "games": 244,
-    "id": "16997"
+    "id": "16997",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -17960,7 +17961,8 @@
     "name": "CODENOTTI, Marco",
     "year": "2008-2017",
     "games": 199,
-    "id": "117657"
+    "id": "117657",
+    "synced": true
   },
   {
     "higestRating": 2480,
@@ -31709,7 +31711,8 @@
     "name": "MAKROPOULOS, Georgios",
     "year": "1969-2006",
     "games": 98,
-    "id": "19013"
+    "id": "19013",
+    "synced": true
   },
   {
     "higestRating": 2378,
@@ -101793,7 +101796,8 @@
     "name": "SPIRIN, Alexey",
     "year": "2001-2002",
     "games": 6,
-    "id": "52377"
+    "id": "52377",
+    "synced": true
   },
   {
     "higestRating": 2380,

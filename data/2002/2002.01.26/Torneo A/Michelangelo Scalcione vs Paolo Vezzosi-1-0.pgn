@@ -1,0 +1,14 @@
+[Event "Torneo A"]
+[Site "Montecatini Terme ITA"]
+[Date "2002.01.30"]
+[EventDate "2002.01.26"]
+[Round "6"]
+[Result "1-0"]
+[White "Michelangelo Scalcione"]
+[Black "Paolo Vezzosi"]
+[ECO "D15"]
+[WhiteElo "2329"]
+[BlackElo "2392"]
+[PlyCount "45"]
+
+1. Nf3 d5 2. d4 c6 3. c4 Nf6 4. Nc3 a6 5. c5 g6 6. Bf4 Bg7 7. e3 Nbd7 8. Be2 Nh5 9. O-O Nxf4 10. exf4 O-O 11. Re1 Rb8 12. Bd3 e6 13. Rc1 Qf6 14. g3 b6 15. b4 a5 16. b5 bxc5 17. bxc6 Nb6 18. dxc5 Na8 19. Ne5 Qe7 20. Nxd5 Qa7 21. c7 exd5 22. cxb8=Q Qxb8 23. Nc6 1-0
