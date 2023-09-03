@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.21"]
+[EventDate "2020.08.21"]
+[Round "1"]
+[Result "1-0"]
+[White "Matthew J Wadsworth"]
+[Black "Cem Kaan Gokerkan"]
+[ECO "A15"]
+[WhiteElo "2189"]
+[BlackElo "2158"]
+[Source "Chess-Results"]
+[PlyCount "71"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 d4 5. O-O c5 6. e3 Nc6 7. d3 Bd6 8. exd4 cxd4 9. a3 a5 10. Bg5 h6 11. Bxf6 Qxf6 12. Nbd2 Qe7 13. Rc1 O-O 14. Re1 Rd8 15. Nb3 Bc7 16. c5 a4 17. Nbd2 Rd5 18. Qc2 Ra5 19. b4 axb3 20. Nxb3 Rxa3 21. Ra1 Rxa1 22. Rxa1 Rd8 23. Qc4 e5 24. Nfd2 Bf5 25. Qb5 Bb8 26. Na5 Nxa5 27. Rxa5 Qg5 28. Ra2 Qg6 29. Qxb7 Qe6 30. Ra8 Qc8 31. Qb5 Qc7 32. Be4 Bh3 33. Nc4 f5 34. Bd5+ Rxd5 35. Qxb8+ Kh7 36. Qxc7 1-0
