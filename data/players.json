@@ -12151,7 +12151,8 @@
     "name": "GROSS, Georg",
     "year": "1984-2009",
     "games": 302,
-    "id": "86775"
+    "id": "86775",
+    "synced": true
   },
   {
     "higestRating": 2590,
@@ -14822,7 +14823,8 @@
     "name": "VOGEL, Roven",
     "year": "2015-2023",
     "games": 245,
-    "id": "153785"
+    "id": "153785",
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -27156,7 +27158,8 @@
     "name": "MAMMADOV, Ayaz",
     "year": "2003-2019",
     "games": 118,
-    "id": "95999"
+    "id": "95999",
+    "synced": true
   },
   {
     "higestRating": 2456,
@@ -101242,7 +101245,8 @@
     "name": "ASPA, Xavier Serrano",
     "year": "2001-2022",
     "games": 7,
-    "id": "55402"
+    "id": "55402",
+    "synced": true
   },
   {
     "higestRating": 2238,
