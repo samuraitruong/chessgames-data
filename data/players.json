@@ -13524,7 +13524,8 @@
     "name": "MEDIC, Mirjana",
     "year": "1986-2022",
     "games": 269,
-    "id": "49216"
+    "id": "49216",
+    "synced": true
   },
   {
     "higestRating": 2509,
@@ -15014,7 +15015,8 @@
     "name": "CIOARA, Andrei-Nestor",
     "year": "1994-2022",
     "games": 240,
-    "id": "50873"
+    "id": "50873",
+    "synced": true
   },
   {
     "higestRating": 2296,
@@ -29067,7 +29069,8 @@
     "name": "PAJEKEN, Wolfgang",
     "year": "1994-2019",
     "games": 109,
-    "id": "36645"
+    "id": "36645",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -72452,7 +72455,8 @@
     "name": "MITTELBERGER, Peter",
     "year": "1990-2023",
     "games": 28,
-    "id": "58590"
+    "id": "58590",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -78644,7 +78648,8 @@
     "name": "DAS, Dipanjan",
     "year": "1994-2000",
     "games": 24,
-    "id": "78523"
+    "id": "78523",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -91286,7 +91291,8 @@
     "name": "BERZINSH, Ivars",
     "year": "1995-2012",
     "games": 17,
-    "id": "35925"
+    "id": "35925",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -95749,7 +95755,8 @@
     "name": "PENATE, Guillermo Santana",
     "year": "2010",
     "games": 16,
-    "id": "162173"
+    "id": "162173",
+    "synced": true
   },
   {
     "higestRating": 2202,
@@ -98053,7 +98060,8 @@
     "name": "ZANG, Yue Shen",
     "year": "2008-2013",
     "games": 15,
-    "id": "147605"
+    "id": "147605",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -101812,7 +101820,8 @@
     "name": "VAN REEK, Jan",
     "year": "1976-1980",
     "games": 6,
-    "id": "73205"
+    "id": "73205",
+    "synced": true
   },
   {
     "higestRating": 2207,
