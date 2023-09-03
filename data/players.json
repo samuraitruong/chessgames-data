@@ -15611,7 +15611,8 @@
     "name": "BABUJIAN, Levon",
     "year": "2001-2021",
     "games": 230,
-    "id": "93765"
+    "id": "93765",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -31762,7 +31763,8 @@
     "name": "VUKOVIC, Ivo",
     "year": "1966-2012",
     "games": 98,
-    "id": "28766"
+    "id": "28766",
+    "synced": true
   },
   {
     "higestRating": 2505,
@@ -46921,7 +46923,8 @@
     "name": "GERSTNER, Wolfgang",
     "year": "1986-2006",
     "games": 58,
-    "id": "78200"
+    "id": "78200",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -50269,7 +50272,8 @@
     "name": "GOKHALE, Anupama",
     "year": "1988-2019",
     "games": 52,
-    "id": "49550"
+    "id": "49550",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -50858,7 +50862,8 @@
     "name": "LUND, D Brett",
     "year": "1980-2018",
     "games": 51,
-    "id": "70380"
+    "id": "70380",
+    "synced": true
   },
   {
     "higestRating": 2273,
@@ -54269,7 +54274,8 @@
     "name": "KACHUR, Alexander",
     "year": "1967-2006",
     "games": 46,
-    "id": "41746"
+    "id": "41746",
+    "synced": true
   },
   {
     "higestRating": 2299,
@@ -61829,7 +61835,8 @@
     "name": "NEUROHR, Stephan",
     "year": "1987-1994",
     "games": 37,
-    "id": "24661"
+    "id": "24661",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -81004,7 +81011,8 @@
     "name": "CANSUN, Can Alp",
     "year": "2017-2019",
     "games": 23,
-    "id": "161586"
+    "id": "161586",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -91889,7 +91897,8 @@
     "name": "RASMUSSEN, Per Arnt",
     "year": "1995-2000",
     "games": 17,
-    "id": "78665"
+    "id": "78665",
+    "synced": true
   },
   {
     "higestRating": 2254,
