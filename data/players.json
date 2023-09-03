@@ -14078,7 +14078,8 @@
     "name": "ASHWIN, Jayaram",
     "year": "2004-2021",
     "games": 259,
-    "id": "113316"
+    "id": "113316",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -18968,7 +18969,8 @@
     "name": "NOVIK, Maxim",
     "year": "1985-2023",
     "games": 185,
-    "id": "17071"
+    "id": "17071",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -56742,7 +56744,8 @@
     "name": "VULEVIC, Vjekoslav",
     "year": "1974-2017",
     "games": 43,
-    "id": "51095"
+    "id": "51095",
+    "synced": true
   },
   {
     "higestRating": 2321,
@@ -59128,7 +59131,8 @@
     "name": "GONZALES, Eliseo",
     "year": "1970-1990",
     "games": 40,
-    "id": "18324"
+    "id": "18324",
+    "synced": true
   },
   {
     "higestRating": 2290,
