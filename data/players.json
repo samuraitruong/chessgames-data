@@ -6459,7 +6459,8 @@
     "name": "NARODITSKY, Daniel",
     "year": "2007-2023",
     "games": 567,
-    "id": "114502"
+    "id": "114502",
+    "synced": true
   },
   {
     "higestRating": 2553,
@@ -11147,7 +11148,8 @@
     "name": "BURG, Twan",
     "year": "2000-2022",
     "games": 331,
-    "id": "95505"
+    "id": "95505",
+    "synced": true
   },
   {
     "higestRating": 2562,

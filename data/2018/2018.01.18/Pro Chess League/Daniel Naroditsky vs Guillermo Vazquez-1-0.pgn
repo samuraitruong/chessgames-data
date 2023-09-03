@@ -1,0 +1,14 @@
+[Event "Pro Chess League"]
+[Site "chess.com INT"]
+[Date "2018.01.18"]
+[EventDate "2018.01.18"]
+[Round "1"]
+[Result "1-0"]
+[White "Daniel Naroditsky"]
+[Black "Guillermo Vazquez"]
+[ECO "A01"]
+[WhiteElo "2619"]
+[BlackElo "2436"]
+[PlyCount "43"]
+
+1. b3 e5 2. Bb2 Nc6 3. Nf3 e4 4. Nd4 Nf6 5. e3 d5 6. Nxc6 bxc6 7. d3 Bb4+ 8. Nd2 O-O 9. a3 Bd6 10. dxe4 dxe4 11. Nc4 Re8 12. Be2 Nd5 13. Nxd6 cxd6 14. Qd4 Qg5 15. c4 Ne7 16. Qxd6 Bg4 17. Qg3 h5 18. h4 Qf5 19. O-O-O Qe6 20. Bxg4 hxg4 21. Rd6 Qc8 22. h5 1-0
