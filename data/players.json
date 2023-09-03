@@ -3551,7 +3551,8 @@
     "name": "PANTSULAIA, Levan",
     "year": "2000-2023",
     "games": 915,
-    "id": "50101"
+    "id": "50101",
+    "synced": true
   },
   {
     "higestRating": 2501,
@@ -33792,7 +33793,8 @@
     "name": "ARNAUDOV, Petar",
     "year": "1967-2013",
     "games": 90,
-    "id": "34422"
+    "id": "34422",
+    "synced": true
   },
   {
     "higestRating": 2407,
@@ -62583,7 +62585,8 @@
     "name": "KACHAR, Vladimir",
     "year": "1988-2015",
     "games": 36,
-    "id": "12365"
+    "id": "12365",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -69609,7 +69612,8 @@
     "name": "SEFERJAN, Narek",
     "year": "1993-2010",
     "games": 30,
-    "id": "50566"
+    "id": "50566",
+    "synced": true
   },
   {
     "higestRating": 2362,
