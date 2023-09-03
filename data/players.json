@@ -1800,7 +1800,8 @@
     "name": "JONKMAN, Harmen",
     "year": "1990-2023",
     "games": 1303,
-    "id": "19917"
+    "id": "19917",
+    "synced": true
   },
   {
     "higestRating": 2492,
@@ -30023,7 +30024,8 @@
     "name": "TARLEVA, Diana",
     "year": "1997-2022",
     "games": 105,
-    "id": "65702"
+    "id": "65702",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -41713,7 +41715,8 @@
     "name": "PISKUR, Mitja",
     "year": "1992-2017",
     "games": 69,
-    "id": "100326"
+    "id": "100326",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -56930,7 +56933,8 @@
     "name": "KOPASOV, Evgeny",
     "year": "1984-2016",
     "games": 43,
-    "id": "81659"
+    "id": "81659",
+    "synced": true
   },
   {
     "higestRating": 2285,
