@@ -9457,7 +9457,8 @@
     "name": "ZHEREBUKH, Yaroslav",
     "year": "2005-2021",
     "games": 395,
-    "id": "107320"
+    "id": "107320",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -32238,7 +32239,8 @@
     "name": "FRIDJONSSON, Julius",
     "year": "1966-2019",
     "games": 96,
-    "id": "47868"
+    "id": "47868",
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -34893,7 +34895,8 @@
     "name": "MIS, Mieszko",
     "year": "2017-2022",
     "games": 87,
-    "id": "158872"
+    "id": "158872",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -51219,7 +51222,8 @@
     "name": "GONSIOR, Evzen",
     "year": "1972-1988",
     "games": 50,
-    "id": "26836"
+    "id": "26836",
+    "synced": true
   },
   {
     "higestRating": 2412,
@@ -89913,7 +89917,8 @@
     "name": "TORESANO, Andres Valverde",
     "year": "1996-2010",
     "games": 18,
-    "id": "97556"
+    "id": "97556",
+    "synced": true
   },
   {
     "higestRating": 2214,
