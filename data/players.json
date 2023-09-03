@@ -6526,7 +6526,8 @@
     "name": "WINANTS, Luc",
     "year": "1978-2016",
     "games": 558,
-    "id": "14243"
+    "id": "14243",
+    "synced": true
   },
   {
     "higestRating": 2515,
@@ -53571,7 +53572,8 @@
     "name": "KANEV, Jasen Giretti",
     "year": "1998-2011",
     "games": 47,
-    "id": "56318"
+    "id": "56318",
+    "synced": true
   },
   {
     "higestRating": 2407,
@@ -60220,7 +60222,8 @@
     "name": "KARPOV, Alexander",
     "year": "1989-2009",
     "games": 39,
-    "id": "60472"
+    "id": "60472",
+    "synced": true
   },
   {
     "higestRating": 2352,
@@ -69975,7 +69978,8 @@
     "name": "BELUNEK, Vladimir",
     "year": "1996-2017",
     "games": 30,
-    "id": "101499"
+    "id": "101499",
+    "synced": true
   },
   {
     "higestRating": 2348,
@@ -91966,7 +91970,8 @@
     "name": "SYPNICKI, Dominik",
     "year": "1998-2001",
     "games": 17,
-    "id": "95035"
+    "id": "95035",
+    "synced": true
   },
   {
     "higestRating": 2306,
