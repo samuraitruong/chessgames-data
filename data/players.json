@@ -17497,7 +17497,8 @@
     "name": "ULKO, Jaroslav",
     "year": "1994-2019",
     "games": 205,
-    "id": "66731"
+    "id": "66731",
+    "synced": true
   },
   {
     "higestRating": 2476,
@@ -23147,7 +23148,8 @@
     "name": "MOKSH, Amit Doshi",
     "year": "2017-2023",
     "games": 148,
-    "id": "158827"
+    "id": "158827",
+    "synced": true
   },
   {
     "higestRating": 2502,
@@ -25946,7 +25948,8 @@
     "name": "ASK, Josef",
     "year": "1997-2019",
     "games": 125,
-    "id": "43641"
+    "id": "43641",
+    "synced": true
   },
   {
     "higestRating": 2570,
@@ -51723,7 +51726,8 @@
     "name": "JURCIK, Martin",
     "year": "2004-2019",
     "games": 50,
-    "id": "105781"
+    "id": "105781",
+    "synced": true
   },
   {
     "higestRating": 2499,
@@ -54770,7 +54774,8 @@
     "name": "NUGUMANOV, Bakhtiyar",
     "year": "2007-2023",
     "games": 46,
-    "id": "134244"
+    "id": "134244",
+    "synced": true
   },
   {
     "higestRating": 2550,
@@ -57435,7 +57440,8 @@
     "name": "LORENZ, Sascha",
     "year": "1988-2017",
     "games": 42,
-    "id": "26242"
+    "id": "26242",
+    "synced": true
   },
   {
     "higestRating": 2277,
@@ -69858,7 +69864,8 @@
     "name": "HOOGENDOORN, Joost",
     "year": "1993-2004",
     "games": 30,
-    "id": "65565"
+    "id": "65565",
+    "synced": true
   },
   {
     "higestRating": 2326,
@@ -79632,7 +79639,8 @@
     "name": "SMITS, Mark",
     "year": "1996-2017",
     "games": 23,
-    "id": "36108"
+    "id": "36108",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -95730,7 +95738,8 @@
     "name": "ROSHKA, Yevgeniy",
     "year": "2017-2022",
     "games": 16,
-    "id": "157830"
+    "id": "157830",
+    "synced": true
   },
   {
     "higestRating": 2395,
