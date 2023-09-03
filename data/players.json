@@ -2275,7 +2275,8 @@
     "name": "POTAPOV, Pavel",
     "year": "1999-2021",
     "games": 1176,
-    "id": "51700"
+    "id": "51700",
+    "synced": true
   },
   {
     "higestRating": 2595,
@@ -13766,7 +13767,8 @@
     "name": "JIMENEZ, Fidel Corrales",
     "year": "2003-2023",
     "games": 265,
-    "id": "113313"
+    "id": "113313",
+    "synced": true
   },
   {
     "higestRating": 2457,
@@ -29702,7 +29704,8 @@
     "name": "IONICA, Iulia-Ionela",
     "year": "1992-2013",
     "games": 106,
-    "id": "49402"
+    "id": "49402",
+    "synced": true
   },
   {
     "higestRating": 2378,
