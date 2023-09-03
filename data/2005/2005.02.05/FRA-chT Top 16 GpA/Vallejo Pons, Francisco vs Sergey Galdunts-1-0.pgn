@@ -1,0 +1,14 @@
+[Event "FRA-chT Top 16 GpA"]
+[Site "Mulhouse"]
+[Date "2005.02.05"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Vallejo Pons, Francisco"]
+[Black "Sergey Galdunts"]
+[ECO "A42"]
+[WhiteElo "2686"]
+[BlackElo "2489"]
+[PlyCount "58"]
+
+1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 Nc6 5. Nge2 (5. d5 Nd4 6. Be3 ) e5 6. d5 Nce7 7. h4 (7. Ng3) f5 ( h5 8. g3 $5 Nh6 9. Bg2 O-O 10. O-O a5 11. Nb5 b6 12. Nec3 Kh7 13. Bd2 Nhg8 14. a3 Bh6 15. f4 ) ( Nf6 8. f3 h5 $5) 8. h5 (8. exf5 gxf5 9. Ng3 Nf6 10. Nh5 Nxh5 11. Qxh5+ Ng6 12. Bg5 Qd7 13. O-O-O Qf7 14. Qe2 h6 15. Bd2 O-O 16. h5 Nh8 17. f3 f4 18. Ne4 ) f4 ( Nh6 9. g3 c5 10. f3 Bd7 11. Be3 Nf7 12. Qd2 a6 13. Nc1 Rb8 14. a3 Qc7 ) ( Nf6 9. h6 Bf8 10. Bg5 Nxe4 11. Nxe4 fxe4 12. Nc3 $16) 9. hxg6 (9. g3 g5) hxg6 ( Nxg6 10. g3 $36) 10. Rxh8 Bxh8 11. g3 $1 $14 fxg3 ( g5 $2 12. Nxf4 $1 $18) 12. Nxg3 Nf6 13. Be2 Qd7 14. Bg5 (14. Be3 $14) Neg8 15. Qd2 (15. c5 dxc5 16. Bb5 c6 17. dxc6 bxc6 18. Bc4 $16) (15. Qb3 $16) Qf7 16. O-O-O (16. Nb5 a6 17. Qa5 b6 18. Qa4 Kd8 19. Qa3 $16 (19. b4 $16)) Bd7 17. Nb5 $1 Bxb5 ( Rc8 18. Qa5 $1 $18 (18. Nxa7 Ra8 19. Rh1 Bg7 20. Qe3 b6 $132)) 18. cxb5 O-O-O 19. Kb1 $1 $16 Rf8 20. a4 (20. Qa5 Kb8 21. Be3 b6 22. Qa6 Bg7 23. Rd3 Ne7) Kb8 21. a5 Ne7 22. Qc2 Nc8 23. Rc1 (23. a6 $16) Qd7 24. Nf1 $1 Rf7 25. Nd2 Ng4 26. a6 (26. Bxg4 Qxg4 27. Be3 $16) Nxf2 ( b6 $2 27. Bxg4 Qxg4 28. Qc6 $18) 27. Nb3 (27. axb7 $1 Nb6 ( Kxb7 28. Qc6+ Kb8 29. Rf1 $18) 28. Be3 Nh3 29. Bxb6 axb6 30. Qa4 Kxb7 31. Rc3 $18) b6 $2 ( Nh3 28. Be3 $40) 28. Rf1 $18 c5 29. bxc6 1-0
