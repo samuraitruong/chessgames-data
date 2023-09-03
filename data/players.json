@@ -10836,7 +10836,8 @@
     "name": "SJODAHL, Pontus",
     "year": "1988-2022",
     "games": 341,
-    "id": "25250"
+    "id": "25250",
+    "synced": true
   },
   {
     "higestRating": 2580,
@@ -20451,7 +20452,8 @@
     "name": "MAZUR, Stefan",
     "year": "2002-2022",
     "games": 170,
-    "id": "118269"
+    "id": "118269",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -46821,7 +46823,8 @@
     "name": "HELLMAYR, Alois",
     "year": "1972-2005",
     "games": 58,
-    "id": "67010"
+    "id": "67010",
+    "synced": true
   },
   {
     "higestRating": 2483,
@@ -70395,7 +70398,8 @@
     "name": "SONG, Edward",
     "year": "2015-2019",
     "games": 30,
-    "id": "157438"
+    "id": "157438",
+    "synced": true
   },
   {
     "higestRating": 2371,
