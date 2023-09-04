@@ -1,0 +1,14 @@
+[Event "olm10 fin B1 corr"]
+[Site "ICCF"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Jonathan Penrose"]
+[Black "Jindrich Zapletal"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 Nc6 2.d4 d5 3.Nc3 e5 4.dxe5 d4 5.Nd5 f5 6.exf6 Nxf6 7.Bg5 Be6 8.Bxf6 gxf6 9.Bc4 Bf7 10.Nf3 Bg7 11.Nh4 O-O 12.Nf5 Kh8 13.O-O Qd7 14.Qg4 Rg8 15.Bb3 Ne5 16.Qh3 Ng6 17.Rad1 c5 18.Rd3 Rgf8 19.Rg3 Rae8 20.Rg4 Qc6 21.c4 Rg8 22.f4 Rxe4 23.Bc2 1-0
