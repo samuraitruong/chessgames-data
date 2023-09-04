@@ -13452,7 +13452,8 @@
     "name": "RAVIKUMAR, Vaidyanathan",
     "year": "1979-2000",
     "games": 271,
-    "id": "85621"
+    "id": "85621",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -26475,7 +26476,8 @@
     "name": "MUSE, Drazen",
     "year": "1990-2019",
     "games": 122,
-    "id": "55619"
+    "id": "55619",
+    "synced": true
   },
   {
     "higestRating": 2203,
@@ -32700,7 +32702,8 @@
     "name": "BAGRATIONI, Alexander",
     "year": "2007-2023",
     "games": 95,
-    "id": "128389"
+    "id": "128389",
+    "synced": true
   },
   {
     "higestRating": 2491,
@@ -67352,7 +67355,8 @@
     "name": "FERNANDEZ, Jaime Escofet",
     "year": "1982-2018",
     "games": 32,
-    "id": "58576"
+    "id": "58576",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -83983,7 +83987,8 @@
     "name": "KUBIKOVA, Alena",
     "year": "1996-2013",
     "games": 21,
-    "id": "102780"
+    "id": "102780",
+    "synced": true
   },
   {
     "higestRating": 2276,
