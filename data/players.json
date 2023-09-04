@@ -25000,7 +25000,8 @@
     "name": "SWIC, Waldemar",
     "year": "1975-2001",
     "games": 132,
-    "id": "16210"
+    "id": "16210",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -26715,7 +26716,8 @@
     "name": "GIVON, Asaf",
     "year": "2007-2022",
     "games": 121,
-    "id": "120006"
+    "id": "120006",
+    "synced": true
   },
   {
     "higestRating": 2462,
@@ -28720,7 +28722,8 @@
     "name": "MINAYA, Juan",
     "year": "1961-2007",
     "games": 111,
-    "id": "96623"
+    "id": "96623",
+    "synced": true
   },
   {
     "higestRating": 2267,
@@ -34919,7 +34922,8 @@
     "name": "DANELIA, Mariam",
     "year": "2003-2017",
     "games": 87,
-    "id": "110083"
+    "id": "110083",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -36003,7 +36007,8 @@
     "name": "WITT, Rob",
     "year": "1970-2011",
     "games": 83,
-    "id": "25867"
+    "id": "25867",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -37653,7 +37658,8 @@
     "name": "PEREIRA, Ruben",
     "year": "2002-2021",
     "games": 79,
-    "id": "119177"
+    "id": "119177",
+    "synced": true
   },
   {
     "higestRating": 2441,
