@@ -1,0 +1,34 @@
+name: Collect JSON Paths
+
+on:
+  push:
+    branches:
+      - main # Change to your main branch name
+
+jobs:
+  collect-json-paths:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          token: "${{ secrets.MY_GH_TOKEN }}"
+
+      - name: Install Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 18 # Choose the Node.js version you need
+
+      - name: Run Node.js script to collect JSON paths
+        run: |
+          # node /path/to/your/script.js
+          find ./data -type f -name "*.json" > list.txt
+
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "Update JSON paths"
+          git push
