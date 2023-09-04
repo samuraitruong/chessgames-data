@@ -1,0 +1,14 @@
+[Event "SWE-chT 0910"]
+[Site "SWE"]
+[Date "2010.03.14"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Sergey Ivanov"]
+[Black "Emil Hermansson"]
+[ECO "D85"]
+[WhiteElo "2530"]
+[BlackElo "2409"]
+[PlyCount "46"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Be3 Qa5 9.Bd2 O-O 10.Be2 Bg4 11.O-O Rd8 12.Rb1 cxd4 13.cxd4 Qxa2 14.Ra1 Qb2 15.Rb1 Qa2 16.d5 e6 17.Bg5 Rd7 18.Qc1 Na6 19.Bc4 Qa5 20.Qf4 Qc7 21.e5 Bxf3 22.dxe6 Be2 23.exd7 1-0
