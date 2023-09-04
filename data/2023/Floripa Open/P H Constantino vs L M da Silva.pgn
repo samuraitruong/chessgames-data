@@ -1,0 +1,14 @@
+[Event "Floripa Chess Open"]
+[Site "Florianopolis BRA"]
+[Date "2023.01.??"]
+[EventDate "2023.01.23"]
+[Round "5"]
+[Result "1-0"]
+[White "Pedro H Constantino"]
+[Black "Luiz Matheus Silva"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 Be6 8. g4 h6 9. Bg2 b5 10. Ng3 b4 11. Nd5 Bxd5 12. exd5 Nbd7 13. O-O g6 14. Be3 Bg7 15. Qd2 a5 16. a3 Rb8 17. axb4 Rxb4 18. Ra2 Qb8 19. b3 e4 20. Rxa5 Ne5 21. Rfa1 O-O 22. R1a2 Qb7 23. Bxh6 e3 24. Bxe3 1-0

@@ -1,0 +1,14 @@
+[Event "Klatovy op-A"]
+[Site "Klatovy CZE"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Frantisek Stluka"]
+[Black "Leonid Vilyevich Voloshin"]
+[ECO "D20"]
+[WhiteElo "2140"]
+[BlackElo "2430"]
+[PlyCount "22"]
+
+1.d4 d5 2.c4 dxc4 3.Nc3 e5 4.dxe5 Qxd1+ 5.Kxd1 Be6 6.g3 Nc6 7.f4 O-O-O 8.Ke1 Nb4 9.Kf2 Bc5+ 10.Kg2 Nc2 11.Rb1 Ne1# 0-1

@@ -1,0 +1,14 @@
+[Event "Floripa Chess Open"]
+[Site "Florianopolis BRA"]
+[Date "2023.01.??"]
+[EventDate "2023.01.23"]
+[Round "5"]
+[Result "0-1"]
+[White "Diego Moritz"]
+[Black "Eduardo Marra"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bc5 7. Nd6+ Ke7 8. Nxc8+ Rxc8 9. Bd3 Qc7 10. O-O h5 11. Bg5 Kf8 12. h3 Ng4 13. hxg4 hxg4 14. Re1 Qh2+ 15. Kf1 Nd4 16. Ne2 Nf3 17. Be3 Bxe3 18. fxe3 g3 0-1
