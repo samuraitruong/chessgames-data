@@ -876,7 +876,8 @@
     "name": "SAVON, Vladimir",
     "year": "1958-2004",
     "games": 1758,
-    "id": "15289"
+    "id": "15289",
+    "synced": true
   },
   {
     "higestRating": 2709,
@@ -28614,7 +28615,8 @@
     "name": "ZAK, Uriel",
     "year": "1982-2018",
     "games": 111,
-    "id": "28764"
+    "id": "28764",
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -35392,7 +35394,8 @@
     "name": "RIBEIRO, Joao Mario",
     "year": "1940-2001",
     "games": 85,
-    "id": "50397"
+    "id": "50397",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -52369,7 +52372,8 @@
     "name": "MATTA, Vinay Kumar",
     "year": "2006-2021",
     "games": 49,
-    "id": "117347"
+    "id": "117347",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -54263,7 +54267,8 @@
     "name": "TIMMER, Robert",
     "year": "1984-1997",
     "games": 46,
-    "id": "24643"
+    "id": "24643",
+    "synced": true
   },
   {
     "higestRating": 2271,
@@ -95590,7 +95595,8 @@
     "name": "JACQUIN, Roberto Juan",
     "year": "2009",
     "games": 16,
-    "id": "133850"
+    "id": "133850",
+    "synced": true
   },
   {
     "higestRating": 2250,
