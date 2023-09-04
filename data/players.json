@@ -12393,7 +12393,8 @@
     "name": "PLIESTER, Leon",
     "year": "1976-2009",
     "games": 297,
-    "id": "19791"
+    "id": "19791",
+    "synced": true
   },
   {
     "higestRating": 2463,
@@ -40379,7 +40380,8 @@
     "name": "BARRIONUEVO, Pablo",
     "year": "2001-2021",
     "games": 72,
-    "id": "66212"
+    "id": "66212",
+    "synced": true
   },
   {
     "higestRating": 2353,
@@ -45672,7 +45674,8 @@
     "name": "GOLDENBERG, Igor",
     "year": "2005-2011",
     "games": 61,
-    "id": "118773"
+    "id": "118773",
+    "synced": true
   },
   {
     "higestRating": 2474,
@@ -61212,7 +61215,8 @@
     "name": "WILSCHUT, Peter",
     "year": "2000-2019",
     "games": 38,
-    "id": "50914"
+    "id": "50914",
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -73416,7 +73420,8 @@
     "name": "SIMET, Martin",
     "year": "2016-2020",
     "games": 28,
-    "id": "158135"
+    "id": "158135",
+    "synced": true
   },
   {
     "higestRating": 2288,
@@ -83817,7 +83822,8 @@
     "name": "MRUGALA, Arthur",
     "year": "1995-2003",
     "games": 21,
-    "id": "90296"
+    "id": "90296",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -86998,7 +87004,8 @@
     "name": "LIEF, Adam",
     "year": "1984-1988",
     "games": 19,
-    "id": "13754"
+    "id": "13754",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -96218,7 +96225,8 @@
     "name": "HENRIKSSON, Christer",
     "year": "1989-1993",
     "games": 15,
-    "id": "25575"
+    "id": "25575",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -102632,7 +102640,8 @@
     "name": "DIAMOND, Jim A",
     "year": "1994-1997",
     "games": 4,
-    "id": "61034"
+    "id": "61034",
+    "synced": true
   },
   {
     "higestRating": 2216,
