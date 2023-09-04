@@ -9506,7 +9506,8 @@
     "name": "SZYMCZAK, Zbigniew",
     "year": "1974-2017",
     "games": 392,
-    "id": "19601"
+    "id": "19601",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -40311,7 +40312,8 @@
     "name": "TOMIC, Bosko",
     "year": "1999-2016",
     "games": 72,
-    "id": "56559"
+    "id": "56559",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -52820,7 +52822,8 @@
     "name": "HUIZER, Mark",
     "year": "1988-2012",
     "games": 48,
-    "id": "55537"
+    "id": "55537",
+    "synced": true
   },
   {
     "higestRating": 2392,
@@ -55616,7 +55619,8 @@
     "name": "NIE, Xinyang",
     "year": "2016-2023",
     "games": 45,
-    "id": "156982"
+    "id": "156982",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -66086,7 +66090,8 @@
     "name": "ROSIAK, Andrzej",
     "year": "1981-1990",
     "games": 33,
-    "id": "46771"
+    "id": "46771",
+    "synced": true
   },
   {
     "higestRating": 2227,
@@ -80643,7 +80648,8 @@
     "name": "GUSEV, Nikita",
     "year": "2005-2011",
     "games": 23,
-    "id": "125799"
+    "id": "125799",
+    "synced": true
   },
   {
     "higestRating": 2405,
