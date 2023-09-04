@@ -5468,7 +5468,8 @@
     "name": "EMMS, John M",
     "year": "1982-2022",
     "games": 667,
-    "id": "37142"
+    "id": "37142",
+    "synced": true
   },
   {
     "higestRating": 2651,
@@ -92759,7 +92760,8 @@
     "name": "KRZISNIK, Rok",
     "year": "1966-2001",
     "games": 17,
-    "id": "127002"
+    "id": "127002",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -94682,7 +94684,8 @@
     "name": "HAROUTJUNIAN, Dmitri",
     "year": "1996-2009",
     "games": 16,
-    "id": "91936"
+    "id": "91936",
+    "synced": true
   },
   {
     "higestRating": 2307,
