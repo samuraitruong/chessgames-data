@@ -14121,7 +14121,8 @@
     "name": "MAIER, Christian",
     "year": "1979-2022",
     "games": 258,
-    "id": "28208"
+    "id": "28208",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -24874,7 +24875,8 @@
     "name": "NURI, Kambez",
     "year": "2004-2015",
     "games": 133,
-    "id": "96394"
+    "id": "96394",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -25066,7 +25068,8 @@
     "name": "VERTETICS, Attila",
     "year": "1995-2021",
     "games": 132,
-    "id": "133946"
+    "id": "133946",
+    "synced": true
   },
   {
     "higestRating": 2474,
@@ -37312,7 +37315,8 @@
     "name": "MARIN, Alejandro Pablo",
     "year": "1975-2022",
     "games": 80,
-    "id": "89459"
+    "id": "89459",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -43908,7 +43912,8 @@
     "name": "LIPSKI, Tadeusz",
     "year": "1974-1987",
     "games": 64,
-    "id": "32524"
+    "id": "32524",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -99546,7 +99551,8 @@
     "name": "ABHISHEK, Das",
     "year": "2007-2018",
     "games": 12,
-    "id": "113309"
+    "id": "113309",
+    "synced": true
   },
   {
     "higestRating": 2245,
