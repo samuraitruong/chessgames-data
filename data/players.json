@@ -16736,7 +16736,8 @@
     "name": "MAURIZZI, Marc Andria",
     "year": "2016-2023",
     "games": 214,
-    "id": "156291"
+    "id": "156291",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -19067,7 +19068,8 @@
     "name": "PENG, Li Min",
     "year": "2015-2023",
     "games": 185,
-    "id": "153899"
+    "id": "153899",
+    "synced": true
   },
   {
     "higestRating": 2496,
@@ -32478,14 +32480,16 @@
     "name": "JUKIC, Mirko",
     "year": "1985-1997",
     "games": 95,
-    "id": "15723"
+    "id": "15723",
+    "synced": true
   },
   {
     "higestRating": 2423,
     "name": "BENITAH, Yohan",
     "year": "1990-2011",
     "games": 95,
-    "id": "16845"
+    "id": "16845",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -86620,7 +86624,8 @@
     "name": "TEODORESCU, Serban",
     "year": "1968-1989",
     "games": 20,
-    "id": "142706"
+    "id": "142706",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -99075,7 +99080,8 @@
     "name": "AVERY, Robert",
     "year": "1971-1994",
     "games": 13,
-    "id": "104001"
+    "id": "104001",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -99269,7 +99275,8 @@
     "name": "JHUNJHNUWALA, Krishan",
     "year": "1978-2017",
     "games": 12,
-    "id": "38892"
+    "id": "38892",
+    "synced": true
   },
   {
     "higestRating": 2276,
@@ -101525,7 +101532,8 @@
     "name": "ALEKHINA, Natalia V",
     "year": "1969-1995",
     "games": 7,
-    "id": "59473"
+    "id": "59473",
+    "synced": true
   },
   {
     "higestRating": 2465,
