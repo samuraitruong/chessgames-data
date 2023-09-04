@@ -1,0 +1,14 @@
+[Event "Staunton CC Blumenfeld theme"]
+[Site "Groningen NED"]
+[Date "2003.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Hans Ree"]
+[Black "Friso Nijboer"]
+[ECO "E10"]
+[WhiteElo "2402"]
+[BlackElo "2588"]
+[PlyCount "42"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 b5 5.Bg5 Qa5+ 6.Nbd2 bxc4 7.Bxf6 gxf6 8.e4 Rg8 9.g3 Rg4 10.Qc2 f5 11.Bg2 Rxe4+ 12.Kf1 exd5 13.Nxe4 dxe4 14.Rd1 Nc6 15.Nh4 Nd4 16.Qc3 Qa4 17.Rxd4 cxd4 18.Qxd4 Bg7 19.Qd6 c3 20.bxc3 Rb8 21.Nxf5 Qc4+ 0-1

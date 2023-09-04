@@ -1699,7 +1699,8 @@
     "name": "REE, Hans",
     "year": "1963-2010",
     "games": 1352,
-    "id": "14816"
+    "id": "14816",
+    "synced": true
   },
   {
     "higestRating": 2550,
@@ -31459,7 +31460,8 @@
     "name": "TRABATTONI, Franco",
     "year": "1973-2021",
     "games": 99,
-    "id": "20872"
+    "id": "20872",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -93978,7 +93980,8 @@
     "name": "KALISKY, Vladimir",
     "year": "1983-2012",
     "games": 16,
-    "id": "53450"
+    "id": "53450",
+    "synced": true
   },
   {
     "higestRating": 2323,
