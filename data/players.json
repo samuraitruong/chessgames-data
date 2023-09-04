@@ -6646,7 +6646,8 @@
     "name": "WAHLS, Matthias",
     "year": "1985-2006",
     "games": 546,
-    "id": "22720"
+    "id": "22720",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -56834,7 +56835,8 @@
     "name": "TAKYRBASHEV, Bolot",
     "year": "2001-2014",
     "games": 43,
-    "id": "51253"
+    "id": "51253",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -66480,7 +66482,8 @@
     "name": "OBADA, Ahmad Azeez Jawad",
     "year": "1999-2009",
     "games": 33,
-    "id": "95630"
+    "id": "95630",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -68828,7 +68831,8 @@
     "name": "ELBURG, John",
     "year": "1986-2019",
     "games": 31,
-    "id": "90306"
+    "id": "90306",
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -72482,7 +72486,8 @@
     "name": "MIHIC, Bojan",
     "year": "1994-2008",
     "games": 28,
-    "id": "54575"
+    "id": "54575",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -84042,7 +84047,8 @@
     "name": "NAKAUCHI, Gene",
     "year": "2007-2018",
     "games": 21,
-    "id": "114508"
+    "id": "114508",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -92220,7 +92226,8 @@
     "name": "FARAJ, Yahya Saleh",
     "year": "1996-2012",
     "games": 17,
-    "id": "95629"
+    "id": "95629",
+    "synced": true
   },
   {
     "higestRating": 2456,
