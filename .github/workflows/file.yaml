@@ -1,9 +1,8 @@
 name: Collect JSON Paths
-
 on:
   push:
     branches:
-      - main # Change to your main branch name
+      - main
 
 jobs:
   collect-json-paths:
