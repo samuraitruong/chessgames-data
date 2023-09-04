@@ -1,0 +1,14 @@
+[Event "Prague Open"]
+[Site "Prague CZE"]
+[Date "2019.01.11"]
+[EventDate "2019.01.11"]
+[Round "1.24"]
+[Result "1-0"]
+[White "Petr Cerveny"]
+[Black "Patrik Pycha"]
+[ECO "C01"]
+[WhiteElo "2318"]
+[BlackElo "1998"]
+[PlyCount "45"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nf6 6. Ne2 Bg4 7. f3 Bh5 8. Nf4 Nc6 9. Qe2+ Qe7 10. Qxe7+ Nxe7 11. O-O O-O-O 12. a3 Ba5 13. Nce2 Rhe8 14. Nxh5 Nxh5 15. Ng3 Nxg3 16. hxg3 f5 17. c3 c6 18. Bg5 g6 19. Rae1 Rd7 20. Re6 Bd8 21. Rfe1 Rc7 22. Kf2 Kd7 23. Bf4 1-0

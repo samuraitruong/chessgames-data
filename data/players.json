@@ -4413,7 +4413,8 @@
     "name": "PLASKETT, Harold James",
     "year": "1977-2022",
     "games": 773,
-    "id": "15772"
+    "id": "15772",
+    "synced": true
   },
   {
     "higestRating": 2511,
@@ -41314,7 +41315,8 @@
     "name": "CARNSTAM, Tomas",
     "year": "1988-2019",
     "games": 70,
-    "id": "111628"
+    "id": "111628",
+    "synced": true
   },
   {
     "higestRating": 2333,
@@ -50715,7 +50717,8 @@
     "name": "TSAREV, Valery",
     "year": "1965-1991",
     "games": 51,
-    "id": "45541"
+    "id": "45541",
+    "synced": true
   },
   {
     "higestRating": 2238,
@@ -69016,7 +69019,8 @@
     "name": "CERVENY, Petr",
     "year": "2006-2020",
     "games": 31,
-    "id": "104988"
+    "id": "104988",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -69785,7 +69789,8 @@
     "name": "DANILOVIC, Aleksandar",
     "year": "1996-2010",
     "games": 30,
-    "id": "53405"
+    "id": "53405",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -75196,7 +75201,8 @@
     "name": "VAN BUSKIRK, Charles",
     "year": "1980-2004",
     "games": 26,
-    "id": "50437"
+    "id": "50437",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -91684,7 +91690,8 @@
     "name": "HEBBINGHAUS, Holger",
     "year": "1994-2005",
     "games": 17,
-    "id": "56231"
+    "id": "56231",
+    "synced": true
   },
   {
     "higestRating": 2337,

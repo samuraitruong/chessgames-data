@@ -1,0 +1,14 @@
+[Event "Brno Chess Festival"]
+[Site "Brno CZE"]
+[Date "2006.07.01"]
+[EventDate "2006.06.30"]
+[Round "2"]
+[Result "1-0"]
+[White "Krzysztof Jakubowski"]
+[Black "Petr Cerveny"]
+[ECO "B80"]
+[WhiteElo "2498"]
+[BlackElo "2164"]
+[PlyCount "43"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. Be2 Be7 8. f4 Nc6 9. Qd2 O-O 10. O-O-O Nxd4 11. Qxd4 b5 12. Bf3 Bb7 13. e5 Bxf3 14. gxf3 Ne8 15. Rhg1 f6 16. exf6 Bxf6 17. Qd3 Qa5 18. Qe4 Nc7 19. Rxd6 Bxc3 20. Rd7 Bf6 21. Bd4 Rad8 22. Rgxg7+ 1-0
