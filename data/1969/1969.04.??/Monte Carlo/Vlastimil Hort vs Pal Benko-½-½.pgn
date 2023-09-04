@@ -1,0 +1,14 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo MNC"]
+[Date "1969.04.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Vlastimil Hort"]
+[Black "Pal Benko"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 e6 4.e3 Nc6 5.d4 d5 6.a3 a6 7.dxc5 Bxc5 8.b4 Bd6 9.Bb2 dxc4 10.Bxc4 O-O 11.O-O b5 12.Bd3 Ne5 1/2-1/2

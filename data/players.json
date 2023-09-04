@@ -1634,7 +1634,8 @@
     "name": "BENKO, Pal",
     "year": "1945-2008",
     "games": 1395,
-    "id": "14726"
+    "id": "14726",
+    "synced": true
   },
   {
     "higestRating": 2543,
@@ -19932,7 +19933,8 @@
     "name": "FLORES, Rafael Emilio Espinosa",
     "year": "1983-2008",
     "games": 176,
-    "id": "69083"
+    "id": "69083",
+    "synced": true
   },
   {
     "higestRating": 2541,
@@ -26139,7 +26141,8 @@
     "name": "LUND, Silas",
     "year": "1998-2019",
     "games": 124,
-    "id": "64334"
+    "id": "64334",
+    "synced": true
   },
   {
     "higestRating": 2224,
@@ -36430,7 +36433,8 @@
     "name": "SAREN, Ilkka",
     "year": "1959-2007",
     "games": 82,
-    "id": "42271"
+    "id": "42271",
+    "synced": true
   },
   {
     "higestRating": 2447,
@@ -62394,7 +62398,8 @@
     "name": "ZEBERSKI, Jakub",
     "year": "2003-2010",
     "games": 37,
-    "id": "102492"
+    "id": "102492",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -85934,7 +85939,8 @@
     "name": "SAATDJIAN, Thomas",
     "year": "2005-2015",
     "games": 20,
-    "id": "99265"
+    "id": "99265",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -98948,7 +98954,8 @@
     "name": "TAUBER, Manfred",
     "year": "1991-2006",
     "games": 13,
-    "id": "63599"
+    "id": "63599",
+    "synced": true
   },
   {
     "higestRating": 2203,

@@ -1,0 +1,14 @@
+[Event "62nd US Open"]
+[Site "San Francisco, CA USA"]
+[Date "1961.08.16"]
+[EventDate "1961.08.14"]
+[Round "3.1"]
+[Result "1-0"]
+[White "Pal Benko"]
+[Black "Charles T Morgan"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 g6 5.Nc3 Bg7 6.Qb3 O-O 7.Bd2 dxc4 8.Bxc4 b5 9.Be2 a6 10.O-O Bb7 11.a4 Nbd7 12.Rfd1 Qb8 13.h3 e5 14.dxe5 Nxe5 15.Nxe5 Qxe5 16.Bf3 Rfd8 17.axb5 axb5 18.Rxa8 Bxa8 19.Ne2 Ne4 20.Bc3 Rxd1+ 21.Qxd1 Qd6 22.Qa1 1-0
