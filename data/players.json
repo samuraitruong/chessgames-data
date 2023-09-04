@@ -4488,7 +4488,8 @@
     "name": "BRKIC, Ante",
     "year": "1997-2023",
     "games": 765,
-    "id": "49227"
+    "id": "49227",
+    "synced": true
   },
   {
     "higestRating": 2620,
@@ -21306,7 +21307,8 @@
     "name": "BIKHOVSKY, Anatoly Avraamovich",
     "year": "1955-2000",
     "games": 162,
-    "id": "40978"
+    "id": "40978",
+    "synced": true
   },
   {
     "higestRating": 2359,
@@ -25353,7 +25355,8 @@
     "name": "ALONSO, Yusnel Bacallao",
     "year": "2009-2018",
     "games": 130,
-    "id": "131801"
+    "id": "131801",
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -98614,7 +98617,8 @@
     "name": "SKEELS, James B",
     "year": "1990-2000",
     "games": 14,
-    "id": "90345"
+    "id": "90345",
+    "synced": true
   },
   {
     "higestRating": 2285,
