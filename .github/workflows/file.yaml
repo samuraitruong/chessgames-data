@@ -29,5 +29,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add -A
-          git commit -m "Update JSON paths"
+          git commit -m ":fire: Update JSON paths [skip ci]"
           git push
