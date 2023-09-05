@@ -25350,7 +25350,8 @@
     "name": "WARAKOMSKA, Anna",
     "year": "2002-2019",
     "games": 130,
-    "id": "126600"
+    "id": "126600",
+    "synced": true
   },
   {
     "higestRating": 2605,
@@ -26710,7 +26711,8 @@
     "name": "SCHULZ, Klaus-Juergen",
     "year": "1983-2019",
     "games": 121,
-    "id": "115766"
+    "id": "115766",
+    "synced": true
   },
   {
     "higestRating": 2485,
@@ -35964,7 +35966,8 @@
     "name": "YELETSKY, Ivan",
     "year": "2012-2023",
     "games": 84,
-    "id": "150515"
+    "id": "150515",
+    "synced": true
   },
   {
     "higestRating": 2391,
@@ -49822,7 +49825,8 @@
     "name": "NORDENBAEK, Jan",
     "year": "1994-2018",
     "games": 53,
-    "id": "50546"
+    "id": "50546",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -50499,7 +50503,8 @@
     "name": "THORGEIRSSON, Sverrir",
     "year": "2005-2017",
     "games": 52,
-    "id": "95856"
+    "id": "95856",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -53040,7 +53045,8 @@
     "name": "SMITHERS, Steven A",
     "year": "1995-2001",
     "games": 48,
-    "id": "90260"
+    "id": "90260",
+    "synced": true
   },
   {
     "higestRating": 2293,
@@ -77459,7 +77465,8 @@
     "name": "ARMBRUST, Florian",
     "year": "2005-2014",
     "games": 25,
-    "id": "95751"
+    "id": "95751",
+    "synced": true
   },
   {
     "higestRating": 2450,
@@ -77985,7 +77992,8 @@
     "name": "BRZEZINSKI, Adam",
     "year": "2014-2016",
     "games": 25,
-    "id": "152621"
+    "id": "152621",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -88145,7 +88153,8 @@
     "name": "PAPE, Manfred",
     "year": "1972-2008",
     "games": 19,
-    "id": "102974"
+    "id": "102974",
+    "synced": true
   },
   {
     "higestRating": 2269,
@@ -102807,7 +102816,8 @@
     "name": "BENNEDIK, Martin",
     "year": "1998-2000",
     "games": 4,
-    "id": "97610"
+    "id": "97610",
+    "synced": true
   },
   {
     "higestRating": 2243,
