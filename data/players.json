@@ -14805,7 +14805,8 @@
     "name": "KRAEMER, Martin",
     "year": "2000-2022",
     "games": 246,
-    "id": "68676"
+    "id": "68676",
+    "synced": true
   },
   {
     "higestRating": 2513,
@@ -36165,7 +36166,8 @@
     "name": "MACAK, Stefan",
     "year": "2000-2012",
     "games": 83,
-    "id": "68773"
+    "id": "68773",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -40720,7 +40722,8 @@
     "name": "GONZALEZ, Alberto Andres",
     "year": "1993-2012",
     "games": 71,
-    "id": "50553"
+    "id": "50553",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -44919,7 +44922,8 @@
     "name": "GOLDSMITH, Alan",
     "year": "1971-2017",
     "games": 62,
-    "id": "41328"
+    "id": "41328",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -60803,7 +60807,8 @@
     "name": "MIGUEL, Sergio",
     "year": "2012-2022",
     "games": 39,
-    "id": "140435"
+    "id": "140435",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -85598,7 +85603,8 @@
     "name": "BLOT, Jerome",
     "year": "1999-2003",
     "games": 20,
-    "id": "74474"
+    "id": "74474",
+    "synced": true
   },
   {
     "higestRating": 2210,
