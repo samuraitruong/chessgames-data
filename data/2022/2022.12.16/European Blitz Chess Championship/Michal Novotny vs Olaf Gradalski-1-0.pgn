@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.16"]
+[EventDate "2022.12.16"]
+[Round "19.50"]
+[Result "1-0"]
+[White "Michal Novotny"]
+[Black "Olaf Gradalski"]
+[ECO "B12"]
+[WhiteElo "2250"]
+[BlackElo "2079"]
+[PlyCount "32"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O Ne7 7. Nh4 h6 8. Nxf5 Nxf5 9. a4 c5 10. c4 Nxd4 11. cxd5 Nxe2+ 12. Qxe2 exd5 13. e6 Nf6 14. Qb5+ Ke7 15. Qxb7+ Kxe6 16. Re1+ Kd6 1-0

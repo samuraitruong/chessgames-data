@@ -1,0 +1,14 @@
+[Event "ch-CZE 2020"]
+[Site "Plzen CZE"]
+[Date "2020.08.25"]
+[EventDate "?"]
+[Round "3.22"]
+[Result "0-1"]
+[White "Jan Bartos"]
+[Black "Michal Novotny"]
+[ECO "A43"]
+[WhiteElo "2131"]
+[BlackElo "2246"]
+[PlyCount "40"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 b5 4. c3 Bb7 5. e4 Nxe4 6. Bxb5 e6 7. dxe6 fxe6 8. O-O Be7 9. Ne5 O-O 10. Nxd7 Bh4 11. Be3 Nxf2 12. Bxf2 Bxf2+ 13. Rxf2 Rxf2 14. Kxf2 Nxd7 15. Bxd7 Qg5 16. Bxe6+ Kh8 17. Bh3 Rf8+ 18. Kg1 Qe3+ 19. Kh1 Qxh3 20. Qe2 Qxg2+ 0-1
