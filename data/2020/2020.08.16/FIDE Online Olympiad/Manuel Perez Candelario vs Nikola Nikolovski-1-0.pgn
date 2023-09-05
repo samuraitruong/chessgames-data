@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.16"]
+[EventDate "2020.08.14"]
+[Round "7"]
+[Result "1-0"]
+[White "Manuel Perez Candelario"]
+[Black "Nikola Nikolovski"]
+[ECO "B76"]
+[WhiteElo "2507"]
+[BlackElo "2430"]
+[Source "Chess-Results"]
+[PlyCount "73"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2 O-O 9. O-O-O d5 10. Nxc6 bxc6 11. Bh6 Bxh6 12. Qxh6 Qa5 13. e5 Nh5 14. g4 Ng7 15. h4 Rb8 16. h5 Bf5 17. gxf5 Nxf5 18. Qf4 Rxb2 19. Kxb2 Rb8+ 20. Bb5 e6 21. hxg6 fxg6 22. Rd3 cxb5 23. Ne2 Rc8 24. Qd2 b4 25. Nd4 Nxd4 26. Rxd4 Qa3+ 27. Kb1 Rc3 28. Qh6 Rc7 29. Rf4 b3 30. axb3 Qc5 31. Qh2 Qc3 32. Rg4 a5 33. Rxg6+ Kf8 34. Qh6+ Ke8 35. Rxe6+ Kd8 36. Qf8+ Kd7 37. Qe8# 1-0
