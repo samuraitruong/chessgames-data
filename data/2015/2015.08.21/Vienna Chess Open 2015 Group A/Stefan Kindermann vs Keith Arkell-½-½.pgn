@@ -1,0 +1,14 @@
+[Event "Vienna Chess Open 2015 Group A"]
+[Site "Vienna AUT"]
+[Date "2015.08.21"]
+[EventDate "2015.08.15"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Stefan Kindermann"]
+[Black "Keith Arkell"]
+[ECO "B12"]
+[WhiteElo "2507"]
+[BlackElo "2488"]
+[PlyCount "40"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 Nc6 5.Nf3 Bg4 6.c3 Bxf3 7.Qxf3 Nxe5 8.Bb5+ Nc6 9.c4 e6 10.Nc3 Bxc5 11.cxd5 exd5 12.Nxd5 Nge7 13.Nc3 O-O 14.O-O Nd4 15.Qh5 Rc8 16.Bd3 Ng6 17.Ne4 Ne6 18.Rd1 Bd4 19.Ng5 Nxg5 20.Qxg5 1/2-1/2
