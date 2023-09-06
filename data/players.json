@@ -3743,7 +3743,8 @@
     "name": "HAMMER, Jon Ludvig",
     "year": "2000-2023",
     "games": 877,
-    "id": "58321"
+    "id": "58321",
+    "synced": true
   },
   {
     "higestRating": 2558,
@@ -48583,7 +48584,8 @@
     "name": "VILLARROEL, Geber",
     "year": "1964-1970",
     "games": 55,
-    "id": "28713"
+    "id": "28713",
+    "synced": true
   },
   {
     "higestRating": 2465,
@@ -63881,7 +63883,8 @@
     "name": "SOTNIKOV, Igor",
     "year": "1992-1996",
     "games": 35,
-    "id": "25942"
+    "id": "25942",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -75325,7 +75328,8 @@
     "name": "DIOGO, Vasco",
     "year": "2001-2020",
     "games": 26,
-    "id": "50381"
+    "id": "50381",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -76360,7 +76364,8 @@
     "name": "IAGAR, Razvan-Gabriel",
     "year": "2010-2015",
     "games": 26,
-    "id": "149051"
+    "id": "149051",
+    "synced": true
   },
   {
     "higestRating": 2211,
@@ -76488,7 +76493,8 @@
     "name": "EISEN, Lewis",
     "year": "1992-2007",
     "games": 25,
-    "id": "11273"
+    "id": "11273",
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -89934,7 +89940,8 @@
     "name": "VERZHANSKY, Alexander",
     "year": "2001-2010",
     "games": 18,
-    "id": "74693"
+    "id": "74693",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -93961,7 +93968,8 @@
     "name": "LUFT, Andreas",
     "year": "1991-2004",
     "games": 16,
-    "id": "46910"
+    "id": "46910",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -101774,7 +101782,8 @@
     "name": "DUDEK, Richard",
     "year": "1977-2017",
     "games": 7,
-    "id": "92157"
+    "id": "92157",
+    "synced": true
   },
   {
     "higestRating": 2461,
