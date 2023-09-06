@@ -2,7 +2,7 @@ name: Collect JSON Paths
 on:
   push:
     branches:
-      - main
+      - main1
 
 jobs:
   collect-json-paths:
