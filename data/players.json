@@ -12789,7 +12789,8 @@
     "name": "KOVALYOV, Anton",
     "year": "2005-2019",
     "games": 287,
-    "id": "96626"
+    "id": "96626",
+    "synced": true
   },
   {
     "higestRating": 2565,
@@ -17333,7 +17334,8 @@
     "name": "LOEFFLER, Stefan",
     "year": "1986-2017",
     "games": 207,
-    "id": "26325"
+    "id": "26325",
+    "synced": true
   },
   {
     "higestRating": 2505,
@@ -52960,7 +52962,8 @@
     "name": "TABATT, Hendrik",
     "year": "1998-2017",
     "games": 48,
-    "id": "74780"
+    "id": "74780",
+    "synced": true
   },
   {
     "higestRating": 2331,
@@ -63870,7 +63873,8 @@
     "name": "BRIGGS, Philip J",
     "year": "1995-2001",
     "games": 35,
-    "id": "35593"
+    "id": "35593",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -64705,7 +64709,8 @@
     "name": "KHRIPACHENKO, Alexander",
     "year": "2021-2022",
     "games": 35,
-    "id": "171344"
+    "id": "171344",
+    "synced": true
   },
   {
     "higestRating": 2244,
