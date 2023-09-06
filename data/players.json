@@ -8016,7 +8016,8 @@
     "name": "SLIPAK, Sergio",
     "year": "1983-2023",
     "games": 465,
-    "id": "26902"
+    "id": "26902",
+    "synced": true
   },
   {
     "higestRating": 2482,
@@ -64163,7 +64164,8 @@
     "name": "GOCHEVA, Rumiana",
     "year": "1979-2013",
     "games": 35,
-    "id": "56162"
+    "id": "56162",
+    "synced": true
   },
   {
     "higestRating": 2404,
@@ -94749,7 +94751,8 @@
     "name": "HAAS, Frank-Martin",
     "year": "1987-2004",
     "games": 16,
-    "id": "87248"
+    "id": "87248",
+    "synced": true
   },
   {
     "higestRating": 2303,
