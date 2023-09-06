@@ -5733,7 +5733,8 @@
     "name": "MILADINOVIC, Igor",
     "year": "1988-2023",
     "games": 636,
-    "id": "14211"
+    "id": "14211",
+    "synced": true
   },
   {
     "higestRating": 2608,
@@ -27919,7 +27920,8 @@
     "name": "TAYLOR, Gordon",
     "year": "1970-2005",
     "games": 114,
-    "id": "28383"
+    "id": "28383",
+    "synced": true
   },
   {
     "higestRating": 2302,
@@ -69926,7 +69928,8 @@
     "name": "ROMCOVICI, Victor",
     "year": "1998-2016",
     "games": 30,
-    "id": "56658"
+    "id": "56658",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -95882,7 +95885,8 @@
     "name": "MOSTBAUER, Florian",
     "year": "2015-2021",
     "games": 16,
-    "id": "155790"
+    "id": "155790",
+    "synced": true
   },
   {
     "higestRating": 2330,
