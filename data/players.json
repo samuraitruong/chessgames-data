@@ -10973,7 +10973,8 @@
     "name": "BUKAVSHIN, Ivan",
     "year": "2006-2015",
     "games": 339,
-    "id": "113634"
+    "id": "113634",
+    "synced": true
   },
   {
     "higestRating": 2204,
@@ -11631,7 +11632,8 @@
     "name": "KHACHIYAN, Melikset",
     "year": "1984-2021",
     "games": 317,
-    "id": "91092"
+    "id": "91092",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -78968,7 +78970,8 @@
     "name": "CZAECZINE, Anne",
     "year": "2001-2006",
     "games": 24,
-    "id": "87299"
+    "id": "87299",
+    "synced": true
   },
   {
     "higestRating": 2262,
