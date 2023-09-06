@@ -1,0 +1,15 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.10.30"]
+[EventDate "1982.10.30"]
+[Round "1"]
+[Result "1-0"]
+[White "Roberto Cifuentes Parada"]
+[Black "Mohamed Telmoune"]
+[ECO "A46"]
+[WhiteElo "2415"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "37"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 Be7 4.Nbd2 d5 5.e3 O-O 6.Bd3 b6 7.Ne5 Bb7 8.Qf3 Nbd7 9.O-O-O c5 10.c3 Rc8 11.Qh3 h6 12.Bf4 c4 13.Bc2 b5 14.Bxh6 gxh6 15. Qxh6 b4 16.h4 bxc3 17.Rh3 cxd2+ 18.Rxd2 Nxe5 19.dxe5 1-0
