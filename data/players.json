@@ -5002,7 +5002,8 @@
     "name": "WARD, Chris",
     "year": "1981-2022",
     "games": 706,
-    "id": "14224"
+    "id": "14224",
+    "synced": true
   },
   {
     "higestRating": 2662,
@@ -25143,7 +25144,8 @@
     "name": "MARINKOVIC, Ivan",
     "year": "1983-2019",
     "games": 131,
-    "id": "26534"
+    "id": "26534",
+    "synced": true
   },
   {
     "higestRating": 2432,
@@ -39108,7 +39110,8 @@
     "name": "NORDSTROM, Felix",
     "year": "1966-2021",
     "games": 75,
-    "id": "48305"
+    "id": "48305",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -57796,7 +57799,8 @@
     "name": "MUELLER, Reinhold",
     "year": "2001-2018",
     "games": 42,
-    "id": "54754"
+    "id": "54754",
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -58213,7 +58217,8 @@
     "name": "NORDQUELLE, Daniel",
     "year": "2014-2022",
     "games": 42,
-    "id": "149331"
+    "id": "149331",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -61662,7 +61667,8 @@
     "name": "LAURSEN, Niels Norskov",
     "year": "2000-2018",
     "games": 38,
-    "id": "111587"
+    "id": "111587",
+    "synced": true
   },
   {
     "higestRating": 2277,
@@ -73097,7 +73103,8 @@
     "name": "PEREZ, Lazaro Antonio Bueno",
     "year": "1975-1984",
     "games": 28,
-    "id": "111469"
+    "id": "111469",
+    "synced": true
   },
   {
     "higestRating": 2390,
