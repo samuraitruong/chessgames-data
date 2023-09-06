@@ -13646,7 +13646,8 @@
     "name": "SADORRA, Julio Catalino",
     "year": "1996-2019",
     "games": 267,
-    "id": "76910"
+    "id": "76910",
+    "synced": true
   },
   {
     "higestRating": 2426,
@@ -15074,7 +15075,8 @@
     "name": "CHERNOV, Vadim",
     "year": "1986-2019",
     "games": 240,
-    "id": "56619"
+    "id": "56619",
+    "synced": true
   },
   {
     "higestRating": 2524,
@@ -17310,7 +17312,8 @@
     "name": "MANOLACHE, Marius",
     "year": "1994-2022",
     "games": 208,
-    "id": "66790"
+    "id": "66790",
+    "synced": true
   },
   {
     "higestRating": 2534,
@@ -29603,7 +29606,8 @@
     "name": "JUERGENS, Vera",
     "year": "1990-2008",
     "games": 107,
-    "id": "57074"
+    "id": "57074",
+    "synced": true
   },
   {
     "higestRating": 2423,
@@ -35049,7 +35053,8 @@
     "name": "KYC, Jerzy",
     "year": "2017-2022",
     "games": 87,
-    "id": "160151"
+    "id": "160151",
+    "synced": true
   },
   {
     "higestRating": 2369,
@@ -51086,7 +51091,8 @@
     "name": "STUPAVSKI, Zdenko",
     "year": "2005-2008",
     "games": 51,
-    "id": "99245"
+    "id": "99245",
+    "synced": true
   },
   {
     "higestRating": 2426,
@@ -58549,7 +58555,8 @@
     "name": "MILICEVIC, Dragoljub",
     "year": "1957-2007",
     "games": 41,
-    "id": "46304"
+    "id": "46304",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -61881,7 +61888,8 @@
     "name": "ROZYCKI, Bartlomiej",
     "year": "2014-2017",
     "games": 38,
-    "id": "152003"
+    "id": "152003",
+    "synced": true
   },
   {
     "higestRating": 2304,
@@ -66487,7 +66495,8 @@
     "name": "SAVAGE, Ben D M",
     "year": "1996-2012",
     "games": 33,
-    "id": "68100"
+    "id": "68100",
+    "synced": true
   },
   {
     "higestRating": 2412,
@@ -72605,7 +72614,8 @@
     "name": "DU, Shan",
     "year": "2001-2007",
     "games": 28,
-    "id": "52662"
+    "id": "52662",
+    "synced": true
   },
   {
     "higestRating": 2297,
@@ -72780,7 +72790,8 @@
     "name": "FERRARA, Alexis",
     "year": "1999-2013",
     "games": 28,
-    "id": "70383"
+    "id": "70383",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -79137,7 +79148,8 @@
     "name": "WALLACH, Kenneth",
     "year": "1982-2012",
     "games": 24,
-    "id": "95746"
+    "id": "95746",
+    "synced": true
   },
   {
     "higestRating": 2349,
@@ -87101,7 +87113,8 @@
     "name": "DAUW, Sterre",
     "year": "2022-2023",
     "games": 20,
-    "id": "187168"
+    "id": "187168",
+    "synced": true
   },
   {
     "higestRating": 2238,
