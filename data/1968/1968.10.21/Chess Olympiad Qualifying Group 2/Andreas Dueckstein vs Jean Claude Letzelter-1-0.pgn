@@ -1,0 +1,15 @@
+[Event "Chess Olympiad Qualifying Group 2"]
+[Site "Lugano SUI"]
+[Date "1968.10.21"]
+[EventDate "1968.10.17"]
+[Round "4"]
+[Result "1-0"]
+[White "Andreas Dueckstein"]
+[Black "Jean Claude Letzelter"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "23"]
+
+1.e4 e5 2.Nf3 Nc6 3.c3 Nf6 4.d4 d5 5.Bb5 Nxe4 6.Nxe5 Qf6 7.O-O Bd6 8.f3 Ng5 9.Nxc6 O-O 10.Ne5 Nh3+ 11.Kh1 Qh4 12.Qe1 1-0
