@@ -5709,7 +5709,8 @@
     "name": "VAN FOREEST, Lucas",
     "year": "2011-2023",
     "games": 641,
-    "id": "133502"
+    "id": "133502",
+    "synced": true
   },
   {
     "higestRating": 2525,
@@ -7260,7 +7261,8 @@
     "name": "SHCHERBAKOV, Ruslan",
     "year": "1988-2019",
     "games": 504,
-    "id": "21383"
+    "id": "21383",
+    "synced": true
   },
   {
     "higestRating": 2591,
@@ -19892,7 +19894,8 @@
     "name": "MANNINEN, Marko",
     "year": "1987-2001",
     "games": 176,
-    "id": "18897"
+    "id": "18897",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -36250,7 +36253,8 @@
     "name": "BARNSLEY, Anthony R",
     "year": "1970-2011",
     "games": 83,
-    "id": "90272"
+    "id": "90272",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -63844,7 +63848,8 @@
     "name": "SCHOENE, Ralf",
     "year": "1982-2017",
     "games": 35,
-    "id": "11642"
+    "id": "11642",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -79145,7 +79150,8 @@
     "name": "PECHA, Martin",
     "year": "1996-2004",
     "games": 24,
-    "id": "97549"
+    "id": "97549",
+    "synced": true
   },
   {
     "higestRating": 2258,

@@ -1,0 +1,15 @@
+[Event "Moscow Olympiad"]
+[Site "Moscow RUS"]
+[Date "1994.12.15"]
+[EventDate "1994.12.01"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Marko Manninen"]
+[Black "Vlatko Bogdanovski"]
+[ECO "E11"]
+[WhiteElo "2385"]
+[BlackElo "2465"]
+[Source "Olimpbase"]
+[PlyCount "31"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 c5 5.Bxb4 cxb4 6.g3 O-O 7.Bg2 d6 8.O-O Nc6 9.a3 Re8 10.Qb3 Qb6 11.axb4 Qxb4 12.Nfd2 d5 13.Qxb4 Nxb4 14.Na3 Bd7 15.Rfc1 Rec8 16.Nc2 1/2-1/2

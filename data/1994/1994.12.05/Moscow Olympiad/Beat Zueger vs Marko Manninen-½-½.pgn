@@ -1,0 +1,15 @@
+[Event "Moscow Olympiad"]
+[Site "Moscow RUS"]
+[Date "1994.12.05"]
+[EventDate "1994.12.01"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Beat Zueger"]
+[Black "Marko Manninen"]
+[ECO "A49"]
+[WhiteElo "2420"]
+[BlackElo "2385"]
+[Source "Olimpbase"]
+[PlyCount "40"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d5 6.Nbd2 c6 7.c3 Nbd7 8.b3 Qc7 9.Bb2 e5 10.dxe5 Nxe5 11.c4 Nxf3+ 12.Bxf3 Bh3 13.Re1 Rad8 14.cxd5 Nxd5 15. Bxg7 Kxg7 16.Qc2 Qe5 17.Nc4 Nb4 18.Qc1 Qf6 19.Bg2 Bxg2 20.Kxg2 1/2-1/2
