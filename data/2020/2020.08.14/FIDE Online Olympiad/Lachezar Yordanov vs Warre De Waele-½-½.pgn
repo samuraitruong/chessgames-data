@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.14"]
+[EventDate "2020.08.14"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Lachezar Yordanov"]
+[Black "Warre De Waele"]
+[ECO "A45"]
+[WhiteElo "2155"]
+[BlackElo "2238"]
+[PlyCount "34"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 c5 4. dxc5 e6 5. Nf3 Bxc5 6. Nbd2 O-O 7. Bd3 Nc6 8. O-O Re8 9. Ne5 Nxe5 10. Bxe5 Bd6 11. Bxd6 Qxd6 12. c4 b6 13. cxd5 Qxd5 14. Be2 Bb7 15. Bf3 Qd7 16. Bxb7 Qxb7 17. Nf3 Rac8 1/2-1/2
