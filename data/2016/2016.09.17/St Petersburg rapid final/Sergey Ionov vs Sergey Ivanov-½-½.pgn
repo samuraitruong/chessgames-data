@@ -1,0 +1,14 @@
+[Event "St Petersburg rapid final"]
+[Site "St Petersburg"]
+[Date "2016.09.17"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Sergey Ionov"]
+[Black "Sergey Ivanov"]
+[ECO "E14"]
+[WhiteElo "2535"]
+[BlackElo "2547"]
+[PlyCount "44"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 b6 4.c4 Bb7 5.Nc3 d5 6.cxd5 exd5 7.Bb5+ c6 8.Bd3 Nbd7 9.O-O Bd6 10.e4 dxe4 11.Nxe4 Nxe4 12.Bxe4 O-O 13.Bg5 Nf6 14.Bc2 h6 15.Bh4 c5 16.Re1 g5 17.Bg3 Bxg3 18.hxg3 cxd4 19.Qxd4 Bxf3 20.Qxd8 Rc8 21.Qxf8+ Rxf8 22.gxf3 1/2-1/2

@@ -2851,7 +2851,8 @@
     "name": "IONOV, Sergey",
     "year": "1979-2022",
     "games": 1046,
-    "id": "18094"
+    "id": "18094",
+    "synced": true
   },
   {
     "higestRating": 2603,
@@ -14805,7 +14806,8 @@
     "name": "MICHIELS, Bart",
     "year": "1998-2020",
     "games": 246,
-    "id": "52248"
+    "id": "52248",
+    "synced": true
   },
   {
     "higestRating": 2581,
@@ -49344,7 +49346,8 @@
     "name": "SAMARITANI, Fabio",
     "year": "1988-2007",
     "games": 54,
-    "id": "60353"
+    "id": "60353",
+    "synced": true
   },
   {
     "higestRating": 2432,
@@ -68925,7 +68928,8 @@
     "name": "PAGAN, Angel Berrios",
     "year": "1965-1972",
     "games": 31,
-    "id": "89586"
+    "id": "89586",
+    "synced": true
   },
   {
     "higestRating": 2525,
