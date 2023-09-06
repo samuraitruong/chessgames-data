@@ -12755,7 +12755,8 @@
     "name": "BATCHULUUN, Tsegmed",
     "year": "2001-2023",
     "games": 288,
-    "id": "56771"
+    "id": "56771",
+    "synced": true
   },
   {
     "higestRating": 2545,
@@ -20831,7 +20832,8 @@
     "name": "MIKADZE, Miranda",
     "year": "2003-2019",
     "games": 167,
-    "id": "95827"
+    "id": "95827",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -48313,7 +48315,8 @@
     "name": "MALIKENTZOS, Sotirios",
     "year": "2008-2018",
     "games": 56,
-    "id": "117559"
+    "id": "117559",
+    "synced": true
   },
   {
     "higestRating": 2444,
@@ -55575,7 +55578,8 @@
     "name": "PLATZGUMMER, Fabian",
     "year": "2009-2017",
     "games": 45,
-    "id": "126679"
+    "id": "126679",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -86375,7 +86379,8 @@
     "name": "KACHIBADZE, Georg",
     "year": "2007-2013",
     "games": 20,
-    "id": "126257"
+    "id": "126257",
+    "synced": true
   },
   {
     "higestRating": 2207,
