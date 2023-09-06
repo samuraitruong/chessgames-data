@@ -1,0 +1,14 @@
+[Event "Ardid mem op"]
+[Site "Zaragoza"]
+[Date "2004.04.11"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Moreno Gracia, Daniel"]
+[Black "Aleksandr Veingold"]
+[ECO "B56"]
+[WhiteElo "1975"]
+[BlackElo "2464"]
+[PlyCount "36"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Ng4 7. Bg5 h6 8. Bh4 g5 9. Bg3 Bg7 10. h3 Bxd4 11. hxg4 Qa5 12. Qd2 Bxg4 13. Bd3 Rc8 14. O-O h5 15. a3 h4 16. Bh2 f6 17. Bc4 h3 18. g3 Ne5 0-1

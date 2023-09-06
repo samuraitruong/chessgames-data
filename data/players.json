@@ -1812,7 +1812,8 @@
     "name": "VEINGOLD, Alexander",
     "year": "1972-2013",
     "games": 1301,
-    "id": "14126"
+    "id": "14126",
+    "synced": true
   },
   {
     "higestRating": 2450,
@@ -24481,7 +24482,8 @@
     "name": "CHECA, Nicolas",
     "year": "2015-2022",
     "games": 137,
-    "id": "155733"
+    "id": "155733",
+    "synced": true
   },
   {
     "higestRating": 2396,
@@ -24717,7 +24719,8 @@
     "name": "LI, Xueyi",
     "year": "2012-2023",
     "games": 135,
-    "id": "138166"
+    "id": "138166",
+    "synced": true
   },
   {
     "higestRating": 2347,
@@ -29736,7 +29739,8 @@
     "name": "BAIKOV, Vladimir",
     "year": "1968-2010",
     "games": 106,
-    "id": "18289"
+    "id": "18289",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -29750,7 +29754,8 @@
     "name": "BICK, John D",
     "year": "1996-2020",
     "games": 106,
-    "id": "19930"
+    "id": "19930",
+    "synced": true
   },
   {
     "higestRating": 2331,
@@ -40975,7 +40980,8 @@
     "name": "MASSONI, Michael",
     "year": "2005-2017",
     "games": 71,
-    "id": "98066"
+    "id": "98066",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -42313,7 +42319,8 @@
     "name": "REDMOND, John P",
     "year": "1991-2022",
     "games": 68,
-    "id": "105664"
+    "id": "105664",
+    "synced": true
   },
   {
     "higestRating": 2382,
@@ -61050,7 +61057,8 @@
     "name": "LEVITAN, Yuliya",
     "year": "1992-1997",
     "games": 38,
-    "id": "16741"
+    "id": "16741",
+    "synced": true
   },
   {
     "higestRating": 2342,
@@ -64439,7 +64447,8 @@
     "name": "PANKRATOV, Valery",
     "year": "1970-2003",
     "games": 35,
-    "id": "90235"
+    "id": "90235",
+    "synced": true
   },
   {
     "higestRating": 2558,
@@ -77063,7 +77072,8 @@
     "name": "NARVA, Jaan",
     "year": "1983-2016",
     "games": 25,
-    "id": "54549"
+    "id": "54549",
+    "synced": true
   },
   {
     "higestRating": 2326,
@@ -95682,7 +95692,8 @@
     "name": "RABELER, Gert",
     "year": "1980-2003",
     "games": 16,
-    "id": "129420"
+    "id": "129420",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -96785,7 +96796,8 @@
     "name": "BUITRAGO, Juan Carlos",
     "year": "1999-2010",
     "games": 15,
-    "id": "53151"
+    "id": "53151",
+    "synced": true
   },
   {
     "higestRating": 2310,
