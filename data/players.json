@@ -4636,7 +4636,8 @@
     "name": "KARLSSON, Lars",
     "year": "1974-2017",
     "games": 753,
-    "id": "18045"
+    "id": "18045",
+    "synced": true
   },
   {
     "higestRating": 2454,
@@ -21095,7 +21096,8 @@
     "name": "MEDANCIC, Rikard",
     "year": "1980-2022",
     "games": 165,
-    "id": "67508"
+    "id": "67508",
+    "synced": true
   },
   {
     "higestRating": 2501,
@@ -29758,7 +29760,8 @@
     "name": "VUL, Arkadi Eremeevich",
     "year": "1981-2014",
     "games": 106,
-    "id": "33713"
+    "id": "33713",
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -36963,7 +36966,8 @@
     "name": "HERSVIK, Daniel",
     "year": "1993-2004",
     "games": 81,
-    "id": "49532"
+    "id": "49532",
+    "synced": true
   },
   {
     "higestRating": 2338,
@@ -92249,7 +92253,8 @@
     "name": "MITURA, Vaclav",
     "year": "1992-2003",
     "games": 17,
-    "id": "89744"
+    "id": "89744",
+    "synced": true
   },
   {
     "higestRating": 2375,
