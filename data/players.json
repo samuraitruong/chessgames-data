@@ -9413,7 +9413,8 @@
     "name": "HAAG, Ervin",
     "year": "1953-2003",
     "games": 396,
-    "id": "16566"
+    "id": "16566",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -39745,7 +39746,8 @@
     "name": "ENGLERT, Fabian",
     "year": "2013-2018",
     "games": 74,
-    "id": "147371"
+    "id": "147371",
+    "synced": true
   },
   {
     "higestRating": 2321,
@@ -60151,7 +60153,8 @@
     "name": "TSAY, Vincent",
     "year": "2017-2022",
     "games": 40,
-    "id": "159653"
+    "id": "159653",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -88931,7 +88934,8 @@
     "name": "KHALAKHAN, Jurij",
     "year": "2015-2021",
     "games": 19,
-    "id": "155791"
+    "id": "155791",
+    "synced": true
   },
   {
     "higestRating": 2224,
@@ -91559,7 +91563,8 @@
     "name": "PINGAS, Blas",
     "year": "1981-2005",
     "games": 17,
-    "id": "38598"
+    "id": "38598",
+    "synced": true
   },
   {
     "higestRating": 2296,
