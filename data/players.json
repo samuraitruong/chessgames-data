@@ -10357,7 +10357,8 @@
     "name": "JOHANSSON, Linus",
     "year": "2010-2022",
     "games": 361,
-    "id": "132137"
+    "id": "132137",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -14389,7 +14390,8 @@
     "name": "PELIKIAN, Jefferson",
     "year": "1991-2017",
     "games": 253,
-    "id": "16416"
+    "id": "16416",
+    "synced": true
   },
   {
     "higestRating": 2288,
@@ -15760,7 +15762,8 @@
     "name": "GERZHOY, Leonid",
     "year": "1997-2015",
     "games": 228,
-    "id": "51460"
+    "id": "51460",
+    "synced": true
   },
   {
     "higestRating": 2209,
@@ -34525,7 +34528,8 @@
     "name": "KOSTYRA, Stanislaw",
     "year": "1977-2016",
     "games": 88,
-    "id": "38285"
+    "id": "38285",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -40223,7 +40227,8 @@
     "name": "BAWART, Markus",
     "year": "1992-2011",
     "games": 72,
-    "id": "10777"
+    "id": "10777",
+    "synced": true
   },
   {
     "higestRating": 2473,
@@ -74881,7 +74886,8 @@
     "name": "PENG, Shunkai",
     "year": "2016-2021",
     "games": 27,
-    "id": "156063"
+    "id": "156063",
+    "synced": true
   },
   {
     "higestRating": 2388,
@@ -76997,7 +77003,8 @@
     "name": "MOHAMMADI, H R",
     "year": "2001-2008",
     "games": 25,
-    "id": "52590"
+    "id": "52590",
+    "synced": true
   },
   {
     "higestRating": 2282,
@@ -90432,7 +90439,8 @@
     "name": "KLEINEGGER, Frank",
     "year": "1992-2004",
     "games": 18,
-    "id": "101158"
+    "id": "101158",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -97616,7 +97624,8 @@
     "name": "WAGNER, Carl E",
     "year": "1967-2006",
     "games": 15,
-    "id": "97345"
+    "id": "97345",
+    "synced": true
   },
   {
     "higestRating": 2495,
