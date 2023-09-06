@@ -11785,7 +11785,8 @@
     "name": "ANTAL, Gergely",
     "year": "1995-2023",
     "games": 311,
-    "id": "50407"
+    "id": "50407",
+    "synced": true
   },
   {
     "higestRating": 2558,
@@ -18562,7 +18563,8 @@
     "name": "ROOS, Louis",
     "year": "1976-2015",
     "games": 191,
-    "id": "38689"
+    "id": "38689",
+    "synced": true
   },
   {
     "higestRating": 2499,
@@ -21424,7 +21426,8 @@
     "name": "DRABKE, Lorenz Maximilian",
     "year": "1999-2018",
     "games": 161,
-    "id": "67031"
+    "id": "67031",
+    "synced": true
   },
   {
     "higestRating": 2273,
@@ -53924,7 +53927,8 @@
     "name": "DAMJANOVIC, Dragan",
     "year": "2003-2010",
     "games": 47,
-    "id": "91035"
+    "id": "91035",
+    "synced": true
   },
   {
     "higestRating": 2209,
@@ -98767,7 +98771,8 @@
     "name": "ODNOROZHENKO, Kateryna",
     "year": "2006-2010",
     "games": 14,
-    "id": "121611"
+    "id": "121611",
+    "synced": true
   },
   {
     "higestRating": 2307,
