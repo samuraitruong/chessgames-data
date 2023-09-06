@@ -6721,7 +6721,8 @@
     "name": "BADELKA, Olga",
     "year": "2014-2023",
     "games": 542,
-    "id": "155434"
+    "id": "155434",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -24784,7 +24785,8 @@
     "name": "MITKOV, Marjan",
     "year": "1989-2017",
     "games": 134,
-    "id": "49452"
+    "id": "49452",
+    "synced": true
   },
   {
     "higestRating": 2454,
@@ -25065,7 +25067,8 @@
     "name": "COSTA, Jean-Luc",
     "year": "1985-2007",
     "games": 132,
-    "id": "35025"
+    "id": "35025",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -27563,7 +27566,8 @@
     "name": "BALJON, Christofoor",
     "year": "1969-2001",
     "games": 116,
-    "id": "43723"
+    "id": "43723",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -33105,7 +33109,8 @@
     "name": "SINOWJEW, Juri",
     "year": "1987-1995",
     "games": 93,
-    "id": "24679"
+    "id": "24679",
+    "synced": true
   },
   {
     "higestRating": 2450,
@@ -42041,7 +42046,8 @@
     "name": "DUNNE, Alex",
     "year": "1964-2005",
     "games": 68,
-    "id": "16860"
+    "id": "16860",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -44918,7 +44924,8 @@
     "name": "SZABO, Iuliu",
     "year": "1957-1978",
     "games": 62,
-    "id": "19255"
+    "id": "19255",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -79059,7 +79066,8 @@
     "name": "POUNTZAS, Hrisanthos",
     "year": "1979-2011",
     "games": 24,
-    "id": "87591"
+    "id": "87591",
+    "synced": true
   },
   {
     "higestRating": 2259,
@@ -90303,7 +90311,8 @@
     "name": "VAN DEN BRANDE, Werner",
     "year": "1994-2011",
     "games": 18,
-    "id": "95566"
+    "id": "95566",
+    "synced": true
   },
   {
     "higestRating": 2331,
