@@ -5094,7 +5094,8 @@
     "name": "ZIATDINOV, Raset",
     "year": "1975-2022",
     "games": 698,
-    "id": "14033"
+    "id": "14033",
+    "synced": true
   },
   {
     "higestRating": 2555,
@@ -26597,7 +26598,8 @@
     "name": "DOBOS, Jozsef",
     "year": "1986-2016",
     "games": 121,
-    "id": "19750"
+    "id": "19750",
+    "synced": true
   },
   {
     "higestRating": 2478,
@@ -33284,7 +33286,8 @@
     "name": "PORTER, Ryan W",
     "year": "1991-2021",
     "games": 93,
-    "id": "123712"
+    "id": "123712",
+    "synced": true
   },
   {
     "higestRating": 2468,
@@ -102146,7 +102149,8 @@
     "name": "DELGADO, Alejandro Herrera",
     "year": "2008",
     "games": 6,
-    "id": "118191"
+    "id": "118191",
+    "synced": true
   },
   {
     "higestRating": 2440,
