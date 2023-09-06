@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.16"]
+[EventDate "2022.12.16"]
+[Round "3.7"]
+[Result "1-0"]
+[White "Ante Saric"]
+[Black "Jan Lajbl"]
+[ECO "D79"]
+[WhiteElo "2504"]
+[BlackElo "2225"]
+[PlyCount "44"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. c4 c6 6. cxd5 cxd5 7. Ne5 Nc6 8. Nc3 O-O 9. O-O Bf5 10. Nxc6 bxc6 11. Bf4 Rc8 12. Rc1 Nh5 13. Be3 Re8 14. Qd2 e5 15. dxe5 Bxe5 16. Bd4 Nf6 17. Bxe5 Rxe5 18. Qd4 Qe7 19. b4 Ne4 20. e3 c5 21. bxc5 Qxc5 22. Qxe5 1-0
