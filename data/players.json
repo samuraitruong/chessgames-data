@@ -17673,7 +17673,8 @@
     "name": "RODRIGUEZ, Renier Castellanos",
     "year": "2002-2023",
     "games": 203,
-    "id": "88633"
+    "id": "88633",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -21930,7 +21931,8 @@
     "name": "ADAMSKI, Andrzej",
     "year": "1961-1998",
     "games": 157,
-    "id": "47874"
+    "id": "47874",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -22375,7 +22377,8 @@
     "name": "SCHWARTZMAN, Gabriel",
     "year": "1988-1997",
     "games": 153,
-    "id": "19891"
+    "id": "19891",
+    "synced": true
   },
   {
     "higestRating": 2458,
@@ -59140,7 +59143,8 @@
     "name": "SSEGWANYI, Arthur",
     "year": "2012-2022",
     "games": 41,
-    "id": "140155"
+    "id": "140155",
+    "synced": true
   },
   {
     "higestRating": 2227,
@@ -79648,7 +79652,8 @@
     "name": "FEKETE, Albert",
     "year": "1987-2020",
     "games": 24,
-    "id": "173754"
+    "id": "173754",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -99605,7 +99610,8 @@
     "name": "WATSON, Joe",
     "year": "1995-1999",
     "games": 12,
-    "id": "80055"
+    "id": "80055",
+    "synced": true
   },
   {
     "higestRating": 2345,
