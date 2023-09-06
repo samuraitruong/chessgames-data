@@ -22962,7 +22962,8 @@
     "name": "WEISS, Christian",
     "year": "1990-2019",
     "games": 149,
-    "id": "49460"
+    "id": "49460",
+    "synced": true
   },
   {
     "higestRating": 2559,
@@ -26813,7 +26814,8 @@
     "name": "BAE, Torstein",
     "year": "1995-2012",
     "games": 120,
-    "id": "35702"
+    "id": "35702",
+    "synced": true
   },
   {
     "higestRating": 2407,
@@ -44030,7 +44032,8 @@
     "name": "RUJEVIC, Mirko",
     "year": "1963-2011",
     "games": 64,
-    "id": "51334"
+    "id": "51334",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -49858,7 +49861,8 @@
     "name": "TURNER, Jan",
     "year": "1995-2019",
     "games": 53,
-    "id": "50847"
+    "id": "50847",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -61339,7 +61343,8 @@
     "name": "LATZKE, Boris Alexander",
     "year": "1995-2023",
     "games": 38,
-    "id": "57863"
+    "id": "57863",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -64749,7 +64754,8 @@
     "name": "PEDERSEN, Hans Buus",
     "year": "1979-1981",
     "games": 35,
-    "id": "179828"
+    "id": "179828",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -66336,7 +66342,8 @@
     "name": "STRUGATSKY, Vladimir",
     "year": "1984-2005",
     "games": 33,
-    "id": "57346"
+    "id": "57346",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -68668,7 +68675,8 @@
     "name": "HJELM, Niclas",
     "year": "1991-2017",
     "games": 31,
-    "id": "58036"
+    "id": "58036",
+    "synced": true
   },
   {
     "higestRating": 2506,
