@@ -1,0 +1,14 @@
+[Event "CZE-ch U16"]
+[Site "Frymburk"]
+[Date "2002.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Jan Bernasek"]
+[Black "Oldrich Vedral"]
+[ECO "E60"]
+[WhiteElo "2250"]
+[BlackElo "2048"]
+[PlyCount "48"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 c5 8. d5 a6 9. Nd2 Rb8 10. a4 Qa5 11. e4 Ne5 12. Qc2 e6 13. f4 Ned7 14. Nf3 exd5 15. cxd5 b5 16. e5 dxe5 17. fxe5 Ng4 18. e6 fxe6 19. dxe6 Nde5 20. e7 Re8 21. Nxe5 Bxe5 22. Bd5+ Kh8 23. Rf8+ Kg7 24. Rxe8 1-0

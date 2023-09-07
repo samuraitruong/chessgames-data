@@ -4076,7 +4076,8 @@
     "name": "BERNASEK, Jan",
     "year": "1995-2021",
     "games": 824,
-    "id": "54636"
+    "id": "54636",
+    "synced": true
   },
   {
     "higestRating": 2715,
@@ -7745,7 +7746,8 @@
     "name": "IVIC, Velimir",
     "year": "2012-2023",
     "games": 481,
-    "id": "140817"
+    "id": "140817",
+    "synced": true
   },
   {
     "higestRating": 2573,
@@ -23997,7 +23999,8 @@
     "name": "LODICI, Lorenzo",
     "year": "2015-2023",
     "games": 141,
-    "id": "152827"
+    "id": "152827",
+    "synced": true
   },
   {
     "higestRating": 2411,
@@ -55214,7 +55217,8 @@
     "name": "KALININA, Vladislava",
     "year": "1996-2003",
     "games": 45,
-    "id": "27812"
+    "id": "27812",
+    "synced": true
   },
   {
     "higestRating": 2285,
