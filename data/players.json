@@ -2677,7 +2677,8 @@
     "name": "SAKAEV, Konstantin",
     "year": "1974-2022",
     "games": 1095,
-    "id": "16382"
+    "id": "16382",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -21455,7 +21456,8 @@
     "name": "BASIN, Leonid",
     "year": "1979-1994",
     "games": 161,
-    "id": "19035"
+    "id": "19035",
+    "synced": true
   },
   {
     "higestRating": 2447,
@@ -85803,7 +85805,8 @@
     "name": "KITTE, Sebastian",
     "year": "1992-2000",
     "games": 20,
-    "id": "68634"
+    "id": "68634",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -91395,7 +91398,8 @@
     "name": "KRETOV, Evgenij",
     "year": "2014-2020",
     "games": 18,
-    "id": "171081"
+    "id": "171081",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -93430,7 +93434,8 @@
     "name": "GUBSKY, Egor",
     "year": "2012-2021",
     "games": 17,
-    "id": "141742"
+    "id": "141742",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -96783,7 +96788,8 @@
     "name": "ROESLER, Matthias",
     "year": "1984-1990",
     "games": 15,
-    "id": "46085"
+    "id": "46085",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -103602,7 +103608,8 @@
     "name": "HEGOBURU, Pedro F",
     "year": "2003-2020",
     "games": 3,
-    "id": "105447"
+    "id": "105447",
+    "synced": true
   },
   {
     "higestRating": 2223,
