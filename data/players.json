@@ -3757,7 +3757,8 @@
     "name": "NETO, Jaime Sunye",
     "year": "1974-2018",
     "games": 876,
-    "id": "15457"
+    "id": "15457",
+    "synced": true
   },
   {
     "higestRating": 2559,
@@ -54927,7 +54928,8 @@
     "name": "BIRD, Andrew",
     "year": "1999-2013",
     "games": 46,
-    "id": "107111"
+    "id": "107111",
+    "synced": true
   },
   {
     "higestRating": 2218,
@@ -66813,7 +66815,8 @@
     "name": "SAMOUN, Florent",
     "year": "2005-2021",
     "games": 33,
-    "id": "99116"
+    "id": "99116",
+    "synced": true
   },
   {
     "higestRating": 2482,
@@ -82412,7 +82415,8 @@
     "name": "ZIMMERMANN, Julian",
     "year": "2002-2012",
     "games": 22,
-    "id": "101040"
+    "id": "101040",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -92683,7 +92687,8 @@
     "name": "FRAGIADAKIS, Konstantinos",
     "year": "2005-2006",
     "games": 17,
-    "id": "98293"
+    "id": "98293",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -93624,7 +93629,8 @@
     "name": "YILMAZ, Goktan",
     "year": "2012-2019",
     "games": 17,
-    "id": "157902"
+    "id": "157902",
+    "synced": true
   },
   {
     "higestRating": 2373,
