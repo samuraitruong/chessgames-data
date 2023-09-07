@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.14"]
+[EventDate "2020.08.14"]
+[Round "2"]
+[Result "0-1"]
+[White "Ariana Pintor"]
+[Black "Lena Georgescu"]
+[ECO "C60"]
+[WhiteElo "1899"]
+[BlackElo "2121"]
+[Source "Chess-Results"]
+[PlyCount "138"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Ba4 b5 7. Bb3 d6 8. h3 Nge7 9. d4 exd4 10. cxd4 O-O 11. Nc3 Na5 12. Bc2 Bb7 13. Bg5 h6 14. Bf4 Rc8 15. Qc1 Kh7 16. h4 c5 17. d5 Nc4 18. Nd2 Ne5 19. Bg3 c4 20. Qb1 b4 21. Ne2 a5 22. h5 Ba6 23. hxg6+ fxg6 24. Nd4 c3 25. bxc3 bxc3 26. Ne6 Qd7 27. Nxf8+ Rxf8 28. Nb3 Bxf1 29. Qxf1 Qa7 30. a4 g5 31. Qb5 Ra8 32. Rd1 N7g6 33. Nd4 Rb8 34. Qe2 Rb2 35. Nc6 Qc5 36. Nd8 Qa3 37. Rb1 Rxb1+ 38. Bxb1 Qa1 39. Qd1 Nc4 40. Ne6 Na3 41. Bc2 Qxd1+ 42. Bxd1 c2 43. Bxc2 Nxc2 44. Bxd6 Be5 45. Be7 Nxe7 46. Nf8+ Kg7 47. Nd7 Bd4 48. Nb8 Bc5 49. Na6 Bd6 50. Kf1 Kf6 51. Ke2 Ke5 52. Kd3 Nb4+ 53. Nxb4 Bxb4 54. g3 Nxd5 55. exd5 Kxd5 56. Ke3 Ke5 57. Kf3 Kf5 58. Ke3 h5 59. f3 h4 60. gxh4 gxh4 61. Kf2 Kf4 62. Kg2 Be1 63. Kf1 Kxf3 64. Kxe1 Kg2 65. Kd2 h3 66. Kd3 h2 67. Kc4 h1=Q 68. Kb5 Qh5+ 69. Ka6 Kf3 0-1
