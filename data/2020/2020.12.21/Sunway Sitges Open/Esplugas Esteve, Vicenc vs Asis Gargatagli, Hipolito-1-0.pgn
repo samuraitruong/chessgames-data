@@ -1,0 +1,14 @@
+[Event "Sunway Sitges Open"]
+[Site "Sitges ESP"]
+[Date "2020.12.21"]
+[EventDate "2020.12.13"]
+[Round "8.22"]
+[Result "1-0"]
+[White "Esplugas Esteve, Vicenc"]
+[Black "Asis Gargatagli, Hipolito"]
+[ECO "B51"]
+[WhiteElo "2319"]
+[BlackElo "2470"]
+[PlyCount "42"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 Ngf6 6. Re1 b5 7. c4 g5 8. Nxg5 Ne5 9. Bf1 bxc4 10. d4 cxd4 11. f4 Nc6 12. Bxc4 e6 13. e5 d5 14. Bd3 Nd7 15. Nxe6 fxe6 16. Qh5+ Ke7 17. f5 h6 18. Bg5+ hxg5 19. Qxg5+ Ke8 20. Qg6+ Ke7 21. Qxe6# 1-0
