@@ -1,0 +1,14 @@
+[Event "Eupen"]
+[Site "Eupen"]
+[Date "2006.12.08"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Juergen Kaufeld"]
+[Black "Dimitri Komarov"]
+[ECO "C15"]
+[WhiteElo "2308"]
+[BlackElo "2540"]
+[PlyCount "32"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd3 dxe4 5.Bxe4 Nf6 6.Bf3 Nc6 7.Be3 O-O 8.Nge2 e5 9.Bxc6 bxc6 10.dxe5 Nd5 11.Bd2 Re8 12.Nxd5 Bxd2+ 13.Qxd2 Qxd5 14.Qxd5 cxd5 15.O-O-O Rxe5 16.Nf4 1/2-1/2
