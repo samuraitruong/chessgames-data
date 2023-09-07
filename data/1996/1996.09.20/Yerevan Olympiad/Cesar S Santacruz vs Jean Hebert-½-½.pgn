@@ -1,0 +1,15 @@
+[Event "Yerevan Olympiad"]
+[Site "Yerevan ARM"]
+[Date "1996.09.20"]
+[EventDate "1996.09.16"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Cesar S Santacruz"]
+[Black "Jean Hebert"]
+[ECO "C19"]
+[WhiteElo "2295"]
+[BlackElo "2435"]
+[Source "Olimpbase"]
+[PlyCount "40"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 c5 7.a4 Nbc6 8.Nf3 Qa5 9.Bd2 Bd7 10.Bd3 c4 11.Be2 f6 12.O-O fxe5 13.Nxe5 Nxe5 14.dxe5 O-O-O 15.Qc1 Qc7 16.Qa3 Rde8 17.f4 h5 18.Be3 Nf5 19.Bd4 Kb8 20.a5 Bb5 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "XXI Festival"]
+[Site "Arco ITA"]
+[Date "1999.10.23"]
+[EventDate "1999.10.23"]
+[Round "1"]
+[Result "1-0"]
+[White "Lexy Ortega"]
+[Black "Sergio Lettich"]
+[ECO "A46"]
+[WhiteElo "2499"]
+[BlackElo "2182"]
+[PlyCount "46"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 d6 4.c4 Be7 5.Nc3 Nbd7 6.e4 O-O 7.e5 Ne8 8.h4 dxe5 9.dxe5 b6 10.Bd3 f5 11.Qe2 c6 12.O-O-O Qc7 13.Ng5 Nc5 14.Qh5 h6 15.Qg6 Bxg5 16.hxg5 Qf7 17.Qxf7+ Rxf7 18.gxh6 g6 19.Bg5 Nd7 20.f4 c5 21.Rd2 Nb8 22.h7+ Kh8 23.Bf6+ 1-0

@@ -9313,7 +9313,8 @@
     "name": "GRIGORE, George-Gabriel",
     "year": "1990-2021",
     "games": 400,
-    "id": "42792"
+    "id": "42792",
+    "synced": true
   },
   {
     "higestRating": 2554,
@@ -10930,7 +10931,8 @@
     "name": "ORTEGA, Lexy",
     "year": "1978-2020",
     "games": 341,
-    "id": "49764"
+    "id": "49764",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -31116,7 +31118,8 @@
     "name": "BOJKOVIC, Slobodan",
     "year": "1962-2017",
     "games": 101,
-    "id": "25849"
+    "id": "25849",
+    "synced": true
   },
   {
     "higestRating": 2288,
@@ -37259,7 +37262,8 @@
     "name": "JAWICH, Amro El",
     "year": "2010-2023",
     "games": 81,
-    "id": "127226"
+    "id": "127226",
+    "synced": true
   },
   {
     "higestRating": 2386,
@@ -67440,7 +67444,8 @@
     "name": "EDZGVERADZE, Natalia",
     "year": "1990-1999",
     "games": 32,
-    "id": "38209"
+    "id": "38209",
+    "synced": true
   },
   {
     "higestRating": 2212,
@@ -68503,7 +68508,8 @@
     "name": "SANTACRUZ, Cesar S",
     "year": "1984-1998",
     "games": 31,
-    "id": "26815"
+    "id": "26815",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -85169,7 +85175,8 @@
     "name": "GERSHNIK, Anna",
     "year": "1990-1999",
     "games": 20,
-    "id": "25304"
+    "id": "25304",
+    "synced": true
   },
   {
     "higestRating": 2280,
