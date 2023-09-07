@@ -5239,7 +5239,8 @@
     "name": "ZHANG, Zhong",
     "year": "1993-2023",
     "games": 688,
-    "id": "57666"
+    "id": "57666",
+    "synced": true
   },
   {
     "higestRating": 2485,
@@ -7460,7 +7461,8 @@
     "name": "BANAS, Jan",
     "year": "1970-2013",
     "games": 495,
-    "id": "17676"
+    "id": "17676",
+    "synced": true
   },
   {
     "higestRating": 2506,
@@ -29275,7 +29277,8 @@
     "name": "MULLON, Jean-Baptiste",
     "year": "1996-2023",
     "games": 109,
-    "id": "51343"
+    "id": "51343",
+    "synced": true
   },
   {
     "higestRating": 2457,
@@ -56922,7 +56925,8 @@
     "name": "JANSSEN, Han",
     "year": "1977-1992",
     "games": 43,
-    "id": "25871"
+    "id": "25871",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -59917,7 +59921,8 @@
     "name": "MIRZA, Shahzad",
     "year": "1980-2014",
     "games": 40,
-    "id": "88558"
+    "id": "88558",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -65604,7 +65609,8 @@
     "name": "QUATTROCCHI, Gaetano",
     "year": "1996-2008",
     "games": 34,
-    "id": "90309"
+    "id": "90309",
+    "synced": true
   },
   {
     "higestRating": 2474,
@@ -85885,7 +85891,8 @@
     "name": "BORGO, Albin Dal",
     "year": "2001-2008",
     "games": 20,
-    "id": "74222"
+    "id": "74222",
+    "synced": true
   },
   {
     "higestRating": 2354,
@@ -87445,7 +87452,8 @@
     "name": "CHACHAJ, Tomasz",
     "year": "1987-1991",
     "games": 19,
-    "id": "33935"
+    "id": "33935",
+    "synced": true
   },
   {
     "higestRating": 2279,
@@ -99515,7 +99523,8 @@
     "name": "GARCIA, Victor Rodriguez",
     "year": "2010-2012",
     "games": 13,
-    "id": "139350"
+    "id": "139350",
+    "synced": true
   },
   {
     "higestRating": 2220,
