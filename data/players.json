@@ -2068,7 +2068,8 @@
     "name": "GIPSLIS, Aivars",
     "year": "1951-2000",
     "games": 1224,
-    "id": "47823"
+    "id": "47823",
+    "synced": true
   },
   {
     "higestRating": 2756,
@@ -47787,7 +47788,8 @@
     "name": "PHADKE, Sohan",
     "year": "2006-2019",
     "games": 57,
-    "id": "117333"
+    "id": "117333",
+    "synced": true
   },
   {
     "higestRating": 2257,
@@ -68632,7 +68634,8 @@
     "name": "LINDGREN, Fredrik",
     "year": "1991-2013",
     "games": 31,
-    "id": "43034"
+    "id": "43034",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -95845,7 +95848,8 @@
     "name": "ABEDI, Ali",
     "year": "2004-2016",
     "games": 16,
-    "id": "129544"
+    "id": "129544",
+    "synced": true
   },
   {
     "higestRating": 2204,
