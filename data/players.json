@@ -7732,7 +7732,8 @@
     "name": "LEHMANN, Heinz",
     "year": "1940-1994",
     "games": 481,
-    "id": "45096"
+    "id": "45096",
+    "synced": true
   },
   {
     "higestRating": 2548,
@@ -12282,7 +12283,8 @@
     "name": "BAKRE, Tejas",
     "year": "1996-2019",
     "games": 300,
-    "id": "49122"
+    "id": "49122",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -39953,7 +39955,8 @@
     "name": "CAPOSCIUTTI, Maurizio",
     "year": "1988-2006",
     "games": 73,
-    "id": "39605"
+    "id": "39605",
+    "synced": true
   },
   {
     "higestRating": 2271,
@@ -43209,7 +43212,8 @@
     "name": "LABIB, Ibrahim Hasan",
     "year": "1998-2015",
     "games": 66,
-    "id": "55411"
+    "id": "55411",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -52101,7 +52105,8 @@
     "name": "ANUJ, Shrivatri",
     "year": "2017-2023",
     "games": 50,
-    "id": "157881"
+    "id": "157881",
+    "synced": true
   },
   {
     "higestRating": 2426,
@@ -56773,7 +56778,8 @@
     "name": "CHYLEWSKI, Patryk",
     "year": "2015-2022",
     "games": 44,
-    "id": "158867"
+    "id": "158867",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -80083,7 +80089,8 @@
     "name": "IONESCU, Cristian",
     "year": "1981-2004",
     "games": 23,
-    "id": "49418"
+    "id": "49418",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -100552,7 +100559,8 @@
     "name": "PIGEAT, Alexandre",
     "year": "2018",
     "games": 11,
-    "id": "161574"
+    "id": "161574",
+    "synced": true
   },
   {
     "higestRating": 2412,
@@ -104651,7 +104659,8 @@
     "name": "RIBERA, Joaquin Travesset",
     "year": "2011",
     "games": 1,
-    "id": "131812"
+    "id": "131812",
+    "synced": true
   },
   {
     "higestRating": 2381,
