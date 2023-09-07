@@ -13795,7 +13795,8 @@
     "name": "EAMES, Robert S",
     "year": "1998-2023",
     "games": 265,
-    "id": "36765"
+    "id": "36765",
+    "synced": true
   },
   {
     "higestRating": 2452,
@@ -20374,7 +20375,8 @@
     "name": "RAJA, Rithvik R",
     "year": "2017-2023",
     "games": 173,
-    "id": "157956"
+    "id": "157956",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -21873,7 +21875,8 @@
     "name": "WACH, Markus",
     "year": "1989-2006",
     "games": 158,
-    "id": "68468"
+    "id": "68468",
+    "synced": true
   },
   {
     "higestRating": 2273,
@@ -32543,7 +32546,8 @@
     "name": "VAN OOSTEROM, Chiel",
     "year": "2004-2014",
     "games": 96,
-    "id": "95508"
+    "id": "95508",
+    "synced": true
   },
   {
     "higestRating": 2264,
@@ -35621,7 +35625,8 @@
     "name": "MOHANDESI, Shahin",
     "year": "1989-2017",
     "games": 85,
-    "id": "83039"
+    "id": "83039",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -43452,7 +43457,8 @@
     "name": "ZHOU, Qiyu",
     "year": "2011-2021",
     "games": 66,
-    "id": "130243"
+    "id": "130243",
+    "synced": true
   },
   {
     "higestRating": 2302,
@@ -51525,7 +51531,8 @@
     "name": "SAHA, Neelash",
     "year": "2018-2022",
     "games": 51,
-    "id": "160799"
+    "id": "160799",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -56267,7 +56274,8 @@
     "name": "TAVARES, Shawn P",
     "year": "1980-2018",
     "games": 44,
-    "id": "59607"
+    "id": "59607",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -59845,7 +59853,8 @@
     "name": "GLICENSTEIN, Asher",
     "year": "2000-2015",
     "games": 40,
-    "id": "66686"
+    "id": "66686",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -60205,7 +60214,8 @@
     "name": "JOVANOVIC, Bojan P",
     "year": "2009-2018",
     "games": 40,
-    "id": "135333"
+    "id": "135333",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -63472,7 +63482,8 @@
     "name": "LOSTUZZI, Manlio",
     "year": "1989-2017",
     "games": 36,
-    "id": "92005"
+    "id": "92005",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -98814,7 +98825,8 @@
     "name": "PICKLES, Stephen",
     "year": "1985-1995",
     "games": 15,
-    "id": "170665"
+    "id": "170665",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -101296,7 +101308,8 @@
     "name": "KOPYLOVA, Lyubov",
     "year": "2000-2007",
     "games": 9,
-    "id": "100382"
+    "id": "100382",
+    "synced": true
   },
   {
     "higestRating": 2220,
