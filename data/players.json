@@ -13962,7 +13962,8 @@
     "name": "HANLEY, Craig A",
     "year": "1998-2019",
     "games": 261,
-    "id": "50408"
+    "id": "50408",
+    "synced": true
   },
   {
     "higestRating": 2282,
@@ -14793,7 +14794,8 @@
     "name": "KARTHIK, Venkataraman",
     "year": "2014-2023",
     "games": 247,
-    "id": "154035"
+    "id": "154035",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -23361,7 +23363,8 @@
     "name": "FONZO, Valerio Di",
     "year": "1991-2012",
     "games": 146,
-    "id": "54427"
+    "id": "54427",
+    "synced": true
   },
   {
     "higestRating": 2450,
@@ -39885,7 +39888,8 @@
     "name": "DZYUBAN, Oleg",
     "year": "1971-2016",
     "games": 73,
-    "id": "18033"
+    "id": "18033",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -49227,7 +49231,8 @@
     "name": "SERTIC, Rudolf",
     "year": "1999-2019",
     "games": 54,
-    "id": "12582"
+    "id": "12582",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -50689,7 +50694,8 @@
     "name": "SORAAS, Torben",
     "year": "1992-2019",
     "games": 52,
-    "id": "104526"
+    "id": "104526",
+    "synced": true
   },
   {
     "higestRating": 2204,
@@ -62566,7 +62572,8 @@
     "name": "SAWATZKI, Frank",
     "year": "1993-2023",
     "games": 37,
-    "id": "94096"
+    "id": "94096",
+    "synced": true
   },
   {
     "higestRating": 2474,
@@ -69690,7 +69697,8 @@
     "name": "MARINSKII, Yurii",
     "year": "2017-2021",
     "games": 31,
-    "id": "159425"
+    "id": "159425",
+    "synced": true
   },
   {
     "higestRating": 2244,
@@ -74764,7 +74772,8 @@
     "name": "BRUCHMANN, Stephan",
     "year": "1994-2023",
     "games": 27,
-    "id": "123611"
+    "id": "123611",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -76255,7 +76264,8 @@
     "name": "TASEV, Dejan",
     "year": "2008-2010",
     "games": 26,
-    "id": "119650"
+    "id": "119650",
+    "synced": true
   },
   {
     "higestRating": 2359,
@@ -79251,7 +79261,8 @@
     "name": "ZANGIEV, Pavel",
     "year": "1996-2001",
     "games": 24,
-    "id": "94483"
+    "id": "94483",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -88113,7 +88124,8 @@
     "name": "SPEER, Albrecht",
     "year": "1960-1986",
     "games": 19,
-    "id": "84600"
+    "id": "84600",
+    "synced": true
   },
   {
     "higestRating": 2201,
@@ -91199,7 +91211,8 @@
     "name": "VAN DER MAREL, Bert",
     "year": "1996-2018",
     "games": 18,
-    "id": "147220"
+    "id": "147220",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -99143,7 +99156,8 @@
     "name": "CANO, Martin Guevara",
     "year": "1981-1994",
     "games": 13,
-    "id": "15676"
+    "id": "15676",
+    "synced": true
   },
   {
     "higestRating": 2244,
