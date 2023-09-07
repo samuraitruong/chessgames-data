@@ -7291,7 +7291,8 @@
     "name": "LUNDIN, Jan",
     "year": "1980-2022",
     "games": 504,
-    "id": "87544"
+    "id": "87544",
+    "synced": true
   },
   {
     "higestRating": 2582,
@@ -8931,7 +8932,8 @@
     "name": "HAUSRATH, Daniel",
     "year": "1988-2023",
     "games": 415,
-    "id": "10769"
+    "id": "10769",
+    "synced": true
   },
   {
     "higestRating": 2519,
@@ -11976,7 +11978,8 @@
     "name": "LADVA, Ottomar",
     "year": "2007-2019",
     "games": 308,
-    "id": "132526"
+    "id": "132526",
+    "synced": true
   },
   {
     "higestRating": 2472,
@@ -49666,7 +49669,8 @@
     "name": "NAME, Gabriel Ricardo Salim",
     "year": "1992-2011",
     "games": 54,
-    "id": "118675"
+    "id": "118675",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -52366,7 +52370,8 @@
     "name": "PREISS, Martin",
     "year": "1988-2005",
     "games": 49,
-    "id": "49253"
+    "id": "49253",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -63375,7 +63380,8 @@
     "name": "NIKOLIC, Milos",
     "year": "2002-2018",
     "games": 36,
-    "id": "76771"
+    "id": "76771",
+    "synced": true
   },
   {
     "higestRating": 2349,
@@ -66834,7 +66840,8 @@
     "name": "DAUTH, Benjamin",
     "year": "2005-2023",
     "games": 33,
-    "id": "100355"
+    "id": "100355",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -71261,7 +71268,8 @@
     "name": "KUPPER, Patrick",
     "year": "1988-2006",
     "games": 29,
-    "id": "40706"
+    "id": "40706",
+    "synced": true
   },
   {
     "higestRating": 2244,
