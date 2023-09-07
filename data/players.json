@@ -4691,7 +4691,8 @@
     "name": "TOMCZAK, Jacek",
     "year": "1994-2021",
     "games": 749,
-    "id": "95991"
+    "id": "95991",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -11487,7 +11488,8 @@
     "name": "RAETSKY, Alexander",
     "year": "1988-2022",
     "games": 322,
-    "id": "17834"
+    "id": "17834",
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -16685,7 +16687,8 @@
     "name": "KAASEN, Tor Fredrik",
     "year": "2014-2023",
     "games": 215,
-    "id": "150658"
+    "id": "150658",
+    "synced": true
   },
   {
     "higestRating": 2497,
@@ -35155,7 +35158,8 @@
     "name": "LANGNER, Ladislav",
     "year": "1987-2019",
     "games": 86,
-    "id": "19681"
+    "id": "19681",
+    "synced": true
   },
   {
     "higestRating": 2279,
@@ -42656,7 +42660,8 @@
     "name": "CHUNHONG, Ning",
     "year": "1994-2019",
     "games": 67,
-    "id": "47178"
+    "id": "47178",
+    "synced": true
   },
   {
     "higestRating": 2471,
@@ -51338,7 +51343,8 @@
     "name": "ALMIRON, Antonio",
     "year": "2009-2023",
     "games": 51,
-    "id": "127844"
+    "id": "127844",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -53952,7 +53958,8 @@
     "name": "MARKS, Ian Alexander",
     "year": "1971-2012",
     "games": 47,
-    "id": "60285"
+    "id": "60285",
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -54152,7 +54159,8 @@
     "name": "ZEYNALOV, Farid",
     "year": "2003-2019",
     "games": 47,
-    "id": "98412"
+    "id": "98412",
+    "synced": true
   },
   {
     "higestRating": 2331,
@@ -82759,7 +82767,8 @@
     "name": "GLANTZ, Robert",
     "year": "2007-2018",
     "games": 22,
-    "id": "132796"
+    "id": "132796",
+    "synced": true
   },
   {
     "higestRating": 2226,
