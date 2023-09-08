@@ -2394,7 +2394,8 @@
     "name": "ORNSTEIN, Axel",
     "year": "1968-2020",
     "games": 1153,
-    "id": "18050"
+    "id": "18050",
+    "synced": true
   },
   {
     "higestRating": 2713,
@@ -25456,7 +25457,8 @@
     "name": "COLIN, Vincent",
     "year": "1996-2020",
     "games": 130,
-    "id": "49407"
+    "id": "49407",
+    "synced": true
   },
   {
     "higestRating": 2473,
@@ -30627,7 +30629,8 @@
     "name": "HORTON, Andrew P",
     "year": "2013-2021",
     "games": 104,
-    "id": "147288"
+    "id": "147288",
+    "synced": true
   },
   {
     "higestRating": 2489,
@@ -33624,7 +33627,8 @@
     "name": "OTHMAN, A Moussa",
     "year": "1992-2022",
     "games": 92,
-    "id": "91713"
+    "id": "91713",
+    "synced": true
   },
   {
     "higestRating": 2515,
@@ -38422,7 +38426,8 @@
     "name": "MEYER, Eugene",
     "year": "1965-1998",
     "games": 77,
-    "id": "18774"
+    "id": "18774",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -54608,7 +54613,8 @@
     "name": "MARIC, Dragan",
     "year": "1988-2021",
     "games": 46,
-    "id": "38348"
+    "id": "38348",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -61033,7 +61039,8 @@
     "name": "KEREK, Csaba",
     "year": "1995-2015",
     "games": 39,
-    "id": "130885"
+    "id": "130885",
+    "synced": true
   },
   {
     "higestRating": 2269,
@@ -82024,7 +82031,8 @@
     "name": "PLASGURA, Petr",
     "year": "1997-2001",
     "games": 22,
-    "id": "53685"
+    "id": "53685",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -84374,7 +84382,8 @@
     "name": "VAN GOOL, Henk",
     "year": "1989-2012",
     "games": 21,
-    "id": "95497"
+    "id": "95497",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -85528,7 +85537,8 @@
     "name": "ESTIMO, Samuel",
     "year": "1970-1976",
     "games": 20,
-    "id": "47844"
+    "id": "47844",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -101759,7 +101769,8 @@
     "name": "PAHLEN, Hans",
     "year": "1992-2003",
     "games": 8,
-    "id": "97547"
+    "id": "97547",
+    "synced": true
   },
   {
     "higestRating": 2411,
