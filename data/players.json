@@ -13776,7 +13776,8 @@
     "name": "BADEA, Bela",
     "year": "1988-2010",
     "games": 265,
-    "id": "15837"
+    "id": "15837",
+    "synced": true
   },
   {
     "higestRating": 2282,
@@ -18019,7 +18020,8 @@
     "name": "STRUTINSKAIA, Galina",
     "year": "1980-2021",
     "games": 199,
-    "id": "24905"
+    "id": "24905",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -20239,7 +20241,8 @@
     "name": "ROWE, Duane",
     "year": "1999-2021",
     "games": 174,
-    "id": "79593"
+    "id": "79593",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -20714,7 +20717,8 @@
     "name": "KRIEBEL, Tadeas",
     "year": "2010-2021",
     "games": 169,
-    "id": "126777"
+    "id": "126777",
+    "synced": true
   },
   {
     "higestRating": 2527,
@@ -33063,7 +33067,8 @@
     "name": "LIEW, Chee-Meng Jimmy",
     "year": "1978-2020",
     "games": 94,
-    "id": "118961"
+    "id": "118961",
+    "synced": true
   },
   {
     "higestRating": 2363,
@@ -66030,7 +66035,8 @@
     "name": "BURCU, Cagatay",
     "year": "2011-2023",
     "games": 34,
-    "id": "132866"
+    "id": "132866",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -68286,7 +68292,8 @@
     "name": "SZOTKOWSKI, Jakub",
     "year": "2013-2021",
     "games": 32,
-    "id": "149207"
+    "id": "149207",
+    "synced": true
   },
   {
     "higestRating": 2284,
@@ -74962,7 +74969,8 @@
     "name": "NEVES, Pedro",
     "year": "2010-2018",
     "games": 27,
-    "id": "134844"
+    "id": "134844",
+    "synced": true
   },
   {
     "higestRating": 2419,
@@ -81344,7 +81352,8 @@
     "name": "SENDERS, Mischa",
     "year": "2012-2016",
     "games": 23,
-    "id": "142558"
+    "id": "142558",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -85693,7 +85702,8 @@
     "name": "GAZIC, Josip",
     "year": "1997-2012",
     "games": 20,
-    "id": "54541"
+    "id": "54541",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -90077,7 +90087,8 @@
     "name": "DANEK, Pavol",
     "year": "1995-2004",
     "games": 18,
-    "id": "55987"
+    "id": "55987",
+    "synced": true
   },
   {
     "higestRating": 2277,
@@ -99909,7 +99920,8 @@
     "name": "LIGHT, Bjarne",
     "year": "1982-2018",
     "games": 12,
-    "id": "65087"
+    "id": "65087",
+    "synced": true
   },
   {
     "higestRating": 2208,
@@ -102679,7 +102691,8 @@
     "name": "DJUROVIC, Dejan",
     "year": "1966-1989",
     "games": 5,
-    "id": "13824"
+    "id": "13824",
+    "synced": true
   },
   {
     "higestRating": 2356,

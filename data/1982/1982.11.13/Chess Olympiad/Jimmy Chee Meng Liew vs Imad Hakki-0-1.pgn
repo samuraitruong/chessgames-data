@@ -1,0 +1,15 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.11.13"]
+[EventDate "1982.10.30"]
+[Round "13"]
+[Result "0-1"]
+[White "Jimmy Chee Meng Liew"]
+[Black "Imad Hakki"]
+[ECO "B53"]
+[WhiteElo "2270"]
+[BlackElo "2310"]
+[Source "Olimpbase"]
+[PlyCount "26"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.d4 cxd4 5.Qxd4 Qd7 6.Qd3 a6 7.Bxc6 Qxc6 8.c4 b5 9.cxb5 Qxc1+ 10.Ke2 Qxh1 11.Qd5 Rb8 12.bxa6 Bxa6+ 13.Ke3 Qc1+ 0-1
