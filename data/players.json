@@ -342,7 +342,8 @@
     "name": "KHOLMOV, Ratmir",
     "year": "1946-2005",
     "games": 2399,
-    "id": "15362"
+    "id": "15362",
+    "synced": true
   },
   {
     "higestRating": 2590,
@@ -91455,7 +91456,8 @@
     "name": "POORMOSAVI, Seyed Kian",
     "year": "2017-2022",
     "games": 18,
-    "id": "158568"
+    "id": "158568",
+    "synced": true
   },
   {
     "higestRating": 2391,

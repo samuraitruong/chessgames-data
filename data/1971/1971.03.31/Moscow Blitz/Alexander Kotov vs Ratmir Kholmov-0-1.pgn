@@ -1,0 +1,14 @@
+[Event "Moscow Blitz"]
+[Site "Moscow URS"]
+[Date "1971.03.31"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Kotov"]
+[Black "Ratmir Kholmov"]
+[ECO "A17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.e3 c5 5.b3 Be7 6.Bb2 Nc6 7.Be2 d4 8.Nb5 e5 9.exd4 cxd4 10.Na3 d3 11.Bf1 e4 12.Ng1 O-O 13.g3 Bg4 14.Qc1 Re8 15.Bg2 Bxa3 16.Bxa3 Nd4 17.Kf1 Be2+ 18.Ke1 Nf3+ 19.Nxf3 exf3 20.Bh3 Qd4 21.Bb2 Qe4 22.Bxf6 Bd1+ 23.Kf1 Qe1# 0-1
