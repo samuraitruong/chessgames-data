@@ -25214,7 +25214,8 @@
     "name": "CLAESEN, Pieter",
     "year": "1988-2018",
     "games": 131,
-    "id": "19850"
+    "id": "19850",
+    "synced": true
   },
   {
     "higestRating": 2483,
@@ -25372,14 +25373,16 @@
     "name": "MESHKOV, Yuri A",
     "year": "1981-2018",
     "games": 130,
-    "id": "17740"
+    "id": "17740",
+    "synced": true
   },
   {
     "higestRating": 2415,
     "name": "SCHOEN, Wolfram",
     "year": "1983-2007",
     "games": 130,
-    "id": "18146"
+    "id": "18146",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -28179,7 +28182,8 @@
     "name": "BUKHMAN, Eduard",
     "year": "1960-2003",
     "games": 113,
-    "id": "17462"
+    "id": "17462",
+    "synced": true
   },
   {
     "higestRating": 2338,
@@ -30669,7 +30673,8 @@
     "name": "FLIS, Jacek",
     "year": "1979-2017",
     "games": 103,
-    "id": "33259"
+    "id": "33259",
+    "synced": true
   },
   {
     "higestRating": 2337,
@@ -36318,7 +36323,8 @@
     "name": "ERWICH, Marc",
     "year": "1996-2007",
     "games": 83,
-    "id": "69798"
+    "id": "69798",
+    "synced": true
   },
   {
     "higestRating": 2283,
@@ -43771,7 +43777,8 @@
     "name": "NEEDLEMAN, Gaston",
     "year": "2001-2007",
     "games": 65,
-    "id": "68129"
+    "id": "68129",
+    "synced": true
   },
   {
     "higestRating": 2347,
@@ -43876,7 +43883,8 @@
     "name": "ALDROVANDI, Costantino",
     "year": "1997-2005",
     "games": 65,
-    "id": "102996"
+    "id": "102996",
+    "synced": true
   },
   {
     "higestRating": 2391,
@@ -54745,7 +54753,8 @@
     "name": "SANTACRUZ, Francisco",
     "year": "1966-1990",
     "games": 46,
-    "id": "62577"
+    "id": "62577",
+    "synced": true
   },
   {
     "higestRating": 2303,
@@ -69113,7 +69122,8 @@
     "name": "CHOKSHI, Manthan J",
     "year": "1998-2007",
     "games": 31,
-    "id": "84013"
+    "id": "84013",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -69434,7 +69444,8 @@
     "name": "POUSO, Celso Sanchez",
     "year": "1974-1977",
     "games": 31,
-    "id": "112526"
+    "id": "112526",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -71775,7 +71786,8 @@
     "name": "GOBAN, Marek",
     "year": "1991-2006",
     "games": 29,
-    "id": "89710"
+    "id": "89710",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -72203,7 +72215,8 @@
     "name": "PETROV, Vladimir Sergeev",
     "year": "2010-2020",
     "games": 29,
-    "id": "136433"
+    "id": "136433",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -76968,7 +76981,8 @@
     "name": "IMOCHA, Laishram",
     "year": "1989-2014",
     "games": 25,
-    "id": "41543"
+    "id": "41543",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -79294,7 +79308,8 @@
     "name": "LEROY, Adrien",
     "year": "1990-2005",
     "games": 24,
-    "id": "91570"
+    "id": "91570",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -79480,7 +79495,8 @@
     "name": "HASAN, Younus",
     "year": "1970-1990",
     "games": 24,
-    "id": "107668"
+    "id": "107668",
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -87227,7 +87243,8 @@
     "name": "MOHAMED, Anees M",
     "year": "2019-2023",
     "games": 20,
-    "id": "163722"
+    "id": "163722",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -97424,7 +97441,8 @@
     "name": "CORATELLA, Giuseppe",
     "year": "1998-2006",
     "games": 15,
-    "id": "70091"
+    "id": "70091",
+    "synced": true
   },
   {
     "higestRating": 2211,
@@ -102249,7 +102267,8 @@
     "name": "GSTACH, Jakob",
     "year": "2012-2017",
     "games": 7,
-    "id": "140019"
+    "id": "140019",
+    "synced": true
   },
   {
     "higestRating": 2203,
@@ -102979,7 +102998,8 @@
     "name": "SABANI, Aim",
     "year": "1990",
     "games": 4,
-    "id": "15165"
+    "id": "15165",
+    "synced": true
   },
   {
     "higestRating": 2329,
