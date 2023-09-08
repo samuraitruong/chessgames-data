@@ -9486,7 +9486,8 @@
     "name": "DENKER, Arnold",
     "year": "1929-2001",
     "games": 395,
-    "id": "20546"
+    "id": "20546",
+    "synced": true
   },
   {
     "higestRating": 2399,
@@ -16328,7 +16329,8 @@
     "name": "SHTYRENKOV, Veniamen",
     "year": "1985-2013",
     "games": 221,
-    "id": "50142"
+    "id": "50142",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -18050,7 +18052,8 @@
     "name": "AGINIAN, Nelly",
     "year": "1996-2012",
     "games": 199,
-    "id": "50078"
+    "id": "50078",
+    "synced": true
   },
   {
     "higestRating": 2513,
@@ -18820,7 +18823,8 @@
     "name": "VAN DER VLIET, Fred",
     "year": "1964-2001",
     "games": 189,
-    "id": "37464"
+    "id": "37464",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -39057,7 +39061,8 @@
     "name": "ASABRI, Hussien",
     "year": "1998-2020",
     "games": 76,
-    "id": "84009"
+    "id": "84009",
+    "synced": true
   },
   {
     "higestRating": 2317,
@@ -52508,7 +52513,8 @@
     "name": "EICHLER, Christoph",
     "year": "1995-2019",
     "games": 49,
-    "id": "58584"
+    "id": "58584",
+    "synced": true
   },
   {
     "higestRating": 2258,
@@ -55400,7 +55406,8 @@
     "name": "GOURET, Thierry",
     "year": "1986-2002",
     "games": 45,
-    "id": "51985"
+    "id": "51985",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -69329,7 +69336,8 @@
     "name": "BOUHALLEL, Rabah",
     "year": "1992-2008",
     "games": 31,
-    "id": "95610"
+    "id": "95610",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -82030,7 +82038,8 @@
     "name": "KOUKOUFIKIS, Alexandros",
     "year": "1999-2011",
     "games": 22,
-    "id": "54600"
+    "id": "54600",
+    "synced": true
   },
   {
     "higestRating": 2342,
@@ -99011,7 +99020,8 @@
     "name": "ANDERSSON, Peter Goran Valter",
     "year": "1971-2015",
     "games": 14,
-    "id": "29777"
+    "id": "29777",
+    "synced": true
   },
   {
     "higestRating": 2300,
