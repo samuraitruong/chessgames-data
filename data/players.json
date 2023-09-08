@@ -2961,7 +2961,8 @@
     "name": "BOCHAROV, Dmitry",
     "year": "1998-2023",
     "games": 1026,
-    "id": "50317"
+    "id": "50317",
+    "synced": true
   },
   {
     "higestRating": 2727,
@@ -26424,7 +26425,8 @@
     "name": "VOLKMANN, Friedrich Karl",
     "year": "1994-2018",
     "games": 123,
-    "id": "53840"
+    "id": "53840",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -49777,7 +49779,8 @@
     "name": "ZOCHOWSKI, Kacper",
     "year": "2011-2022",
     "games": 54,
-    "id": "134588"
+    "id": "134588",
+    "synced": true
   },
   {
     "higestRating": 2424,
