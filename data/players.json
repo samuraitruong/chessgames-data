@@ -10765,7 +10765,8 @@
     "name": "HENLEY, Ron",
     "year": "1973-1999",
     "games": 346,
-    "id": "42510"
+    "id": "42510",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -17883,7 +17884,8 @@
     "name": "SMITH, Bryan G",
     "year": "1999-2021",
     "games": 201,
-    "id": "10169"
+    "id": "10169",
+    "synced": true
   },
   {
     "higestRating": 2446,
@@ -21514,7 +21516,8 @@
     "name": "NAVROTESCU, Catalin",
     "year": "1984-2018",
     "games": 161,
-    "id": "25628"
+    "id": "25628",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -33725,7 +33728,8 @@
     "name": "AARON, Manuel",
     "year": "1960-1984",
     "games": 91,
-    "id": "18943"
+    "id": "18943",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -37442,7 +37446,8 @@
     "name": "MOLANDER, Riku",
     "year": "1996-2006",
     "games": 80,
-    "id": "50554"
+    "id": "50554",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -51464,7 +51469,8 @@
     "name": "NOZDRACHEV, Leonid",
     "year": "2010-2021",
     "games": 51,
-    "id": "132327"
+    "id": "132327",
+    "synced": true
   },
   {
     "higestRating": 2394,
@@ -54607,7 +54613,8 @@
     "name": "JOHANSSON, Thomas",
     "year": "1993-2009",
     "games": 46,
-    "id": "36728"
+    "id": "36728",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -57524,7 +57531,8 @@
     "name": "KHANDELWAL, Ankush",
     "year": "2004-2023",
     "games": 43,
-    "id": "105374"
+    "id": "105374",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -57888,7 +57896,8 @@
     "name": "DAILLET, Emmanuel",
     "year": "1988-2000",
     "games": 42,
-    "id": "38009"
+    "id": "38009",
+    "synced": true
   },
   {
     "higestRating": 2352,
@@ -62400,7 +62409,8 @@
     "name": "MUKHIN, Georgy",
     "year": "1968-2003",
     "games": 37,
-    "id": "41295"
+    "id": "41295",
+    "synced": true
   },
   {
     "higestRating": 2259,
@@ -65329,7 +65339,8 @@
     "name": "OGLOBLIN, Nikolay",
     "year": "2000-2018",
     "games": 34,
-    "id": "49071"
+    "id": "49071",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -79843,7 +79854,8 @@
     "name": "LOZHNIKOV, Vyacheslav",
     "year": "2008-2013",
     "games": 24,
-    "id": "134940"
+    "id": "134940",
+    "synced": true
   },
   {
     "higestRating": 2259,
@@ -88915,7 +88927,8 @@
     "name": "SEMERENE, Dumit",
     "year": "2006-2010",
     "games": 19,
-    "id": "127329"
+    "id": "127329",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -104614,7 +104627,8 @@
     "name": "DANIEL, Juergen",
     "year": "1990",
     "games": 1,
-    "id": "60215"
+    "id": "60215",
+    "synced": true
   },
   {
     "higestRating": 2215,
