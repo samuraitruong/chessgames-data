@@ -3794,7 +3794,8 @@
     "name": "KISS, Pal",
     "year": "1986-2021",
     "games": 872,
-    "id": "66403"
+    "id": "66403",
+    "synced": true
   },
   {
     "higestRating": 2628,
@@ -22571,7 +22572,8 @@
     "name": "WANG, Annie",
     "year": "2015-2020",
     "games": 153,
-    "id": "152688"
+    "id": "152688",
+    "synced": true
   },
   {
     "higestRating": 2482,
@@ -30589,7 +30591,8 @@
     "name": "LOVIK, Lasse Ostebo",
     "year": "2005-2018",
     "games": 104,
-    "id": "113340"
+    "id": "113340",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -39666,7 +39669,8 @@
     "name": "BATTSETSEG, Tsagaan",
     "year": "1990-2009",
     "games": 74,
-    "id": "10115"
+    "id": "10115",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -43162,7 +43166,8 @@
     "name": "BANDZA, Algirdas",
     "year": "1978-2010",
     "games": 66,
-    "id": "25863"
+    "id": "25863",
+    "synced": true
   },
   {
     "higestRating": 2287,
@@ -49795,7 +49800,8 @@
     "name": "RADUSINOVIC, Lazar",
     "year": "2005-2022",
     "games": 54,
-    "id": "118878"
+    "id": "118878",
+    "synced": true
   },
   {
     "higestRating": 2277,
@@ -76438,7 +76444,8 @@
     "name": "GRYSON, Wouter",
     "year": "2005-2015",
     "games": 26,
-    "id": "112073"
+    "id": "112073",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -87581,7 +87588,8 @@
     "name": "MATJUSHIN, Oleg",
     "year": "2000",
     "games": 19,
-    "id": "10873"
+    "id": "10873",
+    "synced": true
   },
   {
     "higestRating": 2244,
@@ -98072,7 +98080,8 @@
     "name": "LETOV, Alexander",
     "year": "1997-1998",
     "games": 15,
-    "id": "95714"
+    "id": "95714",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -100046,7 +100055,8 @@
     "name": "JUSSUPOW, Ekaterina",
     "year": "2001-2008",
     "games": 12,
-    "id": "54960"
+    "id": "54960",
+    "synced": true
   },
   {
     "higestRating": 2319,

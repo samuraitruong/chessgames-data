@@ -6,9 +6,9 @@
 [Result "1-0"]
 [White "Alireza Firouzja"]
 [Black "Hikaru Nakamura"]
-[ECO "A42"]
+[ECO "B09"]
 [WhiteElo "2777"]
 [BlackElo "2787"]
-[PlyCount "84"]
+[PlyCount "88"]
 
-1. d4 d6 2. e4 g6 3. c4 Bg7 4. Nc3 Nc6 5. Nge2 e5 6. Be3 Nf6 7. d5 Ne7 8. f3 O-O 9. Qd2 a6 10. h4 c5 11. h5 Nxh5 12. g4 Nf4 13. Nxf4 exf4 14. Bxf4 f5 15. gxf5 gxf5 16. Qh2 Ng6 17. Qxh7+ Kf7 18. Rg1 Qf6 19. e5 dxe5 20. Bg5 Qd6 21. Bh6 Qf6 22. O-O-O Rh8 23. Qxg7+ Qxg7 24. Bxg7 Kxg7 25. Na4 Kf6 26. Nxc5 b6 27. Na4 Rb8 28. c5 bxc5 29. Nxc5 Nf4 30. d6 Be6 31. d7 Bd5 32. Bxa6 Rb6 33. a3 Rc6 34. b4 Rd8 35. Bb5 Rb6 36. a4 Bxf3 37. Rd2 Bd5 38. Rgd1 Bf3 39. Rd6+ Rxd6 40. Rxd6+ Ke7 41. Rh6 e4 42. Nb7 1-0
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bc4 Ke8 7. f4 c6 8. Nf3 exf4 9. Bxf4 Be6 10. Bxe6 fxe6 11. O-O-O Bb4 12. Ng5 Ke7 13. a3 Bxc3 14. Bd6+ Ke8 15. bxc3 Na6 16. Nxe6 Kf7 17. Ng5+ Kg6 18. Nf3 h6 19. Rhe1 Rhe8 20. e5 Nd5 21. c4 Nb6 22. Rd4 c5 23. Rg4+ Kh7 24. Nh4 Rad8 25. Rf1 Rd7 26. Ng6 Kg8 27. h4 Nc8 28. h5 Nxd6 29. exd6 Rxd6 30. Rgf4 Rdd8 31. Rf7 Nb8 32. Rxb7 Nd7 33. Rd1 Nf6 34. Rxd8 Rxd8 35. Rxa7 Nxh5 36. a4 Rd6 37. Ne7+ Kh7 38. a5 Nf4 39. a6 Ne2+ 40. Kb2 Rb6+ 41. Ka3 Nc3 42. Nd5 Nb1+ 43. Ka2 Rb2+ 44. Kxb2 1-0

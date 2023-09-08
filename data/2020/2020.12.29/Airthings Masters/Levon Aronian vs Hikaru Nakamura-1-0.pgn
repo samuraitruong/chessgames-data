@@ -1,14 +1,14 @@
 [Event "Airthings Masters"]
 [Site "chess24.com INT"]
-[Date "2020.12.30"]
+[Date "2020.12.29"]
 [EventDate "2020.12.29"]
-[Round "1.21"]
+[Round "1.12"]
 [Result "1-0"]
 [White "Levon Aronian"]
 [Black "Hikaru Nakamura"]
 [ECO "D02"]
 [WhiteElo "2781"]
 [BlackElo "2736"]
-[PlyCount "69"]
+[PlyCount "76"]
 
-1. d4 Nf6 2. Nf3 d5 3. Bf4 e6 4. e3 Bd6 5. Nbd2 c5 6. Bb5+ Nc6 7. Bxc6+ bxc6 8. Bxd6 Qxd6 9. Nb3 cxd4 10. exd4 Nd7 11. Qd2 O-O 12. Qc3 f6 13. O-O-O Ba6 14. Rhe1 Rfe8 15. Re3 Rac8 16. Rde1 Kf7 17. Nc5 Nxc5 18. Qxc5 Qxc5 19. dxc5 Ra8 20. Nd4 e5 21. Nf5 Red8 22. f4 Bc8 23. Nd6+ Rxd6 24. cxd6 e4 25. c4 Ke6 26. c5 Ba6 27. Ra3 Bb5 28. b4 Kf5 29. Ra5 Bc4 30. a4 a6 31. g4+ Kxf4 32. b5 cxb5 33. c6 Ke5 34. c7 Ke6 35. Rxa6 1-0
+1. d4 Nf6 2. Nf3 d5 3. Bf4 e6 4. e3 Bd6 5. Bb5+ Nbd7 6. c3 O-O 7. Nbd2 Qe7 8. Ne5 Ne4 9. Nxe4 dxe4 10. Qc2 f5 11. Bxd7 Bxd7 12. h4 Bb5 13. a4 Bxe5 14. Bxe5 Bd3 15. Qb3 b6 16. f4 h5 17. Kf2 Kh7 18. Rh3 g6 19. Rg3 c5 20. Rg5 Kh6 21. dxc5 bxc5 22. c4 Rf7 23. Qc3 Qb7 24. a5 Rc8 25. b3 Qc6 26. Rh1 Rb7 27. Rh3 Rg8 28. Rhg3 Kh7 29. Qc1 Qe8 30. Qd1 Rd7 31. Rxg6 Qxg6 32. Rxg6 Kxg6 33. Kg1 a6 34. Kh2 Rb7 35. Qa1 Rxb3 36. Qa4 Rb1 37. Qd7 Bxc4 38. Qe7 Rbb8 1-0
