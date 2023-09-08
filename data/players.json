@@ -2576,7 +2576,8 @@
     "name": "KNAAK, Rainer",
     "year": "1969-2023",
     "games": 1112,
-    "id": "17695"
+    "id": "17695",
+    "synced": true
   },
   {
     "higestRating": 2582,
@@ -18959,7 +18960,8 @@
     "name": "NECKAR, Lubomir",
     "year": "1969-2019",
     "games": 188,
-    "id": "44913"
+    "id": "44913",
+    "synced": true
   },
   {
     "higestRating": 2479,
@@ -46607,7 +46609,8 @@
     "name": "SCHORR, Leon",
     "year": "1964-2001",
     "games": 59,
-    "id": "27331"
+    "id": "27331",
+    "synced": true
   },
   {
     "higestRating": 2475,
@@ -89602,7 +89605,8 @@
     "name": "DARNSTAEDT, Frank",
     "year": "1991-2004",
     "games": 18,
-    "id": "11774"
+    "id": "11774",
+    "synced": true
   },
   {
     "higestRating": 2351,
