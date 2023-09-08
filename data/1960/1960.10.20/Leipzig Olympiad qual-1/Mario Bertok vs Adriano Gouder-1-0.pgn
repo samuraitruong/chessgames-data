@@ -1,0 +1,15 @@
+[Event "Leipzig Olympiad qual-1"]
+[Site "Leipzig GDR"]
+[Date "1960.10.20"]
+[EventDate "1960.10.17"]
+[Round "4"]
+[Result "1-0"]
+[White "Mario Bertok"]
+[Black "Adriano Gouder"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 Nbd7 6.Bd3 Bb4 7.O-O O-O 8.Bd2 Bxc3 9.Bxc3 dxc4 10.Bxc4 Ne4 11.Bb4 Re8 12.Qc2 Nef6 13.e4 e5 14.Qb3 Nxe4 15.Bxf7+ Kh8 16.Bxe8 Qxe8 17.Rfe1 Qg6 18.Qe3 Ndf6 19.dxe5 1-0

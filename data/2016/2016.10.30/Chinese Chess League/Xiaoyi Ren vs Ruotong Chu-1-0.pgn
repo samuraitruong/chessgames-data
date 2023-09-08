@@ -1,0 +1,14 @@
+[Event "Chinese Chess League"]
+[Site "CHN"]
+[Date "2016.10.30"]
+[EventDate "2016.04.12"]
+[Round "16.6"]
+[Result "1-0"]
+[White "Xiaoyi Ren"]
+[Black "Ruotong Chu"]
+[ECO "D79"]
+[WhiteElo "2157"]
+[BlackElo "2078"]
+[PlyCount "45"]
+
+1. d4 Nf6 2. g3 g6 3. Bg2 d5 4. Nf3 Bg7 5. c4 c6 6. cxd5 cxd5 7. O-O O-O 8. Nc3 Ne4 9. Nxe4 dxe4 10. Ne5 Qd5 11. Bf4 f6 12. Nd3 Qxd4 13. Qb3+ e6 14. Rac1 Qd5 15. Rc4 b5 16. Rxe4 Bb7 17. Qxd5 Bxd5 18. Rxe6 Bxe6 19. Bxa8 Bxa2 20. Ra1 Bc4 21. Rxa7 Re8 22. Bf3 f5 23. Ra8 1-0
