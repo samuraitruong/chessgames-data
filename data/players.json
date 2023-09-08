@@ -8124,7 +8124,8 @@
     "name": "POGORELOV, Ruslan",
     "year": "1986-2022",
     "games": 461,
-    "id": "71380"
+    "id": "71380",
+    "synced": true
   },
   {
     "higestRating": 2597,
@@ -16655,7 +16656,8 @@
     "name": "ARTZI, Ido Ben",
     "year": "2008-2022",
     "games": 216,
-    "id": "118266"
+    "id": "118266",
+    "synced": true
   },
   {
     "higestRating": 2536,
@@ -22654,7 +22656,8 @@
     "name": "GUTMAKHER, Olga",
     "year": "1999-2021",
     "games": 151,
-    "id": "12353"
+    "id": "12353",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -40074,7 +40077,8 @@
     "name": "MANASTERSKI, Lutoslaw",
     "year": "1963-1976",
     "games": 73,
-    "id": "47890"
+    "id": "47890",
+    "synced": true
   },
   {
     "higestRating": 2302,
@@ -54870,7 +54874,8 @@
     "name": "WIRSCHELL, Taco",
     "year": "1991-2001",
     "games": 46,
-    "id": "68800"
+    "id": "68800",
+    "synced": true
   },
   {
     "higestRating": 2423,
@@ -58030,7 +58035,8 @@
     "name": "SAWADKUHI, Massoud Amir",
     "year": "1972-2011",
     "games": 42,
-    "id": "50853"
+    "id": "50853",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -60988,7 +60994,8 @@
     "name": "FARINA, Jorge Berrocal",
     "year": "1986-2006",
     "games": 39,
-    "id": "103343"
+    "id": "103343",
+    "synced": true
   },
   {
     "higestRating": 2236,
@@ -61436,7 +61443,8 @@
     "name": "MAIDLA, Vallo",
     "year": "1987-2000",
     "games": 38,
-    "id": "28337"
+    "id": "28337",
+    "synced": true
   },
   {
     "higestRating": 2307,
@@ -62880,7 +62888,8 @@
     "name": "CARDENAS, Pablo Garcia",
     "year": "1998-2018",
     "games": 37,
-    "id": "113321"
+    "id": "113321",
+    "synced": true
   },
   {
     "higestRating": 2399,
@@ -69550,7 +69559,8 @@
     "name": "JONES, Kenneth E",
     "year": "1979-2020",
     "games": 31,
-    "id": "109465"
+    "id": "109465",
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -73668,7 +73678,8 @@
     "name": "VASILYEV, Vasily",
     "year": "2010-2018",
     "games": 28,
-    "id": "134723"
+    "id": "134723",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -81164,7 +81175,8 @@
     "name": "KAHROVIC, Mersid",
     "year": "2005-2017",
     "games": 23,
-    "id": "119711"
+    "id": "119711",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -97550,7 +97562,8 @@
     "name": "BALOGH, Marian",
     "year": "1999-2004",
     "games": 15,
-    "id": "66820"
+    "id": "66820",
+    "synced": true
   },
   {
     "higestRating": 2338,
