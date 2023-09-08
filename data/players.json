@@ -2998,7 +2998,8 @@
     "name": "CHERNIN, Alexander",
     "year": "1979-2009",
     "games": 1018,
-    "id": "13898"
+    "id": "13898",
+    "synced": true
   },
   {
     "higestRating": 2592,
@@ -35727,7 +35728,8 @@
     "name": "PURNAMA, Tirta Chandra",
     "year": "2000-2019",
     "games": 85,
-    "id": "91561"
+    "id": "91561",
+    "synced": true
   },
   {
     "higestRating": 2466,
@@ -38112,7 +38114,8 @@
     "name": "LIAVDANSKY, Vladimir",
     "year": "1949-1997",
     "games": 78,
-    "id": "45187"
+    "id": "45187",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -63662,7 +63665,8 @@
     "name": "SERAFIMOV, Tervel",
     "year": "1992-2012",
     "games": 36,
-    "id": "95665"
+    "id": "95665",
+    "synced": true
   },
   {
     "higestRating": 2407,
@@ -74906,7 +74910,8 @@
     "name": "SHCHERBINE, Andrei",
     "year": "2002-2007",
     "games": 27,
-    "id": "107278"
+    "id": "107278",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -93056,7 +93061,8 @@
     "name": "LAVRIK, Dmitry",
     "year": "2005-2019",
     "games": 17,
-    "id": "105518"
+    "id": "105518",
+    "synced": true
   },
   {
     "higestRating": 2306,

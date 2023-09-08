@@ -1,0 +1,14 @@
+[Event "Indochess Man - Machine"]
+[Site "?"]
+[Date "2005.01.11"]
+[EventDate "2005.01.11"]
+[Round "?"]
+[Result "1-0"]
+[White "Fritz (Computer)"]
+[Black "Tirta Chandra Purnama"]
+[ECO "D45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O dxc4 9. Bxc4 e5 10. h3 Qe7 11. Bb3 Re8 12. Ng5 Rf8 13. Bd2 Nb6 14. Rae1 h6 15. dxe5 Bxe5 16. Nf3 Bc7 17. e4 Be6 18. Be3 Nc4 19. Bd4 Rfd8 20. Na4 b5 21. Nc5 Nh5 22. Nxe6 Qxe6 23. e5 Nf4 24. Re4 Qf5 25. g4 Nxh3+ 26. Kg2 Nf4+ 27. Kg3 Nh5+ 28. gxh5 c5 29. Bxc5 Bxe5+ 30. Rxe5 Qxc2 31. Bxc2 Nxe5 32. Nxe5 Rd5 33. Nd3 Rad8 34. Rd1 1-0
