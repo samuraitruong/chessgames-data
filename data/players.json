@@ -2378,7 +2378,8 @@
     "name": "LIMA, Darcy",
     "year": "1978-2023",
     "games": 1162,
-    "id": "49666"
+    "id": "49666",
+    "synced": true
   },
   {
     "higestRating": 2605,
@@ -31982,7 +31983,8 @@
     "name": "SOLLEVELD, Maarten",
     "year": "1995-2012",
     "games": 98,
-    "id": "49112"
+    "id": "49112",
+    "synced": true
   },
   {
     "higestRating": 2366,
@@ -43948,7 +43950,8 @@
     "name": "NGUYEN, Thanh Son",
     "year": "2000-2010",
     "games": 65,
-    "id": "122066"
+    "id": "122066",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -48534,7 +48537,8 @@
     "name": "VORONTSOV, Pavlo",
     "year": "2008-2022",
     "games": 56,
-    "id": "118140"
+    "id": "118140",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -48953,7 +48957,8 @@
     "name": "DEL REY, Diego",
     "year": "1990-2020",
     "games": 55,
-    "id": "66127"
+    "id": "66127",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -67184,7 +67189,8 @@
     "name": "MESAROS, Florian",
     "year": "2012-2021",
     "games": 33,
-    "id": "139490"
+    "id": "139490",
+    "synced": true
   },
   {
     "higestRating": 2213,
@@ -75483,7 +75489,8 @@
     "name": "ZUKERFELD, Andres",
     "year": "1978-2005",
     "games": 26,
-    "id": "38584"
+    "id": "38584",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -79666,7 +79673,8 @@
     "name": "VILLALBA, Marcelo",
     "year": "2009-2023",
     "games": 24,
-    "id": "122756"
+    "id": "122756",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -83571,7 +83579,8 @@
     "name": "PATELLI, Alessandro",
     "year": "1988-2004",
     "games": 21,
-    "id": "45241"
+    "id": "45241",
+    "synced": true
   },
   {
     "higestRating": 2244,
@@ -91741,7 +91750,8 @@
     "name": "KOTEK, Daniel",
     "year": "1995-2017",
     "games": 17,
-    "id": "24771"
+    "id": "24771",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -92884,7 +92894,8 @@
     "name": "DAVLETBAKOV, Saddam",
     "year": "2006-2008",
     "games": 17,
-    "id": "103348"
+    "id": "103348",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -94074,7 +94085,8 @@
     "name": "HELVENSTEIJN, Dennis",
     "year": "1995-2003",
     "games": 16,
-    "id": "26353"
+    "id": "26353",
+    "synced": true
   },
   {
     "higestRating": 2283,
