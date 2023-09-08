@@ -9318,7 +9318,8 @@
     "name": "BIELCZYK, Jacek",
     "year": "1975-2017",
     "games": 400,
-    "id": "28993"
+    "id": "28993",
+    "synced": true
   },
   {
     "higestRating": 2558,
@@ -13583,7 +13584,8 @@
     "name": "KLARIC, Zlatko",
     "year": "1977-2009",
     "games": 269,
-    "id": "18114"
+    "id": "18114",
+    "synced": true
   },
   {
     "higestRating": 2590,
@@ -15536,7 +15538,8 @@
     "name": "HAYRAPETYAN, Hovik",
     "year": "2000-2022",
     "games": 233,
-    "id": "96054"
+    "id": "96054",
+    "synced": true
   },
   {
     "higestRating": 2516,
@@ -23442,7 +23445,8 @@
     "name": "VIZANTIADIS, Lazaros",
     "year": "1962-1983",
     "games": 146,
-    "id": "59288"
+    "id": "59288",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -41893,7 +41897,8 @@
     "name": "MILU, Romeo-Sorin",
     "year": "1992-2011",
     "games": 69,
-    "id": "48935"
+    "id": "48935",
+    "synced": true
   },
   {
     "higestRating": 2518,
@@ -49725,7 +49730,8 @@
     "name": "ROSS, Christopher Neil",
     "year": "1998-2018",
     "games": 54,
-    "id": "103324"
+    "id": "103324",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -55720,7 +55726,8 @@
     "name": "SOOZANKAR, Amohammad M",
     "year": "2003-2021",
     "games": 45,
-    "id": "103205"
+    "id": "103205",
+    "synced": true
   },
   {
     "higestRating": 2391,
@@ -61354,7 +61361,8 @@
     "name": "HEISSLER, Jakob",
     "year": "1991-2003",
     "games": 38,
-    "id": "19738"
+    "id": "19738",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -63148,7 +63156,8 @@
     "name": "KOTLIAR, Mark",
     "year": "1986-1993",
     "games": 36,
-    "id": "23394"
+    "id": "23394",
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -83314,7 +83323,8 @@
     "name": "SARGSYAN, Tigran R",
     "year": "2018-2021",
     "games": 22,
-    "id": "162735"
+    "id": "162735",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -88740,7 +88750,8 @@
     "name": "KARALKIN, Maksim",
     "year": "2000-2019",
     "games": 19,
-    "id": "105673"
+    "id": "105673",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -91034,7 +91045,8 @@
     "name": "KHOJAYAN, Vardan",
     "year": "2008-2019",
     "games": 18,
-    "id": "117781"
+    "id": "117781",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -96170,7 +96182,8 @@
     "name": "UMAROV, Sabir",
     "year": "1996-2008",
     "games": 16,
-    "id": "133096"
+    "id": "133096",
+    "synced": true
   },
   {
     "higestRating": 2306,

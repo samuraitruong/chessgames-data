@@ -1,0 +1,14 @@
+[Event "Bagneux"]
+[Site "Bagneux FRA"]
+[Date "1970.03.24"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Fox"]
+[Black "Jean-Luc Seret"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 e6 2.Nf3 d5 3.Nc3 Nf6 4.e5 Nfd7 5.d4 c5 6.Be3 Nc6 7.Bb5 cxd4 8.Nxd4 Ncxe5 9.Qe2 a6 10.Bxd7+ Qxd7 11.O-O Be7 12.Rad1 O-O 13.f4 Nc6 14.Nb3 Qc7 15.f5 Ne5 16.Kh1 Bd7 17.Bd4 Bf6 18.Rde1 Nc4 19.Bxf6 gxf6 20.Qg4+ Kh8 21.Qh4 Qd8 22.Nc5 Ne5 23.Nxd7 Nxd7 0-1

@@ -1,0 +1,14 @@
+[Event "POL-chT"]
+[Site "Lubniewice POL"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Sergey Ivanov"]
+[Black "Piotr Murdzia"]
+[ECO "E38"]
+[WhiteElo "2490"]
+[BlackElo "2430"]
+[PlyCount "46"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.b4 Nce4 9.Qd4 d5 10.c5 b6 11.f3 bxc5 12.bxc5 Qa5+ 13.Qb4 Qxb4+ 14.axb4 Nc3 15.e3 Bd7 16.Ra5 Rb8 17.c6 Bc8 18.Kd2 d4 19.exd4 Nb1+ 20.Kc2 Rxb4 21.Rb5 Rxb5 22.Bxb5 Nd5 23.Ne2 1-0
