@@ -5782,7 +5782,8 @@
     "name": "FERNANDO, Diogo",
     "year": "1997-2016",
     "games": 634,
-    "id": "49562"
+    "id": "49562",
+    "synced": true
   },
   {
     "higestRating": 2593,
@@ -5868,7 +5869,8 @@
     "name": "CORNETTE, Matthieu",
     "year": "2001-2023",
     "games": 623,
-    "id": "49265"
+    "id": "49265",
+    "synced": true
   },
   {
     "higestRating": 2480,
@@ -34055,7 +34057,8 @@
     "name": "DISHMAN, Stephen",
     "year": "1988-2023",
     "games": 90,
-    "id": "27610"
+    "id": "27610",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -55178,7 +55181,8 @@
     "name": "KUNAL, M",
     "year": "2011-2021",
     "games": 46,
-    "id": "131271"
+    "id": "131271",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -70469,7 +70473,8 @@
     "name": "SMOLOVIC, Mile",
     "year": "1991-2003",
     "games": 30,
-    "id": "69834"
+    "id": "69834",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -76163,7 +76168,8 @@
     "name": "ALI, Syed Nasir",
     "year": "1977-2009",
     "games": 26,
-    "id": "85106"
+    "id": "85106",
+    "synced": true
   },
   {
     "higestRating": 2246,
@@ -79234,7 +79240,8 @@
     "name": "MORALES, William Charpentier",
     "year": "1986-2004",
     "games": 24,
-    "id": "59770"
+    "id": "59770",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -86383,7 +86390,8 @@
     "name": "WRBA, Klaus",
     "year": "1989-2000",
     "games": 20,
-    "id": "90550"
+    "id": "90550",
+    "synced": true
   },
   {
     "higestRating": 2259,

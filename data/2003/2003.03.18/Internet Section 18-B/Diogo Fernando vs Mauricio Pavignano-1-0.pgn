@@ -1,0 +1,14 @@
+[Event "Internet Section 18-B"]
+[Site "Dos Hermanas"]
+[Date "2003.03.18"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Diogo Fernando"]
+[Black "Mauricio Pavignano"]
+[ECO "A61"]
+[WhiteElo "2602"]
+[BlackElo "2047"]
+[PlyCount "46"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. Bf4 a6 8. e4 Bg7 9. Qa4+ Bd7 10. Qb3 Qc7 11. e5 Nh5 12. exd6 Qa5 13. Bd2 O-O 14. Qxb7 Re8+ 15. Be2 Nf4 16. O-O Bxc3 17. Bxf4 Rxe2 18. bxc3 Bg4 19. Qxa8 Qxc3 20. Qxb8+ Kg7 21. d7 Bxf3 22. gxf3 Qxf3 23. d8=Q 1-0
