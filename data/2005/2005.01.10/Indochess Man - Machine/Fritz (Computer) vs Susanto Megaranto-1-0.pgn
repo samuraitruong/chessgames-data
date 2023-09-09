@@ -1,0 +1,14 @@
+[Event "Indochess Man - Machine"]
+[Site "?"]
+[Date "2005.01.10"]
+[EventDate "2005.01.11"]
+[Round "?"]
+[Result "1-0"]
+[White "Fritz (Computer)"]
+[Black "Susanto Megaranto"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. Ngf3 Nc6 7. c3 Qb6 8. Nb3 cxd4 9. Nbxd4 Bc5 10. a4 a5 11. Bb5 O-O 12. O-O Qc7 13. Be3 Nb6 14. Qe2 f5 15. Qf2 Nxd4 16. Nxd4 Bxd4 17. Bxd4 Nd7 18. c4 dxc4 19. Rfc1 Nb8 20. Bc5 Rf7 21. Be8 Rd7 22. Bb6 Qc6 23. b3 c3 24. Qe3 c2 25. Bxd7 Nxd7 26. Bd4 b6 27. Ra2 Bb7 28. Raxc2 Qd5 29. Rd2 Rc8 30. Rxc8+ Bxc8 31. Bxb6 Qc6 32. Bxa5 Qc1+ 33. Kf2 1-0

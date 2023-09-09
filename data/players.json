@@ -4971,7 +4971,8 @@
     "name": "MEGARANTO, Susanto",
     "year": "1997-2023",
     "games": 713,
-    "id": "83458"
+    "id": "83458",
+    "synced": true
   },
   {
     "higestRating": 2453,
@@ -7085,7 +7086,8 @@
     "name": "KLINGER, Josef",
     "year": "1981-2006",
     "games": 516,
-    "id": "16961"
+    "id": "16961",
+    "synced": true
   },
   {
     "higestRating": 2454,
@@ -18816,7 +18818,8 @@
     "name": "ATLAS, Valery",
     "year": "1985-2022",
     "games": 189,
-    "id": "17260"
+    "id": "17260",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -44786,7 +44789,8 @@
     "name": "SVENN, Matti",
     "year": "1975-2010",
     "games": 63,
-    "id": "48421"
+    "id": "48421",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -70567,7 +70571,8 @@
     "name": "PEZEROVIC, Edin",
     "year": "1989-2016",
     "games": 30,
-    "id": "71232"
+    "id": "71232",
+    "synced": true
   },
   {
     "higestRating": 2389,
