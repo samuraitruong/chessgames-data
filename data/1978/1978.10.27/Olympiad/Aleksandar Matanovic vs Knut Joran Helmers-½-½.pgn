@@ -1,0 +1,15 @@
+[Event "Olympiad"]
+[Site "Buenos Aires ARG"]
+[Date "1978.10.27"]
+[EventDate "1978.10.25"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Aleksandar Matanovic"]
+[Black "Knut Joran Helmers"]
+[ECO "B83"]
+[WhiteElo "2505"]
+[BlackElo "2345"]
+[Source "Olimpbase"]
+[PlyCount "42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 Be7 7.O-O O-O 8.f4 Nc6 9.Be3 a6 10.a4 Qc7 11.Kh1 Na5 12.Qd3 Bd7 13.Rad1 Rac8 14.Bc1 Nc6 15.f5 Nxd4 16.Qxd4 Qc5 17.fxe6 Bxe6 18.Qxc5 Rxc5 19.Be3 Rc6 20.Bd4 Nd7 21.Bd3 Bf6 1/2-1/2
