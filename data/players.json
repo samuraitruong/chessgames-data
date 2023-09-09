@@ -2507,7 +2507,8 @@
     "name": "SHULMAN, Yury",
     "year": "1989-2013",
     "games": 1124,
-    "id": "28307"
+    "id": "28307",
+    "synced": true
   },
   {
     "higestRating": 2550,
@@ -6079,7 +6080,8 @@
     "name": "BEIKERT, Guenther",
     "year": "1983-2023",
     "games": 604,
-    "id": "21992"
+    "id": "21992",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -22671,7 +22673,8 @@
     "name": "MEHMETI, Dritan",
     "year": "2001-2022",
     "games": 152,
-    "id": "57007"
+    "id": "57007",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -27975,7 +27978,8 @@
     "name": "KOLESAR, Milan",
     "year": "1987-2017",
     "games": 115,
-    "id": "53440"
+    "id": "53440",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -68509,7 +68513,8 @@
     "name": "JOVANOVIC, Zoran Z",
     "year": "1995-2010",
     "games": 32,
-    "id": "147241"
+    "id": "147241",
+    "synced": true
   },
   {
     "higestRating": 2331,
@@ -83006,7 +83011,8 @@
     "name": "CABARKAPA, Mijomir",
     "year": "1992-2009",
     "games": 22,
-    "id": "119750"
+    "id": "119750",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -90249,7 +90255,8 @@
     "name": "ZABYSTRZAN, Pavel",
     "year": "1985-2006",
     "games": 18,
-    "id": "51884"
+    "id": "51884",
+    "synced": true
   },
   {
     "higestRating": 2244,
@@ -90393,7 +90400,8 @@
     "name": "KJURKCHIISKI, Georgi",
     "year": "2001-2012",
     "games": 18,
-    "id": "55941"
+    "id": "55941",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -95026,7 +95034,8 @@
     "name": "ZIGO, Viktor",
     "year": "1994-2007",
     "games": 16,
-    "id": "64134"
+    "id": "64134",
+    "synced": true
   },
   {
     "higestRating": 2328,
