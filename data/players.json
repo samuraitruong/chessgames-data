@@ -1752,7 +1752,8 @@
     "name": "VESCOVI, Giovanni",
     "year": "1990-2023",
     "games": 1325,
-    "id": "16789"
+    "id": "16789",
+    "synced": true
   },
   {
     "higestRating": 2760,
@@ -72534,7 +72535,8 @@
     "name": "GHARAGYOZYAN, Artur",
     "year": "2011-2021",
     "games": 29,
-    "id": "139476"
+    "id": "139476",
+    "synced": true
   },
   {
     "higestRating": 2215,
