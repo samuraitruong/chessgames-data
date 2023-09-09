@@ -9641,7 +9641,8 @@
     "name": "MEDVEGY, Zoltan",
     "year": "1994-2022",
     "games": 390,
-    "id": "49115"
+    "id": "49115",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -16244,7 +16245,8 @@
     "name": "DEL CAMPO, Roberto Martin",
     "year": "1985-2023",
     "games": 222,
-    "id": "79862"
+    "id": "79862",
+    "synced": true
   },
   {
     "higestRating": 2428,
@@ -23204,7 +23206,8 @@
     "name": "HUND, Barbara",
     "year": "1978-2014",
     "games": 148,
-    "id": "24581"
+    "id": "24581",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -31102,7 +31105,8 @@
     "name": "GAYSON, Peter M",
     "year": "1987-2018",
     "games": 102,
-    "id": "127923"
+    "id": "127923",
+    "synced": true
   },
   {
     "higestRating": 2488,
@@ -39898,7 +39902,8 @@
     "name": "KRAYZ, Alexander",
     "year": "1993-2010",
     "games": 74,
-    "id": "88188"
+    "id": "88188",
+    "synced": true
   },
   {
     "higestRating": 2429,
@@ -52656,7 +52661,8 @@
     "name": "KNUDSEN, Per B",
     "year": "1974-1986",
     "games": 49,
-    "id": "82561"
+    "id": "82561",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -74098,7 +74104,8 @@
     "name": "GRAF, Christian",
     "year": "1991-2008",
     "games": 27,
-    "id": "17755"
+    "id": "17755",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -84637,7 +84644,8 @@
     "name": "OPHOFF, Jacques A",
     "year": "2005-2008",
     "games": 21,
-    "id": "103337"
+    "id": "103337",
+    "synced": true
   },
   {
     "higestRating": 2209,
@@ -98139,7 +98147,8 @@
     "name": "SCHIENDORFER, Florian",
     "year": "2005-2014",
     "games": 15,
-    "id": "96378"
+    "id": "96378",
+    "synced": true
   },
   {
     "higestRating": 2227,
