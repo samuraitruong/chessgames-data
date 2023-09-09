@@ -83,7 +83,8 @@
     "name": "SVIDLER, Peter",
     "year": "1989-2023",
     "games": 3316,
-    "id": "79968"
+    "id": "79968",
+    "synced": true
   },
   {
     "higestRating": 2820,
@@ -14775,7 +14776,8 @@
     "name": "PICARD, Romain",
     "year": "1998-2019",
     "games": 248,
-    "id": "107202"
+    "id": "107202",
+    "synced": true
   },
   {
     "higestRating": 2569,
@@ -24248,7 +24250,8 @@
     "name": "SZYPULSKI, Andrzej",
     "year": "1984-1996",
     "games": 139,
-    "id": "43770"
+    "id": "43770",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -46416,7 +46419,8 @@
     "name": "STUDNICKA, Tomas",
     "year": "1999-2019",
     "games": 60,
-    "id": "94207"
+    "id": "94207",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -55877,7 +55881,8 @@
     "name": "TO, Nhat Minh",
     "year": "2006-2021",
     "games": 45,
-    "id": "107136"
+    "id": "107136",
+    "synced": true
   },
   {
     "higestRating": 2219,
@@ -60829,7 +60834,8 @@
     "name": "TUGUI, Adrian",
     "year": "1994-2013",
     "games": 39,
-    "id": "50882"
+    "id": "50882",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -97223,7 +97229,8 @@
     "name": "SANZ, Joaquin Ballester",
     "year": "1989-1995",
     "games": 15,
-    "id": "46674"
+    "id": "46674",
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -98023,7 +98030,8 @@
     "name": "AIZPURUA, Jose Maria Olano",
     "year": "1998-1999",
     "games": 15,
-    "id": "90350"
+    "id": "90350",
+    "synced": true
   },
   {
     "higestRating": 2322,
