@@ -2541,7 +2541,8 @@
     "name": "EFIMENKO, Zahar",
     "year": "1997-2022",
     "games": 1118,
-    "id": "49257"
+    "id": "49257",
+    "synced": true
   },
   {
     "higestRating": 2505,
@@ -61416,7 +61417,8 @@
     "name": "RODIN, Mihail",
     "year": "1985-2010",
     "games": 38,
-    "id": "19914"
+    "id": "19914",
+    "synced": true
   },
   {
     "higestRating": 2373,
@@ -62771,7 +62773,8 @@
     "name": "CHAVEZ, Romelio",
     "year": "1972-1990",
     "games": 37,
-    "id": "89885"
+    "id": "89885",
+    "synced": true
   },
   {
     "higestRating": 2515,
@@ -99145,7 +99148,8 @@
     "name": "CATALAN, Toufeeq",
     "year": "1978-2000",
     "games": 14,
-    "id": "20685"
+    "id": "20685",
+    "synced": true
   },
   {
     "higestRating": 2340,
