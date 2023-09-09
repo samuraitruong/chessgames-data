@@ -1,0 +1,14 @@
+[Event "ROM-ch"]
+[Site "Bucharest ROU"]
+[Date "1968.11.25"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Aurel Urzica"]
+[Black "Emanoil Reicher"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nd7 5.Ng3 g6 6.d4 Ngf6 7.Bg5 Qb6 8.Bd3 Bg7 9.Qe2 Qxb2 10.O-O Qa3 11.Nd2 Qa5 12.f4 O-O 13.Nc4 Qc7 14.f5 Nb6 15.Ne5 Nbd5 16.Rae1 c5 17.h4 cxd4 18.Qf3 e6 19.fxg6 fxg6 20.Nxg6 hxg6 21.Bxg6 Ne3 22.Nh5 Nfg4 23.Bf4 e5 0-1

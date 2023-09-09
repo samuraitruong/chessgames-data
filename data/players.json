@@ -8940,7 +8940,8 @@
     "name": "URKEDAL, Frode",
     "year": "2006-2023",
     "games": 416,
-    "id": "105264"
+    "id": "105264",
+    "synced": true
   },
   {
     "higestRating": 2610,
@@ -37652,7 +37653,8 @@
     "name": "OBANDO, Olavo Yepez",
     "year": "1957-1974",
     "games": 80,
-    "id": "104086"
+    "id": "104086",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -39058,7 +39060,8 @@
     "name": "JORDA, Manuel Fenollar",
     "year": "2001-2019",
     "games": 76,
-    "id": "51825"
+    "id": "51825",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -41818,7 +41821,8 @@
     "name": "URZICA, Aurel",
     "year": "1968-1994",
     "games": 69,
-    "id": "14674"
+    "id": "14674",
+    "synced": true
   },
   {
     "higestRating": 2397,
@@ -42316,7 +42320,8 @@
     "name": "VRANA, Frantisek",
     "year": "1979-2014",
     "games": 68,
-    "id": "49661"
+    "id": "49661",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -44169,7 +44174,8 @@
     "name": "SANZ, Juan Pedro Dominguez",
     "year": "1964-1995",
     "games": 64,
-    "id": "16137"
+    "id": "16137",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -46953,7 +46959,8 @@
     "name": "DIMITROV, Atanas",
     "year": "1992-2022",
     "games": 59,
-    "id": "105025"
+    "id": "105025",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -50617,7 +50624,8 @@
     "name": "POGOSIAN, Georgy",
     "year": "1993-2021",
     "games": 52,
-    "id": "30602"
+    "id": "30602",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -51197,7 +51205,8 @@
     "name": "DEMETER, Peter",
     "year": "1975-2006",
     "games": 51,
-    "id": "53507"
+    "id": "53507",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -77698,7 +77707,8 @@
     "name": "KOROTKJEVICH, Stanislav",
     "year": "1999-2015",
     "games": 25,
-    "id": "67910"
+    "id": "67910",
+    "synced": true
   },
   {
     "higestRating": 2321,
@@ -79495,7 +79505,8 @@
     "name": "CARLSSON, Goran",
     "year": "1992-2001",
     "games": 24,
-    "id": "90327"
+    "id": "90327",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -92494,7 +92505,8 @@
     "name": "BILIC, Mario",
     "year": "1991-2007",
     "games": 17,
-    "id": "61455"
+    "id": "61455",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -94093,7 +94105,8 @@
     "name": "LUTSKO, Artem",
     "year": "2021-2022",
     "games": 17,
-    "id": "177225"
+    "id": "177225",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -100608,7 +100621,8 @@
     "name": "KAZMIERCZAK, Rafal",
     "year": "2001",
     "games": 11,
-    "id": "57914"
+    "id": "57914",
+    "synced": true
   },
   {
     "higestRating": 2207,
