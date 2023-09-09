@@ -932,7 +932,8 @@
     "name": "RIBLI, Zoltan",
     "year": "1967-2022",
     "games": 1724,
-    "id": "11640"
+    "id": "11640",
+    "synced": true
   },
   {
     "higestRating": 2699,
@@ -17675,7 +17676,8 @@
     "name": "MAKSIMOVIC, Suzana",
     "year": "1982-2022",
     "games": 204,
-    "id": "24819"
+    "id": "24819",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -18060,7 +18062,8 @@
     "name": "RESENDE, Antonio Carlos",
     "year": "1978-2004",
     "games": 199,
-    "id": "16420"
+    "id": "16420",
+    "synced": true
   },
   {
     "higestRating": 2510,
@@ -19693,7 +19696,8 @@
     "name": "ANTO, Cristiano F Manish",
     "year": "2018-2023",
     "games": 180,
-    "id": "161904"
+    "id": "161904",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -20466,7 +20470,8 @@
     "name": "ZELIC, Mladen",
     "year": "1981-2019",
     "games": 172,
-    "id": "31530"
+    "id": "31530",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -52474,7 +52479,8 @@
     "name": "PAVLOVIC, Dean",
     "year": "1979-2001",
     "games": 49,
-    "id": "28598"
+    "id": "28598",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -55653,7 +55659,8 @@
     "name": "GREER, Kieran",
     "year": "1986-1994",
     "games": 45,
-    "id": "63843"
+    "id": "63843",
+    "synced": true
   },
   {
     "higestRating": 2428,
@@ -60216,7 +60223,8 @@
     "name": "GIL, Jose Miguel Fraguela",
     "year": "1973-1989",
     "games": 40,
-    "id": "89604"
+    "id": "89604",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -64676,7 +64684,8 @@
     "name": "VIANIN, Pascal",
     "year": "1990-2018",
     "games": 35,
-    "id": "63368"
+    "id": "63368",
+    "synced": true
   },
   {
     "higestRating": 2236,
@@ -82795,7 +82804,8 @@
     "name": "SARSAM, Saad Abdullah",
     "year": "1986-2006",
     "games": 22,
-    "id": "103195"
+    "id": "103195",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -88210,7 +88220,8 @@
     "name": "MURATOV, Sergey",
     "year": "2001-2015",
     "games": 19,
-    "id": "56684"
+    "id": "56684",
+    "synced": true
   },
   {
     "higestRating": 2322,
@@ -88948,7 +88959,8 @@
     "name": "WILKE, Werner",
     "year": "1984-2007",
     "games": 19,
-    "id": "107091"
+    "id": "107091",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -103807,7 +103819,8 @@
     "name": "PEREZ, Osniel",
     "year": "2009-2010",
     "games": 4,
-    "id": "149914"
+    "id": "149914",
+    "synced": true
   },
   {
     "higestRating": 2205,
