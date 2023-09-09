@@ -6782,7 +6782,8 @@
     "name": "MIRZOEV, Azer",
     "year": "1993-2022",
     "games": 540,
-    "id": "49113"
+    "id": "49113",
+    "synced": true
   },
   {
     "higestRating": 2556,
@@ -11760,7 +11761,8 @@
     "name": "MARANDI, Cemil Can Ali",
     "year": "2010-2023",
     "games": 315,
-    "id": "131631"
+    "id": "131631",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -29162,7 +29164,8 @@
     "name": "KANDIC, Milan",
     "year": "1999-2020",
     "games": 110,
-    "id": "107498"
+    "id": "107498",
+    "synced": true
   },
   {
     "higestRating": 2428,
@@ -45052,7 +45055,8 @@
     "name": "WANG, Kevin",
     "year": "2008-2022",
     "games": 63,
-    "id": "130609"
+    "id": "130609",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -71578,7 +71582,8 @@
     "name": "RYBANSKY, Daniel",
     "year": "1993-2001",
     "games": 29,
-    "id": "50253"
+    "id": "50253",
+    "synced": true
   },
   {
     "higestRating": 2300,
