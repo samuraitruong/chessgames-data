@@ -1,0 +1,15 @@
+[Event "Yerevan Olympiad"]
+[Site "Yerevan ARM"]
+[Date "1996.09.25"]
+[EventDate "1996.09.16"]
+[Round "9"]
+[Result "1-0"]
+[White "Stephen J Solomon"]
+[Black "Mark Heidenfeld"]
+[ECO "C85"]
+[WhiteElo "2385"]
+[BlackElo "2320"]
+[Source "Olimpbase"]
+[PlyCount "40"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6 7.Qe2 Bg4 8.Nc3 Nd7 9.Nd1 Bg5 10.Ne3 Bh5 11.d3 Qf6 12.a4 Nc5 13.g4 Bxe3 14.fxe3 Bxg4 15. Qg2 Be6 16.d4 Nxe4 17.Nxe5 Qg5 18.b3 Bd5 19.c4 Nf2 20.cxd5 1-0
