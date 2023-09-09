@@ -1,0 +1,14 @@
+[Event "Bad Woerishofen op 18th"]
+[Site "Bad Woerishofen GER"]
+[Date "2002.03.??"]
+[EventDate "2002.03.00"]
+[Round "2"]
+[Result "1-0"]
+[White "Anton Lindenmair"]
+[Black "Martin Heika"]
+[ECO "E09"]
+[WhiteElo "2125"]
+[BlackElo "2335"]
+[PlyCount "36"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O Nbd7 7.Qc2 c6 8.Nbd2 b6 9.b3 Bb7 10.Bb2 Rc8 11.e4 dxe4 12.Nxe4 c5 13.Nxf6+ Nxf6 14.dxc5 Bxc5 15.Ng5 g6 16.Bxb7 Rc7 17.Bg2 Rd7 18.Nf3 1-0

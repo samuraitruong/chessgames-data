@@ -1,0 +1,14 @@
+[Event "St Petersburg Rapid Cup"]
+[Site "St Petersburg"]
+[Date "2013.09.28"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Anatoly Donskov"]
+[Black "Sergey Ivanov"]
+[ECO "C07"]
+[WhiteElo "2299"]
+[BlackElo "2556"]
+[PlyCount "22"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 cxd4 5.Nxd4 Nf6 6.e5 Nfd7 7.f4 Nxe5 8.Qh5 Nec6 9.Bb5 Bd7 10.Nxc6 Nxc6 11.Nf3 0-1
