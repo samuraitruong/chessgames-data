@@ -16321,7 +16321,8 @@
     "name": "MARTINOVSKY, Eugene",
     "year": "1967-1999",
     "games": 221,
-    "id": "15654"
+    "id": "15654",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -19208,7 +19209,8 @@
     "name": "LAMPERT, Jonas",
     "year": "2008-2019",
     "games": 185,
-    "id": "117636"
+    "id": "117636",
+    "synced": true
   },
   {
     "higestRating": 2516,
@@ -23016,7 +23018,8 @@
     "name": "DUMONT, Sadi Glasser",
     "year": "1971-2007",
     "games": 150,
-    "id": "126699"
+    "id": "126699",
+    "synced": true
   },
   {
     "higestRating": 2516,
@@ -32216,7 +32219,8 @@
     "name": "KHEGAY, Dmitriy",
     "year": "2013-2022",
     "games": 98,
-    "id": "146318"
+    "id": "146318",
+    "synced": true
   },
   {
     "higestRating": 2451,
@@ -33073,7 +33077,8 @@
     "name": "KARPMAN, Vadim",
     "year": "1987-2009",
     "games": 94,
-    "id": "18097"
+    "id": "18097",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -35076,7 +35081,8 @@
     "name": "GESOS, Pavlos",
     "year": "1969-2011",
     "games": 87,
-    "id": "37844"
+    "id": "37844",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -36041,7 +36047,8 @@
     "name": "JERIC, Simon",
     "year": "1996-2007",
     "games": 84,
-    "id": "49896"
+    "id": "49896",
+    "synced": true
   },
   {
     "higestRating": 2463,
@@ -39495,7 +39502,8 @@
     "name": "VETEMAA, Juri",
     "year": "1972-2001",
     "games": 75,
-    "id": "56739"
+    "id": "56739",
+    "synced": true
   },
   {
     "higestRating": 2352,
@@ -67788,7 +67796,8 @@
     "name": "CABANAS, Jacobo Caselas",
     "year": "1991-2006",
     "games": 32,
-    "id": "41797"
+    "id": "41797",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -73913,7 +73922,8 @@
     "name": "KLUKIN, Kirill",
     "year": "2012-2022",
     "games": 28,
-    "id": "139706"
+    "id": "139706",
+    "synced": true
   },
   {
     "higestRating": 2344,
@@ -85841,7 +85851,8 @@
     "name": "TURKIN, Viktor",
     "year": "2001-2007",
     "games": 20,
-    "id": "50145"
+    "id": "50145",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -88137,7 +88148,8 @@
     "name": "SOLODOVNIKOV, Mikhail",
     "year": "2001",
     "games": 19,
-    "id": "52348"
+    "id": "52348",
+    "synced": true
   },
   {
     "higestRating": 2238,
@@ -95180,7 +95192,8 @@
     "name": "BIKUZHIN, Maksim",
     "year": "2001-2016",
     "games": 16,
-    "id": "69454"
+    "id": "69454",
+    "synced": true
   },
   {
     "higestRating": 2301,
