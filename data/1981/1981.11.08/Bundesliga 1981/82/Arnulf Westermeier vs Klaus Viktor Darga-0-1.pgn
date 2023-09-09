@@ -1,0 +1,14 @@
+[Event "Bundesliga 1981/82"]
+[Site "FRG"]
+[Date "1981.11.08"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Arnulf Westermeier"]
+[Black "Klaus Viktor Darga"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.dxc5 Nc6 5.Nf3 Bxc5 6.Bd3 f6 7.Qe2 fxe5 8.Nxe5 Nxe5 9.Qxe5 Nf6 10.Bb5+ Kf7 11.Qe2 Rf8 12.O-O Kg8 13.Nd2 e5 14.h3 a6 15.Ba4 e4 16.c4 b5 17.cxb5 Qe8 18.Nb3 Bd6 19.Re1 Qg6 20.Qe3 Bd7 21.Nd4 Rac8 22.Bb3 axb5 23.Qg5 Rxc1 0-1
