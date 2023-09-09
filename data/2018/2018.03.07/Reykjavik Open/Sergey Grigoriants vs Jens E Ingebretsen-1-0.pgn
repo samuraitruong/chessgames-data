@@ -1,0 +1,14 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2018.03.07"]
+[EventDate "2018.03.06"]
+[Round "2.28"]
+[Result "1-0"]
+[White "Sergey Grigoriants"]
+[Black "Jens E Ingebretsen"]
+[ECO "E17"]
+[WhiteElo "2568"]
+[BlackElo "2132"]
+[PlyCount "35"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. d4 O-O 7. Nc3 Ne4 8. Bd2 Nxd2 9. Qxd2 d6 10. d5 a5 11. dxe6 fxe6 12. Qe3 Rf6 13. Ng5 Bxg2 14. Kxg2 Qd7 15. Qe4 Qc6 16. Nd5 Bd8 17. Qxh7+ Kf8 18. Qh8# 1-0

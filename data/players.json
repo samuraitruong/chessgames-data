@@ -3921,7 +3921,8 @@
     "name": "GRIGORIANTS, Sergey",
     "year": "1993-2023",
     "games": 852,
-    "id": "56698"
+    "id": "56698",
+    "synced": true
   },
   {
     "higestRating": 2567,
@@ -24114,7 +24115,8 @@
     "name": "DEPASQUALE, Chris",
     "year": "1979-2010",
     "games": 140,
-    "id": "34818"
+    "id": "34818",
+    "synced": true
   },
   {
     "higestRating": 2502,
@@ -59657,7 +59659,8 @@
     "name": "SIMEK, Petr2",
     "year": "2002-2021",
     "games": 41,
-    "id": "163497"
+    "id": "163497",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -93259,7 +93262,8 @@
     "name": "HILTUNEN, Reijo",
     "year": "1996-2008",
     "games": 17,
-    "id": "108780"
+    "id": "108780",
+    "synced": true
   },
   {
     "higestRating": 2287,
@@ -93438,7 +93442,8 @@
     "name": "KOZLOV, Gennady",
     "year": "2009-2020",
     "games": 17,
-    "id": "121885"
+    "id": "121885",
+    "synced": true
   },
   {
     "higestRating": 2372,
