@@ -4766,7 +4766,8 @@
     "name": "AVRUKH, Boris",
     "year": "1991-2017",
     "games": 741,
-    "id": "18270"
+    "id": "18270",
+    "synced": true
   },
   {
     "higestRating": 2655,
@@ -18506,7 +18507,8 @@
     "name": "STOICA, Valentin",
     "year": "1972-2001",
     "games": 194,
-    "id": "15393"
+    "id": "15393",
+    "synced": true
   },
   {
     "higestRating": 2399,
@@ -45125,7 +45127,8 @@
     "name": "BROSS, Horst",
     "year": "1999-2013",
     "games": 63,
-    "id": "90152"
+    "id": "90152",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -48133,7 +48136,8 @@
     "name": "EBERT, Vanessa Feliciano",
     "year": "2005-2016",
     "games": 57,
-    "id": "118683"
+    "id": "118683",
+    "synced": true
   },
   {
     "higestRating": 2227,
