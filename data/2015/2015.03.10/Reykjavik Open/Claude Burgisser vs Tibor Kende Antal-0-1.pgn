@@ -1,0 +1,14 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2015.03.10"]
+[EventDate "2015.03.10"]
+[Round "1.76"]
+[Result "0-1"]
+[White "Claude Burgisser"]
+[Black "Tibor Kende Antal"]
+[ECO "D02"]
+[WhiteElo "1724"]
+[BlackElo "2317"]
+[PlyCount "34"]
+
+1. d4 Nf6 2. Nf3 d5 3. c3 c5 4. Bg5 Ne4 5. Bf4 cxd4 6. Qxd4 Nc6 7. Qa4 Qb6 8. Na3 Qxb2 9. Rc1 e5 10. Nxe5 Qxa3 11. Qxa3 Bxa3 12. Rc2 Bf5 13. Nd3 O-O 14. f3 Nc5 15. Be3 Nxd3+ 16. exd3 Rfe8 17. Kf2 d4 0-1
