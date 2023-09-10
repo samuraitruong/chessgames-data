@@ -12696,7 +12696,8 @@
     "name": "LUJAN, Carolina",
     "year": "2001-2023",
     "games": 292,
-    "id": "50017"
+    "id": "50017",
+    "synced": true
   },
   {
     "higestRating": 2442,
@@ -20619,7 +20620,8 @@
     "name": "OGANIAN, Miran",
     "year": "2011-2021",
     "games": 171,
-    "id": "143105"
+    "id": "143105",
+    "synced": true
   },
   {
     "higestRating": 2483,
@@ -29868,7 +29870,8 @@
     "name": "FRUEBING, Stefan",
     "year": "2000-2022",
     "games": 107,
-    "id": "69664"
+    "id": "69664",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -33319,7 +33322,8 @@
     "name": "GLAVINA, Pablo",
     "year": "1986-2020",
     "games": 93,
-    "id": "16356"
+    "id": "16356",
+    "synced": true
   },
   {
     "higestRating": 2391,
@@ -35872,7 +35876,8 @@
     "name": "DOMINGUEZ, Jose Manuel",
     "year": "1982-2018",
     "games": 85,
-    "id": "88894"
+    "id": "88894",
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -38593,7 +38598,8 @@
     "name": "JURADO, Luis Alberto Gomez",
     "year": "1990-2019",
     "games": 77,
-    "id": "16988"
+    "id": "16988",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -64457,7 +64463,8 @@
     "name": "ALONZO, Luis Manuel Belliard",
     "year": "1968-2010",
     "games": 35,
-    "id": "21456"
+    "id": "21456",
+    "synced": true
   },
   {
     "higestRating": 2462,
@@ -69813,7 +69820,8 @@
     "name": "KOSOV, Ivan",
     "year": "2005-2010",
     "games": 31,
-    "id": "109112"
+    "id": "109112",
+    "synced": true
   },
   {
     "higestRating": 2338,
@@ -72433,7 +72441,8 @@
     "name": "LIMONTAS, Martynas",
     "year": "2001-2011",
     "games": 29,
-    "id": "106188"
+    "id": "106188",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -82491,7 +82500,8 @@
     "name": "KLEESCHAETZKY, Rainer",
     "year": "1992-2011",
     "games": 22,
-    "id": "57327"
+    "id": "57327",
+    "synced": true
   },
   {
     "higestRating": 2362,
@@ -83300,7 +83310,8 @@
     "name": "DIAZ, Cristian Fernandez",
     "year": "2011-2022",
     "games": 22,
-    "id": "131785"
+    "id": "131785",
+    "synced": true
   },
   {
     "higestRating": 2261,
@@ -88776,7 +88787,8 @@
     "name": "SENAREGA, Jose Antonio Hedman",
     "year": "1976-1994",
     "games": 19,
-    "id": "89882"
+    "id": "89882",
+    "synced": true
   },
   {
     "higestRating": 2595,
@@ -92423,7 +92435,8 @@
     "name": "BIANCHI, Guillermo",
     "year": "1977-2000",
     "games": 17,
-    "id": "39867"
+    "id": "39867",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -103805,7 +103818,8 @@
     "name": "ZHAO, Nan",
     "year": "2004-2006",
     "games": 4,
-    "id": "95864"
+    "id": "95864",
+    "synced": true
   },
   {
     "higestRating": 2220,
