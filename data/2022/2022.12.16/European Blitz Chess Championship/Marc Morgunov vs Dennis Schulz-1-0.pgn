@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.16"]
+[EventDate "2022.12.16"]
+[Round "1.88"]
+[Result "1-0"]
+[White "Marc Morgunov"]
+[Black "Dennis Schulz"]
+[ECO "B10"]
+[WhiteElo "2402"]
+[BlackElo "1697"]
+[PlyCount "12"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Qe2 Nbd7 6. Nd6# 1-0
