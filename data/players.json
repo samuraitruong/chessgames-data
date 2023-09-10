@@ -5553,7 +5553,8 @@
     "name": "BRAGA, Cicero Nogueira",
     "year": "1975-2008",
     "games": 661,
-    "id": "16450"
+    "id": "16450",
+    "synced": true
   },
   {
     "higestRating": 2631,
@@ -12736,7 +12737,8 @@
     "name": "SOLOMON, Kenneth T",
     "year": "1996-2022",
     "games": 291,
-    "id": "51154"
+    "id": "51154",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -35196,7 +35198,8 @@
     "name": "HILVERDA, Alexander",
     "year": "2003-2023",
     "games": 87,
-    "id": "105799"
+    "id": "105799",
+    "synced": true
   },
   {
     "higestRating": 2283,
@@ -41866,7 +41869,8 @@
     "name": "WEEMAES, Ronald",
     "year": "1971-2007",
     "games": 69,
-    "id": "14395"
+    "id": "14395",
+    "synced": true
   },
   {
     "higestRating": 2402,
@@ -65749,7 +65753,8 @@
     "name": "FORNARI, Giuseppe",
     "year": "1981-1991",
     "games": 34,
-    "id": "60301"
+    "id": "60301",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -80697,7 +80702,8 @@
     "name": "EGOROFF, Jomar",
     "year": "1992-2009",
     "games": 23,
-    "id": "60950"
+    "id": "60950",
+    "synced": true
   },
   {
     "higestRating": 2322,
@@ -100186,7 +100192,8 @@
     "name": "BONCHEV, Stojko",
     "year": "1972-1976",
     "games": 12,
-    "id": "47877"
+    "id": "47877",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -100957,7 +100964,8 @@
     "name": "ZSCHISCHANG, Gunnar",
     "year": "2001-2010",
     "games": 11,
-    "id": "124193"
+    "id": "124193",
+    "synced": true
   },
   {
     "higestRating": 2317,
