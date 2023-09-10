@@ -1,0 +1,14 @@
+[Event "Haarlem AKN op 9th"]
+[Site "Haarlem"]
+[Date "2000.06.30"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "De Visser, Arno"]
+[Black "Igor Khenkin"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "2622"]
+[PlyCount "12"]
+
+1.b4 c6 2.c4 Qb6 3.Qb3 a5 4.a3 axb4 5.c5 Qxc5 6.axb4 Qxc1+ 0-1

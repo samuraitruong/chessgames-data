@@ -1,0 +1,14 @@
+[Event "ISR-ch"]
+[Site "ISR"]
+[Date "1994.10.03"]
+[EventDate "1994.10.02"]
+[Round "2"]
+[Result "1-0"]
+[White "Igor Khenkin"]
+[Black "Gregory Gurevich"]
+[ECO "D24"]
+[WhiteElo "2580"]
+[BlackElo "2350"]
+[PlyCount "42"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 dxc4 4.Nc3 a6 5.e4 b5 6.e5 Nd5 7.a4 e6 8.axb5 Bb4 9.Qc2 Nb6 10.Qe4 Qd5 11.Qg4 axb5 12.Rxa8 Qxa8 13.Be2 O-O 14.O-O Kh8 15.Ng5 h6 16.Qh5 Kg8 17.Nge4 Bxc3 18.Nf6+ gxf6 19.Bf3 Qa4 20.Be4 Bb7 21.exf6 1-0
