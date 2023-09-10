@@ -1,0 +1,14 @@
+[Event "Eger"]
+[Site "Eger"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Albert Vajda"]
+[Black "Heimo Titz"]
+[ECO "B22"]
+[WhiteElo "2345"]
+[BlackElo "2290"]
+[PlyCount "37"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Be3 Ng4 6.Nf3 Nxe3 7.fxe3 cxd4 8.cxd4 e6 9.Nc3 Bb4 10.Bd3 Nc6 11.O-O Bxc3 12.bxc3 O-O 13.Kh1 b6 14.Rb1 Bb7 15.Rb5 Qd8 16.Bxh7+ Kxh7 17.Ng5+ Kg6 18.Nxf7 Rxf7 19.Qh5# 1-0

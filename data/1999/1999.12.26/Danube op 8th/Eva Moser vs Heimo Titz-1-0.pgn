@@ -1,0 +1,15 @@
+[Event "Danube op 8th"]
+[Site "Aschach AUT"]
+[Date "1999.12.26"]
+[EventDate "1999.12.26"]
+[Round "1"]
+[Result "1-0"]
+[White "Eva Moser"]
+[Black "Heimo Titz"]
+[ECO "B20"]
+[WhiteElo "2223"]
+[BlackElo "2310"]
+[Source "https://www.365chess.com/game.php?gid=889230"]
+[PlyCount "42"]
+
+1.e4 c5 2.b3 b6 3.Nc3 Bb7 4.Nf3 Nf6 5.e5 Nd5 6.Bb2 Nc7 7.Bc4 d5 8.exd6 exd6 9.O-O Be7 10.d4 O-O 11.dxc5 dxc5 12.Qe2 Bf6 13.Rad1 Qc8 14.Rd6 Qg4 15.Re1 Nc6 16.h3 Qc8 17.Rxf6 gxf6 18.Ne4 Ne8 19.Qe3 Qf5 20.Nh4 Qh5 21.Qg3+ 1-0
