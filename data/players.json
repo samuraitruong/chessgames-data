@@ -4780,7 +4780,8 @@
     "name": "VAN SCHELTINGA, Theo",
     "year": "1935-1990",
     "games": 740,
-    "id": "47842"
+    "id": "47842",
+    "synced": true
   },
   {
     "higestRating": 2516,
@@ -13339,7 +13340,8 @@
     "name": "FUSTER, Geza",
     "year": "1933-1988",
     "games": 276,
-    "id": "18665"
+    "id": "18665",
+    "synced": true
   },
   {
     "higestRating": 2450,
@@ -26184,7 +26186,8 @@
     "name": "WANG, Yiye",
     "year": "2013-2019",
     "games": 126,
-    "id": "145191"
+    "id": "145191",
+    "synced": true
   },
   {
     "higestRating": 2531,
@@ -51223,7 +51226,8 @@
     "name": "SINDIK, Ervin",
     "year": "1972-2019",
     "games": 51,
-    "id": "37924"
+    "id": "37924",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -92041,7 +92045,8 @@
     "name": "MALOVANYI, Yulian",
     "year": "2017-2021",
     "games": 18,
-    "id": "174664"
+    "id": "174664",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -100010,7 +100015,8 @@
     "name": "POPESCU, Cristian",
     "year": "1995-2001",
     "games": 13,
-    "id": "58133"
+    "id": "58133",
+    "synced": true
   },
   {
     "higestRating": 2281,
