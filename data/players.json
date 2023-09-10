@@ -8064,7 +8064,8 @@
     "name": "VELIKOV, Petar",
     "year": "1970-2020",
     "games": 465,
-    "id": "17609"
+    "id": "17609",
+    "synced": true
   },
   {
     "higestRating": 2535,
@@ -13789,7 +13790,8 @@
     "name": "HANSEN, Torbjorn Ringdal",
     "year": "1994-2019",
     "games": 266,
-    "id": "66042"
+    "id": "66042",
+    "synced": true
   },
   {
     "higestRating": 2546,
@@ -16181,7 +16183,8 @@
     "name": "DONALDSON, William John",
     "year": "1976-2012",
     "games": 223,
-    "id": "15461"
+    "id": "15461",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -21415,7 +21418,8 @@
     "name": "CASTRO, Marcelino Sion",
     "year": "1987-2002",
     "games": 163,
-    "id": "28280"
+    "id": "28280",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -39622,7 +39626,8 @@
     "name": "NASRI, Amin",
     "year": "2001-2016",
     "games": 75,
-    "id": "107040"
+    "id": "107040",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -45161,7 +45166,8 @@
     "name": "SOKOLOVS, Andrejs",
     "year": "1992-2018",
     "games": 63,
-    "id": "122258"
+    "id": "122258",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -56681,7 +56687,8 @@
     "name": "FERRUFINO, Boris",
     "year": "1995-2012",
     "games": 44,
-    "id": "79538"
+    "id": "79538",
+    "synced": true
   },
   {
     "higestRating": 2502,
@@ -59560,7 +59567,8 @@
     "name": "MUSTAPS, Matiss",
     "year": "2007-2020",
     "games": 41,
-    "id": "128399"
+    "id": "128399",
+    "synced": true
   },
   {
     "higestRating": 2287,
@@ -68983,7 +68991,8 @@
     "name": "BARWINSKI, Dionizy",
     "year": "1977-2010",
     "games": 31,
-    "id": "35104"
+    "id": "35104",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -72292,7 +72301,8 @@
     "name": "KRENSING, Jan",
     "year": "1997-2013",
     "games": 29,
-    "id": "97713"
+    "id": "97713",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -76232,7 +76242,8 @@
     "name": "TAIVAINEN, Jukka",
     "year": "1992-2003",
     "games": 26,
-    "id": "65931"
+    "id": "65931",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -98958,7 +98969,8 @@
     "name": "BLAHYNKA, Martin",
     "year": "2010-2022",
     "games": 15,
-    "id": "132576"
+    "id": "132576",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -99067,7 +99079,8 @@
     "name": "DEUEL, Alfred",
     "year": "1981-1988",
     "games": 15,
-    "id": "137666"
+    "id": "137666",
+    "synced": true
   },
   {
     "higestRating": 2404,
