@@ -2361,7 +2361,8 @@
     "name": "ZHIGALKO, Sergei",
     "year": "2000-2022",
     "games": 1167,
-    "id": "54429"
+    "id": "54429",
+    "synced": true
   },
   {
     "higestRating": 2694,
@@ -14721,7 +14722,8 @@
     "name": "MARCELIN, Cyril",
     "year": "1994-2022",
     "games": 250,
-    "id": "36764"
+    "id": "36764",
+    "synced": true
   },
   {
     "higestRating": 2438,
@@ -28539,7 +28541,8 @@
     "name": "HIDALGO, Herminio Herraiz",
     "year": "1992-2016",
     "games": 113,
-    "id": "79432"
+    "id": "79432",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -30752,7 +30755,8 @@
     "name": "DE JONG, Jan-Willem",
     "year": "1997-2020",
     "games": 104,
-    "id": "97242"
+    "id": "97242",
+    "synced": true
   },
   {
     "higestRating": 2388,
@@ -48479,7 +48483,8 @@
     "name": "REEVE, Jeff",
     "year": "1974-2010",
     "games": 56,
-    "id": "22514"
+    "id": "22514",
+    "synced": true
   },
   {
     "higestRating": 2249,
@@ -50674,7 +50679,8 @@
     "name": "PECURICA, Milos",
     "year": "2008-2021",
     "games": 53,
-    "id": "121282"
+    "id": "121282",
+    "synced": true
   },
   {
     "higestRating": 2323,
@@ -69440,7 +69446,8 @@
     "name": "KIRSANOV, Oleg",
     "year": "2001-2002",
     "games": 31,
-    "id": "53957"
+    "id": "53957",
+    "synced": true
   },
   {
     "higestRating": 2201,
