@@ -9245,7 +9245,8 @@
     "name": "RIVERO, Julio Becerra",
     "year": "1992-2018",
     "games": 405,
-    "id": "83274"
+    "id": "83274",
+    "synced": true
   },
   {
     "higestRating": 2549,
@@ -9946,7 +9947,8 @@
     "name": "VOKHIDOV, Shamsiddin",
     "year": "2014-2023",
     "games": 378,
-    "id": "149948"
+    "id": "149948",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -18561,7 +18563,8 @@
     "name": "GHASI, Ameet",
     "year": "2000-2023",
     "games": 194,
-    "id": "71825"
+    "id": "71825",
+    "synced": true
   },
   {
     "higestRating": 2518,
@@ -26275,7 +26278,8 @@
     "name": "VELESKI, Robert",
     "year": "1998-2022",
     "games": 125,
-    "id": "49239"
+    "id": "49239",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -42874,7 +42878,8 @@
     "name": "JADOUL, Michel",
     "year": "1982-2003",
     "games": 67,
-    "id": "15677"
+    "id": "15677",
+    "synced": true
   },
   {
     "higestRating": 2404,
@@ -46651,7 +46656,8 @@
     "name": "DIAZ, Alejandro Alvarado",
     "year": "2009-2022",
     "games": 60,
-    "id": "147602"
+    "id": "147602",
+    "synced": true
   },
   {
     "higestRating": 2243,
@@ -66562,7 +66568,8 @@
     "name": "DROGOVOZ, Irina",
     "year": "2013-2016",
     "games": 34,
-    "id": "153654"
+    "id": "153654",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -67533,7 +67540,8 @@
     "name": "ESPI, Samuel Navarrete",
     "year": "2010-2016",
     "games": 33,
-    "id": "128496"
+    "id": "128496",
+    "synced": true
   },
   {
     "higestRating": 2397,
@@ -75682,7 +75690,8 @@
     "name": "MIHALINCIC, Tomislav",
     "year": "1994-2019",
     "games": 26,
-    "id": "12642"
+    "id": "12642",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -81333,7 +81342,8 @@
     "name": "FRIEHOFF, Heinz",
     "year": "1959-1982",
     "games": 23,
-    "id": "102201"
+    "id": "102201",
+    "synced": true
   },
   {
     "higestRating": 2337,
@@ -86523,7 +86533,8 @@
     "name": "LENTZE, Ingo",
     "year": "1970-2000",
     "games": 20,
-    "id": "74931"
+    "id": "74931",
+    "synced": true
   },
   {
     "higestRating": 2264,
@@ -90120,7 +90131,8 @@
     "name": "ROTHER, Christoph",
     "year": "1985-2006",
     "games": 18,
-    "id": "29036"
+    "id": "29036",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -101466,7 +101478,8 @@
     "name": "KOLESNIK, Eduard",
     "year": "1999-2015",
     "games": 10,
-    "id": "67343"
+    "id": "67343",
+    "synced": true
   },
   {
     "higestRating": 2259,
