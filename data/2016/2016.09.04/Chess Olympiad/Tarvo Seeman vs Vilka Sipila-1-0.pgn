@@ -1,0 +1,14 @@
+[Event "Chess Olympiad"]
+[Site "Baku AZE"]
+[Date "2016.09.04"]
+[EventDate "2016.09.02"]
+[Round "3.23"]
+[Result "1-0"]
+[White "Tarvo Seeman"]
+[Black "Vilka Sipila"]
+[ECO "A06"]
+[WhiteElo "2407"]
+[BlackElo "2447"]
+[PlyCount "37"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. c4 e6 5. O-O Nd7 6. d3 Ngf6 7. Be3 dxc4 8. dxc4 Bc5 9. Bxc5 Nxc5 10. Nc3 Qb6 11. Ne5 Bh5 12. b4 Qxb4 13. Qd6 Qb6 14. Nxc6 bxc6 15. Rab1 Qa5 16. Bxc6+ Ncd7 17. Bxa8 Qxc3 18. Bc6 Bxe2 19. Rb8# 1-0
