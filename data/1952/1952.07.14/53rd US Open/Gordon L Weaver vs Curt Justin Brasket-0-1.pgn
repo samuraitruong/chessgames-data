@@ -1,0 +1,14 @@
+[Event "53rd US Open"]
+[Site "Tampa, FL USA"]
+[Date "1952.07.14"]
+[EventDate "1952.07.14"]
+[Round "1"]
+[Result "0-1"]
+[White "Gordon L Weaver"]
+[Black "Curt Justin Brasket"]
+[ECO "B72"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 g6 7.Be3 Bg7 8.Nb3 O-O 9.f4 a6 10.h3 b5 11.a3 Bb7 12.Qd2 Rc8 13.O-O-O b4 14.axb4 Nxb4 15.Bf3 Rxc3 16.bxc3 Na2+ 17.Kb2 Nxc3 18.e5 Nxd1+ 19.Rxd1 Bxf3 20.gxf3 Ne8 21.c3 Qc7 22.exd6 Nxd6 23.Bd4 Nc4+ 0-1
