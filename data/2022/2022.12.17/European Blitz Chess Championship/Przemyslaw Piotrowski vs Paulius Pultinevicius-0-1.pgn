@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.17"]
+[EventDate "2022.12.17"]
+[Round "5.39"]
+[Result "0-1"]
+[White "Przemyslaw Piotrowski"]
+[Black "Paulius Pultinevicius"]
+[ECO "D02"]
+[WhiteElo "2247"]
+[BlackElo "2561"]
+[PlyCount "60"]
+
+1. d4 Nf6 2. Nf3 d5 3. g3 Bf5 4. Bg2 c6 5. O-O Nbd7 6. c4 e6 7. Nc3 h6 8. b3 Be7 9. Bb2 O-O 10. Ne5 Qc7 11. Rc1 Rac8 12. f4 Qb6 13. e3 Rcd8 14. g4 Nxe5 15. gxf5 Nxc4 16. bxc4 Qxb2 17. fxe6 fxe6 18. Bh3 Kh8 19. Bxe6 Bb4 20. Qb3 Qxb3 21. axb3 g6 22. f5 Ng4 23. fxg6 Nxe3 24. Rf7 Rxf7 25. gxf7 dxc4 26. bxc4 Rxd4 27. Rb1 Rf4 28. Ne2 Rf6 29. Nd4 Bc5 30. Rxb7 Rf1# 0-1
