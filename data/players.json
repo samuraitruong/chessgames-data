@@ -13799,7 +13799,8 @@
     "name": "RAMESH, Ramachandran",
     "year": "1992-2008",
     "games": 266,
-    "id": "14571"
+    "id": "14571",
+    "synced": true
   },
   {
     "higestRating": 2501,
@@ -17865,7 +17866,8 @@
     "name": "GORBATOV, Alexej",
     "year": "1985-2019",
     "games": 202,
-    "id": "17735"
+    "id": "17735",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -34490,7 +34492,8 @@
     "name": "PRIBYL, Martin",
     "year": "1989-2000",
     "games": 89,
-    "id": "18303"
+    "id": "18303",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -37862,7 +37865,8 @@
     "name": "SMIRNOV, Timofey",
     "year": "2012-2021",
     "games": 80,
-    "id": "141622"
+    "id": "141622",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -42175,7 +42179,8 @@
     "name": "GULBAS, Cemil",
     "year": "1998-2018",
     "games": 69,
-    "id": "57180"
+    "id": "57180",
+    "synced": true
   },
   {
     "higestRating": 2386,
@@ -42561,7 +42566,8 @@
     "name": "OLSSON, Linus",
     "year": "2000-2019",
     "games": 68,
-    "id": "52931"
+    "id": "52931",
+    "synced": true
   },
   {
     "higestRating": 2334,
@@ -43171,7 +43177,8 @@
     "name": "VAN DER LENDE, Ilias",
     "year": "2008-2019",
     "games": 67,
-    "id": "117699"
+    "id": "117699",
+    "synced": true
   },
   {
     "higestRating": 2510,
@@ -43354,7 +43361,8 @@
     "name": "BEHRHORST, Frank",
     "year": "1981-2003",
     "games": 66,
-    "id": "22537"
+    "id": "22537",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -49003,7 +49011,8 @@
     "name": "RENNA, Tony",
     "year": "1979-1993",
     "games": 55,
-    "id": "20272"
+    "id": "20272",
+    "synced": true
   },
   {
     "higestRating": 2218,
@@ -65154,7 +65163,8 @@
     "name": "PROFUMO, Alberto",
     "year": "1980-2012",
     "games": 35,
-    "id": "101308"
+    "id": "101308",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -90579,7 +90589,8 @@
     "name": "MARKOVIC, Lazar",
     "year": "2001-2011",
     "games": 18,
-    "id": "54555"
+    "id": "54555",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -90673,7 +90684,8 @@
     "name": "BENGAFER, Mohamed",
     "year": "2001-2005",
     "games": 18,
-    "id": "58547"
+    "id": "58547",
+    "synced": true
   },
   {
     "higestRating": 2259,
@@ -102069,7 +102081,8 @@
     "name": "FLAK, Pawel",
     "year": "2007-2022",
     "games": 9,
-    "id": "128348"
+    "id": "128348",
+    "synced": true
   },
   {
     "higestRating": 2352,

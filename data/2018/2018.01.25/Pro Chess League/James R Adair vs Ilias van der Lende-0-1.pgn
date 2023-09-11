@@ -1,0 +1,14 @@
+[Event "Pro Chess League"]
+[Site "chess.com INT"]
+[Date "2018.01.25"]
+[EventDate "2018.01.18"]
+[Round "2"]
+[Result "0-1"]
+[White "James R Adair"]
+[Black "Ilias van der Lende"]
+[ECO "C04"]
+[WhiteElo "2480"]
+[BlackElo "2332"]
+[PlyCount "36"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Be2 f6 7. exf6 Qxf6 8. Nf1 Bd6 9. Ne3 b6 10. O-O Bb7 11. c4 Ne7 12. cxd5 Nxd5 13. Qa4 Nf4 14. Bb5 O-O 15. Bxd7 Ne2+ 16. Kh1 Bxf3 17. gxf3 Qf4 18. Bxe6+ Kh8 0-1
