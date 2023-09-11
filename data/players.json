@@ -2129,7 +2129,8 @@
     "name": "BATSIASHVILI, Nino",
     "year": "2000-2023",
     "games": 1215,
-    "id": "50118"
+    "id": "50118",
+    "synced": true
   },
   {
     "higestRating": 2502,
@@ -11457,7 +11458,8 @@
     "name": "TEMPONE, Marcelo Javier",
     "year": "1978-2020",
     "games": 326,
-    "id": "16215"
+    "id": "16215",
+    "synced": true
   },
   {
     "higestRating": 2522,
@@ -25960,7 +25962,8 @@
     "name": "BELOV, Igor",
     "year": "1981-2016",
     "games": 127,
-    "id": "17044"
+    "id": "17044",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -28888,7 +28891,8 @@
     "name": "ALINASAB, Mobina",
     "year": "2016-2023",
     "games": 112,
-    "id": "155113"
+    "id": "155113",
+    "synced": true
   },
   {
     "higestRating": 2322,
@@ -53685,7 +53689,8 @@
     "name": "CARO, Calogero Di",
     "year": "2003-2007",
     "games": 48,
-    "id": "99057"
+    "id": "99057",
+    "synced": true
   },
   {
     "higestRating": 2201,
@@ -76184,7 +76189,8 @@
     "name": "ROMERO, Jairo Moreira",
     "year": "1996-2001",
     "games": 26,
-    "id": "53119"
+    "id": "53119",
+    "synced": true
   },
   {
     "higestRating": 2414,
@@ -91006,7 +91012,8 @@
     "name": "JOVIC, Aleksandar",
     "year": "1988-2019",
     "games": 18,
-    "id": "87532"
+    "id": "87532",
+    "synced": true
   },
   {
     "higestRating": 2221,
@@ -102261,7 +102268,8 @@
     "name": "GIK, Evgeny",
     "year": "1960-1978",
     "games": 8,
-    "id": "29405"
+    "id": "29405",
+    "synced": true
   },
   {
     "higestRating": 2366,
