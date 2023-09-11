@@ -13142,7 +13142,8 @@
     "name": "RIS, Robert",
     "year": "2003-2022",
     "games": 282,
-    "id": "108808"
+    "id": "108808",
+    "synced": true
   },
   {
     "higestRating": 2484,
@@ -17941,7 +17942,8 @@
     "name": "FRANCISKOVIC, Borka",
     "year": "2001-2020",
     "games": 202,
-    "id": "58139"
+    "id": "58139",
+    "synced": true
   },
   {
     "higestRating": 2432,
@@ -25430,7 +25432,8 @@
     "name": "CHEPUKAITIS, Genrikh",
     "year": "1952-2004",
     "games": 131,
-    "id": "32116"
+    "id": "32116",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -37727,7 +37730,8 @@
     "name": "DAURELLE, Herve",
     "year": "1989-2021",
     "games": 80,
-    "id": "60038"
+    "id": "60038",
+    "synced": true
   },
   {
     "higestRating": 2261,
@@ -37777,7 +37781,8 @@
     "name": "QASHASHVILI, Alexandre",
     "year": "1992-2017",
     "games": 80,
-    "id": "91802"
+    "id": "91802",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -44845,7 +44850,8 @@
     "name": "KLOVSKY, Rafail",
     "year": "1966-1994",
     "games": 63,
-    "id": "16648"
+    "id": "16648",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -44895,7 +44901,8 @@
     "name": "MONIN, Nikolay",
     "year": "1975-2012",
     "games": 63,
-    "id": "34096"
+    "id": "34096",
+    "synced": true
   },
   {
     "higestRating": 2323,
@@ -52470,7 +52477,8 @@
     "name": "BRECKENRIDGE, Steven James",
     "year": "2012-2018",
     "games": 50,
-    "id": "143019"
+    "id": "143019",
+    "synced": true
   },
   {
     "higestRating": 2342,
@@ -56896,7 +56904,8 @@
     "name": "SABAEV, Sergey",
     "year": "1990-2014",
     "games": 44,
-    "id": "94434"
+    "id": "94434",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -58066,7 +58075,8 @@
     "name": "KAMER, Kayra",
     "year": "2017-2022",
     "games": 43,
-    "id": "157901"
+    "id": "157901",
+    "synced": true
   },
   {
     "higestRating": 2337,
@@ -58943,7 +58953,8 @@
     "name": "KAROLCZUK, Iwo",
     "year": "2021-2022",
     "games": 42,
-    "id": "173928"
+    "id": "173928",
+    "synced": true
   },
   {
     "higestRating": 2353,
@@ -63622,7 +63633,8 @@
     "name": "LITKIEWICZ, Kurt",
     "year": "1965-1974",
     "games": 36,
-    "id": "48403"
+    "id": "48403",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -83236,7 +83248,8 @@
     "name": "STANOEV, Atanas",
     "year": "2006-2008",
     "games": 22,
-    "id": "119714"
+    "id": "119714",
+    "synced": true
   },
   {
     "higestRating": 2201,
@@ -87660,7 +87673,8 @@
     "name": "KAZANTSEV, Nikita",
     "year": "2013-2017",
     "games": 20,
-    "id": "147887"
+    "id": "147887",
+    "synced": true
   },
   {
     "higestRating": 2229,
@@ -92567,7 +92581,8 @@
     "name": "CHAPMAN, Alan D",
     "year": "2000-2012",
     "games": 17,
-    "id": "46350"
+    "id": "46350",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -92822,7 +92837,8 @@
     "name": "CHEUTSHENKO, Robert",
     "year": "1984-2006",
     "games": 17,
-    "id": "58386"
+    "id": "58386",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -104526,7 +104542,8 @@
     "name": "LEV, Arieh",
     "year": "1973-1976",
     "games": 3,
-    "id": "131109"
+    "id": "131109",
+    "synced": true
   },
   {
     "higestRating": 2247,
