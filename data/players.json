@@ -9234,7 +9234,8 @@
     "name": "GOLOSHCHAPOV, Alexander",
     "year": "1992-2017",
     "games": 406,
-    "id": "49432"
+    "id": "49432",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -18069,7 +18070,8 @@
     "name": "RISTIC, Nebojsa M",
     "year": "1977-2022",
     "games": 200,
-    "id": "29009"
+    "id": "29009",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -19798,7 +19800,8 @@
     "name": "JOHANSSON, Viktoria",
     "year": "1990-2022",
     "games": 179,
-    "id": "24082"
+    "id": "24082",
+    "synced": true
   },
   {
     "higestRating": 2374,
@@ -32458,7 +32461,8 @@
     "name": "NORDAHL, Helge Andreas",
     "year": "1993-2005",
     "games": 97,
-    "id": "44756"
+    "id": "44756",
+    "synced": true
   },
   {
     "higestRating": 2411,
@@ -43899,7 +43903,8 @@
     "name": "IBRAHIMLI, Murad",
     "year": "2017-2022",
     "games": 66,
-    "id": "158370"
+    "id": "158370",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -54841,7 +54846,8 @@
     "name": "SAHIL, Tickoo",
     "year": "2016-2021",
     "games": 47,
-    "id": "157132"
+    "id": "157132",
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -79555,7 +79561,8 @@
     "name": "VASSILIEV, G",
     "year": "1997-2013",
     "games": 24,
-    "id": "52336"
+    "id": "52336",
+    "synced": true
   },
   {
     "higestRating": 2366,
@@ -104378,7 +104385,8 @@
     "name": "BORES, Roman",
     "year": "1995",
     "games": 3,
-    "id": "61333"
+    "id": "61333",
+    "synced": true
   },
   {
     "higestRating": 2230,
