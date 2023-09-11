@@ -3493,7 +3493,8 @@
     "name": "MCNAB, Colin",
     "year": "1977-2019",
     "games": 929,
-    "id": "13783"
+    "id": "13783",
+    "synced": true
   },
   {
     "higestRating": 2710,
@@ -37393,7 +37394,8 @@
     "name": "VINK, Nico",
     "year": "1995-2001",
     "games": 81,
-    "id": "50898"
+    "id": "50898",
+    "synced": true
   },
   {
     "higestRating": 2233,
@@ -42953,7 +42955,8 @@
     "name": "TICHY, Vladimir",
     "year": "1965-2004",
     "games": 67,
-    "id": "24544"
+    "id": "24544",
+    "synced": true
   },
   {
     "higestRating": 2378,
@@ -88711,7 +88714,8 @@
     "name": "VAN DER WEIJ, Anton",
     "year": "1990-1995",
     "games": 19,
-    "id": "64017"
+    "id": "64017",
+    "synced": true
   },
   {
     "higestRating": 2333,
