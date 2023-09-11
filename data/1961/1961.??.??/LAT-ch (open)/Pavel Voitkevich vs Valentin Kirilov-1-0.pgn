@@ -1,0 +1,15 @@
+[Event "LAT-ch (open)"]
+[Site "Riga SSR"]
+[Date "1961.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1-0"]
+[White "Pavel Voitkevich"]
+[Black "Valentin Kirilov"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "25"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Qe2 d5 5.exd5+ Be7 6.Nf3 O-O 7.O-O Re8 8.d4 Nxd5 9.Bxd5 Qxd5 10.Bxf4 Nc6 11.Nc3 Nxd4 12.Qxe7 Nxf3+ 13.Rxf3 1-0
