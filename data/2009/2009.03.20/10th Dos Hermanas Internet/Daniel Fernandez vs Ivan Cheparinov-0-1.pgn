@@ -1,0 +1,14 @@
+[Event "10th Dos Hermanas Internet"]
+[Site "ICC INT"]
+[Date "2009.03.20"]
+[EventDate "?"]
+[Round "1.2"]
+[Result "0-1"]
+[White "Daniel Fernandez"]
+[Black "Ivan Cheparinov"]
+[ECO "B19"]
+[WhiteElo "2367"]
+[BlackElo "2679"]
+[PlyCount "44"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Qe2 O-O 14. Ne5 c5 15. dxc5 Nxc5 16. Bxh6 Qa5 17. Bxg7 Kxg7 18. Qe3 Qxa2 19. Nf5+ exf5 20. Qg5+ Kh7 21. Qxf5+ Kh8 22. Qg5 0-1

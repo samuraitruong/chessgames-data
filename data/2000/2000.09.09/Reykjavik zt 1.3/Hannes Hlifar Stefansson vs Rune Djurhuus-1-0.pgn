@@ -1,0 +1,14 @@
+[Event "Reykjavik zt 1.3"]
+[Site "Reykjavik"]
+[Date "2000.09.09"]
+[EventDate "?"]
+[Round "2.2"]
+[Result "1-0"]
+[White "Hannes Hlifar Stefansson"]
+[Black "Rune Djurhuus"]
+[ECO "A57"]
+[WhiteElo "2557"]
+[BlackElo "2484"]
+[PlyCount "47"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nf3 g6 5.cxb5 a6 6.b6 a5 7.Nc3 Ba6 8.b7 Ra7 9.e4 Bxf1 10.Kxf1 d6 11.e5 dxe5 12.Nxe5 Rxb7 13.Qa4+ Nfd7 14.Nc6 Qc8 15.Bf4 Na6 16.Re1 f6 17.Nxe7 Bxe7 18.d6 O-O 19.Qc4+ Kh8 20.dxe7 Rb4 21.exf8=Q+ Nxf8 22.Qf7 Rxf4 23.Re7 Qf5 24.Qg7# 1-0

@@ -1,0 +1,14 @@
+[Event "Icelandic Chess Championship"]
+[Site "Hafnarfjordur ISL"]
+[Date "2023.05.21"]
+[EventDate "2023.05.15"]
+[Round "7"]
+[Result "1-0"]
+[White "H Stefansson"]
+[Black "L Ptacnikova"]
+[ECO "B76"]
+[WhiteElo "2521"]
+[BlackElo "2099"]
+[PlyCount "42"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 e5 13. Bc5 Re8 14. Bc4 Qh4 15. Bxd5 cxd5 16. Bf2 Qb4 17. Nxd5 Qc4 18. b3 Qa6 19. Kb1 e4 20. Bd4 exf3 21. Bxg7 1-0
