@@ -948,7 +948,8 @@
     "name": "FRESSINET, Laurent",
     "year": "1993-2023",
     "games": 1716,
-    "id": "28654"
+    "id": "28654",
+    "synced": true
   },
   {
     "higestRating": 2633,
@@ -51854,7 +51855,8 @@
     "name": "REMIZOV, Yaroslav",
     "year": "2017-2022",
     "games": 51,
-    "id": "154097"
+    "id": "154097",
+    "synced": true
   },
   {
     "higestRating": 2249,
@@ -63897,7 +63899,8 @@
     "name": "ATANASOV, Petko",
     "year": "1967-1991",
     "games": 36,
-    "id": "77828"
+    "id": "77828",
+    "synced": true
   },
   {
     "higestRating": 2297,
@@ -72841,7 +72844,8 @@
     "name": "BRODSKY, David",
     "year": "2013-2023",
     "games": 29,
-    "id": "147571"
+    "id": "147571",
+    "synced": true
   },
   {
     "higestRating": 2262,
@@ -105257,7 +105261,8 @@
     "name": "TESLA, Sergey",
     "year": "1996",
     "games": 1,
-    "id": "61701"
+    "id": "61701",
+    "synced": true
   },
   {
     "higestRating": 2251,

@@ -1,0 +1,14 @@
+[Event "European Championship"]
+[Site "Skopje MKD"]
+[Date "2019.03.24"]
+[EventDate "2019.03.18"]
+[Round "6.22"]
+[Result "0-1"]
+[White "Laurent Fressinet"]
+[Black "Rainer Buhmann"]
+[ECO "C14"]
+[WhiteElo "2652"]
+[BlackElo "2568"]
+[PlyCount "44"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Qd2 O-O 8. Nb5 a6 9. Na3 f6 10. exf6 Nxf6 11. Nf3 Ne4 12. Qe2 e5 13. dxe5 Nc6 14. Nc4 Qb4+ 15. Nfd2 Nxf2 16. c3 Qe7 17. Ne3 Nxh1 18. Nf3 Nxe5 19. O-O-O Nxf3 20. gxf3 Re8 21. Re1 Qh4 22. Qd2 c6 0-1
