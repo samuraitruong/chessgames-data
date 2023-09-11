@@ -6575,7 +6575,8 @@
     "name": "GRABARCZYK, Miroslav",
     "year": "1989-2022",
     "games": 561,
-    "id": "21952"
+    "id": "21952",
+    "synced": true
   },
   {
     "higestRating": 2701,
@@ -10631,7 +10632,8 @@
     "name": "OVETCHKIN, Roman",
     "year": "1991-2021",
     "games": 354,
-    "id": "42818"
+    "id": "42818",
+    "synced": true
   },
   {
     "higestRating": 2517,
@@ -14446,7 +14448,8 @@
     "name": "PAP, Misa",
     "year": "1995-2023",
     "games": 255,
-    "id": "35894"
+    "id": "35894",
+    "synced": true
   },
   {
     "higestRating": 2451,
@@ -36202,7 +36205,8 @@
     "name": "PAPA, Severin",
     "year": "1998-2011",
     "games": 84,
-    "id": "50227"
+    "id": "50227",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -36797,7 +36801,8 @@
     "name": "GILDEN, Lawrence",
     "year": "1959-1976",
     "games": 82,
-    "id": "19266"
+    "id": "19266",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -51228,7 +51233,8 @@
     "name": "LLANES, Yerisbel Miranda",
     "year": "2009-2023",
     "games": 52,
-    "id": "134319"
+    "id": "134319",
+    "synced": true
   },
   {
     "higestRating": 2204,
@@ -66378,7 +66384,8 @@
     "name": "LISSANG, Christopher",
     "year": "2006-2023",
     "games": 34,
-    "id": "107929"
+    "id": "107929",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -79490,7 +79497,8 @@
     "name": "GERSOV, Evgeny",
     "year": "1998-2006",
     "games": 24,
-    "id": "49879"
+    "id": "49879",
+    "synced": true
   },
   {
     "higestRating": 2281,
@@ -89882,7 +89890,8 @@
     "name": "KRAUS, Yair",
     "year": "2014-2015",
     "games": 19,
-    "id": "150622"
+    "id": "150622",
+    "synced": true
   },
   {
     "higestRating": 2387,
