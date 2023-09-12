@@ -9705,7 +9705,8 @@
     "name": "LANCHAVA, Tea",
     "year": "1990-2022",
     "games": 390,
-    "id": "49853"
+    "id": "49853",
+    "synced": true
   },
   {
     "higestRating": 2602,
@@ -14851,7 +14852,8 @@
     "name": "ILJIN, Artem",
     "year": "1997-2019",
     "games": 248,
-    "id": "50197"
+    "id": "50197",
+    "synced": true
   },
   {
     "higestRating": 2582,
@@ -27517,7 +27519,8 @@
     "name": "PUPOLS, Viktors",
     "year": "1954-2015",
     "games": 118,
-    "id": "24250"
+    "id": "24250",
+    "synced": true
   },
   {
     "higestRating": 2447,
@@ -28014,7 +28017,8 @@
     "name": "SVIRIDOV, Valery",
     "year": "2009-2023",
     "games": 116,
-    "id": "136697"
+    "id": "136697",
+    "synced": true
   },
   {
     "higestRating": 2533,
@@ -42045,7 +42049,8 @@
     "name": "HUANG, Renjie",
     "year": "2016-2023",
     "games": 70,
-    "id": "156055"
+    "id": "156055",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -42872,7 +42877,8 @@
     "name": "CATHERINA, P Michelle",
     "year": "2011-2022",
     "games": 68,
-    "id": "131284"
+    "id": "131284",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -60667,7 +60673,8 @@
     "name": "NATSIDIS, Christoph",
     "year": "2006-2018",
     "games": 40,
-    "id": "110028"
+    "id": "110028",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -80949,7 +80956,8 @@
     "name": "VERKASALO, Tommi",
     "year": "2000-2019",
     "games": 23,
-    "id": "51589"
+    "id": "51589",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -81714,7 +81722,8 @@
     "name": "FELCZER, Kevin",
     "year": "1995-2008",
     "games": 23,
-    "id": "112379"
+    "id": "112379",
+    "synced": true
   },
   {
     "higestRating": 2386,
@@ -94510,7 +94519,8 @@
     "name": "MAUNG, Maung Kyaw Zaw Hein",
     "year": "2016-2022",
     "games": 17,
-    "id": "155300"
+    "id": "155300",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -97387,7 +97397,8 @@
     "name": "VERDAGUER, Eduard Aymerich",
     "year": "2022",
     "games": 16,
-    "id": "189561"
+    "id": "189561",
+    "synced": true
   },
   {
     "higestRating": 2562,
@@ -98716,7 +98727,8 @@
     "name": "ARNE, Mike",
     "year": "1979-2019",
     "games": 15,
-    "id": "92501"
+    "id": "92501",
+    "synced": true
   },
   {
     "higestRating": 2307,
@@ -100041,7 +100053,8 @@
     "name": "BATCHELDER, Wiliam",
     "year": "1959-1981",
     "games": 14,
-    "id": "104088"
+    "id": "104088",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -100595,7 +100608,8 @@
     "name": "DE PAULA, Rafael Figueiredo",
     "year": "2016-2017",
     "games": 13,
-    "id": "157120"
+    "id": "157120",
+    "synced": true
   },
   {
     "higestRating": 2305,
