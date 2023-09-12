@@ -5443,7 +5443,8 @@
     "name": "FRANIC, Milan",
     "year": "1982-2023",
     "games": 674,
-    "id": "12564"
+    "id": "12564",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -6099,7 +6100,8 @@
     "name": "HAMDOUCHI, Hichem",
     "year": "1987-2023",
     "games": 604,
-    "id": "14200"
+    "id": "14200",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -33029,7 +33031,8 @@
     "name": "SEMENOVA, Irina",
     "year": "1994-2015",
     "games": 95,
-    "id": "49818"
+    "id": "49818",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -56213,7 +56216,8 @@
     "name": "KRIVOKAPIC, Marko",
     "year": "2002-2021",
     "games": 45,
-    "id": "101382"
+    "id": "101382",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -59530,7 +59534,8 @@
     "name": "JOVANOVIC, Sasa T",
     "year": "1989-2012",
     "games": 41,
-    "id": "58515"
+    "id": "58515",
+    "synced": true
   },
   {
     "higestRating": 2239,
@@ -63370,7 +63375,8 @@
     "name": "VRABEC, Milos",
     "year": "1971-2002",
     "games": 37,
-    "id": "101540"
+    "id": "101540",
+    "synced": true
   },
   {
     "higestRating": 2221,
@@ -66239,7 +66245,8 @@
     "name": "SCHMIDT, Wolfgang",
     "year": "1981-2001",
     "games": 34,
-    "id": "68562"
+    "id": "68562",
+    "synced": true
   },
   {
     "higestRating": 2400,
