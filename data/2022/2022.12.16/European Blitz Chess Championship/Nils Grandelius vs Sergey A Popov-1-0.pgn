@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.16"]
+[EventDate "2022.12.16"]
+[Round "2.5"]
+[Result "1-0"]
+[White "Nils Grandelius"]
+[Black "Sergey A Popov"]
+[ECO "A14"]
+[WhiteElo "2660"]
+[BlackElo "1916"]
+[PlyCount "44"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. b3 c5 7. cxd5 exd5 8. d4 Nc6 9. Bb2 h6 10. Nc3 Be6 11. Rc1 Rc8 12. Na4 cxd4 13. Nxd4 Nxd4 14. Qxd4 b6 15. Nc3 Bc5 16. Qd3 d4 17. Nb5 Qd7 18. Nxd4 Bh3 19. Nf3 Bxg2 20. Qxd7 Nxd7 21. Kxg2 Rfe8 22. e3 1-0

@@ -1,0 +1,14 @@
+[Event "SWE-chT 1617"]
+[Site "SWE"]
+[Date "2017.02.04"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Nils Grandelius"]
+[Black "Sergey Ivanov"]
+[ECO "C06"]
+[WhiteElo "2642"]
+[BlackElo "2547"]
+[PlyCount "44"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 cxd4 8.cxd4 f6 9.exf6 Qxf6 10.Nf3 h6 11.O-O Bd6 12.Be3 O-O 13.Rc1 Rd8 14.a3 Nf8 15.Qd2 Bd7 16.Bf4 Be8 17.Bxd6 Rxd6 18.Ng3 Bg6 19.Bb5 Be4 20.Ne5 Nxe5 21.dxe5 Qxe5 22.f4 1-0

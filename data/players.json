@@ -1736,7 +1736,8 @@
     "name": "GRANDELIUS, Nils",
     "year": "2006-2023",
     "games": 1334,
-    "id": "107935"
+    "id": "107935",
+    "synced": true
   },
   {
     "higestRating": 2699,
@@ -26217,7 +26218,8 @@
     "name": "KEIM, Luis Rojas",
     "year": "1991-2020",
     "games": 126,
-    "id": "83899"
+    "id": "83899",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -51604,7 +51606,8 @@
     "name": "WILLIAMS, Leighton",
     "year": "1992-2006",
     "games": 51,
-    "id": "68301"
+    "id": "68301",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -88870,7 +88873,8 @@
     "name": "BLECKEN, Volker",
     "year": "1991-2001",
     "games": 19,
-    "id": "70761"
+    "id": "70761",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -103681,7 +103685,8 @@
     "name": "LEVITT, Mark",
     "year": "1985-2002",
     "games": 5,
-    "id": "73472"
+    "id": "73472",
+    "synced": true
   },
   {
     "higestRating": 2268,
