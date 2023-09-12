@@ -7828,7 +7828,8 @@
     "name": "JOHANNESSEN, Leif Erlend",
     "year": "1993-2018",
     "games": 480,
-    "id": "76840"
+    "id": "76840",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -13109,7 +13110,8 @@
     "name": "STUART, Peter Wykeham",
     "year": "1964-2014",
     "games": 283,
-    "id": "47275"
+    "id": "47275",
+    "synced": true
   },
   {
     "higestRating": 2429,
@@ -22255,7 +22257,8 @@
     "name": "ZUPE, Miran",
     "year": "1978-2019",
     "games": 156,
-    "id": "17092"
+    "id": "17092",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -31776,7 +31779,8 @@
     "name": "QENDRO, Llambi",
     "year": "1979-2018",
     "games": 100,
-    "id": "103433"
+    "id": "103433",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -37703,7 +37707,8 @@
     "name": "KRAVTSOV, Sergey",
     "year": "1994-2015",
     "games": 80,
-    "id": "18287"
+    "id": "18287",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -44455,7 +44460,8 @@
     "name": "NAING, Myo",
     "year": "1993-2018",
     "games": 64,
-    "id": "11049"
+    "id": "11049",
+    "synced": true
   },
   {
     "higestRating": 2221,
@@ -50895,7 +50901,8 @@
     "name": "RUDERFER, Mark",
     "year": "1967-2008",
     "games": 52,
-    "id": "15291"
+    "id": "15291",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -51562,7 +51569,8 @@
     "name": "GAVRIC, Miladin",
     "year": "1985-2016",
     "games": 51,
-    "id": "54583"
+    "id": "54583",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -55421,7 +55429,8 @@
     "name": "KOLLBERG, Lothar",
     "year": "1955-1977",
     "games": 46,
-    "id": "92209"
+    "id": "92209",
+    "synced": true
   },
   {
     "higestRating": 2249,
@@ -73740,7 +73749,8 @@
     "name": "BURDEN, James L",
     "year": "1989-2003",
     "games": 28,
-    "id": "80858"
+    "id": "80858",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -74186,7 +74196,8 @@
     "name": "CSIBA, Dominik",
     "year": "2002-2014",
     "games": 28,
-    "id": "127905"
+    "id": "127905",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -77976,7 +77987,8 @@
     "name": "IANOV, Viktor",
     "year": "1996-2005",
     "games": 25,
-    "id": "53026"
+    "id": "53026",
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -86497,7 +86509,8 @@
     "name": "LEHMANN, Marco",
     "year": "2001-2010",
     "games": 20,
-    "id": "55606"
+    "id": "55606",
+    "synced": true
   },
   {
     "higestRating": 2213,
@@ -87498,7 +87511,8 @@
     "name": "AGUINAGA, Maximiliano",
     "year": "2009-2018",
     "games": 20,
-    "id": "124524"
+    "id": "124524",
+    "synced": true
   },
   {
     "higestRating": 2378,
@@ -96229,7 +96243,8 @@
     "name": "PESKOV, Alexsey",
     "year": "2003-2018",
     "games": 16,
-    "id": "96807"
+    "id": "96807",
+    "synced": true
   },
   {
     "higestRating": 2276,
@@ -104023,7 +104038,8 @@
     "name": "JELLISON, David",
     "year": "1974-1987",
     "games": 4,
-    "id": "33373"
+    "id": "33373",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -105190,7 +105206,8 @@
     "name": "GLAZMAN, Moshe",
     "year": "2006-2008",
     "games": 2,
-    "id": "116882"
+    "id": "116882",
+    "synced": true
   },
   {
     "higestRating": 2235,

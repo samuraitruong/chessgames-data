@@ -1,0 +1,14 @@
+[Event "Bergen Chess International"]
+[Site "Bergen"]
+[Date "2002.07.20"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Kjetil Stokke"]
+[Black "Leif Erlend Johannessen"]
+[ECO "C18"]
+[WhiteElo "2114"]
+[BlackElo "2525"]
+[PlyCount "48"]
+
+1.e4 e6 2.Nc3 d5 3.d4 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qc7 7.Qg4 f5 8.Qh5+ g6 9.Qd1 Bd7 10.Nf3 Ba4 11.Ra2 Nd7 12.h4 h6 13.Bf4 Ngf6 14.Bxh6 Rxh6 15.exf6 Nxf6 16.Bd3 c4 17.Qc1 Qg7 18.Be2 Ne4 19.Qb2 g5 20.Qb4 b5 21.Ne5 a5 22.Qb2 gxh4 23.Bf3 Qg5 24.Kd1 Qd2# 0-1
