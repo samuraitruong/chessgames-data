@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.22"]
+[EventDate "2020.08.21"]
+[Round "6"]
+[Result "1-0"]
+[White "Anne Haast"]
+[Black "Sheila Barth Stanford"]
+[ECO "B90"]
+[WhiteElo "2318"]
+[BlackElo "2133"]
+[Source "Chess-Results"]
+[PlyCount "97"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3 Be7 9. Qd2 h5 10. a4 Nbd7 11. a5 Rc8 12. Be2 Nc5 13. Nxc5 dxc5 14. Qxd8+ Bxd8 15. Kf2 Nd7 16. Rhd1 Nb8 17. Nd5 Nc6 18. Bxc5 Nxa5 19. b4 Nc6 20. b5 Nd4 21. Bxd4 exd4 22. bxa6 bxa6 23. Rxa6 Rxc2 24. Rxd4 O-O 25. Ke1 Bg5 26. f4 Bxd5 27. fxg5 Be6 28. Rd2 Rc5 29. h4 Re5 30. Rd4 f5 31. Rxe6 Rxe6 32. Bc4 Re8 33. Rd6 Kf7 34. e5 g6 35. Kd2 Re7 36. Kd3 Re8 37. Kd4 Re7 38. Bxe6+ Rxe6 39. Kd5 Re8 40. e6+ Kf8 41. Ke5 f4 42. Kf6 f3 43. gxf3 Kg8 44. e7 Kh8 45. Rd8 Kh7 46. Kf7 Rf8+ 47. exf8=N+ Kh8 48. Nxg6+ Kh7 49. Rh8# 1-0
