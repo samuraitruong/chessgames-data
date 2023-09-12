@@ -4954,7 +4954,8 @@
     "name": "ZHOU, Jianchao",
     "year": "2002-2023",
     "games": 721,
-    "id": "97891"
+    "id": "97891",
+    "synced": true
   },
   {
     "higestRating": 2535,
@@ -6625,7 +6626,8 @@
     "name": "BARAMIDZE, David",
     "year": "1997-2021",
     "games": 558,
-    "id": "49249"
+    "id": "49249",
+    "synced": true
   },
   {
     "higestRating": 2387,
@@ -28450,7 +28452,8 @@
     "name": "LIPTAY, Laszlo",
     "year": "1960-2002",
     "games": 113,
-    "id": "18963"
+    "id": "18963",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -64421,7 +64424,8 @@
     "name": "KALININ, Nikita",
     "year": "2012-2017",
     "games": 36,
-    "id": "141340"
+    "id": "141340",
+    "synced": true
   },
   {
     "higestRating": 2440,
