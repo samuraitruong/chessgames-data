@@ -483,7 +483,8 @@
     "name": "CEBALO, Miso",
     "year": "1962-2019",
     "games": 2130,
-    "id": "15228"
+    "id": "15228",
+    "synced": true
   },
   {
     "higestRating": 2609,
@@ -26799,7 +26800,8 @@
     "name": "RYSKIN, Alexander",
     "year": "1963-1995",
     "games": 122,
-    "id": "18202"
+    "id": "18202",
+    "synced": true
   },
   {
     "higestRating": 2374,
@@ -39166,7 +39168,8 @@
     "name": "KALANTARIAN, Norik",
     "year": "1988-2018",
     "games": 76,
-    "id": "17036"
+    "id": "17036",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -47418,7 +47421,8 @@
     "name": "WINKELMAN, Albert",
     "year": "2017-2023",
     "games": 59,
-    "id": "157337"
+    "id": "157337",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -95307,7 +95311,8 @@
     "name": "VALERO, Ramon Cardenas",
     "year": "1998-2001",
     "games": 16,
-    "id": "53583"
+    "id": "53583",
+    "synced": true
   },
   {
     "higestRating": 2246,
@@ -95722,7 +95727,8 @@
     "name": "KETTNER, Juergen",
     "year": "1986-1999",
     "games": 16,
-    "id": "70723"
+    "id": "70723",
+    "synced": true
   },
   {
     "higestRating": 2296,
@@ -97654,7 +97660,8 @@
     "name": "SANCHEZ, Gabriel",
     "year": "1977-1998",
     "games": 15,
-    "id": "38562"
+    "id": "38562",
+    "synced": true
   },
   {
     "higestRating": 2252,
@@ -99606,7 +99613,8 @@
     "name": "KARAOKCU, Erkin",
     "year": "2013-2015",
     "games": 15,
-    "id": "147723"
+    "id": "147723",
+    "synced": true
   },
   {
     "higestRating": 2219,
