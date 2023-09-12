@@ -1,0 +1,14 @@
+[Event "Kvibergspelen"]
+[Site "Gothenburg SWE"]
+[Date "2017.05.05"]
+[EventDate "2017.05.05"]
+[Round "3.10"]
+[Result "0-1"]
+[White "Leif Svensson"]
+[Black "Mats Welin"]
+[ECO "A45"]
+[WhiteElo "2071"]
+[BlackElo "2336"]
+[PlyCount "28"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Qd3 c5 5. O-O-O c4 6. Qf3 Qa5 7. Kb1 Ne4 8. Bd2 Nxd2+ 9. Rxd2 Nf6 10. h3 e6 11. e4 Bb4 12. exd5 Bxc3 13. Qxc3 Qxc3 14. bxc3 Ne4 0-1
