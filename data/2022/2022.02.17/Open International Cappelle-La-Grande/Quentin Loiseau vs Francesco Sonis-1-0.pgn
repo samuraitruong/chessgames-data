@@ -1,0 +1,15 @@
+[Event "Open International Cappelle-La-Grande"]
+[Site "Cappelle-la-Grande FRA"]
+[Date "2022.02.17"]
+[EventDate "2022.02.12"]
+[Round "8"]
+[Result "1-0"]
+[White "Quentin Loiseau"]
+[Black "Francesco Sonis"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Lichess"]
+[PlyCount "42"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 c6 8. b4 b6 9. Bd3 a5 10. a3 Ba6 11. Bxa6 Rxa6 12. b5 cxb5 13. c6 Qc8 14. c7 b4 15. Nb5 bxa3 16. Qc2 Bb4+ 17. Ke2 Ra8 18. Qc6 Qa6 19. Rhc1 Rac8 20. Ne1 Nb8 21. cxb8=N 1-0

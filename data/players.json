@@ -9171,7 +9171,8 @@
     "name": "SONIS, Francesco",
     "year": "2014-2023",
     "games": 409,
-    "id": "155910"
+    "id": "155910",
+    "synced": true
   },
   {
     "higestRating": 2555,
@@ -12130,7 +12131,8 @@
     "name": "PANOS, Sergio Estremera",
     "year": "1987-2020",
     "games": 307,
-    "id": "50552"
+    "id": "50552",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -19443,7 +19445,8 @@
     "name": "GAMBARROTTI, Plinio Pazos",
     "year": "1978-2020",
     "games": 183,
-    "id": "15571"
+    "id": "15571",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -35629,7 +35632,8 @@
     "name": "STOINEV, Metodi",
     "year": "1989-2021",
     "games": 86,
-    "id": "44612"
+    "id": "44612",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -42811,7 +42815,8 @@
     "name": "KRISTOL, Luba",
     "year": "1960-1999",
     "games": 68,
-    "id": "90149"
+    "id": "90149",
+    "synced": true
   },
   {
     "higestRating": 2561,
@@ -51852,7 +51857,8 @@
     "name": "SARENAC, David",
     "year": "2003-2019",
     "games": 51,
-    "id": "117792"
+    "id": "117792",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -71329,7 +71335,8 @@
     "name": "VASS, Peter",
     "year": "1998-2011",
     "games": 30,
-    "id": "110962"
+    "id": "110962",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -81029,7 +81036,8 @@
     "name": "MIHAILIDIS, Anastasios",
     "year": "1997-2013",
     "games": 23,
-    "id": "53765"
+    "id": "53765",
+    "synced": true
   },
   {
     "higestRating": 2241,
