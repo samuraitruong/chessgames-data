@@ -6139,7 +6139,8 @@
     "name": "WITTMANN, Walter",
     "year": "1971-2016",
     "games": 601,
-    "id": "20945"
+    "id": "20945",
+    "synced": true
   },
   {
     "higestRating": 2630,
@@ -6291,7 +6292,8 @@
     "name": "YILDIZ, Betul Cemre",
     "year": "2000-2021",
     "games": 588,
-    "id": "51601"
+    "id": "51601",
+    "synced": true
   },
   {
     "higestRating": 2411,
@@ -36094,7 +36096,8 @@
     "name": "PEIN, Jonathan",
     "year": "2016-2022",
     "games": 85,
-    "id": "156840"
+    "id": "156840",
+    "synced": true
   },
   {
     "higestRating": 2383,
@@ -41379,7 +41382,8 @@
     "name": "RODCHENKOV, Vitaly",
     "year": "2000-2020",
     "games": 71,
-    "id": "66183"
+    "id": "66183",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -67742,7 +67746,8 @@
     "name": "HARAKIS, Alexis M",
     "year": "1993-2013",
     "games": 33,
-    "id": "136473"
+    "id": "136473",
+    "synced": true
   },
   {
     "higestRating": 2363,
@@ -80706,7 +80711,8 @@
     "name": "MITROVIC, Petar",
     "year": "1989-2008",
     "games": 23,
-    "id": "26725"
+    "id": "26725",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -85726,7 +85732,8 @@
     "name": "STAUSKAS, Lukas",
     "year": "2016-2019",
     "games": 21,
-    "id": "156991"
+    "id": "156991",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -91726,7 +91733,8 @@
     "name": "HAKIKI, Kaisar Jenius",
     "year": "2007-2014",
     "games": 18,
-    "id": "120076"
+    "id": "120076",
+    "synced": true
   },
   {
     "higestRating": 2243,
@@ -105081,7 +105089,8 @@
     "name": "SPIRO, Barry",
     "year": "1981-1990",
     "games": 2,
-    "id": "112365"
+    "id": "112365",
+    "synced": true
   },
   {
     "higestRating": 2281,
