@@ -1,0 +1,15 @@
+[Event "Skopje Olympiad Final-B"]
+[Site "Skopje YUG"]
+[Date "1972.10.02"]
+[EventDate "1972.09.18"]
+[Round "6"]
+[Result "1-0"]
+[White "Magnus Solmundarson"]
+[Black "Frans Cornelis"]
+[ECO "A91"]
+[WhiteElo "2390"]
+[BlackElo "2320"]
+[Source "Olimpbase"]
+[PlyCount "41"]
+
+1.c4 f5 2.d4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nh3 O-O 6.Nf4 d5 7.O-O c6 8.Qc2 Qe8 9.Nd2 g5 10.Nd3 Qh5 11.Nf3 h6 12.Nfe5 Nbd7 13.f3 Bd6 14.b3 Bxe5 15.dxe5 Nh7 16.Ba3 Re8 17.e4 dxe4 18.fxe4 Ndf8 19.Bb2 Bd7 20.exf5 exf5 21.Nc5 1-0
