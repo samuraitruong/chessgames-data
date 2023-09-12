@@ -8679,7 +8679,8 @@
     "name": "SALTAEV, Mihail",
     "year": "1980-2023",
     "games": 431,
-    "id": "17037"
+    "id": "17037",
+    "synced": true
   },
   {
     "higestRating": 2475,
@@ -11259,7 +11260,8 @@
     "name": "BARSKI, Radoslaw",
     "year": "2003-2022",
     "games": 333,
-    "id": "128367"
+    "id": "128367",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -40233,7 +40235,8 @@
     "name": "GOLDING, Alex",
     "year": "2015-2023",
     "games": 74,
-    "id": "153149"
+    "id": "153149",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -57949,7 +57952,8 @@
     "name": "PALJUSAJ, Edmond",
     "year": "1996-2013",
     "games": 43,
-    "id": "100130"
+    "id": "100130",
+    "synced": true
   },
   {
     "higestRating": 2218,
@@ -60628,7 +60632,8 @@
     "name": "WILSON, Jonathan G",
     "year": "1981-2003",
     "games": 40,
-    "id": "113501"
+    "id": "113501",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -73111,7 +73116,8 @@
     "name": "KOVALENKO, Sergey",
     "year": "1990-2019",
     "games": 28,
-    "id": "10867"
+    "id": "10867",
+    "synced": true
   },
   {
     "higestRating": 2203,
@@ -76678,7 +76684,8 @@
     "name": "MUNGROO, Franklin",
     "year": "2004-2010",
     "games": 26,
-    "id": "88593"
+    "id": "88593",
+    "synced": true
   },
   {
     "higestRating": 2319,
@@ -77633,7 +77640,8 @@
     "name": "ENOSHI, Arik",
     "year": "1987-1993",
     "games": 25,
-    "id": "41330"
+    "id": "41330",
+    "synced": true
   },
   {
     "higestRating": 2212,
@@ -95808,7 +95816,8 @@
     "name": "COCHRANE, John Miles",
     "year": "1988-2003",
     "games": 16,
-    "id": "86009"
+    "id": "86009",
+    "synced": true
   },
   {
     "higestRating": 2355,
