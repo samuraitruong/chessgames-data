@@ -13679,7 +13679,8 @@
     "name": "SCHLOSSER, Michael",
     "year": "1985-2003",
     "games": 270,
-    "id": "27714"
+    "id": "27714",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -20638,7 +20639,8 @@
     "name": "CALOTESCU, Ana-Cristina",
     "year": "1998-2006",
     "games": 172,
-    "id": "53064"
+    "id": "53064",
+    "synced": true
   },
   {
     "higestRating": 2510,
@@ -20799,7 +20801,8 @@
     "name": "DARDHA, Arben",
     "year": "1989-2022",
     "games": 170,
-    "id": "57188"
+    "id": "57188",
+    "synced": true
   },
   {
     "higestRating": 2472,
@@ -26083,7 +26086,8 @@
     "name": "MILMAN, Lev",
     "year": "2001-2014",
     "games": 127,
-    "id": "50478"
+    "id": "50478",
+    "synced": true
   },
   {
     "higestRating": 2227,
@@ -39944,7 +39948,8 @@
     "name": "LOMBAERS, Peter",
     "year": "2013-2022",
     "games": 75,
-    "id": "149050"
+    "id": "149050",
+    "synced": true
   },
   {
     "higestRating": 2344,
@@ -45680,7 +45685,8 @@
     "name": "RASCH, Holger",
     "year": "1986-2019",
     "games": 62,
-    "id": "52125"
+    "id": "52125",
+    "synced": true
   },
   {
     "higestRating": 2262,
@@ -58828,7 +58834,8 @@
     "name": "HOVENGA, Alje",
     "year": "1996-2020",
     "games": 42,
-    "id": "92526"
+    "id": "92526",
+    "synced": true
   },
   {
     "higestRating": 2476,
@@ -61489,7 +61496,8 @@
     "name": "MAYER, Steven F",
     "year": "1982-2003",
     "games": 39,
-    "id": "86978"
+    "id": "86978",
+    "synced": true
   },
   {
     "higestRating": 2224,
@@ -64860,7 +64868,8 @@
     "name": "ELSETH, Roar",
     "year": "1982-2017",
     "games": 35,
-    "id": "29040"
+    "id": "29040",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -86641,7 +86650,8 @@
     "name": "OLENDEREK, Tomasz",
     "year": "1998-2018",
     "games": 20,
-    "id": "56341"
+    "id": "56341",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -89919,7 +89929,8 @@
     "name": "IZCHENKO, Olga",
     "year": "1994",
     "games": 19,
-    "id": "132969"
+    "id": "132969",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -91818,7 +91829,8 @@
     "name": "KRNIC, Ivan",
     "year": "2004-2014",
     "games": 18,
-    "id": "115170"
+    "id": "115170",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -99475,7 +99487,8 @@
     "name": "DRNOVSEK, Nejc",
     "year": "2010-2015",
     "games": 15,
-    "id": "126786"
+    "id": "126786",
+    "synced": true
   },
   {
     "higestRating": 2284,
@@ -102435,7 +102448,8 @@
     "name": "KONNIG, Claudio Orpinas",
     "year": "1966-2004",
     "games": 9,
-    "id": "98525"
+    "id": "98525",
+    "synced": true
   },
   {
     "higestRating": 2219,
