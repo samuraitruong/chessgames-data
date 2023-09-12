@@ -1,0 +1,15 @@
+[Event "Match-Tournament (Team)"]
+[Site "Moscow URS"]
+[Date "0000.04.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladislav Shiyanovsky"]
+[Black "Aron G Reshko"]
+[ECO "A06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "17"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 Bf5 4.c4 c6 5.Qb3 Qb6 6.cxd5 Qxb3 7.axb3 Bxb1 8.dxc6 Nxc6 9.Rxb1 1-0

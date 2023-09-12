@@ -1,0 +1,14 @@
+[Event "Pro Chess League"]
+[Site "chess.com INT"]
+[Date "2018.02.28"]
+[EventDate "2018.01.18"]
+[Round "8"]
+[Result "0-1"]
+[White "Johann Hjartarson"]
+[Black "Christian Bauer"]
+[ECO "A40"]
+[WhiteElo "2536"]
+[BlackElo "2625"]
+[PlyCount "40"]
+
+1. d4 a6 2. e4 e6 3. Nf3 d5 4. e5 Bd7 5. Nc3 c5 6. dxc5 Bxc5 7. Bd3 Nc6 8. O-O Nge7 9. a3 Ng6 10. Qe2 Nd4 11. Nxd4 Bxd4 12. Re1 Qh4 13. g3 Qh3 14. Qd1 Nxe5 15. Nxd5 Ng4 16. Nc7+ Kd8 17. Qxg4 Qxg4 18. Nxa8 Qf3 19. Be3 Bc6 20. Kf1 Bxe3 0-1

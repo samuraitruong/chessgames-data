@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.17"]
+[EventDate "2022.12.17"]
+[Round "1.51"]
+[Result "0-1"]
+[White "Sylwia Polak"]
+[Black "Johann Hjartarson"]
+[ECO "E20"]
+[WhiteElo "1617"]
+[BlackElo "2476"]
+[PlyCount "40"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 d6 6. e4 exd5 7. cxd5 Nbd7 8. Bd3 O-O 9. Ne2 a6 10. a4 Ne5 11. O-O Bd7 12. Bg5 h6 13. Bh4 c4 14. Bc2 Bc5+ 15. Kh1 Ng6 16. Bf2 Bxf2 17. Rxf2 b5 18. axb5 axb5 19. Rxa8 Qxa8 20. Rf1 b4 0-1

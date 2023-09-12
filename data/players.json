@@ -2334,7 +2334,8 @@
     "name": "HJARTARSON, Johann",
     "year": "1979-2023",
     "games": 1172,
-    "id": "14011"
+    "id": "14011",
+    "synced": true
   },
   {
     "higestRating": 2664,
@@ -10681,7 +10682,8 @@
     "name": "SHIYANOVSKY, Vladislav",
     "year": "1947-2004",
     "games": 352,
-    "id": "17406"
+    "id": "17406",
+    "synced": true
   },
   {
     "higestRating": 2523,
@@ -42846,7 +42848,8 @@
     "name": "DUMCHEVA, Julia",
     "year": "2010-2020",
     "games": 68,
-    "id": "131339"
+    "id": "131339",
+    "synced": true
   },
   {
     "higestRating": 2448,
@@ -44172,7 +44175,8 @@
     "name": "DUARTE, Leonardo",
     "year": "1999-2009",
     "games": 65,
-    "id": "68471"
+    "id": "68471",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -49217,7 +49221,8 @@
     "name": "LIU, Shilan",
     "year": "1980-2017",
     "games": 55,
-    "id": "41530"
+    "id": "41530",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -52912,7 +52917,8 @@
     "name": "BERLINSKY, Vladimir",
     "year": "1982-2008",
     "games": 49,
-    "id": "57448"
+    "id": "57448",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -59201,7 +59207,8 @@
     "name": "HERMESMANN, Hans",
     "year": "1986-2005",
     "games": 41,
-    "id": "39577"
+    "id": "39577",
+    "synced": true
   },
   {
     "higestRating": 2254,
@@ -63296,7 +63303,8 @@
     "name": "PASKO, Wieslaw",
     "year": "1997-2001",
     "games": 37,
-    "id": "107711"
+    "id": "107711",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -63333,7 +63341,8 @@
     "name": "FEHER, Adam",
     "year": "2006-2019",
     "games": 37,
-    "id": "113372"
+    "id": "113372",
+    "synced": true
   },
   {
     "higestRating": 2438,
@@ -69061,7 +69070,8 @@
     "name": "BOZEK, Adam",
     "year": "1987-1990",
     "games": 31,
-    "id": "19649"
+    "id": "19649",
+    "synced": true
   },
   {
     "higestRating": 2297,
@@ -69434,7 +69444,8 @@
     "name": "SCERBIN, Dmitrij",
     "year": "1993-2018",
     "games": 31,
-    "id": "51470"
+    "id": "51470",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -102031,7 +102042,8 @@
     "name": "AMARO, Josue Exposito",
     "year": "2001-2021",
     "games": 9,
-    "id": "55394"
+    "id": "55394",
+    "synced": true
   },
   {
     "higestRating": 2351,
