@@ -2152,7 +2152,8 @@
     "name": "ONISCHUK, Alexander",
     "year": "1989-2022",
     "games": 1214,
-    "id": "41227"
+    "id": "41227",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -31087,7 +31088,8 @@
     "name": "RANALDI, Lucas",
     "year": "2015-2022",
     "games": 103,
-    "id": "153206"
+    "id": "153206",
+    "synced": true
   },
   {
     "higestRating": 2287,
@@ -78125,7 +78127,8 @@
     "name": "SKURSKI, Jan",
     "year": "1998-2005",
     "games": 25,
-    "id": "58167"
+    "id": "58167",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -86620,7 +86623,8 @@
     "name": "KIVIJARVI, Juha",
     "year": "2000-2016",
     "games": 20,
-    "id": "58724"
+    "id": "58724",
+    "synced": true
   },
   {
     "higestRating": 2216,
