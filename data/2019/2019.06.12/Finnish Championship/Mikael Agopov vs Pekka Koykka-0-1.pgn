@@ -1,0 +1,14 @@
+[Event "Finnish Championship"]
+[Site "Helsinki FIN"]
+[Date "2019.06.12"]
+[EventDate "2019.06.10"]
+[Round "3.3"]
+[Result "0-1"]
+[White "Mikael Agopov"]
+[Black "Pekka Koykka"]
+[ECO "C18"]
+[WhiteElo "2432"]
+[BlackElo "2399"]
+[PlyCount "44"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4 8. Bd3 Qa5 9. Ne2 O-O 10. O-O dxc3 11. f4 Nbc6 12. Rf3 Nf5 13. Qh3 f6 14. g4 fxe5 15. fxe5 Nxe5 16. gxf5 Nxf3+ 17. Qxf3 e5 18. Qg3 e4 19. Bh6 Rf7 20. f6 Qb6+ 21. Kh1 Qxf6 22. Bg5 Qb6 0-1
