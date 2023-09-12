@@ -12092,7 +12092,8 @@
     "name": "ABDELNABBI, Imed",
     "year": "1982-2019",
     "games": 308,
-    "id": "55370"
+    "id": "55370",
+    "synced": true
   },
   {
     "higestRating": 2543,
@@ -15577,7 +15578,8 @@
     "name": "DAS, Arghyadip",
     "year": "1996-2019",
     "games": 235,
-    "id": "102770"
+    "id": "102770",
+    "synced": true
   },
   {
     "higestRating": 2476,
@@ -30279,7 +30281,8 @@
     "name": "BRAUN, Christian",
     "year": "1999-2023",
     "games": 106,
-    "id": "70817"
+    "id": "70817",
+    "synced": true
   },
   {
     "higestRating": 2468,
@@ -32774,7 +32777,8 @@
     "name": "NIKLASSON, Christer",
     "year": "1972-2004",
     "games": 96,
-    "id": "28796"
+    "id": "28796",
+    "synced": true
   },
   {
     "higestRating": 2492,
@@ -43781,7 +43785,8 @@
     "name": "WERJIVKER, Paulo Jodorcovsky",
     "year": "1993-2022",
     "games": 66,
-    "id": "88551"
+    "id": "88551",
+    "synced": true
   },
   {
     "higestRating": 2302,
@@ -51341,7 +51346,8 @@
     "name": "PAVLOVIC, Milos M",
     "year": "1998-2012",
     "games": 52,
-    "id": "127072"
+    "id": "127072",
+    "synced": true
   },
   {
     "higestRating": 2359,
@@ -53063,7 +53069,8 @@
     "name": "AKBAEV, Kazbek",
     "year": "1998-2013",
     "games": 49,
-    "id": "76737"
+    "id": "76737",
+    "synced": true
   },
   {
     "higestRating": 2283,
@@ -62489,7 +62496,8 @@
     "name": "CANTO, Jaime Valmana",
     "year": "2004-2022",
     "games": 38,
-    "id": "99300"
+    "id": "99300",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -66468,7 +66476,8 @@
     "name": "STOUTENBOROUGH, Ross",
     "year": "1969-1975",
     "games": 34,
-    "id": "99641"
+    "id": "99641",
+    "synced": true
   },
   {
     "higestRating": 2293,
@@ -82880,7 +82889,8 @@
     "name": "SCHROEDER, Wilfried",
     "year": "1984-2007",
     "games": 22,
-    "id": "56331"
+    "id": "56331",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -92978,7 +92988,8 @@
     "name": "SPLOSNOV, Sergei",
     "year": "1997-2005",
     "games": 17,
-    "id": "51849"
+    "id": "51849",
+    "synced": true
   },
   {
     "higestRating": 2404,
@@ -97153,7 +97164,8 @@
     "name": "BIRO, Andras",
     "year": "1985-1999",
     "games": 16,
-    "id": "142755"
+    "id": "142755",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -98948,7 +98960,8 @@
     "name": "NIESSEN, Thomas",
     "year": "1994-2003",
     "games": 15,
-    "id": "97537"
+    "id": "97537",
+    "synced": true
   },
   {
     "higestRating": 2423,
