@@ -1,0 +1,14 @@
+[Event "EU-ch Internet qual"]
+[Site "playchess.com"]
+[Date "2003.11.08"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Sergey Solovjov"]
+[Black "Matthias Kuerschner"]
+[ECO "B00"]
+[WhiteElo "2542"]
+[BlackElo "2176"]
+[PlyCount "15"]
+
+1.e4 Nc6 2.Nc3 Nf6 3.Bc4 Nxe4 4.Bxf7+ Kxf7 5.Nxe4 e5 6.Qf3+ Kg8 7.Ng5 Qxg5 8.Qd5# 1-0
