@@ -7524,7 +7524,8 @@
     "name": "GEORGIEV, Krum",
     "year": "1975-2022",
     "games": 496,
-    "id": "15821"
+    "id": "15821",
+    "synced": true
   },
   {
     "higestRating": 2540,
@@ -14647,7 +14648,8 @@
     "name": "WILLIAMS, Arthur Howard",
     "year": "1968-2016",
     "games": 253,
-    "id": "92374"
+    "id": "92374",
+    "synced": true
   },
   {
     "higestRating": 2499,
@@ -23523,7 +23525,8 @@
     "name": "DUZHAKOV, Ilya",
     "year": "2007-2019",
     "games": 148,
-    "id": "124565"
+    "id": "124565",
+    "synced": true
   },
   {
     "higestRating": 2363,
@@ -29550,7 +29553,8 @@
     "name": "FURMAN, Boris",
     "year": "1995-2018",
     "games": 109,
-    "id": "21274"
+    "id": "21274",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -35684,7 +35688,8 @@
     "name": "SAUNDERS, John C",
     "year": "1969-2001",
     "games": 86,
-    "id": "40429"
+    "id": "40429",
+    "synced": true
   },
   {
     "higestRating": 2362,
@@ -36648,7 +36653,8 @@
     "name": "QUINN, John M",
     "year": "1972-2022",
     "games": 83,
-    "id": "43903"
+    "id": "43903",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -71916,7 +71922,8 @@
     "name": "BUTT, Sabih Alam",
     "year": "1985-1989",
     "games": 29,
-    "id": "15700"
+    "id": "15700",
+    "synced": true
   },
   {
     "higestRating": 2293,
@@ -80427,7 +80434,8 @@
     "name": "KUZIOLA, Mateusz",
     "year": "1999-2006",
     "games": 24,
-    "id": "107037"
+    "id": "107037",
+    "synced": true
   },
   {
     "higestRating": 2269,
@@ -86882,7 +86890,8 @@
     "name": "MAREK, Stanislav",
     "year": "1999-2007",
     "games": 20,
-    "id": "67561"
+    "id": "67561",
+    "synced": true
   },
   {
     "higestRating": 2306,
