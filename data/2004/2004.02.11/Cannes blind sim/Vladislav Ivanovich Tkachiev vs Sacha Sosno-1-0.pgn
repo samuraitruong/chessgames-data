@@ -1,0 +1,14 @@
+[Event "Cannes blind sim"]
+[Site "Cannes"]
+[Date "2004.02.11"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Vladislav Ivanovich Tkachiev"]
+[Black "Sacha Sosno"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.d4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 c5 5.O-O Nc6 6.e3 cxd4 7.exd4 g6 8.b3 Bg7 9.Ba3 b5 10.c4 bxc4 11.bxc4 dxc4 12.Ne5 Qxd4 13.Bxc6+ Nd7 14.Qxd4 Bxe5 15.Qxe5 Kd8 16.Rd1 Rg8 17.Bxd7 1-0

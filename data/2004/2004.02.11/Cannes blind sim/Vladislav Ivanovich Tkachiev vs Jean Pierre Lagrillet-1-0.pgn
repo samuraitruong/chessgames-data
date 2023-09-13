@@ -1,0 +1,14 @@
+[Event "Cannes blind sim"]
+[Site "Cannes"]
+[Date "2004.02.11"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Vladislav Ivanovich Tkachiev"]
+[Black "Jean Pierre Lagrillet"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.e4 Nc6 2.d4 Nf6 3.e5 Nd5 4.c4 Nb6 5.c5 Nd5 6.Nc3 e6 7.Nxd5 exd5 8.Nf3 Be7 9.Bd3 O-O 10.h4 h6 11.Bb1 g6 12.Bxh6 Re8 13.h5 Bxc5 14.hxg6 Bb4+ 15.Kf1 fxg6 16.Bxg6 Re6 17.Qd3 d6 18.Bh7+ Kh8 19.Bg7+ Kxg7 20.Bf5 Rh6 21.Rxh6 Kxh6 22.Ke2 Kg7 23.Rh1 Bxf5 24.Qxf5 Qg8 25.Qf6# 1-0

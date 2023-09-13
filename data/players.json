@@ -2750,7 +2750,8 @@
     "name": "TKACHIEV, Vladislav",
     "year": "1989-2016",
     "games": 1079,
-    "id": "14240"
+    "id": "14240",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -10092,7 +10093,8 @@
     "name": "PAVLIDOU, Ekaterini",
     "year": "2001-2023",
     "games": 373,
-    "id": "118059"
+    "id": "118059",
+    "synced": true
   },
   {
     "higestRating": 2451,
@@ -12167,7 +12169,8 @@
     "name": "MORRISON, Graham",
     "year": "1976-2021",
     "games": 306,
-    "id": "13799"
+    "id": "13799",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -20554,7 +20557,8 @@
     "name": "ESTEVEZ, Yudania Hernandez",
     "year": "1991-2022",
     "games": 173,
-    "id": "52607"
+    "id": "52607",
+    "synced": true
   },
   {
     "higestRating": 2454,
