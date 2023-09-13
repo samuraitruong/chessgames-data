@@ -491,7 +491,8 @@
     "name": "KULAOTS, Kaido",
     "year": "1990-2023",
     "games": 2129,
-    "id": "19909"
+    "id": "19909",
+    "synced": true
   },
   {
     "higestRating": 2720,
@@ -12065,7 +12066,8 @@
     "name": "VAIBHAV, Suri",
     "year": "2008-2020",
     "games": 309,
-    "id": "117419"
+    "id": "117419",
+    "synced": true
   },
   {
     "higestRating": 2451,
@@ -19569,7 +19571,8 @@
     "name": "COBB, James",
     "year": "1991-2016",
     "games": 182,
-    "id": "11538"
+    "id": "11538",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -57666,7 +57669,8 @@
     "name": "CULLIP, Stephen J",
     "year": "1988-1992",
     "games": 43,
-    "id": "27601"
+    "id": "27601",
+    "synced": true
   },
   {
     "higestRating": 2241,
@@ -76494,7 +76498,8 @@
     "name": "PARGINOS, Vassilios",
     "year": "2001-2006",
     "games": 26,
-    "id": "51708"
+    "id": "51708",
+    "synced": true
   },
   {
     "higestRating": 2239,
@@ -88570,7 +88575,8 @@
     "name": "MAI, Philipp",
     "year": "1993-2001",
     "games": 19,
-    "id": "35893"
+    "id": "35893",
+    "synced": true
   },
   {
     "higestRating": 2236,
