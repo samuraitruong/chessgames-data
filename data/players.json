@@ -3267,7 +3267,8 @@
     "name": "POLGAR, Susan",
     "year": "1976-2006",
     "games": 975,
-    "id": "15162"
+    "id": "15162",
+    "synced": true
   },
   {
     "higestRating": 2659,
@@ -8914,7 +8915,8 @@
     "name": "CHABANON, Jean-Luc",
     "year": "1987-2022",
     "games": 420,
-    "id": "51919"
+    "id": "51919",
+    "synced": true
   },
   {
     "higestRating": 2588,
@@ -27409,7 +27411,8 @@
     "name": "TAN, Lian Ann",
     "year": "1963-1992",
     "games": 119,
-    "id": "21276"
+    "id": "21276",
+    "synced": true
   },
   {
     "higestRating": 2468,
@@ -31206,7 +31209,8 @@
     "name": "KARSA, Laszlo",
     "year": "1976-1998",
     "games": 102,
-    "id": "14789"
+    "id": "14789",
+    "synced": true
   },
   {
     "higestRating": 2262,
@@ -44731,7 +44735,8 @@
     "name": "KRUDDE, Fitzgerald",
     "year": "1984-2001",
     "games": 64,
-    "id": "46501"
+    "id": "46501",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -51305,7 +51310,8 @@
     "name": "PADEIRO, Jose",
     "year": "1998-2021",
     "games": 52,
-    "id": "74559"
+    "id": "74559",
+    "synced": true
   },
   {
     "higestRating": 2374,
@@ -57236,7 +57242,8 @@
     "name": "SIBRIAEV, Alexander",
     "year": "1992-2013",
     "games": 44,
-    "id": "95694"
+    "id": "95694",
+    "synced": true
   },
   {
     "higestRating": 2389,
@@ -68372,7 +68379,8 @@
     "name": "ROBERTSON, Ian C",
     "year": "1993-2020",
     "games": 32,
-    "id": "43696"
+    "id": "43696",
+    "synced": true
   },
   {
     "higestRating": 2513,
@@ -72331,7 +72339,8 @@
     "name": "TURPANOV, Milan",
     "year": "1993-2004",
     "games": 29,
-    "id": "53022"
+    "id": "53022",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -74194,7 +74203,8 @@
     "name": "SCHON, Eugene",
     "year": "2006-2017",
     "games": 28,
-    "id": "101865"
+    "id": "101865",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -77452,7 +77462,8 @@
     "name": "GUNBAYAR, Myagmarsuren",
     "year": "1998-2014",
     "games": 26,
-    "id": "137672"
+    "id": "137672",
+    "synced": true
   },
   {
     "higestRating": 2211,
@@ -85066,7 +85077,8 @@
     "name": "SCHMID, Michael",
     "year": "1987-2021",
     "games": 21,
-    "id": "70849"
+    "id": "70849",
+    "synced": true
   },
   {
     "higestRating": 2305,
