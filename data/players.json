@@ -2123,7 +2123,8 @@
     "name": "LALIC, Bogdan",
     "year": "1979-2023",
     "games": 1215,
-    "id": "14251"
+    "id": "14251",
+    "synced": true
   },
   {
     "higestRating": 2540,
@@ -28916,7 +28917,8 @@
     "name": "GAURI, Shankar",
     "year": "2006-2023",
     "games": 112,
-    "id": "103949"
+    "id": "103949",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -30421,7 +30423,8 @@
     "name": "URH, Zala",
     "year": "2018-2023",
     "games": 106,
-    "id": "161618"
+    "id": "161618",
+    "synced": true
   },
   {
     "higestRating": 2386,
@@ -32960,7 +32963,8 @@
     "name": "AGHASARYAN, Robert",
     "year": "2004-2018",
     "games": 96,
-    "id": "113373"
+    "id": "113373",
+    "synced": true
   },
   {
     "higestRating": 2432,
@@ -55546,7 +55550,8 @@
     "name": "GIACOMINI, Hector",
     "year": "1973-2022",
     "games": 46,
-    "id": "95256"
+    "id": "95256",
+    "synced": true
   },
   {
     "higestRating": 2359,
@@ -70460,7 +70465,8 @@
     "name": "REPPLINGER, Marc",
     "year": "1997-2022",
     "games": 31,
-    "id": "135090"
+    "id": "135090",
+    "synced": true
   },
   {
     "higestRating": 2208,
@@ -86802,7 +86808,8 @@
     "name": "NOSKOV, Anatolij",
     "year": "1958-2008",
     "games": 20,
-    "id": "63274"
+    "id": "63274",
+    "synced": true
   },
   {
     "higestRating": 2237,
@@ -90366,7 +90373,8 @@
     "name": "IVANOVIC, Marko",
     "year": "2019-2023",
     "games": 19,
-    "id": "169819"
+    "id": "169819",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -98631,7 +98639,8 @@
     "name": "FEICK, Stefan",
     "year": "1987-1990",
     "games": 15,
-    "id": "73546"
+    "id": "73546",
+    "synced": true
   },
   {
     "higestRating": 2342,
@@ -103884,7 +103893,8 @@
     "name": "VASILIEV, Vladislav",
     "year": "1990-1993",
     "games": 5,
-    "id": "37277"
+    "id": "37277",
+    "synced": true
   },
   {
     "higestRating": 2255,

@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.16"]
+[EventDate "2020.08.14"]
+[Round "9"]
+[Result "0-1"]
+[White "Ivana Manova"]
+[Black "Zala Urh"]
+[ECO "B31"]
+[WhiteElo "1717"]
+[BlackElo "2111"]
+[Source "Chess-Results"]
+[PlyCount "92"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 Nf6 7. Nc3 Nd7 8. O-O e5 9. Be3 b6 10. Qd2 h6 11. Nh2 Nf8 12. f4 exf4 13. Bxf4 Ne6 14. Ng4 Nxf4 15. Qxf4 Qe7 16. Rae1 Be6 17. e5 O-O-O 18. Ne4 Kb8 19. Ngf6 Rd4 20. Qf2 Rhd8 21. Nd6 R4xd6 22. exd6 Qxd6 23. Kh1 Kb7 24. Re2 g5 25. b3 Rh8 26. Ne4 Qc7 27. Rfe1 Bd4 28. Qf3 Qc8 29. c4 g4 30. Nd6+ Ka8 31. Qe4 Qd7 32. Nxf7 Bxf7 33. Qxg4 Qxg4 34. hxg4 h5 35. g5 h4 36. Re7 Bg6 37. R1e6 Bxd3 38. Rxc6 h3 39. Rh6 hxg2+ 40. Kxg2 Rf8 41. Rhe6 Rf2+ 42. Kg3 Rf1 43. Re8+ Kb7 44. R8e7+ Kb8 45. Kg4 Bf5+ 46. Kh5 Rh1# 0-1
