@@ -2961,7 +2961,8 @@
     "name": "CUBAS, Jose Fernando",
     "year": "1995-2023",
     "games": 1032,
-    "id": "88798"
+    "id": "88798",
+    "synced": true
   },
   {
     "higestRating": 2517,
@@ -10244,7 +10245,8 @@
     "name": "SHERZER, Alex",
     "year": "1985-2003",
     "games": 368,
-    "id": "23381"
+    "id": "23381",
+    "synced": true
   },
   {
     "higestRating": 2520,
@@ -11613,7 +11615,8 @@
     "name": "LESKUR, Dejan",
     "year": "1989-2022",
     "games": 323,
-    "id": "48928"
+    "id": "48928",
+    "synced": true
   },
   {
     "higestRating": 2633,
@@ -41305,7 +41308,8 @@
     "name": "RIND, Bruce",
     "year": "1977-1993",
     "games": 71,
-    "id": "18672"
+    "id": "18672",
+    "synced": true
   },
   {
     "higestRating": 2481,
