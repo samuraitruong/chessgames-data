@@ -1,0 +1,14 @@
+[Event "CN..0.00165"]
+[Site "CN.1999.0.00165"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Stephen Gordon"]
+[Black "Alexander Hoffmann"]
+[ECO "C50"]
+[WhiteElo "2498"]
+[BlackElo "2407"]
+[PlyCount "38"]
+
+1.e4 e5 2.Bc4 Nf6 3.Nc3 Nc6 4.Nf3 Bc5 5.Ng5 O-O 6.d3 Na5 7.Na4 Bb4+ 8.c3 Be7 9.Bb5 c6 10.Bc4 Nxc4 11.dxc4 b5 12.cxb5 cxb5 13.Nf3 Qc7 14.b3 bxa4 15.bxa4 Ba6 16.Rb1 Nxe4 17.Bg5 Bxg5 18.Nxg5 Qxc3+ 19.Qd2 Qxd2# 0-1

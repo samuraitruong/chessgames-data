@@ -4860,7 +4860,8 @@
     "name": "GAVRIKOV, Viktor",
     "year": "1976-2004",
     "games": 733,
-    "id": "16880"
+    "id": "16880",
+    "synced": true
   },
   {
     "higestRating": 2629,
@@ -8877,7 +8878,8 @@
     "name": "GORDON, Stephen",
     "year": "1999-2020",
     "games": 422,
-    "id": "43228"
+    "id": "43228",
+    "synced": true
   },
   {
     "higestRating": 2630,
@@ -94892,7 +94894,8 @@
     "name": "HAVELKA, Josef",
     "year": "2016-2020",
     "games": 17,
-    "id": "157931"
+    "id": "157931",
+    "synced": true
   },
   {
     "higestRating": 2366,
