@@ -6668,7 +6668,8 @@
     "name": "OSNOS, Viacheslav",
     "year": "1956-2003",
     "games": 555,
-    "id": "17421"
+    "id": "17421",
+    "synced": true
   },
   {
     "higestRating": 2616,
@@ -25992,7 +25993,8 @@
     "name": "ZEPEDA, Lorena",
     "year": "2001-2015",
     "games": 128,
-    "id": "128283"
+    "id": "128283",
+    "synced": true
   },
   {
     "higestRating": 2396,
@@ -30748,7 +30750,8 @@
     "name": "AFIFI, Assem Abdel Razik",
     "year": "1980-2001",
     "games": 104,
-    "id": "24656"
+    "id": "24656",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -33788,7 +33791,8 @@
     "name": "NOBREGA, Adaucto da",
     "year": "1964-1998",
     "games": 93,
-    "id": "122008"
+    "id": "122008",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -38902,7 +38906,8 @@
     "name": "BUROVIC, Ismet",
     "year": "1991-2017",
     "games": 77,
-    "id": "44908"
+    "id": "44908",
+    "synced": true
   },
   {
     "higestRating": 2347,
@@ -46807,7 +46812,8 @@
     "name": "LAPCEVIC, Milos",
     "year": "2003-2019",
     "games": 60,
-    "id": "96025"
+    "id": "96025",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -61786,7 +61792,8 @@
     "name": "PAVLOVIC, Goran",
     "year": "1995-2019",
     "games": 39,
-    "id": "140741"
+    "id": "140741",
+    "synced": true
   },
   {
     "higestRating": 2287,
@@ -71804,7 +71811,8 @@
     "name": "ZAMORA, Fabian Ernesto Vivas",
     "year": "2018",
     "games": 30,
-    "id": "161216"
+    "id": "161216",
+    "synced": true
   },
   {
     "higestRating": 2203,

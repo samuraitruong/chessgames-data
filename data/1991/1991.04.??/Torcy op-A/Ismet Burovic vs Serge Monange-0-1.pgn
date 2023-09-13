@@ -1,0 +1,14 @@
+[Event "Torcy op-A"]
+[Site "Torcy FRA"]
+[Date "1991.04.??"]
+[EventDate "1991.04.20"]
+[Round "?"]
+[Result "0-1"]
+[White "Ismet Burovic"]
+[Black "Serge Monange"]
+[ECO "B01"]
+[WhiteElo "2375"]
+[BlackElo "2070"]
+[PlyCount "42"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. f3 Bf5 5. c4 e6 6. dxe6 Nc6 7. Ne2 Nb4 8. Ng3 Nc2+ 9. Kf2 Bg6 10. Be3 Bc5 11. Na3 Nxe3 12. Kxe3 Ng4+ 13. fxg4 Qg5+ 14. Kf3 fxe6 15. Bd3 O-O+ 16. Nf5 exf5 17. dxc5 fxg4+ 18. Kg3 h5 19. h3 h4+ 20. Kh2 g3+ 21. Kg1 Qe3# 0-1
