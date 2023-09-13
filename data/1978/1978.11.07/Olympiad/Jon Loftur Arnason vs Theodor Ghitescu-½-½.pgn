@@ -1,0 +1,15 @@
+[Event "Olympiad"]
+[Site "Buenos Aires ARG"]
+[Date "1978.11.07"]
+[EventDate "1978.10.25"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Jon Loftur Arnason"]
+[Black "Theodor Ghitescu"]
+[ECO "B51"]
+[WhiteElo "2470"]
+[BlackElo "2450"]
+[Source "Olimpbase"]
+[PlyCount "39"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 Nf6 5.Nc3 cxd4 6.Qxd4 e5 7.Qd3 h6 8.Be3 Be7 9.O-O O-O 10.Bc4 a6 11.a4 Nb6 12.Bb3 Be6 13.Nh4 Rc8 14.Ng6 Re8 15.Rfd1 Nc4 16.Bxc4 Rxc4 17.Nxe7+ Qxe7 18.Qxd6 Qxd6 19.Rxd6 Nxe4 20.Nxe4 1/2-1/2
