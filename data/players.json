@@ -7765,7 +7765,8 @@
     "name": "HEIDENFELD, Mark",
     "year": "1986-2022",
     "games": 483,
-    "id": "17210"
+    "id": "17210",
+    "synced": true
   },
   {
     "higestRating": 2636,
@@ -34509,7 +34510,8 @@
     "name": "MARTIN, David",
     "year": "1997-2019",
     "games": 90,
-    "id": "53585"
+    "id": "53585",
+    "synced": true
   },
   {
     "higestRating": 2432,
@@ -37656,7 +37658,8 @@
     "name": "GUBAJDULLIN, Alexei",
     "year": "1999-2022",
     "games": 81,
-    "id": "81665"
+    "id": "81665",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -38092,7 +38095,8 @@
     "name": "JOHANNSSON, Orn Leo",
     "year": "2010-2018",
     "games": 80,
-    "id": "129012"
+    "id": "129012",
+    "synced": true
   },
   {
     "higestRating": 2419,
@@ -42522,7 +42526,8 @@
     "name": "MARTSYNOVSKAYA, Marina",
     "year": "1994-2010",
     "games": 69,
-    "id": "96799"
+    "id": "96799",
+    "synced": true
   },
   {
     "higestRating": 2322,
@@ -44726,7 +44731,8 @@
     "name": "CHEHLOV, Aleksander",
     "year": "1977-2012",
     "games": 64,
-    "id": "36814"
+    "id": "36814",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -59409,7 +59415,8 @@
     "name": "VELLA, Brian",
     "year": "1984-1990",
     "games": 41,
-    "id": "33689"
+    "id": "33689",
+    "synced": true
   },
   {
     "higestRating": 2304,
@@ -72105,7 +72112,8 @@
     "name": "TORRES, Luis A Santa",
     "year": "1988-2004",
     "games": 29,
-    "id": "28412"
+    "id": "28412",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -84762,7 +84770,8 @@
     "name": "LAMPE, Dirk",
     "year": "1994-2006",
     "games": 21,
-    "id": "54098"
+    "id": "54098",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -91818,7 +91827,8 @@
     "name": "HO, Andrew",
     "year": "1993-1997",
     "games": 18,
-    "id": "101323"
+    "id": "101323",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -96844,7 +96854,8 @@
     "name": "MAYER, Frank",
     "year": "1988-2007",
     "games": 16,
-    "id": "110044"
+    "id": "110044",
+    "synced": true
   },
   {
     "higestRating": 2229,
@@ -97198,7 +97209,8 @@
     "name": "PIEPHO, Niels",
     "year": "1994-2012",
     "games": 16,
-    "id": "132052"
+    "id": "132052",
+    "synced": true
   },
   {
     "higestRating": 2310,
