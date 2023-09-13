@@ -1,0 +1,14 @@
+[Event "Vienna Chess Open 2015 Group A"]
+[Site "Vienna AUT"]
+[Date "2015.08.15"]
+[EventDate "2015.08.15"]
+[Round "1"]
+[Result "1-0"]
+[White "Emir Dizdarevic"]
+[Black "Daniel Fischer"]
+[ECO "A04"]
+[WhiteElo "2540"]
+[BlackElo "2076"]
+[PlyCount "32"]
+
+1.Nf3 d6 2.d4 g6 3.g3 Bg7 4.Bg2 c5 5.dxc5 Qa5+ 6.Nfd2 Qxc5 7.Ne4 Qb6 8.Nbc3 Nc6 9.O-O Bf5 10.Nd5 Qd8 11.c4 Bxe4 12.Bxe4 e6 13.Nc3 Nf6 14.Bf4 Nxe4 15.Nxe4 d5 16.Nd6+ 1-0

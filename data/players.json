@@ -4232,7 +4232,8 @@
     "name": "HARTOCH, Robert G",
     "year": "1962-2008",
     "games": 804,
-    "id": "19274"
+    "id": "19274",
+    "synced": true
   },
   {
     "higestRating": 2596,
@@ -4889,7 +4890,8 @@
     "name": "DIZDAREVIC, Emir",
     "year": "1979-2022",
     "games": 728,
-    "id": "19662"
+    "id": "19662",
+    "synced": true
   },
   {
     "higestRating": 2538,
@@ -72712,7 +72714,8 @@
     "name": "MARINOVIC, Bozidar",
     "year": "1979-2013",
     "games": 29,
-    "id": "91032"
+    "id": "91032",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -85819,7 +85822,8 @@
     "name": "NETZER, Jacques",
     "year": "2009-2019",
     "games": 21,
-    "id": "139504"
+    "id": "139504",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -102938,7 +102942,8 @@
     "name": "WARD, Tom",
     "year": "1980-1999",
     "games": 8,
-    "id": "104264"
+    "id": "104264",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -105088,7 +105093,8 @@
     "name": "HUGHES, John L",
     "year": "2011-2015",
     "games": 3,
-    "id": "131447"
+    "id": "131447",
+    "synced": true
   },
   {
     "higestRating": 2217,
