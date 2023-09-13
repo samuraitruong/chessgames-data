@@ -2376,7 +2376,8 @@
     "name": "SAFARLI, Eltaj",
     "year": "2001-2023",
     "games": 1167,
-    "id": "91832"
+    "id": "91832",
+    "synced": true
   },
   {
     "higestRating": 2657,
@@ -97748,7 +97749,8 @@
     "name": "DELEKTA, Piotr",
     "year": "1989-2010",
     "games": 15,
-    "id": "25914"
+    "id": "25914",
+    "synced": true
   },
   {
     "higestRating": 2276,

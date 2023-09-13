@@ -1,0 +1,14 @@
+[Event "Vienna Chess Open 2015 Group A"]
+[Site "Vienna AUT"]
+[Date "2015.08.21"]
+[EventDate "2015.08.15"]
+[Round "7"]
+[Result "1-0"]
+[White "Eltaj Safarli"]
+[Black "Emil Powierski"]
+[ECO "B91"]
+[WhiteElo "2644"]
+[BlackElo "2260"]
+[PlyCount "44"]
+
+1.e4 c5 2.Nc3 d6 3.Nf3 Nf6 4.d4 cxd4 5.Nxd4 a6 6.g3 e6 7.Bg2 Be7 8.O-O Qc7 9.Be3 O-O 10.g4 h6 11.h4 Nh7 12.Nf3 Nc6 13.g5 hxg5 14.Nxg5 Ne5 15.f4 Nc4 16.Bd4 b5 17.Qh5 Bxg5 18.hxg5 e5 19.Nd5 Qd8 20.Kf2 Bg4 21.Qxg4 exd4 22.Rh1 1-0
