@@ -3692,7 +3692,8 @@
     "name": "NOVIKOV, Igor",
     "year": "1980-2022",
     "games": 896,
-    "id": "15649"
+    "id": "15649",
+    "synced": true
   },
   {
     "higestRating": 2613,
@@ -7580,7 +7581,8 @@
     "name": "TISDALL, Jonathan",
     "year": "1973-2017",
     "games": 491,
-    "id": "13939"
+    "id": "13939",
+    "synced": true
   },
   {
     "higestRating": 2528,
@@ -21133,7 +21135,8 @@
     "name": "BEZGODOVA, Svetlana",
     "year": "1997-2019",
     "games": 167,
-    "id": "66802"
+    "id": "66802",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -37815,7 +37818,8 @@
     "name": "BALLON, Guenther Jan",
     "year": "1980-2009",
     "games": 80,
-    "id": "33909"
+    "id": "33909",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -83331,7 +83335,8 @@
     "name": "RAMAKRISHNA, J",
     "year": "1999-2020",
     "games": 22,
-    "id": "91743"
+    "id": "91743",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -99125,7 +99130,8 @@
     "name": "TURCI, Stefano",
     "year": "1987-2012",
     "games": 15,
-    "id": "99656"
+    "id": "99656",
+    "synced": true
   },
   {
     "higestRating": 2282,
