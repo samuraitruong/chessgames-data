@@ -4678,7 +4678,8 @@
     "name": "BERTOK, Mario",
     "year": "1948-2003",
     "games": 753,
-    "id": "11250"
+    "id": "11250",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -7751,7 +7752,8 @@
     "name": "SHAPOSHNIKOV, Evgeny",
     "year": "1993-2021",
     "games": 484,
-    "id": "49076"
+    "id": "49076",
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -23844,7 +23846,8 @@
     "name": "BRODOWSKI, Piotr",
     "year": "1998-2021",
     "games": 145,
-    "id": "95045"
+    "id": "95045",
+    "synced": true
   },
   {
     "higestRating": 2507,
@@ -50178,7 +50181,8 @@
     "name": "SCOTTI, Umberto",
     "year": "1992-2005",
     "games": 54,
-    "id": "63757"
+    "id": "63757",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -52648,7 +52652,8 @@
     "name": "MAGNUSSON, Olafur",
     "year": "1960-1973",
     "games": 50,
-    "id": "104120"
+    "id": "104120",
+    "synced": true
   },
   {
     "higestRating": 2214,
@@ -61775,7 +61780,8 @@
     "name": "ABHILASH, Reddy M L",
     "year": "2011-2019",
     "games": 39,
-    "id": "131281"
+    "id": "131281",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -80378,7 +80384,8 @@
     "name": "KAVCIC, Zan",
     "year": "2003-2012",
     "games": 24,
-    "id": "96791"
+    "id": "96791",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -80863,7 +80870,8 @@
     "name": "JAKEL, Wolfgang",
     "year": "1972-2018",
     "games": 24,
-    "id": "157996"
+    "id": "157996",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -82416,7 +82424,8 @@
     "name": "GORODETZKY, Matan",
     "year": "2015-2023",
     "games": 23,
-    "id": "152554"
+    "id": "152554",
+    "synced": true
   },
   {
     "higestRating": 2342,
@@ -86425,7 +86434,8 @@
     "name": "KRAFT, Volker",
     "year": "1986-2004",
     "games": 20,
-    "id": "36135"
+    "id": "36135",
+    "synced": true
   },
   {
     "higestRating": 2278,
@@ -100405,7 +100415,8 @@
     "name": "GALOFRE, Charles",
     "year": "2005-2008",
     "games": 14,
-    "id": "110783"
+    "id": "110783",
+    "synced": true
   },
   {
     "higestRating": 2365,
