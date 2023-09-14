@@ -536,7 +536,8 @@
     "name": "PETROSIAN, Tigran V",
     "year": "1942-1983",
     "games": 2072,
-    "id": "16149"
+    "id": "16149",
+    "synced": true
   },
   {
     "higestRating": 2734,
@@ -10945,7 +10946,8 @@
     "name": "MARTINEZ, Julen Luis Arizmendi",
     "year": "1990-2022",
     "games": 345,
-    "id": "49105"
+    "id": "49105",
+    "synced": true
   },
   {
     "higestRating": 2566,
@@ -19809,7 +19811,8 @@
     "name": "MIHALJCISIN, Mihajlo",
     "year": "1961-1987",
     "games": 180,
-    "id": "17544"
+    "id": "17544",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -33317,7 +33320,8 @@
     "name": "PETRAITIS, Gintautas",
     "year": "1978-2018",
     "games": 95,
-    "id": "101896"
+    "id": "101896",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -40314,7 +40318,8 @@
     "name": "PANBUKCHIAN, Valentin",
     "year": "1974-2013",
     "games": 74,
-    "id": "44897"
+    "id": "44897",
+    "synced": true
   },
   {
     "higestRating": 2461,
@@ -83346,7 +83351,8 @@
     "name": "PARKKINEN, Jyrki",
     "year": "1991-2006",
     "games": 22,
-    "id": "70815"
+    "id": "70815",
+    "synced": true
   },
   {
     "higestRating": 2299,
@@ -88726,7 +88732,8 @@
     "name": "KINCS, Imre",
     "year": "1987-2009",
     "games": 19,
-    "id": "19060"
+    "id": "19060",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -94143,7 +94150,8 @@
     "name": "VAN RIJN, Wouter",
     "year": "1995-2006",
     "games": 17,
-    "id": "98952"
+    "id": "98952",
+    "synced": true
   },
   {
     "higestRating": 2356,
