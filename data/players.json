@@ -6829,7 +6829,8 @@
     "name": "PLANINC, Albin",
     "year": "1962-1983",
     "games": 540,
-    "id": "17987"
+    "id": "17987",
+    "synced": true
   },
   {
     "higestRating": 2611,
@@ -14899,7 +14900,8 @@
     "name": "MOHOTA, Nisha",
     "year": "2000-2023",
     "games": 248,
-    "id": "49547"
+    "id": "49547",
+    "synced": true
   },
   {
     "higestRating": 2572,
@@ -19452,7 +19454,8 @@
     "name": "STOREY, Charles H",
     "year": "1996-2022",
     "games": 184,
-    "id": "87021"
+    "id": "87021",
+    "synced": true
   },
   {
     "higestRating": 2442,
@@ -48454,7 +48457,8 @@
     "name": "MCCLEMENT, Andrew",
     "year": "2007-2022",
     "games": 57,
-    "id": "113775"
+    "id": "113775",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -79250,7 +79254,8 @@
     "name": "GOFF, Ronan Le",
     "year": "2007-2023",
     "games": 25,
-    "id": "139592"
+    "id": "139592",
+    "synced": true
   },
   {
     "higestRating": 2300,
