@@ -2054,7 +2054,8 @@
     "name": "DAMLJANOVIC, Branko",
     "year": "1978-2023",
     "games": 1235,
-    "id": "38691"
+    "id": "38691",
+    "synced": true
   },
   {
     "higestRating": 2507,
@@ -12579,7 +12580,8 @@
     "name": "MAXIMOV, Dmitry",
     "year": "1996-2020",
     "games": 298,
-    "id": "65765"
+    "id": "65765",
+    "synced": true
   },
   {
     "higestRating": 2331,
@@ -40884,7 +40886,8 @@
     "name": "OYAMA, Akito",
     "year": "2013-2019",
     "games": 73,
-    "id": "147302"
+    "id": "147302",
+    "synced": true
   },
   {
     "higestRating": 2401,
