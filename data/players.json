@@ -18200,7 +18200,8 @@
     "name": "NI, Shiqun",
     "year": "2012-2023",
     "games": 200,
-    "id": "137180"
+    "id": "137180",
+    "synced": true
   },
   {
     "higestRating": 2532,
@@ -25668,7 +25669,8 @@
     "name": "CASTALDO, Folco",
     "year": "1997-2014",
     "games": 131,
-    "id": "98643"
+    "id": "98643",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -25908,7 +25910,8 @@
     "name": "REGAN, Kenneth",
     "year": "1974-2011",
     "games": 128,
-    "id": "14848"
+    "id": "14848",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -31610,7 +31613,8 @@
     "name": "VAN TILBURY, Craig",
     "year": "1977-2008",
     "games": 101,
-    "id": "43199"
+    "id": "43199",
+    "synced": true
   },
   {
     "higestRating": 2374,
@@ -37828,7 +37832,8 @@
     "name": "NING, Kaiyu",
     "year": "2016-2021",
     "games": 81,
-    "id": "156143"
+    "id": "156143",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -41408,7 +41413,8 @@
     "name": "AGDAMUS, Jose Luis",
     "year": "1970-1995",
     "games": 71,
-    "id": "40301"
+    "id": "40301",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -49808,7 +49814,8 @@
     "name": "MORALES, Ruben Valhondo",
     "year": "2009-2019",
     "games": 55,
-    "id": "128485"
+    "id": "128485",
+    "synced": true
   },
   {
     "higestRating": 2337,
@@ -52432,7 +52439,8 @@
     "name": "BAYRAMOV, Vugar",
     "year": "1998-2015",
     "games": 50,
-    "id": "50123"
+    "id": "50123",
+    "synced": true
   },
   {
     "higestRating": 2369,
@@ -58076,7 +58084,8 @@
     "name": "KLUSS, Kai",
     "year": "1988-2006",
     "games": 43,
-    "id": "71264"
+    "id": "71264",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -65770,7 +65779,8 @@
     "name": "BASENCYAN, Mark",
     "year": "2011-2019",
     "games": 35,
-    "id": "137048"
+    "id": "137048",
+    "synced": true
   },
   {
     "higestRating": 2426,
@@ -82991,7 +83001,8 @@
     "name": "STEENBEKKERS, Franck",
     "year": "2001-2012",
     "games": 22,
-    "id": "52225"
+    "id": "52225",
+    "synced": true
   },
   {
     "higestRating": 2442,
@@ -85691,7 +85702,8 @@
     "name": "ISMAILOV, Mukhit",
     "year": "2005-2012",
     "games": 21,
-    "id": "119966"
+    "id": "119966",
+    "synced": true
   },
   {
     "higestRating": 2238,
@@ -92750,7 +92762,8 @@
     "name": "SVANDA, Ondrej",
     "year": "2020-2022",
     "games": 18,
-    "id": "181434"
+    "id": "181434",
+    "synced": true
   },
   {
     "higestRating": 2538,
@@ -93661,7 +93674,8 @@
     "name": "BROKKEN, Dennis",
     "year": "2000-2017",
     "games": 17,
-    "id": "75335"
+    "id": "75335",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -97984,7 +97998,8 @@
     "name": "LARSEN, Flemming Bo",
     "year": "1986-2011",
     "games": 15,
-    "id": "30582"
+    "id": "30582",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -98199,7 +98214,8 @@
     "name": "LABUNSKIY, Dmitry",
     "year": "1983-2002",
     "games": 15,
-    "id": "49056"
+    "id": "49056",
+    "synced": true
   },
   {
     "higestRating": 2237,
@@ -101678,7 +101694,8 @@
     "name": "BAMMOUNE, Abd'Ennacer",
     "year": "1982-1992",
     "games": 11,
-    "id": "63009"
+    "id": "63009",
+    "synced": true
   },
   {
     "higestRating": 2322,
