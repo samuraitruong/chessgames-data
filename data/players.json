@@ -5101,7 +5101,8 @@
     "name": "SMERDON, David",
     "year": "1994-2017",
     "games": 704,
-    "id": "58830"
+    "id": "58830",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -13934,7 +13935,8 @@
     "name": "SALIMOVA, Nurgyul",
     "year": "2012-2023",
     "games": 266,
-    "id": "139633"
+    "id": "139633",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -22510,7 +22512,8 @@
     "name": "BENIDZE, Davit",
     "year": "2001-2019",
     "games": 155,
-    "id": "54769"
+    "id": "54769",
+    "synced": true
   },
   {
     "higestRating": 2491,
@@ -33240,7 +33243,8 @@
     "name": "OLSSON, Anders",
     "year": "1997-2008",
     "games": 95,
-    "id": "78913"
+    "id": "78913",
+    "synced": true
   },
   {
     "higestRating": 2565,
@@ -43955,7 +43959,8 @@
     "name": "GALSTIAN, Beniamin",
     "year": "1997-2012",
     "games": 66,
-    "id": "93764"
+    "id": "93764",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -56586,7 +56591,8 @@
     "name": "NEEDHAM, Teresa",
     "year": "1981-1986",
     "games": 45,
-    "id": "128137"
+    "id": "128137",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -67297,7 +67303,8 @@
     "name": "CHAIVICHIT, Suchart",
     "year": "1980-2003",
     "games": 33,
-    "id": "39546"
+    "id": "39546",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -80626,7 +80633,8 @@
     "name": "ACHER, Mathieu",
     "year": "1999-2009",
     "games": 24,
-    "id": "114319"
+    "id": "114319",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -86105,7 +86113,8 @@
     "name": "GHATTI, Sanjay",
     "year": "2014-2017",
     "games": 21,
-    "id": "153959"
+    "id": "153959",
+    "synced": true
   },
   {
     "higestRating": 2389,
