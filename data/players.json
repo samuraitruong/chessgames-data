@@ -6074,7 +6074,8 @@
     "name": "MOISEENKO, Vadim",
     "year": "2004-2021",
     "games": 609,
-    "id": "117704"
+    "id": "117704",
+    "synced": true
   },
   {
     "higestRating": 2641,
@@ -18191,7 +18192,8 @@
     "name": "KHMELNIKER, Ilya",
     "year": "1999-2018",
     "games": 200,
-    "id": "54615"
+    "id": "54615",
+    "synced": true
   },
   {
     "higestRating": 2568,
@@ -24657,7 +24659,8 @@
     "name": "PEL, Bonno",
     "year": "1995-2018",
     "games": 138,
-    "id": "51493"
+    "id": "51493",
+    "synced": true
   },
   {
     "higestRating": 2486,
@@ -39023,7 +39026,8 @@
     "name": "LAMPEN, Timo",
     "year": "1992-2018",
     "games": 77,
-    "id": "46868"
+    "id": "46868",
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -78958,7 +78962,8 @@
     "name": "GUBERNATOROV, Sergey",
     "year": "2000-2016",
     "games": 25,
-    "id": "102666"
+    "id": "102666",
+    "synced": true
   },
   {
     "higestRating": 2352,
@@ -90540,7 +90545,8 @@
     "name": "CLEVER, Hans-Hermann",
     "year": "1990-2013",
     "games": 19,
-    "id": "162171"
+    "id": "162171",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -100494,7 +100500,8 @@
     "name": "ALLARIA, Carlos Salgado",
     "year": "1989-2007",
     "games": 14,
-    "id": "108815"
+    "id": "108815",
+    "synced": true
   },
   {
     "higestRating": 2255,
