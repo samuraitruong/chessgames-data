@@ -1,0 +1,14 @@
+[Event "Essen Clock sim"]
+[Site "Essen"]
+[Date "2000.05.01"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Michael Hillenbrand"]
+[Black "Artur Yusupov"]
+[ECO "A25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 g6 4.Nc3 Bg7 5.e3 d6 6.Nge2 h5 7.h3 Nh6 8.d3 Be6 9.b4 Qd7 10.Rb1 O-O 11.Bd2 a6 12.Nd5 f5 13.Qc2 h4 14.b5 Nd8 15.gxh4 Qf7 16.b6 c6 17.Nc7 Rc8 18.O-O Bf6 19.f4 Bxh4 20.Bb4 Be7 21.Qb2 exf4 22.Nxf4 Bd7 23.e4 g5 24.Ne2 f4 25.h4 Qh5 26.e5 Qxh4 27.Bxd6 Ng4 28.Rf3 Qh2+ 29.Kf1 Ne3+ 0-1

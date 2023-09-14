@@ -1,0 +1,14 @@
+[Event "Essen Clock sim"]
+[Site "Essen"]
+[Date "2000.05.01"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Volker Achenbach"]
+[Black "Artur Yusupov"]
+[ECO "C18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "186"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 O-O 8.Bd3 f5 9.exf6 Rxf6 10.Bg5 Rf7 11.Qh4 h6 12.Bxe7 Rxe7 13.dxc5 e5 14.Ne2 Nc6 15.Bb5 Bf5 16.Rd1 Rf7 17.Qxd8+ Rxd8 18.Bxc6 bxc6 19.Kd2 g5 20.h3 Bg6 21.f3 Rb7 22.Rb1 Rdb8 23.Rxb7 Rxb7 24.Nc1 Rb2 25.Nd3 Bxd3 26.Kxd3 Kf7 27.h4 g4 28.fxg4 e4+ 29.Kd4 Rxc2 30.g5 hxg5 31.hxg5 Kg6 32.Rh6+ Kxg5 33.Rxc6 Rd2+ 34.Ke5 Rd3 35.Rc8 e3 36.Rg8+ Kh6 37.Re8 Kg5 38.c6 Rxc3 39.Rg8+ Kh4 40.Kxd5 e2 41.Re8 Rc2 42.Re3 Kg4 43.g3 Kh3 44.Kd6 Kg2 45.g4 Kf2 46.Re5 e1=Q 47.Rxe1 Kxe1 48.c7 Rd2+ 49.Kc6 Rc2+ 50.Kb7 Rb2+ 51.Kxa7 Rc2 52.Kb7 Rb2+ 53.Kc8 Ra2 54.g5 Rxa3 55.g6 Rg3 56.Kb7 Rb3+ 57.Kc6 Rc3+ 58.Kd6 Rd3+ 59.Ke5 Re3+ 60.Kd4 Re8 61.g7 Ke2 62.Kd5 Ke3 63.Kd6 Rg8 64.Ke6 Kd4 65.Kf7 Rc8 66.g8=Q Rxc7+ 67.Ke6 Rc6+ 68.Kf5 Rc5+ 69.Kf4 Rd5 70.Qc8 Kd3 71.Qc1 Kd4 72.Qc2 Rd6 73.Qd2+ Kc5 74.Qc3+ Kd5 75.Kf5 Rd7 76.Qd3+ Kc6 77.Qc4+ Kd6 78.Kf6 Rd8 79.Qd4+ Kc7 80.Qc5+ Kd7 81.Qe7+ Kc8 82.Ke6 Rd1 83.Qf8+ Kc7 84.Qf4+ Kc8 85.Qc4+ Kd8 86.Qb4 Kc8 87.Qb3 Rc1 88.Kd6 Rc7 89.Qg8+ Kb7 90.Qg2+ Kb8 91.Qb2+ Kc8 92.Qb6 Rd7+ 93.Kc6 Rd6+ 1/2-1/2

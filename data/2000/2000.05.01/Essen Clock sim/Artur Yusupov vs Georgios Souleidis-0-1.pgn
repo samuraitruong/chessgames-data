@@ -1,0 +1,14 @@
+[Event "Essen Clock sim"]
+[Site "Essen"]
+[Date "2000.05.01"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Artur Yusupov"]
+[Black "Georgios Souleidis"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.Bg5 c5 6.d5 d6 7.Nd2 h6 8.Bh4 g5 9.Bg3 Nh5 10.e3 Nxg3 11.hxg3 e6 12.g4 exd5 13.cxd5 f5 14.gxf5 Bxf5 15.Be2 Qf6 16.O-O Nd7 17.Nc4 Ne5 18.Nxe5 Qxe5 19.a4 Qe7 20.Bg4 Be5 21.Rc1 Bg6 22.b3 h5 23.Be6+ Kg7 24.Ne2 Bf5 25.f4 Bb2 26.Rc4 Rae8 27.Ng3 Bxe6 28.Nxh5+ Kg8 29.Re4 Bg4 30.Rxe7 Bxd1 31.Rxe8 Bxh5 32.Re6 Rf6 33.Re7 Rf7 34.Re6 Rf6 35.Re7 gxf4 36.Rxf4 Rxf4 37.exf4 Bf7 38.g4 Bxd5 39.g5 Bxb3 40.f5 Bd4+ 41.Kh2 Bc2 42.f6 c4 43.Kg3 c3 44.Kg4 Bg6 45.Rc7 c2 46.Rc4 Bb2 47.Rc8+ Kf7 48.Rc7+ Ke8 49.Rc8+ Kd7 50.f7 Bg7 51.Rc3 Ke7 52.Rc7+ Kf8 0-1
