@@ -10179,7 +10179,8 @@
     "name": "RELANGE, Eloi",
     "year": "1989-2022",
     "games": 371,
-    "id": "26318"
+    "id": "26318",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -11218,7 +11219,8 @@
     "name": "BELOUS, Vladimir",
     "year": "2003-2022",
     "games": 336,
-    "id": "109122"
+    "id": "109122",
+    "synced": true
   },
   {
     "higestRating": 2580,
@@ -41246,7 +41248,8 @@
     "name": "CORDON, Luis Jose Rodriguez",
     "year": "1996-2007",
     "games": 72,
-    "id": "134193"
+    "id": "134193",
+    "synced": true
   },
   {
     "higestRating": 2389,
@@ -43326,7 +43329,8 @@
     "name": "EVERET, Alexandro",
     "year": "1993-2001",
     "games": 67,
-    "id": "54019"
+    "id": "54019",
+    "synced": true
   },
   {
     "higestRating": 2304,
@@ -43477,7 +43481,8 @@
     "name": "TERRY, Renato",
     "year": "2007-2022",
     "games": 67,
-    "id": "118550"
+    "id": "118550",
+    "synced": true
   },
   {
     "higestRating": 2382,
@@ -54030,7 +54035,8 @@
     "name": "SCHUETZE, Norman",
     "year": "2004-2019",
     "games": 48,
-    "id": "101453"
+    "id": "101453",
+    "synced": true
   },
   {
     "higestRating": 2507,
@@ -82621,7 +82627,8 @@
     "name": "NEMEC, Jachym",
     "year": "2020-2023",
     "games": 23,
-    "id": "173923"
+    "id": "173923",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -94424,7 +94431,8 @@
     "name": "SOTOMAYOR, Luis Javier Fontana",
     "year": "1991-2009",
     "games": 17,
-    "id": "124857"
+    "id": "124857",
+    "synced": true
   },
   {
     "higestRating": 2203,
