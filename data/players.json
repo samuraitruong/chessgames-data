@@ -11313,7 +11313,8 @@
     "name": "VAN DER WEIDE, Karel",
     "year": "1988-2014",
     "games": 333,
-    "id": "43145"
+    "id": "43145",
+    "synced": true
   },
   {
     "higestRating": 2535,
@@ -14807,7 +14808,8 @@
     "name": "NOVAK, Ivan",
     "year": "1965-2008",
     "games": 250,
-    "id": "27003"
+    "id": "27003",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -19628,7 +19630,8 @@
     "name": "FRANZONI, Giancarlo",
     "year": "1976-2003",
     "games": 182,
-    "id": "18783"
+    "id": "18783",
+    "synced": true
   },
   {
     "higestRating": 2505,
@@ -35812,7 +35815,8 @@
     "name": "BERCZES, Csaba",
     "year": "2000-2013",
     "games": 86,
-    "id": "49496"
+    "id": "49496",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -39177,7 +39181,8 @@
     "name": "ORTIZ, Nadya Karolina",
     "year": "1998-2012",
     "games": 77,
-    "id": "79663"
+    "id": "79663",
+    "synced": true
   },
   {
     "higestRating": 2469,
@@ -73391,7 +73396,8 @@
     "name": "FILIPETS, Egor",
     "year": "2015-2018",
     "games": 29,
-    "id": "155855"
+    "id": "155855",
+    "synced": true
   },
   {
     "higestRating": 2345,
@@ -79554,7 +79560,8 @@
     "name": "CIOLACU, Alessia-Mihaela",
     "year": "2021-2022",
     "games": 25,
-    "id": "169487"
+    "id": "169487",
+    "synced": true
   },
   {
     "higestRating": 2378,
@@ -82346,7 +82353,8 @@
     "name": "AKULOV, Leonid",
     "year": "1999-2007",
     "games": 23,
-    "id": "131882"
+    "id": "131882",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -94972,7 +94980,8 @@
     "name": "THORSTEINSSON, Sjurdur",
     "year": "2005-2017",
     "games": 17,
-    "id": "155388"
+    "id": "155388",
+    "synced": true
   },
   {
     "higestRating": 2231,
@@ -106272,7 +106281,8 @@
     "name": "FERRET, Rosendo Planas",
     "year": "2004",
     "games": 1,
-    "id": "134402"
+    "id": "134402",
+    "synced": true
   },
   {
     "higestRating": 2250,
