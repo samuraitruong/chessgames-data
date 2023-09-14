@@ -3004,7 +3004,8 @@
     "name": "SHANKLAND, Sam",
     "year": "2005-2023",
     "games": 1021,
-    "id": "114803"
+    "id": "114803",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -103220,7 +103221,8 @@
     "name": "XIONG, Jerry",
     "year": "2007-2010",
     "games": 8,
-    "id": "111245"
+    "id": "111245",
+    "synced": true
   },
   {
     "higestRating": 2273,
