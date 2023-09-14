@@ -832,7 +832,8 @@
     "name": "PONKRATOV, Pavel",
     "year": "2000-2023",
     "games": 1811,
-    "id": "50222"
+    "id": "50222",
+    "synced": true
   },
   {
     "higestRating": 2703,
@@ -7901,7 +7902,8 @@
     "name": "MOTWANI, Paul",
     "year": "1974-2022",
     "games": 478,
-    "id": "13903"
+    "id": "13903",
+    "synced": true
   },
   {
     "higestRating": 2350,
