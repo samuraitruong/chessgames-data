@@ -3569,7 +3569,8 @@
     "name": "ATALIK, Ekaterina",
     "year": "1996-2023",
     "games": 919,
-    "id": "55596"
+    "id": "55596",
+    "synced": true
   },
   {
     "higestRating": 2676,
@@ -28907,7 +28908,8 @@
     "name": "ROSSITER, Philip J",
     "year": "1984-2002",
     "games": 112,
-    "id": "74262"
+    "id": "74262",
+    "synced": true
   },
   {
     "higestRating": 2469,
@@ -60997,7 +60999,8 @@
     "name": "WELLER, Jean-Luc",
     "year": "2010-2019",
     "games": 40,
-    "id": "128675"
+    "id": "128675",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -73081,7 +73084,8 @@
     "name": "TSVETKOV, Ilia",
     "year": "1989-2011",
     "games": 29,
-    "id": "118846"
+    "id": "118846",
+    "synced": true
   },
   {
     "higestRating": 2262,
@@ -78781,7 +78785,8 @@
     "name": "JANOSI, Ervin",
     "year": "1987-2007",
     "games": 25,
-    "id": "90859"
+    "id": "90859",
+    "synced": true
   },
   {
     "higestRating": 2282,
