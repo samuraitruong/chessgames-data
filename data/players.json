@@ -1424,7 +1424,8 @@
     "name": "TIMOSCENKO, Gennadij",
     "year": "1961-2015",
     "games": 1486,
-    "id": "16902"
+    "id": "16902",
+    "synced": true
   },
   {
     "higestRating": 2640,
@@ -20587,7 +20588,8 @@
     "name": "CHUDINOVSKIKH, Alexander M",
     "year": "1964-2019",
     "games": 173,
-    "id": "51464"
+    "id": "51464",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -34658,7 +34660,8 @@
     "name": "OLSEN, Filip Boe",
     "year": "2013-2022",
     "games": 90,
-    "id": "147387"
+    "id": "147387",
+    "synced": true
   },
   {
     "higestRating": 2243,
@@ -43976,7 +43979,8 @@
     "name": "ZABOTIN, Alexander",
     "year": "2002-2021",
     "games": 66,
-    "id": "103890"
+    "id": "103890",
+    "synced": true
   },
   {
     "higestRating": 2590,
@@ -46668,7 +46672,8 @@
     "name": "TREPPNER, Gerd",
     "year": "1972-2000",
     "games": 60,
-    "id": "29007"
+    "id": "29007",
+    "synced": true
   },
   {
     "higestRating": 2590,
@@ -54608,7 +54613,8 @@
     "name": "ANTOGNINI, Francesco",
     "year": "2000-2016",
     "games": 47,
-    "id": "50230"
+    "id": "50230",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -65694,7 +65700,8 @@
     "name": "NOIROUX, Kevin",
     "year": "2010-2019",
     "games": 35,
-    "id": "127904"
+    "id": "127904",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -66009,7 +66016,8 @@
     "name": "VEREMEICHIK, Vladimir",
     "year": "1968-2016",
     "games": 34,
-    "id": "29714"
+    "id": "29714",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -90158,7 +90166,8 @@
     "name": "ATANASOV, Radislav",
     "year": "1992-2013",
     "games": 19,
-    "id": "138020"
+    "id": "138020",
+    "synced": true
   },
   {
     "higestRating": 2204,
