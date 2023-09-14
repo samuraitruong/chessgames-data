@@ -4877,7 +4877,8 @@
     "name": "HANSEN, Eric",
     "year": "2006-2023",
     "games": 733,
-    "id": "104768"
+    "id": "104768",
+    "synced": true
   },
   {
     "higestRating": 2540,
@@ -14433,7 +14434,8 @@
     "name": "SCHEBLER, Gerhard",
     "year": "1986-2017",
     "games": 257,
-    "id": "17794"
+    "id": "17794",
+    "synced": true
   },
   {
     "higestRating": 2531,
@@ -38535,7 +38537,8 @@
     "name": "BALSHAN, Amikam",
     "year": "1967-1982",
     "games": 78,
-    "id": "14718"
+    "id": "14718",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -57568,7 +57571,8 @@
     "name": "IOVCOV, Valerii",
     "year": "2012-2015",
     "games": 44,
-    "id": "138075"
+    "id": "138075",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -84426,7 +84430,8 @@
     "name": "HUANG, Zhengyuan",
     "year": "1985-1987",
     "games": 22,
-    "id": "170649"
+    "id": "170649",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -86839,7 +86844,8 @@
     "name": "GENKIN, Michael",
     "year": "1999-2006",
     "games": 20,
-    "id": "52765"
+    "id": "52765",
+    "synced": true
   },
   {
     "higestRating": 2262,
@@ -87941,7 +87947,8 @@
     "name": "ENRIQUEZ, Oscar Gerardo Sanchez",
     "year": "2002-2022",
     "games": 20,
-    "id": "124689"
+    "id": "124689",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -103689,7 +103696,8 @@
     "name": "HAGER, Joshua Aarash",
     "year": "2008-2010",
     "games": 7,
-    "id": "117729"
+    "id": "117729",
+    "synced": true
   },
   {
     "higestRating": 2213,
