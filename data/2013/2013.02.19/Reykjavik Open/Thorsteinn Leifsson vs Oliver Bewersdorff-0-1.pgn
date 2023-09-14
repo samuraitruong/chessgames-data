@@ -1,0 +1,14 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2013.02.19"]
+[EventDate "2013.02.19"]
+[Round "1"]
+[Result "0-1"]
+[White "Thorsteinn Leifsson"]
+[Black "Oliver Bewersdorff"]
+[ECO "D97"]
+[WhiteElo "1759"]
+[BlackElo "2335"]
+[PlyCount "42"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nc6 8. Be2 Bg4 9. Be3 Bxf3 10. gxf3 e5 11. d5 Nd4 12. Rc1 c6 13. dxc6 bxc6 14. O-O Nh5 15. Rfd1 Qf6 16. Kg2 Nf4+ 17. Bxf4 Qxf4 18. Nb1 Bh6 19. Rh1 Qg5+ 20. Kf1 Qh4 21. Kg2 Ne6 0-1
