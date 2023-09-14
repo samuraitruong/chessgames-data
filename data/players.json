@@ -1600,7 +1600,8 @@
     "name": "BAGIROV, Vladimir",
     "year": "1955-2000",
     "games": 1415,
-    "id": "14915"
+    "id": "14915",
+    "synced": true
   },
   {
     "higestRating": 2601,
@@ -30005,7 +30006,8 @@
     "name": "GUSAIN, Himal",
     "year": "2008-2022",
     "games": 108,
-    "id": "117409"
+    "id": "117409",
+    "synced": true
   },
   {
     "higestRating": 2521,
@@ -52983,7 +52985,8 @@
     "name": "DEMIREL, Tolga",
     "year": "1989-2012",
     "games": 49,
-    "id": "22629"
+    "id": "22629",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -60637,7 +60640,8 @@
     "name": "IGLESIAS, Yosha",
     "year": "2000-2021",
     "games": 40,
-    "id": "53544"
+    "id": "53544",
+    "synced": true
   },
   {
     "higestRating": 2407,
@@ -61113,7 +61117,8 @@
     "name": "LITVINOV, Maxim",
     "year": "2012-2017",
     "games": 40,
-    "id": "139271"
+    "id": "139271",
+    "synced": true
   },
   {
     "higestRating": 2560,
@@ -93345,7 +93350,8 @@
     "name": "PEREZ, Mario Olea",
     "year": "1990-2001",
     "games": 17,
-    "id": "53535"
+    "id": "53535",
+    "synced": true
   },
   {
     "higestRating": 2405,
