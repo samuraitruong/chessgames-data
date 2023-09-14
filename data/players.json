@@ -1130,7 +1130,8 @@
     "name": "MOSKALENKO, Viktor",
     "year": "1980-2022",
     "games": 1604,
-    "id": "15254"
+    "id": "15254",
+    "synced": true
   },
   {
     "higestRating": 2732,
@@ -51514,7 +51515,8 @@
     "name": "SKJOLDAGER, Per",
     "year": "2003-2019",
     "games": 52,
-    "id": "138893"
+    "id": "138893",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -98884,7 +98886,8 @@
     "name": "VLTAVSKY, Vladimir",
     "year": "1995-2005",
     "games": 15,
-    "id": "84993"
+    "id": "84993",
+    "synced": true
   },
   {
     "higestRating": 2376,
