@@ -4393,7 +4393,8 @@
     "name": "KASHLINSKAYA, Alina",
     "year": "2003-2023",
     "games": 786,
-    "id": "109130"
+    "id": "109130",
+    "synced": true
   },
   {
     "higestRating": 2631,
@@ -30760,7 +30761,8 @@
     "name": "GARDNER, Allan",
     "year": "1971-2021",
     "games": 105,
-    "id": "178978"
+    "id": "178978",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -61641,7 +61643,8 @@
     "name": "PIERI, Filippo",
     "year": "1988-1994",
     "games": 39,
-    "id": "84465"
+    "id": "84465",
+    "synced": true
   },
   {
     "higestRating": 2226,
@@ -71142,7 +71145,8 @@
     "name": "ROUBALIK, Jakub",
     "year": "2001-2022",
     "games": 30,
-    "id": "54763"
+    "id": "54763",
+    "synced": true
   },
   {
     "higestRating": 2338,
@@ -76750,7 +76754,8 @@
     "name": "TAYEB, Suhail",
     "year": "1986-2001",
     "games": 26,
-    "id": "55769"
+    "id": "55769",
+    "synced": true
   },
   {
     "higestRating": 2394,
@@ -81019,7 +81024,8 @@
     "name": "BELORUSOV, Mikhail",
     "year": "2000-2006",
     "games": 23,
-    "id": "10185"
+    "id": "10185",
+    "synced": true
   },
   {
     "higestRating": 2258,
