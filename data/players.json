@@ -4833,7 +4833,8 @@
     "name": "KRISTJANSSON, Stefan",
     "year": "1991-2017",
     "games": 738,
-    "id": "49459"
+    "id": "49459",
+    "synced": true
   },
   {
     "higestRating": 2523,
@@ -6716,7 +6717,8 @@
     "name": "BJERRE, Jonas Buhl",
     "year": "2013-2023",
     "games": 553,
-    "id": "147966"
+    "id": "147966",
+    "synced": true
   },
   {
     "higestRating": 2630,
@@ -46196,7 +46198,8 @@
     "name": "EISMONT, Oleg",
     "year": "1992-2006",
     "games": 61,
-    "id": "26313"
+    "id": "26313",
+    "synced": true
   },
   {
     "higestRating": 2345,
@@ -65588,7 +65591,8 @@
     "name": "NOVAK, Joze",
     "year": "1998-2009",
     "games": 35,
-    "id": "90398"
+    "id": "90398",
+    "synced": true
   },
   {
     "higestRating": 2241,
@@ -67159,7 +67163,8 @@
     "name": "EVERETT, Elijah",
     "year": "2018-2022",
     "games": 34,
-    "id": "160583"
+    "id": "160583",
+    "synced": true
   },
   {
     "higestRating": 2239,
@@ -85694,7 +85699,8 @@
     "name": "KUZIN, Anton",
     "year": "1999-2015",
     "games": 21,
-    "id": "109184"
+    "id": "109184",
+    "synced": true
   },
   {
     "higestRating": 2225,
