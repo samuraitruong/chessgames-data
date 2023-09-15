@@ -821,7 +821,8 @@
     "name": "ULYBIN, Mikhail",
     "year": "1984-2021",
     "games": 1823,
-    "id": "14002"
+    "id": "14002",
+    "synced": true
   },
   {
     "higestRating": 2734,
@@ -77041,7 +77042,8 @@
     "name": "LISKO, Frantisek",
     "year": "1998-2019",
     "games": 26,
-    "id": "66396"
+    "id": "66396",
+    "synced": true
   },
   {
     "higestRating": 2322,
