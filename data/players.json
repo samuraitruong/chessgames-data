@@ -4067,7 +4067,8 @@
     "name": "KRUPPA, Yuri",
     "year": "1984-2008",
     "games": 836,
-    "id": "18075"
+    "id": "18075",
+    "synced": true
   },
   {
     "higestRating": 2465,
@@ -14097,7 +14098,8 @@
     "name": "BHAT, Vinay",
     "year": "1993-2019",
     "games": 264,
-    "id": "19912"
+    "id": "19912",
+    "synced": true
   },
   {
     "higestRating": 2446,
