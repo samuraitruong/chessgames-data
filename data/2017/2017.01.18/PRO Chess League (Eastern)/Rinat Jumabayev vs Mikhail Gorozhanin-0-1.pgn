@@ -1,0 +1,14 @@
+[Event "PRO Chess League (Eastern)"]
+[Site "chess.com INT"]
+[Date "2017.01.18"]
+[EventDate "2017.01.11"]
+[Round "2"]
+[Result "0-1"]
+[White "Rinat Jumabayev"]
+[Black "Mikhail Gorozhanin"]
+[ECO "C00"]
+[WhiteElo "2611"]
+[BlackElo "2408"]
+[PlyCount "26"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 g6 5. e5 Nfd7 6. d4 Bg7 7. h4 f6 8. exf6 Qxf6 9. h5 O-O 10. hxg6 hxg6 11. Bd3 e5 12. dxe5 Nxe5 13. Nxe5 Qxf2# 0-1
