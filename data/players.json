@@ -10199,7 +10199,8 @@
     "name": "RUZELE, Darius",
     "year": "1985-2002",
     "games": 371,
-    "id": "26197"
+    "id": "26197",
+    "synced": true
   },
   {
     "higestRating": 2494,
@@ -17220,7 +17221,8 @@
     "name": "TIBENSKY, Robert",
     "year": "1980-2015",
     "games": 212,
-    "id": "19686"
+    "id": "19686",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -19526,7 +19528,8 @@
     "name": "ROTSTEIN, Jefim",
     "year": "1952-2015",
     "games": 184,
-    "id": "106421"
+    "id": "106421",
+    "synced": true
   },
   {
     "higestRating": 2441,
@@ -43387,7 +43390,8 @@
     "name": "SAHU, Sekhar Chandra",
     "year": "1984-2019",
     "games": 67,
-    "id": "46763"
+    "id": "46763",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -44614,7 +44618,8 @@
     "name": "CORDING, Harm Wilhelm",
     "year": "1961-2004",
     "games": 65,
-    "id": "103758"
+    "id": "103758",
+    "synced": true
   },
   {
     "higestRating": 2373,
@@ -62247,7 +62252,8 @@
     "name": "MYHRVOLD, Rune",
     "year": "1992-2010",
     "games": 38,
-    "id": "19790"
+    "id": "19790",
+    "synced": true
   },
   {
     "higestRating": 2387,
@@ -68962,7 +68968,8 @@
     "name": "KHAETSKY, Roman",
     "year": "1997-2017",
     "games": 32,
-    "id": "95339"
+    "id": "95339",
+    "synced": true
   },
   {
     "higestRating": 2319,
@@ -69214,7 +69221,8 @@
     "name": "VAKHLAMOV, Igor L",
     "year": "2009-2019",
     "games": 32,
-    "id": "132326"
+    "id": "132326",
+    "synced": true
   },
   {
     "higestRating": 2303,
