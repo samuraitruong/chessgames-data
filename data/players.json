@@ -611,7 +611,8 @@
     "name": "IVANISEVIC, Ivan",
     "year": "1990-2023",
     "games": 1989,
-    "id": "44895"
+    "id": "44895",
+    "synced": true
   },
   {
     "higestRating": 2565,
@@ -50172,7 +50173,8 @@
     "name": "DE LA VEGA, Hector",
     "year": "1967-1981",
     "games": 54,
-    "id": "40293"
+    "id": "40293",
+    "synced": true
   },
   {
     "higestRating": 2429,
@@ -62663,7 +62665,8 @@
     "name": "GASTHOFER, Viktor",
     "year": "1991-2005",
     "games": 38,
-    "id": "81751"
+    "id": "81751",
+    "synced": true
   },
   {
     "higestRating": 2344,
@@ -67781,7 +67784,8 @@
     "name": "SORSA, Nuutti",
     "year": "1996-2001",
     "games": 33,
-    "id": "69796"
+    "id": "69796",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -91614,7 +91618,8 @@
     "name": "ERYOMENKO, Volodymyr",
     "year": "1997-2005",
     "games": 18,
-    "id": "71685"
+    "id": "71685",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -106061,7 +106066,8 @@
     "name": "GUTIERREZ, Ignacio Bajo",
     "year": "1992",
     "games": 1,
-    "id": "41577"
+    "id": "41577",
+    "synced": true
   },
   {
     "higestRating": 2287,
