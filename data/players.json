@@ -114,7 +114,8 @@
     "name": "KRAMNIK, Vladimir",
     "year": "1984-2023",
     "games": 3212,
-    "id": "12295"
+    "id": "12295",
+    "synced": true
   },
   {
     "higestRating": 2761,
@@ -57297,7 +57298,8 @@
     "name": "ANDRADE, Roberto Luiz Costa",
     "year": "1994-2018",
     "games": 44,
-    "id": "81320"
+    "id": "81320",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -80161,7 +80163,8 @@
     "name": "GUERRERO, Juan Carlos",
     "year": "2001-2019",
     "games": 24,
-    "id": "53109"
+    "id": "53109",
+    "synced": true
   },
   {
     "higestRating": 2238,
@@ -83971,7 +83974,8 @@
     "name": "MAKSIMOVIC, Marko",
     "year": "2005-2018",
     "games": 22,
-    "id": "119778"
+    "id": "119778",
+    "synced": true
   },
   {
     "higestRating": 2347,

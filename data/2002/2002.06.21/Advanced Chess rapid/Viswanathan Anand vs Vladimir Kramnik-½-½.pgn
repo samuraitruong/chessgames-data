@@ -1,14 +1,14 @@
 [Event "Advanced Chess rapid"]
 [Site "Leon ESP"]
-[Date "2002.06.23"]
+[Date "2002.06.21"]
 [EventDate "2002.06.21"]
-[Round "6"]
+[Round "2"]
 [Result "1/2-1/2"]
 [White "Viswanathan Anand"]
 [Black "Vladimir Kramnik"]
-[ECO "C67"]
+[ECO "E15"]
 [WhiteElo "2752"]
 [BlackElo "2809"]
 [PlyCount "39"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 Be7 11. Bg5 Bxg5 12. Nxg5 h6 13. Nge4 b6 14. Rfd1 Ke7 15. Kh2 h5 16. Ne2 Re8 17. Nf4 Kf8 18. Nxh5 Rxe5 19. Nhg3 Be6 20. Rd2 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O d5 9. Qc2 Nbd7 10. Rd1 O-O 11. Bf4 Rc8 12. Nc3 Qe8 13. a4 dxc4 14. bxc4 Bxc4 15. Ne4 Nxe4 16. Qxc4 Bd6 17. Ne5 f5 18. h4 c5 19. Bxe4 cxd4 20. Qxd4 1/2-1/2
