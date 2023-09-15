@@ -7715,7 +7715,8 @@
     "name": "THIPSAY, Praveen Mahadeo",
     "year": "1975-2019",
     "games": 486,
-    "id": "12239"
+    "id": "12239",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -16005,7 +16006,8 @@
     "name": "PASSEROTTI, Pierluigi",
     "year": "1970-2003",
     "games": 229,
-    "id": "76887"
+    "id": "76887",
+    "synced": true
   },
   {
     "higestRating": 2601,
@@ -25065,7 +25067,8 @@
     "name": "MOKSHANOV, Alexey",
     "year": "2010-2021",
     "games": 136,
-    "id": "130358"
+    "id": "130358",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -39008,7 +39011,8 @@
     "name": "IBADOV, Dashgyn",
     "year": "2016-2023",
     "games": 78,
-    "id": "154674"
+    "id": "154674",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -49047,7 +49051,8 @@
     "name": "TIKHOMIROV, Sergei",
     "year": "1998-2003",
     "games": 56,
-    "id": "50173"
+    "id": "50173",
+    "synced": true
   },
   {
     "higestRating": 2254,
@@ -62629,7 +62634,8 @@
     "name": "SPINDELBOECK, Gernot",
     "year": "1993-2018",
     "games": 38,
-    "id": "60810"
+    "id": "60810",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -88656,7 +88662,8 @@
     "name": "VAN ROON, Sjoerd",
     "year": "2017-2019",
     "games": 20,
-    "id": "160299"
+    "id": "160299",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -91252,7 +91259,8 @@
     "name": "BUTUNOI, Alexandru",
     "year": "1992-2007",
     "games": 18,
-    "id": "49408"
+    "id": "49408",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -95359,7 +95367,8 @@
     "name": "MUELLER, Helge",
     "year": "1987-1988",
     "games": 17,
-    "id": "181610"
+    "id": "181610",
+    "synced": true
   },
   {
     "higestRating": 2531,
