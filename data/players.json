@@ -7323,7 +7323,8 @@
     "name": "APPEL, Ralf",
     "year": "1986-2016",
     "games": 506,
-    "id": "26324"
+    "id": "26324",
+    "synced": true
   },
   {
     "higestRating": 2607,
@@ -7927,7 +7928,8 @@
     "name": "BERNADSKIY, Vitaliy",
     "year": "2009-2023",
     "games": 477,
-    "id": "128843"
+    "id": "128843",
+    "synced": true
   },
   {
     "higestRating": 2354,
@@ -86796,7 +86798,8 @@
     "name": "HELM, Leonie",
     "year": "1999-2004",
     "games": 20,
-    "id": "50291"
+    "id": "50291",
+    "synced": true
   },
   {
     "higestRating": 2223,
