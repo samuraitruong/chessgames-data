@@ -8887,7 +8887,8 @@
     "name": "WOHL, Aleksandar H",
     "year": "1979-2019",
     "games": 423,
-    "id": "35004"
+    "id": "35004",
+    "synced": true
   },
   {
     "higestRating": 2609,
@@ -10425,7 +10426,8 @@
     "name": "FOGARASI, Tibor",
     "year": "1986-2022",
     "games": 365,
-    "id": "19066"
+    "id": "19066",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -23185,7 +23187,8 @@
     "name": "FURHOFF, Johan",
     "year": "1988-2021",
     "games": 150,
-    "id": "18138"
+    "id": "18138",
+    "synced": true
   },
   {
     "higestRating": 2397,
@@ -34175,7 +34178,8 @@
     "name": "CHERNOBAY, Artem",
     "year": "1998-2023",
     "games": 92,
-    "id": "107168"
+    "id": "107168",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -48113,7 +48117,8 @@
     "name": "FLERMOEN, Peter",
     "year": "2007-2014",
     "games": 58,
-    "id": "112297"
+    "id": "112297",
+    "synced": true
   },
   {
     "higestRating": 2317,
@@ -72389,7 +72394,8 @@
     "name": "OSTERMAN, Georg",
     "year": "1978-2001",
     "games": 29,
-    "id": "32974"
+    "id": "32974",
+    "synced": true
   },
   {
     "higestRating": 2317,
@@ -75858,7 +75864,8 @@
     "name": "SCHWING, Hans-Elmar",
     "year": "1988-2007",
     "games": 27,
-    "id": "97263"
+    "id": "97263",
+    "synced": true
   },
   {
     "higestRating": 2544,
