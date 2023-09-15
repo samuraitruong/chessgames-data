@@ -7765,7 +7765,8 @@
     "name": "MIRALLES, Gilles",
     "year": "1982-2019",
     "games": 484,
-    "id": "14372"
+    "id": "14372",
+    "synced": true
   },
   {
     "higestRating": 2569,
@@ -12206,7 +12207,8 @@
     "name": "SHANAVA, Konstantine",
     "year": "1995-2021",
     "games": 307,
-    "id": "50124"
+    "id": "50124",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -15769,7 +15771,8 @@
     "name": "PETKOV, Vladimir",
     "year": "1988-2022",
     "games": 233,
-    "id": "93963"
+    "id": "93963",
+    "synced": true
   },
   {
     "higestRating": 2517,
@@ -49377,7 +49380,8 @@
     "name": "ORTIZ, Marcos",
     "year": "1989-2020",
     "games": 56,
-    "id": "140153"
+    "id": "140153",
+    "synced": true
   },
   {
     "higestRating": 2238,
@@ -97948,7 +97952,8 @@
     "name": "VUJOVIC, Milivoje",
     "year": "1983-1996",
     "games": 16,
-    "id": "174289"
+    "id": "174289",
+    "synced": true
   },
   {
     "higestRating": 2355,
