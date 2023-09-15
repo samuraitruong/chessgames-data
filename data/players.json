@@ -1577,7 +1577,8 @@
     "name": "STOCEK, Jiri",
     "year": "1991-2023",
     "games": 1437,
-    "id": "19861"
+    "id": "19861",
+    "synced": true
   },
   {
     "higestRating": 2586,
@@ -33551,7 +33552,8 @@
     "name": "NEDELJKOVIC, Verica",
     "year": "1950-1979",
     "games": 94,
-    "id": "37278"
+    "id": "37278",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -38787,7 +38789,8 @@
     "name": "OLCAYOZ, Alper",
     "year": "1990-2007",
     "games": 78,
-    "id": "57240"
+    "id": "57240",
+    "synced": true
   },
   {
     "higestRating": 2347,

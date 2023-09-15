@@ -1,0 +1,14 @@
+[Event "Hostafrancs op 5th"]
+[Site "Barcelona"]
+[Date "2003.08.30"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Alejandro Rios Parra"]
+[Black "Jiri Stocek"]
+[ECO "B93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 Nbd7 7.Qe2 e5 8.Nb3 b5 9.g3 Be7 10.Bg2 b4 11.Nd5 Nxd5 12.exd5 a5 13.fxe5 Nxe5 14.Bf4 O-O 15.Bxe5 Ba6 16.Qf2 dxe5 17.O-O-O a4 18.Nc5 b3 19.axb3 Bxc5 20.Qxc5 axb3 21.Rd2 Bf1 22.Kb1 Ra5 23.Qc6 Ra1+ 0-1

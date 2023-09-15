@@ -1,0 +1,14 @@
+[Event "Rohde op 3rd"]
+[Site "Sautron"]
+[Date "2003.10.25"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Luc Bergez"]
+[Black "Jiri Stocek"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.e4 d6 6.Bg5 h6 7.Bh4 e5 8.O-O-O Bxc3 9.bxc3 Qe7 10.f3 c5 11.d5 b5 12.g4 bxc4 13.Ne2 Nbd7 14.Ng3 Nb6 15.Qd2 Rb8 16.Nh5 Qb7 17.Nxf6+ gxf6 18.Qxh6 Nxd5 19.Kd2 Qb2+ 20.Ke1 Qxc3+ 21.Kf2 Rb2+ 22.Kg3 Qc2 0-1
