@@ -6696,7 +6696,8 @@
     "name": "BERARDINO, Diego Rafael Di",
     "year": "1999-2023",
     "games": 556,
-    "id": "102529"
+    "id": "102529",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -14245,7 +14246,8 @@
     "name": "VAVULIN, Maksim",
     "year": "2012-2021",
     "games": 261,
-    "id": "141420"
+    "id": "141420",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -36665,7 +36667,8 @@
     "name": "ALCARAZ, Andres Felipe Gallego",
     "year": "2006-2019",
     "games": 84,
-    "id": "124531"
+    "id": "124531",
+    "synced": true
   },
   {
     "higestRating": 2243,
@@ -42455,7 +42458,8 @@
     "name": "LEVIN, David H",
     "year": "1985-2000",
     "games": 69,
-    "id": "27229"
+    "id": "27229",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -65541,7 +65545,8 @@
     "name": "MUSLIJA, Idris",
     "year": "1997-2011",
     "games": 35,
-    "id": "71645"
+    "id": "71645",
+    "synced": true
   },
   {
     "higestRating": 2289,
@@ -74267,7 +74272,8 @@
     "name": "HORTA, Hector",
     "year": "1989-2002",
     "games": 28,
-    "id": "90301"
+    "id": "90301",
+    "synced": true
   },
   {
     "higestRating": 2387,
