@@ -6041,7 +6041,8 @@
     "name": "KURNOSOV, Igor",
     "year": "2000-2013",
     "games": 612,
-    "id": "49730"
+    "id": "49730",
+    "synced": true
   },
   {
     "higestRating": 2551,
@@ -18553,7 +18554,8 @@
     "name": "RISTING, Eivind Olav",
     "year": "2014-2021",
     "games": 197,
-    "id": "150558"
+    "id": "150558",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -24099,7 +24101,8 @@
     "name": "VUKCEVICH, Milan Rodoje",
     "year": "1953-1980",
     "games": 143,
-    "id": "19289"
+    "id": "19289",
+    "synced": true
   },
   {
     "higestRating": 2204,
@@ -42608,7 +42611,8 @@
     "name": "ISSAKAINEN, Ari",
     "year": "1993-2018",
     "games": 69,
-    "id": "51777"
+    "id": "51777",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -46504,7 +46508,8 @@
     "name": "NOVAK, Ksenija",
     "year": "2001-2014",
     "games": 61,
-    "id": "56659"
+    "id": "56659",
+    "synced": true
   },
   {
     "higestRating": 2374,
@@ -72767,7 +72772,8 @@
     "name": "LEFEBVRE, Herve",
     "year": "1973-2019",
     "games": 29,
-    "id": "58399"
+    "id": "58399",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -78006,7 +78012,8 @@
     "name": "KUSHKO, Dmitriy",
     "year": "2019-2023",
     "games": 26,
-    "id": "161798"
+    "id": "161798",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -102804,7 +102811,8 @@
     "name": "DURHAM, Dan",
     "year": "1982-2017",
     "games": 9,
-    "id": "38168"
+    "id": "38168",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -105984,7 +105992,8 @@
     "name": "VOLKOV, Nikolay",
     "year": "1995-1996",
     "games": 2,
-    "id": "124417"
+    "id": "124417",
+    "synced": true
   },
   {
     "higestRating": 2228,
