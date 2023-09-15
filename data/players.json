@@ -4907,7 +4907,8 @@
     "name": "BRYNELL, Stellan",
     "year": "1985-2022",
     "games": 728,
-    "id": "18139"
+    "id": "18139",
+    "synced": true
   },
   {
     "higestRating": 2546,
@@ -42129,7 +42130,8 @@
     "name": "CARRON, Julien",
     "year": "2001-2019",
     "games": 70,
-    "id": "58932"
+    "id": "58932",
+    "synced": true
   },
   {
     "higestRating": 2321,
@@ -49939,7 +49941,8 @@
     "name": "HERMAN, Jean",
     "year": "2010-2020",
     "games": 55,
-    "id": "125920"
+    "id": "125920",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -50445,7 +50448,8 @@
     "name": "LERCH, Patrice",
     "year": "1993-2021",
     "games": 54,
-    "id": "94701"
+    "id": "94701",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -56642,7 +56646,8 @@
     "name": "DE GROOTE, Ewoud",
     "year": "2005-2018",
     "games": 45,
-    "id": "114796"
+    "id": "114796",
+    "synced": true
   },
   {
     "higestRating": 2296,
@@ -76569,7 +76574,8 @@
     "name": "GARBER, Stanislav",
     "year": "1991-1993",
     "games": 26,
-    "id": "27037"
+    "id": "27037",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -79176,7 +79182,8 @@
     "name": "FEHRIG, Andreas",
     "year": "1981-1993",
     "games": 25,
-    "id": "103774"
+    "id": "103774",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -81102,7 +81109,8 @@
     "name": "REVIVO, Shoham Cohen",
     "year": "2015-2020",
     "games": 24,
-    "id": "152547"
+    "id": "152547",
+    "synced": true
   },
   {
     "higestRating": 2404,
