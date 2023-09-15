@@ -1,0 +1,14 @@
+[Event "Hanoi GM 2022"]
+[Site "Hanoi VIE"]
+[Date "2022.05.25"]
+[EventDate "2022.05.24"]
+[Round "2.1"]
+[Result "1-0"]
+[White "Nguyen Anh Dung"]
+[Black "Minh Thang Tran"]
+[ECO "D38"]
+[WhiteElo "2475"]
+[BlackElo "2334"]
+[PlyCount "68"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Qa4+ Nc6 6. Bg5 O-O 7. e3 h6 8. Bxf6 Qxf6 9. Rc1 dxc4 10. Bxc4 e5 11. d5 e4 12. Nd2 Bxc3 13. Rxc3 Ne5 14. Be2 Bf5 15. Nxe4 Qg6 16. Ng3 Bd3 17. Bxd3 Nxd3+ 18. Ke2 Ne5 19. Rd1 Qb6 20. Rb3 Qg6 21. Rxb7 a5 22. b3 Qc2+ 23. Rd2 Qc1 24. Nf5 Rae8 25. Qf4 Qb1 26. Rxc7 Ng6 27. Qf3 Ne5 28. Qh3 a4 29. Ne7+ Kh8 30. Qf5 Qa1 31. bxa4 Rb8 32. f4 Ng6 33. Nxg6+ fxg6 34. Qe5 1-0
