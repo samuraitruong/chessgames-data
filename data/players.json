@@ -122,7 +122,8 @@
     "name": "ADAMS, Michael",
     "year": "1984-2023",
     "games": 3168,
-    "id": "10900"
+    "id": "10900",
+    "synced": true
   },
   {
     "higestRating": 2550,
@@ -11830,7 +11831,8 @@
     "name": "AAGAARD, Jacob",
     "year": "1990-2022",
     "games": 318,
-    "id": "35994"
+    "id": "35994",
+    "synced": true
   },
   {
     "higestRating": 2441,
@@ -12017,7 +12019,8 @@
     "name": "HAAST, Anne",
     "year": "2004-2022",
     "games": 312,
-    "id": "114664"
+    "id": "114664",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -28333,7 +28336,8 @@
     "name": "SHALIMOV, Valery",
     "year": "1986-2019",
     "games": 115,
-    "id": "50181"
+    "id": "50181",
+    "synced": true
   },
   {
     "higestRating": 2491,
@@ -37562,7 +37566,8 @@
     "name": "NESYTOVA, Anastasia",
     "year": "2012-2020",
     "games": 82,
-    "id": "139265"
+    "id": "139265",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -41033,7 +41038,8 @@
     "name": "KULKARNI, Ojas",
     "year": "2016-2022",
     "games": 73,
-    "id": "157113"
+    "id": "157113",
+    "synced": true
   },
   {
     "higestRating": 2237,
@@ -71444,7 +71450,8 @@
     "name": "NAGY, Janos",
     "year": "1985-2001",
     "games": 30,
-    "id": "60822"
+    "id": "60822",
+    "synced": true
   },
   {
     "higestRating": 2488,
@@ -90371,7 +90378,8 @@
     "name": "JEAN, Olivier",
     "year": "1990-2007",
     "games": 19,
-    "id": "130214"
+    "id": "130214",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -93033,7 +93041,8 @@
     "name": "LOIACONO, Antonio",
     "year": "2017-2021",
     "games": 18,
-    "id": "170711"
+    "id": "170711",
+    "synced": true
   },
   {
     "higestRating": 2263,
