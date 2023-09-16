@@ -10112,7 +10112,8 @@
     "name": "VOYSKA, Margarita",
     "year": "1979-2022",
     "games": 374,
-    "id": "13916"
+    "id": "13916",
+    "synced": true
   },
   {
     "higestRating": 2575,
@@ -24773,7 +24774,8 @@
     "name": "KOSKOSKA, Gabriela",
     "year": "1993-2021",
     "games": 138,
-    "id": "57010"
+    "id": "57010",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -27776,7 +27778,8 @@
     "name": "BEZEMER, Arno",
     "year": "1986-2017",
     "games": 118,
-    "id": "41151"
+    "id": "41151",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -28497,7 +28500,8 @@
     "name": "VIGORITO, David E",
     "year": "1989-2017",
     "games": 114,
-    "id": "15646"
+    "id": "15646",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -31764,7 +31768,8 @@
     "name": "LAGOWSKI, Patryk",
     "year": "1998-2007",
     "games": 101,
-    "id": "54465"
+    "id": "54465",
+    "synced": true
   },
   {
     "higestRating": 2448,
@@ -38246,7 +38251,8 @@
     "name": "OOTES, Lars",
     "year": "2007-2022",
     "games": 80,
-    "id": "114795"
+    "id": "114795",
+    "synced": true
   },
   {
     "higestRating": 2432,
@@ -39830,7 +39836,8 @@
     "name": "TERBE, Julianna",
     "year": "2014-2022",
     "games": 76,
-    "id": "153656"
+    "id": "153656",
+    "synced": true
   },
   {
     "higestRating": 2302,
@@ -44420,7 +44427,8 @@
     "name": "DOWN, Nicholas A",
     "year": "1980-1997",
     "games": 65,
-    "id": "39379"
+    "id": "39379",
+    "synced": true
   },
   {
     "higestRating": 2429,
@@ -60444,7 +60452,8 @@
     "name": "HE, Anthony B",
     "year": "2017-2021",
     "games": 41,
-    "id": "157437"
+    "id": "157437",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -65534,7 +65543,8 @@
     "name": "KANGUR, Alvar",
     "year": "2000-2012",
     "games": 35,
-    "id": "58391"
+    "id": "58391",
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -65756,7 +65766,8 @@
     "name": "SHIKALOV, Andrei Viktorovich",
     "year": "1999-2002",
     "games": 35,
-    "id": "90382"
+    "id": "90382",
+    "synced": true
   },
   {
     "higestRating": 2545,
@@ -75817,7 +75828,8 @@
     "name": "MARASESCU, Ioan",
     "year": "1985-1998",
     "games": 27,
-    "id": "87083"
+    "id": "87083",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -96918,7 +96930,8 @@
     "name": "ALI, Mohamad Nour Kara",
     "year": "2000-2004",
     "games": 16,
-    "id": "95227"
+    "id": "95227",
+    "synced": true
   },
   {
     "higestRating": 2345,
