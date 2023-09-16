@@ -2694,7 +2694,8 @@
     "name": "GAPONENKO, Inna",
     "year": "1991-2023",
     "games": 1098,
-    "id": "42048"
+    "id": "42048",
+    "synced": true
   },
   {
     "higestRating": 2533,
@@ -21935,7 +21936,8 @@
     "name": "OSTERMEYER, Peter",
     "year": "1963-1994",
     "games": 160,
-    "id": "15664"
+    "id": "15664",
+    "synced": true
   },
   {
     "higestRating": 2511,
@@ -23354,7 +23356,8 @@
     "name": "VELIKIC, Adela",
     "year": "2013-2023",
     "games": 150,
-    "id": "147270"
+    "id": "147270",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -38479,7 +38482,8 @@
     "name": "GODART, Francois",
     "year": "2006-2021",
     "games": 79,
-    "id": "104954"
+    "id": "104954",
+    "synced": true
   },
   {
     "higestRating": 2485,
@@ -45918,7 +45922,8 @@
     "name": "STALLER, Peter",
     "year": "1969-2006",
     "games": 62,
-    "id": "37519"
+    "id": "37519",
+    "synced": true
   },
   {
     "higestRating": 2337,
@@ -49212,7 +49217,8 @@
     "name": "SCHEIPL, Ralf",
     "year": "1955-2005",
     "games": 56,
-    "id": "70231"
+    "id": "70231",
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -54837,7 +54843,8 @@
     "name": "ROMSDAL, Trond",
     "year": "1992-2007",
     "games": 47,
-    "id": "49514"
+    "id": "49514",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -56226,7 +56233,8 @@
     "name": "KORSUNSKY, Yuri",
     "year": "1981-2021",
     "games": 45,
-    "id": "24688"
+    "id": "24688",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -63488,7 +63496,8 @@
     "name": "EALES, Richard G",
     "year": "1967-1973",
     "games": 37,
-    "id": "48296"
+    "id": "48296",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -65718,7 +65727,8 @@
     "name": "ROMBALDONI, Andrea",
     "year": "1983-2003",
     "games": 35,
-    "id": "83749"
+    "id": "83749",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -73742,7 +73752,8 @@
     "name": "BENEN, Samson",
     "year": "2000-2004",
     "games": 28,
-    "id": "10137"
+    "id": "10137",
+    "synced": true
   },
   {
     "higestRating": 2273,
@@ -74571,7 +74582,8 @@
     "name": "WADSACK, Wolfgang",
     "year": "1992-1999",
     "games": 28,
-    "id": "101515"
+    "id": "101515",
+    "synced": true
   },
   {
     "higestRating": 2353,
@@ -77614,7 +77626,8 @@
     "name": "GRIMBERG, Boris",
     "year": "2008-2015",
     "games": 26,
-    "id": "114607"
+    "id": "114607",
+    "synced": true
   },
   {
     "higestRating": 2379,
@@ -78960,7 +78973,8 @@
     "name": "NYGREN, Kim",
     "year": "2002-2021",
     "games": 25,
-    "id": "80078"
+    "id": "80078",
+    "synced": true
   },
   {
     "higestRating": 2345,
@@ -82738,7 +82752,8 @@
     "name": "MIKHAILOV, Viacheslav",
     "year": "2012-2016",
     "games": 23,
-    "id": "141400"
+    "id": "141400",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -84454,7 +84469,8 @@
     "name": "LLEDO, Pablo Cruz",
     "year": "2007-2022",
     "games": 22,
-    "id": "146253"
+    "id": "146253",
+    "synced": true
   },
   {
     "higestRating": 2296,
@@ -90817,7 +90833,8 @@
     "name": "GRELA, Kacper",
     "year": "2016-2021",
     "games": 19,
-    "id": "156966"
+    "id": "156966",
+    "synced": true
   },
   {
     "higestRating": 2302,
@@ -92972,7 +92989,8 @@
     "name": "CADILHAC, Igor Tokuichi Kikuchi",
     "year": "2017-2021",
     "games": 18,
-    "id": "157920"
+    "id": "157920",
+    "synced": true
   },
   {
     "higestRating": 2321,
@@ -93992,7 +94010,8 @@
     "name": "THALWITZER, David",
     "year": "1998-2000",
     "games": 17,
-    "id": "68697"
+    "id": "68697",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -99544,7 +99563,8 @@
     "name": "SCHREIBER, Eitan",
     "year": "2000-2005",
     "games": 15,
-    "id": "95096"
+    "id": "95096",
+    "synced": true
   },
   {
     "higestRating": 2281,
@@ -99725,7 +99745,8 @@
     "name": "PARONJAN, Aleksandar",
     "year": "1993-1995",
     "games": 15,
-    "id": "101988"
+    "id": "101988",
+    "synced": true
   },
   {
     "higestRating": 2426,
@@ -102043,7 +102064,8 @@
     "name": "DE LUCA, Pablo Raineri",
     "year": "1997-2005",
     "games": 11,
-    "id": "55393"
+    "id": "55393",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -103888,7 +103910,8 @@
     "name": "GOSWAMI, Vedant",
     "year": "1999-2019",
     "games": 7,
-    "id": "91769"
+    "id": "91769",
+    "synced": true
   },
   {
     "higestRating": 2321,

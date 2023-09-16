@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.21"]
+[EventDate "2020.08.21"]
+[Round "2"]
+[Result "1-0"]
+[White "Inna Gaponenko"]
+[Black "Edit Machlik"]
+[ECO "B12"]
+[WhiteElo "2375"]
+[BlackElo "1942"]
+[Source "Chess-Results"]
+[PlyCount "63"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. c3 Nc8 7. O-O Nd7 8. Na3 Be7 9. Nc2 O-O 10. Ne3 Bg6 11. Ne1 c5 12. f4 f6 13. f5 Bxf5 14. Nxf5 exf5 15. e6 Ndb6 16. Rxf5 Nd6 17. Rh5 Ne4 18. Nd3 cxd4 19. cxd4 Rc8 20. Bf3 Rc6 21. Nf4 Rd6 22. Be3 Nc4 23. Qe2 Nxe3 24. Qxe3 f5 25. Bxe4 fxe4 26. Rf1 Bf6 27. Rh3 Qb6 28. Ne2 Be7 29. Rxf8+ Bxf8 30. Qg5 Qd8 31. Qf5 Qe7 32. Qxh7# 1-0
