@@ -7351,7 +7351,8 @@
     "name": "ACS, Peter",
     "year": "1992-2023",
     "games": 506,
-    "id": "31033"
+    "id": "31033",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -8736,7 +8737,8 @@
     "name": "YAGUPOV, Igor",
     "year": "1990-2021",
     "games": 433,
-    "id": "18309"
+    "id": "18309",
+    "synced": true
   },
   {
     "higestRating": 2563,
@@ -28338,7 +28340,8 @@
     "name": "SALES, Jesse Noel",
     "year": "1993-2009",
     "games": 115,
-    "id": "30343"
+    "id": "30343",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -68414,7 +68417,8 @@
     "name": "ERERDEM, Gani Eren",
     "year": "2011-2017",
     "games": 33,
-    "id": "140866"
+    "id": "140866",
+    "synced": true
   },
   {
     "higestRating": 2269,
