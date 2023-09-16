@@ -5110,7 +5110,8 @@
     "name": "GOLUBOV, Saveliy",
     "year": "2012-2020",
     "games": 706,
-    "id": "139537"
+    "id": "139537",
+    "synced": true
   },
   {
     "higestRating": 2527,
@@ -11523,7 +11524,8 @@
     "name": "FOMINYH, Alexander",
     "year": "1984-2016",
     "games": 328,
-    "id": "23216"
+    "id": "23216",
+    "synced": true
   },
   {
     "higestRating": 2404,
