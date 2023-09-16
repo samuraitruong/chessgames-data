@@ -4807,7 +4807,8 @@
     "name": "GASHIMOV, Vugar",
     "year": "1995-2012",
     "games": 744,
-    "id": "54602"
+    "id": "54602",
+    "synced": true
   },
   {
     "higestRating": 2668,
@@ -28921,7 +28922,8 @@
     "name": "KASSIS, Antoine",
     "year": "1996-2022",
     "games": 112,
-    "id": "10818"
+    "id": "10818",
+    "synced": true
   },
   {
     "higestRating": 2527,
@@ -41999,7 +42001,8 @@
     "name": "MATERIA, Marco",
     "year": "2019-2023",
     "games": 71,
-    "id": "184145"
+    "id": "184145",
+    "synced": true
   },
   {
     "higestRating": 2279,
@@ -57646,7 +57649,8 @@
     "name": "ERNST, Michael",
     "year": "2010-2019",
     "games": 44,
-    "id": "125348"
+    "id": "125348",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -63086,7 +63090,8 @@
     "name": "HEYDARLI, Kanan",
     "year": "2010-2016",
     "games": 38,
-    "id": "131632"
+    "id": "131632",
+    "synced": true
   },
   {
     "higestRating": 2329,
@@ -83100,7 +83105,8 @@
     "name": "KRAUSENECK, Peter",
     "year": "1981-2018",
     "games": 22,
-    "id": "33982"
+    "id": "33982",
+    "synced": true
   },
   {
     "higestRating": 2317,
@@ -100534,7 +100540,8 @@
     "name": "GIULIANI, Sante",
     "year": "2009",
     "games": 15,
-    "id": "162141"
+    "id": "162141",
+    "synced": true
   },
   {
     "higestRating": 2296,
