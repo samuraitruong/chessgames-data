@@ -657,7 +657,8 @@
     "name": "AKOPIAN, Vladimir",
     "year": "1982-2022",
     "games": 1954,
-    "id": "14125"
+    "id": "14125",
+    "synced": true
   },
   {
     "higestRating": 2766,
@@ -23853,7 +23854,8 @@
     "name": "SOULEIDIS, Georgios",
     "year": "1991-2023",
     "games": 146,
-    "id": "65578"
+    "id": "65578",
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -25941,7 +25943,8 @@
     "name": "SHAHALIYEV, Ismayil Bahram",
     "year": "2014-2023",
     "games": 130,
-    "id": "149926"
+    "id": "149926",
+    "synced": true
   },
   {
     "higestRating": 2338,
@@ -50211,7 +50214,8 @@
     "name": "DUONG, Thanh Nha",
     "year": "1987-2023",
     "games": 54,
-    "id": "15626"
+    "id": "15626",
+    "synced": true
   },
   {
     "higestRating": 2464,
@@ -63417,7 +63421,8 @@
     "name": "BECX, Cesar",
     "year": "1980-2005",
     "games": 37,
-    "id": "29024"
+    "id": "29024",
+    "synced": true
   },
   {
     "higestRating": 2249,
@@ -71267,7 +71272,8 @@
     "name": "BOOG, Alexandre",
     "year": "1986-1993",
     "games": 30,
-    "id": "33930"
+    "id": "33930",
+    "synced": true
   },
   {
     "higestRating": 2297,
