@@ -16295,7 +16295,8 @@
     "name": "BRYZGALIN, Kirill",
     "year": "1996-2018",
     "games": 225,
-    "id": "53176"
+    "id": "53176",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -17587,7 +17588,8 @@
     "name": "SHIPMAN, Walter",
     "year": "1944-2007",
     "games": 208,
-    "id": "15598"
+    "id": "15598",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -33168,7 +33170,8 @@
     "name": "LAHLUM, Hans Olav",
     "year": "1990-2017",
     "games": 96,
-    "id": "101603"
+    "id": "101603",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -35630,7 +35633,8 @@
     "name": "ROGERS, Jonathan W",
     "year": "1987-2019",
     "games": 87,
-    "id": "48983"
+    "id": "48983",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -50096,7 +50100,8 @@
     "name": "GOGOLEV, Artem",
     "year": "2009-2021",
     "games": 55,
-    "id": "141460"
+    "id": "141460",
+    "synced": true
   },
   {
     "higestRating": 2218,
@@ -50441,7 +50446,8 @@
     "name": "SZABO, Zsolt Jozsef",
     "year": "1994-2011",
     "games": 54,
-    "id": "61274"
+    "id": "61274",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -60178,7 +60184,8 @@
     "name": "GRITSENKO, Andrey",
     "year": "2004-2014",
     "games": 41,
-    "id": "105530"
+    "id": "105530",
+    "synced": true
   },
   {
     "higestRating": 2342,
@@ -61257,7 +61264,8 @@
     "name": "AZAROVA, Nadezhda",
     "year": "2006-2009",
     "games": 40,
-    "id": "125820"
+    "id": "125820",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -64461,7 +64469,8 @@
     "name": "MOLDOVAN, Corina",
     "year": "2001-2011",
     "games": 36,
-    "id": "54790"
+    "id": "54790",
+    "synced": true
   },
   {
     "higestRating": 2429,
@@ -66306,7 +66315,8 @@
     "name": "AMBARTSOUMIAN, Armen",
     "year": "1978-2003",
     "games": 34,
-    "id": "27627"
+    "id": "27627",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -71672,7 +71682,8 @@
     "name": "FORSBERG, Viktor",
     "year": "2003-2016",
     "games": 30,
-    "id": "88177"
+    "id": "88177",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -72247,7 +72258,8 @@
     "name": "SERESIN, Francesco",
     "year": "2016-2020",
     "games": 30,
-    "id": "158217"
+    "id": "158217",
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -82013,7 +82025,8 @@
     "name": "MATSUURA, Horacio",
     "year": "1982-2000",
     "games": 23,
-    "id": "85969"
+    "id": "85969",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -91333,7 +91346,8 @@
     "name": "YADAROLA, Martin Madina",
     "year": "1991-2008",
     "games": 18,
-    "id": "42710"
+    "id": "42710",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -94608,7 +94622,8 @@
     "name": "AGAFONOV, Yuri",
     "year": "1980-2022",
     "games": 17,
-    "id": "107907"
+    "id": "107907",
+    "synced": true
   },
   {
     "higestRating": 2207,
@@ -95368,7 +95383,8 @@
     "name": "BORISOVSKY, Dmitry",
     "year": "2016-2018",
     "games": 17,
-    "id": "157180"
+    "id": "157180",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -100316,7 +100332,8 @@
     "name": "DAVE, Dhyani",
     "year": "2003-2012",
     "games": 15,
-    "id": "136316"
+    "id": "136316",
+    "synced": true
   },
   {
     "higestRating": 2429,
@@ -103883,7 +103900,8 @@
     "name": "BORULYA, Ekaterina Uriivna",
     "year": "1995-2002",
     "games": 7,
-    "id": "79665"
+    "id": "79665",
+    "synced": true
   },
   {
     "higestRating": 2247,

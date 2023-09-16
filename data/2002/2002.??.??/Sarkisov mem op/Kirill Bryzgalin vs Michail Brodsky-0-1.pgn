@@ -1,0 +1,14 @@
+[Event "Sarkisov mem op"]
+[Site "Krasnodar"]
+[Date "2002.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Kirill Bryzgalin"]
+[Black "Michail Brodsky"]
+[ECO "B73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Be2 g6 7.O-O Bg7 8.Be3 O-O 9.Kh1 Bd7 10.f4 Qc8 11.Nb3 Bg4 12.Bf3 Bxf3 13.Qxf3 Qg4 14.a3 Qxf3 15.Rxf3 Nd7 16.Bf2 f5 17.Re1 fxe4 18.Rxe4 Bxc3 19.bxc3 Nf6 20.Re2 Nd5 21.g3 Ne5 22.Rd2 Nb6 0-1
