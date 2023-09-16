@@ -679,7 +679,8 @@
     "name": "GULKO, Boris",
     "year": "1963-2013",
     "games": 1922,
-    "id": "12141"
+    "id": "12141",
+    "synced": true
   },
   {
     "higestRating": 2525,
@@ -15849,7 +15850,8 @@
     "name": "BLEHM, Pawel",
     "year": "1989-2008",
     "games": 232,
-    "id": "49429"
+    "id": "49429",
+    "synced": true
   },
   {
     "higestRating": 2457,
@@ -28807,7 +28809,8 @@
     "name": "ZAVGORODNIY, Sergiy",
     "year": "2000-2018",
     "games": 113,
-    "id": "54534"
+    "id": "54534",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -43006,7 +43009,8 @@
     "name": "TSIJLI, Alexis Murillo",
     "year": "1988-2016",
     "games": 68,
-    "id": "49570"
+    "id": "49570",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -55466,7 +55470,8 @@
     "name": "BARCELO, Carles Martin",
     "year": "2019-2022",
     "games": 47,
-    "id": "163708"
+    "id": "163708",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -58840,7 +58845,8 @@
     "name": "MILAN, Armando Acevedo",
     "year": "1965-2000",
     "games": 42,
-    "id": "19939"
+    "id": "19939",
+    "synced": true
   },
   {
     "higestRating": 2380,
