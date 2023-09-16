@@ -4290,7 +4290,8 @@
     "name": "IBRAGIMOV, Ildar",
     "year": "1985-2016",
     "games": 796,
-    "id": "17081"
+    "id": "17081",
+    "synced": true
   },
   {
     "higestRating": 2677,
@@ -23865,7 +23866,8 @@
     "name": "AULIA, Medina Warda",
     "year": "2010-2023",
     "games": 146,
-    "id": "127530"
+    "id": "127530",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -36900,7 +36902,8 @@
     "name": "LAUK, Ular",
     "year": "1985-2007",
     "games": 83,
-    "id": "54550"
+    "id": "54550",
+    "synced": true
   },
   {
     "higestRating": 2392,
@@ -85417,7 +85420,8 @@
     "name": "MATTICK, Lutz",
     "year": "1989-2001",
     "games": 21,
-    "id": "66605"
+    "id": "66605",
+    "synced": true
   },
   {
     "higestRating": 2347,
@@ -91100,7 +91104,8 @@
     "name": "BEHRMANN, Joachim",
     "year": "1987-2017",
     "games": 18,
-    "id": "33978"
+    "id": "33978",
+    "synced": true
   },
   {
     "higestRating": 2452,
