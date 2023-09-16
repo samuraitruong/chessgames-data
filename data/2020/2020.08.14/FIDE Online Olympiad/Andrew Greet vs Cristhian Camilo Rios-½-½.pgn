@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.14"]
+[EventDate "2020.08.14"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Andrew Greet"]
+[Black "Cristhian Camilo Rios"]
+[ECO "B21"]
+[WhiteElo "2434"]
+[BlackElo "2484"]
+[Source "Chess-Results"]
+[PlyCount "137"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 g6 5. c4 d6 6. Nc3 Bg7 7. Nge2 Nc6 8. O-O Nf6 9. Bg5 O-O 10. Rc1 Ne5 11. b3 Nxd3 12. Qxd3 Bd7 13. Rfd1 Bc6 14. Qe3 Qa5 15. f3 Rfe8 16. Bh6 Bh8 17. Nd4 Nd7 18. Rc2 Rac8 19. Nd5 e6 20. Nc3 d5 21. Nxc6 bxc6 22. Na4 d4 23. Qd2 Qh5 24. c5 e5 25. Qg5 Qxg5 26. Bxg5 f5 27. Nb2 fxe4 28. fxe4 Bf6 29. Bc1 Bd8 30. Nd3 Nf6 31. Re2 a5 32. Rf1 Re6 33. Bg5 Nd7 34. h4 Bxg5 35. hxg5 Rf8 36. Rc2 Rb8 37. Rcf2 Re7 38. Rf3 Rb5 39. Rc1 Rf7 40. Kf2 Rxf3+ 41. gxf3 Kf7 42. Kg3 Ke6 43. Rh1 Nxc5 44. a4 Nxd3 45. axb5 cxb5 46. Ra1 Nb2 47. Ra2 Nd1 48. Rxa5 d3 49. Ra6+ Ke7 50. Ra2 Ne3 51. Kf2 Nc2 52. Ra5 Nd4 53. Ke3 d2 54. Ra7+ Ke6 55. Kxd2 Nxf3+ 56. Ke3 Nxg5 57. Rb7 h5 58. Rb6+ Kf7 59. Rxb5 h4 60. Rxe5 h3 61. Kf2 Kf6 62. Rxg5 Kxg5 63. Kg3 h2 64. Kxh2 Kf4 65. b4 Kxe4 66. Kg3 Kd5 67. Kg4 Kc4 68. Kg5 Kxb4 69. Kxg6 1/2-1/2

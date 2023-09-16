@@ -1,0 +1,14 @@
+[Event "Zonal 2.3"]
+[Site "San Salvador ESA"]
+[Date "2017.05.26"]
+[EventDate "2017.05.26"]
+[Round "1.3"]
+[Result "1-0"]
+[White "Cristhian Camilo Rios"]
+[Black "Maximiliano Merino"]
+[ECO "A52"]
+[WhiteElo "2501"]
+[BlackElo "2055"]
+[PlyCount "39"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 Ng6 8. Nc3 d6 9. O-O-O Bg4 10. Be2 Bxe2 11. Ngxe2 Nd7 12. e5 Nb6 13. exd6 O-O 14. c5 Nc8 15. f5 Ne5 16. d7 Ne7 17. f6 gxf6 18. Ne4 N7g6 19. Rhf1 Kg7 20. N2g3 1-0
