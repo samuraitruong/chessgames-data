@@ -1305,7 +1305,8 @@
     "name": "GREENFELD, Alon",
     "year": "1979-2021",
     "games": 1527,
-    "id": "47065"
+    "id": "47065",
+    "synced": true
   },
   {
     "higestRating": 2816,
@@ -8503,7 +8504,8 @@
     "name": "ROHDE, Michael",
     "year": "1972-2022",
     "games": 446,
-    "id": "28215"
+    "id": "28215",
+    "synced": true
   },
   {
     "higestRating": 2594,
@@ -24929,7 +24931,8 @@
     "name": "HOVHANISIAN, Mher",
     "year": "1996-2022",
     "games": 137,
-    "id": "98875"
+    "id": "98875",
+    "synced": true
   },
   {
     "higestRating": 2485,
@@ -36241,7 +36244,8 @@
     "name": "LE, Thanh Tu",
     "year": "1997-2017",
     "games": 85,
-    "id": "56867"
+    "id": "56867",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -75222,7 +75226,8 @@
     "name": "TORRES, Javier",
     "year": "1991-2006",
     "games": 27,
-    "id": "21703"
+    "id": "21703",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -78369,7 +78374,8 @@
     "name": "SHEVELEV, Sergey",
     "year": "1979-1994",
     "games": 25,
-    "id": "42814"
+    "id": "42814",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -82020,7 +82026,8 @@
     "name": "CHAU, Sau Ming",
     "year": "1990-2006",
     "games": 23,
-    "id": "88615"
+    "id": "88615",
+    "synced": true
   },
   {
     "higestRating": 2211,
