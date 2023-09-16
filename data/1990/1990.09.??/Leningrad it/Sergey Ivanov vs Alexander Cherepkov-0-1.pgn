@@ -1,0 +1,14 @@
+[Event "Leningrad it"]
+[Site "Leningrad URS"]
+[Date "1990.09.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Sergey Ivanov"]
+[Black "Alexander Cherepkov"]
+[ECO "E10"]
+[WhiteElo "2460"]
+[BlackElo "2460"]
+[PlyCount "36"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.g3 cxd4 5.Nxd4 Nc6 6.Bg2 Qb6 7.e3 d5 8.cxd5 Nxd5 9.O-O Be7 10.Nxc6 bxc6 11.e4 Nf6 12.Qc2 O-O 13.Nd2 Ba6 14.Re1 Ng4 15.Nf3 Bc5 16.Be3 Bxe3 17.fxe3 Nxe3 18.Qf2 Nc2 0-1

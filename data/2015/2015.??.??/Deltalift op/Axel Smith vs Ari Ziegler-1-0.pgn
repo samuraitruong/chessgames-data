@@ -1,0 +1,14 @@
+[Event "Deltalift op"]
+[Site "Tylosand"]
+[Date "2015.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Axel Smith"]
+[Black "Ari Ziegler"]
+[ECO "A57"]
+[WhiteElo "2454"]
+[BlackElo "2305"]
+[PlyCount "42"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.Qc2 e6 5.e4 bxc4 6.Bxc4 Ba6 7.Nf3 exd5 8.exd5 Bd6 9.O-O O-O 10.Na3 h6 11.Rd1 Re8 12.b3 Ne4 13.Bb2 f5 14.Re1 Qc7 15.h3 Bxc4 16.Nxc4 Na6 17.Re2 Nb4 18.Qd1 Qb7 19.Rxe4 fxe4 20.Nxd6 Qxd5 21.Nxe8 1-0

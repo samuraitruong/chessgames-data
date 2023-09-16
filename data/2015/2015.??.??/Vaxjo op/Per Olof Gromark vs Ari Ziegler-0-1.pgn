@@ -1,0 +1,14 @@
+[Event "Vaxjo op"]
+[Site "Vaxjo"]
+[Date "2015.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Per Olof Gromark"]
+[Black "Ari Ziegler"]
+[ECO "A11"]
+[WhiteElo "2056"]
+[BlackElo "2327"]
+[PlyCount "40"]
+
+1.Nf3 d5 2.c4 c6 3.e3 e6 4.Nc3 f5 5.d4 Nf6 6.b3 Bd6 7.Bb2 O-O 8.Bd3 Nbd7 9.O-O Ne4 10.Ne2 Qf6 11.Qc2 g5 12.Ng3 g4 13.Ne5 Nxe5 14.Nh5 Qh8 15.dxe5 Bxe5 16.Bxe5 Qxe5 17.f3 Nc5 18.Rae1 Nxd3 19.Qxd3 Bd7 20.e4 fxe4 0-1

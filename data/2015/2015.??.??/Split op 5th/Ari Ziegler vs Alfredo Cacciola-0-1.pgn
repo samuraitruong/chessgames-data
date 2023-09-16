@@ -1,0 +1,14 @@
+[Event "Split op 5th"]
+[Site "Split"]
+[Date "2015.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Ari Ziegler"]
+[Black "Alfredo Cacciola"]
+[ECO "B76"]
+[WhiteElo "2294"]
+[BlackElo "2098"]
+[PlyCount "40"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.O-O-O d5 10.Qe1 e5 11.Nxc6 bxc6 12.exd5 Nxd5 13.Bc4 Be6 14.Kb1 Re8 15.g4 Qc7 16.Nxd5 cxd5 17.Bxd5 Bxd5 18.Rxd5 e4 19.Qd1 Rab8 20.Bc1 Qc3 0-1
