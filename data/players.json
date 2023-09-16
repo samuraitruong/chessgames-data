@@ -3694,7 +3694,8 @@
     "name": "HANSEN, Curt",
     "year": "1977-2016",
     "games": 900,
-    "id": "29852"
+    "id": "29852",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -37533,7 +37534,8 @@
     "name": "OSTROVSKIY, Aleksandr",
     "year": "2008-2022",
     "games": 82,
-    "id": "120532"
+    "id": "120532",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -39763,7 +39765,8 @@
     "name": "KRYUKOVA, Irina",
     "year": "1993-2018",
     "games": 76,
-    "id": "85164"
+    "id": "85164",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -40307,7 +40310,8 @@
     "name": "KIRSCHNER, Alexander",
     "year": "1992-2015",
     "games": 75,
-    "id": "171183"
+    "id": "171183",
+    "synced": true
   },
   {
     "higestRating": 2282,
@@ -85360,7 +85364,8 @@
     "name": "VEGA, Arcadio Cieza",
     "year": "1998-2016",
     "games": 21,
-    "id": "57479"
+    "id": "57479",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -85433,7 +85438,8 @@
     "name": "BAUER, Eckart",
     "year": "1979-2004",
     "games": 21,
-    "id": "62980"
+    "id": "62980",
+    "synced": true
   },
   {
     "higestRating": 2229,
