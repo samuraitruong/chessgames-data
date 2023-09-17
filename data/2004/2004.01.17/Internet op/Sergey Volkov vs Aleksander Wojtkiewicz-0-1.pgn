@@ -1,0 +1,14 @@
+[Event "Internet op"]
+[Site "Internet"]
+[Date "2004.01.17"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Sergey Volkov"]
+[Black "Aleksander Wojtkiewicz"]
+[ECO "E70"]
+[WhiteElo "2630"]
+[BlackElo "2564"]
+[PlyCount "84"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. e5 Ne8 6. f4 d6 7. Be2 c5 8. dxc5 Nc6 9. cxd6 exd6 10. Nf3 Bg4 11. exd6 Nxd6 12. c5 Nf5 13. Qxd8 Raxd8 14. O-O Rfe8 15. Bb5 Bxf3 16. Rxf3 Bd4+ 17. Kh1 Bxc5 18. Rf1 Nfd4 19. Ba4 a6 20. f5 Nxf5 21. Bg5 Be7 22. Bf4 b5 23. Bb3 Ncd4 24. Bd1 Bd6 25. Bg5 Be7 26. Bf4 Bf6 27. Bg4 h5 28. Bh3 Be5 29. Bg5 f6 30. Bf4 Bxf4 31. Rxf4 Kg7 32. Rf2 Ne3 33. g3 f5 34. Re1 Ng4 35. Rff1 Nf2+ 36. Kg2 Nd3 37. Rxe8 Rxe8 38. Rd1 Re3 39. Nd5 Re2+ 40. Kf1 Rf2+ 41. Kg1 Nf3+ 42. Kh1 Rxh2# 0-1
