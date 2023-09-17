@@ -11195,7 +11195,8 @@
     "name": "ZHANG, Pengxiang",
     "year": "1996-2015",
     "games": 339,
-    "id": "51558"
+    "id": "51558",
+    "synced": true
   },
   {
     "higestRating": 2657,
@@ -12554,7 +12555,8 @@
     "name": "HOLM, Kristian Stuvik",
     "year": "2010-2022",
     "games": 300,
-    "id": "129021"
+    "id": "129021",
+    "synced": true
   },
   {
     "higestRating": 2486,
@@ -24810,7 +24812,8 @@
     "name": "MOOR, Roger",
     "year": "1993-2021",
     "games": 138,
-    "id": "61269"
+    "id": "61269",
+    "synced": true
   },
   {
     "higestRating": 2271,
@@ -29127,7 +29130,8 @@
     "name": "BUCHENAU, Frank",
     "year": "1988-2019",
     "games": 112,
-    "id": "99328"
+    "id": "99328",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -42394,7 +42398,8 @@
     "name": "CAMALLONGA, Carles Diaz",
     "year": "2012-2020",
     "games": 70,
-    "id": "139831"
+    "id": "139831",
+    "synced": true
   },
   {
     "higestRating": 2423,
@@ -55320,7 +55325,8 @@
     "name": "MEYER, Falko",
     "year": "1990-2019",
     "games": 47,
-    "id": "115743"
+    "id": "115743",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -59548,7 +59554,8 @@
     "name": "RITVIZ, Parab",
     "year": "2014-2022",
     "games": 42,
-    "id": "151541"
+    "id": "151541",
+    "synced": true
   },
   {
     "higestRating": 2458,
@@ -78241,7 +78248,8 @@
     "name": "SALTZBERG, Mitchell",
     "year": "1943-1985",
     "games": 25,
-    "id": "24406"
+    "id": "24406",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -99922,7 +99930,8 @@
     "name": "DALBERG, Preben",
     "year": "2006-2009",
     "games": 15,
-    "id": "105210"
+    "id": "105210",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -100436,7 +100445,8 @@
     "name": "GINDI, Shachar",
     "year": "2012-2018",
     "games": 15,
-    "id": "139728"
+    "id": "139728",
+    "synced": true
   },
   {
     "higestRating": 2207,
@@ -101701,7 +101711,8 @@
     "name": "LOITERSTEIN, Mariano",
     "year": "1990-2004",
     "games": 12,
-    "id": "58299"
+    "id": "58299",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -104935,7 +104946,8 @@
     "name": "NEDVED, Kimball",
     "year": "1969-1988",
     "games": 4,
-    "id": "28378"
+    "id": "28378",
+    "synced": true
   },
   {
     "higestRating": 2255,
