@@ -1,0 +1,14 @@
+[Event "Bucharest GMT 5th"]
+[Site "Bucharest ROU"]
+[Date "1961.12.??"]
+[EventDate "1961.12.00"]
+[Round "12"]
+[Result "1-0"]
+[White "Corvin Radovici"]
+[Black "Vasile Maxim Georgescu"]
+[ECO "C15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd3 c5 5.exd5 Qxd5 6.Bd2 Bxc3 7.Bxc3 Qxg2 8.Qf3 Qxf3 9.Nxf3 cxd4 10.Nxd4 f6 11.Rg1 Kf7 12.Nb5 Nc6 13.Nd6+ Kf8 14.O-O-O Nge7 15.Bc4 Nd5 16.Bxd5 exd5 17.Rxd5 Rb8 18.Re1 Bg4 19.Nxb7 Re8 20.Na5 Rxe1+ 21.Bxe1 1-0
