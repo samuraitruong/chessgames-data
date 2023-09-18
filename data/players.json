@@ -7544,7 +7544,8 @@
     "name": "GONZALEZ, Guillermo Garcia",
     "year": "1972-1999",
     "games": 500,
-    "id": "81992"
+    "id": "81992",
+    "synced": true
   },
   {
     "higestRating": 2475,
@@ -18754,7 +18755,8 @@
     "name": "GRABUZOVA, Tatiana",
     "year": "1991-2019",
     "games": 194,
-    "id": "27797"
+    "id": "27797",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -25779,7 +25781,8 @@
     "name": "ARIAS, Lemnys Antonio",
     "year": "2001-2022",
     "games": 131,
-    "id": "51404"
+    "id": "51404",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -35649,7 +35652,8 @@
     "name": "ABELN, Michiel",
     "year": "1990-2015",
     "games": 87,
-    "id": "46898"
+    "id": "46898",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -53100,7 +53104,8 @@
     "name": "ZWAHR, Paul",
     "year": "2005-2017",
     "games": 50,
-    "id": "133947"
+    "id": "133947",
+    "synced": true
   },
   {
     "higestRating": 2281,
@@ -81031,7 +81036,8 @@
     "name": "BURES, Jilji",
     "year": "1999-2012",
     "games": 24,
-    "id": "108598"
+    "id": "108598",
+    "synced": true
   },
   {
     "higestRating": 2254,
@@ -90962,7 +90968,8 @@
     "name": "KARSAY, Pascal",
     "year": "2015-2022",
     "games": 19,
-    "id": "157784"
+    "id": "157784",
+    "synced": true
   },
   {
     "higestRating": 2446,
