@@ -2288,7 +2288,8 @@
     "name": "SAVCHENKO, Boris",
     "year": "1998-2023",
     "games": 1181,
-    "id": "69898"
+    "id": "69898",
+    "synced": true
   },
   {
     "higestRating": 2667,
@@ -27659,7 +27660,8 @@
     "name": "LEKIC, Dusan",
     "year": "1990-2019",
     "games": 119,
-    "id": "42573"
+    "id": "42573",
+    "synced": true
   },
   {
     "higestRating": 2284,
@@ -97961,7 +97963,8 @@
     "name": "TORKKOLA, Henri",
     "year": "2012-2022",
     "games": 16,
-    "id": "139034"
+    "id": "139034",
+    "synced": true
   },
   {
     "higestRating": 2245,
