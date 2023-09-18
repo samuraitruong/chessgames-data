@@ -1,0 +1,14 @@
+[Event "Dortmund-ch"]
+[Site "Dortmund"]
+[Date "2005.02.28"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Dennis Kolodziej"]
+[Black "Thomas Henrichs"]
+[ECO "A21"]
+[WhiteElo "1644"]
+[BlackElo "2394"]
+[PlyCount "42"]
+
+1. c4 e5 2. Nc3 Bb4 3. d3 Bxc3+ 4. bxc3 Nc6 5. e4 d6 6. g3 Nge7 7. Bg2 O-O 8. Ne2 f5 9. exf5 Bxf5 10. O-O Qd7 11. f4 Bh3 12. Be3 Bxg2 13. Kxg2 Nf5 14. Bf2 Rae8 15. c5 Kh8 16. cxd6 Qxd6 17. Qc2 exf4 18. Nxf4 Ne5 19. Rae1 Qc6+ 20. Kh3 g5 21. a3 g4# 0-1

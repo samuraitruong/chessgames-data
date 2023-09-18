@@ -4850,7 +4850,8 @@
     "name": "HENRICHS, Thomas",
     "year": "1991-2020",
     "games": 739,
-    "id": "49351"
+    "id": "49351",
+    "synced": true
   },
   {
     "higestRating": 2503,
@@ -29388,7 +29389,8 @@
     "name": "SMIKOVSKI, Ivan",
     "year": "1995-2008",
     "games": 111,
-    "id": "49147"
+    "id": "49147",
+    "synced": true
   },
   {
     "higestRating": 2267,
@@ -32002,7 +32004,8 @@
     "name": "KRABBE, Tim",
     "year": "1958-2000",
     "games": 100,
-    "id": "29553"
+    "id": "29553",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -45633,7 +45636,8 @@
     "name": "RIGO, Zsolt",
     "year": "1997-2019",
     "games": 63,
-    "id": "53468"
+    "id": "53468",
+    "synced": true
   },
   {
     "higestRating": 2453,
@@ -52632,7 +52636,8 @@
     "name": "THORSTEINSSON, Arnar",
     "year": "1988-2022",
     "games": 50,
-    "id": "21357"
+    "id": "21357",
+    "synced": true
   },
   {
     "higestRating": 2325,
