@@ -5777,7 +5777,8 @@
     "name": "SOROKIN, Maxim",
     "year": "1985-2007",
     "games": 644,
-    "id": "16628"
+    "id": "16628",
+    "synced": true
   },
   {
     "higestRating": 2481,
@@ -17545,7 +17546,8 @@
     "name": "IVANOV, Jordan",
     "year": "1988-2014",
     "games": 209,
-    "id": "37961"
+    "id": "37961",
+    "synced": true
   },
   {
     "higestRating": 2505,
@@ -17648,7 +17650,8 @@
     "name": "PIESINA, Gintautas",
     "year": "1968-2009",
     "games": 208,
-    "id": "24689"
+    "id": "24689",
+    "synced": true
   },
   {
     "higestRating": 2478,
@@ -55417,7 +55420,8 @@
     "name": "PHAM, Bich Ngoc",
     "year": "2002-2019",
     "games": 47,
-    "id": "120404"
+    "id": "120404",
+    "synced": true
   },
   {
     "higestRating": 2617,
@@ -103813,7 +103817,8 @@
     "name": "LLAGARIA, Luis Eduardo Ballester",
     "year": "2006-2018",
     "games": 8,
-    "id": "131781"
+    "id": "131781",
+    "synced": true
   },
   {
     "higestRating": 2355,
