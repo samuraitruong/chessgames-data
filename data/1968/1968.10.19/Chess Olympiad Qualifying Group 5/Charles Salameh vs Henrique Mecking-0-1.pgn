@@ -1,0 +1,15 @@
+[Event "Chess Olympiad Qualifying Group 5"]
+[Site "Lugano SUI"]
+[Date "1968.10.19"]
+[EventDate "1968.10.17"]
+[Round "2"]
+[Result "0-1"]
+[White "Charles Salameh"]
+[Black "Henrique Mecking"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "34"]
+
+1.e4 g6 2.d4 Bg7 3.f4 c5 4.c3 d5 5.dxc5 dxe4 6.Qxd8+ Kxd8 7.Bc4 f5 8.Ne2 Nc6 9.Be3 Nf6 10.b4 Ng4 11.Bd4 Bxd4 12.Nxd4 Ne3 13.Nxc6+ bxc6 14.Bf1 Nc2+ 15.Kd2 Nxa1 16.Kc1 a5 17.Kb2 Be6 0-1
