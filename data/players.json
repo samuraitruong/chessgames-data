@@ -4010,7 +4010,8 @@
     "name": "AZAROV, Sergei",
     "year": "1992-2023",
     "games": 850,
-    "id": "17281"
+    "id": "17281",
+    "synced": true
   },
   {
     "higestRating": 2602,
@@ -51181,7 +51182,8 @@
     "name": "RECOULAT, Eduardo Juan",
     "year": "1993-2008",
     "games": 53,
-    "id": "88429"
+    "id": "88429",
+    "synced": true
   },
   {
     "higestRating": 2277,
@@ -71389,7 +71391,8 @@
     "name": "SVICEVIC, Rastko",
     "year": "1993-2021",
     "games": 30,
-    "id": "38802"
+    "id": "38802",
+    "synced": true
   },
   {
     "higestRating": 2322,
@@ -75908,7 +75911,8 @@
     "name": "VYPARINA, Matej",
     "year": "1998-2013",
     "games": 27,
-    "id": "67537"
+    "id": "67537",
+    "synced": true
   },
   {
     "higestRating": 2284,
@@ -80895,7 +80899,8 @@
     "name": "LEWIS, James E",
     "year": "1984-2005",
     "games": 24,
-    "id": "93936"
+    "id": "93936",
+    "synced": true
   },
   {
     "higestRating": 2378,
@@ -84893,7 +84898,8 @@
     "name": "KOVALENKO, Alexander",
     "year": "2000-2003",
     "games": 21,
-    "id": "10865"
+    "id": "10865",
+    "synced": true
   },
   {
     "higestRating": 2289,
@@ -91949,7 +91955,8 @@
     "name": "OKLADNIKOV, Gennady",
     "year": "2001-2003",
     "games": 18,
-    "id": "69285"
+    "id": "69285",
+    "synced": true
   },
   {
     "higestRating": 2311,

@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.17"]
+[EventDate "2022.12.17"]
+[Round "1.16"]
+[Result "1-0"]
+[White "Sergei Azarov"]
+[Black "Dennis Schulz"]
+[ECO "B12"]
+[WhiteElo "2562"]
+[BlackElo "1697"]
+[PlyCount "36"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Qb6 7. Nc3 Nc6 8. O-O Qxb2 9. Qe1 cxd4 10. Bxd4 Nxd4 11. Nxd4 Bb4 12. Ndb5 Bxc3 13. Nxc3 O-O-O 14. Rb1 Qa3 15. Nb5 Qc5 16. Qa5 Qe7 17. Nxa7+ Kd7 18. Bb5# 1-0
