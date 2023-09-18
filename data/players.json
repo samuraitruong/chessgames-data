@@ -7380,7 +7380,8 @@
     "name": "VOTAVA, Jan",
     "year": "1989-2023",
     "games": 505,
-    "id": "19782"
+    "id": "19782",
+    "synced": true
   },
   {
     "higestRating": 2487,
@@ -22170,7 +22171,8 @@
     "name": "CHERNYAK, Viktoria",
     "year": "2012-2021",
     "games": 159,
-    "id": "139703"
+    "id": "139703",
+    "synced": true
   },
   {
     "higestRating": 2508,
@@ -24787,7 +24789,8 @@
     "name": "BARBEAU, Sylvain",
     "year": "1979-2011",
     "games": 138,
-    "id": "42056"
+    "id": "42056",
+    "synced": true
   },
   {
     "higestRating": 2323,
@@ -40225,7 +40228,8 @@
     "name": "ROFES, Lluis Maria Perpinya",
     "year": "1996-2017",
     "games": 75,
-    "id": "117207"
+    "id": "117207",
+    "synced": true
   },
   {
     "higestRating": 2459,
@@ -55294,7 +55298,8 @@
     "name": "GANBOLD, Odondoo",
     "year": "1994-2017",
     "games": 47,
-    "id": "102623"
+    "id": "102623",
+    "synced": true
   },
   {
     "higestRating": 2447,
@@ -78157,7 +78162,8 @@
     "name": "NIEDBALA, Bartlomiej",
     "year": "2017-2023",
     "games": 26,
-    "id": "160036"
+    "id": "160036",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -83220,7 +83226,8 @@
     "name": "GDANSKI, Przemyslaw",
     "year": "1987-1989",
     "games": 22,
-    "id": "30483"
+    "id": "30483",
+    "synced": true
   },
   {
     "higestRating": 2353,
@@ -93068,7 +93075,8 @@
     "name": "HANSEN, Hans-Peter",
     "year": "2011-2019",
     "games": 18,
-    "id": "147698"
+    "id": "147698",
+    "synced": true
   },
   {
     "higestRating": 2288,
@@ -99274,7 +99282,8 @@
     "name": "SCHIPPAN, Bernhard",
     "year": "2000-2007",
     "games": 15,
-    "id": "68736"
+    "id": "68736",
+    "synced": true
   },
   {
     "higestRating": 2310,

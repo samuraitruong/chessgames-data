@@ -1,0 +1,14 @@
+[Event "COQ Open"]
+[Site "Quebec CAN"]
+[Date "2001.07.23"]
+[EventDate "2001.07.21"]
+[Round "4"]
+[Result "0-1"]
+[White "Jean-Philippe Grondin"]
+[Black "Sylvain Barbeau"]
+[ECO "C55"]
+[WhiteElo "2261"]
+[BlackElo "2365"]
+[PlyCount "44"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. Ng5 d5 6. exd5 Qe7+ 7. Qe2 Qxe2+ 8. Kxe2 Ne5 9. Bb3 h6 10. f4 Bg4+ 11. Kf2 hxg5 12. Re1 O-O-O 13. fxe5 Nxd5 14. Bxg5 f6 15. exf6 gxf6 16. Bxd5 Rxd5 17. Re8+ Kd7 18. Rd8+ Kxd8 19. Bxf6+ Be7 20. Bxh8 Rf5+ 21. Kg3 Bd1 22. h4 Bd6+ 0-1
