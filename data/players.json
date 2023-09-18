@@ -9663,7 +9663,8 @@
     "name": "LUKIN, Andrey",
     "year": "1956-2005",
     "games": 395,
-    "id": "37424"
+    "id": "37424",
+    "synced": true
   },
   {
     "higestRating": 2564,
@@ -13490,7 +13491,8 @@
     "name": "MAJDAN, Joanna",
     "year": "1999-2022",
     "games": 278,
-    "id": "95779"
+    "id": "95779",
+    "synced": true
   },
   {
     "higestRating": 2558,
@@ -20919,7 +20921,8 @@
     "name": "KANYAMARALA, Tarun",
     "year": "2018-2023",
     "games": 171,
-    "id": "160553"
+    "id": "160553",
+    "synced": true
   },
   {
     "higestRating": 2387,
@@ -32164,7 +32167,8 @@
     "name": "KUSTER, Zeljko",
     "year": "2015-2019",
     "games": 100,
-    "id": "179087"
+    "id": "179087",
+    "synced": true
   },
   {
     "higestRating": 2513,
@@ -52095,7 +52099,8 @@
     "name": "SHURYGIN, Sergey",
     "year": "1994-2013",
     "games": 51,
-    "id": "56347"
+    "id": "56347",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -70668,7 +70673,8 @@
     "name": "KENDE, Gyorgy",
     "year": "1967-2007",
     "games": 31,
-    "id": "99355"
+    "id": "99355",
+    "synced": true
   },
   {
     "higestRating": 2419,
@@ -91065,7 +91071,8 @@
     "name": "LAJBL, Jan",
     "year": "2022",
     "games": 19,
-    "id": "181888"
+    "id": "181888",
+    "synced": true
   },
   {
     "higestRating": 2307,
@@ -94613,7 +94620,8 @@
     "name": "HOELLMANN, Ludger",
     "year": "1988-2010",
     "games": 17,
-    "id": "102845"
+    "id": "102845",
+    "synced": true
   },
   {
     "higestRating": 2234,
