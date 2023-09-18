@@ -1,0 +1,14 @@
+[Event "Geneve Open"]
+[Site "Geneve SUI"]
+[Date "1996.01.21"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Olav Berrig"]
+[Black "Fabrice Liardet"]
+[ECO "B01"]
+[WhiteElo "2020"]
+[BlackElo "2355"]
+[PlyCount "38"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.Be2 Bxe2 5.Nxe2 Qxd5 6.O-O Nc6 7.Na3 O-O-O 8.c4 Qe4 9.Nc2 e6 10.f3 Qg6 11.Bd2 Nxd4 12.Ncxd4 Bc5 13.Qa4 Qd3 14.Be1 Qxe2 15.Bf2 Bxd4 16.Bxd4 Rxd4 17.Rfe1 Qxc4 18.Qxa7 Qa4 19.Qc5 Rd5 0-1
