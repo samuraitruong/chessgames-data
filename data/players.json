@@ -355,7 +355,8 @@
     "name": "BRONSTEIN, David",
     "year": "1938-1997",
     "games": 2365,
-    "id": "16521"
+    "id": "16521",
+    "synced": true
   },
   {
     "higestRating": 2751,
@@ -16763,7 +16764,8 @@
     "name": "SAPI, Laszlo",
     "year": "1963-1998",
     "games": 219,
-    "id": "29053"
+    "id": "29053",
+    "synced": true
   },
   {
     "higestRating": 2520,
@@ -39379,7 +39381,8 @@
     "name": "TODOROVIC, Goran N",
     "year": "1980-2023",
     "games": 77,
-    "id": "60164"
+    "id": "60164",
+    "synced": true
   },
   {
     "higestRating": 2471,
@@ -61206,7 +61209,8 @@
     "name": "GILLEN, Adrian",
     "year": "1992-2001",
     "games": 40,
-    "id": "89387"
+    "id": "89387",
+    "synced": true
   },
   {
     "higestRating": 2260,
