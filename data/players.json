@@ -12877,7 +12877,8 @@
     "name": "NIKOLAEVSKY, Yuri",
     "year": "1955-1995",
     "games": 292,
-    "id": "43502"
+    "id": "43502",
+    "synced": true
   },
   {
     "higestRating": 2283,
@@ -16569,7 +16570,8 @@
     "name": "BULSKI, Krzysztof",
     "year": "2003-2019",
     "games": 222,
-    "id": "111549"
+    "id": "111549",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -20139,7 +20141,8 @@
     "name": "ANNABERDIEV, Meilis",
     "year": "2001-2023",
     "games": 179,
-    "id": "53982"
+    "id": "53982",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -47795,7 +47798,8 @@
     "name": "MALISOV, Boris",
     "year": "1963-2017",
     "games": 59,
-    "id": "91159"
+    "id": "91159",
+    "synced": true
   },
   {
     "higestRating": 2411,
@@ -52858,7 +52862,8 @@
     "name": "DOMINGUEZ, Roberto Paramos",
     "year": "1990-2015",
     "games": 50,
-    "id": "56141"
+    "id": "56141",
+    "synced": true
   },
   {
     "higestRating": 2262,
@@ -53015,7 +53020,8 @@
     "name": "GUPTA, Milon",
     "year": "1986-2018",
     "games": 50,
-    "id": "92908"
+    "id": "92908",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -61361,7 +61367,8 @@
     "name": "SEDAMANOS, Hector Bravo",
     "year": "1973-1995",
     "games": 40,
-    "id": "108067"
+    "id": "108067",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -66015,7 +66022,8 @@
     "name": "INSFRAN, Jorge Vera",
     "year": "1999-2005",
     "games": 35,
-    "id": "91122"
+    "id": "91122",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -67469,7 +67477,8 @@
     "name": "ARCUTI, Davide",
     "year": "2012-2023",
     "games": 34,
-    "id": "139967"
+    "id": "139967",
+    "synced": true
   },
   {
     "higestRating": 2326,
@@ -73432,7 +73441,8 @@
     "name": "STOCK, Lara",
     "year": "2002-2006",
     "games": 29,
-    "id": "98732"
+    "id": "98732",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -91259,7 +91269,8 @@
     "name": "DENIS, Laurent",
     "year": "1989-2017",
     "games": 18,
-    "id": "13868"
+    "id": "13868",
+    "synced": true
   },
   {
     "higestRating": 2340,
