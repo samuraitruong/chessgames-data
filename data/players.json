@@ -1657,7 +1657,8 @@
     "name": "DE FIRMIAN, Nick",
     "year": "1973-2022",
     "games": 1399,
-    "id": "15656"
+    "id": "15656",
+    "synced": true
   },
   {
     "higestRating": 2608,
@@ -26258,7 +26259,8 @@
     "name": "ILJUSHINA, Olga",
     "year": "2000-2023",
     "games": 128,
-    "id": "121629"
+    "id": "121629",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -30332,7 +30334,8 @@
     "name": "HEINZEL, Olaf",
     "year": "1989-2019",
     "games": 107,
-    "id": "56984"
+    "id": "56984",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -30777,7 +30780,8 @@
     "name": "JOACHIM, Sven",
     "year": "1988-2018",
     "games": 105,
-    "id": "38638"
+    "id": "38638",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -35740,7 +35744,8 @@
     "name": "BERGSTROM, Christer",
     "year": "1975-2004",
     "games": 87,
-    "id": "48438"
+    "id": "48438",
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -43388,7 +43393,8 @@
     "name": "MOSTERTMAN, Milan",
     "year": "2008-2013",
     "games": 68,
-    "id": "118697"
+    "id": "118697",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -43456,7 +43462,8 @@
     "name": "JOGSTAD, Martin",
     "year": "2013-2021",
     "games": 68,
-    "id": "148694"
+    "id": "148694",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -71776,7 +71783,8 @@
     "name": "DAVIDOV, Samir",
     "year": "1999-2019",
     "games": 30,
-    "id": "65807"
+    "id": "65807",
+    "synced": true
   },
   {
     "higestRating": 2646,
@@ -73325,7 +73333,8 @@
     "name": "TREMBLAY, Rejean",
     "year": "2004-2019",
     "games": 29,
-    "id": "89403"
+    "id": "89403",
+    "synced": true
   },
   {
     "higestRating": 2202,
@@ -79356,7 +79365,8 @@
     "name": "ANKUDINOVA, Yelena",
     "year": "2004-2017",
     "games": 25,
-    "id": "88958"
+    "id": "88958",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -102081,7 +102091,8 @@
     "name": "DOREN, Dennis M",
     "year": "1990-2016",
     "games": 12,
-    "id": "90632"
+    "id": "90632",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -102254,7 +102265,8 @@
     "name": "CHUMBE, German Gonzalo Quirhuayo",
     "year": "2017-2021",
     "games": 12,
-    "id": "158631"
+    "id": "158631",
+    "synced": true
   },
   {
     "higestRating": 2245,
