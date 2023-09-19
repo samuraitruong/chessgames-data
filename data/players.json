@@ -8043,7 +8043,8 @@
     "name": "KLINOVA, Masha",
     "year": "1992-2022",
     "games": 472,
-    "id": "41588"
+    "id": "41588",
+    "synced": true
   },
   {
     "higestRating": 2578,
@@ -26948,7 +26949,8 @@
     "name": "LEVEILLE, Francois",
     "year": "1978-2014",
     "games": 123,
-    "id": "22561"
+    "id": "22561",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -31570,7 +31572,8 @@
     "name": "BJELOBRK, Igor",
     "year": "1998-2022",
     "games": 102,
-    "id": "51336"
+    "id": "51336",
+    "synced": true
   },
   {
     "higestRating": 2399,
@@ -42714,7 +42717,8 @@
     "name": "ARNASON, Throstur",
     "year": "1986-2017",
     "games": 69,
-    "id": "28120"
+    "id": "28120",
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -55035,7 +55039,8 @@
     "name": "SURJADNJI, Aleksei",
     "year": "1996-2001",
     "games": 47,
-    "id": "49120"
+    "id": "49120",
+    "synced": true
   },
   {
     "higestRating": 2348,
@@ -57809,7 +57814,8 @@
     "name": "GROVE, Peter",
     "year": "2006-2019",
     "games": 44,
-    "id": "105175"
+    "id": "105175",
+    "synced": true
   },
   {
     "higestRating": 2209,
@@ -58980,7 +58986,8 @@
     "name": "ZAITSEV, Vadim",
     "year": "1991-2008",
     "games": 42,
-    "id": "12400"
+    "id": "12400",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -60753,7 +60760,8 @@
     "name": "LIANG, Jason",
     "year": "2017-2023",
     "games": 41,
-    "id": "162450"
+    "id": "162450",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -67661,7 +67669,8 @@
     "name": "FAGIOLINI, Marco Gorelli",
     "year": "1995-2000",
     "games": 34,
-    "id": "174250"
+    "id": "174250",
+    "synced": true
   },
   {
     "higestRating": 2219,
@@ -76856,7 +76865,8 @@
     "name": "STUMMER, Anton",
     "year": "1988-1994",
     "games": 26,
-    "id": "17134"
+    "id": "17134",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -79895,7 +79905,8 @@
     "name": "LE, Quang Long",
     "year": "2012-2023",
     "games": 25,
-    "id": "137174"
+    "id": "137174",
+    "synced": true
   },
   {
     "higestRating": 2221,
@@ -88499,7 +88510,8 @@
     "name": "KOZIREV, Alexander",
     "year": "1983-2016",
     "games": 20,
-    "id": "123316"
+    "id": "123316",
+    "synced": true
   },
   {
     "higestRating": 2334,
@@ -92209,7 +92221,8 @@
     "name": "FLOREA, Dan",
     "year": "1995-2017",
     "games": 18,
-    "id": "82246"
+    "id": "82246",
+    "synced": true
   },
   {
     "higestRating": 2320,
