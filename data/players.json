@@ -3381,7 +3381,8 @@
     "name": "ZAGREBELNY, Sergey",
     "year": "1983-2019",
     "games": 956,
-    "id": "18891"
+    "id": "18891",
+    "synced": true
   },
   {
     "higestRating": 2667,
@@ -14812,7 +14813,8 @@
     "name": "GRABCZEWSKI, Romuald",
     "year": "1953-1987",
     "games": 252,
-    "id": "28939"
+    "id": "28939",
+    "synced": true
   },
   {
     "higestRating": 2565,
@@ -16747,7 +16749,8 @@
     "name": "AHMADZADA, Ahmad",
     "year": "2016-2023",
     "games": 220,
-    "id": "154706"
+    "id": "154706",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -26803,7 +26806,8 @@
     "name": "DRAGOJLOVIC, Andjelko",
     "year": "1990-2021",
     "games": 124,
-    "id": "52870"
+    "id": "52870",
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -32041,7 +32045,8 @@
     "name": "PODKRIZNIK, Gregor",
     "year": "1994-2018",
     "games": 100,
-    "id": "40782"
+    "id": "40782",
+    "synced": true
   },
   {
     "higestRating": 2345,
@@ -55244,7 +55249,8 @@
     "name": "KHOUSEINOV, Rashid",
     "year": "1993-2010",
     "games": 47,
-    "id": "79540"
+    "id": "79540",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -72963,7 +72969,8 @@
     "name": "PASSONI, Carlo",
     "year": "1988-2006",
     "games": 29,
-    "id": "53829"
+    "id": "53829",
+    "synced": true
   },
   {
     "higestRating": 2303,
@@ -92247,7 +92254,8 @@
     "name": "GIBNEY, Eugene J",
     "year": "2000-2009",
     "games": 18,
-    "id": "88175"
+    "id": "88175",
+    "synced": true
   },
   {
     "higestRating": 2289,
