@@ -1,0 +1,14 @@
+[Event "Platonov mem"]
+[Site "Kiev UKR"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Mikhail Golubev"]
+[Black "Vladimir Sergeev"]
+[ECO "B02"]
+[WhiteElo "2525"]
+[BlackElo "2415"]
+[PlyCount "36"]
+
+1.e4 Nf6 2.Nc3 Nc6 3.d4 d5 4.e5 Nd7 5.e6 fxe6 6.Nf3 e5 7.Nxd5 exd4 8.Bc4 e6 9.Bg5 Nf6 10.Qe2 Kf7 11.Nf4 Qd6 12.O-O Nd5 13.Rae1 h6 14.Nxd5 hxg5 15.Nxg5+ Kg8 16.g3 b5 17.Qf3 Rh6 18.Nf7 1-0
