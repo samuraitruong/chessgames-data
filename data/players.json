@@ -10403,7 +10403,8 @@
     "name": "ALEXIEVA, Silvia",
     "year": "1990-2019",
     "games": 367,
-    "id": "89205"
+    "id": "89205",
+    "synced": true
   },
   {
     "higestRating": 2592,
@@ -11514,7 +11515,8 @@
     "name": "ABERGEL, Thal",
     "year": "1998-2022",
     "games": 329,
-    "id": "51933"
+    "id": "51933",
+    "synced": true
   },
   {
     "higestRating": 2535,
@@ -18549,7 +18551,8 @@
     "name": "KESTLER, Hans-Guenther",
     "year": "1961-2006",
     "games": 197,
-    "id": "21496"
+    "id": "21496",
+    "synced": true
   },
   {
     "higestRating": 2418,
@@ -27717,7 +27720,8 @@
     "name": "GENGLER, Pierre",
     "year": "2001-2022",
     "games": 119,
-    "id": "51590"
+    "id": "51590",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -41818,7 +41822,8 @@
     "name": "BECKER, Martin Alexander",
     "year": "1999-2012",
     "games": 71,
-    "id": "52152"
+    "id": "52152",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -49122,7 +49127,8 @@
     "name": "STILLGER, Bernhard",
     "year": "1989-2018",
     "games": 56,
-    "id": "26748"
+    "id": "26748",
+    "synced": true
   },
   {
     "higestRating": 2233,
@@ -54194,7 +54200,8 @@
     "name": "BOBULA, Mateusz",
     "year": "1998-2014",
     "games": 48,
-    "id": "54718"
+    "id": "54718",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -58008,7 +58015,8 @@
     "name": "BELOUS, Mikhail",
     "year": "2013-2019",
     "games": 44,
-    "id": "155101"
+    "id": "155101",
+    "synced": true
   },
   {
     "higestRating": 2236,
@@ -96256,7 +96264,8 @@
     "name": "MACSIK, Tamas",
     "year": "2001-2003",
     "games": 16,
-    "id": "49238"
+    "id": "49238",
+    "synced": true
   },
   {
     "higestRating": 2332,

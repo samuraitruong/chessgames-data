@@ -1,0 +1,14 @@
+[Event "29th ECh U20"]
+[Site "Patras GRE"]
+[Date "2001.07.17"]
+[EventDate "2001.07.16"]
+[Round "2"]
+[Result "1-0"]
+[White "Le Roux, Jean-Pierre"]
+[Black "Pierre Gengler"]
+[ECO "B30"]
+[WhiteElo "2285"]
+[BlackElo "2023"]
+[PlyCount "46"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Na5 4.c3 a6 5.Be2 Nf6 6.e5 Nd5 7.d4 cxd4 8.O-O e6 9.cxd4 Qc7 10.Nbd2 Be7 11.Ne4 O-O 12.Bd3 f5 13.exf6 Nxf6 14.Bg5 Nd5 15.Rc1 Qd8 16.Qd2 b6 17.Ne5 Bb7 18.Bxe7 Qxe7 19.Ng5 Nf6 20.Rc7 Bc6 21.Qc2 h6 22. Bh7+ Kh8 23.Ng6# 1-0
