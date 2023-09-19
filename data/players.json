@@ -2596,7 +2596,8 @@
     "name": "GIRYA, Olga",
     "year": "2001-2022",
     "games": 1118,
-    "id": "105120"
+    "id": "105120",
+    "synced": true
   },
   {
     "higestRating": 2601,
@@ -19995,7 +19996,8 @@
     "name": "DJUKIC, Sandra",
     "year": "2001-2023",
     "games": 180,
-    "id": "49625"
+    "id": "49625",
+    "synced": true
   },
   {
     "higestRating": 2423,
@@ -40907,7 +40909,8 @@
     "name": "RICHTROVA, Eliska",
     "year": "1979-2008",
     "games": 73,
-    "id": "41554"
+    "id": "41554",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -63363,7 +63366,8 @@
     "name": "SVETLOV, Dmitry",
     "year": "2006-2018",
     "games": 38,
-    "id": "130688"
+    "id": "130688",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -67678,7 +67682,8 @@
     "name": "ALMIRON, Luis",
     "year": "2007-2012",
     "games": 34,
-    "id": "162133"
+    "id": "162133",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -83064,7 +83069,8 @@
     "name": "PROUDIAN, Armen",
     "year": "2012-2018",
     "games": 23,
-    "id": "139889"
+    "id": "139889",
+    "synced": true
   },
   {
     "higestRating": 2335,
