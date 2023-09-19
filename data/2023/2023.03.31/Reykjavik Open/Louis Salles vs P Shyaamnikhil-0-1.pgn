@@ -1,0 +1,14 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2023.03.31"]
+[EventDate "2023.03.29"]
+[Round "4.11"]
+[Result "0-1"]
+[White "Louis Salles"]
+[Black "P Shyaamnikhil"]
+[ECO "E20"]
+[WhiteElo "2287"]
+[BlackElo "2477"]
+[PlyCount "40"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 O-O 5. a3 Bxc3+ 6. bxc3 d5 7. cxd5 exd5 8. e3 Bf5 9. Ne2 Re8 10. g4 Bxg4 11. fxg4 Nxg4 12. Ng3 Nxe3 13. Bxe3 Rxe3+ 14. Kd2 Qg5 15. Kc2 c5 16. dxc5 Nc6 17. Bg2 Qf6 18. Qd2 d4 19. Ne4 Qg6 20. cxd4 Re2 0-1

@@ -4328,7 +4328,8 @@
     "name": "ROBSON, Ray",
     "year": "2004-2023",
     "games": 793,
-    "id": "93903"
+    "id": "93903",
+    "synced": true
   },
   {
     "higestRating": 2540,
@@ -17434,7 +17435,8 @@
     "name": "LENIART, Arkadiusz",
     "year": "2001-2022",
     "games": 211,
-    "id": "54732"
+    "id": "54732",
+    "synced": true
   },
   {
     "higestRating": 2578,
@@ -49399,7 +49401,8 @@
     "name": "BOEHM, Martin",
     "year": "1978-2017",
     "games": 56,
-    "id": "71129"
+    "id": "71129",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -49979,7 +49982,8 @@
     "name": "VISTISEN, Lars",
     "year": "1989-2017",
     "games": 55,
-    "id": "60032"
+    "id": "60032",
+    "synced": true
   },
   {
     "higestRating": 2349,
@@ -55863,7 +55867,8 @@
     "name": "KARLIK, Vladimir",
     "year": "1991-2013",
     "games": 46,
-    "id": "51481"
+    "id": "51481",
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -62492,7 +62497,8 @@
     "name": "SIDDHARTH, Jagadeesh",
     "year": "2018-2022",
     "games": 39,
-    "id": "162542"
+    "id": "162542",
+    "synced": true
   },
   {
     "higestRating": 2319,
@@ -65256,7 +65262,8 @@
     "name": "SALLES, Louis",
     "year": "2012-2023",
     "games": 36,
-    "id": "149296"
+    "id": "149296",
+    "synced": true
   },
   {
     "higestRating": 2250,
