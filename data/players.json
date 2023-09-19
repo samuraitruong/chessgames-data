@@ -3264,7 +3264,8 @@
     "name": "BRONSTEIN, Luis Marcos",
     "year": "1965-2012",
     "games": 980,
-    "id": "42629"
+    "id": "42629",
+    "synced": true
   },
   {
     "higestRating": 2593,
@@ -12309,7 +12310,8 @@
     "name": "BELLAHCENE, Bilel",
     "year": "2005-2023",
     "games": 306,
-    "id": "117615"
+    "id": "117615",
+    "synced": true
   },
   {
     "higestRating": 2513,
@@ -21103,7 +21105,8 @@
     "name": "BABIY, Olga",
     "year": "2001-2021",
     "games": 169,
-    "id": "65976"
+    "id": "65976",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -48061,7 +48064,8 @@
     "name": "VOVSHA, Eli",
     "year": "1997-2014",
     "games": 58,
-    "id": "50455"
+    "id": "50455",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -54761,7 +54765,8 @@
     "name": "PIOTROWSKI, Przemyslaw",
     "year": "2016-2022",
     "games": 48,
-    "id": "160139"
+    "id": "160139",
+    "synced": true
   },
   {
     "higestRating": 2226,
