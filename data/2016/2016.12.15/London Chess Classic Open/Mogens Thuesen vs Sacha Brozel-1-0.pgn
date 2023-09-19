@@ -1,0 +1,14 @@
+[Event "London Chess Classic Open"]
+[Site "London ENG"]
+[Date "2016.12.15"]
+[EventDate "2016.12.09"]
+[Round "8.72"]
+[Result "1-0"]
+[White "Mogens Thuesen"]
+[Black "Sacha Brozel"]
+[ECO "B40"]
+[WhiteElo "2212"]
+[BlackElo "2035"]
+[PlyCount "45"]
+
+1. e4 c5 2. Nf3 e6 3. b4 b6 4. bxc5 bxc5 5. Nc3 Nc6 6. Bb5 Nge7 7. O-O g6 8. Ba3 d6 9. e5 Bg7 10. Ne4 dxe5 11. Bxc5 Qd5 12. Re1 f5 13. c4 Qd7 14. Nd6+ Kf8 15. Nxe5 Bxe5 16. Rxe5 Kg7 17. Qe2 Rd8 18. Nxc8 Raxc8 19. Rxe6 Re8 20. Re1 Kf7 21. Rd6 Qc7 22. Qe6+ Kg7 23. Rd7 1-0
