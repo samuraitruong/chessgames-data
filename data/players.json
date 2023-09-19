@@ -554,7 +554,8 @@
     "name": "DZAGNIDZE, Nana",
     "year": "1995-2023",
     "games": 2049,
-    "id": "50064"
+    "id": "50064",
+    "synced": true
   },
   {
     "higestRating": 2600,
@@ -31815,7 +31816,8 @@
     "name": "LEHTIVAARA, Petri",
     "year": "1986-2012",
     "games": 101,
-    "id": "19624"
+    "id": "19624",
+    "synced": true
   },
   {
     "higestRating": 2271,
