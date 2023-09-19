@@ -9012,7 +9012,8 @@
     "name": "LIANG, Awonder",
     "year": "2011-2023",
     "games": 419,
-    "id": "131477"
+    "id": "131477",
+    "synced": true
   },
   {
     "higestRating": 2438,
@@ -9418,7 +9419,8 @@
     "name": "ARTEAGA, Eldis Cobo",
     "year": "1952-1978",
     "games": 403,
-    "id": "28698"
+    "id": "28698",
+    "synced": true
   },
   {
     "higestRating": 2231,
@@ -21109,7 +21111,8 @@
     "name": "KOPINITS, Anna-Christina",
     "year": "1998-2019",
     "games": 169,
-    "id": "56884"
+    "id": "56884",
+    "synced": true
   },
   {
     "higestRating": 2388,
@@ -22490,7 +22493,8 @@
     "name": "GRIFFITHS, Ryan Rhys",
     "year": "2006-2019",
     "games": 157,
-    "id": "87576"
+    "id": "87576",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -49012,7 +49016,8 @@
     "name": "KUCZA, Karol",
     "year": "2013-2021",
     "games": 57,
-    "id": "158866"
+    "id": "158866",
+    "synced": true
   },
   {
     "higestRating": 2384,
