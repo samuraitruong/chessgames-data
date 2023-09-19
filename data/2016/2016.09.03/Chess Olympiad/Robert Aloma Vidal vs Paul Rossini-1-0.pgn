@@ -1,0 +1,14 @@
+[Event "Chess Olympiad"]
+[Site "Baku AZE"]
+[Date "2016.09.03"]
+[EventDate "2016.09.02"]
+[Round "2.65"]
+[Result "1-0"]
+[White "Robert Aloma Vidal"]
+[Black "Paul Rossini"]
+[ECO "C62"]
+[WhiteElo "2482"]
+[BlackElo "1692"]
+[PlyCount "42"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Nc3 Nge7 6. O-O a6 7. Be2 exd4 8. Nxd4 g6 9. Bg5 Bg7 10. Nd5 Nxd4 11. Bxe7 Nxe2+ 12. Qxe2 Qc8 13. e5 dxe5 14. Bf6 Bxf6 15. Nxf6+ Ke7 16. Qxe5+ Be6 17. Nd5+ Kd7 18. Rad1 Bxd5 19. Rxd5+ Kc6 20. Rfd1 Qe6 21. Qc3+ Kb6 1-0
