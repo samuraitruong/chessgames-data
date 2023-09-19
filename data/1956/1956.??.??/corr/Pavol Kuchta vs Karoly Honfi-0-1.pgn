@@ -1,0 +1,14 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1956.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Pavol Kuchta"]
+[Black "Karoly Honfi"]
+[ECO "D86"]
+[WhiteElo "?"]
+[BlackElo "2390"]
+[PlyCount "36"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 cxd4 9.cxd4 Nc6 10.Be3 Qa5+ 11.Bd2 Qa3 12.Rb1 O-O 13.d5 Ne5 14.Bb4 Qf3 15.O-O Qxe4 16.Bb5 Rd8 17.Nc3 Qh4 18.Be2 Bf5 0-1
