@@ -4504,7 +4504,8 @@
     "name": "KISS, Attila",
     "year": "1982-2023",
     "games": 775,
-    "id": "50810"
+    "id": "50810",
+    "synced": true
   },
   {
     "higestRating": 2469,
@@ -9261,7 +9262,8 @@
     "name": "MATNADZE, Ana",
     "year": "1995-2022",
     "games": 409,
-    "id": "51599"
+    "id": "51599",
+    "synced": true
   },
   {
     "higestRating": 2444,
@@ -55448,7 +55450,8 @@
     "name": "GOLDWASER, Christian",
     "year": "2004-2009",
     "games": 47,
-    "id": "96637"
+    "id": "96637",
+    "synced": true
   },
   {
     "higestRating": 2225,
