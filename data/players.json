@@ -4395,7 +4395,8 @@
     "name": "YAKOVICH, Yuri",
     "year": "1985-2019",
     "games": 787,
-    "id": "15942"
+    "id": "15942",
+    "synced": true
   },
   {
     "higestRating": 2506,
@@ -25192,7 +25193,8 @@
     "name": "KULASHKO, Aleksei",
     "year": "1995-2018",
     "games": 136,
-    "id": "61503"
+    "id": "61503",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -50182,7 +50184,8 @@
     "name": "POKAZANJEV, Nikolai",
     "year": "2002-2011",
     "games": 55,
-    "id": "97205"
+    "id": "97205",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -58744,7 +58747,8 @@
     "name": "NIKOLAEV, Nikita",
     "year": "1997-2010",
     "games": 43,
-    "id": "94491"
+    "id": "94491",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -68509,7 +68513,8 @@
     "name": "KRAIOUCHKINE, Nikita",
     "year": "2006-2012",
     "games": 33,
-    "id": "105080"
+    "id": "105080",
+    "synced": true
   },
   {
     "higestRating": 2469,
@@ -69070,7 +69075,8 @@
     "name": "ROSEN, Bernd",
     "year": "1988-2015",
     "games": 32,
-    "id": "38305"
+    "id": "38305",
+    "synced": true
   },
   {
     "higestRating": 2373,
@@ -72530,7 +72536,8 @@
     "name": "ARAMUNI, Jorge Elias",
     "year": "1984-1998",
     "games": 30,
-    "id": "149825"
+    "id": "149825",
+    "synced": true
   },
   {
     "higestRating": 2382,
@@ -74303,7 +74310,8 @@
     "name": "WESTERMEIER, Arnulf",
     "year": "1966-2017",
     "games": 28,
-    "id": "28084"
+    "id": "28084",
+    "synced": true
   },
   {
     "higestRating": 2412,
@@ -90611,7 +90619,8 @@
     "name": "STEPHAN, Ulrich",
     "year": "1997-2007",
     "games": 19,
-    "id": "105481"
+    "id": "105481",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -97314,7 +97323,8 @@
     "name": "VAN TRICHT, Marcel",
     "year": "1998-2016",
     "games": 16,
-    "id": "90317"
+    "id": "90317",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -100228,7 +100238,8 @@
     "name": "KOLAS, Tore",
     "year": "2005-2017",
     "games": 15,
-    "id": "100406"
+    "id": "100406",
+    "synced": true
   },
   {
     "higestRating": 2206,
