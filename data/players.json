@@ -4174,7 +4174,8 @@
     "name": "BOK, Benjamin",
     "year": "2007-2023",
     "games": 822,
-    "id": "113413"
+    "id": "113413",
+    "synced": true
   },
   {
     "higestRating": 2640,
@@ -14649,7 +14650,8 @@
     "name": "IOTOV, Valentin",
     "year": "1990-2019",
     "games": 255,
-    "id": "48980"
+    "id": "48980",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -66009,7 +66011,8 @@
     "name": "WISNIEWSKI, Adrian",
     "year": "1999-2021",
     "games": 35,
-    "id": "91819"
+    "id": "91819",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -78166,7 +78169,8 @@
     "name": "ERZHANOV, Arman",
     "year": "1999-2016",
     "games": 26,
-    "id": "148628"
+    "id": "148628",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -106337,7 +106341,8 @@
     "name": "POWELL, Paul",
     "year": "1989-1990",
     "games": 2,
-    "id": "123893"
+    "id": "123893",
+    "synced": true
   },
   {
     "higestRating": 2204,
