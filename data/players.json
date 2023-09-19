@@ -20426,7 +20426,8 @@
     "name": "VIDARSSON, Jon Gardar",
     "year": "1986-2005",
     "games": 176,
-    "id": "29108"
+    "id": "29108",
+    "synced": true
   },
   {
     "higestRating": 2532,
@@ -24255,7 +24256,8 @@
     "name": "NILSSEN, John Arni",
     "year": "1993-2017",
     "games": 143,
-    "id": "49746"
+    "id": "49746",
+    "synced": true
   },
   {
     "higestRating": 2389,
@@ -24530,7 +24532,8 @@
     "name": "KOSAKOWSKI, Jakub",
     "year": "2012-2023",
     "games": 141,
-    "id": "142125"
+    "id": "142125",
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -30413,7 +30416,8 @@
     "name": "SVESHNIKOV, Vladimir",
     "year": "2001-2020",
     "games": 107,
-    "id": "127311"
+    "id": "127311",
+    "synced": true
   },
   {
     "higestRating": 2462,
@@ -30894,7 +30898,8 @@
     "name": "MOEN, Ole Christian",
     "year": "1972-2016",
     "games": 105,
-    "id": "64016"
+    "id": "64016",
+    "synced": true
   },
   {
     "higestRating": 2362,
@@ -39239,7 +39244,8 @@
     "name": "ZHELESNY, Stanislav",
     "year": "1992-2016",
     "games": 77,
-    "id": "12380"
+    "id": "12380",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -52504,7 +52510,8 @@
     "name": "CARBONE, Diego",
     "year": "2009-2019",
     "games": 51,
-    "id": "124384"
+    "id": "124384",
+    "synced": true
   },
   {
     "higestRating": 2443,
@@ -53719,7 +53726,8 @@
     "name": "DIAZ, Jose Antonio Lacasa",
     "year": "1992-2023",
     "games": 49,
-    "id": "88075"
+    "id": "88075",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -56923,7 +56931,8 @@
     "name": "LLOYD, Adrian",
     "year": "1978-2001",
     "games": 45,
-    "id": "106348"
+    "id": "106348",
+    "synced": true
   },
   {
     "higestRating": 2436,
@@ -61868,7 +61877,8 @@
     "name": "HULSE, Brian",
     "year": "1972-2008",
     "games": 39,
-    "id": "32708"
+    "id": "32708",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -67592,7 +67602,8 @@
     "name": "WIKNER, Arvid",
     "year": "1991-2016",
     "games": 34,
-    "id": "152133"
+    "id": "152133",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -68309,7 +68320,8 @@
     "name": "UMANSKY, Vladimir",
     "year": "1972-2004",
     "games": 33,
-    "id": "94516"
+    "id": "94516",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -71055,7 +71067,8 @@
     "name": "WEBER, Ulrich",
     "year": "1991-2019",
     "games": 31,
-    "id": "121755"
+    "id": "121755",
+    "synced": true
   },
   {
     "higestRating": 2228,
@@ -72153,7 +72166,8 @@
     "name": "AXELROD, Arie",
     "year": "2005-2014",
     "games": 30,
-    "id": "106705"
+    "id": "106705",
+    "synced": true
   },
   {
     "higestRating": 2333,
@@ -88182,7 +88196,8 @@
     "name": "ORLINKOV, Maxim L",
     "year": "1994-2018",
     "games": 20,
-    "id": "98254"
+    "id": "98254",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -98588,7 +98603,8 @@
     "name": "BOCK, Steffen",
     "year": "2020",
     "games": 16,
-    "id": "195561"
+    "id": "195561",
+    "synced": true
   },
   {
     "higestRating": 2499,
@@ -99707,7 +99723,8 @@
     "name": "HOLVING, Rasmus",
     "year": "1996-2011",
     "games": 15,
-    "id": "84560"
+    "id": "84560",
+    "synced": true
   },
   {
     "higestRating": 2240,

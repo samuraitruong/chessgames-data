@@ -1,0 +1,14 @@
+[Event "XS08A"]
+[Site "Internet Chess Club"]
+[Date "2004.03.08"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jose Antonio Lacasa Diaz"]
+[Black "Eric Schiller"]
+[ECO "B06"]
+[WhiteElo "2435"]
+[BlackElo "2653"]
+[PlyCount "12"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 c5 4.Nf3 Qa5 5.Bc4 cxd4 6.Nxd4 Qc5 0-1
