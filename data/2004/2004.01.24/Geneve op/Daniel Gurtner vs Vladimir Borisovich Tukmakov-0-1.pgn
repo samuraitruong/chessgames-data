@@ -1,0 +1,14 @@
+[Event "Geneve op"]
+[Site "Geneve"]
+[Date "2004.01.24"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Daniel Gurtner"]
+[Black "Vladimir Borisovich Tukmakov"]
+[ECO "B98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7 9.O-O-O h6 10.Bh4 Nbd7 11.Bd3 b5 12.e5 Bb7 13.Nxe6 0-1
