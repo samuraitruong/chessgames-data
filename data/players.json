@@ -12258,7 +12258,8 @@
     "name": "CONTIN, Daniel",
     "year": "1980-2022",
     "games": 308,
-    "id": "20717"
+    "id": "20717",
+    "synced": true
   },
   {
     "higestRating": 2450,
@@ -14524,7 +14525,8 @@
     "name": "ALONSO, Salvador",
     "year": "1994-2019",
     "games": 258,
-    "id": "20995"
+    "id": "20995",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -19326,7 +19328,8 @@
     "name": "CHEMIN, Vitorio",
     "year": "1972-2017",
     "games": 189,
-    "id": "89226"
+    "id": "89226",
+    "synced": true
   },
   {
     "higestRating": 2569,
@@ -30625,7 +30628,8 @@
     "name": "CLARA, Hans-Joachim",
     "year": "1972-2000",
     "games": 106,
-    "id": "30758"
+    "id": "30758",
+    "synced": true
   },
   {
     "higestRating": 2222,
@@ -41682,7 +41686,8 @@
     "name": "MALMSTIG, Erik",
     "year": "1992-2023",
     "games": 72,
-    "id": "78334"
+    "id": "78334",
+    "synced": true
   },
   {
     "higestRating": 2352,
@@ -77376,7 +77381,8 @@
     "name": "ERIKSSON, Mats",
     "year": "1986-2002",
     "games": 26,
-    "id": "34774"
+    "id": "34774",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -79315,7 +79321,8 @@
     "name": "OUAKHIR, Mehdi",
     "year": "2001-2023",
     "games": 25,
-    "id": "56569"
+    "id": "56569",
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -97102,7 +97109,8 @@
     "name": "BORKOVEC, Milan",
     "year": "1994-2019",
     "games": 16,
-    "id": "64133"
+    "id": "64133",
+    "synced": true
   },
   {
     "higestRating": 2282,
@@ -99358,7 +99366,8 @@
     "name": "KAZILARIS, Nikolaos",
     "year": "1968-2004",
     "games": 15,
-    "id": "43573"
+    "id": "43573",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -99848,7 +99857,8 @@
     "name": "EVANGELISTI, Claudio",
     "year": "1980-1981",
     "games": 15,
-    "id": "64938"
+    "id": "64938",
+    "synced": true
   },
   {
     "higestRating": 2357,
