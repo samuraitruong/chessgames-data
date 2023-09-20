@@ -1,0 +1,14 @@
+[Event "Online game"]
+[Site "Online game"]
+[Date "2009.02.14"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Bill Wall"]
+[ECO "A51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. f3 Qh4+ 5. g3 Bb4+ 6. Nd2 Nxg3 7. hxg3 Qxg3# 0-1

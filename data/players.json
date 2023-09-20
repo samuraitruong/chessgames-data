@@ -9449,7 +9449,8 @@
     "name": "WALL, Bill",
     "year": "1969-2023",
     "games": 403,
-    "id": "32393"
+    "id": "32393",
+    "synced": true
   },
   {
     "higestRating": 2616,
@@ -16147,7 +16148,8 @@
     "name": "JACKSON, James P",
     "year": "2009-2023",
     "games": 229,
-    "id": "128646"
+    "id": "128646",
+    "synced": true
   },
   {
     "higestRating": 2505,
@@ -20208,7 +20210,8 @@
     "name": "CARSTENSEN, Jacob",
     "year": "1997-2017",
     "games": 179,
-    "id": "64342"
+    "id": "64342",
+    "synced": true
   },
   {
     "higestRating": 2496,
@@ -26535,7 +26538,8 @@
     "name": "SEHNER, Norbert",
     "year": "1981-1996",
     "games": 126,
-    "id": "28123"
+    "id": "28123",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -33649,7 +33653,8 @@
     "name": "KUINDZHY, Alexander",
     "year": "1961-2016",
     "games": 95,
-    "id": "118479"
+    "id": "118479",
+    "synced": true
   },
   {
     "higestRating": 2269,
@@ -43683,7 +43688,8 @@
     "name": "WINTZER, Joachim",
     "year": "1988-2014",
     "games": 67,
-    "id": "26349"
+    "id": "26349",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -87677,7 +87683,8 @@
     "name": "DESEATNICOV, Ivan",
     "year": "1998-2002",
     "games": 20,
-    "id": "53046"
+    "id": "53046",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -98335,7 +98342,8 @@
     "name": "VILA, Milena Campos",
     "year": "2009-2010",
     "games": 16,
-    "id": "134307"
+    "id": "134307",
+    "synced": true
   },
   {
     "higestRating": 2307,
