@@ -887,7 +887,8 @@
     "name": "SJUGIROV, Sanan",
     "year": "2003-2023",
     "games": 1776,
-    "id": "95905"
+    "id": "95905",
+    "synced": true
   },
   {
     "higestRating": 2493,
@@ -24322,7 +24323,8 @@
     "name": "POLGAR, Istvan",
     "year": "1963-1988",
     "games": 143,
-    "id": "41838"
+    "id": "41838",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -99069,7 +99071,8 @@
     "name": "BARCLAY, Wayne",
     "year": "1981-2007",
     "games": 15,
-    "id": "22558"
+    "id": "22558",
+    "synced": true
   },
   {
     "higestRating": 2299,
