@@ -1,0 +1,14 @@
+[Event "AUS-op"]
+[Site "Scarborough, Perth AUS"]
+[Date "2023.01.07"]
+[EventDate "2023.01.02"]
+[Round "8.3"]
+[Result "1-0"]
+[White "James Morris"]
+[Black "Dusan Stojic"]
+[ECO "B51"]
+[WhiteElo "2456"]
+[BlackElo "2219"]
+[PlyCount "32"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.Ba4 Nf6 5.O-O Nxe4 6.Re1 d5 7.c4 Nf6 8.d4 dxc4 9.Nc3 cxd4 10.Nb5 e6 11.Bf4 Nd5 12.Qxd4 Qf6 13.Be5 Nxe5 14.Rxe5 Bd7 15.Qxd5 Rc8 16.Qxb7 1-0

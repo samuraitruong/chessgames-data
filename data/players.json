@@ -19546,7 +19546,8 @@
     "name": "VAISMAN, Volodia",
     "year": "1961-2008",
     "games": 185,
-    "id": "13872"
+    "id": "13872",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -22191,7 +22192,8 @@
     "name": "BOGDANOV, Egor",
     "year": "2015-2022",
     "games": 160,
-    "id": "153640"
+    "id": "153640",
+    "synced": true
   },
   {
     "higestRating": 2314,
@@ -24841,7 +24843,8 @@
     "name": "LILOV, Valeri",
     "year": "2001-2013",
     "games": 139,
-    "id": "54734"
+    "id": "54734",
+    "synced": true
   },
   {
     "higestRating": 2307,
@@ -29173,7 +29176,8 @@
     "name": "EGIN, Vladimir",
     "year": "1973-2021",
     "games": 112,
-    "id": "30763"
+    "id": "30763",
+    "synced": true
   },
   {
     "higestRating": 2345,
@@ -43395,7 +43399,8 @@
     "name": "URIBE, Mauricio",
     "year": "1996-2011",
     "games": 68,
-    "id": "53122"
+    "id": "53122",
+    "synced": true
   },
   {
     "higestRating": 2512,
@@ -45660,7 +45665,8 @@
     "name": "EYNULLAYEV, Atilla",
     "year": "2016-2023",
     "games": 64,
-    "id": "156099"
+    "id": "156099",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -47409,7 +47415,8 @@
     "name": "STOJIC, Dusan",
     "year": "2001-2023",
     "games": 60,
-    "id": "58805"
+    "id": "58805",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -49126,7 +49133,8 @@
     "name": "CORNEJO, Max",
     "year": "2002-2018",
     "games": 57,
-    "id": "124500"
+    "id": "124500",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -49259,7 +49267,8 @@
     "name": "TRAVADON, Loic",
     "year": "2017-2023",
     "games": 57,
-    "id": "160499"
+    "id": "160499",
+    "synced": true
   },
   {
     "higestRating": 2243,
@@ -55434,7 +55443,8 @@
     "name": "DOLGOV, Igor",
     "year": "1988-2014",
     "games": 47,
-    "id": "64264"
+    "id": "64264",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -65182,7 +65192,8 @@
     "name": "JANTURIN, Artur",
     "year": "1996-2010",
     "games": 36,
-    "id": "94508"
+    "id": "94508",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -67498,7 +67509,8 @@
     "name": "TOFTE, Sondre Waage",
     "year": "2006-2009",
     "games": 34,
-    "id": "105170"
+    "id": "105170",
+    "synced": true
   },
   {
     "higestRating": 2213,
@@ -69400,7 +69412,8 @@
     "name": "PORTH, Hartmut",
     "year": "1980-2005",
     "games": 32,
-    "id": "54091"
+    "id": "54091",
+    "synced": true
   },
   {
     "higestRating": 2219,
@@ -79772,7 +79785,8 @@
     "name": "KUTUZOV, Denis",
     "year": "1997-2015",
     "games": 25,
-    "id": "94520"
+    "id": "94520",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -85446,7 +85460,8 @@
     "name": "HODAK, Stevo",
     "year": "1995-2001",
     "games": 21,
-    "id": "24743"
+    "id": "24743",
+    "synced": true
   },
   {
     "higestRating": 2259,
@@ -94413,7 +94428,8 @@
     "name": "TOVIO, Israel",
     "year": "2000-2015",
     "games": 17,
-    "id": "53149"
+    "id": "53149",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -98669,7 +98685,8 @@
     "name": "AMINA, Battsooj",
     "year": "2016",
     "games": 16,
-    "id": "154429"
+    "id": "154429",
+    "synced": true
   },
   {
     "higestRating": 2345,
@@ -102735,7 +102752,8 @@
     "name": "CHOOBAK, Khosrow",
     "year": "1983-1989",
     "games": 11,
-    "id": "15529"
+    "id": "15529",
+    "synced": true
   },
   {
     "higestRating": 2308,
