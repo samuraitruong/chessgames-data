@@ -1,0 +1,14 @@
+[Event "51st US Open"]
+[Site "Detroit, MI USA"]
+[Date "1950.07.18"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Robert Morris"]
+[Black "Edgar Thomas McCormick"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6 7.O-O O-O 8.c3 Bg4 9.Nbd2 f5 10.Re1 c6 11.Nf1 Nd7 12.Ne3 Bxh2+ 13.Kxh2 Nxf2 14.Qe2 Nxd3 15.Rh1 Nxc1 16.Raxc1 Qe7 17.Kg1 Rae8 18.Kf2 f4 19.Rce1 Bxf3 20.gxf3 Qxe3+ 21.Qxe3 fxe3+ 22.Rxe3 Nf6 0-1
