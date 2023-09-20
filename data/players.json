@@ -1298,7 +1298,8 @@
     "name": "TORRE, Eugenio",
     "year": "1968-2019",
     "games": 1531,
-    "id": "15793"
+    "id": "15793",
+    "synced": true
   },
   {
     "higestRating": 2590,
@@ -74730,7 +74731,8 @@
     "name": "ENIGL, Karl",
     "year": "1974-2003",
     "games": 28,
-    "id": "55144"
+    "id": "55144",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -100099,7 +100101,8 @@
     "name": "ZHACHEV, A",
     "year": "1988-1990",
     "games": 15,
-    "id": "86881"
+    "id": "86881",
+    "synced": true
   },
   {
     "higestRating": 2205,
