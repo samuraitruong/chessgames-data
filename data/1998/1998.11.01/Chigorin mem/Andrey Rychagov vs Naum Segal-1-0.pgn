@@ -1,0 +1,14 @@
+[Event "Chigorin mem"]
+[Site "St Petersburg"]
+[Date "1998.11.01"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Andrey Rychagov"]
+[Black "Naum Segal"]
+[ECO "A40"]
+[WhiteElo "2485"]
+[BlackElo "2145"]
+[PlyCount "48"]
+
+1. d4 c6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 Nf6 6. e3 O-O 7. h3 Bf5 8. Be2 Nbd7 9. O-O h6 10. Rc1 g5 11. Bg3 e6 12. Nd2 Ne8 13. cxd5 exd5 14. Qb3 Qb6 15. Na4 Qa5 16. Nc3 b5 17. Bxb5 cxb5 18. Qxd5 Bd3 19. Qxa8 Bxf1 20. Nxf1 Nb6 21. Qc6 a6 22. Nd2 Na4 23. Nb3 Qb4 24. Nd5 1-0
