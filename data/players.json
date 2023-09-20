@@ -10587,7 +10587,8 @@
     "name": "HASANGATIN, Ramil",
     "year": "1992-2018",
     "games": 361,
-    "id": "49072"
+    "id": "49072",
+    "synced": true
   },
   {
     "higestRating": 2595,
@@ -20747,7 +20748,8 @@
     "name": "DROZDOWSKI, Kacper",
     "year": "2003-2022",
     "games": 174,
-    "id": "128383"
+    "id": "128383",
+    "synced": true
   },
   {
     "higestRating": 2217,
@@ -34532,7 +34534,8 @@
     "name": "FYLLINGEN, Roy Harald",
     "year": "1990-2005",
     "games": 91,
-    "id": "29129"
+    "id": "29129",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -40063,7 +40066,8 @@
     "name": "BENGTSSON, Bo",
     "year": "1972-1985",
     "games": 76,
-    "id": "140665"
+    "id": "140665",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -45820,7 +45824,8 @@
     "name": "MALYSHEVA, Polina",
     "year": "2001-2006",
     "games": 63,
-    "id": "54857"
+    "id": "54857",
+    "synced": true
   },
   {
     "higestRating": 2279,
@@ -46585,14 +46590,16 @@
     "name": "COSTIGAN, Richard",
     "year": "1977-2017",
     "games": 61,
-    "id": "10201"
+    "id": "10201",
+    "synced": true
   },
   {
     "higestRating": 2244,
     "name": "ANDERTON, Matthew N",
     "year": "1992-2012",
     "games": 61,
-    "id": "14114"
+    "id": "14114",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -46895,7 +46902,8 @@
     "name": "ELARABI, Abobker Mohamed",
     "year": "2002-2021",
     "games": 61,
-    "id": "85287"
+    "id": "85287",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -51248,7 +51256,8 @@
     "name": "MUHREN, Willem",
     "year": "2000-2009",
     "games": 53,
-    "id": "50917"
+    "id": "50917",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -54468,7 +54477,8 @@
     "name": "STAVRIANAKIS, Ioannis",
     "year": "2003-2011",
     "games": 48,
-    "id": "81416"
+    "id": "81416",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -62712,7 +62722,8 @@
     "name": "JANOCHA, Wieslaw",
     "year": "1986-2006",
     "games": 38,
-    "id": "18199"
+    "id": "18199",
+    "synced": true
   },
   {
     "higestRating": 2363,
@@ -84757,7 +84768,8 @@
     "name": "BILIC, Vladimir",
     "year": "2007-2019",
     "games": 22,
-    "id": "127941"
+    "id": "127941",
+    "synced": true
   },
   {
     "higestRating": 2259,
