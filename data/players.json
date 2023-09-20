@@ -12143,7 +12143,8 @@
     "name": "NEUBAUER, Martin",
     "year": "1962-2017",
     "games": 310,
-    "id": "32249"
+    "id": "32249",
+    "synced": true
   },
   {
     "higestRating": 2540,
@@ -12787,7 +12788,8 @@
     "name": "VOLZHIN, Alexander",
     "year": "1991-2005",
     "games": 296,
-    "id": "27721"
+    "id": "27721",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -27725,7 +27727,8 @@
     "name": "BAILET, Pierre",
     "year": "2004-2023",
     "games": 120,
-    "id": "130290"
+    "id": "130290",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -45103,7 +45106,8 @@
     "name": "GESKE, Julian",
     "year": "2001-2014",
     "games": 65,
-    "id": "128176"
+    "id": "128176",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -46232,7 +46236,8 @@
     "name": "APARICIO, Anibal",
     "year": "1973-2012",
     "games": 62,
-    "id": "20694"
+    "id": "20694",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -55487,7 +55492,8 @@
     "name": "FOJUDZKA, Anna",
     "year": "1994-2003",
     "games": 47,
-    "id": "68636"
+    "id": "68636",
+    "synced": true
   },
   {
     "higestRating": 2399,
@@ -59863,7 +59869,8 @@
     "name": "SOARES, Erikson Roberto Mauricio",
     "year": "2007-2018",
     "games": 42,
-    "id": "131311"
+    "id": "131311",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -68978,7 +68985,8 @@
     "name": "MUSHORE, Emarald Takudzwa",
     "year": "2014-2022",
     "games": 33,
-    "id": "150762"
+    "id": "150762",
+    "synced": true
   },
   {
     "higestRating": 2209,
@@ -89344,7 +89352,8 @@
     "name": "VAISBERG, Michael",
     "year": "2014-2015",
     "games": 20,
-    "id": "150606"
+    "id": "150606",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -93300,7 +93309,8 @@
     "name": "BIRJUKOV, Sergey",
     "year": "1973-2014",
     "games": 18,
-    "id": "121428"
+    "id": "121428",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -103607,7 +103617,8 @@
     "name": "GOULOUTIS, Nikolaos",
     "year": "2012-2018",
     "games": 10,
-    "id": "139850"
+    "id": "139850",
+    "synced": true
   },
   {
     "higestRating": 2296,

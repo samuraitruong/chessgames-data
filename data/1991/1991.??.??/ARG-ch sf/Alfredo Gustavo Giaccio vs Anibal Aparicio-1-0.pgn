@@ -1,0 +1,14 @@
+[Event "ARG-ch sf"]
+[Site "ARG"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Alfredo Gustavo Giaccio"]
+[Black "Anibal Aparicio"]
+[ECO "B46"]
+[WhiteElo "2325"]
+[BlackElo "2330"]
+[PlyCount "43"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e6 4.d4 cxd4 5.Nxd4 a6 6.Be3 Nge7 7.Nb3 b5 8.Bc5 Bb7 9.Qd2 Ne5 10.Bd6 f6 11.a4 Nf7 12.Bb4 a5 13.Bxe7 Bxe7 14.Bxb5 Bb4 15.O-O-O Nd6 16.Qf4 Qc7 17.Qg3 O-O 18.f3 Rac8 19.Rd3 Nxb5 20.axb5 Qb6 21.Rxd7 Bxc3 22.Qxg7# 1-0
