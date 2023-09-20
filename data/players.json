@@ -2693,7 +2693,8 @@
     "name": "RANTANEN, Yrjo",
     "year": "1971-2019",
     "games": 1102,
-    "id": "17892"
+    "id": "17892",
+    "synced": true
   },
   {
     "higestRating": 2613,
@@ -25003,7 +25004,8 @@
     "name": "BRAMEYER, Hermann",
     "year": "1957-2006",
     "games": 138,
-    "id": "68578"
+    "id": "68578",
+    "synced": true
   },
   {
     "higestRating": 2456,
@@ -42579,7 +42581,8 @@
     "name": "VOIGT, Martin",
     "year": "1990-2020",
     "games": 70,
-    "id": "69558"
+    "id": "69558",
+    "synced": true
   },
   {
     "higestRating": 2202,
@@ -45328,7 +45331,8 @@
     "name": "MATHE, Gaspar",
     "year": "1979-2014",
     "games": 64,
-    "id": "33516"
+    "id": "33516",
+    "synced": true
   },
   {
     "higestRating": 2302,
