@@ -8071,7 +8071,8 @@
     "name": "SEGAL, Alexandru Sorin",
     "year": "1966-2008",
     "games": 472,
-    "id": "33545"
+    "id": "33545",
+    "synced": true
   },
   {
     "higestRating": 2432,
@@ -10569,7 +10570,8 @@
     "name": "TSUBOI, Edson Kenji",
     "year": "1980-2011",
     "games": 363,
-    "id": "92467"
+    "id": "92467",
+    "synced": true
   },
   {
     "higestRating": 2532,
@@ -40538,7 +40540,8 @@
     "name": "KOPYLOV, Alexander A",
     "year": "2000-2022",
     "games": 75,
-    "id": "117793"
+    "id": "117793",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -65204,7 +65207,8 @@
     "name": "KOVAR, Vojtech",
     "year": "1996-2017",
     "games": 36,
-    "id": "84862"
+    "id": "84862",
+    "synced": true
   },
   {
     "higestRating": 2207,
@@ -74770,7 +74774,8 @@
     "name": "POLIAKOV, Dmitry",
     "year": "1997-2002",
     "games": 28,
-    "id": "51580"
+    "id": "51580",
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -89828,7 +89833,8 @@
     "name": "GRIEGO, David",
     "year": "1980-1994",
     "games": 19,
-    "id": "27016"
+    "id": "27016",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -101404,7 +101410,8 @@
     "name": "POPOV, Kirill",
     "year": "2015-2016",
     "games": 15,
-    "id": "154690"
+    "id": "154690",
+    "synced": true
   },
   {
     "higestRating": 2304,
