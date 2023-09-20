@@ -1,0 +1,14 @@
+[Event "PRO Chess League (Knock-Out)"]
+[Site "chess.com INT"]
+[Date "2017.03.15"]
+[EventDate "2017.03.01"]
+[Round "3"]
+[Result "0-1"]
+[White "Elias Oussedik"]
+[Black "Sandro Mareco"]
+[ECO "E10"]
+[WhiteElo "2155"]
+[BlackElo "2664"]
+[PlyCount "42"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. e3 Bd6 5. Nc3 O-O 6. Qc2 c5 7. cxd5 exd5 8. Nb5 cxd4 9. Nxd6 Qxd6 10. Nxd4 Nc6 11. Nxc6 bxc6 12. Bd3 Re8 13. h3 c5 14. O-O c4 15. Be2 Ne4 16. Bd2 Bf5 17. Qc1 Re6 18. Bc3 Rg6 19. Kh1 Rh6 20. Bf3 Bxh3 21. Bxe4 Bf5+ 0-1
