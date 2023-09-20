@@ -1946,7 +1946,8 @@
     "name": "IVANOVIC, Bozidar",
     "year": "1963-2018",
     "games": 1277,
-    "id": "14795"
+    "id": "14795",
+    "synced": true
   },
   {
     "higestRating": 2650,
@@ -20282,7 +20283,8 @@
     "name": "DE SANTIS, Alessio",
     "year": "1989-2023",
     "games": 178,
-    "id": "54013"
+    "id": "54013",
+    "synced": true
   },
   {
     "higestRating": 2652,
@@ -20332,7 +20334,8 @@
     "name": "VUCIC, Mladen",
     "year": "1983-2012",
     "games": 177,
-    "id": "14524"
+    "id": "14524",
+    "synced": true
   },
   {
     "higestRating": 2475,
@@ -28132,7 +28135,8 @@
     "name": "LI, Zunian",
     "year": "1980-2006",
     "games": 117,
-    "id": "18965"
+    "id": "18965",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -46335,7 +46339,8 @@
     "name": "GOMEZ, Manuel Granados",
     "year": "1991-2017",
     "games": 62,
-    "id": "55373"
+    "id": "55373",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -53877,7 +53882,8 @@
     "name": "SPECK, Nicholas",
     "year": "1989-2006",
     "games": 49,
-    "id": "91696"
+    "id": "91696",
+    "synced": true
   },
   {
     "higestRating": 2268,
@@ -65808,7 +65814,8 @@
     "name": "SOBURA, Henryk",
     "year": "1985-1989",
     "games": 35,
-    "id": "44616"
+    "id": "44616",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -97669,7 +97676,8 @@
     "name": "WINKLER, Thorsten",
     "year": "1993-2007",
     "games": 16,
-    "id": "97554"
+    "id": "97554",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -107322,7 +107330,8 @@
     "name": "REPIN, Ilia",
     "year": "2000",
     "games": 1,
-    "id": "131936"
+    "id": "131936",
+    "synced": true
   },
   {
     "higestRating": 2359,
