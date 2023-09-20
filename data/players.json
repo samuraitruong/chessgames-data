@@ -3086,7 +3086,8 @@
     "name": "AVERBAKH, Yuri",
     "year": "1938-2007",
     "games": 1014,
-    "id": "20559"
+    "id": "20559",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -8965,7 +8966,8 @@
     "name": "BRAUN, Arik",
     "year": "1997-2022",
     "games": 423,
-    "id": "50268"
+    "id": "50268",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -18098,7 +18100,8 @@
     "name": "DANAILOV, Silvio",
     "year": "1980-2016",
     "games": 203,
-    "id": "10916"
+    "id": "10916",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -22740,7 +22743,8 @@
     "name": "PULKKINEN, Kari",
     "year": "1983-2022",
     "games": 155,
-    "id": "15693"
+    "id": "15693",
+    "synced": true
   },
   {
     "higestRating": 2394,
@@ -80893,7 +80897,8 @@
     "name": "ZIN, Aung Thant",
     "year": "1993-2001",
     "games": 24,
-    "id": "47362"
+    "id": "47362",
+    "synced": true
   },
   {
     "higestRating": 2338,
@@ -82809,7 +82814,8 @@
     "name": "SIMEONOV, Stefan",
     "year": "1989-2013",
     "games": 23,
-    "id": "94623"
+    "id": "94623",
+    "synced": true
   },
   {
     "higestRating": 2326,
@@ -94872,7 +94878,8 @@
     "name": "JANAK, Jaroslav",
     "year": "1974-1981",
     "games": 17,
-    "id": "82681"
+    "id": "82681",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -107239,7 +107246,8 @@
     "name": "BAEZ, Luis Alonso",
     "year": "2003",
     "games": 1,
-    "id": "81985"
+    "id": "81985",
+    "synced": true
   },
   {
     "higestRating": 2260,
