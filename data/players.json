@@ -6887,7 +6887,8 @@
     "name": "WIECZOREK, Oskar",
     "year": "2003-2023",
     "games": 541,
-    "id": "117701"
+    "id": "117701",
+    "synced": true
   },
   {
     "higestRating": 2580,
@@ -14847,7 +14848,8 @@
     "name": "TAN, Justin",
     "year": "2003-2022",
     "games": 253,
-    "id": "134352"
+    "id": "134352",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -19238,7 +19240,8 @@
     "name": "GRITSAK, Orest",
     "year": "1993-2019",
     "games": 189,
-    "id": "25189"
+    "id": "25189",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -35750,7 +35753,8 @@
     "name": "ZHIKHAREV, Valery",
     "year": "1986-2022",
     "games": 88,
-    "id": "189724"
+    "id": "189724",
+    "synced": true
   },
   {
     "higestRating": 2241,
@@ -36610,7 +36614,8 @@
     "name": "SEGA, Carlos Alberto",
     "year": "1984-2021",
     "games": 85,
-    "id": "99986"
+    "id": "99986",
+    "synced": true
   },
   {
     "higestRating": 2449,

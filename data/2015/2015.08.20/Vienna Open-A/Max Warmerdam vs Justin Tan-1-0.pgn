@@ -1,0 +1,14 @@
+[Event "Vienna Open-A"]
+[Site "Vienna AUT"]
+[Date "2015.08.20"]
+[EventDate "2015.08.15"]
+[Round "6"]
+[Result "1-0"]
+[White "Max Warmerdam"]
+[Black "Justin Tan"]
+[ECO "C11"]
+[WhiteElo "2236"]
+[BlackElo "2421"]
+[PlyCount "39"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 f5 8.Nc3 a6 9.g3 b5 10.Bg2 Bb7 11.O-O c5 12.d5 O-O 13.dxe6 fxe6 14.Re1 Qb6 15.Qe2 Bc8 16.Nd5 exd5 17.Qxe7 Nc6 18.Qg5+ Kh8 19.Qh6 Bb7 20.Re7 1-0

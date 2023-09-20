@@ -1,0 +1,14 @@
+[Event "Vienna Chess Open 2015 Group A"]
+[Site "Vienna AUT"]
+[Date "2015.08.21"]
+[EventDate "2015.08.15"]
+[Round "7"]
+[Result "1-0"]
+[White "Justin Tan"]
+[Black "Augusto Caruso"]
+[ECO "C18"]
+[WhiteElo "2421"]
+[BlackElo "2251"]
+[PlyCount "44"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 cxd4 8.Qxg7 Rg8 9.Qxh7 Qc7 10.Ne2 Nbc6 11.f4 dxc3 12.h4 b6 13.h5 Ba6 14.h6 Bxe2 15.Bxe2 Rxg2 16.Qh8+ Ng8 17.Kf1 Rg6 18.Bd3 Rg4 19.Rg1 Rxg1+ 20.Kxg1 O-O-O 21.h7 Nce7 22.Qg7 1-0
