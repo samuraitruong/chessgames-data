@@ -549,7 +549,8 @@
     "name": "BOLOGAN, Victor",
     "year": "1988-2022",
     "games": 2051,
-    "id": "14216"
+    "id": "14216",
+    "synced": true
   },
   {
     "higestRating": 2573,
@@ -20183,7 +20184,8 @@
     "name": "PRUDNIKOVA, Svetlana",
     "year": "1985-2022",
     "games": 179,
-    "id": "24851"
+    "id": "24851",
+    "synced": true
   },
   {
     "higestRating": 2359,
@@ -35505,7 +35507,8 @@
     "name": "ROGOVSKI, Vladimir",
     "year": "1996-2007",
     "games": 88,
-    "id": "24784"
+    "id": "24784",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -35970,7 +35973,8 @@
     "name": "KILGUS, Georg",
     "year": "1995-2023",
     "games": 87,
-    "id": "86500"
+    "id": "86500",
+    "synced": true
   },
   {
     "higestRating": 2289,
@@ -40205,7 +40209,8 @@
     "name": "TSARUK, Maksim",
     "year": "2015-2023",
     "games": 76,
-    "id": "155871"
+    "id": "155871",
+    "synced": true
   },
   {
     "higestRating": 2222,
@@ -41443,7 +41448,8 @@
     "name": "LIU, Wenzhe",
     "year": "1965-2000",
     "games": 72,
-    "id": "11048"
+    "id": "11048",
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -47434,7 +47440,8 @@
     "name": "HULSHOF, Peter",
     "year": "1994-2013",
     "games": 60,
-    "id": "56128"
+    "id": "56128",
+    "synced": true
   },
   {
     "higestRating": 2276,
@@ -73267,7 +73274,8 @@
     "name": "PETUKHOV, Valery",
     "year": "1971-2005",
     "games": 29,
-    "id": "49146"
+    "id": "49146",
+    "synced": true
   },
   {
     "higestRating": 2359,
