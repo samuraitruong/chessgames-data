@@ -1,0 +1,14 @@
+[Event "Chigorin mem open"]
+[Site "St. Petersburg RUS"]
+[Date "2001.10.28"]
+[EventDate "2001.10.26"]
+[Round "3"]
+[Result "1-0"]
+[White "Alexey A Feoktistov"]
+[Black "Sergei Reutsky"]
+[ECO "B22"]
+[WhiteElo "2363"]
+[BlackElo "2239"]
+[PlyCount "43"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 g6 6. Nbd2 cxd4 7. Bc4 Qd6 8. Qb3 e6 9. Nxd4 Bg7 10. Nb5 Qc5 11. Nf3 Ng4 12. O-O a6 13. h3 Ne5 14. Nxe5 Qxe5 15. Nd4 b5 16. Be2 O-O 17. Bf3 Ra7 18. Be3 Rc7 19. a4 bxa4 20. Qxb8 Bb7 21. Qa7 Bxf3 22. Nxf3 1-0
