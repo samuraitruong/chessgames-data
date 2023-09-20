@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.14"]
+[EventDate "2020.08.14"]
+[Round "1"]
+[Result "0-1"]
+[White "Lara Janzelj"]
+[Black "Rosa Ratsma"]
+[ECO "E06"]
+[WhiteElo "2183"]
+[BlackElo "2306"]
+[Source "Chess-Results"]
+[PlyCount "56"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Nc3 Nc6 8. e4 Rb8 9. Be3 a6 10. d5 exd5 11. exd5 Nb4 12. Ne5 Bf5 13. a3 Nc2 14. Rc1 Nxe3 15. fxe3 Bg6 16. Nxc4 Re8 17. b4 Bf8 18. Qd4 Qe7 19. Rce1 Rbd8 20. e4 c5 21. Qe3 cxb4 22. axb4 Qxb4 23. Qd3 Rc8 24. Rc1 Qxc4 25. Qf3 Nxe4 26. Nxe4 Qxc1 27. Rxc1 Rxc1+ 28. Bf1 Bxe4 0-1

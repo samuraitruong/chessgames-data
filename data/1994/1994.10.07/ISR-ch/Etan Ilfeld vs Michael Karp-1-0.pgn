@@ -1,0 +1,14 @@
+[Event "ISR-ch"]
+[Site "ISR"]
+[Date "1994.10.07"]
+[EventDate "1994.10.02"]
+[Round "5"]
+[Result "1-0"]
+[White "Etan Ilfeld"]
+[Black "Michael Karp"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "2260"]
+[PlyCount "44"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Ne5 Bf5 8.c3 e6 9.g4 Bg6 10.h4 Nd7 11.Nxd7 Qxd7 12.h5 Be4 13.f3 Bd5 14.c4 Bxf3 15.Qxf3 Bb4+ 16.Bd2 Bxd2+ 17.Kxd2 Qxd4+ 18.Kc2 O-O 19.Rb1 Qc5 20.h6 Rad8 21.hxg7 Kxg7 22.Bd3 1-0
