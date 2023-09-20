@@ -1121,7 +1121,8 @@
     "name": "FRIDMAN, Daniel",
     "year": "1991-2023",
     "games": 1617,
-    "id": "42773"
+    "id": "42773",
+    "synced": true
   },
   {
     "higestRating": 2702,
@@ -42689,7 +42690,8 @@
     "name": "REDDY, M Chakravarthi",
     "year": "2014-2022",
     "games": 70,
-    "id": "151539"
+    "id": "151539",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -44657,7 +44659,8 @@
     "name": "NAGPAL, Vardaan",
     "year": "2016-2023",
     "games": 66,
-    "id": "155988"
+    "id": "155988",
+    "synced": true
   },
   {
     "higestRating": 2347,
@@ -46110,7 +46113,8 @@
     "name": "QIU, Mengjie",
     "year": "2012-2023",
     "games": 63,
-    "id": "138057"
+    "id": "138057",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -49907,7 +49911,8 @@
     "name": "TERRIE, Henry L",
     "year": "1982-2011",
     "games": 55,
-    "id": "18865"
+    "id": "18865",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -50543,7 +50548,8 @@
     "name": "SHAHADE, Michael",
     "year": "1969-2008",
     "games": 54,
-    "id": "15621"
+    "id": "15621",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -85360,7 +85366,8 @@
     "name": "OSTL, Andreas",
     "year": "1985-2000",
     "games": 21,
-    "id": "15154"
+    "id": "15154",
+    "synced": true
   },
   {
     "higestRating": 2314,
@@ -85579,7 +85586,8 @@
     "name": "SANDMEIER, Toni",
     "year": "1978-2015",
     "games": 21,
-    "id": "38287"
+    "id": "38287",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -106746,7 +106754,8 @@
     "name": "CHAMPION, Chris",
     "year": "2003",
     "games": 2,
-    "id": "105452"
+    "id": "105452",
+    "synced": true
   },
   {
     "higestRating": 2202,

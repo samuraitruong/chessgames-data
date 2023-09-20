@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.16"]
+[EventDate "2022.12.16"]
+[Round "12.11"]
+[Result "0-1"]
+[White "Daniel Fridman"]
+[Black "Oskar Wieczorek"]
+[ECO "E90"]
+[WhiteElo "2602"]
+[BlackElo "2504"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 c5 4. d5 Bg7 5. Nc3 O-O 6. e4 d6 7. h3 e6 8. Bd3 Na6 9. O-O Nc7 10. a4 e5 11. Bg5 h6 12. Be3 Na6 13. Qd2 Kh7 14. Nh2 Nb4 15. Be2 Ne8 16. Rae1 f5 17. exf5 gxf5 18. f4 e4 19. g4 Qh4 20. Kg2 Bd4 21. Nd1 Ng7 22. Bxd4 cxd4 23. Qxb4 d3 24. Ne3 Rg8 25. Rf2 dxe2 26. Rexe2 Nh5 27. Nhf1 fxg4 28. Qxd6 g3 29. Ng4 Bxg4 30. hxg4 gxf2 31. Qd7+ Kh8 32. g5 Nxf4# 0-1
