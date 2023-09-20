@@ -422,7 +422,8 @@
     "name": "PSAKHIS, Lev",
     "year": "1977-2021",
     "games": 2261,
-    "id": "11059"
+    "id": "11059",
+    "synced": true
   },
   {
     "higestRating": 2702,
@@ -9903,7 +9904,8 @@
     "name": "ZILI, Wang",
     "year": "1987-2011",
     "games": 388,
-    "id": "10839"
+    "id": "10839",
+    "synced": true
   },
   {
     "higestRating": 2563,
@@ -18964,7 +18966,8 @@
     "name": "FISH, Gennadij",
     "year": "1981-2021",
     "games": 193,
-    "id": "49258"
+    "id": "49258",
+    "synced": true
   },
   {
     "higestRating": 2481,
@@ -31252,7 +31255,8 @@
     "name": "HEIM, Sverre",
     "year": "1972-2006",
     "games": 104,
-    "id": "49515"
+    "id": "49515",
+    "synced": true
   },
   {
     "higestRating": 2436,
@@ -43538,7 +43542,8 @@
     "name": "COCCHI, Andrea",
     "year": "1977-2015",
     "games": 68,
-    "id": "98950"
+    "id": "98950",
+    "synced": true
   },
   {
     "higestRating": 2261,
@@ -44448,7 +44453,8 @@
     "name": "RAUPP, Thomas",
     "year": "1975-2018",
     "games": 66,
-    "id": "74001"
+    "id": "74001",
+    "synced": true
   },
   {
     "higestRating": 2234,
@@ -103362,7 +103368,8 @@
     "name": "JUGOW, Alexander",
     "year": "1993-2006",
     "games": 10,
-    "id": "46410"
+    "id": "46410",
+    "synced": true
   },
   {
     "higestRating": 2393,
