@@ -1,0 +1,14 @@
+[Event "Wch U12"]
+[Site "Batumi"]
+[Date "2006.10.19"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Illya Nyzhnyk"]
+[Black "Daniel Baider"]
+[ECO "C10"]
+[WhiteElo "2344"]
+[BlackElo "2083"]
+[PlyCount "42"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Ne5 a6 8.Bd3 c5 9.dxc5 Bxc5 10.O-O O-O 11.Bg5 Qc7 12.Qe2 b6 13.Rad1 Bb7 14.Bxf6 gxf6 15.Qg4+ Kh8 16.Qh4 f5 17.Bxf5 exf5 18.Qf6+ Kg8 19.Rd7 Qb8 20.Nxf7 Bxf2+ 21.Rxf2 Rxf7 1-0

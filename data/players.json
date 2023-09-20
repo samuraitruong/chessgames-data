@@ -77,7 +77,8 @@
     "name": "SHIROV, Alexey",
     "year": "1983-2023",
     "games": 3407,
-    "id": "15809"
+    "id": "15809",
+    "synced": true
   },
   {
     "higestRating": 2769,
@@ -6062,7 +6063,8 @@
     "name": "NYZHNYK, Illya",
     "year": "2005-2023",
     "games": 617,
-    "id": "95929"
+    "id": "95929",
+    "synced": true
   },
   {
     "higestRating": 2503,
@@ -36464,7 +36466,8 @@
     "name": "CHRISTENSEN, Bo Garner",
     "year": "1990-2015",
     "games": 85,
-    "id": "38137"
+    "id": "38137",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -62856,7 +62859,8 @@
     "name": "BIRIUKOV, Nikolai",
     "year": "1995-2019",
     "games": 38,
-    "id": "10878"
+    "id": "10878",
+    "synced": true
   },
   {
     "higestRating": 2207,
@@ -76801,7 +76805,8 @@
     "name": "TOOLIN, Christopher",
     "year": "2008-2019",
     "games": 27,
-    "id": "114659"
+    "id": "114659",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -98974,7 +98979,8 @@
     "name": "VERSHININ, Mikhail",
     "year": "1995-1997",
     "games": 16,
-    "id": "169105"
+    "id": "169105",
+    "synced": true
   },
   {
     "higestRating": 2230,
