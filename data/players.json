@@ -3577,7 +3577,8 @@
     "name": "DORFMAN, Iossif",
     "year": "1973-2018",
     "games": 926,
-    "id": "65418"
+    "id": "65418",
+    "synced": true
   },
   {
     "higestRating": 2512,
@@ -6584,7 +6585,8 @@
     "name": "JAKOBSEN, Ole",
     "year": "1961-2008",
     "games": 572,
-    "id": "17417"
+    "id": "17417",
+    "synced": true
   },
   {
     "higestRating": 2579,
@@ -33386,7 +33388,8 @@
     "name": "BITTENCOURT, Jorge",
     "year": "2001-2009",
     "games": 96,
-    "id": "51315"
+    "id": "51315",
+    "synced": true
   },
   {
     "higestRating": 2429,
@@ -59406,7 +59409,8 @@
     "name": "SIEGLEN, Joachim",
     "year": "1980-2016",
     "games": 42,
-    "id": "37523"
+    "id": "37523",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -69937,7 +69941,8 @@
     "name": "SLIWICKI, Damian",
     "year": "2010-2022",
     "games": 32,
-    "id": "128309"
+    "id": "128309",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -76437,7 +76442,8 @@
     "name": "ZACH, Andreas",
     "year": "1994-2007",
     "games": 27,
-    "id": "66529"
+    "id": "66529",
+    "synced": true
   },
   {
     "higestRating": 2277,
@@ -94437,7 +94443,8 @@
     "name": "RODMAN, Franc",
     "year": "2001-2003",
     "games": 17,
-    "id": "49887"
+    "id": "49887",
+    "synced": true
   },
   {
     "higestRating": 2411,
@@ -100047,7 +100054,8 @@
     "name": "HUETTEMANN, Karl-Heinz",
     "year": "1973-2000",
     "games": 15,
-    "id": "69761"
+    "id": "69761",
+    "synced": true
   },
   {
     "higestRating": 2318,
