@@ -9016,7 +9016,8 @@
     "name": "BELLIA, Fabrizio",
     "year": "1983-2020",
     "games": 420,
-    "id": "30695"
+    "id": "30695",
+    "synced": true
   },
   {
     "higestRating": 2569,
@@ -10623,7 +10624,8 @@
     "name": "ROUX, Jean-Pierre Le",
     "year": "1995-2023",
     "games": 361,
-    "id": "51577"
+    "id": "51577",
+    "synced": true
   },
   {
     "higestRating": 2594,
@@ -15619,7 +15621,8 @@
     "name": "ASMUNDSSON, Ingvar",
     "year": "1957-2005",
     "games": 237,
-    "id": "29969"
+    "id": "29969",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -22175,7 +22178,8 @@
     "name": "BELLAICHE, Anthony",
     "year": "1998-2018",
     "games": 160,
-    "id": "56779"
+    "id": "56779",
+    "synced": true
   },
   {
     "higestRating": 2479,
@@ -39703,7 +39707,8 @@
     "name": "TRUSKAVETSKY, Alexandr",
     "year": "2000-2021",
     "games": 77,
-    "id": "96808"
+    "id": "96808",
+    "synced": true
   },
   {
     "higestRating": 2488,
@@ -68887,7 +68892,8 @@
     "name": "OUSSEDIK, Mahfoud",
     "year": "2010-2020",
     "games": 33,
-    "id": "127214"
+    "id": "127214",
+    "synced": true
   },
   {
     "higestRating": 2458,
@@ -101347,7 +101353,8 @@
     "name": "TCEBEKOV, Khongor",
     "year": "1996-1997",
     "games": 15,
-    "id": "149524"
+    "id": "149524",
+    "synced": true
   },
   {
     "higestRating": 2304,
