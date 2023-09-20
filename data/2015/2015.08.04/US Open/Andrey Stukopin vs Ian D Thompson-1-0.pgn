@@ -1,0 +1,14 @@
+[Event "US Open"]
+[Site "Phoenix, AZ USA"]
+[Date "2015.08.04"]
+[EventDate "2015.08.01"]
+[Round "4"]
+[Result "1-0"]
+[White "Andrey Stukopin"]
+[Black "Ian D Thompson"]
+[ECO "C24"]
+[WhiteElo "2587"]
+[BlackElo "2191"]
+[PlyCount "41"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bb4+ 6. c3 Bd6 7. Nbd2 O-O 8. O-O Nbd7 9. Re1 Re8 10. Nf1 Bf8 11. Ng3 g6 12. Bg5 Qc7 13. d4 exd4 14. e5 Ne4 15. Nxe4 dxe4 16. Rxe4 dxc3 17. Bxf7+ Kxf7 18. Qb3+ Kg7 19. Bf6+ Nxf6 20. exf6+ Kxf6 21. Rxe8 1-0
