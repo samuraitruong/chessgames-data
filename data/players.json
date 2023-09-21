@@ -6809,7 +6809,8 @@
     "name": "PICHOT, Alan",
     "year": "2010-2023",
     "games": 551,
-    "id": "130033"
+    "id": "130033",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -27424,7 +27425,8 @@
     "name": "BITALZADEH, Ali",
     "year": "2003-2018",
     "games": 122,
-    "id": "65603"
+    "id": "65603",
+    "synced": true
   },
   {
     "higestRating": 2533,
@@ -29851,7 +29853,8 @@
     "name": "MORRIS, Philip J",
     "year": "1983-1994",
     "games": 110,
-    "id": "38061"
+    "id": "38061",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -48598,7 +48601,8 @@
     "name": "BARRON, Michael",
     "year": "2000-2015",
     "games": 58,
-    "id": "88526"
+    "id": "88526",
+    "synced": true
   },
   {
     "higestRating": 2386,
@@ -54711,7 +54715,8 @@
     "name": "KOLASINSKI, Marek",
     "year": "1981-1997",
     "games": 48,
-    "id": "60671"
+    "id": "60671",
+    "synced": true
   },
   {
     "higestRating": 2491,
@@ -65614,7 +65619,8 @@
     "name": "PAKHOMOV, Egor",
     "year": "2009-2017",
     "games": 36,
-    "id": "124559"
+    "id": "124559",
+    "synced": true
   },
   {
     "higestRating": 2463,
@@ -70747,7 +70753,8 @@
     "name": "BOEHM, Juergen",
     "year": "1981-2016",
     "games": 31,
-    "id": "46877"
+    "id": "46877",
+    "synced": true
   },
   {
     "higestRating": 2282,
@@ -72494,7 +72501,8 @@
     "name": "GYSI, Adolf",
     "year": "1994-2006",
     "games": 30,
-    "id": "93652"
+    "id": "93652",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -77112,7 +77120,8 @@
     "name": "LOPEZ, David Astasio",
     "year": "2010-2015",
     "games": 27,
-    "id": "135875"
+    "id": "135875",
+    "synced": true
   },
   {
     "higestRating": 2218,
@@ -82824,7 +82833,8 @@
     "name": "CHENG, Xiao",
     "year": "2003-2019",
     "games": 23,
-    "id": "80861"
+    "id": "80861",
+    "synced": true
   },
   {
     "higestRating": 2295,
