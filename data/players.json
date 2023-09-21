@@ -4496,7 +4496,8 @@
     "name": "TIKKANEN, Hans",
     "year": "1998-2021",
     "games": 780,
-    "id": "56571"
+    "id": "56571",
+    "synced": true
   },
   {
     "higestRating": 2555,
@@ -34453,7 +34454,8 @@
     "name": "SALAUN, Yann",
     "year": "1988-2008",
     "games": 92,
-    "id": "21940"
+    "id": "21940",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -42739,7 +42741,8 @@
     "name": "TEJASWINI, Sagar",
     "year": "2008-2022",
     "games": 70,
-    "id": "117461"
+    "id": "117461",
+    "synced": true
   },
   {
     "higestRating": 2457,
@@ -54551,7 +54554,8 @@
     "name": "GOLCHER, Luis Esquivel",
     "year": "1999-2014",
     "games": 48,
-    "id": "53101"
+    "id": "53101",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -94294,7 +94298,8 @@
     "name": "VAATAINEN, Timo",
     "year": "1992-1997",
     "games": 17,
-    "id": "25920"
+    "id": "25920",
+    "synced": true
   },
   {
     "higestRating": 2267,
