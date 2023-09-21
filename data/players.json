@@ -4952,7 +4952,8 @@
     "name": "MESTEL, Andrew Jonathan",
     "year": "1972-2012",
     "games": 731,
-    "id": "15666"
+    "id": "15666",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -25552,7 +25553,8 @@
     "name": "FROLOV, Denis",
     "year": "1984-2004",
     "games": 134,
-    "id": "18268"
+    "id": "18268",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -45918,7 +45920,8 @@
     "name": "GRECHIHIN, Valery",
     "year": "1974-2005",
     "games": 63,
-    "id": "27362"
+    "id": "27362",
+    "synced": true
   },
   {
     "higestRating": 2407,
@@ -53744,7 +53747,8 @@
     "name": "NEUGEBAUER, Martin",
     "year": "2012-2022",
     "games": 50,
-    "id": "159712"
+    "id": "159712",
+    "synced": true
   },
   {
     "higestRating": 2386,
@@ -80213,7 +80217,8 @@
     "name": "PRES, Grigorij",
     "year": "1959-2002",
     "games": 25,
-    "id": "102924"
+    "id": "102924",
+    "synced": true
   },
   {
     "higestRating": 2451,
@@ -83188,7 +83193,8 @@
     "name": "ESPINOSA, Julio",
     "year": "1989-2005",
     "games": 23,
-    "id": "99094"
+    "id": "99094",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -85169,7 +85175,8 @@
     "name": "MUSTAFAEV, Jamshid",
     "year": "2006-2009",
     "games": 22,
-    "id": "120091"
+    "id": "120091",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -90026,7 +90033,8 @@
     "name": "PREDEIN, Vladimir",
     "year": "1992-1995",
     "games": 19,
-    "id": "18251"
+    "id": "18251",
+    "synced": true
   },
   {
     "higestRating": 2227,
@@ -93701,7 +93709,8 @@
     "name": "NIKOLAEV, Vadim S",
     "year": "1975-2007",
     "games": 18,
-    "id": "126520"
+    "id": "126520",
+    "synced": true
   },
   {
     "higestRating": 2257,
