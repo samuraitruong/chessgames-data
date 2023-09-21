@@ -9611,7 +9611,8 @@
     "name": "TATE, Alan",
     "year": "1992-2022",
     "games": 399,
-    "id": "94240"
+    "id": "94240",
+    "synced": true
   },
   {
     "higestRating": 2520,
@@ -16397,7 +16398,8 @@
     "name": "FILGUTH, Rubens Alberto",
     "year": "1975-1989",
     "games": 225,
-    "id": "16234"
+    "id": "16234",
+    "synced": true
   },
   {
     "higestRating": 2489,
@@ -24528,7 +24530,8 @@
     "name": "SENFF, Martin",
     "year": "1992-2009",
     "games": 142,
-    "id": "52132"
+    "id": "52132",
+    "synced": true
   },
   {
     "higestRating": 2418,
@@ -25594,7 +25597,8 @@
     "name": "LARSEN, Karsten",
     "year": "1998-2020",
     "games": 134,
-    "id": "70175"
+    "id": "70175",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -50036,7 +50040,8 @@
     "name": "PEREZ, Maximiliano",
     "year": "2008-2019",
     "games": 56,
-    "id": "159137"
+    "id": "159137",
+    "synced": true
   },
   {
     "higestRating": 2337,
@@ -52334,7 +52339,8 @@
     "name": "XIANG, Zeyu",
     "year": "2016-2023",
     "games": 52,
-    "id": "157735"
+    "id": "157735",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -77474,7 +77480,8 @@
     "name": "WELZ, Thomas",
     "year": "1989-2013",
     "games": 26,
-    "id": "26249"
+    "id": "26249",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -79954,7 +79961,8 @@
     "name": "WUTTKE, Johannes",
     "year": "1999-2000",
     "games": 25,
-    "id": "90346"
+    "id": "90346",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -97131,7 +97139,8 @@
     "name": "LOPEZ, Felix Fernandez",
     "year": "1992-2001",
     "games": 16,
-    "id": "53651"
+    "id": "53651",
+    "synced": true
   },
   {
     "higestRating": 2348,

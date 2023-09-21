@@ -1,0 +1,14 @@
+[Event "EM/M/A075"]
+[Site "ICCF Email"]
+[Date "1999.08.15"]
+[EventDate "1999.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Johannes Wuttke"]
+[Black "Michael Reitz"]
+[ECO "A02"]
+[WhiteElo "2383"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.f4 g6 2.Nf3 Bg7 3.e3 b6 4.d4 Nf6 5.Bd3 Bb7 6.Nbd2 O-O 7.O-O d6 8.c4 Na6 9.a3 c5 10.d5 Qd7 11.Re1 e6 12.e4 Nh5 13.g3 Nc7 14.Rb1 Rae8 15.b3 exd5 16.exd5 Rxe1+ 17.Qxe1 Re8 18.Qf1 Qe7 19.f5 Ba6 20.Kh1 b5 21.Bb2 bxc4 22.bxc4 Bxb2 23.Rxb2 Bb7 24.Rxb7 1-0
