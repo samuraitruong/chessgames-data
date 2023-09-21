@@ -1890,7 +1890,8 @@
     "name": "VOGT, Lothar",
     "year": "1967-2022",
     "games": 1297,
-    "id": "11663"
+    "id": "11663",
+    "synced": true
   },
   {
     "higestRating": 2508,
@@ -41687,7 +41688,8 @@
     "name": "CIGAN, Stefan",
     "year": "1983-2017",
     "games": 72,
-    "id": "56664"
+    "id": "56664",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -63466,7 +63468,8 @@
     "name": "KUNZE, Carlo",
     "year": "1986-2017",
     "games": 38,
-    "id": "86681"
+    "id": "86681",
+    "synced": true
   },
   {
     "higestRating": 2412,
@@ -75200,7 +75203,8 @@
     "name": "POSPELOV, Evgeny",
     "year": "1992-1996",
     "games": 28,
-    "id": "92267"
+    "id": "92267",
+    "synced": true
   },
   {
     "higestRating": 2259,
@@ -96706,7 +96710,8 @@
     "name": "POHL, Walter",
     "year": "1994-2004",
     "games": 16,
-    "id": "33593"
+    "id": "33593",
+    "synced": true
   },
   {
     "higestRating": 2235,
