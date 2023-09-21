@@ -9023,7 +9023,8 @@
     "name": "GRIVAS, Efstratios",
     "year": "1980-2019",
     "games": 420,
-    "id": "18181"
+    "id": "18181",
+    "synced": true
   },
   {
     "higestRating": 2461,
@@ -11666,7 +11667,8 @@
     "name": "MILANOVIC, Danilo",
     "year": "1993-2021",
     "games": 327,
-    "id": "28649"
+    "id": "28649",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -20324,7 +20326,8 @@
     "name": "KATALYMOV, Boris",
     "year": "1951-2011",
     "games": 178,
-    "id": "21258"
+    "id": "21258",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -22302,7 +22305,8 @@
     "name": "BOKROS, Albert",
     "year": "1994-2022",
     "games": 159,
-    "id": "17311"
+    "id": "17311",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -70111,7 +70115,8 @@
     "name": "KOCHEMASOV, Andrey",
     "year": "2009-2020",
     "games": 32,
-    "id": "138803"
+    "id": "138803",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -75227,7 +75232,8 @@
     "name": "GALAZEWSKI, Tomasz",
     "year": "2005-2008",
     "games": 28,
-    "id": "94590"
+    "id": "94590",
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -78088,7 +78094,8 @@
     "name": "FISCHER, Wolfgang",
     "year": "1966-2017",
     "games": 26,
-    "id": "84580"
+    "id": "84580",
+    "synced": true
   },
   {
     "higestRating": 2248,
@@ -91954,7 +91961,8 @@
     "name": "ANETBAEV, Berik",
     "year": "1972-1990",
     "games": 18,
-    "id": "23117"
+    "id": "23117",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -92187,7 +92195,8 @@
     "name": "BAUDUIN, Etienne",
     "year": "1991-2011",
     "games": 18,
-    "id": "41208"
+    "id": "41208",
+    "synced": true
   },
   {
     "higestRating": 2305,
