@@ -1,0 +1,14 @@
+[Event "Olympiad"]
+[Site "Yerevan ARM"]
+[Date "1996.09.25"]
+[EventDate "1996.09.16"]
+[Round "9"]
+[Result "0-1"]
+[White "Benjamin Hoareau"]
+[Black "Niels Lauritsen"]
+[ECO "C46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 Nc6 2.Nf3 e5 3.Bc4 Nf6 4.Nc3 Nxe4 5.Nxe4 d5 6.Bd3 dxe4 7.Bxe4 Bd6 8.c3 O-O 9.O-O f5 10.Qb3+ Kh8 11.Bc2 e4 12.Ne1 Ne5 13.f4 Bc5+ 14.Kh1 Ng4 15.h3 Rf6 16.d4 exd3 17.Nxd3 Be6 18.Qxb7 Bd5 19.Qb5 Rh6 20.Nf2 Nxf2+ 21.Kh2 Ng4+ 0-1
