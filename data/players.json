@@ -9603,7 +9603,8 @@
     "name": "LIBISZEWSKI, Fabien",
     "year": "1998-2023",
     "games": 399,
-    "id": "50655"
+    "id": "50655",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -11320,7 +11321,8 @@
     "name": "NIKOLIC, Zivoslav",
     "year": "1979-2009",
     "games": 338,
-    "id": "26706"
+    "id": "26706",
+    "synced": true
   },
   {
     "higestRating": 2518,
@@ -17643,7 +17645,8 @@
     "name": "NIKOLOVA, Adriana",
     "year": "1996-2020",
     "games": 210,
-    "id": "127393"
+    "id": "127393",
+    "synced": true
   },
   {
     "higestRating": 2556,
@@ -52615,7 +52618,8 @@
     "name": "MALY, Alexey",
     "year": "1999-2022",
     "games": 51,
-    "id": "65911"
+    "id": "65911",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -73453,7 +73457,8 @@
     "name": "VAN RUITENBURG, Joost",
     "year": "2000-2017",
     "games": 29,
-    "id": "52238"
+    "id": "52238",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -78168,7 +78173,8 @@
     "name": "KROON, Piet",
     "year": "1966-1974",
     "games": 26,
-    "id": "87474"
+    "id": "87474",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -82738,7 +82744,8 @@
     "name": "FABRY, Robert",
     "year": "1978-2004",
     "games": 23,
-    "id": "75486"
+    "id": "75486",
+    "synced": true
   },
   {
     "higestRating": 2329,
@@ -95129,7 +95136,8 @@
     "name": "DZERA, Victor",
     "year": "1975-1993",
     "games": 17,
-    "id": "87033"
+    "id": "87033",
+    "synced": true
   },
   {
     "higestRating": 2342,
@@ -99479,7 +99487,8 @@
     "name": "FUFUENGMONGKOLKIJ, Kiart",
     "year": "1986-1992",
     "games": 15,
-    "id": "37783"
+    "id": "37783",
+    "synced": true
   },
   {
     "higestRating": 2222,
