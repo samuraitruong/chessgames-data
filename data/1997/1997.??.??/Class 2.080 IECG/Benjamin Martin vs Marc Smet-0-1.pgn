@@ -1,0 +1,14 @@
+[Event "Class 2.080 IECG"]
+[Site "Class 2.080 IECG"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Benjamin Martin"]
+[Black "Marc Smet"]
+[ECO "B20"]
+[WhiteElo "2435"]
+[BlackElo "1774"]
+[PlyCount "36"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd5 Nf6 5.Qc4 d5 6.exd5 Nxd5 7.a3 e5 8.Nc3 Be6 9.Nxd5 Bxd5 10.Qb5 a6 11.Qd3 Bc5 12.Nh3 Nd4 13.c4 Be6 14.Ng5 Bf5 15.Ne4 Qh4 16.Bg5 Qxe4+ 17.Qxe4 Bxe4 18.O-O-O Nb3# 0-1

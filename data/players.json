@@ -5174,7 +5174,8 @@
     "name": "BEDNARSKI, Jacek",
     "year": "1960-2006",
     "games": 703,
-    "id": "26574"
+    "id": "26574",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -9811,7 +9812,8 @@
     "name": "MAKROPOULOU, Marina",
     "year": "1987-2023",
     "games": 391,
-    "id": "24993"
+    "id": "24993",
+    "synced": true
   },
   {
     "higestRating": 2457,
@@ -22035,7 +22037,8 @@
     "name": "MARTIN, Benjamin",
     "year": "1981-2003",
     "games": 161,
-    "id": "12059"
+    "id": "12059",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -23477,7 +23480,8 @@
     "name": "PETROSIAN, Davit Gevorgi",
     "year": "1994-2018",
     "games": 150,
-    "id": "50120"
+    "id": "50120",
+    "synced": true
   },
   {
     "higestRating": 2553,
@@ -39257,7 +39261,8 @@
     "name": "RAKHMANGULOV, Andrei",
     "year": "1981-2017",
     "games": 78,
-    "id": "86481"
+    "id": "86481",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -39840,7 +39845,8 @@
     "name": "SADOVSKY, Artem",
     "year": "2013-2022",
     "games": 77,
-    "id": "147911"
+    "id": "147911",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -44787,7 +44793,8 @@
     "name": "ODENDAHL, Reiner",
     "year": "1986-2019",
     "games": 65,
-    "id": "17717"
+    "id": "17717",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -62288,7 +62295,8 @@
     "name": "BONNET, Edouard",
     "year": "1999-2002",
     "games": 39,
-    "id": "50251"
+    "id": "50251",
+    "synced": true
   },
   {
     "higestRating": 2397,
@@ -75300,7 +75308,8 @@
     "name": "YEAGER, Daniel A",
     "year": "2006-2017",
     "games": 28,
-    "id": "104606"
+    "id": "104606",
+    "synced": true
   },
   {
     "higestRating": 2309,

@@ -1,0 +1,14 @@
+[Event "Ponferrada Open"]
+[Site "Ponferrada"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Benjamin Martin"]
+[Black "Marcelo Toledano"]
+[ECO "B04"]
+[WhiteElo "2430"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 Nf6 2.e5 Nd5 3.Nf3 d6 4.d4 g6 5.Bc4 Nb6 6.Bb3 Bg7 7.a4 a5 8.Ng5 e6 9.Qf3 O-O 10.Qh3 h6 11.Nf3 Kh7 12.Nc3 f6 13.Ne4 dxe5 14.dxe5 fxe5 15.Neg5+ Kh8 16.Nxe5 Qe8 17.Ngf3 Kh7 18.g4 Nc6 19.Bxh6 Nxe5 20.Ng5+ Kg8 21.Bxg7 Kxg7 22.Qh7+ Kf6 23.Ne4# 1-0
