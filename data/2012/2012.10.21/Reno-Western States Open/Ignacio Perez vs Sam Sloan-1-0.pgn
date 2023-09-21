@@ -1,0 +1,14 @@
+[Event "Reno-Western States Open"]
+[Site "Reno, NV USA"]
+[Date "2012.10.21"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Ignacio Perez"]
+[Black "Sam Sloan"]
+[ECO "C40"]
+[WhiteElo "2251"]
+[BlackElo "1902"]
+[PlyCount "43"]
+
+1.e4 e5 2.Nf3 f6 3.d4 d5 4.Nbd2 exd4 5.exd5 Qxd5 6.Bc4 Qd8 7.O-O c5 8.Re1+ Be7 9.Ne4 Qc7 10.b4 cxb4 11.Qxd4 Nc6 12.Qd5 Ne5 13.Nxe5 fxe5 14.Qf7+ Kd8 15.Rd1+ Bd7 16.Be6 Nf6 17.Nxf6 Rf8 18.Qxg7 Rxf6 19.Rxd7+ Qxd7 20.Bxd7 Kxd7 21.Bg5 Re6 22.Rd1+ 1-0
