@@ -4471,7 +4471,8 @@
     "name": "SOLAK, Dragan",
     "year": "1994-2023",
     "games": 785,
-    "id": "49488"
+    "id": "49488",
+    "synced": true
   },
   {
     "higestRating": 2447,
@@ -18170,7 +18171,8 @@
     "name": "SCHROEDER, Jan-Christian",
     "year": "2010-2022",
     "games": 204,
-    "id": "134714"
+    "id": "134714",
+    "synced": true
   },
   {
     "higestRating": 2466,
@@ -44361,7 +44363,8 @@
     "name": "FRANKE, Heribert",
     "year": "1984-2001",
     "games": 66,
-    "id": "19646"
+    "id": "19646",
+    "synced": true
   },
   {
     "higestRating": 2452,
@@ -48335,7 +48338,8 @@
     "name": "DE GRAAF, Dick",
     "year": "2001-2021",
     "games": 59,
-    "id": "129293"
+    "id": "129293",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -53235,7 +53239,8 @@
     "name": "GENIN, Albert",
     "year": "1959-2003",
     "games": 50,
-    "id": "40975"
+    "id": "40975",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -55318,7 +55323,8 @@
     "name": "JOECKS, Christian",
     "year": "1988-2004",
     "games": 47,
-    "id": "19855"
+    "id": "19855",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -89081,7 +89087,8 @@
     "name": "BARHUDARIAN, Rafael",
     "year": "2006-2012",
     "games": 20,
-    "id": "107928"
+    "id": "107928",
+    "synced": true
   },
   {
     "higestRating": 2530,
