@@ -1,0 +1,14 @@
+[Event "Pro Chess League"]
+[Site "chess.com INT"]
+[Date "2018.02.03"]
+[EventDate "2018.01.18"]
+[Round "4"]
+[Result "0-1"]
+[White "Anatoly Bykhovsky"]
+[Black "Conrad Holt"]
+[ECO "D03"]
+[WhiteElo "2496"]
+[BlackElo "2578"]
+[PlyCount "42"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 Ne4 4. Bh4 Qd6 5. Qc1 Nc6 6. e3 Bg4 7. Nbd2 Qh6 8. Rg1 Nxd2 9. Bg5 Nxf3+ 10. gxf3 Qxg5 11. Rxg4 Qh6 12. c4 e6 13. a3 Be7 14. b4 O-O 15. cxd5 exd5 16. b5 Nd8 17. Qxc7 Bd6 18. Qc2 Re8 19. Bd3 Ne6 20. Qb3 Rad8 21. Rg2 Nxd4 0-1
