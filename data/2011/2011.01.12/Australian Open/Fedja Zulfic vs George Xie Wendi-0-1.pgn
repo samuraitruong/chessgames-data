@@ -1,0 +1,14 @@
+[Event "Australian Open"]
+[Site "NSLCC, Cammeray NSW"]
+[Date "2011.01.12"]
+[EventDate "2011.01.02"]
+[Round "10.3"]
+[Result "0-1"]
+[White "Fedja Zulfic"]
+[Black "George Xie Wendi"]
+[ECO "E25"]
+[WhiteElo "2024"]
+[BlackElo "2478"]
+[PlyCount "40"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 Nxd5 8. dxc5 f5 9. Nh3 O-O 10. c4 Qh4+ 11. g3 Qxc4 12. e4 Qc3+ 13. Bd2 Qe5 14. Bg2 fxe4 15. O-O Qd4+ 16. Kh1 e3 17. Bb4 Nc6 18. f4 a5 19. Qa4 e2 20. Rfe1 Ra7 0-1
