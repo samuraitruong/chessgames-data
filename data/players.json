@@ -4630,7 +4630,8 @@
     "name": "DERVISHI, Erald",
     "year": "1992-2022",
     "games": 764,
-    "id": "17817"
+    "id": "17817",
+    "synced": true
   },
   {
     "higestRating": 2485,
@@ -12430,7 +12431,8 @@
     "name": "BEERDSEN, Thomas",
     "year": "2010-2023",
     "games": 305,
-    "id": "131183"
+    "id": "131183",
+    "synced": true
   },
   {
     "higestRating": 2541,
@@ -60494,7 +60496,8 @@
     "name": "BACHOFNER, Andreas",
     "year": "1993-2016",
     "games": 41,
-    "id": "52981"
+    "id": "52981",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -63888,7 +63891,8 @@
     "name": "KURBEDINOV, Ramis",
     "year": "2007-2019",
     "games": 38,
-    "id": "155995"
+    "id": "155995",
+    "synced": true
   },
   {
     "higestRating": 2214,
@@ -101428,7 +101432,8 @@
     "name": "PETRUSHEV, Nikita",
     "year": "2012-2019",
     "games": 15,
-    "id": "141422"
+    "id": "141422",
+    "synced": true
   },
   {
     "higestRating": 2208,
