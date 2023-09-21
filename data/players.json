@@ -10572,7 +10572,8 @@
     "name": "SCHNEIDER, Lars-Ake",
     "year": "1974-2004",
     "games": 365,
-    "id": "28591"
+    "id": "28591",
+    "synced": true
   },
   {
     "higestRating": 2459,
@@ -15727,7 +15728,8 @@
     "name": "TRIAPISHKO, Alexandr",
     "year": "2015-2021",
     "games": 237,
-    "id": "152853"
+    "id": "152853",
+    "synced": true
   },
   {
     "higestRating": 2573,
@@ -30299,7 +30301,8 @@
     "name": "GAIFULLIN, Artur",
     "year": "2017-2023",
     "games": 109,
-    "id": "157913"
+    "id": "157913",
+    "synced": true
   },
   {
     "higestRating": 2436,
@@ -43701,7 +43704,8 @@
     "name": "KLINGS, Peter",
     "year": "1988-2019",
     "games": 68,
-    "id": "94641"
+    "id": "94641",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -44687,7 +44691,8 @@
     "name": "OMAR, Ak Hirawan Pg Mohd",
     "year": "2001-2007",
     "games": 66,
-    "id": "97899"
+    "id": "97899",
+    "synced": true
   },
   {
     "higestRating": 2204,
@@ -47878,7 +47883,8 @@
     "name": "ODENDAHL, Steven M",
     "year": "1977-2000",
     "games": 59,
-    "id": "15536"
+    "id": "15536",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -53214,7 +53220,8 @@
     "name": "SHRENTZEL, Israel",
     "year": "1988-1995",
     "games": 50,
-    "id": "37549"
+    "id": "37549",
+    "synced": true
   },
   {
     "higestRating": 2261,
@@ -70010,7 +70017,8 @@
     "name": "SOLOVCHUK, Alexey",
     "year": "2003-2021",
     "games": 32,
-    "id": "101370"
+    "id": "101370",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -81826,7 +81834,8 @@
     "name": "BADANI, Abdu Al",
     "year": "2000-2018",
     "games": 24,
-    "id": "102611"
+    "id": "102611",
+    "synced": true
   },
   {
     "higestRating": 2541,
