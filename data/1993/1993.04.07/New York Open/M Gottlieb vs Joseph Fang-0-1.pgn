@@ -1,0 +1,14 @@
+[Event "New York Open"]
+[Site "New York, NY USA"]
+[Date "1993.04.07"]
+[EventDate "1993.04.07"]
+[Round "1"]
+[Result "0-1"]
+[White "M Gottlieb"]
+[Black "Joseph Fang"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.c3 Nxe4 5.d4 d5 6.Bd3 exd4 7.cxd4 Bb4+ 8.Nbd2 O-O 9.O-O Bxd2 10.Bxd2 Bg4 11.h3 Bxf3 12.gxf3 Nxd2 13.Qxd2 Qf6 14.Qc2 Nxd4 15.Bxh7+ Kh8 16.Qd3 g6 0-1

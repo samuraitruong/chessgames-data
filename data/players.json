@@ -3905,7 +3905,8 @@
     "name": "SVANE, Rasmus",
     "year": "2008-2023",
     "games": 868,
-    "id": "118157"
+    "id": "118157",
+    "synced": true
   },
   {
     "higestRating": 2480,
@@ -32556,7 +32557,8 @@
     "name": "FANG, Joseph",
     "year": "1988-2005",
     "games": 99,
-    "id": "18766"
+    "id": "18766",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -40592,7 +40594,8 @@
     "name": "CARLHAMMAR, Magnus",
     "year": "1987-2012",
     "games": 75,
-    "id": "63155"
+    "id": "63155",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -49711,7 +49714,8 @@
     "name": "GORIC, Esad",
     "year": "1997-2018",
     "games": 56,
-    "id": "49229"
+    "id": "49229",
+    "synced": true
   },
   {
     "higestRating": 2386,
@@ -50216,7 +50220,8 @@
     "name": "FLUECKIGER, Christian",
     "year": "1984-2017",
     "games": 55,
-    "id": "25891"
+    "id": "25891",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -59608,7 +59613,8 @@
     "name": "TZOUMBAS, Anastasios",
     "year": "1991-2011",
     "games": 42,
-    "id": "38750"
+    "id": "38750",
+    "synced": true
   },
   {
     "higestRating": 2457,
@@ -78015,7 +78021,8 @@
     "name": "BATISTA, Gerson Peres",
     "year": "1998-2012",
     "games": 26,
-    "id": "56450"
+    "id": "56450",
+    "synced": true
   },
   {
     "higestRating": 2404,
@@ -79967,7 +79974,8 @@
     "name": "ROESCH, Arnd",
     "year": "1987-1997",
     "games": 25,
-    "id": "84464"
+    "id": "84464",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -93764,7 +93772,8 @@
     "name": "GHANNOUM, Marc",
     "year": "2000-2011",
     "games": 18,
-    "id": "126882"
+    "id": "126882",
+    "synced": true
   },
   {
     "higestRating": 2201,
