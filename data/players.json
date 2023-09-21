@@ -5131,7 +5131,8 @@
     "name": "DIZDAR, Goran",
     "year": "1976-2018",
     "games": 707,
-    "id": "17775"
+    "id": "17775",
+    "synced": true
   },
   {
     "higestRating": 2479,
@@ -8950,7 +8951,8 @@
     "name": "JENNI, Florian",
     "year": "1992-2018",
     "games": 426,
-    "id": "35072"
+    "id": "35072",
+    "synced": true
   },
   {
     "higestRating": 2556,
@@ -38020,7 +38022,8 @@
     "name": "GOMEZ, Fernando Valenzuela",
     "year": "2016-2022",
     "games": 82,
-    "id": "155722"
+    "id": "155722",
+    "synced": true
   },
   {
     "higestRating": 2289,
@@ -56384,7 +56387,8 @@
     "name": "ANELLI, Antonio",
     "year": "1972-2018",
     "games": 46,
-    "id": "68303"
+    "id": "68303",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -107633,7 +107637,8 @@
     "name": "FREEDMAN, Ed",
     "year": "1991",
     "games": 1,
-    "id": "95744"
+    "id": "95744",
+    "synced": true
   },
   {
     "higestRating": 2335,
