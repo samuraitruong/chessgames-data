@@ -3167,7 +3167,8 @@
     "name": "DVOIRYS, Semen I",
     "year": "1974-2021",
     "games": 996,
-    "id": "17737"
+    "id": "17737",
+    "synced": true
   },
   {
     "higestRating": 2517,
@@ -25779,7 +25780,8 @@
     "name": "NOTKIN, Maksim",
     "year": "1992-2017",
     "games": 132,
-    "id": "12409"
+    "id": "12409",
+    "synced": true
   },
   {
     "higestRating": 2396,
@@ -46836,7 +46838,8 @@
     "name": "KVAMME, John A",
     "year": "1978-2018",
     "games": 61,
-    "id": "31598"
+    "id": "31598",
+    "synced": true
   },
   {
     "higestRating": 2485,
@@ -82184,7 +82187,8 @@
     "name": "LOPUSHNOY, Denis",
     "year": "1995-2000",
     "games": 23,
-    "id": "25256"
+    "id": "25256",
+    "synced": true
   },
   {
     "higestRating": 2374,
@@ -102171,7 +102175,8 @@
     "name": "FISCHER, Gerd",
     "year": "1993-2008",
     "games": 13,
-    "id": "63985"
+    "id": "63985",
+    "synced": true
   },
   {
     "higestRating": 2222,

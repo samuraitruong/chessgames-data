@@ -1,0 +1,14 @@
+[Event "Aeroflot Open"]
+[Site "Moscow RUS"]
+[Date "2002.02.09"]
+[EventDate "2002.02.05"]
+[Round "7"]
+[Result "0-1"]
+[White "Vladimir Belov"]
+[Black "Semen Isaakovich Dvoirys"]
+[ECO "B90"]
+[WhiteElo "2487"]
+[BlackElo "2563"]
+[PlyCount "42"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8. f4 Nc5 9. O-O Be7 10. e5 dxe5 11. fxe5 Nfd7 12. Qh5 g6 13. Qe2 Qc7 14. Bh6 Bf8 15. Nd5 exd5 16. e6 Bxh6 17. exd7+ Kd8 18. dxc8=Q+ Rxc8 19. Rad1 Nxb3 20. Nxb3 Qb6+ 21. Kh1 Rc7 0-1
