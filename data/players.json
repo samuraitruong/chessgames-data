@@ -2529,7 +2529,8 @@
     "name": "PELLETIER, Yannick",
     "year": "1991-2022",
     "games": 1129,
-    "id": "11676"
+    "id": "11676",
+    "synced": true
   },
   {
     "higestRating": 2634,
@@ -12628,7 +12629,8 @@
     "name": "STANOJOSKI, Zvonko",
     "year": "1990-2022",
     "games": 301,
-    "id": "44759"
+    "id": "44759",
+    "synced": true
   },
   {
     "higestRating": 2580,
@@ -36748,7 +36750,8 @@
     "name": "BOGLE, Bill",
     "year": "1979-2005",
     "games": 85,
-    "id": "88517"
+    "id": "88517",
+    "synced": true
   },
   {
     "higestRating": 2391,
