@@ -8273,7 +8273,8 @@
     "name": "KERN, Guido",
     "year": "1985-2014",
     "games": 464,
-    "id": "125041"
+    "id": "125041",
+    "synced": true
   },
   {
     "higestRating": 2532,
@@ -15349,7 +15350,8 @@
     "name": "ANISIMOV, Pavel",
     "year": "1996-2021",
     "games": 244,
-    "id": "49079"
+    "id": "49079",
+    "synced": true
   },
   {
     "higestRating": 2564,
@@ -38193,7 +38195,8 @@
     "name": "ARDELEANU, Alin",
     "year": "1992-2014",
     "games": 81,
-    "id": "74125"
+    "id": "74125",
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -39710,7 +39713,8 @@
     "name": "DE SOUZA, Ivan Boere",
     "year": "1982-1998",
     "games": 77,
-    "id": "85920"
+    "id": "85920",
+    "synced": true
   },
   {
     "higestRating": 2224,
@@ -63562,7 +63566,8 @@
     "name": "ZAKHAROV, Alexander S",
     "year": "1994-1999",
     "games": 38,
-    "id": "102906"
+    "id": "102906",
+    "synced": true
   },
   {
     "higestRating": 2202,
@@ -65830,7 +65835,8 @@
     "name": "MANDL, Robert",
     "year": "1986-2002",
     "games": 35,
-    "id": "19805"
+    "id": "19805",
+    "synced": true
   },
   {
     "higestRating": 2366,
@@ -75747,7 +75753,8 @@
     "name": "HARING, Filip",
     "year": "2017-2023",
     "games": 28,
-    "id": "157995"
+    "id": "157995",
+    "synced": true
   },
   {
     "higestRating": 2374,
@@ -82315,7 +82322,8 @@
     "name": "GILLAM, Simon Robert",
     "year": "1975-1996",
     "games": 23,
-    "id": "43675"
+    "id": "43675",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -84914,7 +84922,8 @@
     "name": "MORDECHAI, Hanan",
     "year": "2008-2015",
     "games": 22,
-    "id": "118197"
+    "id": "118197",
+    "synced": true
   },
   {
     "higestRating": 2337,
@@ -88216,7 +88225,8 @@
     "name": "KLUTH, Carsten",
     "year": "1987-1999",
     "games": 20,
-    "id": "68376"
+    "id": "68376",
+    "synced": true
   },
   {
     "higestRating": 2249,
@@ -99636,7 +99646,8 @@
     "name": "NIKNADDAF, Ali",
     "year": "1995-2001",
     "games": 15,
-    "id": "52579"
+    "id": "52579",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -101803,7 +101814,8 @@
     "name": "OO, Thein Dan",
     "year": "1999",
     "games": 14,
-    "id": "102882"
+    "id": "102882",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -103986,7 +103998,8 @@
     "name": "LEGAHN, Dirk",
     "year": "1991",
     "games": 9,
-    "id": "78305"
+    "id": "78305",
+    "synced": true
   },
   {
     "higestRating": 2280,
