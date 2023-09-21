@@ -319,7 +319,8 @@
     "name": "KASPAROV, Garry",
     "year": "1973-2022",
     "games": 2443,
-    "id": "15940"
+    "id": "15940",
+    "synced": true
   },
   {
     "higestRating": 2690,
@@ -21003,7 +21004,8 @@
     "name": "ADDISON, William",
     "year": "1950-1970",
     "games": 172,
-    "id": "26628"
+    "id": "26628",
+    "synced": true
   },
   {
     "higestRating": 2568,
@@ -105072,7 +105074,8 @@
     "name": "FIELDING, Paul",
     "year": "1983-2010",
     "games": 7,
-    "id": "57630"
+    "id": "57630",
+    "synced": true
   },
   {
     "higestRating": 2220,

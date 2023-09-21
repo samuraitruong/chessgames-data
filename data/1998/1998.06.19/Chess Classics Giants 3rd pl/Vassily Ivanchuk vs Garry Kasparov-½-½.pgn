@@ -2,13 +2,13 @@
 [Site "Frankfurt"]
 [Date "1998.06.19"]
 [EventDate "?"]
-[Round "2"]
+[Round "4"]
 [Result "1/2-1/2"]
 [White "Vassily Ivanchuk"]
 [Black "Garry Kasparov"]
-[ECO "D52"]
+[ECO "D37"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "66"]
+[PlyCount "86"]
 
-1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Nbd7 5.Bg5 c6 6.e3 Qa5 7.Nd2 Bb4 8.Qc2 O-O 9.Be2 c5 10.Nb3 Qc7 11.O-O dxc4 12.Bxc4 cxd4 13.Nb5 Qb8 14.N5xd4 Bd6 15.f4 h6 16.Bh4 a6 17.Be2 Nd5 18.Qd2 N7f6 19.Rad1 Bb4 20.Qd3 Bd7 21.Bf3 Ba4 22.Kh1 Be7 23.Rc1 Rc8 24.Na5 Rxc1 25.Rxc1 Qd8 26.Nxb7 Qb6 27.b3 Bb5 28.Nxb5 axb5 29.Bg3 Nh5 30.Bh4 Ng3+ 31.Bxg3 Bf6 32.Bxd5 exd5 33.Nc5 Bb2 1/2-1/2
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.a3 Nc6 9.Rc1 a6 10.cxd5 exd5 11.Bd3 Ba7 12.O-O d4 13.exd4 Nxd4 14.Nxd4 Qxd4 15.Be3 Qh4 16.Bxa7 Rxa7 17.Qa4 Qxa4 18.Nxa4 b5 19.Nc5 Nd7 20.Rfd1 Nxc5 21.Rxc5 g6 22.f3 Be6 23.Kf2 b4 24.a4 Bb3 25.Bc2 Bxc2 26.Rxc2 b3 27.Rc3 Rb8 28.Rd4 h5 29.h4 Kg7 30.Rc6 Re7 31.Rxa6 Rc7 32.Rd2 Rc2 33.Rad6 Rb4 34.a5 Rxd2+ 35.Rxd2 Rxh4 36.g4 hxg4 37.Kg3 Rh5 38.fxg4 Rxa5 39.Rd3 Rb5 40.Rf3 f5 41.gxf5 gxf5 42.Rc3 Kh6 43.Kf3 Kg5 1/2-1/2
