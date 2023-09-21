@@ -4133,7 +4133,8 @@
     "name": "GUKESH, Dommaraju",
     "year": "2016-2023",
     "games": 832,
-    "id": "158070"
+    "id": "158070",
+    "synced": true
   },
   {
     "higestRating": 2453,
@@ -44734,7 +44735,8 @@
     "name": "DUMAN, Aydin",
     "year": "2002-2016",
     "games": 66,
-    "id": "129810"
+    "id": "129810",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -55959,7 +55961,8 @@
     "name": "UZUMCU, Ahmet Utku",
     "year": "2012-2019",
     "games": 47,
-    "id": "140220"
+    "id": "140220",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -69653,7 +69656,8 @@
     "name": "PELITOV, Dimitar",
     "year": "1966-2009",
     "games": 32,
-    "id": "59445"
+    "id": "59445",
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -74835,7 +74839,8 @@
     "name": "SOLCANEAN, Serghei",
     "year": "1983-2009",
     "games": 28,
-    "id": "48941"
+    "id": "48941",
+    "synced": true
   },
   {
     "higestRating": 2322,
