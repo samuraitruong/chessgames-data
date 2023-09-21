@@ -15862,7 +15862,8 @@
     "name": "GAVRILESCU, David",
     "year": "2015-2023",
     "games": 235,
-    "id": "154660"
+    "id": "154660",
+    "synced": true
   },
   {
     "higestRating": 2454,
@@ -16877,7 +16878,8 @@
     "name": "JUREK, Josef",
     "year": "1973-2023",
     "games": 219,
-    "id": "19671"
+    "id": "19671",
+    "synced": true
   },
   {
     "higestRating": 2411,
@@ -17571,7 +17573,8 @@
     "name": "SATYAPRAGYAN, Swayangsu",
     "year": "1998-2019",
     "games": 211,
-    "id": "65856"
+    "id": "65856",
+    "synced": true
   },
   {
     "higestRating": 2516,
@@ -17668,7 +17671,8 @@
     "name": "SILMAN, Jeremy",
     "year": "1974-1999",
     "games": 209,
-    "id": "21593"
+    "id": "21593",
+    "synced": true
   },
   {
     "higestRating": 2426,
@@ -50574,7 +50578,8 @@
     "name": "NECHAEV, Oleg",
     "year": "2010-2019",
     "games": 55,
-    "id": "134368"
+    "id": "134368",
+    "synced": true
   },
   {
     "higestRating": 2348,
@@ -51739,7 +51744,8 @@
     "name": "VEGA, Sergio Duran",
     "year": "2010-2022",
     "games": 53,
-    "id": "127653"
+    "id": "127653",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -58315,7 +58321,8 @@
     "name": "BRACKER, Frank",
     "year": "2005-2022",
     "games": 44,
-    "id": "130259"
+    "id": "130259",
+    "synced": true
   },
   {
     "higestRating": 2368,

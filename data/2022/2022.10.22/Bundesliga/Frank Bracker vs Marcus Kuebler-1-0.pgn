@@ -1,0 +1,14 @@
+[Event "Bundesliga"]
+[Site "Kiel GER"]
+[Date "2022.10.22"]
+[EventDate "2022.10.22"]
+[Round "1.1"]
+[Result "1-0"]
+[White "Frank Bracker"]
+[Black "Marcus Kuebler"]
+[ECO "B38"]
+[WhiteElo "2372"]
+[BlackElo "1948"]
+[PlyCount "34"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 d6 7. Nc3 Nf6 8. Be2 O-O 9. O-O Bd7 10. h3 Nxd4 11. Bxd4 Bc6 12. Qc2 a5 13. Rad1 Nd7 14. Bxg7 Kxg7 15. Bg4 f5 16. exf5 gxf5 17. Bxf5 1-0
