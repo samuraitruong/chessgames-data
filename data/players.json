@@ -1047,7 +1047,8 @@
     "name": "BAREEV, Evgeny",
     "year": "1981-2021",
     "games": 1654,
-    "id": "16299"
+    "id": "16299",
+    "synced": true
   },
   {
     "higestRating": 2550,
@@ -99521,7 +99522,8 @@
     "name": "PETIT, Rene",
     "year": "1994-1997",
     "games": 15,
-    "id": "39416"
+    "id": "39416",
+    "synced": true
   },
   {
     "higestRating": 2315,
