@@ -5952,7 +5952,8 @@
     "name": "RENET, Olivier",
     "year": "1983-2019",
     "games": 630,
-    "id": "14084"
+    "id": "14084",
+    "synced": true
   },
   {
     "higestRating": 2414,
@@ -7849,7 +7850,8 @@
     "name": "CORI, Jorge",
     "year": "2006-2022",
     "games": 485,
-    "id": "109850"
+    "id": "109850",
+    "synced": true
   },
   {
     "higestRating": 2504,
@@ -33117,7 +33119,8 @@
     "name": "NEDELA, Vlastimil",
     "year": "1990-2012",
     "games": 97,
-    "id": "19867"
+    "id": "19867",
+    "synced": true
   },
   {
     "higestRating": 2252,
@@ -47671,7 +47674,8 @@
     "name": "KILGOUR, David A",
     "year": "1976-1996",
     "games": 60,
-    "id": "90131"
+    "id": "90131",
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -61986,7 +61990,8 @@
     "name": "MELENDEZ, Rafael Montero",
     "year": "2010-2019",
     "games": 40,
-    "id": "128473"
+    "id": "128473",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -98596,7 +98601,8 @@
     "name": "RODRIGUEZ, Jorge Baron",
     "year": "1992-2004",
     "games": 16,
-    "id": "117110"
+    "id": "117110",
+    "synced": true
   },
   {
     "higestRating": 2307,
@@ -99247,7 +99253,8 @@
     "name": "SCHIRM, Friedmar",
     "year": "1992-1997",
     "games": 16,
-    "id": "168489"
+    "id": "168489",
+    "synced": true
   },
   {
     "higestRating": 2401,

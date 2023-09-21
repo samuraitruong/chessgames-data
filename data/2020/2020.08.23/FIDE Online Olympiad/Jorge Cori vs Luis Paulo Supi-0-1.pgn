@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.23"]
+[EventDate "2020.08.21"]
+[Round "7"]
+[Result "0-1"]
+[White "Jorge Cori"]
+[Black "Luis Paulo Supi"]
+[ECO "D05"]
+[WhiteElo "2599"]
+[BlackElo "2513"]
+[Source "Chess-Results"]
+[PlyCount "50"]
+
+1. d4 Nf6 2. Nf3 d5 3. e3 e6 4. Bd3 b6 5. O-O Bb7 6. b3 Bd6 7. Bb2 O-O 8. Qe2 c5 9. Nbd2 Nc6 10. a3 Rc8 11. Rfd1 cxd4 12. exd4 Bf4 13. g3 Bh6 14. h4 Ne7 15. Ng5 Nf5 16. Re1 Nd6 17. f3 Bxg5 18. hxg5 Nh5 19. Qh2 Qxg5 20. g4 f5 21. Qxd6 Nf4 22. Nf1 fxg4 23. Qe5 Qh4 24. Nh2 Qg3+ 25. Kh1 Qg2# 0-1
