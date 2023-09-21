@@ -11973,7 +11973,8 @@
     "name": "WEBB, Simon",
     "year": "1965-2005",
     "games": 318,
-    "id": "23327"
+    "id": "23327",
+    "synced": true
   },
   {
     "higestRating": 2542,
@@ -14335,7 +14336,8 @@
     "name": "UPTON, Timothy J",
     "year": "1975-2017",
     "games": 263,
-    "id": "21964"
+    "id": "21964",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -20549,7 +20551,8 @@
     "name": "EDVARDSSON, Kristjan",
     "year": "1994-2018",
     "games": 176,
-    "id": "10982"
+    "id": "10982",
+    "synced": true
   },
   {
     "higestRating": 2428,
@@ -32633,7 +32636,8 @@
     "name": "HADZIMANOLIS, Antonios",
     "year": "1997-2016",
     "games": 99,
-    "id": "49009"
+    "id": "49009",
+    "synced": true
   },
   {
     "higestRating": 2482,
@@ -34767,7 +34771,8 @@
     "name": "HURME, Harri M",
     "year": "1968-2015",
     "games": 91,
-    "id": "29951"
+    "id": "29951",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -43242,7 +43247,8 @@
     "name": "TERZIC, Safet",
     "year": "1986-2005",
     "games": 69,
-    "id": "79736"
+    "id": "79736",
+    "synced": true
   },
   {
     "higestRating": 2287,
@@ -65619,7 +65625,8 @@
     "name": "KLIM, Kamil",
     "year": "2003-2018",
     "games": 36,
-    "id": "110953"
+    "id": "110953",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -75392,7 +75399,8 @@
     "name": "RATCU, Tatiana",
     "year": "1994-2000",
     "games": 28,
-    "id": "92949"
+    "id": "92949",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -77065,7 +77073,8 @@
     "name": "PINEDA, Daniel Mauricio Rodriguez",
     "year": "1978-2002",
     "games": 27,
-    "id": "116892"
+    "id": "116892",
+    "synced": true
   },
   {
     "higestRating": 2391,
@@ -85472,7 +85481,8 @@
     "name": "STRAKA, Vojtech",
     "year": "2011-2021",
     "games": 22,
-    "id": "139091"
+    "id": "139091",
+    "synced": true
   },
   {
     "higestRating": 2303,
