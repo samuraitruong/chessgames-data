@@ -1,0 +1,14 @@
+[Event "London Chess Classic Open"]
+[Site "London ENG"]
+[Date "2019.11.29"]
+[EventDate "2019.11.29"]
+[Round "1.4"]
+[Result "0-1"]
+[White "Remy Rushbrooke"]
+[Black "Anton Smirnov"]
+[ECO "D00"]
+[WhiteElo "2053"]
+[BlackElo "2573"]
+[PlyCount "44"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Nbd7 4. e3 e6 5. a3 c5 6. Nf3 a6 7. Ne5 h6 8. Bh4 cxd4 9. exd4 Nxe5 10. dxe5 g5 11. Bg3 Nd7 12. Bd3 Bg7 13. Qe2 b5 14. O-O Bb7 15. f4 gxf4 16. Bxf4 Qe7 17. Rf3 O-O-O 18. Rg3 Rdg8 19. a4 Qb4 20. Rf1 bxa4 21. Bxa6 Qb6+ 22. Kh1 Bxa6 0-1

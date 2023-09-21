@@ -6473,7 +6473,8 @@
     "name": "KOROTYLEV, Alexey",
     "year": "1993-2017",
     "games": 582,
-    "id": "18267"
+    "id": "18267",
+    "synced": true
   },
   {
     "higestRating": 2609,
@@ -14986,7 +14987,8 @@
     "name": "SMIRNOV, Anton",
     "year": "2011-2022",
     "games": 251,
-    "id": "130817"
+    "id": "130817",
+    "synced": true
   },
   {
     "higestRating": 2472,
@@ -22069,7 +22071,8 @@
     "name": "BABAZADA, Khazar",
     "year": "2015-2023",
     "games": 162,
-    "id": "156054"
+    "id": "156054",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -31833,7 +31836,8 @@
     "name": "BANG, Andreas",
     "year": "1986-2017",
     "games": 102,
-    "id": "77858"
+    "id": "77858",
+    "synced": true
   },
   {
     "higestRating": 2388,
@@ -59551,7 +59555,8 @@
     "name": "NURMI, Peter",
     "year": "1973-1981",
     "games": 42,
-    "id": "43988"
+    "id": "43988",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -60706,7 +60711,8 @@
     "name": "BAJEC, Ivo",
     "year": "1949-1976",
     "games": 41,
-    "id": "85348"
+    "id": "85348",
+    "synced": true
   },
   {
     "higestRating": 2392,
@@ -82318,7 +82324,8 @@
     "name": "ANDERSON, Selby K",
     "year": "1986-2018",
     "games": 23,
-    "id": "28519"
+    "id": "28519",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -95298,7 +95305,8 @@
     "name": "CHAN, Mark",
     "year": "1992-1995",
     "games": 17,
-    "id": "94459"
+    "id": "94459",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -99796,7 +99804,8 @@
     "name": "QUN, Li",
     "year": "1999-2002",
     "games": 15,
-    "id": "52675"
+    "id": "52675",
+    "synced": true
   },
   {
     "higestRating": 2353,
