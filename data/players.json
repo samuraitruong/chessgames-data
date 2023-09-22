@@ -8711,7 +8711,8 @@
     "name": "SARKAR, Justin",
     "year": "1995-2023",
     "games": 440,
-    "id": "10168"
+    "id": "10168",
+    "synced": true
   },
   {
     "higestRating": 2521,
@@ -12442,7 +12443,8 @@
     "name": "KAMINSKI, Marcin",
     "year": "1989-2005",
     "games": 306,
-    "id": "17254"
+    "id": "17254",
+    "synced": true
   },
   {
     "higestRating": 2273,
@@ -27343,7 +27345,8 @@
     "name": "GRAF, Felix",
     "year": "2004-2016",
     "games": 123,
-    "id": "107865"
+    "id": "107865",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -39009,7 +39012,8 @@
     "name": "BECKER, Michael",
     "year": "1982-2014",
     "games": 79,
-    "id": "67906"
+    "id": "67906",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -45299,7 +45303,8 @@
     "name": "LAGUNOW, Alexander",
     "year": "1986-2023",
     "games": 65,
-    "id": "85023"
+    "id": "85023",
+    "synced": true
   },
   {
     "higestRating": 2418,
@@ -47384,7 +47389,8 @@
     "name": "KLEIN, Felix",
     "year": "2003-2022",
     "games": 61,
-    "id": "104972"
+    "id": "104972",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -48309,7 +48315,8 @@
     "name": "KARGIN, Arseny",
     "year": "1996-2018",
     "games": 59,
-    "id": "83253"
+    "id": "83253",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -66296,7 +66303,8 @@
     "name": "HETEY, Laszlo",
     "year": "1995-2012",
     "games": 35,
-    "id": "40547"
+    "id": "40547",
+    "synced": true
   },
   {
     "higestRating": 2276,
@@ -70908,7 +70916,8 @@
     "name": "KIEFER, Gerhard",
     "year": "1974-1988",
     "games": 31,
-    "id": "39352"
+    "id": "39352",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -81651,7 +81660,8 @@
     "name": "MRVA, Vladimir",
     "year": "1991-2012",
     "games": 24,
-    "id": "64052"
+    "id": "64052",
+    "synced": true
   },
   {
     "higestRating": 2450,
@@ -100009,7 +100019,8 @@
     "name": "BARRANCO, Narciso Bravo",
     "year": "1992-1998",
     "games": 15,
-    "id": "44549"
+    "id": "44549",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -104341,7 +104352,8 @@
     "name": "BORREGO, Pablo Fernandez",
     "year": "2012-2017",
     "games": 10,
-    "id": "159053"
+    "id": "159053",
+    "synced": true
   },
   {
     "higestRating": 2380,

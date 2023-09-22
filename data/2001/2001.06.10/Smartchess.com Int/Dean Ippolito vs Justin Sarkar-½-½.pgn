@@ -1,0 +1,14 @@
+[Event "Smartchess.com Int"]
+[Site "New York USA"]
+[Date "2001.06.10"]
+[EventDate "2001.06.04"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Dean Ippolito"]
+[Black "Justin Sarkar"]
+[ECO "D10"]
+[WhiteElo "2385"]
+[BlackElo "2406"]
+[PlyCount "41"]
+
+1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e4 e5 5. dxe5 Qxd1+ 6. Nxd1 b5 7. a4 Nd7 8. axb5 cxb5 9. Nc3 Bb4 10. Bd2 Bxc3 11. Bxc3 Nc5 12. Bd4 Nb3 13. Rxa7 Rxa7 14. Bxa7 Ne7 15. Nf3 Bb7 16. Nd2 Nxd2 17. Kxd2 Bxe4 18. b3 Nc6 19. Bc5 Nxe5 20. bxc4 bxc4 21. Bd4 1/2-1/2
