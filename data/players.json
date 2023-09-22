@@ -1112,7 +1112,8 @@
     "name": "SULAVA, Nenad",
     "year": "1979-2019",
     "games": 1621,
-    "id": "42045"
+    "id": "42045",
+    "synced": true
   },
   {
     "higestRating": 2565,
@@ -20111,7 +20112,8 @@
     "name": "KHASIN, Alexander",
     "year": "1954-2003",
     "games": 181,
-    "id": "41720"
+    "id": "41720",
+    "synced": true
   },
   {
     "higestRating": 2521,
@@ -27094,7 +27096,8 @@
     "name": "HENAO, Raul Fernando",
     "year": "1974-2002",
     "games": 124,
-    "id": "21650"
+    "id": "21650",
+    "synced": true
   },
   {
     "higestRating": 2207,
@@ -29394,7 +29397,8 @@
     "name": "DONCEVIC, Dario",
     "year": "1977-2019",
     "games": 112,
-    "id": "24660"
+    "id": "24660",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -55275,7 +55279,8 @@
     "name": "GERASIMOV, Ivan",
     "year": "2007-2015",
     "games": 48,
-    "id": "124580"
+    "id": "124580",
+    "synced": true
   },
   {
     "higestRating": 2386,
@@ -66366,7 +66371,8 @@
     "name": "VORISEK, Jaroslav",
     "year": "1995-2020",
     "games": 35,
-    "id": "40803"
+    "id": "40803",
+    "synced": true
   },
   {
     "higestRating": 2428,
@@ -71763,7 +71769,8 @@
     "name": "DE VRIES, Eelco",
     "year": "1990-1992",
     "games": 31,
-    "id": "110509"
+    "id": "110509",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -90580,7 +90587,8 @@
     "name": "TRATATOVICI, Moshe",
     "year": "1970-2012",
     "games": 19,
-    "id": "44476"
+    "id": "44476",
+    "synced": true
   },
   {
     "higestRating": 2257,
