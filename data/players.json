@@ -5956,7 +5956,8 @@
     "name": "ZILKA, Stepan",
     "year": "1998-2022",
     "games": 632,
-    "id": "51894"
+    "id": "51894",
+    "synced": true
   },
   {
     "higestRating": 2628,
@@ -12694,7 +12695,8 @@
     "name": "KOLAROV, Atanas Stefanov",
     "year": "1953-1986",
     "games": 300,
-    "id": "23282"
+    "id": "23282",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -13390,7 +13392,8 @@
     "name": "GOMEZ, John Paul",
     "year": "2000-2022",
     "games": 284,
-    "id": "56574"
+    "id": "56574",
+    "synced": true
   },
   {
     "higestRating": 2592,
@@ -22292,7 +22295,8 @@
     "name": "DEGERMAN, Lars",
     "year": "1982-2019",
     "games": 160,
-    "id": "27803"
+    "id": "27803",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -47548,7 +47552,8 @@
     "name": "VATNIKOV, Iosif",
     "year": "1949-1997",
     "games": 60,
-    "id": "25714"
+    "id": "25714",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -51102,7 +51107,8 @@
     "name": "DRIAMIN, Dmitrij",
     "year": "1995-2002",
     "games": 54,
-    "id": "49679"
+    "id": "49679",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -85035,7 +85041,8 @@
     "name": "MOLZAHN, Norbert",
     "year": "1985-2000",
     "games": 22,
-    "id": "90593"
+    "id": "90593",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -85441,7 +85448,8 @@
     "name": "KULING, Lody",
     "year": "2007-2012",
     "games": 22,
-    "id": "125133"
+    "id": "125133",
+    "synced": true
   },
   {
     "higestRating": 2400,
