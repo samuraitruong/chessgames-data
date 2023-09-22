@@ -5994,7 +5994,8 @@
     "name": "EFIMOV, Igor",
     "year": "1974-2021",
     "games": 626,
-    "id": "17660"
+    "id": "17660",
+    "synced": true
   },
   {
     "higestRating": 2465,
@@ -9117,7 +9118,8 @@
     "name": "TODORCEVIC, Miodrag",
     "year": "1962-2013",
     "games": 418,
-    "id": "15090"
+    "id": "15090",
+    "synced": true
   },
   {
     "higestRating": 2563,
