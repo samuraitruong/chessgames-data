@@ -4251,7 +4251,8 @@
     "name": "OLL, Lembit",
     "year": "1981-1999",
     "games": 819,
-    "id": "41945"
+    "id": "41945",
+    "synced": true
   },
   {
     "higestRating": 2522,
@@ -9503,7 +9504,8 @@
     "name": "BELENKAYA, Dina",
     "year": "2008-2023",
     "games": 405,
-    "id": "126607"
+    "id": "126607",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -20894,7 +20896,8 @@
     "name": "VAN HAASTERT, Edwin",
     "year": "1994-2020",
     "games": 174,
-    "id": "49109"
+    "id": "49109",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -34472,7 +34475,8 @@
     "name": "SCHULZ, Karsten",
     "year": "1989-2021",
     "games": 93,
-    "id": "78535"
+    "id": "78535",
+    "synced": true
   },
   {
     "higestRating": 2486,
@@ -38712,7 +38716,8 @@
     "name": "ZIVKOVIC, Vjekoslav",
     "year": "1999-2022",
     "games": 80,
-    "id": "53755"
+    "id": "53755",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -50618,7 +50623,8 @@
     "name": "APTEKAR, Lev",
     "year": "1963-1983",
     "games": 55,
-    "id": "81202"
+    "id": "81202",
+    "synced": true
   },
   {
     "higestRating": 2324,
