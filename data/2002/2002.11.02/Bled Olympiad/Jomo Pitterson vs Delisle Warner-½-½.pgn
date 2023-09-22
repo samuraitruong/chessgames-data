@@ -1,0 +1,15 @@
+[Event "Bled Olympiad"]
+[Site "Bled SLO"]
+[Date "2002.11.02"]
+[EventDate "2002.10.26"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Jomo Pitterson"]
+[Black "Delisle Warner"]
+[ECO "E11"]
+[WhiteElo "2248"]
+[BlackElo "2232"]
+[Source "Olimpbase"]
+[PlyCount "31"]
+
+1.d4 e6 2.c4 Nf6 3.Nf3 Bb4+ 4.Nbd2 b6 5.e3 Bb7 6.Bd3 O-O 7.O-O Bxd2 8.Nxd2 c5 9.b3 cxd4 10.exd4 Nc6 11.Nf3 h6 12.Bb2 d5 13.Rc1 Ne4 14.Qe2 f5 15.cxd5 exd5 16.Bb5 1/2-1/2
