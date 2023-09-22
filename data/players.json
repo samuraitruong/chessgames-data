@@ -3716,7 +3716,8 @@
     "name": "LERNER, Konstantin",
     "year": "1962-2009",
     "games": 906,
-    "id": "11660"
+    "id": "11660",
+    "synced": true
   },
   {
     "higestRating": 2633,
@@ -11072,7 +11073,8 @@
     "name": "BOTTERILL, George",
     "year": "1968-1997",
     "games": 346,
-    "id": "14313"
+    "id": "14313",
+    "synced": true
   },
   {
     "higestRating": 2525,
