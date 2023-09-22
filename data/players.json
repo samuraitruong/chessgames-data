@@ -6115,7 +6115,8 @@
     "name": "BURNETT, Ronald",
     "year": "1986-2022",
     "games": 614,
-    "id": "10173"
+    "id": "10173",
+    "synced": true
   },
   {
     "higestRating": 2322,
@@ -15116,7 +15117,8 @@
     "name": "PETRIK, Tomas",
     "year": "1993-2018",
     "games": 250,
-    "id": "50864"
+    "id": "50864",
+    "synced": true
   },
   {
     "higestRating": 2429,
@@ -28555,7 +28557,8 @@
     "name": "TITOV, German",
     "year": "1973-1994",
     "games": 116,
-    "id": "28842"
+    "id": "28842",
+    "synced": true
   },
   {
     "higestRating": 2521,
@@ -76843,7 +76846,8 @@
     "name": "VAN SCHAARDENBURG, Mark",
     "year": "1989-2003",
     "games": 27,
-    "id": "55539"
+    "id": "55539",
+    "synced": true
   },
   {
     "higestRating": 2416,
