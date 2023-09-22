@@ -2675,7 +2675,8 @@
     "name": "MEIER, Georg",
     "year": "2000-2023",
     "games": 1110,
-    "id": "95763"
+    "id": "95763",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -6671,7 +6672,8 @@
     "name": "LINDBERG, Bengt",
     "year": "1980-2023",
     "games": 568,
-    "id": "50855"
+    "id": "50855",
+    "synced": true
   },
   {
     "higestRating": 2647,
@@ -14285,7 +14287,8 @@
     "name": "HOLZKE, Frank",
     "year": "1988-2013",
     "games": 264,
-    "id": "11631"
+    "id": "11631",
+    "synced": true
   },
   {
     "higestRating": 2483,
@@ -68461,7 +68464,8 @@
     "name": "VETTER, Herbert",
     "year": "1979-2002",
     "games": 33,
-    "id": "39320"
+    "id": "39320",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -73336,7 +73340,8 @@
     "name": "JOHNSTONE, Glenn",
     "year": "1985-1995",
     "games": 29,
-    "id": "22591"
+    "id": "22591",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -74985,7 +74990,8 @@
     "name": "FRIALDE, Arniel",
     "year": "1989-1996",
     "games": 28,
-    "id": "44133"
+    "id": "44133",
+    "synced": true
   },
   {
     "higestRating": 2228,
@@ -75898,7 +75904,8 @@
     "name": "APECHECHE, Yanira Vigoa",
     "year": "2010-2014",
     "games": 28,
-    "id": "139377"
+    "id": "139377",
+    "synced": true
   },
   {
     "higestRating": 2330,

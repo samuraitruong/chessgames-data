@@ -1,0 +1,14 @@
+[Event "93rd US Open"]
+[Site "Dearborn, MI USA"]
+[Date "1992.08.03"]
+[EventDate "1992.08.02"]
+[Round "2.11"]
+[Result "1-0"]
+[White "Glenn Johnstone"]
+[Black "John Norman"]
+[ECO "B08"]
+[WhiteElo "2390"]
+[BlackElo "1965h"]
+[PlyCount "49"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.h3 O-O 6.Be2 c6 7.a4 d5 8.e5 Ne8 9.Bf4 e6 10.Qd2 Qc7 11.a5 c5 12.Nb5 Qc6 13.O-O a6 14.Nc3 Nd7 15.Na4 Bh8 16.c3 Ng7 17.g4 Rd8 18.Bg5 Re8 19.Bf6 c4 20.Nb6 Nf8 21.Nxa8 b5 22.Nb6 Bb7 23.Qh6 Rb8 24.Ng5 Qc7 25.Bd1 1-0
