@@ -282,7 +282,8 @@
     "name": "LEKO, Peter",
     "year": "1989-2020",
     "games": 2533,
-    "id": "12290"
+    "id": "12290",
+    "synced": true
   },
   {
     "higestRating": 2585,
@@ -52313,7 +52314,8 @@
     "name": "BIGG, Andrew J",
     "year": "1999-2015",
     "games": 52,
-    "id": "53959"
+    "id": "53959",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -87309,7 +87311,8 @@
     "name": "SEEGERT, Kristian",
     "year": "2007-2018",
     "games": 21,
-    "id": "118260"
+    "id": "118260",
+    "synced": true
   },
   {
     "higestRating": 2226,
@@ -105536,7 +105539,8 @@
     "name": "PERERA, Vajira",
     "year": "1984-1989",
     "games": 7,
-    "id": "110718"
+    "id": "110718",
+    "synced": true
   },
   {
     "higestRating": 2291,
