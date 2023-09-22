@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.21"]
+[EventDate "2020.08.21"]
+[Round "2"]
+[Result "1-0"]
+[White "Dennis Wagner"]
+[Black "MAmin Tabatabaei"]
+[ECO "E97"]
+[WhiteElo "2454"]
+[BlackElo "2381"]
+[Source "Chess-Results"]
+[PlyCount "98"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. b4 a5 10. bxa5 c5 11. a4 Rxa5 12. Bd2 Ra6 13. Ra3 Ne8 14. Nb5 h6 15. Qc1 Kh7 16. Bd3 f5 17. exf5 gxf5 18. Bc2 Ng6 19. Qd1 Nf6 20. g3 e4 21. Ne1 f4 22. gxf4 Bf5 23. Rg3 Qd7 24. Kh1 h5 25. f3 Bh6 26. Nc3 e3 27. Bxe3 h4 28. Rg5 Bxg5 29. fxg5 Bxc2 30. Qxc2 Ng4 31. Bd2 Ne5 32. Ne4 Qh3 33. Rf2 Ng4 34. Rg2 Rxf3 35. Nxf3 Qxf3 36. Nf6+ Nxf6 37. gxf6 Qf1+ 38. Rg1 Qf3+ 39. Rg2 Qf1+ 40. Rg1 Qxf6 41. Qd1 Qf5 42. Rg5 Qe4+ 43. Kg1 Qd4+ 44. Kh1 Nf4 45. Qb1+ Kh8 46. Qf5 Ra8 47. Qxf4 Qa1+ 48. Bc1 Re8 49. Qxh4# 1-0

@@ -4820,7 +4820,8 @@
     "name": "TABATABAEI, M Amin",
     "year": "2012-2023",
     "games": 750,
-    "id": "142947"
+    "id": "142947",
+    "synced": true
   },
   {
     "higestRating": 2625,
@@ -11820,7 +11821,8 @@
     "name": "RIEMERSMA, Liafbern",
     "year": "1984-2018",
     "games": 323,
-    "id": "17362"
+    "id": "17362",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -95692,7 +95694,8 @@
     "name": "GASPARIAN, Narine",
     "year": "1996-2005",
     "games": 17,
-    "id": "97866"
+    "id": "97866",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -107211,7 +107214,8 @@
     "name": "AVALYAN, Artur",
     "year": "2016-2019",
     "games": 3,
-    "id": "163513"
+    "id": "163513",
+    "synced": true
   },
   {
     "higestRating": 2265,
