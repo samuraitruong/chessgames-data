@@ -1,0 +1,15 @@
+[Event "Olympiad"]
+[Site "Buenos Aires ARG"]
+[Date "1978.10.28"]
+[EventDate "1978.10.25"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Steen Fedder"]
+[Black "Bruno Parma"]
+[ECO "E08"]
+[WhiteElo "2400"]
+[BlackElo "2540"]
+[Source "Olimpbase"]
+[PlyCount "40"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 Nbd7 5.Bg2 Be7 6.O-O O-O 7.Qc2 c6 8.b3 b6 9.Ba3 Bb7 10.Bxe7 Qxe7 11.Nbd2 dxc4 12.Nxc4 c5 13.Rfd1 Rfd8 14.Rac1 Rac8 15.Qb2 cxd4 16.Nxd4 Bxg2 17.Kxg2 Nb8 18.Nf3 h6 19.Rxd8+ Qxd8 20.Nce5 Rc7 1/2-1/2

@@ -1643,7 +1643,8 @@
     "name": "ALMASI, Zoltan",
     "year": "1990-2021",
     "games": 1407,
-    "id": "14210"
+    "id": "14210",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -10379,7 +10380,8 @@
     "name": "ZAIATZ, Elena",
     "year": "1985-2019",
     "games": 371,
-    "id": "58772"
+    "id": "58772",
+    "synced": true
   },
   {
     "higestRating": 2576,
@@ -22394,7 +22396,8 @@
     "name": "FEDDER, Steen",
     "year": "1969-1992",
     "games": 159,
-    "id": "18020"
+    "id": "18020",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -30549,7 +30552,8 @@
     "name": "RODRIGUEZ, Luis Manuel Perez",
     "year": "1998-2022",
     "games": 108,
-    "id": "118673"
+    "id": "118673",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -84013,7 +84017,8 @@
     "name": "KOSTOLANSKY, Sebastian Lukas",
     "year": "2016-2023",
     "games": 23,
-    "id": "156246"
+    "id": "156246",
+    "synced": true
   },
   {
     "higestRating": 2480,
@@ -98110,7 +98115,8 @@
     "name": "KOC, Przemyslaw",
     "year": "1994-1999",
     "games": 16,
-    "id": "89779"
+    "id": "89779",
+    "synced": true
   },
   {
     "higestRating": 2382,
@@ -104916,7 +104922,8 @@
     "name": "ZAVADSKY, Peter",
     "year": "1992-2006",
     "games": 8,
-    "id": "102522"
+    "id": "102522",
+    "synced": true
   },
   {
     "higestRating": 2270,
