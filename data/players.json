@@ -3147,7 +3147,8 @@
     "name": "MCHEDLISHVILI, Mikheil",
     "year": "1986-2023",
     "games": 1009,
-    "id": "49454"
+    "id": "49454",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -29347,7 +29348,8 @@
     "name": "OHANYAN, Emin",
     "year": "2016-2023",
     "games": 113,
-    "id": "156366"
+    "id": "156366",
+    "synced": true
   },
   {
     "higestRating": 2451,
@@ -55791,7 +55793,8 @@
     "name": "LUNGU, Nase",
     "year": "1990-2022",
     "games": 47,
-    "id": "55413"
+    "id": "55413",
+    "synced": true
   },
   {
     "higestRating": 2227,
