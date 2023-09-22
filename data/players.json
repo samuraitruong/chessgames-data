@@ -870,7 +870,8 @@
     "name": "LAGNO, Kateryna",
     "year": "1997-2023",
     "games": 1801,
-    "id": "50277"
+    "id": "50277",
+    "synced": true
   },
   {
     "higestRating": 2735,
@@ -19492,7 +19493,8 @@
     "name": "JARMULA, Lukasz",
     "year": "2010-2023",
     "games": 189,
-    "id": "128311"
+    "id": "128311",
+    "synced": true
   },
   {
     "higestRating": 2442,
@@ -22477,7 +22479,8 @@
     "name": "SCHEKACHIKHIN, Maksim",
     "year": "2012-2023",
     "games": 159,
-    "id": "141445"
+    "id": "141445",
+    "synced": true
   },
   {
     "higestRating": 2464,
@@ -48256,7 +48259,8 @@
     "name": "PENTTINEN, Jarkko",
     "year": "1992-2013",
     "games": 59,
-    "id": "58727"
+    "id": "58727",
+    "synced": true
   },
   {
     "higestRating": 2439,
@@ -76800,7 +76804,8 @@
     "name": "DEWENTER, Ulf",
     "year": "1993-2004",
     "games": 27,
-    "id": "58670"
+    "id": "58670",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -95881,7 +95886,8 @@
     "name": "PLUEMER, Detlef",
     "year": "2001-2006",
     "games": 17,
-    "id": "105195"
+    "id": "105195",
+    "synced": true
   },
   {
     "higestRating": 2555,
