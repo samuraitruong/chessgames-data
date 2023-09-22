@@ -11691,7 +11691,8 @@
     "name": "PAUNOVIC, Dragan",
     "year": "1976-2015",
     "games": 328,
-    "id": "18745"
+    "id": "18745",
+    "synced": true
   },
   {
     "higestRating": 2594,
@@ -20434,7 +20435,8 @@
     "name": "WESTERBERG, Jonathan",
     "year": "2011-2022",
     "games": 179,
-    "id": "141599"
+    "id": "141599",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -22328,7 +22330,8 @@
     "name": "DYACHKOV, Sergej",
     "year": "1992-2010",
     "games": 160,
-    "id": "43465"
+    "id": "43465",
+    "synced": true
   },
   {
     "higestRating": 2506,
@@ -53627,7 +53630,8 @@
     "name": "SCHURADE, Matthias",
     "year": "1977-2004",
     "games": 50,
-    "id": "82440"
+    "id": "82440",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -53677,7 +53681,8 @@
     "name": "ISLAM, Kh Aminul",
     "year": "2002-2022",
     "games": 50,
-    "id": "91759"
+    "id": "91759",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -57834,7 +57839,8 @@
     "name": "CIMER, Emanuel",
     "year": "2017-2018",
     "games": 45,
-    "id": "157919"
+    "id": "157919",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -59615,7 +59621,8 @@
     "name": "QUISPE, Kevin Joel Cori",
     "year": "2013-2018",
     "games": 43,
-    "id": "156961"
+    "id": "156961",
+    "synced": true
   },
   {
     "higestRating": 2329,
@@ -60073,7 +60080,8 @@
     "name": "LOKTIEV, Ivan",
     "year": "1974-2009",
     "games": 42,
-    "id": "72461"
+    "id": "72461",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -62601,7 +62609,8 @@
     "name": "PETROVIC, Vojislav",
     "year": "1981-1996",
     "games": 39,
-    "id": "35244"
+    "id": "35244",
+    "synced": true
   },
   {
     "higestRating": 2273,
@@ -68723,7 +68732,8 @@
     "name": "VADLA, Zeljko",
     "year": "1979-2006",
     "games": 33,
-    "id": "49210"
+    "id": "49210",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -78629,7 +78639,8 @@
     "name": "GAST, Jonathan",
     "year": "1982-2009",
     "games": 26,
-    "id": "94066"
+    "id": "94066",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -99142,7 +99153,8 @@
     "name": "KANANUB, Warot",
     "year": "2011-2012",
     "games": 16,
-    "id": "129507"
+    "id": "129507",
+    "synced": true
   },
   {
     "higestRating": 2211,
