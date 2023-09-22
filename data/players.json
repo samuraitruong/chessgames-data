@@ -5729,7 +5729,8 @@
     "name": "ZAKHARTSOV, Vladimir",
     "year": "2004-2023",
     "games": 658,
-    "id": "110191"
+    "id": "110191",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -16615,7 +16616,8 @@
     "name": "PHILIPPE, Christophe",
     "year": "1997-2021",
     "games": 223,
-    "id": "51935"
+    "id": "51935",
+    "synced": true
   },
   {
     "higestRating": 2474,
@@ -19776,7 +19778,8 @@
     "name": "DROZDOVA, Dina",
     "year": "2001-2018",
     "games": 184,
-    "id": "49726"
+    "id": "49726",
+    "synced": true
   },
   {
     "higestRating": 2497,
@@ -76261,7 +76264,8 @@
     "name": "ALFONSO, Braulio",
     "year": "1989-1999",
     "games": 27,
-    "id": "28247"
+    "id": "28247",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -77576,7 +77580,8 @@
     "name": "RESCHKE, Thomas",
     "year": "1992-1998",
     "games": 26,
-    "id": "17936"
+    "id": "17936",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -88558,7 +88563,8 @@
     "name": "GAFFAGAN, Steven",
     "year": "2000-2019",
     "games": 20,
-    "id": "69765"
+    "id": "69765",
+    "synced": true
   },
   {
     "higestRating": 2342,
