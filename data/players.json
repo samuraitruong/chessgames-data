@@ -3434,7 +3434,8 @@
     "name": "KHOTENASHVILI, Bela",
     "year": "1999-2023",
     "games": 954,
-    "id": "87968"
+    "id": "87968",
+    "synced": true
   },
   {
     "higestRating": 2555,
@@ -11236,7 +11237,8 @@
     "name": "XU, Yinglun",
     "year": "2011-2023",
     "games": 342,
-    "id": "149137"
+    "id": "149137",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -17882,7 +17884,8 @@
     "name": "BIOLEK, Richard",
     "year": "1991-2018",
     "games": 208,
-    "id": "29148"
+    "id": "29148",
+    "synced": true
   },
   {
     "higestRating": 2273,
@@ -43301,7 +43304,8 @@
     "name": "CIOBANU, Camelia-Adriana",
     "year": "1995-2015",
     "games": 69,
-    "id": "54816"
+    "id": "54816",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -53386,7 +53390,8 @@
     "name": "VUCINIC, Pero",
     "year": "1985-2009",
     "games": 50,
-    "id": "37858"
+    "id": "37858",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -63902,7 +63907,8 @@
     "name": "GRINZA, Andrea",
     "year": "1972-1997",
     "games": 38,
-    "id": "99639"
+    "id": "99639",
+    "synced": true
   },
   {
     "higestRating": 2243,
@@ -65933,7 +65939,8 @@
     "name": "CRUZ, Jonathan",
     "year": "2007-2021",
     "games": 36,
-    "id": "131824"
+    "id": "131824",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -78720,7 +78727,8 @@
     "name": "SLIWERSKI, Radoslaw",
     "year": "2005-2020",
     "games": 26,
-    "id": "102466"
+    "id": "102466",
+    "synced": true
   },
   {
     "higestRating": 2229,
@@ -105414,7 +105422,8 @@
     "name": "TRESCHER, Manfred",
     "year": "1973-2011",
     "games": 7,
-    "id": "73894"
+    "id": "73894",
+    "synced": true
   },
   {
     "higestRating": 2358,
