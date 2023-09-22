@@ -2323,7 +2323,8 @@
     "name": "SZMETAN, Jorge",
     "year": "1969-2007",
     "games": 1178,
-    "id": "16431"
+    "id": "16431",
+    "synced": true
   },
   {
     "higestRating": 2623,
@@ -23566,7 +23567,8 @@
     "name": "COELHO, Luis Henrique Pinto",
     "year": "1998-2017",
     "games": 150,
-    "id": "49669"
+    "id": "49669",
+    "synced": true
   },
   {
     "higestRating": 2504,
@@ -58991,7 +58993,8 @@
     "name": "JIRAVORASUK, Banjuab",
     "year": "1990-2006",
     "games": 43,
-    "id": "52458"
+    "id": "52458",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -59878,7 +59881,8 @@
     "name": "KUZNETSOV, Viktor",
     "year": "1994-2011",
     "games": 42,
-    "id": "57053"
+    "id": "57053",
+    "synced": true
   },
   {
     "higestRating": 2314,
@@ -60364,7 +60368,8 @@
     "name": "WAWER, Daniel Sanz",
     "year": "2017-2022",
     "games": 42,
-    "id": "160121"
+    "id": "160121",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -88513,7 +88518,8 @@
     "name": "KARNIK, Pavel",
     "year": "1992-2003",
     "games": 20,
-    "id": "66849"
+    "id": "66849",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -99037,7 +99043,8 @@
     "name": "LE, Minh Hoang",
     "year": "2010-2019",
     "games": 16,
-    "id": "134732"
+    "id": "134732",
+    "synced": true
   },
   {
     "higestRating": 2239,
