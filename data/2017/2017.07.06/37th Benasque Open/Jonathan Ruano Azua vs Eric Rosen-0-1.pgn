@@ -1,0 +1,15 @@
+[Event "37th Benasque Open"]
+[Site "Benasque ESP"]
+[Date "2017.07.06"]
+[EventDate "2017.07.07"]
+[Round "2"]
+[Result "0-1"]
+[White "Jonathan Ruano Azua"]
+[Black "Eric Rosen"]
+[ECO "B20"]
+[WhiteElo "2030"]
+[BlackElo "2369"]
+[Source "https://www.youtube.com/watch?v=oe7kOAXSndc"]
+[PlyCount "36"]
+
+1.e4 c5 2.c4 Nf6 3.Nc3 Nc6 4.Nf3 e6 5.g3 d5 6.exd5 exd5 7.Qe2+ Be7 8.d3 dxc4 9.dxc4 Bf5 10.a3 Nd4 11.Nxd4 cxd4 12.Qe5 Be6 13.Nb5 O-O 14.Nxd4 Bg4 15.Be3 Re8 16.Qb5 Qxd4 17.Qxe8+ Rxe8 18.Bxd4 Bb4# 0-1

@@ -1,0 +1,14 @@
+[Event "FIDE World Rapid Team Championship"]
+[Site "Duesseldorf GER"]
+[Date "2023.08.28"]
+[EventDate "2023.08.26"]
+[Round "9.13"]
+[Result "0-1"]
+[White "Roland Katz"]
+[Black "Peter T Roberson"]
+[ECO "C01"]
+[WhiteElo "2035"]
+[BlackElo "2433"]
+[PlyCount "40"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nc3 Bb4 6. h3 O-O 7. Nf3 Ne4 8. Qb3 Re8 9. Be3 Bxc3+ 10. bxc3 c5 11. cxd5 cxd4 12. cxd4 Qa5+ 13. Kd1 Bd7 14. a4 Na6 15. Bd2 Nxf2+ 16. Kc1 Qc7+ 17. Bc4 Nxh1 18. Kb2 Rac8 19. Rc1 Qb6 20. Rxh1 Rxc4 0-1

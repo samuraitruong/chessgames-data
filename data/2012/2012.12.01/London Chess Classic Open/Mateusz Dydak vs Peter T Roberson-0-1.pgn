@@ -1,0 +1,14 @@
+[Event "London Chess Classic Open"]
+[Site "London ENG"]
+[Date "2012.12.01"]
+[EventDate "2012.12.01"]
+[Round "1"]
+[Result "0-1"]
+[White "Mateusz Dydak"]
+[Black "Peter T Roberson"]
+[ECO "C18"]
+[WhiteElo "1992"]
+[BlackElo "2350"]
+[PlyCount "42"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Nf3 Nbc6 9. Bd3 f5 10. exf6 Rxf6 11. Qh4 h6 12. Ne5 Nxe5 13. dxe5 Rf7 14. O-O Qa5 15. c4 Qc3 16. Rb1 Qxe5 17. a4 Nf5 18. Bxf5 Qxf5 19. Ba3 b6 20. a5 Ba6 21. axb6 axb6 0-1

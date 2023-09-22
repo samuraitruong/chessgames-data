@@ -17241,7 +17241,8 @@
     "name": "ROBERSON, Peter T",
     "year": "2006-2023",
     "games": 215,
-    "id": "105366"
+    "id": "105366",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -17669,7 +17670,8 @@
     "name": "ROSEN, Eric",
     "year": "2004-2023",
     "games": 211,
-    "id": "114655"
+    "id": "114655",
+    "synced": true
   },
   {
     "higestRating": 2448,
@@ -37153,7 +37155,8 @@
     "name": "SHAVTVALADZE, Nikoloz",
     "year": "1994-2009",
     "games": 84,
-    "id": "51358"
+    "id": "51358",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -42028,7 +42031,8 @@
     "name": "SARGAC, Rajna (Radakovic)",
     "year": "1992-2010",
     "games": 72,
-    "id": "88982"
+    "id": "88982",
+    "synced": true
   },
   {
     "higestRating": 2502,
@@ -42851,7 +42855,8 @@
     "name": "FOSSAN, Petter",
     "year": "1986-2018",
     "games": 70,
-    "id": "60092"
+    "id": "60092",
+    "synced": true
   },
   {
     "higestRating": 2505,
@@ -47188,7 +47193,8 @@
     "name": "PRAZNIK, Anton",
     "year": "1973-2017",
     "games": 61,
-    "id": "49918"
+    "id": "49918",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -54567,7 +54573,8 @@
     "name": "RADZHABOV, Rodion",
     "year": "2016-2023",
     "games": 49,
-    "id": "154768"
+    "id": "154768",
+    "synced": true
   },
   {
     "higestRating": 2303,
@@ -61481,7 +61488,8 @@
     "name": "LAOHAWIRAPAP, Prin",
     "year": "2020-2023",
     "games": 41,
-    "id": "164857"
+    "id": "164857",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -61840,7 +61848,8 @@
     "name": "SEIFERT, Volker",
     "year": "1999-2021",
     "games": 40,
-    "id": "57697"
+    "id": "57697",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -66716,7 +66725,8 @@
     "name": "CONDORI, Alfredo Cruz",
     "year": "1987-2005",
     "games": 35,
-    "id": "81321"
+    "id": "81321",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -71445,7 +71455,8 @@
     "name": "PRILLELTENSKY, Matan",
     "year": "2004-2021",
     "games": 31,
-    "id": "85721"
+    "id": "85721",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -76387,7 +76398,8 @@
     "name": "GUEDON, Stephane",
     "year": "1991-2013",
     "games": 27,
-    "id": "21947"
+    "id": "21947",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -81156,7 +81168,8 @@
     "name": "TONOLI, Walter",
     "year": "1973-2001",
     "games": 24,
-    "id": "17791"
+    "id": "17791",
+    "synced": true
   },
   {
     "higestRating": 2338,
@@ -83437,7 +83450,8 @@
     "name": "BURKETT, Max",
     "year": "1960-1998",
     "games": 23,
-    "id": "97557"
+    "id": "97557",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -86990,7 +87004,8 @@
     "name": "DAVID, Adrian",
     "year": "1987-2003",
     "games": 21,
-    "id": "89944"
+    "id": "89944",
+    "synced": true
   },
   {
     "higestRating": 2505,
@@ -98779,7 +98794,8 @@
     "name": "BOYD, Kendall",
     "year": "1982-2000",
     "games": 16,
-    "id": "109256"
+    "id": "109256",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -102104,7 +102120,8 @@
     "name": "LIU, Zhaoqi",
     "year": "2019-2023",
     "games": 15,
-    "id": "161783"
+    "id": "161783",
+    "synced": true
   },
   {
     "higestRating": 2275,
