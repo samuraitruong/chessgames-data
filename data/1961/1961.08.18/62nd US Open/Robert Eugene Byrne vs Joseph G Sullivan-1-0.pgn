@@ -1,0 +1,14 @@
+[Event "62nd US Open"]
+[Site "San Francisco, CA USA"]
+[Date "1961.08.18"]
+[EventDate "1961.08.14"]
+[Round "5.7"]
+[Result "1-0"]
+[White "Robert Eugene Byrne"]
+[Black "Joseph G Sullivan"]
+[ECO "A81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.d4 f5 2.g3 Nf6 3.Bg2 g6 4.Nh3 Bg7 5.O-O O-O 6.c4 c5 7.dxc5 Na6 8.Nc3 Nxc5 9.Nf4 e5 10.Nfd5 Ne6 11.b3 Nxd5 12.Nxd5 e4 13.Ba3 Re8 14.Rb1 Nc7 15.f3 exf3 16.exf3 Nxd5 17.Qxd5+ Re6 18.Rfe1 Qe8 19.f4 Kh8 20.Qd2 a5 21.Bd5 Rxe1+ 22.Rxe1 Qd8 23.Bf7 1-0

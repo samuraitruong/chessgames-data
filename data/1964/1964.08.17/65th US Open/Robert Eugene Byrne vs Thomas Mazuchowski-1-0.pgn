@@ -1,0 +1,14 @@
+[Event "65th US Open"]
+[Site "Boston, MA USA"]
+[Date "1964.08.17"]
+[EventDate "1964.08.16"]
+[Round "2"]
+[Result "1-0"]
+[White "Robert Eugene Byrne"]
+[Black "Thomas Mazuchowski"]
+[ECO "D41"]
+[WhiteElo "2522"]
+[BlackElo "2065"]
+[PlyCount "41"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 Nxd5 5.Nf3 c5 6.e3 Nc6 7.Bc4 cxd4 8.exd4 Be7 9.O-O O-O 10.Re1 Nf6 11.a3 b6 12.Ba2 Bb7 13.Qd3 Rc8 14.Bg5 Re8 15.Rad1 Nd5 16.Ne4 h6 17.Bc1 Bf8 18.Bb1 g6 19.Ne5 Nf6 20.Nxf7 Qe7 21.Ned6 1-0
