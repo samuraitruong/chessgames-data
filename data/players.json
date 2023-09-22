@@ -937,7 +937,8 @@
     "name": "ROMANOV, Evgeny",
     "year": "1990-2023",
     "games": 1747,
-    "id": "95759"
+    "id": "95759",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -15240,7 +15241,8 @@
     "name": "ESTEO, Pedro Antonio Gines",
     "year": "2016-2023",
     "games": 248,
-    "id": "161845"
+    "id": "161845",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -15756,7 +15758,8 @@
     "name": "ODEEV, Handszar",
     "year": "1985-2019",
     "games": 237,
-    "id": "95359"
+    "id": "95359",
+    "synced": true
   },
   {
     "higestRating": 2536,
@@ -34669,7 +34672,8 @@
     "name": "LEJLIC, Samir",
     "year": "1990-2015",
     "games": 92,
-    "id": "60221"
+    "id": "60221",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -108116,7 +108120,8 @@
     "name": "MABEE, Tom",
     "year": "1982",
     "games": 1,
-    "id": "127848"
+    "id": "127848",
+    "synced": true
   },
   {
     "higestRating": 2257,
