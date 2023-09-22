@@ -1071,7 +1071,8 @@
     "name": "FEDOSEEV, Vladimir",
     "year": "2006-2023",
     "games": 1641,
-    "id": "108200"
+    "id": "108200",
+    "synced": true
   },
   {
     "higestRating": 2679,
@@ -50096,7 +50097,8 @@
     "name": "STOJANOVSKI, Sandi",
     "year": "2010-2017",
     "games": 56,
-    "id": "126893"
+    "id": "126893",
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -55318,7 +55320,8 @@
     "name": "GOLIKOV, Daniil",
     "year": "2016-2021",
     "games": 48,
-    "id": "154727"
+    "id": "154727",
+    "synced": true
   },
   {
     "higestRating": 2396,
@@ -60839,7 +60842,8 @@
     "name": "SCHMITZER, Klaus",
     "year": "1988-2018",
     "games": 41,
-    "id": "69696"
+    "id": "69696",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -61168,7 +61172,8 @@
     "name": "FRAGA, Pedro Alejandro Jimenez",
     "year": "2010-2017",
     "games": 41,
-    "id": "131850"
+    "id": "131850",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -62399,7 +62404,8 @@
     "name": "CAESSENS, Rob",
     "year": "1982-2008",
     "games": 39,
-    "id": "19672"
+    "id": "19672",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -93745,7 +93751,8 @@
     "name": "JANCZARSKI, Michal",
     "year": "2008-2012",
     "games": 18,
-    "id": "117757"
+    "id": "117757",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -96544,7 +96551,8 @@
     "name": "HELENIUS, Martti",
     "year": "1988-1995",
     "games": 17,
-    "id": "149621"
+    "id": "149621",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -98368,7 +98376,8 @@
     "name": "FRASCHINI, Mariano",
     "year": "1989-2005",
     "games": 16,
-    "id": "98983"
+    "id": "98983",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -105682,7 +105691,8 @@
     "name": "BENES, Petr",
     "year": "1968-2007",
     "games": 6,
-    "id": "63965"
+    "id": "63965",
+    "synced": true
   },
   {
     "higestRating": 2236,
@@ -107048,7 +107058,8 @@
     "name": "WASILUK, Kevin",
     "year": "2006-2015",
     "games": 3,
-    "id": "126745"
+    "id": "126745",
+    "synced": true
   },
   {
     "higestRating": 2490,
