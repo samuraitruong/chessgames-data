@@ -6663,7 +6663,8 @@
     "name": "PYTEL, Krzysztof",
     "year": "1965-2010",
     "games": 569,
-    "id": "32585"
+    "id": "32585",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -18099,7 +18100,8 @@
     "name": "MALININ, Yuri",
     "year": "1991-2018",
     "games": 206,
-    "id": "56703"
+    "id": "56703",
+    "synced": true
   },
   {
     "higestRating": 2331,
@@ -33084,7 +33086,8 @@
     "name": "SCHOORL, Rob",
     "year": "1997-2018",
     "games": 98,
-    "id": "51026"
+    "id": "51026",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -33881,7 +33884,8 @@
     "name": "MARKGRAF, Alexander",
     "year": "2000-2022",
     "games": 95,
-    "id": "58078"
+    "id": "58078",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -55962,7 +55966,8 @@
     "name": "CUNNINGHAM, Phil",
     "year": "1980-1986",
     "games": 47,
-    "id": "82637"
+    "id": "82637",
+    "synced": true
   },
   {
     "higestRating": 2329,
@@ -61953,7 +61958,8 @@
     "name": "GRUENENWALD, Joerg",
     "year": "1985-2017",
     "games": 40,
-    "id": "71803"
+    "id": "71803",
+    "synced": true
   },
   {
     "higestRating": 2298,
