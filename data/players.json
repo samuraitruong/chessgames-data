@@ -5802,7 +5802,8 @@
     "name": "PANCHENKO, Alexander",
     "year": "1969-2008",
     "games": 647,
-    "id": "27608"
+    "id": "27608",
+    "synced": true
   },
   {
     "higestRating": 2537,
@@ -19241,7 +19242,8 @@
     "name": "PETR, Martin",
     "year": "1998-2021",
     "games": 191,
-    "id": "94205"
+    "id": "94205",
+    "synced": true
   },
   {
     "higestRating": 2481,
@@ -22711,7 +22713,8 @@
     "name": "VUKOVIC, Zdravko",
     "year": "1978-2006",
     "games": 157,
-    "id": "49603"
+    "id": "49603",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -36457,7 +36460,8 @@
     "name": "MUNOZ, Marcelo Panelo",
     "year": "1995-2022",
     "games": 86,
-    "id": "50562"
+    "id": "50562",
+    "synced": true
   },
   {
     "higestRating": 2284,
@@ -51520,7 +51524,8 @@
     "name": "ROSANDIC, Denis",
     "year": "1991-2014",
     "games": 53,
-    "id": "24741"
+    "id": "24741",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -77571,7 +77576,8 @@
     "name": "KOEPCKE, Richard",
     "year": "1981-2015",
     "games": 26,
-    "id": "11318"
+    "id": "11318",
+    "synced": true
   },
   {
     "higestRating": 2283,
@@ -89360,7 +89366,8 @@
     "name": "TAMAZYAN, Haik",
     "year": "2003-2011",
     "games": 20,
-    "id": "118194"
+    "id": "118194",
+    "synced": true
   },
   {
     "higestRating": 2232,
@@ -95154,7 +95161,8 @@
     "name": "OLZEM, Lothar",
     "year": "1985-2006",
     "games": 17,
-    "id": "59724"
+    "id": "59724",
+    "synced": true
   },
   {
     "higestRating": 2287,
@@ -104706,7 +104714,8 @@
     "name": "FERRER, Jose Pisa",
     "year": "1981-1993",
     "games": 8,
-    "id": "17630"
+    "id": "17630",
+    "synced": true
   },
   {
     "higestRating": 2388,
