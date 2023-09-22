@@ -1,0 +1,14 @@
+[Event "London Chess Classic Open"]
+[Site "London ENG"]
+[Date "2014.12.10"]
+[EventDate "2014.12.08"]
+[Round "3.31"]
+[Result "0-1"]
+[White "Lee Bullock"]
+[Black "Peter Constantinou"]
+[ECO "B21"]
+[WhiteElo "1514"]
+[BlackElo "2276"]
+[PlyCount "48"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 a6 6. Bc4 Ne7 7. O-O Ng6 8. Qe2 Be7 9. Rd1 b5 10. Bb3 Bb7 11. a3 O-O 12. Be3 Nc6 13. Rd2 d6 14. Ne1 Rc8 15. f4 Na5 16. Ba2 Nc4 17. Rd3 Qc7 18. Rad1 Nxe3 19. Qxe3 d5 20. Kh1 Nxf4 21. R3d2 Bc5 22. Qf3 dxe4 23. Qg4 Bc6 24. Nc2 e3 0-1
