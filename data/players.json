@@ -5382,7 +5382,8 @@
     "name": "NEI, Iivo",
     "year": "1946-2001",
     "games": 688,
-    "id": "37224"
+    "id": "37224",
+    "synced": true
   },
   {
     "higestRating": 2657,
@@ -20599,7 +20600,8 @@
     "name": "WALL, Tim P",
     "year": "1983-2023",
     "games": 176,
-    "id": "21974"
+    "id": "21974",
+    "synced": true
   },
   {
     "higestRating": 2407,
@@ -38129,7 +38131,8 @@
     "name": "KOSIKOV, Alexey",
     "year": "1974-2003",
     "games": 81,
-    "id": "12243"
+    "id": "12243",
+    "synced": true
   },
   {
     "higestRating": 2441,
@@ -44759,7 +44762,8 @@
     "name": "SOLONAR, Stefan",
     "year": "1973-2017",
     "games": 66,
-    "id": "102979"
+    "id": "102979",
+    "synced": true
   },
   {
     "higestRating": 2512,
