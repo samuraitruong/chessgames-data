@@ -7453,7 +7453,8 @@
     "name": "POTAPOV, Alexander",
     "year": "1990-2016",
     "games": 506,
-    "id": "51346"
+    "id": "51346",
+    "synced": true
   },
   {
     "higestRating": 2545,
@@ -9079,7 +9080,8 @@
     "name": "GELLER, Jakov",
     "year": "1999-2021",
     "games": 420,
-    "id": "49676"
+    "id": "49676",
+    "synced": true
   },
   {
     "higestRating": 2511,
@@ -21285,7 +21287,8 @@
     "name": "JOHANNSSON, Ingi Randver",
     "year": "1954-1985",
     "games": 169,
-    "id": "25729"
+    "id": "25729",
+    "synced": true
   },
   {
     "higestRating": 2326,
@@ -42745,7 +42748,8 @@
     "name": "SIPOS, Istvan",
     "year": "1999-2019",
     "games": 70,
-    "id": "50351"
+    "id": "50351",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -61160,7 +61164,8 @@
     "name": "KOZLITIN, Roman",
     "year": "2007-2017",
     "games": 41,
-    "id": "125325"
+    "id": "125325",
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -62443,7 +62448,8 @@
     "name": "DRANOV, Aleksandar",
     "year": "1992-2011",
     "games": 39,
-    "id": "22749"
+    "id": "22749",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -67539,7 +67545,8 @@
     "name": "KALASHNIKOV, Konstantin",
     "year": "1998-2016",
     "games": 34,
-    "id": "57049"
+    "id": "57049",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -78874,7 +78881,8 @@
     "name": "MACHO, Juan Manuel Sosa",
     "year": "1988-2017",
     "games": 26,
-    "id": "128110"
+    "id": "128110",
+    "synced": true
   },
   {
     "higestRating": 2204,
@@ -81348,7 +81356,8 @@
     "name": "KRZYWICKI, Dariusz",
     "year": "1988-1993",
     "games": 24,
-    "id": "46827"
+    "id": "46827",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -81524,7 +81533,8 @@
     "name": "LINDFELDT, Jan Magnus",
     "year": "1994-2005",
     "games": 24,
-    "id": "58173"
+    "id": "58173",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -81709,7 +81719,8 @@
     "name": "TOULZAC, Pierre Yves",
     "year": "1993-2008",
     "games": 24,
-    "id": "83058"
+    "id": "83058",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -86507,7 +86518,8 @@
     "name": "VIJAY, Keerthi K",
     "year": "2001-2020",
     "games": 21,
-    "id": "56790"
+    "id": "56790",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -86741,7 +86753,8 @@
     "name": "SEYB, Dieter",
     "year": "1984-2018",
     "games": 21,
-    "id": "78026"
+    "id": "78026",
+    "synced": true
   },
   {
     "higestRating": 2269,
