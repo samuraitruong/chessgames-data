@@ -3298,7 +3298,8 @@
     "name": "JAKUBOWSKI, Krzysztof",
     "year": "1993-2022",
     "games": 984,
-    "id": "49858"
+    "id": "49858",
+    "synced": true
   },
   {
     "higestRating": 2595,
@@ -5916,7 +5917,8 @@
     "name": "KUCZYNSKI, Robert",
     "year": "1985-2015",
     "games": 638,
-    "id": "11654"
+    "id": "11654",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -54825,7 +54827,8 @@
     "name": "MATKOVIC, Tonci",
     "year": "1983-2018",
     "games": 48,
-    "id": "37915"
+    "id": "37915",
+    "synced": true
   },
   {
     "higestRating": 2397,
