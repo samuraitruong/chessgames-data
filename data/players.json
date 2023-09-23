@@ -1531,7 +1531,8 @@
     "name": "RAZUVAEV, Yuri",
     "year": "1963-2002",
     "games": 1449,
-    "id": "46981"
+    "id": "46981",
+    "synced": true
   },
   {
     "higestRating": 2687,
@@ -6270,7 +6271,8 @@
     "name": "TYOMKIN, Dimitri",
     "year": "1980-2010",
     "games": 603,
-    "id": "29872"
+    "id": "29872",
+    "synced": true
   },
   {
     "higestRating": 2657,
@@ -61804,7 +61806,8 @@
     "name": "ERIKSSON, Magnus",
     "year": "1989-2005",
     "games": 40,
-    "id": "41089"
+    "id": "41089",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -66771,7 +66774,8 @@
     "name": "EICHNER, Sebastian",
     "year": "1993-2011",
     "games": 35,
-    "id": "65421"
+    "id": "65421",
+    "synced": true
   },
   {
     "higestRating": 2214,
@@ -67239,7 +67243,8 @@
     "name": "BATERDENE, Tsogbayar",
     "year": "2012-2016",
     "games": 35,
-    "id": "141932"
+    "id": "141932",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -99182,7 +99187,8 @@
     "name": "PEDERSEN, Svend",
     "year": "1965-1995",
     "games": 16,
-    "id": "122000"
+    "id": "122000",
+    "synced": true
   },
   {
     "higestRating": 2567,
