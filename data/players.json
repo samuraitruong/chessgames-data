@@ -530,7 +530,8 @@
     "name": "BALASHOV, Yuri",
     "year": "1959-2022",
     "games": 2100,
-    "id": "16914"
+    "id": "16914",
+    "synced": true
   },
   {
     "higestRating": 2645,
@@ -20042,7 +20043,8 @@
     "name": "NUN, Josef",
     "year": "1962-1998",
     "games": 183,
-    "id": "63224"
+    "id": "63224",
+    "synced": true
   },
   {
     "higestRating": 2492,
@@ -25390,7 +25392,8 @@
     "name": "RESIKA, Nathan A",
     "year": "1992-2023",
     "games": 137,
-    "id": "30595"
+    "id": "30595",
+    "synced": true
   },
   {
     "higestRating": 2411,
@@ -31001,7 +31004,8 @@
     "name": "STEBBINGS, Anthony",
     "year": "1972-2017",
     "games": 106,
-    "id": "38724"
+    "id": "38724",
+    "synced": true
   },
   {
     "higestRating": 2296,
@@ -48222,7 +48226,8 @@
     "name": "ERVIN, Roy",
     "year": "1970-1985",
     "games": 59,
-    "id": "18716"
+    "id": "18716",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -96492,7 +96497,8 @@
     "name": "CHEVELEVITCH, Evgueni",
     "year": "2004-2008",
     "games": 17,
-    "id": "114604"
+    "id": "114604",
+    "synced": true
   },
   {
     "higestRating": 2270,
