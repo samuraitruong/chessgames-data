@@ -1249,7 +1249,8 @@
     "name": "MATANOVIC, Aleksandar",
     "year": "1947-2007",
     "games": 1563,
-    "id": "21135"
+    "id": "21135",
+    "synced": true
   },
   {
     "higestRating": 2707,
@@ -59968,7 +59969,8 @@
     "name": "SCHWEDA, Roland",
     "year": "1990-2006",
     "games": 42,
-    "id": "42798"
+    "id": "42798",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -76951,7 +76953,8 @@
     "name": "SALZGEBER, Frank",
     "year": "1993-2021",
     "games": 27,
-    "id": "52154"
+    "id": "52154",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -86372,7 +86375,8 @@
     "name": "BLANKENAU, Mike P",
     "year": "1975-1997",
     "games": 21,
-    "id": "27039"
+    "id": "27039",
+    "synced": true
   },
   {
     "higestRating": 2320,

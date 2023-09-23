@@ -1,0 +1,15 @@
+[Event "Olympiad"]
+[Site "Buenos Aires ARG"]
+[Date "1978.11.02"]
+[EventDate "1978.10.25"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Jan Adamski"]
+[Black "Aleksandar Matanovic"]
+[ECO "A15"]
+[WhiteElo "2470"]
+[BlackElo "2505"]
+[Source "Olimpbase"]
+[PlyCount "39"]
+
+1.c4 Nf6 2.Nf3 b6 3.g3 Bb7 4.Bg2 g6 5.b3 Bg7 6.Bb2 c5 7.Nc3 O-O 8.O-O d6 9.d4 cxd4 10.Qxd4 Ne4 11.Qe3 Nxc3 12.Bxc3 Nd7 13.Bxg7 Kxg7 14.Nd4 Bxg2 15. Kxg2 Nf6 16.Nb5 Qd7 17.Nc3 Rac8 18.Rfd1 Rc5 19.Rd4 Rfc8 20.Rad1 1/2-1/2
