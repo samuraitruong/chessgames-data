@@ -1,0 +1,14 @@
+[Event "Coria del Rio op 7th"]
+[Site "Coria del Rio ESP"]
+[Date "2001.02.14"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Francisco Javier Garcia"]
+[Black "Reynaldo Vera"]
+[ECO "B25"]
+[WhiteElo "2130"]
+[BlackElo "2562"]
+[PlyCount "42"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 g6 4.Bc4 Bg7 5.O-O a6 6.d3 d6 7.Bf4 e6 8.g3 Nge7 9.h4 b5 10.Bb3 h6 11.Re1 Bb7 12.Re3 e5 13.Rc1 exf4 14.gxf4 Qd7 15.Qf1 Qg4+ 16.Kh1 Nd4 17.Nxd4 cxd4 18.Ree1 dxc3 19.bxc3 Qxf4 20.Rcd1 Be5 21.d4 Qh2# 0-1

@@ -4560,7 +4560,8 @@
     "name": "VERA, Reynaldo",
     "year": "1976-2019",
     "games": 778,
-    "id": "16260"
+    "id": "16260",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -19254,7 +19255,8 @@
     "name": "VILLAMAYOR, Buenaventura Bong",
     "year": "1986-2018",
     "games": 192,
-    "id": "46934"
+    "id": "46934",
+    "synced": true
   },
   {
     "higestRating": 2304,
@@ -47112,7 +47114,8 @@
     "name": "LINGUR, Zalina",
     "year": "2014-2019",
     "games": 62,
-    "id": "151427"
+    "id": "151427",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -50680,7 +50683,8 @@
     "name": "SLOVINEANU, Viacheslav",
     "year": "1995-2007",
     "games": 55,
-    "id": "54533"
+    "id": "54533",
+    "synced": true
   },
   {
     "higestRating": 2475,
@@ -76808,7 +76812,8 @@
     "name": "CORTIZO, Daniel Ricardo Piza",
     "year": "1989-1995",
     "games": 27,
-    "id": "42851"
+    "id": "42851",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -83430,7 +83435,8 @@
     "name": "ROESCHLAU, Bernd",
     "year": "1988-2005",
     "games": 23,
-    "id": "82443"
+    "id": "82443",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -86873,7 +86879,8 @@
     "name": "AGAFII, Victor",
     "year": "1999-2015",
     "games": 21,
-    "id": "56828"
+    "id": "56828",
+    "synced": true
   },
   {
     "higestRating": 2273,
@@ -93396,7 +93403,8 @@
     "name": "GARRIDO, Denis",
     "year": "1991-2001",
     "games": 18,
-    "id": "64006"
+    "id": "64006",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -98795,7 +98803,8 @@
     "name": "PAVELIEV, Alexey",
     "year": "2005-2010",
     "games": 16,
-    "id": "98698"
+    "id": "98698",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -106182,7 +106191,8 @@
     "name": "MELAMEDOFF, Gustavo",
     "year": "1988-2003",
     "games": 6,
-    "id": "84089"
+    "id": "84089",
+    "synced": true
   },
   {
     "higestRating": 2463,
@@ -106457,7 +106467,8 @@
     "name": "BABIC, Dragojle",
     "year": "1988-1994",
     "games": 5,
-    "id": "59884"
+    "id": "59884",
+    "synced": true
   },
   {
     "higestRating": 2322,
