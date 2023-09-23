@@ -1,0 +1,14 @@
+[Event "Ticino op"]
+[Site "Ticino"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Marco Salami"]
+[Black "Dimitri Komarov"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "2525"]
+[PlyCount "46"]
+
+1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.g3 dxe4 5.dxe4 b6 6.Bg2 Bb7 7.Qe2 Nc6 8.e5 Nd7 9.Ngf3 Ncxe5 10.Ne4 Nxf3+ 11.Bxf3 Qc8 12.Bf4 Be7 13.O-O-O O-O 14.Ng5 Nf6 15.Bxb7 Qxb7 16.h4 Rad8 17.Rde1 Bb4 18.c3 Bd6 19.Be3 Qd5 20.Bd4 e5 21.Bxe5 Bxe5 22.Qxe5 Qd2+ 23.Kb1 0-1

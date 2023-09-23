@@ -1,0 +1,14 @@
+[Event "Ticino op"]
+[Site "Ticino"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Claude Landenbergue"]
+[Black "Dimitri Komarov"]
+[ECO "C16"]
+[WhiteElo "2405"]
+[BlackElo "2525"]
+[PlyCount "40"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.Qg4 c5 6.dxc5 Nbc6 7.Bd2 Ng6 8.Nf3 Bxc5 9.Bd3 Nb4 10.Bxg6 hxg6 11.O-O-O Bd7 12.h4 Rh5 13.Ng5 Qe7 14.Qf4 f6 15.exf6 gxf6 16.Nf3 g5 17.hxg5 Qh7 18.g6 Qxg6 19.Kb1 Qxc2+ 20.Ka1 Nd3 0-1

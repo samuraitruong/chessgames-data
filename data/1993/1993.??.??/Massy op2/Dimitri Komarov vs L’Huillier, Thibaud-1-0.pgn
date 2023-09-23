@@ -1,0 +1,14 @@
+[Event "Massy op2"]
+[Site "Massy"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Dimitri Komarov"]
+[Black "L’Huillier, Thibaud"]
+[ECO "D85"]
+[WhiteElo "2525"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1 O-O 9.Be2 Na6 10.O-O Qa5 11.Qb3 Bg4 12.Be3 cxd4 13.cxd4 Rab8 14.Rfc1 e6 15.a4 Rfd8 16.Qb5 1-0

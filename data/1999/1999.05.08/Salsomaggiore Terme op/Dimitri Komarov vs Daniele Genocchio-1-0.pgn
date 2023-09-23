@@ -1,0 +1,14 @@
+[Event "Salsomaggiore Terme op"]
+[Site "Salsomaggiore Terme"]
+[Date "1999.05.08"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Dimitri Komarov"]
+[Black "Daniele Genocchio"]
+[ECO "A67"]
+[WhiteElo "2588"]
+[BlackElo "2247"]
+[PlyCount "48"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 c5 4.d5 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Bb5+ Nfd7 9.Nf3 O-O 10.O-O a6 11.Bd3 b5 12.Kh1 b4 13.Ne2 Nb6 14.f5 N8d7 15.Bg5 Qe8 16.Qd2 c4 17.Bc2 b3 18.Bb1 c3 19.Nxc3 Nc4 20.Qc1 Nc5 21.f6 Bh8 22.Nd4 bxa2 23.Rxa2 Ne5 24.Nc6 1-0

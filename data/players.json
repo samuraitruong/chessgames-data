@@ -2360,7 +2360,8 @@
     "name": "KOMAROV, Dimitri",
     "year": "1984-2022",
     "games": 1175,
-    "id": "23146"
+    "id": "23146",
+    "synced": true
   },
   {
     "higestRating": 2625,
@@ -15850,7 +15851,8 @@
     "name": "STARR, Nava",
     "year": "1976-2014",
     "games": 236,
-    "id": "64062"
+    "id": "64062",
+    "synced": true
   },
   {
     "higestRating": 2585,
@@ -24125,7 +24127,8 @@
     "name": "PRUESS, David",
     "year": "1997-2012",
     "games": 147,
-    "id": "36826"
+    "id": "36826",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -47448,7 +47451,8 @@
     "name": "HERMAN, Matthew J",
     "year": "2004-2017",
     "games": 61,
-    "id": "101058"
+    "id": "101058",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -62933,7 +62937,8 @@
     "name": "CARBAJAL, Carlos Pesantes",
     "year": "1972-1994",
     "games": 39,
-    "id": "89881"
+    "id": "89881",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -69769,7 +69774,8 @@
     "name": "PASALIC, Mehmed",
     "year": "1993-2009",
     "games": 32,
-    "id": "31048"
+    "id": "31048",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -71935,7 +71941,8 @@
     "name": "ONDRUS, Martin",
     "year": "2009-2017",
     "games": 31,
-    "id": "124516"
+    "id": "124516",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -73972,7 +73979,8 @@
     "name": "BULCOURF, Carlos",
     "year": "1974-2018",
     "games": 29,
-    "id": "57138"
+    "id": "57138",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -95035,7 +95043,8 @@
     "name": "SACHS, Gulnara",
     "year": "1985-1993",
     "games": 17,
-    "id": "39656"
+    "id": "39656",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -104822,7 +104831,8 @@
     "name": "DAMM, Kasper Wilken",
     "year": "2004-2009",
     "games": 9,
-    "id": "110072"
+    "id": "110072",
+    "synced": true
   },
   {
     "higestRating": 2239,
