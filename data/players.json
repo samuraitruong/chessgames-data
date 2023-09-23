@@ -11910,7 +11910,8 @@
     "name": "GROSS, Stefan",
     "year": "1971-2005",
     "games": 322,
-    "id": "19669"
+    "id": "19669",
+    "synced": true
   },
   {
     "higestRating": 2333,
@@ -12738,7 +12739,8 @@
     "name": "BATCHIMEG, Tuvshintugs",
     "year": "2002-2020",
     "games": 300,
-    "id": "102325"
+    "id": "102325",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -18680,7 +18682,8 @@
     "name": "GOLUBENKO, Valentina",
     "year": "1999-2019",
     "games": 199,
-    "id": "54927"
+    "id": "54927",
+    "synced": true
   },
   {
     "higestRating": 2465,
@@ -34721,7 +34724,8 @@
     "name": "SOMOGYI, Istvan",
     "year": "1955-2006",
     "games": 92,
-    "id": "49814"
+    "id": "49814",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -60431,7 +60435,8 @@
     "name": "JAHNCKE, Giso",
     "year": "2005-2022",
     "games": 42,
-    "id": "135295"
+    "id": "135295",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -70508,7 +70513,8 @@
     "name": "DRIDI, Ali",
     "year": "1985-1994",
     "games": 32,
-    "id": "129846"
+    "id": "129846",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -89700,7 +89706,8 @@
     "name": "GORKAVIJ, Vadim",
     "year": "1997-2014",
     "games": 20,
-    "id": "124567"
+    "id": "124567",
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -90070,7 +90077,8 @@
     "name": "AMIONE, Pablo Adib Tapie",
     "year": "2007-2022",
     "games": 20,
-    "id": "143029"
+    "id": "143029",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -106341,7 +106349,8 @@
     "name": "JOERG, Harald",
     "year": "1987-2000",
     "games": 5,
-    "id": "67820"
+    "id": "67820",
+    "synced": true
   },
   {
     "higestRating": 2244,
