@@ -3809,7 +3809,8 @@
     "name": "PRIBYL, Josef",
     "year": "1963-2017",
     "games": 895,
-    "id": "17567"
+    "id": "17567",
+    "synced": true
   },
   {
     "higestRating": 2595,
@@ -34934,7 +34935,8 @@
     "name": "LA FLAIR, Roger",
     "year": "1988-1995",
     "games": 91,
-    "id": "15633"
+    "id": "15633",
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -45260,7 +45262,8 @@
     "name": "VERDIER, Patrice",
     "year": "1985-2022",
     "games": 65,
-    "id": "33428"
+    "id": "33428",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -58550,7 +58553,8 @@
     "name": "BERCLAZ, Philippe",
     "year": "1996-2002",
     "games": 44,
-    "id": "90160"
+    "id": "90160",
+    "synced": true
   },
   {
     "higestRating": 2345,
@@ -67935,7 +67939,8 @@
     "name": "MACH, Petr",
     "year": "1994-2001",
     "games": 34,
-    "id": "63879"
+    "id": "63879",
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -68341,7 +68346,8 @@
     "name": "YORDANOV, Nikolay Plamenov",
     "year": "2001-2017",
     "games": 34,
-    "id": "114715"
+    "id": "114715",
+    "synced": true
   },
   {
     "higestRating": 2208,
@@ -86696,7 +86702,8 @@
     "name": "VOSCILLA, Adriano",
     "year": "1981-2017",
     "games": 21,
-    "id": "49209"
+    "id": "49209",
+    "synced": true
   },
   {
     "higestRating": 2247,
