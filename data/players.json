@@ -4475,7 +4475,8 @@
     "name": "MINASIAN, Artashes",
     "year": "1983-2020",
     "games": 786,
-    "id": "49445"
+    "id": "49445",
+    "synced": true
   },
   {
     "higestRating": 2494,
@@ -19582,7 +19583,8 @@
     "name": "SHARAVDORJ, Dashzeveg",
     "year": "1992-2022",
     "games": 188,
-    "id": "42802"
+    "id": "42802",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -71032,7 +71034,8 @@
     "name": "HOFFMANN, Hans",
     "year": "1943-2007",
     "games": 31,
-    "id": "32037"
+    "id": "32037",
+    "synced": true
   },
   {
     "higestRating": 2515,
@@ -102456,7 +102459,8 @@
     "name": "BANCHEV, Borislav",
     "year": "1990",
     "games": 14,
-    "id": "44144"
+    "id": "44144",
+    "synced": true
   },
   {
     "higestRating": 2563,
