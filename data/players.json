@@ -7142,7 +7142,8 @@
     "name": "ASRIAN, Karen",
     "year": "1993-2008",
     "games": 528,
-    "id": "47195"
+    "id": "47195",
+    "synced": true
   },
   {
     "higestRating": 2593,
@@ -7951,7 +7952,8 @@
     "name": "KORPA, Bence",
     "year": "2007-2023",
     "games": 483,
-    "id": "134698"
+    "id": "134698",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -21742,7 +21744,8 @@
     "name": "GIULIAN, Philip M",
     "year": "1969-2019",
     "games": 166,
-    "id": "47919"
+    "id": "47919",
+    "synced": true
   },
   {
     "higestRating": 2258,
@@ -84652,7 +84655,8 @@
     "name": "BERGEN, Peter",
     "year": "1993-2003",
     "games": 22,
-    "id": "44701"
+    "id": "44701",
+    "synced": true
   },
   {
     "higestRating": 2458,
@@ -88001,7 +88005,8 @@
     "name": "PETKIDIS, Anthony",
     "year": "2006-2022",
     "games": 21,
-    "id": "158224"
+    "id": "158224",
+    "synced": true
   },
   {
     "higestRating": 2222,
@@ -94470,7 +94475,8 @@
     "name": "BULANOV, Dmitri",
     "year": "2006-2017",
     "games": 18,
-    "id": "141208"
+    "id": "141208",
+    "synced": true
   },
   {
     "higestRating": 2220,
