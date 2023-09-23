@@ -11765,7 +11765,8 @@
     "name": "CVEK, Robert",
     "year": "1991-2020",
     "games": 327,
-    "id": "49664"
+    "id": "49664",
+    "synced": true
   },
   {
     "higestRating": 2592,
@@ -15282,7 +15283,8 @@
     "name": "SCHNEIDER, Attila",
     "year": "1977-2002",
     "games": 247,
-    "id": "10792"
+    "id": "10792",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -21114,7 +21116,8 @@
     "name": "ANTONSEN, Mikkel",
     "year": "1988-2021",
     "games": 172,
-    "id": "29087"
+    "id": "29087",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -23730,7 +23733,8 @@
     "name": "ROJICKOVA, Monika",
     "year": "2005-2023",
     "games": 150,
-    "id": "118114"
+    "id": "118114",
+    "synced": true
   },
   {
     "higestRating": 2333,
@@ -46327,7 +46331,8 @@
     "name": "KRAINSKI, Aleksander",
     "year": "1987-2022",
     "games": 63,
-    "id": "56604"
+    "id": "56604",
+    "synced": true
   },
   {
     "higestRating": 2517,
@@ -46607,7 +46612,8 @@
     "name": "MEDAK, Bojan",
     "year": "1994-2021",
     "games": 62,
-    "id": "12627"
+    "id": "12627",
+    "synced": true
   },
   {
     "higestRating": 2299,
@@ -62471,7 +62477,8 @@
     "name": "PEDERSEN, Karl",
     "year": "1967-1972",
     "games": 40,
-    "id": "157306"
+    "id": "157306",
+    "synced": true
   },
   {
     "higestRating": 2356,
