@@ -1045,7 +1045,8 @@
     "name": "PIKET, Jeroen",
     "year": "1981-2002",
     "games": 1654,
-    "id": "10904"
+    "id": "10904",
+    "synced": true
   },
   {
     "higestRating": 2739,
@@ -42105,7 +42106,8 @@
     "name": "ADERITO, Pedro",
     "year": "1995-2016",
     "games": 72,
-    "id": "79592"
+    "id": "79592",
+    "synced": true
   },
   {
     "higestRating": 2463,
@@ -62815,7 +62817,8 @@
     "name": "KABISCH, Thilo",
     "year": "1980-2019",
     "games": 39,
-    "id": "43876"
+    "id": "43876",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -75571,7 +75574,8 @@
     "name": "PATRICK, David I",
     "year": "1977-2010",
     "games": 28,
-    "id": "59634"
+    "id": "59634",
+    "synced": true
   },
   {
     "higestRating": 2271,
