@@ -9408,7 +9408,8 @@
     "name": "BRUNELLO, Marina",
     "year": "2006-2023",
     "games": 409,
-    "id": "127452"
+    "id": "127452",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -13958,7 +13959,8 @@
     "name": "BELOZEROV, Andrei",
     "year": "1994-2023",
     "games": 272,
-    "id": "49034"
+    "id": "49034",
+    "synced": true
   },
   {
     "higestRating": 2492,
@@ -31680,7 +31682,8 @@
     "name": "TOLEDO, Pedro Garcia",
     "year": "1969-2016",
     "games": 104,
-    "id": "114947"
+    "id": "114947",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -46376,7 +46379,8 @@
     "name": "KUSTAR, Sandor",
     "year": "1990-2012",
     "games": 63,
-    "id": "54542"
+    "id": "54542",
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -52106,7 +52110,8 @@
     "name": "YUZHAKOV, Oleg",
     "year": "2006-2016",
     "games": 53,
-    "id": "106678"
+    "id": "106678",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -52283,7 +52288,8 @@
     "name": "BETANCOURT, Nestor Tomas Velez",
     "year": "1978-1995",
     "games": 52,
-    "id": "20722"
+    "id": "20722",
+    "synced": true
   },
   {
     "higestRating": 2277,
@@ -62742,7 +62748,8 @@
     "name": "DAUSCH, Rene",
     "year": "1983-2012",
     "games": 39,
-    "id": "31040"
+    "id": "31040",
+    "synced": true
   },
   {
     "higestRating": 2254,
@@ -83147,7 +83154,8 @@
     "name": "BLALOCK, Rex",
     "year": "1998-2001",
     "games": 23,
-    "id": "53859"
+    "id": "53859",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -83347,7 +83355,8 @@
     "name": "CARBO, Marcial Garcia",
     "year": "1991-2004",
     "games": 23,
-    "id": "66142"
+    "id": "66142",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -88888,7 +88897,8 @@
     "name": "HIRSCH, Stefan",
     "year": "1986-2001",
     "games": 20,
-    "id": "58678"
+    "id": "58678",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -95399,7 +95409,8 @@
     "name": "KHAMZIN, Olzhas",
     "year": "2001-2007",
     "games": 17,
-    "id": "53048"
+    "id": "53048",
+    "synced": true
   },
   {
     "higestRating": 2344,
@@ -95594,7 +95605,8 @@
     "name": "VITOUCH, Anatol",
     "year": "1995-2021",
     "games": 17,
-    "id": "61518"
+    "id": "61518",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -106652,7 +106664,8 @@
     "name": "GATUS, Edmundo",
     "year": "1997-2017",
     "games": 5,
-    "id": "128164"
+    "id": "128164",
+    "synced": true
   },
   {
     "higestRating": 2226,
