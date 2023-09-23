@@ -8900,7 +8900,8 @@
     "name": "HOFSTETTER, Hans-Joachim",
     "year": "1980-2019",
     "games": 432,
-    "id": "68871"
+    "id": "68871",
+    "synced": true
   },
   {
     "higestRating": 2526,
@@ -13309,7 +13310,8 @@
     "name": "IGARZA, Renier Vazquez",
     "year": "1991-2023",
     "games": 286,
-    "id": "13288"
+    "id": "13288",
+    "synced": true
   },
   {
     "higestRating": 2553,
@@ -24989,7 +24991,8 @@
     "name": "LINDGREN, Philip",
     "year": "2008-2022",
     "games": 140,
-    "id": "120011"
+    "id": "120011",
+    "synced": true
   },
   {
     "higestRating": 2450,
@@ -29040,7 +29043,8 @@
     "name": "KLJAKO, Damir",
     "year": "1982-2017",
     "games": 114,
-    "id": "28994"
+    "id": "28994",
+    "synced": true
   },
   {
     "higestRating": 2481,
@@ -53476,7 +53480,8 @@
     "name": "CAPPON, John",
     "year": "1996-2018",
     "games": 50,
-    "id": "36681"
+    "id": "36681",
+    "synced": true
   },
   {
     "higestRating": 2385,
