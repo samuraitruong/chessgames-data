@@ -1447,7 +1447,8 @@
     "name": "BU, Xiangzhi",
     "year": "1997-2023",
     "games": 1487,
-    "id": "10762"
+    "id": "10762",
+    "synced": true
   },
   {
     "higestRating": 2555,
@@ -12970,7 +12971,8 @@
     "name": "SZABO, Krisztian",
     "year": "1999-2018",
     "games": 294,
-    "id": "74289"
+    "id": "74289",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -43478,7 +43480,8 @@
     "name": "SODOMA, Jan",
     "year": "2003-2019",
     "games": 69,
-    "id": "100341"
+    "id": "100341",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -52718,7 +52721,8 @@
     "name": "KRAGELJ, Igor",
     "year": "1992-2016",
     "games": 51,
-    "id": "37889"
+    "id": "37889",
+    "synced": true
   },
   {
     "higestRating": 2344,
@@ -53058,7 +53062,8 @@
     "name": "FOWLER, Simon A",
     "year": "2002-2008",
     "games": 51,
-    "id": "102244"
+    "id": "102244",
+    "synced": true
   },
   {
     "higestRating": 2276,
@@ -58023,7 +58028,8 @@
     "name": "MANCINI, Mario",
     "year": "1990-2012",
     "games": 44,
-    "id": "21956"
+    "id": "21956",
+    "synced": true
   },
   {
     "higestRating": 2349,
@@ -59654,7 +59660,8 @@
     "name": "KONAPLEV, Anton",
     "year": "2015-2019",
     "games": 43,
-    "id": "152855"
+    "id": "152855",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -63730,7 +63737,8 @@
     "name": "TSAI, Cindy",
     "year": "1999-2008",
     "games": 38,
-    "id": "56876"
+    "id": "56876",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -68444,7 +68452,8 @@
     "name": "GIANNATOS, Peter",
     "year": "2015-2019",
     "games": 34,
-    "id": "154024"
+    "id": "154024",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -73779,7 +73788,8 @@
     "name": "FUSTHY, Zsolt",
     "year": "1983-2011",
     "games": 29,
-    "id": "43347"
+    "id": "43347",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -73938,7 +73948,8 @@
     "name": "DEMIDENKO, Stanislav",
     "year": "1997-2002",
     "games": 29,
-    "id": "54433"
+    "id": "54433",
+    "synced": true
   },
   {
     "higestRating": 2394,
@@ -79314,7 +79325,8 @@
     "name": "RADOVIC, Janko",
     "year": "2009-2019",
     "games": 26,
-    "id": "156777"
+    "id": "156777",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -81074,7 +81086,8 @@
     "name": "TAYSAYEV, Timur",
     "year": "2014-2019",
     "games": 25,
-    "id": "156002"
+    "id": "156002",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -81514,7 +81527,8 @@
     "name": "KNOBEL, Rolf",
     "year": "1987-2009",
     "games": 24,
-    "id": "44480"
+    "id": "44480",
+    "synced": true
   },
   {
     "higestRating": 2461,
@@ -88920,7 +88934,8 @@
     "name": "KALIUZHNY, Andrey",
     "year": "1998-2006",
     "games": 20,
-    "id": "72162"
+    "id": "72162",
+    "synced": true
   },
   {
     "higestRating": 2342,
@@ -90761,7 +90776,8 @@
     "name": "RODKIN, Rafael",
     "year": "1999-2005",
     "games": 19,
-    "id": "50884"
+    "id": "50884",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -93118,7 +93134,8 @@
     "name": "BOZANIC, Ivica",
     "year": "1992-2018",
     "games": 18,
-    "id": "55626"
+    "id": "55626",
+    "synced": true
   },
   {
     "higestRating": 2223,
@@ -95142,7 +95159,8 @@
     "name": "PETUKHOV, Dmitry",
     "year": "2001-2009",
     "games": 17,
-    "id": "50183"
+    "id": "50183",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -100364,7 +100382,8 @@
     "name": "QIAO, Liang",
     "year": "2001-2008",
     "games": 15,
-    "id": "52650"
+    "id": "52650",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -105585,7 +105604,8 @@
     "name": "STOERING, Volker",
     "year": "1989-1994",
     "games": 7,
-    "id": "87612"
+    "id": "87612",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -107702,7 +107722,8 @@
     "name": "DURAN, Martin Ferrer",
     "year": "1991-1998",
     "games": 2,
-    "id": "100846"
+    "id": "100846",
+    "synced": true
   },
   {
     "higestRating": 2377,

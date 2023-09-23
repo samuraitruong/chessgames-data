@@ -1,0 +1,14 @@
+[Event "EUR-chT (Men) 9th"]
+[Site "Haifa ISR"]
+[Date "1989.11.??"]
+[EventDate "1989.12.03"]
+[Round "4"]
+[Result "0-1"]
+[White "David Lawson"]
+[Black "Claude Landenbergue"]
+[ECO "C03"]
+[WhiteElo "?"]
+[BlackElo "2345"]
+[PlyCount "40"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nc6 4.c3 e5 5.exd5 Qxd5 6.Ngf3 exd4 7.Bc4 Qh5 8.O-O Be6 9.Qb3 O-O-O 10.Bxe6+ fxe6 11.cxd4 Nf6 12.Ne4 Rd5 13.Re1 Nxe4 14.Rxe4 Bd6 15.h3 Rf8 16.Rxe6 Rdf5 17.g4 Qxh3 18.gxf5 Nxd4 19.Ng5 Qh2+ 20.Kf1 Qh1# 0-1

@@ -1,0 +1,14 @@
+[Event "Trieste Correction"]
+[Site "Trieste ITA"]
+[Date "2008.09.04"]
+[EventDate "2008.08.31"]
+[Round "6"]
+[Result "0-1"]
+[White "Igor Kragelj"]
+[Black "Zlatko Basagic"]
+[ECO "A40"]
+[WhiteElo "2228"]
+[BlackElo "2337"]
+[PlyCount "40"]
+
+1. d4 g6 2. c4 Bg7 3. e4 e6 4. Nc3 Ne7 5. Nf3 O-O 6. Be2 d5 7. cxd5 exd5 8. e5 Bg4 9. O-O Nbc6 10. Ng5 Bxe2 11. Nxe2 h6 12. Nf3 Qd7 13. Bd2 f6 14. exf6 Rxf6 15. Qb3 Raf8 16. Rac1 Rxf3 17. gxf3 Nf5 18. Kh1 Nfxd4 19. Nxd4 Nxd4 20. Qd3 Nxf3 0-1
