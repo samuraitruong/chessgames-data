@@ -3389,7 +3389,8 @@
     "name": "CHANDA, Sandipan",
     "year": "1993-2023",
     "games": 965,
-    "id": "53011"
+    "id": "53011",
+    "synced": true
   },
   {
     "higestRating": 2544,
@@ -11200,7 +11201,8 @@
     "name": "PHAM, Le Thao Nguyen",
     "year": "2004-2020",
     "games": 345,
-    "id": "127431"
+    "id": "127431",
+    "synced": true
   },
   {
     "higestRating": 2498,
@@ -32496,7 +32498,8 @@
     "name": "PEDERSEN, Erik",
     "year": "1975-2005",
     "games": 100,
-    "id": "18988"
+    "id": "18988",
+    "synced": true
   },
   {
     "higestRating": 2334,
@@ -37725,7 +37728,8 @@
     "name": "KAABI, Mejdi",
     "year": "1982-2019",
     "games": 83,
-    "id": "94964"
+    "id": "94964",
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -49357,7 +49361,8 @@
     "name": "LOCK, Gavin R",
     "year": "1999-2012",
     "games": 57,
-    "id": "51411"
+    "id": "51411",
+    "synced": true
   },
   {
     "higestRating": 2436,
@@ -55108,7 +55113,8 @@
     "name": "KILTTI, Jyrki",
     "year": "1992-2012",
     "games": 48,
-    "id": "58744"
+    "id": "58744",
+    "synced": true
   },
   {
     "higestRating": 2345,
@@ -61292,7 +61298,8 @@
     "name": "ZICKUS, Simonas",
     "year": "2005-2012",
     "games": 41,
-    "id": "106187"
+    "id": "106187",
+    "synced": true
   },
   {
     "higestRating": 2505,
@@ -61803,7 +61810,8 @@
     "name": "VINCENT, Stephane",
     "year": "1975-1990",
     "games": 40,
-    "id": "27550"
+    "id": "27550",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -68762,7 +68770,8 @@
     "name": "OTT, Frank",
     "year": "1987-2005",
     "games": 33,
-    "id": "28159"
+    "id": "28159",
+    "synced": true
   },
   {
     "higestRating": 2347,
@@ -70177,7 +70186,8 @@
     "name": "PETERWAGNER, Heinz",
     "year": "1988-2002",
     "games": 32,
-    "id": "57039"
+    "id": "57039",
+    "synced": true
   },
   {
     "higestRating": 2224,
@@ -80024,7 +80034,8 @@
     "name": "CONLON, Joseph P",
     "year": "1990-2008",
     "games": 25,
-    "id": "52165"
+    "id": "52165",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -82159,7 +82170,8 @@
     "name": "BLODSTEIN, Boris",
     "year": "1993-2012",
     "games": 24,
-    "id": "88338"
+    "id": "88338",
+    "synced": true
   },
   {
     "higestRating": 2507,
@@ -83112,7 +83124,8 @@
     "name": "ROBERTSEN, Thomas",
     "year": "1992-2009",
     "games": 23,
-    "id": "49519"
+    "id": "49519",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -83201,7 +83214,8 @@
     "name": "JURASEK, Miroslav",
     "year": "1992-2016",
     "games": 23,
-    "id": "55114"
+    "id": "55114",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -86054,7 +86068,8 @@
     "name": "GOGIN, Maksim",
     "year": "2013-2018",
     "games": 22,
-    "id": "147918"
+    "id": "147918",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -95526,7 +95541,8 @@
     "name": "BIAG, Ivan Gil",
     "year": "1999-2017",
     "games": 17,
-    "id": "56836"
+    "id": "56836",
+    "synced": true
   },
   {
     "higestRating": 2244,
@@ -98069,7 +98085,8 @@
     "name": "MIHIC, Vladimir",
     "year": "1979-1995",
     "games": 16,
-    "id": "61356"
+    "id": "61356",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -99868,7 +99885,8 @@
     "name": "RIHA, Vojtech",
     "year": "2019-2020",
     "games": 16,
-    "id": "161788"
+    "id": "161788",
+    "synced": true
   },
   {
     "higestRating": 2512,
@@ -103570,7 +103588,8 @@
     "name": "SCHMIDT, Harald",
     "year": "2000-2012",
     "games": 12,
-    "id": "68192"
+    "id": "68192",
+    "synced": true
   },
   {
     "higestRating": 2358,
@@ -104733,7 +104752,8 @@
     "name": "ALBERSTON, Bruce",
     "year": "1979",
     "games": 10,
-    "id": "157651"
+    "id": "157651",
+    "synced": true
   },
   {
     "higestRating": 2276,
@@ -105584,7 +105604,8 @@
     "name": "DE LA VARA, Arnaldo Fernandez",
     "year": "2015-2022",
     "games": 8,
-    "id": "183021"
+    "id": "183021",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -108408,7 +108429,8 @@
     "name": "PALA, Lubomir",
     "year": "1990",
     "games": 1,
-    "id": "89702"
+    "id": "89702",
+    "synced": true
   },
   {
     "higestRating": 2320,

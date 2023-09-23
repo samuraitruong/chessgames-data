@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.22"]
+[EventDate "2020.08.21"]
+[Round "5"]
+[Result "0-1"]
+[White "Tatjana Melamed"]
+[Black "Le Thao Nguyen Pham"]
+[ECO "B40"]
+[WhiteElo "2352"]
+[BlackElo "2377"]
+[Source "Chess-Results"]
+[PlyCount "150"]
+
+1. e4 c5 2. Nf3 e6 3. g3 b6 4. d4 cxd4 5. Nxd4 Bb7 6. Bg2 a6 7. O-O d6 8. Qe2 Nd7 9. Nc3 Rc8 10. Be3 Qc7 11. Rad1 Ngf6 12. h3 Be7 13. Kh2 O-O 14. f4 Rfd8 15. a4 Bf8 16. Bc1 Qb8 17. f5 e5 18. Nb3 Qa8 19. Bg5 h6 20. Bh4 Re8 21. Nd5 Nxd5 22. exd5 Be7 23. Bxe7 Rxe7 24. Nd4 Nf6 25. Nc6 Ree8 26. c4 Bxc6 27. dxc6 e4 28. Rxd6 Rxc6 29. Rfd1 Qc8 30. Rxc6 Qxc6 31. b3 Qc5 32. Re1 a5 33. Qe3 Qd6 34. Re2 h5 35. Rd2 Qc7 36. Qf4 Qc5 37. Re2 e3 38. g4 Qe5 39. Qxe5 Rxe5 40. Kg3 hxg4 41. hxg4 Nd7 42. Kf4 f6 43. Rxe3 Rxe3 44. Kxe3 Nc5 45. Kd4 Nxb3+ 46. Kd5 Nc5 47. Kc6 Nxa4 48. Bf3 Kf8 49. Kb5 Nb2 50. Bd5 a4 51. Kxb6 a3 52. c5 Na4+ 53. Kc6 Ke7 54. Bb3 Nc3 55. Kb7 a2 56. Bxa2 Nxa2 57. c6 Nc3 58. c7 Ne4 59. c8=N+ Kd7 60. Nb6+ Kd6 61. Nc4+ Kd5 62. Ne3+ Ke5 63. Ng2 Nf2 64. Kc6 Nxg4 65. Nh4 Ne3 66. Kd7 Nxf5 67. Nf3+ Kf4 68. Nd2 Nd4 69. Kd6 g5 70. Kd5 Nf3 71. Nf1 f5 72. Ke6 g4 73. Kf6 Ng5 74. Kg6 Ne4 75. Kh6 g3 0-1
