@@ -1,0 +1,14 @@
+[Event "Bucharest GMT 5th"]
+[Site "Bucharest ROU"]
+[Date "1961.12.??"]
+[EventDate "1961.12.00"]
+[Round "10"]
+[Result "1-0"]
+[White "Bela Soos"]
+[Black "Ivan Radulov"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 Be7 6.e3 O-O 7.Bd3 b6 8.Qf3 Be6 9.Nge2 c5 10.h3 Nc6 11.Rc1 h6 12.Bf4 Bd6 13.O-O Bxf4 14.Qxf4 Rb8 15.Rfd1 c4 16.Bb1 b5 17.e4 b4 18.exd5 Nxd5 19.Nxd5 Bxd5 20.Qf5 g6 21.Qg4 Qg5 22.f4 Qxg4 23.hxg4 Rfd8 1-0
