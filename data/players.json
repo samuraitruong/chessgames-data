@@ -4768,7 +4768,8 @@
     "name": "ROUT, Padmini",
     "year": "2006-2023",
     "games": 757,
-    "id": "113330"
+    "id": "113330",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -16963,7 +16964,8 @@
     "name": "CHAPMAN, Terence P D",
     "year": "1972-2022",
     "games": 220,
-    "id": "58505"
+    "id": "58505",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -68542,7 +68544,8 @@
     "name": "SERGEYEV, Alexander",
     "year": "2013-2020",
     "games": 34,
-    "id": "149606"
+    "id": "149606",
+    "synced": true
   },
   {
     "higestRating": 2213,
