@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.16"]
+[EventDate "2022.12.16"]
+[Round "1.28"]
+[Result "1-0"]
+[White "Mateusz Bartel"]
+[Black "Patryk Trzebinski"]
+[ECO "B30"]
+[WhiteElo "2627"]
+[BlackElo "1792"]
+[PlyCount "44"]
+
+1. Nf3 c5 2. e4 Nc6 3. b4 cxb4 4. d4 d5 5. exd5 Qxd5 6. c4 Qh5 7. Be2 Bg4 8. h3 O-O-O 9. Be3 Bxf3 10. Bxf3 Qg6 11. O-O e6 12. a3 Nxd4 13. Bxd4 e5 14. Qa4 exd4 15. axb4 a6 16. Nd2 Nf6 17. Bxb7+ Kxb7 18. Qxa6+ Kc7 19. Qa7+ Kd6 20. Rfe1 Rc8 21. Ra6+ Rc6 22. Qc5+ 1-0

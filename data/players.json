@@ -1472,7 +1472,8 @@
     "name": "BARTEL, Mateusz",
     "year": "1995-2023",
     "games": 1474,
-    "id": "54619"
+    "id": "54619",
+    "synced": true
   },
   {
     "higestRating": 2548,
@@ -57684,7 +57685,8 @@
     "name": "STEWART, Neil",
     "year": "1991-2014",
     "games": 45,
-    "id": "105823"
+    "id": "105823",
+    "synced": true
   },
   {
     "higestRating": 2236,
@@ -59036,7 +59038,8 @@
     "name": "DELANEY, John",
     "year": "1979-2010",
     "games": 43,
-    "id": "27500"
+    "id": "27500",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -59448,7 +59451,8 @@
     "name": "LOKASTO, Anatol",
     "year": "1971-2003",
     "games": 43,
-    "id": "92248"
+    "id": "92248",
+    "synced": true
   },
   {
     "higestRating": 2412,
@@ -61266,7 +61270,8 @@
     "name": "IDRISOV, Tabriz",
     "year": "2006-2018",
     "games": 41,
-    "id": "110364"
+    "id": "110364",
+    "synced": true
   },
   {
     "higestRating": 2344,
@@ -64576,7 +64581,8 @@
     "name": "BENOIT, Michel",
     "year": "1966-1996",
     "games": 37,
-    "id": "38661"
+    "id": "38661",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -72097,7 +72103,8 @@
     "name": "ANTINYAN, Armen",
     "year": "2011-2014",
     "games": 31,
-    "id": "133386"
+    "id": "133386",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -80775,7 +80782,8 @@
     "name": "NAPALKOV, Vladimir Aleksandrovich",
     "year": "2001-2012",
     "games": 25,
-    "id": "108474"
+    "id": "108474",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -82060,7 +82068,8 @@
     "name": "MENZEL, Ralf",
     "year": "1987-1994",
     "games": 24,
-    "id": "87204"
+    "id": "87204",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -86913,7 +86922,8 @@
     "name": "ASEEVA, Marina",
     "year": "1992-2018",
     "games": 21,
-    "id": "60606"
+    "id": "60606",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -103768,7 +103778,8 @@
     "name": "SEILS, Joerg",
     "year": "1987-2007",
     "games": 11,
-    "id": "19739"
+    "id": "19739",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -105596,7 +105607,8 @@
     "name": "ANTOK, Daniel",
     "year": "2001-2009",
     "games": 7,
-    "id": "54255"
+    "id": "54255",
+    "synced": true
   },
   {
     "higestRating": 2207,
@@ -106703,7 +106715,8 @@
     "name": "BORES, Miroslav",
     "year": "1994-1997",
     "games": 4,
-    "id": "40769"
+    "id": "40769",
+    "synced": true
   },
   {
     "higestRating": 2289,
