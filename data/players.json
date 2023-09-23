@@ -3376,7 +3376,8 @@
     "name": "LUKACS, Peter",
     "year": "1970-2009",
     "games": 967,
-    "id": "14688"
+    "id": "14688",
+    "synced": true
   },
   {
     "higestRating": 2602,
@@ -7392,7 +7393,8 @@
     "name": "KAZAKOUSKI, Valery",
     "year": "2013-2022",
     "games": 513,
-    "id": "147880"
+    "id": "147880",
+    "synced": true
   },
   {
     "higestRating": 2574,
@@ -19282,7 +19284,8 @@
     "name": "NAKAR, Eylon",
     "year": "2008-2021",
     "games": 192,
-    "id": "129285"
+    "id": "129285",
+    "synced": true
   },
   {
     "higestRating": 2491,
@@ -79070,7 +79073,8 @@
     "name": "SVEDENBORG, Paul",
     "year": "1964-1992",
     "games": 26,
-    "id": "107374"
+    "id": "107374",
+    "synced": true
   },
   {
     "higestRating": 2441,
@@ -80638,7 +80642,8 @@
     "name": "STORLAND, Knut Harald",
     "year": "1987-2005",
     "games": 25,
-    "id": "91610"
+    "id": "91610",
+    "synced": true
   },
   {
     "higestRating": 2252,
@@ -96049,7 +96054,8 @@
     "name": "IVANOVIC, Nikola",
     "year": "2003-2011",
     "games": 17,
-    "id": "91042"
+    "id": "91042",
+    "synced": true
   },
   {
     "higestRating": 2291,
