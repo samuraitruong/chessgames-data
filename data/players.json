@@ -10374,7 +10374,8 @@
     "name": "JOVANOVIC, Zoran",
     "year": "1996-2022",
     "games": 371,
-    "id": "12566"
+    "id": "12566",
+    "synced": true
   },
   {
     "higestRating": 2550,
@@ -17229,7 +17230,8 @@
     "name": "ULVESTAD, Olaf",
     "year": "1939-1971",
     "games": 215,
-    "id": "28571"
+    "id": "28571",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -21131,7 +21133,8 @@
     "name": "ZUGIC, Igor",
     "year": "1996-2008",
     "games": 172,
-    "id": "52180"
+    "id": "52180",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -23135,7 +23138,8 @@
     "name": "TRISTAN, Leonardo",
     "year": "2001-2023",
     "games": 154,
-    "id": "56842"
+    "id": "56842",
+    "synced": true
   },
   {
     "higestRating": 2227,
@@ -32305,7 +32309,8 @@
     "name": "JIROVSKY, Petr",
     "year": "1989-2001",
     "games": 101,
-    "id": "55117"
+    "id": "55117",
+    "synced": true
   },
   {
     "higestRating": 2362,
@@ -41122,7 +41127,8 @@
     "name": "HENNIG, Dirk",
     "year": "1988-2010",
     "games": 74,
-    "id": "49350"
+    "id": "49350",
+    "synced": true
   },
   {
     "higestRating": 2511,
@@ -63499,7 +63505,8 @@
     "name": "SOSNICKI, Michal",
     "year": "1995-1999",
     "games": 38,
-    "id": "36703"
+    "id": "36703",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -66483,7 +66490,8 @@
     "name": "STOKSTAD, Petter G",
     "year": "1991-2006",
     "games": 35,
-    "id": "50760"
+    "id": "50760",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -89894,7 +89902,8 @@
     "name": "DELGADO, Lidio Dias",
     "year": "1984-2023",
     "games": 20,
-    "id": "137172"
+    "id": "137172",
+    "synced": true
   },
   {
     "higestRating": 2261,
@@ -98951,7 +98960,8 @@
     "name": "HUA, David A",
     "year": "2008-2017",
     "games": 16,
-    "id": "114644"
+    "id": "114644",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -107106,7 +107116,8 @@
     "name": "ROLL, Craig",
     "year": "1985-1990",
     "games": 3,
-    "id": "64983"
+    "id": "64983",
+    "synced": true
   },
   {
     "higestRating": 2237,

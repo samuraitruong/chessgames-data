@@ -1,0 +1,14 @@
+[Event "47th US Open"]
+[Site "Pittsburgh, PA USA"]
+[Date "1946.07.08"]
+[EventDate "1946.??.??"]
+[Round "1"]
+[Result "0-1"]
+[White "Jack Yeager"]
+[Black "Olaf Ulvestad"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Bg4 5.c4 Nc6 6.Be3 Bb4+ 7.Nc3 Nge7 8.Bd3 dxc4 9.Bxc4 O-O 10.O-O Nf5 11.Nd5 Bd6 12.h3 Bxf3 13.Qxf3 Ncxd4 14.Bxd4 Nxd4 15.Qe4 Nc6 16.Ne3 Qf6 17.b3 Rae8 18.Qc2 Nd4 19.Qd2 Nf3+ 20.gxf3 Qg5+ 21.Kh1 Qf4 0-1
