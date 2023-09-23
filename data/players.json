@@ -2882,7 +2882,8 @@
     "name": "ELISKASES, Erich",
     "year": "1928-1976",
     "games": 1060,
-    "id": "13360"
+    "id": "13360",
+    "synced": true
   },
   {
     "higestRating": 2620,
@@ -19493,7 +19494,8 @@
     "name": "BERNARD, Ryszard",
     "year": "1968-1994",
     "games": 189,
-    "id": "47894"
+    "id": "47894",
+    "synced": true
   },
   {
     "higestRating": 2571,
@@ -40742,7 +40744,8 @@
     "name": "FERNANDEZ, Carlos Garcia",
     "year": "1989-2015",
     "games": 75,
-    "id": "50580"
+    "id": "50580",
+    "synced": true
   },
   {
     "higestRating": 2450,
@@ -46010,7 +46013,8 @@
     "name": "PEREZ, Arian Gonzalez",
     "year": "2010-2022",
     "games": 64,
-    "id": "132201"
+    "id": "132201",
+    "synced": true
   },
   {
     "higestRating": 2533,
@@ -47744,7 +47748,8 @@
     "name": "KARADENIZ, Emre",
     "year": "1994-2004",
     "games": 60,
-    "id": "37824"
+    "id": "37824",
+    "synced": true
   },
   {
     "higestRating": 2359,
@@ -54626,7 +54631,8 @@
     "name": "VARGAS, Andres Guerrero",
     "year": "2012-2018",
     "games": 49,
-    "id": "141859"
+    "id": "141859",
+    "synced": true
   },
   {
     "higestRating": 2345,
@@ -69426,7 +69432,8 @@
     "name": "MEHAR, Chinna Reddy C H",
     "year": "2008-2019",
     "games": 33,
-    "id": "117365"
+    "id": "117365",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -79026,7 +79033,8 @@
     "name": "VALNER, Uku",
     "year": "2005-2019",
     "games": 26,
-    "id": "115143"
+    "id": "115143",
+    "synced": true
   },
   {
     "higestRating": 2221,
@@ -100757,7 +100765,8 @@
     "name": "RUZICKA, Petr",
     "year": "1988-1995",
     "games": 15,
-    "id": "59905"
+    "id": "59905",
+    "synced": true
   },
   {
     "higestRating": 2202,
