@@ -5182,7 +5182,8 @@
     "name": "KOPYLOV, Mihail",
     "year": "1981-2022",
     "games": 707,
-    "id": "69055"
+    "id": "69055",
+    "synced": true
   },
   {
     "higestRating": 2527,
@@ -25241,7 +25242,8 @@
     "name": "DIMITRIJEVIC, Aleksandra",
     "year": "2001-2018",
     "games": 138,
-    "id": "50284"
+    "id": "50284",
+    "synced": true
   },
   {
     "higestRating": 2337,
@@ -32052,7 +32054,8 @@
     "name": "KULHANEK, Tomas",
     "year": "1993-2021",
     "games": 102,
-    "id": "51850"
+    "id": "51850",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -39173,7 +39176,8 @@
     "name": "KOZLOV, Oleg",
     "year": "1990-2022",
     "games": 79,
-    "id": "88033"
+    "id": "88033",
+    "synced": true
   },
   {
     "higestRating": 2270,
