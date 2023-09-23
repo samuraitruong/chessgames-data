@@ -1216,7 +1216,8 @@
     "name": "JAVAKHISHVILI, Lela",
     "year": "1996-2023",
     "games": 1575,
-    "id": "50113"
+    "id": "50113",
+    "synced": true
   },
   {
     "higestRating": 2545,
@@ -12778,7 +12779,8 @@
     "name": "ZOLER, Dan",
     "year": "1988-2022",
     "games": 299,
-    "id": "16377"
+    "id": "16377",
+    "synced": true
   },
   {
     "higestRating": 2494,
@@ -25482,7 +25484,8 @@
     "name": "ZHELNIN, Vladimir V",
     "year": "1972-2017",
     "games": 136,
-    "id": "26121"
+    "id": "26121",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -35663,7 +35666,8 @@
     "name": "IGNATIEV, Felix N",
     "year": "1958-1976",
     "games": 89,
-    "id": "87586"
+    "id": "87586",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -51808,7 +51812,8 @@
     "name": "ASCIC, Pero",
     "year": "1990-2019",
     "games": 53,
-    "id": "49221"
+    "id": "49221",
+    "synced": true
   },
   {
     "higestRating": 2448,
@@ -65440,7 +65445,8 @@
     "name": "NISHIMURA, Hiroyuki",
     "year": "1982-1995",
     "games": 36,
-    "id": "47157"
+    "id": "47157",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -79305,7 +79311,8 @@
     "name": "ALZATE, Javier",
     "year": "1966-1974",
     "games": 26,
-    "id": "148089"
+    "id": "148089",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -84159,7 +84166,8 @@
     "name": "ZHAK, Boris Mikhailovich",
     "year": "2008-2010",
     "games": 23,
-    "id": "138805"
+    "id": "138805",
+    "synced": true
   },
   {
     "higestRating": 2229,
@@ -88902,7 +88910,8 @@
     "name": "ORTMANN, David",
     "year": "1998-2017",
     "games": 20,
-    "id": "67190"
+    "id": "67190",
+    "synced": true
   },
   {
     "higestRating": 2257,
@@ -108211,7 +108220,8 @@
     "name": "WEIGAND, Bernhard",
     "year": "2000",
     "games": 1,
-    "id": "75122"
+    "id": "75122",
+    "synced": true
   },
   {
     "higestRating": 2272,
