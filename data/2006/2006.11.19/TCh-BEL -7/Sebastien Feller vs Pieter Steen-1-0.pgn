@@ -1,0 +1,14 @@
+[Event "TCh-BEL -7"]
+[Site "Belgium BEL"]
+[Date "2006.11.19"]
+[EventDate "2006.10.01"]
+[Round "4"]
+[Result "1-0"]
+[White "Sebastien Feller"]
+[Black "Pieter Steen"]
+[ECO "A31"]
+[WhiteElo "2424"]
+[BlackElo "2170"]
+[PlyCount "41"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 cxd4 4.Nxd4 e5 5.Nb5 d5 6.cxd5 Bc5 7.N5c3 O-O 8.h3 Bf5 9.e3 Nbd7 10.g4 Be4 11.Nxe4 Nxe4 12.Bg2 Bb4+ 13.Nd2 Ndc5 14.O-O Bxd2 15.Bxd2 Qxd5 16.Bb4 Qc4 17.Ba3 Rfd8 18.Rc1 Qa6 19.Qc2 Rd2 20.Qc4 b5 21.Qb4 1-0

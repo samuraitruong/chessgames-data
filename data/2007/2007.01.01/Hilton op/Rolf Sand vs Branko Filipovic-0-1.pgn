@@ -1,0 +1,14 @@
+[Event "Hilton op"]
+[Site "Basel"]
+[Date "2007.01.01"]
+[EventDate "2007.01.01"]
+[Round "1"]
+[Result "0-1"]
+[White "Rolf Sand"]
+[Black "Branko Filipovic"]
+[ECO "B00"]
+[WhiteElo "2097"]
+[BlackElo "2406"]
+[PlyCount "46"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 Nf6 4. Qe2 Nc6 5. c3 e5 6. Nf3 d6 7. O-O Be7 8. Nbd2 O-O 9. Nc4 exd4 10. cxd4 d5 11. exd5 Nb4 12. Bf5 Re8 13. Be3 Nbxd5 14. Nfe5 Bd6 15. Rad1 Qe7 16. Rfe1 g6 17. Bh3 Nh5 18. g3 f6 19. Nd3 Qe4 20. Bg2 Qxg2+ 21. Kxg2 Ndf4+ 22. Kf1 Nxe2 23. Rxe2 Bf3 0-1
