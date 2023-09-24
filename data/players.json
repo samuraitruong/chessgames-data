@@ -9299,7 +9299,8 @@
     "name": "MOSER, Eva",
     "year": "1994-2015",
     "games": 413,
-    "id": "53838"
+    "id": "53838",
+    "synced": true
   },
   {
     "higestRating": 2570,
@@ -13555,7 +13556,8 @@
     "name": "SHYTAJ, Luca",
     "year": "2002-2020",
     "games": 282,
-    "id": "86865"
+    "id": "86865",
+    "synced": true
   },
   {
     "higestRating": 2464,
@@ -23124,7 +23126,8 @@
     "name": "KLEK, Hanna Marie",
     "year": "2007-2023",
     "games": 155,
-    "id": "110089"
+    "id": "110089",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -23494,7 +23497,8 @@
     "name": "GRITSAYEVA, Oksana",
     "year": "1998-2022",
     "games": 152,
-    "id": "121607"
+    "id": "121607",
+    "synced": true
   },
   {
     "higestRating": 2226,
@@ -40378,7 +40382,8 @@
     "name": "CORKETT, Anthony R",
     "year": "1989-2012",
     "games": 76,
-    "id": "30834"
+    "id": "30834",
+    "synced": true
   },
   {
     "higestRating": 2331,
@@ -53752,7 +53757,8 @@
     "name": "SHYTAJ, Carlo",
     "year": "2001-2009",
     "games": 50,
-    "id": "54612"
+    "id": "54612",
+    "synced": true
   },
   {
     "higestRating": 2448,
@@ -66820,7 +66826,8 @@
     "name": "GOJ, Artur",
     "year": "1987-2001",
     "games": 35,
-    "id": "54495"
+    "id": "54495",
+    "synced": true
   },
   {
     "higestRating": 2244,
@@ -85753,7 +85760,8 @@
     "name": "MASSIRONI, Marco",
     "year": "2005-2018",
     "games": 22,
-    "id": "112563"
+    "id": "112563",
+    "synced": true
   },
   {
     "higestRating": 2437,
