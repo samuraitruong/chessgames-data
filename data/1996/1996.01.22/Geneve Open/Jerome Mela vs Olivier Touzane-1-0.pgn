@@ -1,0 +1,14 @@
+[Event "Geneve Open"]
+[Site "Geneve SUI"]
+[Date "1996.01.22"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Jerome Mela"]
+[Black "Olivier Touzane"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "2500"]
+[PlyCount "40"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 cxd4 5.Nxd4 Nc6 6.c3 Nxd4 7.cxd4 dxe4 8.Nxe4 Nf6 9.Nxf6+ gxf6 10.Bb5+ Bd7 11.Qa4 Bxb5 12.Qxb5+ Qd7 13.Qxd7+ Kxd7 14.Bd2 Rc8 15.Rc1 Rxc1+ 16.Bxc1 Kc6 17.Ke2 Kd5 18.Bf4 Bb4 19.Rc1 Ba5 20.Rc5+ 1-0
