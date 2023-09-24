@@ -4180,7 +4180,8 @@
     "name": "SALE, Srdjan",
     "year": "1988-2021",
     "games": 830,
-    "id": "37912"
+    "id": "37912",
+    "synced": true
   },
   {
     "higestRating": 2606,
@@ -19849,7 +19850,8 @@
     "name": "LETTIERI, Giuseppe",
     "year": "2002-2020",
     "games": 185,
-    "id": "95985"
+    "id": "95985",
+    "synced": true
   },
   {
     "higestRating": 2513,
@@ -23015,7 +23017,8 @@
     "name": "PETROVA, Irina",
     "year": "2008-2023",
     "games": 156,
-    "id": "118020"
+    "id": "118020",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -77047,7 +77050,8 @@
     "name": "HUMMEL, Patrick",
     "year": "1996-2003",
     "games": 27,
-    "id": "51445"
+    "id": "51445",
+    "synced": true
   },
   {
     "higestRating": 2274,
