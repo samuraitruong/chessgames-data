@@ -1,0 +1,14 @@
+[Event "Iceland"]
+[Site "Iceland"]
+[Date "1947.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jon Bodvarsson"]
+[Black "Fridrik Olafsson"]
+[ECO "A02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "10"]
+
+1.f4 e5 2.fxe5 d6 3.exd6 Bxd6 4.Nf3 Nc6 5.h3 Bg3# 0-1

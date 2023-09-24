@@ -3344,7 +3344,8 @@
     "name": "OLAFSSON, Fridrik",
     "year": "1947-2015",
     "games": 976,
-    "id": "22955"
+    "id": "22955",
+    "synced": true
   },
   {
     "higestRating": 2577,
@@ -28943,7 +28944,8 @@
     "name": "GOMBAC, Jan",
     "year": "2000-2017",
     "games": 115,
-    "id": "49185"
+    "id": "49185",
+    "synced": true
   },
   {
     "higestRating": 2454,
@@ -36370,7 +36372,8 @@
     "name": "SOFRONIE, Iulian",
     "year": "1992-2009",
     "games": 87,
-    "id": "49360"
+    "id": "49360",
+    "synced": true
   },
   {
     "higestRating": 2303,
@@ -61775,7 +61778,8 @@
     "name": "SOHAM, Das",
     "year": "2017-2022",
     "games": 41,
-    "id": "160324"
+    "id": "160324",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -98665,7 +98669,8 @@
     "name": "VAREJCKO, Josef",
     "year": "1992-2014",
     "games": 16,
-    "id": "85048"
+    "id": "85048",
+    "synced": true
   },
   {
     "higestRating": 2285,
