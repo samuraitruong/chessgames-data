@@ -1,0 +1,14 @@
+[Event "AUS-ch 1991-92"]
+[Site "Melbourne AUS"]
+[Date "1992.01.10"]
+[EventDate "1991.12.28"]
+[Round "11"]
+[Result "0-1"]
+[White "Eddy L Levi"]
+[Black "Jeremy Hirschhorn"]
+[ECO "C44"]
+[WhiteElo "2300"]
+[BlackElo "1946"]
+[PlyCount "40"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6 5.e5 d5 6.Bb5 Ne4 7.Nxd4 Bc5 8.O-O O-O 9.Bxc6 bxc6 10.f3 f6 11.exf6 Qxf6 12.Be3 Ba6 13.Re1 Qh4 14.fxe4 Bd6 15.g3 Bxg3 16.hxg3 Qxg3+ 17.Kh1 Rf6 18.Qd2 Qh4+ 19.Qh2 Qxe1+ 20.Qg1 0-1
