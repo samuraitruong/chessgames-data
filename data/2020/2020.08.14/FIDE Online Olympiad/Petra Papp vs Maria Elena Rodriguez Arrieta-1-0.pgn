@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.14"]
+[EventDate "2020.08.14"]
+[Round "1"]
+[Result "1-0"]
+[White "Petra Papp"]
+[Black "Maria Elena Rodriguez Arrieta"]
+[ECO "C95"]
+[WhiteElo "2297"]
+[BlackElo "1905"]
+[Source "Chess-Results"]
+[PlyCount "59"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15. a4 Bg7 16. Bg5 h6 17. Bd2 d5 18. Nxe5 Nxe5 19. dxe5 Rxe5 20. f4 Re8 21. e5 Nd7 22. axb5 axb5 23. Rxa8 Qxa8 24. e6 Nc5 25. exf7+ Kxf7 26. Bxg6+ Kxg6 27. Qh5+ Kh7 28. Rxe8 Qa6 29. Qf7 Qg6 30. Qg8# 1-0

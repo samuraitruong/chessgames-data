@@ -13698,7 +13698,8 @@
     "name": "PAPP, Petra",
     "year": "2008-2020",
     "games": 279,
-    "id": "118000"
+    "id": "118000",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -18235,7 +18236,8 @@
     "name": "ARDAMAN, Miles",
     "year": "1983-2016",
     "games": 205,
-    "id": "63606"
+    "id": "63606",
+    "synced": true
   },
   {
     "higestRating": 2501,
@@ -24795,7 +24797,8 @@
     "name": "PLOTKIN, Victor",
     "year": "2005-2022",
     "games": 142,
-    "id": "93863"
+    "id": "93863",
+    "synced": true
   },
   {
     "higestRating": 2491,
@@ -28387,7 +28390,8 @@
     "name": "MIKKELSEN, Nikolaj",
     "year": "2000-2018",
     "games": 118,
-    "id": "95748"
+    "id": "95748",
+    "synced": true
   },
   {
     "higestRating": 2622,
@@ -29579,7 +29583,8 @@
     "name": "PIENIAZEK, Artur",
     "year": "1987-2013",
     "games": 112,
-    "id": "53686"
+    "id": "53686",
+    "synced": true
   },
   {
     "higestRating": 2237,
@@ -43800,7 +43805,8 @@
     "name": "DUPPEL, Matthias",
     "year": "1996-2007",
     "games": 68,
-    "id": "49270"
+    "id": "49270",
+    "synced": true
   },
   {
     "higestRating": 2374,
@@ -48204,7 +48210,8 @@
     "name": "AIKHOJE, Odion",
     "year": "1998-2009",
     "games": 59,
-    "id": "11462"
+    "id": "11462",
+    "synced": true
   },
   {
     "higestRating": 2278,
@@ -77419,7 +77426,8 @@
     "name": "KNEBEL, Wilhelm",
     "year": "1989-2006",
     "games": 27,
-    "id": "90552"
+    "id": "90552",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -89825,7 +89833,8 @@
     "name": "BLAESER, Pierre",
     "year": "1981-1989",
     "games": 20,
-    "id": "115312"
+    "id": "115312",
+    "synced": true
   },
   {
     "higestRating": 2211,
@@ -93860,7 +93869,8 @@
     "name": "LIM, Mark",
     "year": "1987-1989",
     "games": 18,
-    "id": "91690"
+    "id": "91690",
+    "synced": true
   },
   {
     "higestRating": 2234,
@@ -107652,7 +107662,8 @@
     "name": "HILTON, Jonathan L",
     "year": "2008-2009",
     "games": 3,
-    "id": "114657"
+    "id": "114657",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -107870,7 +107881,8 @@
     "name": "BIDWELL, John",
     "year": "1989",
     "games": 2,
-    "id": "24069"
+    "id": "24069",
+    "synced": true
   },
   {
     "higestRating": 2220,
