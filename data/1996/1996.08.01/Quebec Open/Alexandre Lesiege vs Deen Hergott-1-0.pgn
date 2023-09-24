@@ -1,0 +1,14 @@
+[Event "Quebec Open"]
+[Site "Montreal CAN"]
+[Date "1996.08.01"]
+[EventDate "1996.07.27"]
+[Round "7"]
+[Result "1-0"]
+[White "Alexandre Lesiege"]
+[Black "Deen Hergott"]
+[ECO "A10"]
+[WhiteElo "2480"]
+[BlackElo "2485"]
+[PlyCount "42"]
+
+1.d4 e6 2.c4 b6 3.Nc3 Bb4 4.e4 Bb7 5.e5 Ne7 6.Nf3 c5 7.a3 Ba5 8.Be2 cxd4 9.Nxd4 Bxc3+ 10.bxc3 Ng6 11.Nb5 O-O 12.Nd6 Qc7 13.h4 Nxe5 14.h5 f6 15.Bf4 Na6 16.h6 g6 17.Qd4 Nc5 18.Rd1 Bxg2 19.Bxe5 Bxh1 20.Bxf6 Qxd6 21.Qxd6 Rxf6 1-0
