@@ -5617,7 +5617,8 @@
     "name": "RICARDI, Pablo",
     "year": "1981-2019",
     "games": 672,
-    "id": "14027"
+    "id": "14027",
+    "synced": true
   },
   {
     "higestRating": 2539,
@@ -5827,7 +5828,8 @@
     "name": "HECHT, Hans-Joachim",
     "year": "1953-2012",
     "games": 648,
-    "id": "71226"
+    "id": "71226",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -39891,7 +39893,8 @@
     "name": "FELSBERGER, Alfred",
     "year": "1986-2018",
     "games": 77,
-    "id": "19848"
+    "id": "19848",
+    "synced": true
   },
   {
     "higestRating": 2436,
@@ -65190,7 +65193,8 @@
     "name": "MOORE, Gerald",
     "year": "1975-2017",
     "games": 37,
-    "id": "109969"
+    "id": "109969",
+    "synced": true
   },
   {
     "higestRating": 2335,

@@ -1,0 +1,15 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.10.31"]
+[EventDate "1982.10.30"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Hans-Joachim Hecht"]
+[Black "Paul A Lamford"]
+[ECO "B31"]
+[WhiteElo "2455"]
+[BlackElo "2275"]
+[Source "Olimpbase"]
+[PlyCount "34"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 e5 6.Bxc6 dxc6 7.d3 Qe7 8.Nbd2 Nf6 9.Nc4 Nd7 10.a4 b6 11.Be3 O-O 12.Qd2 Rd8 13.Bh6 f6 14.Bxg7 Kxg7 15.Qe3 Nf8 16.c3 Ne6 17.Rad1 Ba6 1/2-1/2
