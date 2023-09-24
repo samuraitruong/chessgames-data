@@ -2064,7 +2064,8 @@
     "name": "LPUTIAN, Smbat",
     "year": "1975-2008",
     "games": 1250,
-    "id": "14284"
+    "id": "14284",
+    "synced": true
   },
   {
     "higestRating": 2689,
@@ -23251,7 +23252,8 @@
     "name": "LOCHTE, Thomas",
     "year": "1988-2018",
     "games": 154,
-    "id": "58514"
+    "id": "58514",
+    "synced": true
   },
   {
     "higestRating": 2212,
@@ -25397,7 +25399,8 @@
     "name": "DERAKHSHANI, Dorsa",
     "year": "2013-2020",
     "games": 138,
-    "id": "147732"
+    "id": "147732",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -44912,7 +44915,8 @@
     "name": "MIKHALETZ, Lubomir",
     "year": "1994-2021",
     "games": 66,
-    "id": "51723"
+    "id": "51723",
+    "synced": true
   },
   {
     "higestRating": 2333,
@@ -94574,7 +94578,8 @@
     "name": "STOCKMANN, Michael",
     "year": "1995-2013",
     "games": 18,
-    "id": "129286"
+    "id": "129286",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -97236,7 +97241,8 @@
     "name": "BULAVIN, Alexander",
     "year": "2015-2020",
     "games": 17,
-    "id": "154765"
+    "id": "154765",
+    "synced": true
   },
   {
     "higestRating": 2354,
