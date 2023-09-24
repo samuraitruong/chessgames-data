@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.22"]
+[EventDate "2020.08.21"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Leon Livaic"]
+[Black "Martin Petrov"]
+[ECO "E15"]
+[WhiteElo "2305"]
+[BlackElo "2393"]
+[Source "Chess-Results"]
+[PlyCount "28"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 c5 6. d5 exd5 7. cxd5 Bb7 8. Bg2 Nxd5 9. Qb3 Nc7 10. Ne5 d5 11. Nc3 Be7 12. Bf4 O-O 13. O-O-O Nc6 14. Nxc6 Bxc6 1/2-1/2

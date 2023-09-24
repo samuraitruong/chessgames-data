@@ -10394,7 +10394,8 @@
     "name": "LIVAIC, Leon",
     "year": "2015-2023",
     "games": 373,
-    "id": "155944"
+    "id": "155944",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -21126,7 +21127,8 @@
     "name": "MORGADO, Juan Sebastian",
     "year": "1965-2007",
     "games": 173,
-    "id": "31439"
+    "id": "31439",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -29335,7 +29337,8 @@
     "name": "KAPOSZTAS, Miklos",
     "year": "1976-2012",
     "games": 113,
-    "id": "19603"
+    "id": "19603",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -33962,7 +33965,8 @@
     "name": "AMOS, Bruce",
     "year": "1966-1976",
     "games": 95,
-    "id": "21467"
+    "id": "21467",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -40826,7 +40830,8 @@
     "name": "HAWKES, Rob",
     "year": "1979-1988",
     "games": 75,
-    "id": "48546"
+    "id": "48546",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -57073,7 +57078,8 @@
     "name": "LJUBOSCHIZ, Alexander",
     "year": "1955-2007",
     "games": 46,
-    "id": "92233"
+    "id": "92233",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -58370,7 +58376,8 @@
     "name": "GOICHBERG, William",
     "year": "1964-1978",
     "games": 44,
-    "id": "48626"
+    "id": "48626",
+    "synced": true
   },
   {
     "higestRating": 2539,
@@ -60793,7 +60800,8 @@
     "name": "QUILLAS, Diego Flores",
     "year": "2016-2023",
     "games": 42,
-    "id": "156275"
+    "id": "156275",
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -68173,7 +68181,8 @@
     "name": "VOIGT, Roland",
     "year": "1994-2006",
     "games": 34,
-    "id": "82439"
+    "id": "82439",
+    "synced": true
   },
   {
     "higestRating": 2246,
@@ -89764,7 +89773,8 @@
     "name": "MEIER, Thomas",
     "year": "1987-2001",
     "games": 20,
-    "id": "101486"
+    "id": "101486",
+    "synced": true
   },
   {
     "higestRating": 2278,
@@ -89855,7 +89865,8 @@
     "name": "WAGNER, Stephan",
     "year": "1996-2019",
     "games": 20,
-    "id": "106245"
+    "id": "106245",
+    "synced": true
   },
   {
     "higestRating": 2402,
@@ -93938,7 +93949,8 @@
     "name": "HAMANN, Henner",
     "year": "1992-2017",
     "games": 18,
-    "id": "90387"
+    "id": "90387",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -101912,7 +101924,8 @@
     "name": "MAHDAVIRAD, Mehdi",
     "year": "2006-2017",
     "games": 15,
-    "id": "103828"
+    "id": "103828",
+    "synced": true
   },
   {
     "higestRating": 2345,

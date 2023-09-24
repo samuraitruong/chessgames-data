@@ -1,0 +1,14 @@
+[Event "Match corr"]
+[Site "corr"]
+[Date "1970.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Hector Lencinas"]
+[Black "Juan Sebastian Morgado"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "2275"]
+[PlyCount "44"]
+
+1.d4 e5 2.dxe5 Nc6 3.Nf3 Qe7 4.Nc3 Nxe5 5.Nd5 Nxf3+ 6.gxf3 Qd8 7.Bf4 d6 8.Qd4 Be6 9.O-O-O c6 10.Nc3 d5 11.e4 Ne7 12.exd5 Nxd5 13.Bc4 Nxf4 14.Qxf4 Qf6 15.Qc7 Rc8 16.Qxb7 Qf4+ 17.Kb1 Qxc4 18.Rhe1 Be7 19.Re4 Qxe4 20.Nxe4 Kf8 21.f4 h6 22.Ng3 g6 1-0
