@@ -4232,7 +4232,8 @@
     "name": "SALOV, Valery",
     "year": "1978-1999",
     "games": 822,
-    "id": "13983"
+    "id": "13983",
+    "synced": true
   },
   {
     "higestRating": 2657,
@@ -37030,7 +37031,8 @@
     "name": "PAPADOPOULOS, Ioannis",
     "year": "2001-2009",
     "games": 85,
-    "id": "87568"
+    "id": "87568",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -42772,7 +42774,8 @@
     "name": "HOR, Winston Darwin Cu",
     "year": "2010-2022",
     "games": 71,
-    "id": "127754"
+    "id": "127754",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -61702,7 +61705,8 @@
     "name": "SZUSTAKOWSKI, Antoni",
     "year": "2017-2021",
     "games": 41,
-    "id": "157764"
+    "id": "157764",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -67301,7 +67305,8 @@
     "name": "ROYO, Joaquin Miguel Antoli",
     "year": "2000-2020",
     "games": 35,
-    "id": "124856"
+    "id": "124856",
+    "synced": true
   },
   {
     "higestRating": 2324,
