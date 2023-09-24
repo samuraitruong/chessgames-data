@@ -18622,7 +18622,8 @@
     "name": "JANEV, Evgeni",
     "year": "1989-2015",
     "games": 200,
-    "id": "45825"
+    "id": "45825",
+    "synced": true
   },
   {
     "higestRating": 2523,
@@ -24102,7 +24103,8 @@
     "name": "KAYUMOV, Sergey",
     "year": "2001-2016",
     "games": 148,
-    "id": "51270"
+    "id": "51270",
+    "synced": true
   },
   {
     "higestRating": 2480,
@@ -25022,7 +25024,8 @@
     "name": "HAMDOUCHI, Adina-Maria",
     "year": "1992-2017",
     "games": 140,
-    "id": "54147"
+    "id": "54147",
+    "synced": true
   },
   {
     "higestRating": 2407,
@@ -39815,7 +39818,8 @@
     "name": "LAGUNOW, Raphael",
     "year": "2015-2020",
     "games": 78,
-    "id": "153783"
+    "id": "153783",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -40223,7 +40227,8 @@
     "name": "MOLINA, Jorge",
     "year": "1993-2012",
     "games": 77,
-    "id": "140378"
+    "id": "140378",
+    "synced": true
   },
   {
     "higestRating": 2366,
@@ -47438,7 +47443,8 @@
     "name": "BALTAG, Iulian",
     "year": "2001-2022",
     "games": 61,
-    "id": "56618"
+    "id": "56618",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -51182,7 +51188,8 @@
     "name": "MINZER, Claudio Javier",
     "year": "1990-2022",
     "games": 54,
-    "id": "16468"
+    "id": "16468",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -52414,7 +52421,8 @@
     "name": "ZVAN, Ziga",
     "year": "1994-2017",
     "games": 52,
-    "id": "35482"
+    "id": "35482",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -52530,7 +52538,8 @@
     "name": "KUTYNEC, Vladimir",
     "year": "1995-2017",
     "games": 52,
-    "id": "51468"
+    "id": "51468",
+    "synced": true
   },
   {
     "higestRating": 2411,
@@ -62747,7 +62756,8 @@
     "name": "ZORMAN, Vojko",
     "year": "1976-1999",
     "games": 39,
-    "id": "17872"
+    "id": "17872",
+    "synced": true
   },
   {
     "higestRating": 2348,
@@ -70876,7 +70886,8 @@
     "name": "KUMAR, Pune Rahul",
     "year": "2013-2019",
     "games": 32,
-    "id": "152135"
+    "id": "152135",
+    "synced": true
   },
   {
     "higestRating": 2281,
@@ -72807,7 +72818,8 @@
     "name": "PALEKHA, Alexey",
     "year": "2000-2006",
     "games": 30,
-    "id": "54596"
+    "id": "54596",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -79343,7 +79355,8 @@
     "name": "MESA, Elier Miranda",
     "year": "2009-2023",
     "games": 26,
-    "id": "133356"
+    "id": "133356",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -96282,7 +96295,8 @@
     "name": "RUMPL, Erwin",
     "year": "1993-2010",
     "games": 17,
-    "id": "100328"
+    "id": "100328",
+    "synced": true
   },
   {
     "higestRating": 2302,
