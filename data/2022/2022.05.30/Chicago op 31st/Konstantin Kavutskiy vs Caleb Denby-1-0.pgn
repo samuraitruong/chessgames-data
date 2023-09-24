@@ -1,0 +1,14 @@
+[Event "Chicago op 31st"]
+[Site "Chicago"]
+[Date "2022.05.30"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Konstantin Kavutskiy"]
+[Black "Caleb Denby"]
+[ECO "E00"]
+[WhiteElo "2407"]
+[BlackElo "2184"]
+[PlyCount "46"]
+
+1. d4 Nf6 2. c4 e6 3. Bf4 d5 4. cxd5 exd5 5. Nc3 c5 6. e3 cxd4 7. Qxd4 Nc6 8. Bb5 Be7 9. Nf3 O-O 10. Qa4 Qb6 11. O-O Rd8 12. Ne2 a6 13. Bxc6 bxc6 14. Ned4 Bb7 15. Bg5 c5 16. Nf5 Bf8 17. Qh4 Qe6 18. Nh6+ Kh8 19. Ne5 gxh6 20. Bxf6+ Bg7 21. Bxd8 Bxe5 22. Qe7 Rb8 23. Qf8# 1-0
