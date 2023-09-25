@@ -6322,7 +6322,8 @@
     "name": "DLUGY, Maxim",
     "year": "1979-2022",
     "games": 601,
-    "id": "15486"
+    "id": "15486",
+    "synced": true
   },
   {
     "higestRating": 2386,
@@ -26302,7 +26303,8 @@
     "name": "SAVEREIDE, Diane",
     "year": "1975-1988",
     "games": 131,
-    "id": "39529"
+    "id": "39529",
+    "synced": true
   },
   {
     "higestRating": 2208,
@@ -27406,7 +27408,8 @@
     "name": "SHAOBIN, Wu",
     "year": "1987-2008",
     "games": 123,
-    "id": "10838"
+    "id": "10838",
+    "synced": true
   },
   {
     "higestRating": 2347,
@@ -39705,7 +39708,8 @@
     "name": "BILISKOV, Vjekoslav",
     "year": "1993-2019",
     "games": 78,
-    "id": "70132"
+    "id": "70132",
+    "synced": true
   },
   {
     "higestRating": 2412,
@@ -41163,7 +41167,8 @@
     "name": "JAIN, Jeet",
     "year": "2017-2023",
     "games": 75,
-    "id": "158159"
+    "id": "158159",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -55078,7 +55083,8 @@
     "name": "TJOMSLAND, Stig",
     "year": "1994-2015",
     "games": 48,
-    "id": "44758"
+    "id": "44758",
+    "synced": true
   },
   {
     "higestRating": 2383,
@@ -72589,7 +72595,8 @@
     "name": "DEY, Mahitosh",
     "year": "2018-2023",
     "games": 31,
-    "id": "160609"
+    "id": "160609",
+    "synced": true
   },
   {
     "higestRating": 2239,
@@ -79876,7 +79883,8 @@
     "name": "ROHLAND, Michael K",
     "year": "1956-1994",
     "games": 25,
-    "id": "22500"
+    "id": "22500",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -100354,7 +100362,8 @@
     "name": "ULBIG, Stefan",
     "year": "2020",
     "games": 16,
-    "id": "195563"
+    "id": "195563",
+    "synced": true
   },
   {
     "higestRating": 2211,
