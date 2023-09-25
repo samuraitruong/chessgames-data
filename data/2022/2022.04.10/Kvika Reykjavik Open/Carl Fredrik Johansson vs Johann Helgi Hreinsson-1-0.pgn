@@ -1,0 +1,14 @@
+[Event "Kvika Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2022.04.10"]
+[EventDate "2022.04.06"]
+[Round "6.90"]
+[Result "1-0"]
+[White "Carl Fredrik Johansson"]
+[Black "Johann Helgi Hreinsson"]
+[ECO "E20"]
+[WhiteElo "2221"]
+[BlackElo "1406"]
+[PlyCount "42"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Be7 6. e4 dxe4 7. fxe4 c5 8. d5 Qc7 9. Nf3 exd5 10. cxd5 Nbd7 11. Nb5 Qb8 12. d6 Bd8 13. e5 Ng8 14. Bc4 h6 15. Qd5 Nxe5 16. Qxe5+ Be6 17. Bxe6 fxe6 18. Qxe6+ Ne7 19. Ne5 Ba5+ 20. b4 cxb4 21. Qxe7# 1-0

@@ -741,7 +741,8 @@
     "name": "PEREZ, Leinier Dominguez",
     "year": "1997-2023",
     "games": 1889,
-    "id": "49080"
+    "id": "49080",
+    "synced": true
   },
   {
     "higestRating": 2724,
@@ -17248,7 +17249,8 @@
     "name": "KREJCI, Jan",
     "year": "2001-2021",
     "games": 217,
-    "id": "50857"
+    "id": "50857",
+    "synced": true
   },
   {
     "higestRating": 2525,
@@ -19134,7 +19136,8 @@
     "name": "PALLISSE, Josep Oms",
     "year": "1993-2020",
     "games": 195,
-    "id": "53537"
+    "id": "53537",
+    "synced": true
   },
   {
     "higestRating": 2483,
@@ -20064,7 +20067,8 @@
     "name": "KUPOROSOV, Viktor",
     "year": "1979-2012",
     "games": 183,
-    "id": "19748"
+    "id": "19748",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -28320,7 +28324,8 @@
     "name": "KOVACHEV, Daniel Jakobsen",
     "year": "2001-2016",
     "games": 119,
-    "id": "106270"
+    "id": "106270",
+    "synced": true
   },
   {
     "higestRating": 2412,
@@ -48911,7 +48916,8 @@
     "name": "GAVARRETE, Nahun",
     "year": "2013-2021",
     "games": 59,
-    "id": "150986"
+    "id": "150986",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -53687,7 +53693,8 @@
     "name": "OBOLADZE, Luka",
     "year": "2017-2019",
     "games": 51,
-    "id": "159574"
+    "id": "159574",
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -68241,7 +68248,8 @@
     "name": "GUREVICH, Artem",
     "year": "1996-2016",
     "games": 34,
-    "id": "67355"
+    "id": "67355",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -76943,7 +76951,8 @@
     "name": "DUBECK, Michael",
     "year": "1982-1995",
     "games": 27,
-    "id": "18542"
+    "id": "18542",
+    "synced": true
   },
   {
     "higestRating": 2237,
@@ -88922,7 +88931,8 @@
     "name": "MUKHAMEDZYANOV, Nail",
     "year": "1968-2001",
     "games": 20,
-    "id": "44662"
+    "id": "44662",
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -91251,7 +91261,8 @@
     "name": "JOHANSSON, Carl Fredrik",
     "year": "1985-2022",
     "games": 19,
-    "id": "46449"
+    "id": "46449",
+    "synced": true
   },
   {
     "higestRating": 2277,
@@ -92445,7 +92456,8 @@
     "name": "MAEURER, Christoph",
     "year": "1993-2012",
     "games": 19,
-    "id": "128823"
+    "id": "128823",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -100024,7 +100036,8 @@
     "name": "MOVSESIAN, Mouseg",
     "year": "1971-2000",
     "games": 16,
-    "id": "137779"
+    "id": "137779",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -107573,7 +107586,8 @@
     "name": "FERIA, Yasel Borges",
     "year": "1997-2015",
     "games": 4,
-    "id": "126361"
+    "id": "126361",
+    "synced": true
   },
   {
     "higestRating": 2248,
