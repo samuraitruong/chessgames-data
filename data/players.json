@@ -1949,7 +1949,8 @@
     "name": "CHIGAEV, Maksim",
     "year": "2008-2023",
     "games": 1289,
-    "id": "117641"
+    "id": "117641",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -18629,7 +18630,8 @@
     "name": "PLAYER, Edmund C",
     "year": "1995-2022",
     "games": 200,
-    "id": "11560"
+    "id": "11560",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -72708,7 +72710,8 @@
     "name": "KOZAK, Alexander",
     "year": "1997-2018",
     "games": 30,
-    "id": "12115"
+    "id": "12115",
+    "synced": true
   },
   {
     "higestRating": 2345,
