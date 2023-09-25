@@ -1,0 +1,14 @@
+[Event "12th Sautron Open"]
+[Site "Sautron FRA"]
+[Date "2012.11.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Evgeny Gleizerov"]
+[Black "Laurent Brard"]
+[ECO "D20"]
+[WhiteElo "2564"]
+[BlackElo "1878"]
+[PlyCount "30"]
+
+1.d4 d5 2.c4 dxc4 3.e3 e5 4.Bxc4 exd4 5.exd4 Bb4+ 6.Nc3 Qe7+ 7.Nge2 c6 8.O-O Nf6 9.Nf4 O-O 10.Nd3 Bd6 11.Re1 Bxh2+ 12.Kxh2 Ng4+ 13.Qxg4 Qxe1 14.Qxc8 Qe7 15.Qg4 1-0

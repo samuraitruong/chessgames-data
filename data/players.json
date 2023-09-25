@@ -571,7 +571,8 @@
     "name": "GLEIZEROV, Evgeny",
     "year": "1978-2022",
     "games": 2047,
-    "id": "19799"
+    "id": "19799",
+    "synced": true
   },
   {
     "higestRating": 2561,
@@ -8781,7 +8782,8 @@
     "name": "GIORGADZE, Tamaz",
     "year": "1956-1998",
     "games": 443,
-    "id": "15007"
+    "id": "15007",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -29645,7 +29647,8 @@
     "name": "WADDINGTON, Mike P",
     "year": "2001-2022",
     "games": 113,
-    "id": "135093"
+    "id": "135093",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -52208,7 +52211,8 @@
     "name": "REID, Alan",
     "year": "1977-1981",
     "games": 53,
-    "id": "47924"
+    "id": "47924",
+    "synced": true
   },
   {
     "higestRating": 2396,
@@ -102902,7 +102906,8 @@
     "name": "VAN DER AUWERAERT, Elwin",
     "year": "2012-2013",
     "games": 15,
-    "id": "139223"
+    "id": "139223",
+    "synced": true
   },
   {
     "higestRating": 2327,

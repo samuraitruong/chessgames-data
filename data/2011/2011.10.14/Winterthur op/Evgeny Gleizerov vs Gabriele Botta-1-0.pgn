@@ -1,0 +1,14 @@
+[Event "Winterthur op"]
+[Site "Winterthur SUI"]
+[Date "2011.10.14"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Evgeny Gleizerov"]
+[Black "Gabriele Botta"]
+[ECO "A61"]
+[WhiteElo "2585"]
+[BlackElo "2271"]
+[PlyCount "48"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 Na6 9.Nd2 Nc7 10.a4 b6 11.Nc4 Ba6 12.b3 Bxc4 13.bxc4 Ng4 14.Bd2 h5 15.h3 Ne5 16.Qb3 O-O 17.O-O f5 18.f4 Nd7 19.Rae1 h4 20.g4 fxg4 21.hxg4 Bd4+ 22.e3 h3 23.Bxh3 Qh4 24.Kg2 1-0
