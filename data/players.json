@@ -6582,7 +6582,8 @@
     "name": "JOHANSEN, Darryl K",
     "year": "1979-2023",
     "games": 580,
-    "id": "47022"
+    "id": "47022",
+    "synced": true
   },
   {
     "higestRating": 2465,
@@ -15257,7 +15258,8 @@
     "name": "SOFFER, Ram",
     "year": "1987-2023",
     "games": 249,
-    "id": "27698"
+    "id": "27698",
+    "synced": true
   },
   {
     "higestRating": 2517,
@@ -16451,7 +16453,8 @@
     "name": "YE, Rongguang",
     "year": "1980-2018",
     "games": 227,
-    "id": "13985"
+    "id": "13985",
+    "synced": true
   },
   {
     "higestRating": 2522,
@@ -34348,7 +34351,8 @@
     "name": "ZHOU, Guijue",
     "year": "2001-2020",
     "games": 94,
-    "id": "51571"
+    "id": "51571",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -39879,7 +39883,8 @@
     "name": "JAKUBIEC, Edyta",
     "year": "1993-2019",
     "games": 78,
-    "id": "133029"
+    "id": "133029",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -96052,7 +96057,8 @@
     "name": "TOMCIK, Milan",
     "year": "1999-2007",
     "games": 17,
-    "id": "66198"
+    "id": "66198",
+    "synced": true
   },
   {
     "higestRating": 2243,
