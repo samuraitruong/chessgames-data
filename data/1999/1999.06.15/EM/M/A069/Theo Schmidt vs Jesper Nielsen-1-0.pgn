@@ -1,0 +1,14 @@
+[Event "EM/M/A069"]
+[Site "ICCF Email"]
+[Date "1999.06.15"]
+[EventDate "1999.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Theo Schmidt"]
+[Black "Jesper Nielsen"]
+[ECO "B62"]
+[WhiteElo "2455"]
+[BlackElo "2233"]
+[PlyCount "47"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8. O-O-O h6 9.Be3 Be7 10.f4 Bd7 11.h3 b5 12.Bd3 Nxd4 13.Bxd4 Bc6 14.Qe3 b4 15.Ne2 Qa5 16.Kb1 Rc8 17.g4 O-O 18.g5 hxg5 19.Bb6 Qa4 20.b3 gxf4 21.Nxf4 Qa3 22.Rhg1 Ne8 23.Nh5 f5 24.exf5 1-0
