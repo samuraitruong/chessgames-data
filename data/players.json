@@ -1738,7 +1738,8 @@
     "name": "SOKOLOV, Andrei",
     "year": "1975-2021",
     "games": 1359,
-    "id": "11701"
+    "id": "11701",
+    "synced": true
   },
   {
     "higestRating": 2537,
@@ -15784,7 +15785,8 @@
     "name": "BYRON, Alan M",
     "year": "1979-2023",
     "games": 238,
-    "id": "113939"
+    "id": "113939",
+    "synced": true
   },
   {
     "higestRating": 2541,
@@ -17536,7 +17538,8 @@
     "name": "KOSYREV, Vladimir",
     "year": "1995-2016",
     "games": 213,
-    "id": "52179"
+    "id": "52179",
+    "synced": true
   },
   {
     "higestRating": 2358,
@@ -56660,7 +56663,8 @@
     "name": "SERRER, Christoph",
     "year": "1986-1999",
     "games": 46,
-    "id": "10793"
+    "id": "10793",
+    "synced": true
   },
   {
     "higestRating": 2583,
@@ -70433,7 +70437,8 @@
     "name": "SPAAN, Nathanael",
     "year": "1997-2012",
     "games": 32,
-    "id": "64310"
+    "id": "64310",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -75971,7 +75976,8 @@
     "name": "SCHNEPP, Gunnar",
     "year": "1994-2022",
     "games": 28,
-    "id": "88056"
+    "id": "88056",
+    "synced": true
   },
   {
     "higestRating": 2304,
@@ -101484,7 +101490,8 @@
     "name": "ESCHENKO, Vadim",
     "year": "1985-2001",
     "games": 15,
-    "id": "86549"
+    "id": "86549",
+    "synced": true
   },
   {
     "higestRating": 2242,
