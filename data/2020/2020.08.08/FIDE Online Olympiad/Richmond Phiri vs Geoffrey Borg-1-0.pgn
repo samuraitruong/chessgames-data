@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.08"]
+[EventDate "2020.08.07"]
+[Round "4"]
+[Result "1-0"]
+[White "Richmond Phiri"]
+[Black "Geoffrey Borg"]
+[ECO "A40"]
+[WhiteElo "2270"]
+[BlackElo "2367"]
+[PlyCount "45"]
+
+1. d4 g6 2. c4 Bg7 3. Nf3 c5 4. e3 cxd4 5. exd4 Nf6 6. Be2 d5 7. O-O O-O 8. Nc3 Nc6 9. h3 b6 10. Bg5 dxc4 11. Bxc4 Bb7 12. Re1 Rc8 13. Bf1 Re8 14. Rc1 e6 15. Qd2 Ne7 16. Ne5 Nf5 17. Bb5 Re7 18. Ng4 Rec7 19. d5 a6 20. Ba4 b5 21. Bb3 exd5 22. Bxf6 Bxf6 23. Re8+ 1-0

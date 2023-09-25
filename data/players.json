@@ -7127,7 +7127,8 @@
     "name": "SCHMITTDIEL, Eckhard",
     "year": "1981-2022",
     "games": 534,
-    "id": "14060"
+    "id": "14060",
+    "synced": true
   },
   {
     "higestRating": 2535,
@@ -22136,7 +22137,8 @@
     "name": "ANNAGELDYEV, Orazly",
     "year": "1987-2016",
     "games": 164,
-    "id": "53020"
+    "id": "53020",
+    "synced": true
   },
   {
     "higestRating": 2224,
@@ -25748,7 +25750,8 @@
     "name": "PETSCHAR, Kurt",
     "year": "1973-2018",
     "games": 135,
-    "id": "34417"
+    "id": "34417",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -27835,7 +27838,8 @@
     "name": "BORG, Geoffrey",
     "year": "1979-2020",
     "games": 121,
-    "id": "27474"
+    "id": "27474",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -48786,7 +48790,8 @@
     "name": "SECER, Ata",
     "year": "2004-2019",
     "games": 59,
-    "id": "97438"
+    "id": "97438",
+    "synced": true
   },
   {
     "higestRating": 2369,
@@ -63519,7 +63524,8 @@
     "name": "FERNANDEZ, Rodrigo Amaral",
     "year": "1991-2003",
     "games": 39,
-    "id": "122751"
+    "id": "122751",
+    "synced": true
   },
   {
     "higestRating": 2444,
@@ -69759,7 +69765,8 @@
     "name": "ZARO, Alfonso Llorente",
     "year": "2002-2021",
     "games": 33,
-    "id": "105144"
+    "id": "105144",
+    "synced": true
   },
   {
     "higestRating": 2215,
