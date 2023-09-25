@@ -5536,7 +5536,8 @@
     "name": "KNEZEVIC, Milorad",
     "year": "1957-1993",
     "games": 678,
-    "id": "15367"
+    "id": "15367",
+    "synced": true
   },
   {
     "higestRating": 2543,
@@ -10731,7 +10732,8 @@
     "name": "KONOPKA, Michal",
     "year": "1986-2019",
     "games": 362,
-    "id": "15717"
+    "id": "15717",
+    "synced": true
   },
   {
     "higestRating": 2461,
@@ -29785,7 +29787,8 @@
     "name": "JAUNOOBY, Ali Reza",
     "year": "2009-2017",
     "games": 112,
-    "id": "125002"
+    "id": "125002",
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -63464,7 +63467,8 @@
     "name": "AGHAYEV, Miragha",
     "year": "2011-2021",
     "games": 39,
-    "id": "131797"
+    "id": "131797",
+    "synced": true
   },
   {
     "higestRating": 2378,
@@ -108864,7 +108868,8 @@
     "name": "MORSS, Mark F",
     "year": "1999",
     "games": 1,
-    "id": "125979"
+    "id": "125979",
+    "synced": true
   },
   {
     "higestRating": 2210,
