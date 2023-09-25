@@ -1,14 +1,14 @@
 [Event "Polgar - Anand Rapid Match"]
 [Site "Mainz GER"]
-[Date "2003.08.16"]
+[Date "2003.08.14"]
 [EventDate "2003.08.14"]
-[Round "5"]
+[Round "1"]
 [Result "1-0"]
 [White "Judit Polgar"]
 [Black "Viswanathan Anand"]
-[ECO "B80"]
+[ECO "B90"]
 [WhiteElo "2718"]
 [BlackElo "2774"]
-[PlyCount "53"]
+[PlyCount "97"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8. g4 Nfd7 9. Qd2 Nb6 10. O-O-O N8d7 11. Bd3 Bb7 12. Kb1 Rc8 13. Bg5 Qc7 14. Rhe1 Ne5 15. f4 Nec4 16. Qc1 h6 17. Nd5 Qc5 18. Nb3 Qf2 19. Rf1 Qg2 20. Nxb6 Nxb6 21. Qe3 Nc4 22. Qa7 Bxe4 23. Qxa6 Rb8 24. Rg1 hxg5 25. Rxg2 Bxg2 26. Bxc4 bxc4 27. Qa4+ 1-0
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3 Nbd7 9. g4 Nb6 10. g5 Nh5 11. Qd2 Rc8 12. O-O-O Be7 13. Bd3 g6 14. h4 O-O 15. Kb1 f6 16. gxf6 Rxf6 17. Qf2 Nd7 18. Nd5 Bxd5 19. exd5 Rf7 20. Nd2 Ndf6 21. c4 Ng4 22. Qg1 Nxe3 23. Qxe3 Bxh4 24. Ne4 Nf4 25. Rxh4 Ng2 26. Qh6 Nxh4 27. Ng5 Nxf3 28. Nxf7 Qf6 29. Qh3 Rf8 30. Nh6+ Kh8 31. Qd7 e4 32. Be2 Qg7 33. Qxd6 Qxh6 34. Qe7 Qg7 35. Qxe4 Ne5 36. c5 a5 37. Bb5 g5 38. d6 Qg6 39. Qxg6 hxg6 40. Re1 Nf7 41. Be8 Kg7 42. Bxf7 Rxf7 43. Rd1 Rf8 44. Kc2 Rc8 45. Kd3 Kf6 46. Kc4 Ke6 47. Kb5 Kd7 48. Re1 Re8 49. Rxe8 1-0

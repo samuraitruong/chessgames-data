@@ -882,7 +882,8 @@
     "name": "POLGAR, Judit",
     "year": "1984-2022",
     "games": 1798,
-    "id": "12190"
+    "id": "12190",
+    "synced": true
   },
   {
     "higestRating": 2605,
@@ -86971,7 +86972,8 @@
     "name": "BARNES, Michael H",
     "year": "1991-2012",
     "games": 21,
-    "id": "40517"
+    "id": "40517",
+    "synced": true
   },
   {
     "higestRating": 2382,
