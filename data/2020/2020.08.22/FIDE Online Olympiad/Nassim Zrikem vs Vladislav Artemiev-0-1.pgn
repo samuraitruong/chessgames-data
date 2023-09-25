@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.22"]
+[EventDate "2020.08.21"]
+[Round "5"]
+[Result "0-1"]
+[White "Nassim Zrikem"]
+[Black "Vladislav Artemiev"]
+[ECO "A48"]
+[WhiteElo "1871"]
+[BlackElo "2769"]
+[Source "Chess-Results"]
+[PlyCount "36"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. dxc5 Na6 6. e4 Nxc5 7. e5 Ng4 8. Nc4 Ne6 9. Qd5 Nxg5 10. Nxg5 O-O 11. Be2 e6 12. Qd4 Nxe5 13. Nxe5 Qxg5 14. f4 Qxg2 15. Rg1 Qxh2 16. Kd2 d6 17. Nf3 Bxd4 18. Nxh2 Bxg1 0-1
