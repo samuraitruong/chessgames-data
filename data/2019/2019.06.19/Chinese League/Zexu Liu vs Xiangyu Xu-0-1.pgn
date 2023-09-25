@@ -1,0 +1,14 @@
+[Event "Chinese League"]
+[Site "Daqing CHN"]
+[Date "2019.06.19"]
+[EventDate "2019.06.19"]
+[Round "1.4"]
+[Result "0-1"]
+[White "Zexu Liu"]
+[Black "Xiangyu Xu"]
+[ECO "A40"]
+[WhiteElo "2121"]
+[BlackElo "2583"]
+[PlyCount "44"]
+
+1. d4 b6 2. c4 Bb7 3. Nc3 e6 4. Qc2 f5 5. Nf3 Nf6 6. g3 Nc6 7. Qd3 Na5 8. Bg5 Bb4 9. b3 Be4 10. Qe3 d5 11. Bxf6 Qxf6 12. cxd5 c5 13. dxc6 Nxc6 14. Bg2 Nxd4 15. Nxd4 Bxg2 16. Rg1 Rc8 17. Rc1 Bb7 18. Kf1 O-O 19. Ndb5 Rfd8 20. f4 Bc5 21. Qe5 a6 22. Qxf6 gxf6 0-1

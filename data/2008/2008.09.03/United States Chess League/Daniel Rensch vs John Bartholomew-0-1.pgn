@@ -1,0 +1,14 @@
+[Event "United States Chess League"]
+[Site "Internet Chess Club"]
+[Date "2008.09.03"]
+[EventDate "2008.??.??"]
+[Round "2"]
+[Result "0-1"]
+[White "Daniel Rensch"]
+[Black "John Bartholomew"]
+[ECO "C45"]
+[WhiteElo "2411"]
+[BlackElo "2488"]
+[PlyCount "44"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8. c4 Nb6 9. Nc3 Qe6 10. Qe4 g6 11. Bg5 Bg7 12. f4 d5 13. O-O-O h6 14. cxd5 cxd5 15. Bb5+ c6 16. Nxd5 Nxd5 17. Rxd5 O-O 18. Rd6 Qxa2 19. Be7 Bf5 20. Qa4 Qb1+ 21. Kd2 Qxb2+ 22. Ke1 cxb5 0-1
