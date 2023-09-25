@@ -9008,7 +9008,8 @@
     "name": "YRJOLA, Jouni",
     "year": "1979-2020",
     "games": 431,
-    "id": "27442"
+    "id": "27442",
+    "synced": true
   },
   {
     "higestRating": 2559,
@@ -9410,7 +9411,8 @@
     "name": "LOMINEISHVILI, Maia",
     "year": "1991-2021",
     "games": 410,
-    "id": "26765"
+    "id": "26765",
+    "synced": true
   },
   {
     "higestRating": 2391,
@@ -42749,7 +42751,8 @@
     "name": "CALDEIRA, Adriano",
     "year": "1996-2023",
     "games": 71,
-    "id": "52926"
+    "id": "52926",
+    "synced": true
   },
   {
     "higestRating": 2477,
@@ -48185,7 +48188,8 @@
     "name": "AKHMETOV, Artiom",
     "year": "1996-2015",
     "games": 60,
-    "id": "53200"
+    "id": "53200",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -55582,7 +55586,8 @@
     "name": "GRINSHPUN, Eduard",
     "year": "1988-2010",
     "games": 48,
-    "id": "88337"
+    "id": "88337",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -79144,7 +79149,8 @@
     "name": "HIERMANN, Dietmar",
     "year": "1991-2020",
     "games": 26,
-    "id": "67012"
+    "id": "67012",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -86519,7 +86525,8 @@
     "name": "NINOV, Dayan",
     "year": "2011-2013",
     "games": 22,
-    "id": "138076"
+    "id": "138076",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -88772,7 +88779,8 @@
     "name": "BATES, David Henry Maycock",
     "year": "2022-2023",
     "games": 21,
-    "id": "188384"
+    "id": "188384",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -92525,7 +92533,8 @@
     "name": "MONEV, Alexander",
     "year": "2006-2010",
     "games": 19,
-    "id": "117651"
+    "id": "117651",
+    "synced": true
   },
   {
     "higestRating": 2392,
