@@ -10685,7 +10685,8 @@
     "name": "CHERNYSHOV, Konstantin",
     "year": "1982-2020",
     "games": 365,
-    "id": "18185"
+    "id": "18185",
+    "synced": true
   },
   {
     "higestRating": 2515,
@@ -18301,7 +18302,8 @@
     "name": "IBRAHIMOV, Rasul",
     "year": "1996-2017",
     "games": 205,
-    "id": "56993"
+    "id": "56993",
+    "synced": true
   },
   {
     "higestRating": 2432,
@@ -22831,7 +22833,8 @@
     "name": "TAIROVA, Elena",
     "year": "1999-2009",
     "games": 158,
-    "id": "103236"
+    "id": "103236",
+    "synced": true
   },
   {
     "higestRating": 2447,
@@ -23196,7 +23199,8 @@
     "name": "MARTINEZ, Carlos Alejandro",
     "year": "1973-2008",
     "games": 155,
-    "id": "88825"
+    "id": "88825",
+    "synced": true
   },
   {
     "higestRating": 2432,
@@ -36371,7 +36375,8 @@
     "name": "KLIP, Hans",
     "year": "1982-2010",
     "games": 87,
-    "id": "17710"
+    "id": "17710",
+    "synced": true
   },
   {
     "higestRating": 2468,
@@ -79272,7 +79277,8 @@
     "name": "BUTZE, Roland",
     "year": "1970-1999",
     "games": 26,
-    "id": "90668"
+    "id": "90668",
+    "synced": true
   },
   {
     "higestRating": 2269,
@@ -87442,7 +87448,8 @@
     "name": "WEI, Xue",
     "year": "1987",
     "games": 21,
-    "id": "59857"
+    "id": "59857",
+    "synced": true
   },
   {
     "higestRating": 2222,
