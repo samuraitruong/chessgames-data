@@ -1,0 +1,15 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.10.31"]
+[EventDate "1982.10.30"]
+[Round "2"]
+[Result "1-0"]
+[White "Roman Hernandez"]
+[Black "Helmut Schumacher"]
+[ECO "D61"]
+[WhiteElo "2435"]
+[BlackElo "2240"]
+[Source "Olimpbase"]
+[PlyCount "34"]
+
+1.d4 e6 2.Nf3 d5 3.c4 Nf6 4.Nc3 Be7 5.Bg5 Nbd7 6.e3 O-O 7.Qc2 c5 8.O-O-O dxc4 9.Bxc4 Qa5 10.Kb1 cxd4 11.Rxd4 e5 12.Rh4 g6 13.Bh6 Ne8 14.Rg4 Ng7 15. Rxg6 hxg6 16.Qxg6 Bf6 17.Ng5 Rd8 1-0
