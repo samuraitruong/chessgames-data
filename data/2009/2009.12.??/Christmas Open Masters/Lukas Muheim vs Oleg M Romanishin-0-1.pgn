@@ -1,0 +1,14 @@
+[Event "Christmas Open Masters"]
+[Site "Zuerich SUI"]
+[Date "2009.12.??"]
+[EventDate "2009.12.26"]
+[Round "4"]
+[Result "0-1"]
+[White "Lukas Muheim"]
+[Black "Oleg M Romanishin"]
+[ECO "C44"]
+[WhiteElo "2328"]
+[BlackElo "2510"]
+[PlyCount "46"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.e5 Ne4 6.Bd5 Nc5 7.c3 dxc3 8.Nxc3 Ne6 9.Bxe6 dxe6 10.Bg5 Qxd1+ 11.Rxd1 Bb4 12.O-O Bxc3 13.bxc3 h6 14.Bc1 Bd7 15.g4 Na5 16.Nd4 Ba4 17.Rd2 c5 18.Nf3 Bc6 19.Nh4 g5 20.Ng2 Nc4 21.Re2 Bf3 22.Ree1 O-O-O 23.h3 b6 0-1
