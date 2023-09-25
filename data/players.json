@@ -2536,7 +2536,8 @@
     "name": "PALAC, Mladen",
     "year": "1988-2023",
     "games": 1141,
-    "id": "19757"
+    "id": "19757",
+    "synced": true
   },
   {
     "higestRating": 2511,
@@ -30721,7 +30722,8 @@
     "name": "WILEY, Tom E",
     "year": "1984-2019",
     "games": 108,
-    "id": "49286"
+    "id": "49286",
+    "synced": true
   },
   {
     "higestRating": 2462,
@@ -39422,7 +39424,8 @@
     "name": "TEICHMEISTER, Sven",
     "year": "1983-2008",
     "games": 79,
-    "id": "105424"
+    "id": "105424",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -67670,7 +67673,8 @@
     "name": "GERGACZ, Attila",
     "year": "2007-2016",
     "games": 35,
-    "id": "140769"
+    "id": "140769",
+    "synced": true
   },
   {
     "higestRating": 2431,
