@@ -7565,7 +7565,8 @@
     "name": "PRITCHETT, Craig",
     "year": "1966-2018",
     "games": 504,
-    "id": "13788"
+    "id": "13788",
+    "synced": true
   },
   {
     "higestRating": 2580,
@@ -8163,7 +8164,8 @@
     "name": "ROEDER, Matthias",
     "year": "1986-2022",
     "games": 474,
-    "id": "10770"
+    "id": "10770",
+    "synced": true
   },
   {
     "higestRating": 2659,
@@ -54963,7 +54965,8 @@
     "name": "MULET, Inigo Lopez",
     "year": "2013-2023",
     "games": 49,
-    "id": "147587"
+    "id": "147587",
+    "synced": true
   },
   {
     "higestRating": 2248,
@@ -72604,7 +72607,8 @@
     "name": "EDEN, James",
     "year": "2012-2022",
     "games": 31,
-    "id": "139591"
+    "id": "139591",
+    "synced": true
   },
   {
     "higestRating": 2213,
@@ -83871,7 +83875,8 @@
     "name": "GRIMM, Sascha",
     "year": "1992-2008",
     "games": 23,
-    "id": "79761"
+    "id": "79761",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -86582,7 +86587,8 @@
     "name": "FAVALORO, Andrea",
     "year": "2015-2021",
     "games": 22,
-    "id": "153882"
+    "id": "153882",
+    "synced": true
   },
   {
     "higestRating": 2336,
