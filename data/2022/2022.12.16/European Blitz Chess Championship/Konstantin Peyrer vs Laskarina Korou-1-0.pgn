@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.16"]
+[EventDate "2022.12.16"]
+[Round "2.57"]
+[Result "1-0"]
+[White "Konstantin Peyrer"]
+[Black "Laskarina Korou"]
+[ECO "D45"]
+[WhiteElo "2380"]
+[BlackElo "1815"]
+[PlyCount "38"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c6 5. e3 Be7 6. Qc2 O-O 7. e4 h6 8. Bd2 Nbd7 9. e5 Ne8 10. h4 Nc7 11. Qd3 dxc4 12. Qxc4 Nd5 13. Ne4 Qb6 14. Bd3 c5 15. dxc5 Nxc5 16. Nxc5 Bxc5 17. Qe4 Bxf2+ 18. Ke2 Bc5 19. Qh7# 1-0
