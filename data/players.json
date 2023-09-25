@@ -2316,7 +2316,8 @@
     "name": "BARCZA, Gedeon",
     "year": "1934-1979",
     "games": 1183,
-    "id": "20564"
+    "id": "20564",
+    "synced": true
   },
   {
     "higestRating": 2644,
@@ -16652,7 +16653,8 @@
     "name": "VAKHIDOV, Tahir",
     "year": "1980-2021",
     "games": 225,
-    "id": "42807"
+    "id": "42807",
+    "synced": true
   },
   {
     "higestRating": 2359,
@@ -38380,7 +38382,8 @@
     "name": "SCHOENE, Maria",
     "year": "2000-2017",
     "games": 82,
-    "id": "104858"
+    "id": "104858",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -38832,7 +38835,8 @@
     "name": "MINDLIN, Alon",
     "year": "2006-2023",
     "games": 81,
-    "id": "118149"
+    "id": "118149",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -40385,7 +40389,8 @@
     "name": "EMPERADO, Emmanuel",
     "year": "2000-2018",
     "games": 77,
-    "id": "135074"
+    "id": "135074",
+    "synced": true
   },
   {
     "higestRating": 2261,
@@ -40468,7 +40473,8 @@
     "name": "DEFOTIS, Gregory",
     "year": "1968-1998",
     "games": 76,
-    "id": "19260"
+    "id": "19260",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -49464,7 +49470,8 @@
     "name": "MUCO, Fatos",
     "year": "1972-1995",
     "games": 57,
-    "id": "14420"
+    "id": "14420",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -54863,7 +54870,8 @@
     "name": "BONTE, Andrei-Mihai",
     "year": "2007-2022",
     "games": 49,
-    "id": "120838"
+    "id": "120838",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -65763,7 +65771,8 @@
     "name": "PLASMAN, Hans",
     "year": "1980-2018",
     "games": 36,
-    "id": "36771"
+    "id": "36771",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -75266,7 +75275,8 @@
     "name": "HERNANDEZ, Roberto",
     "year": "2012-2016",
     "games": 29,
-    "id": "140203"
+    "id": "140203",
+    "synced": true
   },
   {
     "higestRating": 2288,
@@ -79503,7 +79513,8 @@
     "name": "FELL, Sebastian",
     "year": "2007-2020",
     "games": 26,
-    "id": "118622"
+    "id": "118622",
+    "synced": true
   },
   {
     "higestRating": 2468,
@@ -80568,7 +80579,8 @@
     "name": "COOLS, Gorik",
     "year": "1978-2019",
     "games": 25,
-    "id": "57186"
+    "id": "57186",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -84614,7 +84626,8 @@
     "name": "KUTSYJ, Alexander",
     "year": "1993-2010",
     "games": 23,
-    "id": "132208"
+    "id": "132208",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -86704,7 +86717,8 @@
     "name": "DEJEANNE, Francisco",
     "year": "1994-2016",
     "games": 22,
-    "id": "172880"
+    "id": "172880",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -98837,7 +98851,8 @@
     "name": "MARTINI, Pablo Rodas",
     "year": "1980-1982",
     "games": 16,
-    "id": "73292"
+    "id": "73292",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -98968,7 +98983,8 @@
     "name": "FISCHER, Johann Stefan",
     "year": "1977-2002",
     "games": 16,
-    "id": "86626"
+    "id": "86626",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -102894,7 +102910,8 @@
     "name": "PARIS, Michael",
     "year": "1987-2017",
     "games": 15,
-    "id": "157790"
+    "id": "157790",
+    "synced": true
   },
   {
     "higestRating": 2362,
@@ -107564,7 +107581,8 @@
     "name": "CLASSEN, Harald",
     "year": "1987-1999",
     "games": 4,
-    "id": "104507"
+    "id": "104507",
+    "synced": true
   },
   {
     "higestRating": 2210,

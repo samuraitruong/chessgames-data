@@ -1,0 +1,14 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1934.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Kiss"]
+[Black "Gedeon Barcza"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.e4 Nc6 2.d4 d5 3.exd5 Qxd5 4.Nf3 Bg4 5.Nc3 Bxf3 6.Nxd5 Bxd1 7.Nxc7+ Kd7 8.Nxa8 Bxc2 9.Bf4 e5 10.dxe5 Bb4+ 11.Ke2 Nge7 12.e6+ fxe6 13.Nc7 Nd4+ 14.Ke3 Nef5# 0-1
