@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.16"]
+[EventDate "2022.12.16"]
+[Round "16.48"]
+[Result "0-1"]
+[White "Jakub Chyzy"]
+[Black "Krystian Kuzmicz"]
+[ECO "B23"]
+[WhiteElo "2247"]
+[BlackElo "2466"]
+[PlyCount "58"]
+
+1. e4 c5 2. Nc3 a6 3. d4 cxd4 4. Qxd4 Nc6 5. Qd2 g6 6. b3 d6 7. Bb2 Bh6 8. f4 Nf6 9. O-O-O Bg4 10. Nge2 O-O 11. h3 Bxe2 12. Bxe2 Rc8 13. g4 Bg7 14. Kb1 b5 15. Bf3 Qa5 16. h4 b4 17. Nd5 Nxd5 18. exd5 Bxb2 19. Kxb2 Na7 20. Be2 Rc3 21. h5 Rfc8 22. Rc1 Nb5 23. Bxb5 axb5 24. hxg6 Qa3+ 25. Kb1 Ra8 26. gxh7+ Kh8 27. Qd4+ f6 28. Rce1 Qxa2+ 29. Kc1 Qxc2# 0-1
