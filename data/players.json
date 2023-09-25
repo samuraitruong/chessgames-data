@@ -7810,7 +7810,8 @@
     "name": "YANDEMIROV, Valeri",
     "year": "1983-2017",
     "games": 491,
-    "id": "18162"
+    "id": "18162",
+    "synced": true
   },
   {
     "higestRating": 2603,
@@ -11716,7 +11717,8 @@
     "name": "TOMA, Katarzyna",
     "year": "1999-2023",
     "games": 330,
-    "id": "52941"
+    "id": "52941",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -22945,7 +22947,8 @@
     "name": "MARZANO, Carlo",
     "year": "1994-2019",
     "games": 157,
-    "id": "98753"
+    "id": "98753",
+    "synced": true
   },
   {
     "higestRating": 2522,
@@ -69876,7 +69879,8 @@
     "name": "KVETNY, Mark",
     "year": "2012-2021",
     "games": 33,
-    "id": "136297"
+    "id": "136297",
+    "synced": true
   },
   {
     "higestRating": 2284,
@@ -72969,7 +72973,8 @@
     "name": "SUN, Qinan",
     "year": "1987-2001",
     "games": 30,
-    "id": "52649"
+    "id": "52649",
+    "synced": true
   },
   {
     "higestRating": 2255,
