@@ -15760,7 +15760,8 @@
     "name": "KUIPERS, Stefan",
     "year": "2004-2020",
     "games": 240,
-    "id": "112014"
+    "id": "112014",
+    "synced": true
   },
   {
     "higestRating": 2540,
@@ -23000,7 +23001,8 @@
     "name": "GHIZDAVU, Dumitru",
     "year": "1966-1977",
     "games": 156,
-    "id": "19005"
+    "id": "19005",
+    "synced": true
   },
   {
     "higestRating": 2538,
@@ -25003,7 +25005,8 @@
     "name": "YILMAZYERLI, Mert",
     "year": "2004-2023",
     "games": 141,
-    "id": "113244"
+    "id": "113244",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -27449,7 +27452,8 @@
     "name": "SHAFIGULLINA, Zarina",
     "year": "2017-2021",
     "games": 124,
-    "id": "158325"
+    "id": "158325",
+    "synced": true
   },
   {
     "higestRating": 2540,
@@ -30378,7 +30382,8 @@
     "name": "MURPHY, Conor E",
     "year": "2012-2023",
     "games": 110,
-    "id": "142586"
+    "id": "142586",
+    "synced": true
   },
   {
     "higestRating": 2261,
@@ -39537,7 +39542,8 @@
     "name": "OZEN, Deniz",
     "year": "2016-2022",
     "games": 79,
-    "id": "154617"
+    "id": "154617",
+    "synced": true
   },
   {
     "higestRating": 2334,
@@ -43213,7 +43219,8 @@
     "name": "BUCHICCHIO, Giampaolo",
     "year": "1999-2022",
     "games": 70,
-    "id": "67264"
+    "id": "67264",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -55201,7 +55208,8 @@
     "name": "MARKOVIC, Zoran S",
     "year": "1989-2016",
     "games": 48,
-    "id": "48954"
+    "id": "48954",
+    "synced": true
   },
   {
     "higestRating": 2366,
@@ -58980,7 +58988,8 @@
     "name": "NETO, Francisco Jose dos Santos",
     "year": "1982-2008",
     "games": 44,
-    "id": "118676"
+    "id": "118676",
+    "synced": true
   },
   {
     "higestRating": 2426,
@@ -81308,7 +81317,8 @@
     "name": "PETRUSIC, Toni",
     "year": "2008-2012",
     "games": 25,
-    "id": "114724"
+    "id": "114724",
+    "synced": true
   },
   {
     "higestRating": 2391,
@@ -99387,7 +99397,8 @@
     "name": "GRAMLICH, Sebastian",
     "year": "2005-2007",
     "games": 16,
-    "id": "99331"
+    "id": "99331",
+    "synced": true
   },
   {
     "higestRating": 2399,
@@ -107627,7 +107638,8 @@
     "name": "BURGESS, Jon",
     "year": "2004-2012",
     "games": 4,
-    "id": "120515"
+    "id": "120515",
+    "synced": true
   },
   {
     "higestRating": 2257,
@@ -109195,7 +109207,8 @@
     "name": "VIRAG, Attila Aba",
     "year": "2010",
     "games": 1,
-    "id": "138747"
+    "id": "138747",
+    "synced": true
   },
   {
     "higestRating": 2224,

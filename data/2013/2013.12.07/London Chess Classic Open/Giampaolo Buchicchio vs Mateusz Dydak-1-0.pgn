@@ -1,0 +1,14 @@
+[Event "London Chess Classic Open"]
+[Site "London ENG"]
+[Date "2013.12.07"]
+[EventDate "2013.12.07"]
+[Round "1.54"]
+[Result "1-0"]
+[White "Giampaolo Buchicchio"]
+[Black "Mateusz Dydak"]
+[ECO "C10"]
+[WhiteElo "2312"]
+[BlackElo "1901"]
+[PlyCount "41"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 c5 8. Be3 Qc7 9. O-O cxd4 10. Bxd4 Be7 11. Re1 O-O 12. Ne5 Bd7 13. Qf3 Bc6 14. Qg3 Ne8 15. Qh3 g6 16. Ng4 h5 17. Qxh5 Ng7 18. Qh6 f6 19. Bxg6 Rfd8 20. Qh7+ Kf8 21. Qh8# 1-0
