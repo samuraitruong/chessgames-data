@@ -4640,7 +4640,8 @@
     "name": "ADIANTO, Utut",
     "year": "1980-2016",
     "games": 766,
-    "id": "16249"
+    "id": "16249",
+    "synced": true
   },
   {
     "higestRating": 2680,
@@ -29669,7 +29670,8 @@
     "name": "SOLTANICI, Ruslan",
     "year": "1996-2022",
     "games": 112,
-    "id": "56647"
+    "id": "56647",
+    "synced": true
   },
   {
     "higestRating": 2249,
@@ -52285,7 +52287,8 @@
     "name": "DAMIA, Angelo",
     "year": "2004-2023",
     "games": 53,
-    "id": "104985"
+    "id": "104985",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -73680,7 +73683,8 @@
     "name": "DAVY, Damion",
     "year": "2012-2016",
     "games": 30,
-    "id": "140154"
+    "id": "140154",
+    "synced": true
   },
   {
     "higestRating": 2287,
@@ -81765,7 +81769,8 @@
     "name": "BLACKSTONE, John",
     "year": "1960-1995",
     "games": 24,
-    "id": "24307"
+    "id": "24307",
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -82843,7 +82848,8 @@
     "name": "REINWALD, Patrick",
     "year": "2006-2017",
     "games": 24,
-    "id": "125354"
+    "id": "125354",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -93184,7 +93190,8 @@
     "name": "BOROS, Daniel",
     "year": "1995-2020",
     "games": 18,
-    "id": "35572"
+    "id": "35572",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -94985,7 +94992,8 @@
     "name": "HUDYAKOV, Sergey",
     "year": "2014",
     "games": 18,
-    "id": "149276"
+    "id": "149276",
+    "synced": true
   },
   {
     "higestRating": 2262,

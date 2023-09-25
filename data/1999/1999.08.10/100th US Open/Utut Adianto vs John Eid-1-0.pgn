@@ -1,0 +1,14 @@
+[Event "100th US Open"]
+[Site "Reno, NV USA"]
+[Date "1999.08.10"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "John Eid"]
+[ECO "E20"]
+[WhiteElo "2634"]
+[BlackElo "1820"]
+[PlyCount "43"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 O-O 7. e3 b6 8. cxd5 exd5 9. Bd3 Re8 10. Ne2 Bb7 11. O-O Nc6 12. Ng3 Ne7 13. e4 dxe4 14. fxe4 c5 15. e5 Nfd5 16. Bxh7+ Kxh7 17. Qh5+ Kg8 18. Qxf7+ Kh7 19. Nh5 Rg8 20. Nf6+ Nxf6 21. Rxf6 Rf8 22. Rh6# 1-0
