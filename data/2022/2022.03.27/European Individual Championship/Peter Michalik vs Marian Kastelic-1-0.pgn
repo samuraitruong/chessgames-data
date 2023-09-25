@@ -1,0 +1,15 @@
+[Event "European Individual Championship"]
+[Site "Terme Catez SLO"]
+[Date "2022.03.27"]
+[EventDate "2022.03.27"]
+[Round "1.44"]
+[Result "1-0"]
+[White "Peter Michalik"]
+[Black "Marian Kastelic"]
+[ECO "C60"]
+[WhiteElo "2585"]
+[BlackElo "2287"]
+[Source "Lichess"]
+[PlyCount "42"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. Nc3 a6 5. Bc4 Ng6 6. d4 exd4 7. Nxd4 Bc5 8. Be3 Bxd4 9. Bxd4 Nxd4 10. Qxd4 O-O 11. O-O d6 12. f4 Be6 13. Be2 f5 14. g4 fxg4 15. f5 Qg5 16. fxg6 g3 17. gxh7+ Kh8 18. Qd3 gxh2+ 19. Kxh2 Bc4 20. Qg3 Qd2 21. Rad1 1-0

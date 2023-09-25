@@ -3120,7 +3120,8 @@
     "name": "MICHALIK, Peter",
     "year": "1999-2023",
     "games": 1018,
-    "id": "95800"
+    "id": "95800",
+    "synced": true
   },
   {
     "higestRating": 2717,
@@ -28779,7 +28780,8 @@
     "name": "SZPAR, Milosz",
     "year": "2017-2022",
     "games": 117,
-    "id": "157992"
+    "id": "157992",
+    "synced": true
   },
   {
     "higestRating": 2426,
@@ -44826,7 +44828,8 @@
     "name": "KOZGANBAY, Erkin",
     "year": "2011-2023",
     "games": 67,
-    "id": "137731"
+    "id": "137731",
+    "synced": true
   },
   {
     "higestRating": 2287,
@@ -63531,7 +63534,8 @@
     "name": "SIYUAN, Shen",
     "year": "2005-2019",
     "games": 39,
-    "id": "93893"
+    "id": "93893",
+    "synced": true
   },
   {
     "higestRating": 2352,
@@ -100043,7 +100047,8 @@
     "name": "SHEPHARD, Chris C W",
     "year": "1972-2011",
     "games": 16,
-    "id": "128649"
+    "id": "128649",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -107633,7 +107638,8 @@
     "name": "PAZ, Mayan",
     "year": "2003-2004",
     "games": 4,
-    "id": "91633"
+    "id": "91633",
+    "synced": true
   },
   {
     "higestRating": 2205,
