@@ -11738,7 +11738,8 @@
     "name": "BLUVSHTEIN, Mark",
     "year": "1997-2011",
     "games": 330,
-    "id": "52035"
+    "id": "52035",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -17828,7 +17829,8 @@
     "name": "NESTOROVIC, Nikola",
     "year": "2003-2021",
     "games": 211,
-    "id": "99263"
+    "id": "99263",
+    "synced": true
   },
   {
     "higestRating": 2423,
@@ -35109,7 +35111,8 @@
     "name": "GUERRERO, Alvaro",
     "year": "2003-2023",
     "games": 92,
-    "id": "127364"
+    "id": "127364",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -44806,7 +44809,8 @@
     "name": "MOLINA, Fabrizio",
     "year": "1993-2015",
     "games": 67,
-    "id": "119445"
+    "id": "119445",
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -45992,7 +45996,8 @@
     "name": "MARINELLO, Beatriz",
     "year": "1991-2010",
     "games": 64,
-    "id": "11360"
+    "id": "11360",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -52380,7 +52385,8 @@
     "name": "ANKERST, Marjan",
     "year": "1960-1966",
     "games": 53,
-    "id": "85384"
+    "id": "85384",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -61480,7 +61486,8 @@
     "name": "GERSHKOWICH, David",
     "year": "1993-2022",
     "games": 41,
-    "id": "58227"
+    "id": "58227",
+    "synced": true
   },
   {
     "higestRating": 2317,
@@ -68665,7 +68672,8 @@
     "name": "STONE, Andrew",
     "year": "2005-2019",
     "games": 34,
-    "id": "101863"
+    "id": "101863",
+    "synced": true
   },
   {
     "higestRating": 2296,
@@ -73068,7 +73076,8 @@
     "name": "FAYVINOV, Zakhar",
     "year": "1990-2006",
     "games": 30,
-    "id": "40554"
+    "id": "40554",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -77238,7 +77247,8 @@
     "name": "STERN, Dieter Max",
     "year": "1967-1994",
     "games": 27,
-    "id": "29964"
+    "id": "29964",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -92849,7 +92859,8 @@
     "name": "RUZHKOVICH, Andrey",
     "year": "2008-2009",
     "games": 19,
-    "id": "138563"
+    "id": "138563",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -92901,7 +92912,8 @@
     "name": "BON, Michael",
     "year": "2012-2023",
     "games": 19,
-    "id": "139588"
+    "id": "139588",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -103233,7 +103245,8 @@
     "name": "BENEV, Borislav",
     "year": "1987-1988",
     "games": 14,
-    "id": "28317"
+    "id": "28317",
+    "synced": true
   },
   {
     "higestRating": 2220,
