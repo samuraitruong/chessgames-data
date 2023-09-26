@@ -5152,7 +5152,8 @@
     "name": "GOGANOV, Alexey",
     "year": "2005-2023",
     "games": 717,
-    "id": "121884"
+    "id": "121884",
+    "synced": true
   },
   {
     "higestRating": 2656,
@@ -17235,7 +17236,8 @@
     "name": "WOREK, Joanna",
     "year": "1995-2022",
     "games": 218,
-    "id": "51870"
+    "id": "51870",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -62585,7 +62587,8 @@
     "name": "ROY, Shankar",
     "year": "1991-2007",
     "games": 40,
-    "id": "60479"
+    "id": "60479",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -86881,7 +86884,8 @@
     "name": "POLOK, Kacper",
     "year": "2013-2017",
     "games": 22,
-    "id": "155772"
+    "id": "155772",
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -101317,7 +101321,8 @@
     "name": "MELKONYAN, Leonard",
     "year": "1996-2003",
     "games": 15,
-    "id": "50155"
+    "id": "50155",
+    "synced": true
   },
   {
     "higestRating": 2399,
@@ -102031,7 +102036,8 @@
     "name": "ANDRE, Wolfgang",
     "year": "1977-1991",
     "games": 15,
-    "id": "86622"
+    "id": "86622",
+    "synced": true
   },
   {
     "higestRating": 2254,
