@@ -1,0 +1,14 @@
+[Event "US Open"]
+[Site "Framingham, MA USA"]
+[Date "2001.08.04"]
+[EventDate "2001.08.04"]
+[Round "1"]
+[Result "1-0"]
+[White "Bill Paschall"]
+[Black "Patrick Frazier"]
+[ECO "D07"]
+[WhiteElo "2390"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. Nc3 Bxf3 5. gxf3 e5 6. cxd5 exd4 7. dxc6 dxc3 8. Qa4 b5 9. Qxb5 Qd4 10. Be3 Qf6 11. Bh3 Bd6 12. O-O-O cxb2+ 13. Kb1 Qe5 14. Bd7+ Ke7 15. Rd5 Qc3 16. Bd2 1-0

@@ -4638,7 +4638,8 @@
     "name": "LEI, Tingjie",
     "year": "2010-2023",
     "games": 771,
-    "id": "135017"
+    "id": "135017",
+    "synced": true
   },
   {
     "higestRating": 2617,
@@ -12453,7 +12454,8 @@
     "name": "PASCHALL, William",
     "year": "1990-2021",
     "games": 309,
-    "id": "47430"
+    "id": "47430",
+    "synced": true
   },
   {
     "higestRating": 2623,
@@ -57772,7 +57774,8 @@
     "name": "MAJERIC, Zoran",
     "year": "1980-2012",
     "games": 45,
-    "id": "12635"
+    "id": "12635",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -72086,7 +72089,8 @@
     "name": "DASKEVICS, Vadims",
     "year": "2000-2015",
     "games": 31,
-    "id": "56755"
+    "id": "56755",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -103010,7 +103014,8 @@
     "name": "WESTPHAL, Matthias",
     "year": "1994-2001",
     "games": 15,
-    "id": "134050"
+    "id": "134050",
+    "synced": true
   },
   {
     "higestRating": 2314,
