@@ -2556,7 +2556,8 @@
     "name": "PARMA, Bruno",
     "year": "1959-2006",
     "games": 1139,
-    "id": "22978"
+    "id": "22978",
+    "synced": true
   },
   {
     "higestRating": 2624,
@@ -17106,7 +17107,8 @@
     "name": "DANIELYAN, Vahe",
     "year": "2014-2023",
     "games": 220,
-    "id": "149285"
+    "id": "149285",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -42660,7 +42662,8 @@
     "name": "DE WIT, Jan",
     "year": "1982-2001",
     "games": 71,
-    "id": "31099"
+    "id": "31099",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -70838,7 +70841,8 @@
     "name": "REICHMANN, Hendrik",
     "year": "1997-2021",
     "games": 32,
-    "id": "86511"
+    "id": "86511",
+    "synced": true
   },
   {
     "higestRating": 2452,
@@ -72371,7 +72375,8 @@
     "name": "VILLING, Dieter",
     "year": "1988-2010",
     "games": 31,
-    "id": "97332"
+    "id": "97332",
+    "synced": true
   },
   {
     "higestRating": 2338,
@@ -74663,7 +74668,8 @@
     "name": "STEEDMAN, James",
     "year": "1973-2019",
     "games": 29,
-    "id": "55787"
+    "id": "55787",
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -92301,7 +92307,8 @@
     "name": "BONATTI, Walter Fabian",
     "year": "1991-2001",
     "games": 19,
-    "id": "97676"
+    "id": "97676",
+    "synced": true
   },
   {
     "higestRating": 2529,
