@@ -5528,7 +5528,8 @@
     "name": "SARIN, Nihal",
     "year": "2014-2023",
     "games": 681,
-    "id": "151598"
+    "id": "151598",
+    "synced": true
   },
   {
     "higestRating": 2443,
@@ -8832,7 +8833,8 @@
     "name": "HOFFMANN, Michael",
     "year": "1986-2018",
     "games": 440,
-    "id": "19745"
+    "id": "19745",
+    "synced": true
   },
   {
     "higestRating": 2510,
@@ -25855,7 +25857,8 @@
     "name": "EID, Fadi",
     "year": "1994-2020",
     "games": 135,
-    "id": "36305"
+    "id": "36305",
+    "synced": true
   },
   {
     "higestRating": 2289,
