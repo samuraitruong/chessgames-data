@@ -1,0 +1,14 @@
+[Event "Vienna Chess Open 2015 Group A"]
+[Site "Vienna AUT"]
+[Date "2015.08.19"]
+[EventDate "2015.08.15"]
+[Round "5"]
+[Result "1-0"]
+[White "Mikulas Manik"]
+[Black "Augusto Caruso"]
+[ECO "B06"]
+[WhiteElo "2410"]
+[BlackElo "2251"]
+[PlyCount "24"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4 Na6 5.Be3 c6 6.Nf3 Nc7 7.h3 d5 8.e5 h5 9.Qd2 Nh6 10.Rg1 Nf5 11.Bf2 Bh6 12.g4 1-0
