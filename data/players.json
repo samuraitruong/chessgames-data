@@ -2470,7 +2470,8 @@
     "name": "WELLING, Gerard",
     "year": "1973-2020",
     "games": 1162,
-    "id": "31072"
+    "id": "31072",
+    "synced": true
   },
   {
     "higestRating": 2550,
@@ -22720,7 +22721,8 @@
     "name": "RIZOUK, Aimen",
     "year": "1993-2020",
     "games": 159,
-    "id": "22025"
+    "id": "22025",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -36373,7 +36375,8 @@
     "name": "CITRA, Dewi Ardhiani Anastasia",
     "year": "2008-2022",
     "games": 88,
-    "id": "119108"
+    "id": "119108",
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -38070,7 +38073,8 @@
     "name": "HURTADO, Miguel Llanes",
     "year": "1993-2015",
     "games": 83,
-    "id": "106724"
+    "id": "106724",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -40727,7 +40731,8 @@
     "name": "ACOSTA, Diasmany Otero",
     "year": "1996-2019",
     "games": 76,
-    "id": "44769"
+    "id": "44769",
+    "synced": true
   },
   {
     "higestRating": 2323,
@@ -54288,7 +54293,8 @@
     "name": "HAMRAKULOVA, Yulduz",
     "year": "1999-2017",
     "games": 50,
-    "id": "87940"
+    "id": "87940",
+    "synced": true
   },
   {
     "higestRating": 2452,
@@ -57775,7 +57781,8 @@
     "name": "LOBO, Richard",
     "year": "1976-2014",
     "games": 45,
-    "id": "21679"
+    "id": "21679",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -86926,7 +86933,8 @@
     "name": "PAPADOPOULOS, Argirios",
     "year": "2016-2018",
     "games": 22,
-    "id": "156784"
+    "id": "156784",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -99412,7 +99420,8 @@
     "name": "BAO, Quang",
     "year": "2003-2005",
     "games": 16,
-    "id": "88698"
+    "id": "88698",
+    "synced": true
   },
   {
     "higestRating": 2521,
