@@ -2168,7 +2168,8 @@
     "name": "MARKUS, Robert",
     "year": "1989-2023",
     "games": 1220,
-    "id": "30743"
+    "id": "30743",
+    "synced": true
   },
   {
     "higestRating": 2570,
@@ -26100,7 +26101,8 @@
     "name": "MEESSEN, Rudolf",
     "year": "1988-2022",
     "games": 133,
-    "id": "50340"
+    "id": "50340",
+    "synced": true
   },
   {
     "higestRating": 2447,
@@ -77974,7 +77976,8 @@
     "name": "NAVARRO, Roberto",
     "year": "1977-2005",
     "games": 27,
-    "id": "90177"
+    "id": "90177",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -88171,7 +88174,8 @@
     "name": "HANIA, Jan",
     "year": "1991-1996",
     "games": 21,
-    "id": "98001"
+    "id": "98001",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -99310,7 +99314,8 @@
     "name": "SONJAYA, Deni",
     "year": "2000-2016",
     "games": 16,
-    "id": "86166"
+    "id": "86166",
+    "synced": true
   },
   {
     "higestRating": 2274,

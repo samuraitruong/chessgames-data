@@ -1,0 +1,14 @@
+[Event "DESC"]
+[Site "DESC email"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Harald Guendling"]
+[Black "Robert Markus"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "2586"]
+[PlyCount "66"]
+
+1.e4 c6 2.b4 d5 3.d3 e5 4.Nf3 dxe4 5.dxe4 Bxb4+ 6.c3 Qxd1+ 7.Kxd1 Bd6 8.Ng5 f6 9.Nf3 Nd7 10.Nbd2 Nc5 11.Ba3 Nxe4 12.Nxe4 Bxa3 13.Bc4 b5 14.Bb3 Ne7 15.Kc2 a5 16.Kd3 f5 17.Neg5 e4+ 18.Kc2 exf3 19.gxf3 a4 20.Be6 h6 21.Bf7+ Kf8 22.Rad1 Bb7 23.Rd7 hxg5 24.Rxb7 Kxf7 25.Re1 Rxh2 26.Rexe7+ Bxe7 27.Kd3 Ke6 28.Ke3 Bc5+ 29.Kd3 Rd8+ 30.Ke2 Rxf2+ 31.Ke1 Rh8 32.Re7+ Kxe7 33.Kd1 Rh1# 0-1
