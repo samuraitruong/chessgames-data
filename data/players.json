@@ -1948,7 +1948,8 @@
     "name": "CVITAN, Ognjen",
     "year": "1978-2022",
     "games": 1290,
-    "id": "14093"
+    "id": "14093",
+    "synced": true
   },
   {
     "higestRating": 2623,
@@ -13118,7 +13119,8 @@
     "name": "FARAGO, Sandor",
     "year": "1984-2022",
     "games": 293,
-    "id": "38772"
+    "id": "38772",
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -49804,7 +49806,8 @@
     "name": "MOLINA, Antonio",
     "year": "1994-2012",
     "games": 57,
-    "id": "58567"
+    "id": "58567",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -65135,7 +65138,8 @@
     "name": "URBAN, Julian",
     "year": "1987-2005",
     "games": 37,
-    "id": "33966"
+    "id": "33966",
+    "synced": true
   },
   {
     "higestRating": 2278,
