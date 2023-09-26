@@ -6886,7 +6886,8 @@
     "name": "SHIRAZI, Kamran",
     "year": "1972-2022",
     "games": 556,
-    "id": "19284"
+    "id": "19284",
+    "synced": true
   },
   {
     "higestRating": 2527,
@@ -15393,7 +15394,8 @@
     "name": "CUMMINGS, David H",
     "year": "1977-2022",
     "games": 248,
-    "id": "41100"
+    "id": "41100",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -17369,7 +17371,8 @@
     "name": "LOMASOV, Semyon",
     "year": "2015-2023",
     "games": 217,
-    "id": "154683"
+    "id": "154683",
+    "synced": true
   },
   {
     "higestRating": 2525,
@@ -29038,7 +29041,8 @@
     "name": "RIVEIRO, Inigo Argandona",
     "year": "1996-2022",
     "games": 116,
-    "id": "117504"
+    "id": "117504",
+    "synced": true
   },
   {
     "higestRating": 2459,
@@ -61573,7 +61577,8 @@
     "name": "ADNOY, Hallvard Voll",
     "year": "2000-2013",
     "games": 41,
-    "id": "52930"
+    "id": "52930",
+    "synced": true
   },
   {
     "higestRating": 2261,
