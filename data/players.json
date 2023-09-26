@@ -4856,7 +4856,8 @@
     "name": "SHUVALOVA, Polina",
     "year": "2014-2023",
     "games": 753,
-    "id": "152851"
+    "id": "152851",
+    "synced": true
   },
   {
     "higestRating": 2582,
@@ -7822,7 +7823,8 @@
     "name": "BOGDANOVIC, Rajko",
     "year": "1949-1990",
     "games": 494,
-    "id": "23277"
+    "id": "23277",
+    "synced": true
   },
   {
     "higestRating": 2453,
@@ -30613,7 +30615,8 @@
     "name": "DE ECCHER, Stefano",
     "year": "1976-2016",
     "games": 109,
-    "id": "23579"
+    "id": "23579",
+    "synced": true
   },
   {
     "higestRating": 2418,
@@ -31709,7 +31712,8 @@
     "name": "BACIU, Diana",
     "year": "2005-2018",
     "games": 105,
-    "id": "117950"
+    "id": "117950",
+    "synced": true
   },
   {
     "higestRating": 2510,
@@ -35187,7 +35191,8 @@
     "name": "ROE, Simon J",
     "year": "1986-2022",
     "games": 92,
-    "id": "91665"
+    "id": "91665",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -65532,7 +65537,8 @@
     "name": "POLYANINOV, Aleksey",
     "year": "2001-2016",
     "games": 37,
-    "id": "80507"
+    "id": "80507",
+    "synced": true
   },
   {
     "higestRating": 2207,
