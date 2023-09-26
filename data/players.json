@@ -3587,7 +3587,8 @@
     "name": "STEIN, Leonid",
     "year": "1948-1973",
     "games": 936,
-    "id": "20234"
+    "id": "20234",
+    "synced": true
   },
   {
     "higestRating": 2678,
@@ -47962,7 +47963,8 @@
     "name": "KIREEV, Aleksei",
     "year": "1999-2012",
     "games": 61,
-    "id": "98706"
+    "id": "98706",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -68157,7 +68159,8 @@
     "name": "BRUECKNER, Thomas",
     "year": "1984-1992",
     "games": 34,
-    "id": "28170"
+    "id": "28170",
+    "synced": true
   },
   {
     "higestRating": 2276,
