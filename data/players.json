@@ -12909,7 +12909,8 @@
     "name": "SARACI, Nderim",
     "year": "2014-2023",
     "games": 299,
-    "id": "153330"
+    "id": "153330",
+    "synced": true
   },
   {
     "higestRating": 2497,
@@ -14294,7 +14295,8 @@
     "name": "KOBO, Ori",
     "year": "2012-2023",
     "games": 267,
-    "id": "139508"
+    "id": "139508",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -18392,7 +18394,8 @@
     "name": "LIANG, Jinrong",
     "year": "1978-2019",
     "games": 204,
-    "id": "84106"
+    "id": "84106",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -29754,7 +29757,8 @@
     "name": "BARTELL, Thomas J",
     "year": "1999-2021",
     "games": 112,
-    "id": "53327"
+    "id": "53327",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -54086,7 +54090,8 @@
     "name": "DERGATSCHOVA, Anna",
     "year": "1996-2007",
     "games": 50,
-    "id": "57084"
+    "id": "57084",
+    "synced": true
   },
   {
     "higestRating": 2337,
@@ -64113,7 +64118,8 @@
     "name": "CRANBOURNE, Carlos Leon",
     "year": "1980-2004",
     "games": 38,
-    "id": "33063"
+    "id": "33063",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -75629,7 +75635,8 @@
     "name": "BORHY, Marcell",
     "year": "2019-2022",
     "games": 29,
-    "id": "168882"
+    "id": "168882",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -80561,7 +80568,8 @@
     "name": "BEEKE, Bob",
     "year": "2001-2019",
     "games": 25,
-    "id": "51042"
+    "id": "51042",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -98841,7 +98849,8 @@
     "name": "MOOSER, Stefan",
     "year": "1988-2019",
     "games": 16,
-    "id": "65126"
+    "id": "65126",
+    "synced": true
   },
   {
     "higestRating": 2324,
