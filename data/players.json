@@ -4497,7 +4497,8 @@
     "name": "SMEETS, Jan",
     "year": "1995-2021",
     "games": 787,
-    "id": "35886"
+    "id": "35886",
+    "synced": true
   },
   {
     "higestRating": 2659,
@@ -21470,7 +21471,8 @@
     "name": "BACHTIAR, Arovah",
     "year": "1958-1982",
     "games": 170,
-    "id": "21547"
+    "id": "21547",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -51736,7 +51738,8 @@
     "name": "HAKULINEN, Esko-Matti",
     "year": "1989-2001",
     "games": 54,
-    "id": "58736"
+    "id": "58736",
+    "synced": true
   },
   {
     "higestRating": 2281,
@@ -55880,7 +55883,8 @@
     "name": "MACIOL, Ryszard",
     "year": "1999-2022",
     "games": 48,
-    "id": "126755"
+    "id": "126755",
+    "synced": true
   },
   {
     "higestRating": 2452,
@@ -63045,7 +63049,8 @@
     "name": "GALAKTIONOV, Artem",
     "year": "2015-2023",
     "games": 40,
-    "id": "154693"
+    "id": "154693",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -81729,7 +81734,8 @@
     "name": "GRIGORCHUK, Sergey",
     "year": "2007-2018",
     "games": 25,
-    "id": "140242"
+    "id": "140242",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -85423,7 +85429,8 @@
     "name": "MANAKOV, Ilya",
     "year": "1995-2000",
     "games": 22,
-    "id": "45292"
+    "id": "45292",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -86168,7 +86175,8 @@
     "name": "DE RON, Dan Cruz Alvarez",
     "year": "1993-2015",
     "games": 22,
-    "id": "105098"
+    "id": "105098",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -104453,7 +104461,8 @@
     "name": "WUNDERMAN, Xavier",
     "year": "2007-2018",
     "games": 12,
-    "id": "109884"
+    "id": "109884",
+    "synced": true
   },
   {
     "higestRating": 2204,
