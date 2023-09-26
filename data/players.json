@@ -1701,7 +1701,8 @@
     "name": "BLATNY, Pavel",
     "year": "1984-2019",
     "games": 1398,
-    "id": "10113"
+    "id": "10113",
+    "synced": true
   },
   {
     "higestRating": 2496,
@@ -62282,7 +62283,8 @@
     "name": "TRIFUNOVIC, Miroljub",
     "year": "1984-2017",
     "games": 40,
-    "id": "19214"
+    "id": "19214",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -82496,7 +82498,8 @@
     "name": "LAUBSCH, Bernd",
     "year": "1999-2011",
     "games": 24,
-    "id": "50715"
+    "id": "50715",
+    "synced": true
   },
   {
     "higestRating": 2252,
