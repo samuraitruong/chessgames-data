@@ -11307,7 +11307,8 @@
     "name": "SAMBUEV, Bator",
     "year": "1998-2023",
     "games": 345,
-    "id": "49721"
+    "id": "49721",
+    "synced": true
   },
   {
     "higestRating": 2426,
@@ -13910,7 +13911,8 @@
     "name": "SUMETS, Andrey",
     "year": "1996-2022",
     "games": 276,
-    "id": "52055"
+    "id": "52055",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -23813,7 +23815,8 @@
     "name": "DAYER, Horacio Saldano",
     "year": "1991-2023",
     "games": 151,
-    "id": "95394"
+    "id": "95394",
+    "synced": true
   },
   {
     "higestRating": 2472,
@@ -28980,7 +28983,8 @@
     "name": "CHEVANNES, Sabrina L",
     "year": "2001-2016",
     "games": 116,
-    "id": "54821"
+    "id": "54821",
+    "synced": true
   },
   {
     "higestRating": 2471,
@@ -44895,7 +44899,8 @@
     "name": "BASTIDA, Diego Guerra",
     "year": "1989-2022",
     "games": 67,
-    "id": "95353"
+    "id": "95353",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -50958,7 +50963,8 @@
     "name": "MUKHIN, Evgeny",
     "year": "1958-1995",
     "games": 55,
-    "id": "15310"
+    "id": "15310",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -64552,7 +64558,8 @@
     "name": "LARSEN, Steen Skovlund",
     "year": "1988-2003",
     "games": 38,
-    "id": "63480"
+    "id": "63480",
+    "synced": true
   },
   {
     "higestRating": 2218,
@@ -67246,7 +67253,8 @@
     "name": "DANILIUK, Sergey",
     "year": "1991-1997",
     "games": 35,
-    "id": "41437"
+    "id": "41437",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -69579,7 +69587,8 @@
     "name": "PETROSIAN, Karen",
     "year": "1989-1996",
     "games": 33,
-    "id": "44715"
+    "id": "44715",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -84553,7 +84562,8 @@
     "name": "SCHILOW, Wladimir",
     "year": "2004-2009",
     "games": 23,
-    "id": "99030"
+    "id": "99030",
+    "synced": true
   },
   {
     "higestRating": 2259,
@@ -96831,7 +96841,8 @@
     "name": "ASSMANN, Thomas",
     "year": "1981-2004",
     "games": 17,
-    "id": "86655"
+    "id": "86655",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -97418,7 +97429,8 @@
     "name": "RUSSELL, Christopher",
     "year": "2008-2022",
     "games": 17,
-    "id": "115671"
+    "id": "115671",
+    "synced": true
   },
   {
     "higestRating": 2231,
@@ -97984,7 +97996,8 @@
     "name": "POLISHCHUK, Kirill",
     "year": "2014-2017",
     "games": 17,
-    "id": "151392"
+    "id": "151392",
+    "synced": true
   },
   {
     "higestRating": 2346,
