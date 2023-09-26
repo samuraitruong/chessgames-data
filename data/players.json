@@ -4,7 +4,8 @@
     "name": "CARLSEN, Magnus",
     "year": "1999-2023",
     "games": 4708,
-    "id": "52948"
+    "id": "52948",
+    "synced": true
   },
   {
     "higestRating": 2695,
@@ -9870,7 +9871,8 @@
     "name": "ROCHA, Antonio Cavilhas",
     "year": "1960-1992",
     "games": 396,
-    "id": "16455"
+    "id": "16455",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -10953,7 +10955,8 @@
     "name": "BUTNORIUS, Algimantas",
     "year": "1961-2016",
     "games": 358,
-    "id": "29721"
+    "id": "29721",
+    "synced": true
   },
   {
     "higestRating": 2517,
@@ -31571,7 +31574,8 @@
     "name": "JONES, Brian",
     "year": "1977-2019",
     "games": 105,
-    "id": "39516"
+    "id": "39516",
+    "synced": true
   },
   {
     "higestRating": 2504,
@@ -43793,7 +43797,8 @@
     "name": "MOBERG, Karl Johan",
     "year": "1992-2016",
     "games": 69,
-    "id": "38307"
+    "id": "38307",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -77295,7 +77300,8 @@
     "name": "STOOCKALOV, Vladimir L",
     "year": "1999-2001",
     "games": 27,
-    "id": "10822"
+    "id": "10822",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -102294,7 +102300,8 @@
     "name": "GUSTAVSSON, Kent",
     "year": "1990-1992",
     "games": 15,
-    "id": "90624"
+    "id": "90624",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -103728,7 +103735,8 @@
     "name": "LENZ, Juergen",
     "year": "1981-1995",
     "games": 14,
-    "id": "100989"
+    "id": "100989",
+    "synced": true
   },
   {
     "higestRating": 2554,
@@ -107047,7 +107055,8 @@
     "name": "SZAJBELY, Zsigmond",
     "year": "2012-2019",
     "games": 7,
-    "id": "140015"
+    "id": "140015",
+    "synced": true
   },
   {
     "higestRating": 2311,
