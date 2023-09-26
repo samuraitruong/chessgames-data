@@ -1,0 +1,14 @@
+[Event "Internet Section 15-A"]
+[Site "Dos Hermanas"]
+[Date "2003.03.15"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Marek Stryjecki"]
+[Black "Carlos Eloy Carbonell Bofill"]
+[ECO "A18"]
+[WhiteElo "2822"]
+[BlackElo "2330"]
+[PlyCount "25"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 Bb4 4.e5 Bxc3 5.bxc3 Ne4 6.Qg4 d5 7.Qxg7 Rf8 8.d3 Nxc3 9.Ba3 c5 10.Bxc5 Qa5 11.Qxf8+ Kd7 12.Qe7+ Kc6 13.Qd6# 1-0

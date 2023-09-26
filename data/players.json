@@ -940,7 +940,8 @@
     "name": "FIER, Alexandr",
     "year": "1995-2023",
     "games": 1748,
-    "id": "88826"
+    "id": "88826",
+    "synced": true
   },
   {
     "higestRating": 2662,
@@ -25346,7 +25347,8 @@
     "name": "STRYJECKI, Marek",
     "year": "1997-2017",
     "games": 139,
-    "id": "51585"
+    "id": "51585",
+    "synced": true
   },
   {
     "higestRating": 2443,
@@ -28091,7 +28093,8 @@
     "name": "BARTEL, Michal",
     "year": "1999-2022",
     "games": 121,
-    "id": "128379"
+    "id": "128379",
+    "synced": true
   },
   {
     "higestRating": 2428,
@@ -65565,7 +65568,8 @@
     "name": "KHLIAN, Eduard",
     "year": "1987-2011",
     "games": 37,
-    "id": "94465"
+    "id": "94465",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -84123,7 +84127,8 @@
     "name": "FIORI, Hector",
     "year": "2003-2021",
     "games": 23,
-    "id": "71487"
+    "id": "71487",
+    "synced": true
   },
   {
     "higestRating": 2306,
