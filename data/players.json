@@ -787,7 +787,8 @@
     "name": "VASIUKOV, Evgeni",
     "year": "1952-2018",
     "games": 1840,
-    "id": "47818"
+    "id": "47818",
+    "synced": true
   },
   {
     "higestRating": 2625,
@@ -26132,7 +26133,8 @@
     "name": "HIMANSHU, Sharma",
     "year": "2001-2022",
     "games": 133,
-    "id": "97889"
+    "id": "97889",
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -52857,7 +52859,8 @@
     "name": "URBINA, Ricardo",
     "year": "2001-2020",
     "games": 52,
-    "id": "51401"
+    "id": "51401",
+    "synced": true
   },
   {
     "higestRating": 2401,
