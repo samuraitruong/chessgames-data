@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.15"]
+[EventDate "2020.08.14"]
+[Round "6"]
+[Result "1-0"]
+[White "Irine Kharisma Sukandar"]
+[Black "Annelies Cuvelier"]
+[ECO "C77"]
+[WhiteElo "2381"]
+[BlackElo "1696"]
+[PlyCount "43"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 b5 8. e5 Nd5 9. Bb3 Nb6 10. c3 dxc3 11. Nxc3 O-O 12. Bf4 Bb7 13. Rc1 Na5 14. Bc2 d5 15. exd6 Bxd6 16. Bxh7+ Kh8 17. Bxd6 Bxf3 18. Qxf3 Qxd6 19. Bb1 g6 20. Ne4 Qd5 21. Qc3+ f6 22. Nxf6 1-0
