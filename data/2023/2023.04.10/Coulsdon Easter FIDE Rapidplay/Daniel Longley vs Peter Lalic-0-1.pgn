@@ -1,0 +1,15 @@
+[Event "Coulsdon Easter FIDE Rapidplay"]
+[Site "London ENG"]
+[Date "2023.04.10"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Daniel Longley"]
+[Black "Peter Lalic"]
+[ECO "B01"]
+[WhiteElo "1260"]
+[BlackElo "2093"]
+[Source "https://ratings.fide.com/view_source.phtml?code=312544"]
+[PlyCount "38"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. g3 Nf6 5. Bg2 Bg4 6. Nge2 Nc6 7. d4 O-O-O 8. Bf4 e5 9. dxe5 Nxe5 10. Bxe5 Qxe5 11. Bxb7+ Kxb7 12. Qxd8 Bxe2 13. Nxe2 Bb4+ 14. c3 Rxd8 15. cxb4 Re8 16. O-O Qxe2 17. a4 h5 18. Rac1 h4 19. Rc3 h3 0-1

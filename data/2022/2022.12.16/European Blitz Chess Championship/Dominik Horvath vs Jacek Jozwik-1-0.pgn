@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.16"]
+[EventDate "2022.12.16"]
+[Round "1.60"]
+[Result "1-0"]
+[White "Dominik Horvath"]
+[Black "Jacek Jozwik"]
+[ECO "B22"]
+[WhiteElo "2502"]
+[BlackElo "1842"]
+[PlyCount "70"]
+
+1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 d5 5. exd5 Nf6 6. Nc3 Nxd5 7. Nf3 Bg7 8. Qb3 Nb6 9. Bb5+ Bd7 10. Ne5 O-O 11. Nxd7 N8xd7 12. O-O Nf6 13. Rd1 Nfd5 14. Be2 e6 15. Ne4 Rc8 16. Bg5 f6 17. Bd2 f5 18. Bg5 Qd7 19. Nc5 Qf7 20. a4 Bxd4 21. Rxd4 Rxc5 22. a5 Nc8 23. Bf3 Re8 24. Re1 b6 25. axb6 Ncxb6 26. Qa3 Rc2 27. Qd6 Rxb2 28. h4 Qf8 29. Rxe6 Qxd6 30. Rxd6 Nc3 31. h5 Ne4 32. Bxe4 Rxe4 33. Rd8+ Kf7 34. R4d7+ Ke6 35. Re7# 1-0

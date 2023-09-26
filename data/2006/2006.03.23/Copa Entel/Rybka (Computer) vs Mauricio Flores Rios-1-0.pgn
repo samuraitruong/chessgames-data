@@ -1,0 +1,14 @@
+[Event "Copa Entel"]
+[Site "Santiago de Chile CHI"]
+[Date "2006.03.23"]
+[EventDate "2006.03.22"]
+[Round "3"]
+[Result "1-0"]
+[White "Rybka (Computer)"]
+[Black "Mauricio Flores Rios"]
+[ECO "E10"]
+[WhiteElo "2700"]
+[BlackElo "2332"]
+[PlyCount "49"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 e6 5. dxe6 fxe6 6. cxb5 Bb7 7. Nc3 d5 8. e4 d4 9. e5 Nfd7 10. Ne2 Qc7 11. Nf4 Nxe5 12. Nxe6 Nxf3+ 13. Qxf3 Qa5+ 14. Bd2 Qxd2+ 15. Kxd2 Bxf3 16. gxf3 Bd6 17. Re1 Kf7 18. Bc4 Kf6 19. Bd5 Nd7 20. Nxg7 Kxg7 21. Rhg1+ Kf8 22. Bxa8 Bxh2 23. Rg2 Bf4+ 24. Kd3 Nf6 25. Reg1 1-0
