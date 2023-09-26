@@ -9016,7 +9016,8 @@
     "name": "TURNER, Matthew J",
     "year": "1989-2023",
     "games": 431,
-    "id": "25032"
+    "id": "25032",
+    "synced": true
   },
   {
     "higestRating": 2510,
@@ -10275,7 +10276,8 @@
     "name": "POKOJOWCZYK, Jerzy",
     "year": "1969-1987",
     "games": 379,
-    "id": "14801"
+    "id": "14801",
+    "synced": true
   },
   {
     "higestRating": 2529,
@@ -15664,7 +15666,8 @@
     "name": "RASMUSSEN, Karsten",
     "year": "1980-2017",
     "games": 243,
-    "id": "19597"
+    "id": "19597",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -38252,7 +38255,8 @@
     "name": "KOFIDIS, Andreas",
     "year": "1983-2011",
     "games": 82,
-    "id": "37765"
+    "id": "37765",
+    "synced": true
   },
   {
     "higestRating": 2388,
@@ -45577,7 +45581,8 @@
     "name": "ANDREASSON, Ingvar",
     "year": "1983-2021",
     "games": 65,
-    "id": "18388"
+    "id": "18388",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -54054,7 +54059,8 @@
     "name": "LHAGVASUREN, Cedendemberel",
     "year": "1986-1994",
     "games": 50,
-    "id": "44151"
+    "id": "44151",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -96962,7 +96968,8 @@
     "name": "BRATKO, Ivan",
     "year": "1963-2005",
     "games": 17,
-    "id": "98849"
+    "id": "98849",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -97714,7 +97721,8 @@
     "name": "JANDRIC, Damjan",
     "year": "2010-2019",
     "games": 17,
-    "id": "140029"
+    "id": "140029",
+    "synced": true
   },
   {
     "higestRating": 2498,
@@ -99548,7 +99556,8 @@
     "name": "ONYEKWERE, Chikwere",
     "year": "2002-2017",
     "games": 16,
-    "id": "94148"
+    "id": "94148",
+    "synced": true
   },
   {
     "higestRating": 2351,
