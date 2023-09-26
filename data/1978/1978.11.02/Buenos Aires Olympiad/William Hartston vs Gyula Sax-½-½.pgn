@@ -1,0 +1,15 @@
+[Event "Buenos Aires Olympiad"]
+[Site "Buenos Aires ARG"]
+[Date "1978.11.02"]
+[EventDate "1978.10.25"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "William Hartston"]
+[Black "Gyula Sax"]
+[ECO "D85"]
+[WhiteElo "2475"]
+[BlackElo "2550"]
+[Source "Olimpbase"]
+[PlyCount "38"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 O-O 8.Be2 c5 9.O-O Nd7 10.Qd3 Qc7 11.Rb1 b5 12.Bg5 a6 13.a4 bxa4 14.Bxe7 Ne5 15.Nxe5 Qxe7 16.Nc4 cxd4 17.cxd4 Bd7 18.Rb7 Qd8 19.e5 Bb5 1/2-1/2

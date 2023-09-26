@@ -5479,7 +5479,8 @@
     "name": "HARTSTON, William",
     "year": "1962-1987",
     "games": 686,
-    "id": "16132"
+    "id": "16132",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -41742,7 +41743,8 @@
     "name": "POPOV, Mikhail",
     "year": "2012-2019",
     "games": 74,
-    "id": "138124"
+    "id": "138124",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -48960,7 +48962,8 @@
     "name": "AHMADINIA, Ebrahim",
     "year": "2002-2019",
     "games": 59,
-    "id": "87973"
+    "id": "87973",
+    "synced": true
   },
   {
     "higestRating": 2354,
@@ -52944,7 +52947,8 @@
     "name": "VALLIN, Guillaume",
     "year": "1996-2019",
     "games": 52,
-    "id": "50618"
+    "id": "50618",
+    "synced": true
   },
   {
     "higestRating": 2297,
@@ -64194,7 +64198,8 @@
     "name": "HAMMER, Peter",
     "year": "1976-1994",
     "games": 38,
-    "id": "28072"
+    "id": "28072",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -72864,7 +72869,8 @@
     "name": "SAMU, Sorin-Mihai",
     "year": "2010-2017",
     "games": 31,
-    "id": "135472"
+    "id": "135472",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -75169,7 +75175,8 @@
     "name": "BAYER, Dorota",
     "year": "1995-2005",
     "games": 29,
-    "id": "92606"
+    "id": "92606",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -85386,7 +85393,8 @@
     "name": "STETTLER, Michael",
     "year": "1993-2000",
     "games": 22,
-    "id": "29144"
+    "id": "29144",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -93937,7 +93945,8 @@
     "name": "MORGAN, Ben",
     "year": "2000-2001",
     "games": 18,
-    "id": "49986"
+    "id": "49986",
+    "synced": true
   },
   {
     "higestRating": 2210,
