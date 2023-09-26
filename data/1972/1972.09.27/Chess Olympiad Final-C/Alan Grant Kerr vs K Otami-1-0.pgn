@@ -1,0 +1,15 @@
+[Event "Chess Olympiad Final-C"]
+[Site "Skopje YUG"]
+[Date "1972.09.27"]
+[EventDate "1972.09.18"]
+[Round "1"]
+[Result "1-0"]
+[White "Alan Grant Kerr"]
+[Black "K Otami"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "31"]
+
+1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 d6 6.Bc4 e6 7.O-O Nf6 8.Qe2 Nd7 9.Bf4 Be7 10.Rfd1 Qc7 11.Nb5 Qb6 12.Nxd6+ Bxd6 13.Bxd6 e5 14.Ng5 Nd4 15.Bxf7+ Kd8 16.Rxd4 1-0
