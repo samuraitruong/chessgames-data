@@ -1,0 +1,14 @@
+[Event "London Classic Superrapid"]
+[Site "London ENG"]
+[Date "2015.12.12"]
+[EventDate "2015.12.12"]
+[Round "2.5"]
+[Result "0-1"]
+[White "Ian D Thompson"]
+[Black "Jonathan Hawkins"]
+[ECO "D50"]
+[WhiteElo "2191"]
+[BlackElo "2563"]
+[PlyCount "44"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 Be7 5. e3 O-O 6. cxd5 exd5 7. Bd3 Nbd7 8. Rc1 c6 9. Qc2 Re8 10. Nge2 Nf8 11. O-O Ng6 12. Nf4 Ne4 13. Bxe7 Rxe7 14. Nxg6 hxg6 15. Nxe4 dxe4 16. Bxe4 Re8 17. Bd3 Be6 18. b4 Qh4 19. g3 Qh5 20. f4 a5 21. b5 cxb5 22. Bxb5 Qxb5 0-1
