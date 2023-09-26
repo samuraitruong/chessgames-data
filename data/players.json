@@ -240,7 +240,8 @@
     "name": "NEPOMNIACHTCHI, Ian",
     "year": "1999-2023",
     "games": 2680,
-    "id": "54683"
+    "id": "54683",
+    "synced": true
   },
   {
     "higestRating": 2524,
@@ -103689,7 +103690,8 @@
     "name": "LE, Huu Thai",
     "year": "2008-2019",
     "games": 14,
-    "id": "119938"
+    "id": "119938",
+    "synced": true
   },
   {
     "higestRating": 2335,
