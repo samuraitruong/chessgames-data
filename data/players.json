@@ -9523,7 +9523,8 @@
     "name": "NEMET, Ivan",
     "year": "1960-2006",
     "games": 408,
-    "id": "68507"
+    "id": "68507",
+    "synced": true
   },
   {
     "higestRating": 2461,
@@ -22476,7 +22477,8 @@
     "name": "DOLEZAL, Cristian",
     "year": "1991-2019",
     "games": 161,
-    "id": "16426"
+    "id": "16426",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -22637,7 +22639,8 @@
     "name": "VERNAY, Clovis",
     "year": "2003-2019",
     "games": 160,
-    "id": "96024"
+    "id": "96024",
+    "synced": true
   },
   {
     "higestRating": 2532,
@@ -25929,7 +25932,8 @@
     "name": "FORSAA, Espen",
     "year": "2005-2016",
     "games": 135,
-    "id": "123383"
+    "id": "123383",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -31367,7 +31371,8 @@
     "name": "MATTHIESEN, Martin",
     "year": "1998-2019",
     "games": 106,
-    "id": "64345"
+    "id": "64345",
+    "synced": true
   },
   {
     "higestRating": 2392,
@@ -64794,7 +64799,8 @@
     "name": "JAKOBETZ, Laszlo",
     "year": "1986-2005",
     "games": 38,
-    "id": "108326"
+    "id": "108326",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -67362,7 +67368,8 @@
     "name": "PAPASTAVROPOULOS, Andreas",
     "year": "1972-2011",
     "games": 35,
-    "id": "55270"
+    "id": "55270",
+    "synced": true
   },
   {
     "higestRating": 2383,
@@ -69111,7 +69118,8 @@
     "name": "KARLSSON, Bjorn-Ivar",
     "year": "2002-2022",
     "games": 34,
-    "id": "136315"
+    "id": "136315",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -98621,7 +98629,8 @@
     "name": "WANG, Philip Xiao",
     "year": "1998-2018",
     "games": 16,
-    "id": "46330"
+    "id": "46330",
+    "synced": true
   },
   {
     "higestRating": 2217,
@@ -102344,7 +102353,8 @@
     "name": "OTTE, Harro",
     "year": "1978-1990",
     "games": 15,
-    "id": "93730"
+    "id": "93730",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -104925,7 +104935,8 @@
     "name": "FUENTES, Lluis Oms",
     "year": "2001-2010",
     "games": 11,
-    "id": "55381"
+    "id": "55381",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -108980,7 +108991,8 @@
     "name": "SIMIC, Dusan",
     "year": "2007",
     "games": 2,
-    "id": "111218"
+    "id": "111218",
+    "synced": true
   },
   {
     "higestRating": 2220,
