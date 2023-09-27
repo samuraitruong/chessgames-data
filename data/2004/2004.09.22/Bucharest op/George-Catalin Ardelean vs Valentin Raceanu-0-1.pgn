@@ -1,0 +1,14 @@
+[Event "Bucharest op"]
+[Site "Bucharest ROU"]
+[Date "2004.09.22"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "George-Catalin Ardelean"]
+[Black "Valentin Raceanu"]
+[ECO "B67"]
+[WhiteElo "2475"]
+[BlackElo "2430"]
+[PlyCount "46"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.f3 Be7 10.Be3 Nxd4 11.Bxd4 O-O 12.g4 b5 13.Kb1 b4 14.Ne2 e5 15.Be3 Qa5 16.Ng3 Be6 17.b3 Rfc8 18.Nf5 Bf8 19.Bg5 Nd7 20.Nxd6 Bxd6 21.Qxd6 Nc5 22.Bd3 Nb7 23.Qe7 Rc7 0-1

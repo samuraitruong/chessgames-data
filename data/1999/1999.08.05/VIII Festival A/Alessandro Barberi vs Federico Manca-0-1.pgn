@@ -1,0 +1,14 @@
+[Event "VIII Festival A"]
+[Site "Montecatini Terme ITA"]
+[Date "1999.08.05"]
+[EventDate "1999.07.31"]
+[Round "6"]
+[Result "0-1"]
+[White "Alessandro Barberi"]
+[Black "Federico Manca"]
+[ECO "E72"]
+[WhiteElo "2180"]
+[BlackElo "2373"]
+[PlyCount "40"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.g3 c5 6.d5 O-O 7.Bg2 e6 8.dxe6 fxe6 9.Bf4 e5 10.Bg5 h6 11.Bxf6 Qxf6 12.f3 h5 13.Qd5+ Be6 14.Qd3 Nc6 15.O-O-O Bh6+ 16.Kb1 Nb4 17.Qf1 Qf7 18.Rxd6 Bxc4 19.Rxg6+ Bg7 20.Rxg7+ Kxg7 0-1

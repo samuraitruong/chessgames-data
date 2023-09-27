@@ -1,0 +1,14 @@
+[Event "Dieren op"]
+[Site "Dieren"]
+[Date "1999.07.22"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Jeroen Bosch"]
+[Black "Vitali Golod"]
+[ECO "C55"]
+[WhiteElo "2433"]
+[BlackElo "2568"]
+[PlyCount "42"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O d6 6.c3 O-O 7.Nbd2 Na5 8.Bb5 a6 9.Ba4 b5 10.Bc2 c5 11.Re1 Nc6 12.Nf1 Re8 13.h3 Bf8 14.Bg5 h6 15.Bh4 g6 16.d4 cxd4 17.cxd4 Bg7 18.dxe5 dxe5 19.Qxd8 Rxd8 20.Bb3 Bb7 21.Rac1 1/2-1/2
