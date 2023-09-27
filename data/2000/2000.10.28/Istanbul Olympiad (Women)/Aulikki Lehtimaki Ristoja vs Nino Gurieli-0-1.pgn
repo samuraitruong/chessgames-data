@@ -1,0 +1,15 @@
+[Event "Istanbul Olympiad (Women)"]
+[Site "Istanbul TUR"]
+[Date "2000.10.28"]
+[EventDate "2000.10.28"]
+[Round "1"]
+[Result "0-1"]
+[White "Aulikki Lehtimaki Ristoja"]
+[Black "Nino Gurieli"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "2373"]
+[Source "Olimpbase"]
+[PlyCount "40"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.Nc3 d5 5.Bxf6 exf6 6.g3 O-O 7.Bg2 c6 8.O-O Re8 9.Re1 f5 10.e3 Nd7 11.Rb1 a5 12.b4 axb4 13.Rxb4 Nf6 14.Qb1 Ne4 15.Nxe4 fxe4 16.Nd2 Qa5 17.a4 Bf8 18.Rb2 Qxd2 19.c4 Qa5 20.cxd5 Qxd5 0-1
