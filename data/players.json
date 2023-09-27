@@ -4299,7 +4299,8 @@
     "name": "YILMAZ, Mustafa",
     "year": "2002-2023",
     "games": 822,
-    "id": "118208"
+    "id": "118208",
+    "synced": true
   },
   {
     "higestRating": 2581,
@@ -21673,7 +21674,8 @@
     "name": "VALKESALMI, Kimmo",
     "year": "1978-2001",
     "games": 169,
-    "id": "29574"
+    "id": "29574",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -43015,7 +43017,8 @@
     "name": "COLLIER, David O",
     "year": "1993-2013",
     "games": 71,
-    "id": "55851"
+    "id": "55851",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -62286,7 +62289,8 @@
     "name": "REYES, Pedro Ramon Martinez",
     "year": "2012-2023",
     "games": 41,
-    "id": "140458"
+    "id": "140458",
+    "synced": true
   },
   {
     "higestRating": 2270,
