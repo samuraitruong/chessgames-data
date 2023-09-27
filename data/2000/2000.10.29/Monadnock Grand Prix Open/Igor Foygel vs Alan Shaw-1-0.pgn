@@ -1,0 +1,14 @@
+[Event "Monadnock Grand Prix Open"]
+[Site "Peterborough, NH USA"]
+[Date "2000.10.29"]
+[EventDate "2000"]
+[Round "3"]
+[Result "1-0"]
+[White "Igor Foygel"]
+[Black "Alan Shaw"]
+[ECO "C00"]
+[WhiteElo "2516"]
+[BlackElo "2203"]
+[PlyCount "27"]
+
+1.e4 e6 2.d3 c5 3.Nf3 Nc6 4.g3 d5 5.Qe2 g6 6.exd5 Qxd5 7.Nc3 Qd8 8.Ne4 Bg7 9.c3 b6 10.Bg2 Ba6 11.Bf4 Bxd3 12.Qe3 Bxe4 13.Qxe4 Qd5 14.Qa4 1-0
