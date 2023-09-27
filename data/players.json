@@ -3183,7 +3183,8 @@
     "name": "PETROSIAN, Tigran L",
     "year": "1994-2022",
     "games": 1013,
-    "id": "50086"
+    "id": "50086",
+    "synced": true
   },
   {
     "higestRating": 2540,
@@ -22630,7 +22631,8 @@
     "name": "HUY, Nguyen",
     "year": "2005-2021",
     "games": 161,
-    "id": "115346"
+    "id": "115346",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -45740,7 +45742,8 @@
     "name": "BAGLAN, Esat",
     "year": "2011-2023",
     "games": 66,
-    "id": "140870"
+    "id": "140870",
+    "synced": true
   },
   {
     "higestRating": 2203,
@@ -63118,7 +63121,8 @@
     "name": "PRESCHA, Frank",
     "year": "1993-2000",
     "games": 40,
-    "id": "103036"
+    "id": "103036",
+    "synced": true
   },
   {
     "higestRating": 2271,
@@ -77676,7 +77680,8 @@
     "name": "FELECAN, Florin",
     "year": "1991-2019",
     "games": 27,
-    "id": "27715"
+    "id": "27715",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -103592,7 +103597,8 @@
     "name": "HAAVAMAE, Henrik",
     "year": "2012-2021",
     "games": 15,
-    "id": "141982"
+    "id": "141982",
+    "synced": true
   },
   {
     "higestRating": 2259,
