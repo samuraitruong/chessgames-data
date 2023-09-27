@@ -280,7 +280,8 @@
     "name": "ANDERSSON, Ulf",
     "year": "1967-2018",
     "games": 2563,
-    "id": "12112"
+    "id": "12112",
+    "synced": true
   },
   {
     "higestRating": 2763,
@@ -25447,7 +25448,8 @@
     "name": "BASHKITE, Viktoria",
     "year": "1997-2012",
     "games": 139,
-    "id": "51509"
+    "id": "51509",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -93783,7 +93785,8 @@
     "name": "SCHNAIDER, Ilan",
     "year": "2018-2023",
     "games": 19,
-    "id": "187068"
+    "id": "187068",
+    "synced": true
   },
   {
     "higestRating": 2334,
