@@ -10623,7 +10623,8 @@
     "name": "KNOTT, Simon J B",
     "year": "1977-2014",
     "games": 369,
-    "id": "48653"
+    "id": "48653",
+    "synced": true
   },
   {
     "higestRating": 2504,
@@ -11238,7 +11239,8 @@
     "name": "VENKATESH, Marani Rajendran",
     "year": "1997-2023",
     "games": 348,
-    "id": "51262"
+    "id": "51262",
+    "synced": true
   },
   {
     "higestRating": 2366,
@@ -20295,7 +20297,8 @@
     "name": "STELLA, Andrea",
     "year": "2006-2022",
     "games": 183,
-    "id": "118220"
+    "id": "118220",
+    "synced": true
   },
   {
     "higestRating": 2363,
@@ -24614,7 +24617,8 @@
     "name": "PAOLICCHI, Raul Garcia",
     "year": "1984-2018",
     "games": 146,
-    "id": "94710"
+    "id": "94710",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -35474,7 +35478,8 @@
     "name": "JENSSON, Einar Hjalti",
     "year": "1995-2022",
     "games": 91,
-    "id": "69074"
+    "id": "69074",
+    "synced": true
   },
   {
     "higestRating": 2385,
