@@ -1,0 +1,14 @@
+[Event "AUS-op"]
+[Site "Scarborough, Perth AUS"]
+[Date "2023.01.02"]
+[EventDate "2023.01.02"]
+[Round "1.14"]
+[Result "0-1"]
+[White "De Vas, Yonal"]
+[Black "Jay Lakner"]
+[ECO "A89"]
+[WhiteElo "1558"]
+[BlackElo "2060"]
+[PlyCount "42"]
+
+1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nc3 O-O 6. Nf3 d6 7. O-O Nc6 8. d5 Ne5 9. Qb3 h6 10. Nd2 g5 11. e4 f4 12. Nf3 Nxf3+ 13. Bxf3 g4 14. Bxg4 Nxg4 15. Bxf4 Qe8 16. Nb5 Qh5 17. h4 Ne5 18. Bxe5 Bxe5 19. Nxc7 Rf3 20. Qb5 Bxg3 21. Nxa8 Bxh4 0-1
