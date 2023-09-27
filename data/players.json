@@ -8750,7 +8750,8 @@
     "name": "MAKAROV, Marat",
     "year": "1981-2018",
     "games": 446,
-    "id": "17782"
+    "id": "17782",
+    "synced": true
   },
   {
     "higestRating": 2585,
@@ -10741,7 +10742,8 @@
     "name": "BHARATHAKOTI, Harsha",
     "year": "2012-2023",
     "games": 366,
-    "id": "143300"
+    "id": "143300",
+    "synced": true
   },
   {
     "higestRating": 2597,
@@ -37122,7 +37124,8 @@
     "name": "KRYLOV, Mikhail",
     "year": "2002-2018",
     "games": 86,
-    "id": "109152"
+    "id": "109152",
+    "synced": true
   },
   {
     "higestRating": 2442,
@@ -49558,7 +49561,8 @@
     "name": "HYNES, Kilian A",
     "year": "1984-2000",
     "games": 58,
-    "id": "95143"
+    "id": "95143",
+    "synced": true
   },
   {
     "higestRating": 2510,
@@ -56659,7 +56663,8 @@
     "name": "DIMITRIJEVIC, Milorad",
     "year": "1966-1992",
     "games": 47,
-    "id": "62868"
+    "id": "62868",
+    "synced": true
   },
   {
     "higestRating": 2492,
