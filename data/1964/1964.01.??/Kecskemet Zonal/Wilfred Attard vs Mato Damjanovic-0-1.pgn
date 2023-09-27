@@ -1,0 +1,15 @@
+[Event "Kecskemet Zonal"]
+[Site "Kecskemet HUN"]
+[Date "1964.01.??"]
+[EventDate "1964.01.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Wilfred Attard"]
+[Black "Mato Damjanovic"]
+[ECO "B42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nc6 6.Nxc6 dxc6 7.O-O e5 8.Nd2 Be6 9.b3 Ne7 10.Bb2 Ng6 11.Nc4 Qc7 12.Qh5 Bxc4 13.Bxc4 b5 14.Be2 Bc5 15.g3 O-O 16.Rad1 Rad8 17.Rxd8 Rxd8 18.Rd1 Rxd1+ 19.Bxd1 Qa5 20.Qf5 Qe1+ 21.Kg2 Qxd1 0-1

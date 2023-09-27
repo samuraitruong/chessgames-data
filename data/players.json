@@ -3113,7 +3113,8 @@
     "name": "DAMJANOVIC, Mato",
     "year": "1949-2001",
     "games": 1019,
-    "id": "16592"
+    "id": "16592",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -48805,7 +48806,8 @@
     "name": "AVSHALUMOV, Alex",
     "year": "1980-1992",
     "games": 59,
-    "id": "29202"
+    "id": "29202",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -79471,7 +79473,8 @@
     "name": "LEVINE, David M",
     "year": "1988-2006",
     "games": 26,
-    "id": "63200"
+    "id": "63200",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -84550,7 +84553,8 @@
     "name": "CADIZ, Eugenio Larrain",
     "year": "1960-1966",
     "games": 23,
-    "id": "92357"
+    "id": "92357",
+    "synced": true
   },
   {
     "higestRating": 2317,
@@ -106660,7 +106664,8 @@
     "name": "JABBAR, Abdul",
     "year": "2008",
     "games": 8,
-    "id": "117385"
+    "id": "117385",
+    "synced": true
   },
   {
     "higestRating": 2615,
