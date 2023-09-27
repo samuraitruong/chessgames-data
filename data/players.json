@@ -10188,7 +10188,8 @@
     "name": "SADZIKOWSKI, Daniel",
     "year": "2003-2021",
     "games": 386,
-    "id": "126592"
+    "id": "126592",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -10602,7 +10603,8 @@
     "name": "MAKSIMENKO, Andrei",
     "year": "1984-2019",
     "games": 369,
-    "id": "23181"
+    "id": "23181",
+    "synced": true
   },
   {
     "higestRating": 2582,
@@ -31750,7 +31752,8 @@
     "name": "STUPICA, Janez",
     "year": "1955-1969",
     "games": 105,
-    "id": "115146"
+    "id": "115146",
+    "synced": true
   },
   {
     "higestRating": 2441,
@@ -58884,7 +58887,8 @@
     "name": "STANCIU, Traian",
     "year": "1965-1988",
     "games": 44,
-    "id": "44858"
+    "id": "44858",
+    "synced": true
   },
   {
     "higestRating": 2374,
@@ -59925,7 +59929,8 @@
     "name": "TIGGELMAN, Rene",
     "year": "1989-2007",
     "games": 43,
-    "id": "51195"
+    "id": "51195",
+    "synced": true
   },
   {
     "higestRating": 2248,
@@ -66617,7 +66622,8 @@
     "name": "VERESAGIN, Jurij",
     "year": "1993-1998",
     "games": 36,
-    "id": "92272"
+    "id": "92272",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -68329,7 +68335,8 @@
     "name": "DIEPEVEEN, Vincent",
     "year": "1990-2015",
     "games": 34,
-    "id": "34623"
+    "id": "34623",
+    "synced": true
   },
   {
     "higestRating": 2264,
@@ -105718,7 +105725,8 @@
     "name": "SUBOTICANEC, Drazen",
     "year": "1955",
     "games": 10,
-    "id": "87445"
+    "id": "87445",
+    "synced": true
   },
   {
     "higestRating": 2297,
