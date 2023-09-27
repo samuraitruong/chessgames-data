@@ -12740,7 +12740,8 @@
     "name": "PAPP, Sarah",
     "year": "2005-2023",
     "games": 304,
-    "id": "95975"
+    "id": "95975",
+    "synced": true
   },
   {
     "higestRating": 2387,
@@ -19553,7 +19554,8 @@
     "name": "LARGE, Peter G",
     "year": "1977-2023",
     "games": 191,
-    "id": "18583"
+    "id": "18583",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -42766,7 +42768,8 @@
     "name": "WANG, Richard",
     "year": "2009-2019",
     "games": 72,
-    "id": "122482"
+    "id": "122482",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -43520,7 +43523,8 @@
     "name": "NOROOZI, Omid",
     "year": "2000-2019",
     "games": 70,
-    "id": "51256"
+    "id": "51256",
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -48864,7 +48868,8 @@
     "name": "VULICEVIC, Nenad",
     "year": "1992-1998",
     "games": 59,
-    "id": "18836"
+    "id": "18836",
+    "synced": true
   },
   {
     "higestRating": 2387,
@@ -52955,7 +52960,8 @@
     "name": "JABLONICKY, Martin",
     "year": "2017-2022",
     "games": 53,
-    "id": "159713"
+    "id": "159713",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -56350,7 +56356,8 @@
     "name": "BENEDETTO, Edoardo Di",
     "year": "2016-2022",
     "games": 48,
-    "id": "156008"
+    "id": "156008",
+    "synced": true
   },
   {
     "higestRating": 2227,
@@ -64919,7 +64926,8 @@
     "name": "OLIVENCIA, Flavio",
     "year": "1984-2013",
     "games": 38,
-    "id": "91123"
+    "id": "91123",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -73430,7 +73438,8 @@
     "name": "NEVEROV, Anatoly",
     "year": "1986-2000",
     "games": 30,
-    "id": "17648"
+    "id": "17648",
+    "synced": true
   },
   {
     "higestRating": 2353,
@@ -75986,7 +75995,8 @@
     "name": "HARIKRISHNAN, A Ra",
     "year": "2014-2023",
     "games": 29,
-    "id": "155269"
+    "id": "155269",
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -77505,7 +77515,8 @@
     "name": "GARCIA, Emmanuel Jimenez",
     "year": "2017-2022",
     "games": 28,
-    "id": "161231"
+    "id": "161231",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -79423,7 +79434,8 @@
     "name": "SEPULVEDA, Nelson D Alvarado",
     "year": "1994-2005",
     "games": 26,
-    "id": "52084"
+    "id": "52084",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -83595,7 +83607,8 @@
     "name": "WERTJANZ, David",
     "year": "2004-2017",
     "games": 24,
-    "id": "117692"
+    "id": "117692",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -86102,7 +86115,8 @@
     "name": "NOVAKOVIC, Dragan",
     "year": "2001-2014",
     "games": 22,
-    "id": "53751"
+    "id": "53751",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -90320,7 +90334,8 @@
     "name": "BOLZONI, Victor-Angel",
     "year": "1987-2009",
     "games": 20,
-    "id": "74994"
+    "id": "74994",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -91811,7 +91826,8 @@
     "name": "TORRES, Sergio",
     "year": "1996-2012",
     "games": 19,
-    "id": "16380"
+    "id": "16380",
+    "synced": true
   },
   {
     "higestRating": 2386,
@@ -109969,7 +109985,8 @@
     "name": "GAL, Gabor",
     "year": "1977",
     "games": 1,
-    "id": "123848"
+    "id": "123848",
+    "synced": true
   },
   {
     "higestRating": 2335,
