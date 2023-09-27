@@ -13804,7 +13804,8 @@
     "name": "SHAKED, Tal",
     "year": "1989-1999",
     "games": 279,
-    "id": "12119"
+    "id": "12119",
+    "synced": true
   },
   {
     "higestRating": 2344,
@@ -18169,7 +18170,8 @@
     "name": "SANDULEAC, Vasile",
     "year": "1988-2023",
     "games": 208,
-    "id": "48937"
+    "id": "48937",
+    "synced": true
   },
   {
     "higestRating": 2563,
@@ -32109,7 +32111,8 @@
     "name": "SAVELIEV, Alexei",
     "year": "2012-2023",
     "games": 104,
-    "id": "141347"
+    "id": "141347",
+    "synced": true
   },
   {
     "higestRating": 2508,
@@ -32809,7 +32812,8 @@
     "name": "SAPOZHNIKOV, Roman",
     "year": "2006-2011",
     "games": 101,
-    "id": "121901"
+    "id": "121901",
+    "synced": true
   },
   {
     "higestRating": 2207,
@@ -42302,7 +42306,8 @@
     "name": "GARAYEV, Kanan",
     "year": "2015-2023",
     "games": 73,
-    "id": "154714"
+    "id": "154714",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -49993,7 +49998,8 @@
     "name": "AHMED, Esam Aly",
     "year": "1994-2003",
     "games": 57,
-    "id": "58580"
+    "id": "58580",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -52400,7 +52406,8 @@
     "name": "GLATT, Gabor",
     "year": "1981-2004",
     "games": 53,
-    "id": "29948"
+    "id": "29948",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -52605,7 +52612,8 @@
     "name": "LONT, Addy",
     "year": "1986-1998",
     "games": 53,
-    "id": "65193"
+    "id": "65193",
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -58195,7 +58203,8 @@
     "name": "BAIRACHNY, Ruslan",
     "year": "1993-2002",
     "games": 45,
-    "id": "69008"
+    "id": "69008",
+    "synced": true
   },
   {
     "higestRating": 2347,
@@ -65904,7 +65913,8 @@
     "name": "KUCHYNKA, Lukas",
     "year": "2003-2016",
     "games": 37,
-    "id": "118192"
+    "id": "118192",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -75925,7 +75935,8 @@
     "name": "NURMAMEDOV, Azat",
     "year": "2018-2022",
     "games": 29,
-    "id": "161217"
+    "id": "161217",
+    "synced": true
   },
   {
     "higestRating": 2302,
@@ -98412,7 +98423,8 @@
     "name": "WILSON, Elvin",
     "year": "1993-2016",
     "games": 16,
-    "id": "10211"
+    "id": "10211",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -98426,7 +98438,8 @@
     "name": "WEST, James R",
     "year": "1987-2010",
     "games": 16,
-    "id": "11380"
+    "id": "11380",
+    "synced": true
   },
   {
     "higestRating": 2204,
