@@ -1,0 +1,14 @@
+[Event "Oslo op"]
+[Site "Sandvika NOR"]
+[Date "1994.03.26"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Margeir Petursson"]
+[Black "Svein Johannessen"]
+[ECO "A16"]
+[WhiteElo "2550"]
+[BlackElo "2330"]
+[PlyCount "41"]
+
+1.c4 Nf6 2.Nc3 c6 3.Nf3 d5 4.e3 g6 5.d4 Bg7 6.Be2 O-O 7.O-O Nbd7 8.cxd5 Nxd5 9.e4 Nxc3 10.bxc3 e5 11.Re1 exd4 12.cxd4 c5 13.Ba3 Re8 14.Bb5 cxd4 15.Qb3 Bf8 16.Rad1 Bxa3 17.Qxa3 Qb6 18.Rb1 Qf6 19.Rbc1 Rd8 20.e5 Qb6 21.e6 1-0

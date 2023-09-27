@@ -12667,7 +12667,8 @@
     "name": "JOHANNESSEN, Svein",
     "year": "1955-2005",
     "games": 306,
-    "id": "78749"
+    "id": "78749",
+    "synced": true
   },
   {
     "higestRating": 2539,
@@ -19449,7 +19450,8 @@
     "name": "DOBROVOLSKY, Ladislav",
     "year": "1968-2014",
     "games": 193,
-    "id": "59653"
+    "id": "59653",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -25450,7 +25452,8 @@
     "name": "VEDDER, Henk",
     "year": "1990-2019",
     "games": 139,
-    "id": "46599"
+    "id": "46599",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -27424,7 +27427,8 @@
     "name": "GRIGOROV, Jordan N",
     "year": "1974-1997",
     "games": 125,
-    "id": "28810"
+    "id": "28810",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -38923,7 +38927,8 @@
     "name": "KARPESHOV, Oleg",
     "year": "1983-2019",
     "games": 81,
-    "id": "26998"
+    "id": "26998",
+    "synced": true
   },
   {
     "higestRating": 2468,
@@ -39774,7 +39779,8 @@
     "name": "FILIP, Lucian-Ioan",
     "year": "1998-2023",
     "games": 79,
-    "id": "114709"
+    "id": "114709",
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -48691,7 +48697,8 @@
     "name": "HOUSE, Glenn L",
     "year": "1988-2018",
     "games": 60,
-    "id": "99212"
+    "id": "99212",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -53392,7 +53399,8 @@
     "name": "AGUETTAZ, Maxime",
     "year": "2003-2015",
     "games": 52,
-    "id": "107925"
+    "id": "107925",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -79457,7 +79465,8 @@
     "name": "ROUMEGOUS, Marina",
     "year": "2000-2010",
     "games": 26,
-    "id": "51957"
+    "id": "51957",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -101916,7 +101925,8 @@
     "name": "HOLEKSA, Zdenek",
     "year": "1997-2009",
     "games": 15,
-    "id": "51877"
+    "id": "51877",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -105956,7 +105966,8 @@
     "name": "PETRONIJEVIC, Zoran",
     "year": "1990-2005",
     "games": 10,
-    "id": "63667"
+    "id": "63667",
+    "synced": true
   },
   {
     "higestRating": 2394,
@@ -107058,7 +107069,8 @@
     "name": "PORTALES, Cesar Beso",
     "year": "1990-1999",
     "games": 7,
-    "id": "21007"
+    "id": "21007",
+    "synced": true
   },
   {
     "higestRating": 2223,
