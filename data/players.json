@@ -2596,7 +2596,8 @@
     "name": "TARI, Aryan",
     "year": "2009-2023",
     "games": 1129,
-    "id": "122590"
+    "id": "122590",
+    "synced": true
   },
   {
     "higestRating": 2570,
@@ -38965,7 +38966,8 @@
     "name": "WIANS, Camille",
     "year": "1985-1996",
     "games": 81,
-    "id": "40394"
+    "id": "40394",
+    "synced": true
   },
   {
     "higestRating": 2235,
