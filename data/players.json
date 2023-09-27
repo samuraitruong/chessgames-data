@@ -1314,7 +1314,8 @@
     "name": "SUTOVSKY, Emil",
     "year": "1990-2021",
     "games": 1548,
-    "id": "10836"
+    "id": "10836",
+    "synced": true
   },
   {
     "higestRating": 2600,
@@ -93714,7 +93715,8 @@
     "name": "GOLOVEY, Tamara",
     "year": "1962-1979",
     "games": 18,
-    "id": "25425"
+    "id": "25425",
+    "synced": true
   },
   {
     "higestRating": 2338,
@@ -105809,7 +105811,8 @@
     "name": "BORDOVSKY, Vladimir",
     "year": "2015-2017",
     "games": 10,
-    "id": "155864"
+    "id": "155864",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -107917,7 +107920,8 @@
     "name": "MOSS, Robin",
     "year": "1995-2002",
     "games": 4,
-    "id": "47733"
+    "id": "47733",
+    "synced": true
   },
   {
     "higestRating": 2212,
