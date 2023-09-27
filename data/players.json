@@ -1771,7 +1771,8 @@
     "name": "PANNO, Oscar",
     "year": "1952-2007",
     "games": 1354,
-    "id": "14024"
+    "id": "14024",
+    "synced": true
   },
   {
     "higestRating": 2607,
@@ -31545,7 +31546,8 @@
     "name": "BITENSKY, Igor",
     "year": "1997-2021",
     "games": 106,
-    "id": "142613"
+    "id": "142613",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -65176,7 +65178,8 @@
     "name": "SEZDBEKOV, Ruslan",
     "year": "2016-2020",
     "games": 38,
-    "id": "155368"
+    "id": "155368",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -100045,7 +100048,8 @@
     "name": "RODCHENKOV, Sergey D",
     "year": "2005-2015",
     "games": 16,
-    "id": "99363"
+    "id": "99363",
+    "synced": true
   },
   {
     "higestRating": 2295,

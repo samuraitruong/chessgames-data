@@ -1,0 +1,14 @@
+[Event "ISR-chT"]
+[Site "ISR"]
+[Date "2019.02.23"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Igor Bitensky"]
+[Black "Vitali Golod"]
+[ECO "B40"]
+[WhiteElo "2373"]
+[BlackElo "2532"]
+[PlyCount "42"]
+
+1.e4 c5 2.Nf3 e6 3.g3 d5 4.exd5 exd5 5.d4 Nc6 6.Bg2 cxd4 7.Nxd4 Nf6 8.O-O Be7 9.c4 O-O 10.cxd5 Nxd5 11.Nxc6 bxc6 12.Qa4 Qb6 13.Nc3 Be6 14.Nxd5 cxd5 15.Rd1 Rfd8 16.b3 Rac8 17.Be3 Bc5 18.Bd4 h6 19.Rd2 Bxd4 20.Qxd4 Qxd4 21.Rxd4 Rc2 1/2-1/2
