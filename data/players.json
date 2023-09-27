@@ -2948,7 +2948,8 @@
     "name": "CAN, Emre",
     "year": "1999-2023",
     "games": 1059,
-    "id": "56847"
+    "id": "56847",
+    "synced": true
   },
   {
     "higestRating": 2647,
@@ -35162,7 +35163,8 @@
     "name": "WEGLARZ, Leszek",
     "year": "1984-2002",
     "games": 92,
-    "id": "19598"
+    "id": "19598",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -38544,7 +38546,8 @@
     "name": "KARNAUKHOVA, Elmira",
     "year": "1996-2006",
     "games": 82,
-    "id": "54809"
+    "id": "54809",
+    "synced": true
   },
   {
     "higestRating": 2399,
@@ -60947,7 +60950,8 @@
     "name": "LOVRIC, Branko",
     "year": "1994-2009",
     "games": 42,
-    "id": "56056"
+    "id": "56056",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -84802,7 +84806,8 @@
     "name": "VUKIC, Radivoj",
     "year": "1989-2011",
     "games": 23,
-    "id": "99123"
+    "id": "99123",
+    "synced": true
   },
   {
     "higestRating": 2271,
@@ -87224,7 +87229,8 @@
     "name": "ANWULI, Daniel",
     "year": "2016-2019",
     "games": 22,
-    "id": "155268"
+    "id": "155268",
+    "synced": true
   },
   {
     "higestRating": 2317,
