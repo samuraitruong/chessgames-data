@@ -4389,7 +4389,8 @@
     "name": "SULSKIS, Sarunas",
     "year": "1987-2023",
     "games": 804,
-    "id": "35787"
+    "id": "35787",
+    "synced": true
   },
   {
     "higestRating": 2505,
@@ -16470,7 +16471,8 @@
     "name": "SZABO, Gergely",
     "year": "1993-2023",
     "games": 229,
-    "id": "17294"
+    "id": "17294",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -38302,7 +38304,8 @@
     "name": "JANOVSKY, Sergey",
     "year": "1986-2007",
     "games": 82,
-    "id": "23615"
+    "id": "23615",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -40072,7 +40075,8 @@
     "name": "FERNANDEZ, Ingrid Yadira Aliaga",
     "year": "2003-2021",
     "games": 78,
-    "id": "89023"
+    "id": "89023",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -46239,7 +46243,8 @@
     "name": "SIEKANSKI, Janusz",
     "year": "1987-2019",
     "games": 64,
-    "id": "19726"
+    "id": "19726",
+    "synced": true
   },
   {
     "higestRating": 2238,
@@ -56162,7 +56167,8 @@
     "name": "DJURHUUS, Eivind X",
     "year": "2014-2015",
     "games": 48,
-    "id": "149315"
+    "id": "149315",
+    "synced": true
   },
   {
     "higestRating": 2323,
@@ -61963,7 +61969,8 @@
     "name": "MURATOVIC, Alija",
     "year": "2003-2009",
     "games": 41,
-    "id": "107140"
+    "id": "107140",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -75029,7 +75036,8 @@
     "name": "FOESSMEIER, Ulrich Johann",
     "year": "1988-1995",
     "games": 29,
-    "id": "61368"
+    "id": "61368",
+    "synced": true
   },
   {
     "higestRating": 2322,
@@ -79672,7 +79680,8 @@
     "name": "DEGERHAMMAR, Rune",
     "year": "1999-2006",
     "games": 26,
-    "id": "90241"
+    "id": "90241",
+    "synced": true
   },
   {
     "higestRating": 2418,
@@ -100461,7 +100470,8 @@
     "name": "LARMUSEAU, Maarten",
     "year": "2010-2012",
     "games": 16,
-    "id": "126779"
+    "id": "126779",
+    "synced": true
   },
   {
     "higestRating": 2236,
