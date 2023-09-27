@@ -999,7 +999,8 @@
     "name": "SPRAGGETT, Kevin",
     "year": "1971-2022",
     "games": 1708,
-    "id": "21784"
+    "id": "21784",
+    "synced": true
   },
   {
     "higestRating": 2630,
@@ -39835,7 +39836,8 @@
     "name": "IVLEV, Aleksey",
     "year": "2015-2021",
     "games": 79,
-    "id": "155994"
+    "id": "155994",
+    "synced": true
   },
   {
     "higestRating": 2223,
@@ -104564,7 +104566,8 @@
     "name": "BYKOVTSEV, Agata",
     "year": "2015-2017",
     "games": 13,
-    "id": "154459"
+    "id": "154459",
+    "synced": true
   },
   {
     "higestRating": 2344,
