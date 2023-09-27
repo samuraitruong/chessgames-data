@@ -1686,7 +1686,8 @@
     "name": "ROZENTALIS, Eduardas",
     "year": "1982-2021",
     "games": 1406,
-    "id": "46215"
+    "id": "46215",
+    "synced": true
   },
   {
     "higestRating": 2645,
@@ -9089,7 +9090,8 @@
     "name": "WHITELEY, Andrew",
     "year": "1963-2013",
     "games": 428,
-    "id": "47929"
+    "id": "47929",
+    "synced": true
   },
   {
     "higestRating": 2436,
@@ -19018,7 +19020,8 @@
     "name": "PAVLOV, Mircea",
     "year": "1962-2005",
     "games": 198,
-    "id": "99043"
+    "id": "99043",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -30616,7 +30619,8 @@
     "name": "KRIZSANY, Laszlo",
     "year": "1991-2021",
     "games": 109,
-    "id": "19755"
+    "id": "19755",
+    "synced": true
   },
   {
     "higestRating": 2480,
@@ -37312,7 +37316,8 @@
     "name": "KUEMIN, Simon",
     "year": "1996-2015",
     "games": 85,
-    "id": "51594"
+    "id": "51594",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -37709,7 +37714,8 @@
     "name": "MAENHOUT, Thibaut",
     "year": "2000-2022",
     "games": 84,
-    "id": "56808"
+    "id": "56808",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -108773,7 +108779,8 @@
     "name": "GELAS, Christophe",
     "year": "2007-2011",
     "games": 3,
-    "id": "129252"
+    "id": "129252",
+    "synced": true
   },
   {
     "higestRating": 2240,
