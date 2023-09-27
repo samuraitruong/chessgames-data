@@ -2431,7 +2431,8 @@
     "name": "SARANA, Alexey",
     "year": "2012-2023",
     "games": 1169,
-    "id": "141456"
+    "id": "141456",
+    "synced": true
   },
   {
     "higestRating": 2653,
@@ -16667,7 +16668,8 @@
     "name": "KANTORIK, Marian",
     "year": "1991-2023",
     "games": 226,
-    "id": "50818"
+    "id": "50818",
+    "synced": true
   },
   {
     "higestRating": 2396,
@@ -19882,7 +19884,8 @@
     "name": "KRAMER, George",
     "year": "1944-1999",
     "games": 187,
-    "id": "19190"
+    "id": "19190",
+    "synced": true
   },
   {
     "higestRating": 2536,
@@ -22378,7 +22381,8 @@
     "name": "NIETO, David Larino",
     "year": "2001-2023",
     "games": 163,
-    "id": "56804"
+    "id": "56804",
+    "synced": true
   },
   {
     "higestRating": 2491,
@@ -35982,7 +35986,8 @@
     "name": "VILLALUENGA, Jesus M Iruzubieta",
     "year": "1989-2021",
     "games": 89,
-    "id": "34753"
+    "id": "34753",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -44533,7 +44538,8 @@
     "name": "KUDRIASHOV, Anatoli",
     "year": "1955-2007",
     "games": 68,
-    "id": "136942"
+    "id": "136942",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -59857,7 +59863,8 @@
     "name": "HUGENTOBLER, Patrick",
     "year": "1988-2018",
     "games": 43,
-    "id": "51086"
+    "id": "51086",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -73079,7 +73086,8 @@
     "name": "NUNEZ, Alejandro Domingo",
     "year": "2016-2022",
     "games": 31,
-    "id": "156931"
+    "id": "156931",
+    "synced": true
   },
   {
     "higestRating": 2249,
@@ -77463,7 +77471,8 @@
     "name": "BOGUMIL, Pavel",
     "year": "1992-2006",
     "games": 27,
-    "id": "26087"
+    "id": "26087",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -78564,7 +78573,8 @@
     "name": "DOERES, Hans-Juergen",
     "year": "1996-2013",
     "games": 27,
-    "id": "141263"
+    "id": "141263",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -80725,7 +80735,8 @@
     "name": "JOHNSEN, Sverre",
     "year": "1991-2001",
     "games": 25,
-    "id": "46560"
+    "id": "46560",
+    "synced": true
   },
   {
     "higestRating": 2213,
@@ -84722,7 +84733,8 @@
     "name": "GOSSELL, Thomas",
     "year": "2001-2007",
     "games": 23,
-    "id": "105721"
+    "id": "105721",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -85588,7 +85600,8 @@
     "name": "FULGENZI, Ernesto",
     "year": "1988-2012",
     "games": 22,
-    "id": "39762"
+    "id": "39762",
+    "synced": true
   },
   {
     "higestRating": 2226,
@@ -92236,7 +92249,8 @@
     "name": "ANDERSEN, Jens Knud",
     "year": "1981-2018",
     "games": 19,
-    "id": "68531"
+    "id": "68531",
+    "synced": true
   },
   {
     "higestRating": 2259,
