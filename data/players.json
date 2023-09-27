@@ -1498,7 +1498,8 @@
     "name": "GUNINA, Valentina",
     "year": "1999-2023",
     "games": 1473,
-    "id": "54882"
+    "id": "54882",
+    "synced": true
   },
   {
     "higestRating": 2565,
@@ -23416,7 +23417,8 @@
     "name": "POLOVODIN, Igor A",
     "year": "1979-2002",
     "games": 154,
-    "id": "16878"
+    "id": "16878",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -25305,7 +25307,8 @@
     "name": "SONG, Raymond",
     "year": "2003-2020",
     "games": 140,
-    "id": "101746"
+    "id": "101746",
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -35544,7 +35547,8 @@
     "name": "BABAYEV, Talib",
     "year": "1998-2022",
     "games": 91,
-    "id": "136005"
+    "id": "136005",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -40610,7 +40614,8 @@
     "name": "ZASLAVSKY, Michael",
     "year": "2003-2019",
     "games": 77,
-    "id": "120109"
+    "id": "120109",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -41874,7 +41879,8 @@
     "name": "CHUKAVIN, Kirill",
     "year": "2015-2022",
     "games": 74,
-    "id": "156905"
+    "id": "156905",
+    "synced": true
   },
   {
     "higestRating": 2226,
@@ -58561,7 +58567,8 @@
     "name": "SOLYS, Laimutis",
     "year": "2009-2022",
     "games": 45,
-    "id": "128377"
+    "id": "128377",
+    "synced": true
   },
   {
     "higestRating": 2231,
@@ -62846,7 +62853,8 @@
     "name": "AIGNER, Michael",
     "year": "1998-2008",
     "games": 40,
-    "id": "75473"
+    "id": "75473",
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -64907,7 +64915,8 @@
     "name": "AKDAG, Dara",
     "year": "2006-2021",
     "games": 38,
-    "id": "104935"
+    "id": "104935",
+    "synced": true
   },
   {
     "higestRating": 2218,
@@ -71225,7 +71234,8 @@
     "name": "ALVAREZ, Roberto Gabriel",
     "year": "1994-2008",
     "games": 32,
-    "id": "97630"
+    "id": "97630",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -71284,7 +71294,8 @@
     "name": "ZOLOTUKHIN, Valery",
     "year": "2006-2011",
     "games": 32,
-    "id": "107176"
+    "id": "107176",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -71299,7 +71310,8 @@
     "name": "PICKARD, Charles",
     "year": "1976-2012",
     "games": 32,
-    "id": "115369"
+    "id": "115369",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -77043,7 +77055,8 @@
     "name": "NIETO, Giovanni Carreto",
     "year": "2004-2019",
     "games": 28,
-    "id": "128267"
+    "id": "128267",
+    "synced": true
   },
   {
     "higestRating": 2466,
@@ -78533,7 +78546,8 @@
     "name": "MEYLAN, Andre",
     "year": "2011-2021",
     "games": 27,
-    "id": "128922"
+    "id": "128922",
+    "synced": true
   },
   {
     "higestRating": 2322,
@@ -81457,7 +81471,8 @@
     "name": "REQUEJO, Oswaldo",
     "year": "1993-2022",
     "games": 25,
-    "id": "89122"
+    "id": "89122",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -83553,7 +83568,8 @@
     "name": "MCTIGUE, James",
     "year": "1990-2018",
     "games": 24,
-    "id": "129742"
+    "id": "129742",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -91761,7 +91777,8 @@
     "name": "JAHNEL, Guenther",
     "year": "1983-2007",
     "games": 19,
-    "id": "35329"
+    "id": "35329",
+    "synced": true
   },
   {
     "higestRating": 2319,
@@ -100068,7 +100085,8 @@
     "name": "BAKIN, Alexander",
     "year": "2006-2012",
     "games": 16,
-    "id": "102236"
+    "id": "102236",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -101234,7 +101252,8 @@
     "name": "NAFTALIN, Solomon",
     "year": "1957-1990",
     "games": 15,
-    "id": "17377"
+    "id": "17377",
+    "synced": true
   },
   {
     "higestRating": 2222,
@@ -105891,7 +105910,8 @@
     "name": "EKE, Matthew A",
     "year": "1985",
     "games": 10,
-    "id": "145880"
+    "id": "145880",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -107964,7 +107984,8 @@
     "name": "SCHNEIDER, Kurt",
     "year": "1999-2006",
     "games": 4,
-    "id": "11359"
+    "id": "11359",
+    "synced": true
   },
   {
     "higestRating": 2280,

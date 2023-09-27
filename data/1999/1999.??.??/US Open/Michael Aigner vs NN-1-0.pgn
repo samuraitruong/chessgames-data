@@ -1,0 +1,14 @@
+[Event "US Open"]
+[Site "Reno, NV USA"]
+[Date "1999.??.??"]
+[EventDate "1999.???.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Michael Aigner"]
+[Black "NN"]
+[ECO "A02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "12"]
+
+1.f4 Nf6 2.Nf3 g6 3.Nc3 d5 4.d4 Bg7 5.e3 b6 6.Ne5 Nbd7 1-0

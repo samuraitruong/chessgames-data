@@ -1,0 +1,14 @@
+[Event "URS-ch11 corr7375"]
+[Site "corr"]
+[Date "1973.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Tarakanov"]
+[Black "Solomon Naftalin"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 5.Nxf7 Bxf2+ 6.Kf1 Qe7 7.Nxh8 d5 8.exd5 Nd4 9.d6 cxd6 10.c3 Bg4 11.Qa4+ Nd7 12.Kxf2 Qh4+ 13.Kf1 b5 14.Bxb5 Ke7 15.g3 Bh3+ 16.Kf2 Rf8+ 17.Ke1 Qe4+ 18.Kd1 Bg4+ 19.Be2 Qxh1# 0-1
