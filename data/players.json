@@ -1146,7 +1146,8 @@
     "name": "GUREVICH, Mikhail",
     "year": "1978-2019",
     "games": 1617,
-    "id": "13915"
+    "id": "13915",
+    "synced": true
   },
   {
     "higestRating": 2670,
@@ -50680,7 +50681,8 @@
     "name": "MADSEN, Dag",
     "year": "1992-2009",
     "games": 56,
-    "id": "40656"
+    "id": "40656",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -66057,7 +66059,8 @@
     "name": "SIRIN, Atakan",
     "year": "2006-2012",
     "games": 37,
-    "id": "115589"
+    "id": "115589",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -93592,7 +93595,8 @@
     "name": "FEDOROV, Evgueny",
     "year": "2007-2019",
     "games": 19,
-    "id": "140634"
+    "id": "140634",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -96125,7 +96129,8 @@
     "name": "GRAIF, William",
     "year": "2018-2022",
     "games": 18,
-    "id": "170686"
+    "id": "170686",
+    "synced": true
   },
   {
     "higestRating": 2314,
@@ -98477,7 +98482,8 @@
     "name": "LOPEZ, Carlos Javier Bernabeu",
     "year": "2017-2022",
     "games": 17,
-    "id": "158014"
+    "id": "158014",
+    "synced": true
   },
   {
     "higestRating": 2373,
@@ -103095,7 +103101,8 @@
     "name": "MILAT, Marcel",
     "year": "1993-2022",
     "games": 15,
-    "id": "104780"
+    "id": "104780",
+    "synced": true
   },
   {
     "higestRating": 2205,
