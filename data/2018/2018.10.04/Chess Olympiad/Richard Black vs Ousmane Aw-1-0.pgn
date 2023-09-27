@@ -1,0 +1,14 @@
+[Event "Chess Olympiad"]
+[Site "Batumi GEO"]
+[Date "2018.10.04"]
+[EventDate "2018.09.24"]
+[Round "10.85"]
+[Result "1-0"]
+[White "Richard Black"]
+[Black "Ousmane Aw"]
+[ECO "C31"]
+[WhiteElo "2218"]
+[BlackElo "1880"]
+[PlyCount "42"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 exd3 5. Bxd3 Qxd5 6. Qe2+ Be7 7. Nc3 Qa5 8. Bd2 c6 9. Nf3 Qc7 10. O-O-O Nd7 11. g4 Nc5 12. Bc4 Be6 13. f5 Bxc4 14. Qxc4 O-O-O 15. Bf4 Qb6 16. Rxd8+ Qxd8 17. Rd1 Qf8 18. Ne5 Nh6 19. b4 Na6 20. Nxc6 b6 21. Qxa6# 1-0

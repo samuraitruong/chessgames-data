@@ -12105,7 +12105,8 @@
     "name": "TRAM, Hoang Thi Bao",
     "year": "1997-2022",
     "games": 321,
-    "id": "103669"
+    "id": "103669",
+    "synced": true
   },
   {
     "higestRating": 2486,
@@ -14136,7 +14137,8 @@
     "name": "ARNAUDOV, G Petar",
     "year": "2005-2021",
     "games": 272,
-    "id": "106854"
+    "id": "106854",
+    "synced": true
   },
   {
     "higestRating": 2524,
@@ -19536,7 +19538,8 @@
     "name": "TRABERT, Bettina",
     "year": "1986-2007",
     "games": 191,
-    "id": "19793"
+    "id": "19793",
+    "synced": true
   },
   {
     "higestRating": 2323,
@@ -39310,7 +39313,8 @@
     "name": "VUNDER, Andrey",
     "year": "1997-2019",
     "games": 80,
-    "id": "56690"
+    "id": "56690",
+    "synced": true
   },
   {
     "higestRating": 2283,
@@ -46696,7 +46700,8 @@
     "name": "NEEF, Maximilian",
     "year": "2014-2019",
     "games": 64,
-    "id": "151684"
+    "id": "151684",
+    "synced": true
   },
   {
     "higestRating": 2463,
@@ -48726,7 +48731,8 @@
     "name": "CZERW, Dawid",
     "year": "2016-2023",
     "games": 60,
-    "id": "162876"
+    "id": "162876",
+    "synced": true
   },
   {
     "higestRating": 2329,
@@ -58415,7 +58421,8 @@
     "name": "NAGY, Bence",
     "year": "1991-2019",
     "games": 45,
-    "id": "104913"
+    "id": "104913",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -68389,7 +68396,8 @@
     "name": "BLACK, Richard",
     "year": "1994-2018",
     "games": 34,
-    "id": "35673"
+    "id": "35673",
+    "synced": true
   },
   {
     "higestRating": 2257,
@@ -76278,7 +76286,8 @@
     "name": "BRAUDE, Mikhail",
     "year": "1986-1993",
     "games": 28,
-    "id": "43271"
+    "id": "43271",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -80453,7 +80462,8 @@
     "name": "KLEPEK, Witold",
     "year": "2017-2022",
     "games": 26,
-    "id": "160130"
+    "id": "160130",
+    "synced": true
   },
   {
     "higestRating": 2240,
