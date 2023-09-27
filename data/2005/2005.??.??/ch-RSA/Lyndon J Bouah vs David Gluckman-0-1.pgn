@@ -1,0 +1,14 @@
+[Event "ch-RSA"]
+[Site "Cape Town RSA"]
+[Date "2005.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Lyndon J Bouah"]
+[Black "David Gluckman"]
+[ECO "A90"]
+[WhiteElo "2181"]
+[BlackElo "2332"]
+[PlyCount "42"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 d5 5. b3 c6 6. Nh3 Bd6 7. Bf4 Bb4+ 8. Bd2 Be7 9. Bc3 Ne4 10. Bb2 Qa5+ 11. Kf1 O-O 12. f3 Nf6 13. Kf2 c5 14. e3 Nc6 15. Re1 Rd8 16. cxd5 Nxd5 17. e4 fxe4 18. fxe4 Nf6 19. d5 c4 20. Kg1 exd5 21. e5 Ne4 0-1

@@ -15040,7 +15040,8 @@
     "name": "KOPEC, Danny",
     "year": "1969-2015",
     "games": 255,
-    "id": "15580"
+    "id": "15580",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -21779,7 +21780,8 @@
     "name": "VAZQUEZ, Guillermo",
     "year": "2010-2022",
     "games": 169,
-    "id": "127207"
+    "id": "127207",
+    "synced": true
   },
   {
     "higestRating": 2254,
@@ -25118,7 +25120,8 @@
     "name": "MONS, Leon",
     "year": "2008-2023",
     "games": 142,
-    "id": "121782"
+    "id": "121782",
+    "synced": true
   },
   {
     "higestRating": 2479,
@@ -29158,7 +29161,8 @@
     "name": "HEIMISSON, Hilmir Freyr",
     "year": "2012-2023",
     "games": 116,
-    "id": "136275"
+    "id": "136275",
+    "synced": true
   },
   {
     "higestRating": 2558,
@@ -50107,7 +50111,8 @@
     "name": "WILLEMZE, Jeroen",
     "year": "1993-2010",
     "games": 57,
-    "id": "66377"
+    "id": "66377",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -51752,7 +51757,8 @@
     "name": "ALTANTUYA, Boldbaatar",
     "year": "2016-2022",
     "games": 55,
-    "id": "156149"
+    "id": "156149",
+    "synced": true
   },
   {
     "higestRating": 2234,
@@ -52408,7 +52414,8 @@
     "name": "MAES, Wim",
     "year": "1992-2017",
     "games": 53,
-    "id": "21970"
+    "id": "21970",
+    "synced": true
   },
   {
     "higestRating": 2580,
@@ -62115,7 +62122,8 @@
     "name": "PANKRATOV, Aleksandr",
     "year": "1995-2004",
     "games": 41,
-    "id": "108706"
+    "id": "108706",
+    "synced": true
   },
   {
     "higestRating": 2333,
@@ -62604,7 +62612,8 @@
     "name": "MIKADZE, Zurab",
     "year": "1968-1987",
     "games": 40,
-    "id": "25813"
+    "id": "25813",
+    "synced": true
   },
   {
     "higestRating": 2244,
@@ -84104,7 +84113,8 @@
     "name": "BOUAH, Lyndon J",
     "year": "1992-2011",
     "games": 23,
-    "id": "38196"
+    "id": "38196",
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -87434,7 +87444,8 @@
     "name": "SCHLEMERMEYER, Wilhelm",
     "year": "1981-2003",
     "games": 21,
-    "id": "18342"
+    "id": "18342",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -98073,7 +98084,8 @@
     "name": "GHVAMBERIA, Nika",
     "year": "2010-2017",
     "games": 17,
-    "id": "134707"
+    "id": "134707",
+    "synced": true
   },
   {
     "higestRating": 2222,
@@ -103010,7 +103022,8 @@
     "name": "FILIPPAS, Sebastian",
     "year": "2006-2012",
     "games": 15,
-    "id": "106952"
+    "id": "106952",
+    "synced": true
   },
   {
     "higestRating": 2223,

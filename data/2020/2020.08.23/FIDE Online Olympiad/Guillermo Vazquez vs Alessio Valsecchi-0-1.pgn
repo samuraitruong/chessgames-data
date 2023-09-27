@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.23"]
+[EventDate "2020.08.21"]
+[Round "9"]
+[Result "0-1"]
+[White "Guillermo Vazquez"]
+[Black "Alessio Valsecchi"]
+[ECO "A07"]
+[WhiteElo "2466"]
+[BlackElo "2453"]
+[Source "Chess-Results"]
+[PlyCount "70"]
+
+1. e4 c5 2. Nf3 e6 3. g3 Nc6 4. Bg2 g6 5. d4 cxd4 6. Nxd4 Qb6 7. Nb3 Bg7 8. O-O Nge7 9. c4 O-O 10. Nc3 Qd8 11. Be3 b6 12. Qe2 Ba6 13. Nb5 d5 14. exd5 exd5 15. Rfd1 Rc8 16. Bh3 Ne5 17. cxd5 Rc4 18. a4 Rb4 19. Bd4 Qxd5 20. Bg2 Qe6 21. Re1 N7c6 22. Bxe5 Nxe5 23. N3d4 Qd7 24. Rad1 Rxa4 25. Nc6 Qe8 26. f4 Qxc6 27. Bxc6 Nxc6 28. Rd5 Rb4 29. Qc2 Bxb5 30. Re4 Rxb2 31. Qc1 Na5 32. Re7 Bc6 33. Rxa5 Bd4+ 34. Kf1 Bg2+ 35. Ke1 Bf2+ 0-1
