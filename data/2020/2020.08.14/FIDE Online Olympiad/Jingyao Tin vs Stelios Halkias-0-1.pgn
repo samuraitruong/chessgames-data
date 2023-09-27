@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.14"]
+[EventDate "2020.08.14"]
+[Round "1"]
+[Result "0-1"]
+[White "Jingyao Tin"]
+[Black "Stelios Halkias"]
+[ECO "E55"]
+[WhiteElo "2357"]
+[BlackElo "2576"]
+[PlyCount "70"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 dxc4 7. Bxc4 c5 8. O-O Nbd7 9. Qe2 a6 10. a3 Ba5 11. Ba2 b5 12. dxc5 Bxc3 13. bxc3 Nxc5 14. c4 Nfe4 15. Bb2 Bb7 16. Rac1 Qd3 17. Rc2 Rfc8 18. Nd4 Qxe2 19. Rxe2 Na4 20. Rc1 Nd6 21. Ba1 bxc4 22. f3 e5 23. Nc2 c3 24. Nb4 Nb5 25. Bd5 Bxd5 26. Nxd5 Rc5 27. Nb4 a5 28. Nc2 Rd8 29. Kf2 h5 30. Ke1 Rcd5 31. Rb1 Nc5 32. Kf2 Nd3+ 33. Kg3 Rc5 34. a4 Nd6 35. Rb3 Nc1 0-1

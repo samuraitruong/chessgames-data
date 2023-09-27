@@ -11027,7 +11027,8 @@
     "name": "BAI, Jinshi",
     "year": "2012-2023",
     "games": 357,
-    "id": "141238"
+    "id": "141238",
+    "synced": true
   },
   {
     "higestRating": 2529,
@@ -22897,7 +22898,8 @@
     "name": "TIN, Jingyao",
     "year": "2012-2023",
     "games": 159,
-    "id": "143086"
+    "id": "143086",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -33260,7 +33262,8 @@
     "name": "KWATSCHEWSKY, Leo",
     "year": "1983-2011",
     "games": 99,
-    "id": "31023"
+    "id": "31023",
+    "synced": true
   },
   {
     "higestRating": 2510,
@@ -40282,7 +40285,8 @@
     "name": "MA, Zhonghan",
     "year": "2011-2019",
     "games": 78,
-    "id": "133522"
+    "id": "133522",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -41397,7 +41401,8 @@
     "name": "JIMENEZ, Alexander Hernandez",
     "year": "1991-2022",
     "games": 75,
-    "id": "61386"
+    "id": "61386",
+    "synced": true
   },
   {
     "higestRating": 2354,
@@ -43227,7 +43232,8 @@
     "name": "BATES, Caspar J",
     "year": "2008-2019",
     "games": 71,
-    "id": "113872"
+    "id": "113872",
+    "synced": true
   },
   {
     "higestRating": 2252,
@@ -44600,7 +44606,8 @@
     "name": "ALIAVDIN, Nikolai",
     "year": "2005-2021",
     "games": 68,
-    "id": "110949"
+    "id": "110949",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -48169,7 +48176,8 @@
     "name": "PIOCH, Zygmunt",
     "year": "1970-2012",
     "games": 61,
-    "id": "94951"
+    "id": "94951",
+    "synced": true
   },
   {
     "higestRating": 2396,
@@ -72773,7 +72781,8 @@
     "name": "MALYSHEV, Vasilij",
     "year": "1983-2007",
     "games": 31,
-    "id": "95423"
+    "id": "95423",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -98473,7 +98482,8 @@
     "name": "SINDLER, Michal",
     "year": "2011-2019",
     "games": 17,
-    "id": "161786"
+    "id": "161786",
+    "synced": true
   },
   {
     "higestRating": 2533,
@@ -105725,7 +105735,8 @@
     "name": "MONTCHALIN, Mike",
     "year": "1971-1987",
     "games": 11,
-    "id": "157615"
+    "id": "157615",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -105808,7 +105819,8 @@
     "name": "THIBAULT, James",
     "year": "1977-1988",
     "games": 10,
-    "id": "43182"
+    "id": "43182",
+    "synced": true
   },
   {
     "higestRating": 2223,
@@ -107524,7 +107536,8 @@
     "name": "SCHWARZKOPF, Christian",
     "year": "1987-1999",
     "games": 6,
-    "id": "33892"
+    "id": "33892",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -109312,7 +109325,8 @@
     "name": "SEPULVEDA, Luis",
     "year": "1991",
     "games": 2,
-    "id": "87226"
+    "id": "87226",
+    "synced": true
   },
   {
     "higestRating": 2212,

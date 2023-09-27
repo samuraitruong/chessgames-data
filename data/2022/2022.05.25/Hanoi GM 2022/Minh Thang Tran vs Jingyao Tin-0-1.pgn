@@ -1,0 +1,14 @@
+[Event "Hanoi GM 2022"]
+[Site "Hanoi VIE"]
+[Date "2022.05.25"]
+[EventDate "2022.05.24"]
+[Round "3.5"]
+[Result "0-1"]
+[White "Minh Thang Tran"]
+[Black "Jingyao Tin"]
+[ECO "D00"]
+[WhiteElo "2334"]
+[BlackElo "2499"]
+[PlyCount "72"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 e6 4. Nd2 Bd6 5. Bg3 O-O 6. Ngf3 c5 7. c3 Qc7 8. Bd3 Nbd7 9. Bxd6 Qxd6 10. O-O Rd8 11. Qc2 e5 12. dxe5 Nxe5 13. Nxe5 Qxe5 14. c4 dxc4 15. Nxc4 Qc7 16. a4 Be6 17. h3 h6 18. Rad1 Rd5 19. e4 Rd4 20. e5 Nd5 21. Bh7+ Kh8 22. Rxd4 cxd4 23. Nd6 g6 24. Bxg6 fxg6 25. Qxg6 Bg8 26. Qxh6+ Qh7 27. Qd2 Qh4 28. f4 Rf8 29. f5 Ne3 30. Rf2 Bd5 31. e6 Rg8 32. e7 Bxg2 33. e8=Q Rxe8 34. Nxe8 Bc6 35. Kh2 Ng4+ 36. Kg1 Nxf2 0-1

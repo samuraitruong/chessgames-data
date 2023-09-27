@@ -1,0 +1,14 @@
+[Event "Hanoi GM 2022"]
+[Site "Hanoi VIE"]
+[Date "2022.05.28"]
+[EventDate "2022.05.24"]
+[Round "8.3"]
+[Result "1/2-1/2"]
+[White "Paulo Bersamina"]
+[Black "Jingyao Tin"]
+[ECO "C44"]
+[WhiteElo "2441"]
+[BlackElo "2499"]
+[PlyCount "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Nd7 7. O-O Be7 8. Bxc6 bxc6 9. Nxd4 Nb8 10. c4 dxc4 11. Be3 1/2-1/2
