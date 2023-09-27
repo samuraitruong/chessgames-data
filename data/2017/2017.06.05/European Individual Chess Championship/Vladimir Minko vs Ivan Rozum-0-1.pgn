@@ -1,0 +1,14 @@
+[Event "European Individual Chess Championship"]
+[Site "Minsk BLR"]
+[Date "2017.06.05"]
+[EventDate "2017.05.30"]
+[Round "6.95"]
+[Result "0-1"]
+[White "Vladimir Minko"]
+[Black "Ivan Rozum"]
+[ECO "E00"]
+[WhiteElo "2438"]
+[BlackElo "2606"]
+[PlyCount "40"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 Qc7 6. b3 e5 7. Nf3 d5 8. cxd5 Bf5 9. Bb2 Bxb1 10. Qxb1 Bb4+ 11. Nd2 Bxd2+ 12. Kxd2 Qa5+ 13. Kc1 O-O 14. Bg2 Rc8+ 15. Kd1 Nxd5 16. b4 Nxb4 17. Bxb7 Rc2 18. Bc3 Qb5 19. Bf3 N8c6 20. Qb3 e4 0-1

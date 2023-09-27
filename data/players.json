@@ -5698,7 +5698,8 @@
     "name": "PURANIK, Abhimanyu",
     "year": "2007-2023",
     "games": 671,
-    "id": "134922"
+    "id": "134922",
+    "synced": true
   },
   {
     "higestRating": 2655,
@@ -8291,7 +8292,8 @@
     "name": "ROZUM, Ivan",
     "year": "2005-2022",
     "games": 472,
-    "id": "117790"
+    "id": "117790",
+    "synced": true
   },
   {
     "higestRating": 2631,
@@ -47681,7 +47683,8 @@
     "name": "VAZNONIS, Vytautas",
     "year": "2001-2012",
     "games": 62,
-    "id": "127938"
+    "id": "127938",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -53126,7 +53129,8 @@
     "name": "PHIRI, Richmond",
     "year": "2006-2022",
     "games": 52,
-    "id": "49014"
+    "id": "49014",
+    "synced": true
   },
   {
     "higestRating": 2403,
