@@ -64,7 +64,8 @@
     "name": "NAKAMURA, Hikaru",
     "year": "1995-2023",
     "games": 3591,
-    "id": "10084"
+    "id": "10084",
+    "synced": true
   },
   {
     "higestRating": 2777,
@@ -12862,7 +12863,8 @@
     "name": "VOROTNIKOV, Vladislav",
     "year": "1963-2019",
     "games": 301,
-    "id": "102929"
+    "id": "102929",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -14217,7 +14219,8 @@
     "name": "FRANZEN, Jozef",
     "year": "1965-2015",
     "games": 269,
-    "id": "24537"
+    "id": "24537",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -24134,7 +24137,8 @@
     "name": "NOKES, Roger I",
     "year": "1976-2009",
     "games": 149,
-    "id": "40480"
+    "id": "40480",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -26118,7 +26122,8 @@
     "name": "MISTA, Ladislav",
     "year": "1967-1998",
     "games": 133,
-    "id": "17510"
+    "id": "17510",
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -34351,7 +34356,8 @@
     "name": "DERLI, Olga",
     "year": "1997-2017",
     "games": 95,
-    "id": "66121"
+    "id": "66121",
+    "synced": true
   },
   {
     "higestRating": 2419,
@@ -103445,7 +103451,8 @@
     "name": "HUMBURG, Philipp",
     "year": "2016-2021",
     "games": 15,
-    "id": "157106"
+    "id": "157106",
+    "synced": true
   },
   {
     "higestRating": 2213,
@@ -105645,7 +105652,8 @@
     "name": "VAN DER SPEK, Hein Piet",
     "year": "1968-2000",
     "games": 10,
-    "id": "92393"
+    "id": "92393",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -106690,7 +106698,8 @@
     "name": "WAXMAN, Joseph",
     "year": "1985-1987",
     "games": 7,
-    "id": "21553"
+    "id": "21553",
+    "synced": true
   },
   {
     "higestRating": 2270,
