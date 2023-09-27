@@ -2493,7 +2493,8 @@
     "name": "VAN DER STERREN, Paul",
     "year": "1972-2011",
     "games": 1156,
-    "id": "37462"
+    "id": "37462",
+    "synced": true
   },
   {
     "higestRating": 2480,
@@ -28424,7 +28425,8 @@
     "name": "MISHRA, Neeraj-Kumar",
     "year": "1985-2017",
     "games": 119,
-    "id": "41989"
+    "id": "41989",
+    "synced": true
   },
   {
     "higestRating": 2439,
@@ -62021,7 +62023,8 @@
     "name": "RJANOVA, Valery",
     "year": "2009-2013",
     "games": 41,
-    "id": "121605"
+    "id": "121605",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -73099,7 +73102,8 @@
     "name": "KARAS, Marek",
     "year": "2015-2022",
     "games": 31,
-    "id": "160135"
+    "id": "160135",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -93087,7 +93091,8 @@
     "name": "BHARATHI, R",
     "year": "2011-2012",
     "games": 19,
-    "id": "131300"
+    "id": "131300",
+    "synced": true
   },
   {
     "higestRating": 2249,
