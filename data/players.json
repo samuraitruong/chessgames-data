@@ -13383,7 +13383,8 @@
     "name": "VUILLEUMIER, Alexandre",
     "year": "1999-2019",
     "games": 290,
-    "id": "51090"
+    "id": "51090",
+    "synced": true
   },
   {
     "higestRating": 2564,
@@ -13825,7 +13826,8 @@
     "name": "BASSO, Pier Luigi",
     "year": "2011-2023",
     "games": 281,
-    "id": "129394"
+    "id": "129394",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -33239,7 +33241,8 @@
     "name": "ACHILLES, Edgar",
     "year": "2011-2020",
     "games": 100,
-    "id": "166275"
+    "id": "166275",
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -33966,7 +33969,8 @@
     "name": "PINEDA, Sergio Minero",
     "year": "1988-2021",
     "games": 97,
-    "id": "49566"
+    "id": "49566",
+    "synced": true
   },
   {
     "higestRating": 2414,
@@ -64044,7 +64048,8 @@
     "name": "ALMEIDA, Rui Camejo",
     "year": "1987-2001",
     "games": 39,
-    "id": "69325"
+    "id": "69325",
+    "synced": true
   },
   {
     "higestRating": 2221,
@@ -68732,7 +68737,8 @@
     "name": "ALBARRAN, Gustavo",
     "year": "1996-2006",
     "games": 34,
-    "id": "42716"
+    "id": "42716",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -70110,7 +70116,8 @@
     "name": "MELLEGERS, Joost",
     "year": "1992-2007",
     "games": 33,
-    "id": "52201"
+    "id": "52201",
+    "synced": true
   },
   {
     "higestRating": 2363,
@@ -75353,7 +75360,8 @@
     "name": "HUESMANN, Thomas",
     "year": "1996-2019",
     "games": 29,
-    "id": "57758"
+    "id": "57758",
+    "synced": true
   },
   {
     "higestRating": 2239,
@@ -79458,7 +79466,8 @@
     "name": "VAN HERCK, Marcel",
     "year": "1973-2005",
     "games": 26,
-    "id": "36902"
+    "id": "36902",
+    "synced": true
   },
   {
     "higestRating": 2203,
@@ -80569,7 +80578,8 @@
     "name": "SPULBER, Cicirone",
     "year": "1992-2011",
     "games": 26,
-    "id": "133455"
+    "id": "133455",
+    "synced": true
   },
   {
     "higestRating": 2221,
@@ -87782,7 +87792,8 @@
     "name": "KERTESZ, Alfred",
     "year": "1970-2004",
     "games": 21,
-    "id": "26350"
+    "id": "26350",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -89387,7 +89398,8 @@
     "name": "RADKOV, Bazhen D",
     "year": "2012-2016",
     "games": 21,
-    "id": "141398"
+    "id": "141398",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -100364,7 +100376,8 @@
     "name": "MOREAU, Teodor",
     "year": "1988-2019",
     "games": 16,
-    "id": "95277"
+    "id": "95277",
+    "synced": true
   },
   {
     "higestRating": 2235,

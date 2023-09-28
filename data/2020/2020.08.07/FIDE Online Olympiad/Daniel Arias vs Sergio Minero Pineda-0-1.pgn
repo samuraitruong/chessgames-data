@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.07"]
+[EventDate "2020.08.07"]
+[Round "1"]
+[Result "0-1"]
+[White "Daniel Arias"]
+[Black "Sergio Minero Pineda"]
+[ECO "C07"]
+[WhiteElo "2074"]
+[BlackElo "2372"]
+[PlyCount "120"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O Nf6 8. Nb3 Nc6 9. Nbxd4 Nxd4 10. Nxd4 Qc7 11. Qe2 a6 12. Bb3 Bc5 13. Rd1 O-O 14. Bg5 Bd7 15. c3 Nd5 16. Bxd5 exd5 17. Qf3 Be6 18. Bf4 Qe7 19. Qg3 Qf6 20. Be5 Qg6 21. Qxg6 hxg6 22. Nxe6 fxe6 23. Bd4 Bxd4 24. Rxd4 Rac8 25. Re1 Rc6 26. f3 Rfc8 27. Kf2 Kf7 28. Rf4+ Ke7 29. Rb4 R8c7 30. Rd4 Kd6 31. Rg4 Rb6 32. Re2 Re7 33. Rxg6 a5 34. Rg4 Rc6 35. h4 b5 36. h5 Ra6 37. Rg6 Rb6 38. Rd2 Rc6 39. f4 b4 40. cxb4 axb4 41. f5 Rc4 42. fxe6 Rf4+ 43. Kg3 Re4 44. Rg4 Rxg4+ 45. Kxg4 Rxe6 46. Rd4 Kc5 47. Rd2 d4 48. Kf5 Re7 49. g4 Kc4 50. g5 d3 51. h6 gxh6 52. gxh6 Re2 53. Rd1 Rxb2 54. h7 Rh2 55. Kg6 Kc3 56. Kg7 Kc2 57. Rf1 d2 58. h8=Q Rxh8 59. Kxh8 d1=Q 60. Rxd1 Kxd1 0-1
