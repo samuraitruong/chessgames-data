@@ -7855,7 +7855,8 @@
     "name": "WARMERDAM, Max",
     "year": "2014-2023",
     "games": 495,
-    "id": "157318"
+    "id": "157318",
+    "synced": true
   },
   {
     "higestRating": 2520,
@@ -28486,7 +28487,8 @@
     "name": "GUTHRIE, David",
     "year": "1994-2018",
     "games": 120,
-    "id": "101214"
+    "id": "101214",
+    "synced": true
   },
   {
     "higestRating": 2257,
@@ -29143,7 +29145,8 @@
     "name": "HOLMSGAARD, Henrik",
     "year": "1980-2010",
     "games": 116,
-    "id": "46504"
+    "id": "46504",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -31334,7 +31337,8 @@
     "name": "NANJO, Ryosuke",
     "year": "2002-2018",
     "games": 107,
-    "id": "88630"
+    "id": "88630",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -40853,7 +40857,8 @@
     "name": "CAROW, Johannes",
     "year": "2010-2022",
     "games": 77,
-    "id": "134833"
+    "id": "134833",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -47137,7 +47142,8 @@
     "name": "FINGEROV, Dmitry",
     "year": "2000-2018",
     "games": 63,
-    "id": "52054"
+    "id": "52054",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -69396,7 +69402,8 @@
     "name": "ISSA, Rafat",
     "year": "2002-2021",
     "games": 34,
-    "id": "107030"
+    "id": "107030",
+    "synced": true
   },
   {
     "higestRating": 2326,
@@ -102970,7 +102977,8 @@
     "name": "BAKLANOV, Valentin",
     "year": "1998-2000",
     "games": 15,
-    "id": "90384"
+    "id": "90384",
+    "synced": true
   },
   {
     "higestRating": 2510,
