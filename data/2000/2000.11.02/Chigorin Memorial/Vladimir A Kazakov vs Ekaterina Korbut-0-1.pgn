@@ -1,0 +1,14 @@
+[Event "Chigorin Memorial"]
+[Site "St. Petersburg RUS"]
+[Date "2000.11.02"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Vladimir A Kazakov"]
+[Black "Ekaterina Korbut"]
+[ECO "A07"]
+[WhiteElo "2078"]
+[BlackElo "2336"]
+[PlyCount "34"]
+
+1.g3 d5 2.Bg2 Nf6 3.Nf3 b6 4.O-O Bb7 5.d3 e6 6.Nbd2 Nbd7 7.Re1 Bc5 8.e4 dxe4 9.dxe4 Ng4 10.Re2 Ndf6 11.Qe1 Nxf2 12.Rxf2 Ng4 13.Qe2 Bxf2+ 14.Kf1 Bc5 15.Nb3 Ba6 16.Qxa6 Qd1+ 17.Ne1 Nxh2# 0-1
