@@ -11712,7 +11712,8 @@
     "name": "DOROSHKEVICH, Vladimir",
     "year": "1964-2004",
     "games": 334,
-    "id": "17057"
+    "id": "17057",
+    "synced": true
   },
   {
     "higestRating": 2394,
@@ -15165,7 +15166,8 @@
     "name": "NEUKIRCH, Detlef",
     "year": "1957-2006",
     "games": 254,
-    "id": "70808"
+    "id": "70808",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -18190,7 +18192,8 @@
     "name": "ROCHA, Sergio",
     "year": "1991-2021",
     "games": 208,
-    "id": "19932"
+    "id": "19932",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -31273,7 +31276,8 @@
     "name": "GHANE, Shojaat",
     "year": "1994-2017",
     "games": 107,
-    "id": "52581"
+    "id": "52581",
+    "synced": true
   },
   {
     "higestRating": 2382,
@@ -48258,7 +48262,8 @@
     "name": "RAMIREZ, Rocio Vasquez",
     "year": "1996-2014",
     "games": 61,
-    "id": "88985"
+    "id": "88985",
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -54269,7 +54274,8 @@
     "name": "YAKUBBAEVA, Nilufar",
     "year": "2016-2023",
     "games": 51,
-    "id": "155669"
+    "id": "155669",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -78046,7 +78052,8 @@
     "name": "KOMNENIC, Branko",
     "year": "1976-2015",
     "games": 27,
-    "id": "44495"
+    "id": "44495",
+    "synced": true
   },
   {
     "higestRating": 2284,
@@ -82772,7 +82779,8 @@
     "name": "GONZALEZ, Sergio",
     "year": "1977-2001",
     "games": 24,
-    "id": "27267"
+    "id": "27267",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -94601,7 +94609,8 @@
     "name": "TUOMALA, Timo",
     "year": "1992-2011",
     "games": 18,
-    "id": "51763"
+    "id": "51763",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -101973,7 +101982,8 @@
     "name": "IZQUIERDO, Alejandro Ortega",
     "year": "1988-1999",
     "games": 15,
-    "id": "45932"
+    "id": "45932",
+    "synced": true
   },
   {
     "higestRating": 2240,
