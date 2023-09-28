@@ -16519,7 +16519,8 @@
     "name": "TOMASZEWSKI, Roman",
     "year": "1979-2020",
     "games": 230,
-    "id": "29179"
+    "id": "29179",
+    "synced": true
   },
   {
     "higestRating": 2456,
@@ -22565,7 +22566,8 @@
     "name": "JURKOVIC, Ante",
     "year": "1987-2018",
     "games": 162,
-    "id": "47380"
+    "id": "47380",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -23620,7 +23622,8 @@
     "name": "SAEED, Ishaq",
     "year": "2003-2023",
     "games": 154,
-    "id": "83891"
+    "id": "83891",
+    "synced": true
   },
   {
     "higestRating": 2468,
@@ -30259,7 +30262,8 @@
     "name": "VAN DEN BERG, Adrianus M J",
     "year": "1963-2011",
     "games": 111,
-    "id": "10927"
+    "id": "10927",
+    "synced": true
   },
   {
     "higestRating": 2329,
@@ -33966,7 +33970,8 @@
     "name": "TALEB, Moussa",
     "year": "1987-2014",
     "games": 97,
-    "id": "47159"
+    "id": "47159",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -41478,7 +41483,8 @@
     "name": "TIMMERMANS, Ivo",
     "year": "1988-2017",
     "games": 75,
-    "id": "52230"
+    "id": "52230",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -47809,7 +47815,8 @@
     "name": "KALVAITIS, Sigitas",
     "year": "2007-2017",
     "games": 62,
-    "id": "110026"
+    "id": "110026",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -60937,7 +60944,8 @@
     "name": "GOLDBERG, Alexander",
     "year": "1981-2008",
     "games": 42,
-    "id": "33005"
+    "id": "33005",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -63079,7 +63087,8 @@
     "name": "KALININ, Oleg",
     "year": "1986-2015",
     "games": 40,
-    "id": "58164"
+    "id": "58164",
+    "synced": true
   },
   {
     "higestRating": 2555,
@@ -78005,7 +78014,8 @@
     "name": "PAGLIETTI, Nicola",
     "year": "1984-2006",
     "games": 27,
-    "id": "30845"
+    "id": "30845",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -78163,7 +78173,8 @@
     "name": "IGRIASHVILI, Zurab",
     "year": "1991-2004",
     "games": 27,
-    "id": "50218"
+    "id": "50218",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -78486,7 +78497,8 @@
     "name": "BATINIC, Predrag",
     "year": "2001-2022",
     "games": 27,
-    "id": "81384"
+    "id": "81384",
+    "synced": true
   },
   {
     "higestRating": 2203,
@@ -84088,7 +84100,8 @@
     "name": "WEISHAEUTEL, Moritz",
     "year": "2015-2022",
     "games": 24,
-    "id": "152309"
+    "id": "152309",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -90800,7 +90813,8 @@
     "name": "GRBIC, Milorad",
     "year": "1994-2008",
     "games": 20,
-    "id": "91595"
+    "id": "91595",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -95924,7 +95938,8 @@
     "name": "SOPRANO, Paolo",
     "year": "1984-1998",
     "games": 18,
-    "id": "128551"
+    "id": "128551",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -99371,7 +99386,8 @@
     "name": "SCHERER, Helmut",
     "year": "1988-2004",
     "games": 16,
-    "id": "49329"
+    "id": "49329",
+    "synced": true
   },
   {
     "higestRating": 2338,
@@ -101306,7 +101322,8 @@
     "name": "ZETTHOFER, Gerald",
     "year": "1994-2006",
     "games": 16,
-    "id": "148024"
+    "id": "148024",
+    "synced": true
   },
   {
     "higestRating": 2339,
