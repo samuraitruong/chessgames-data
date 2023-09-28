@@ -3667,7 +3667,8 @@
     "name": "DZINDZICHASHVILI, Roman",
     "year": "1957-2009",
     "games": 928,
-    "id": "14270"
+    "id": "14270",
+    "synced": true
   },
   {
     "higestRating": 2610,
@@ -80911,7 +80912,8 @@
     "name": "GALANOV, Boris",
     "year": "1988-1994",
     "games": 25,
-    "id": "26332"
+    "id": "26332",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -83328,7 +83330,8 @@
     "name": "ALEKSEEVA, Alena",
     "year": "2001-2009",
     "games": 24,
-    "id": "71943"
+    "id": "71943",
+    "synced": true
   },
   {
     "higestRating": 2302,
@@ -86433,7 +86436,8 @@
     "name": "CURIEN, Nicolas",
     "year": "2001-2017",
     "games": 22,
-    "id": "58637"
+    "id": "58637",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -106371,7 +106375,8 @@
     "name": "LINDH, Fredrik",
     "year": "1992-2023",
     "games": 10,
-    "id": "140722"
+    "id": "140722",
+    "synced": true
   },
   {
     "higestRating": 2290,
