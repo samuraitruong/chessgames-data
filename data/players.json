@@ -2992,7 +2992,8 @@
     "name": "MIKHALEVSKI, Victor",
     "year": "1990-2022",
     "games": 1049,
-    "id": "17132"
+    "id": "17132",
+    "synced": true
   },
   {
     "higestRating": 2570,
@@ -25064,7 +25065,8 @@
     "name": "SAGALCHIK, Gennadij",
     "year": "1983-2011",
     "games": 142,
-    "id": "23398"
+    "id": "23398",
+    "synced": true
   },
   {
     "higestRating": 2269,
@@ -30304,7 +30306,8 @@
     "name": "NILSSON, Nils Specht",
     "year": "1979-2004",
     "games": 111,
-    "id": "33998"
+    "id": "33998",
+    "synced": true
   },
   {
     "higestRating": 2485,
@@ -66944,7 +66947,8 @@
     "name": "DASARI, Sai Srinivas",
     "year": "2000-2007",
     "games": 36,
-    "id": "95814"
+    "id": "95814",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -69659,7 +69663,8 @@
     "name": "KACZMAREK, Aleksander",
     "year": "2013-2021",
     "games": 34,
-    "id": "155776"
+    "id": "155776",
+    "synced": true
   },
   {
     "higestRating": 2352,
@@ -70950,7 +70955,8 @@
     "name": "HAAS, Georges",
     "year": "1975-1993",
     "games": 32,
-    "id": "24703"
+    "id": "24703",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -75348,7 +75354,8 @@
     "name": "EMODI, Gyula",
     "year": "1985-2013",
     "games": 29,
-    "id": "60506"
+    "id": "60506",
+    "synced": true
   },
   {
     "higestRating": 2414,

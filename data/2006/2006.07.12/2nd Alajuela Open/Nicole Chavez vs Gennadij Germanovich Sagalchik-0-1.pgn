@@ -1,0 +1,14 @@
+[Event "2nd Alajuela Open"]
+[Site "Alajuela CRC"]
+[Date "2006.07.12"]
+[EventDate "2006.07.12"]
+[Round "1"]
+[Result "0-1"]
+[White "Nicole Chavez"]
+[Black "Gennadij Germanovich Sagalchik"]
+[ECO "C46"]
+[WhiteElo "?"]
+[BlackElo "2460"]
+[PlyCount "40"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Nxe4 5. Nxe4 d5 6. Bd3 dxe4 7. Bxe4 Bd6 8. d3 Ne7 9. O-O f5 10. Bg5 fxe4 11. Bxe7 Qxe7 12. dxe4 O-O 13. Qd5+ Kh8 14. g3 Rxf3 15. Rad1 Bh3 16. Rd3 Qf6 17. Qxb7 Rf8 18. Qxa7 Rxd3 19. cxd3 Qf3 20. d4 Qg2# 0-1
