@@ -10232,7 +10232,8 @@
     "name": "SOWRAY, Peter John",
     "year": "1977-2022",
     "games": 385,
-    "id": "29080"
+    "id": "29080",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -13927,7 +13928,8 @@
     "name": "SHADRINA, Tatiana",
     "year": "1993-2014",
     "games": 278,
-    "id": "58125"
+    "id": "58125",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -15632,7 +15634,8 @@
     "name": "NORRI, Joose",
     "year": "1987-2019",
     "games": 246,
-    "id": "34976"
+    "id": "34976",
+    "synced": true
   },
   {
     "higestRating": 2577,
@@ -36516,7 +36519,8 @@
     "name": "GLIMBRANT, Torbjorn",
     "year": "1980-2019",
     "games": 88,
-    "id": "45869"
+    "id": "45869",
+    "synced": true
   },
   {
     "higestRating": 2231,
@@ -54854,7 +54858,8 @@
     "name": "MACKINNON, Keith",
     "year": "2004-2023",
     "games": 50,
-    "id": "111438"
+    "id": "111438",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -54966,7 +54971,8 @@
     "name": "CHASIN, Nico",
     "year": "2016-2023",
     "games": 50,
-    "id": "156254"
+    "id": "156254",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -75980,7 +75986,8 @@
     "name": "ZYSKO, Jan",
     "year": "2007-2022",
     "games": 29,
-    "id": "126596"
+    "id": "126596",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -76241,7 +76248,8 @@
     "name": "BRATKOVIC, Sham",
     "year": "2014-2022",
     "games": 29,
-    "id": "159096"
+    "id": "159096",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -88697,7 +88705,8 @@
     "name": "KOCIC, Sasa",
     "year": "2003-2010",
     "games": 21,
-    "id": "91021"
+    "id": "91021",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -92335,7 +92344,8 @@
     "name": "VALDES, Luis Enrique",
     "year": "1988-2006",
     "games": 19,
-    "id": "49091"
+    "id": "49091",
+    "synced": true
   },
   {
     "higestRating": 2366,
@@ -95264,7 +95274,8 @@
     "name": "MAKHARADZE, Jambul",
     "year": "1996-2014",
     "games": 18,
-    "id": "91946"
+    "id": "91946",
+    "synced": true
   },
   {
     "higestRating": 2307,
@@ -102898,7 +102909,8 @@
     "name": "KASHLYUK, Victor",
     "year": "1963-1998",
     "games": 15,
-    "id": "90573"
+    "id": "90573",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -105049,7 +105061,8 @@
     "name": "CATURLA, Cesar",
     "year": "1974-2010",
     "games": 12,
-    "id": "42423"
+    "id": "42423",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -107750,7 +107763,8 @@
     "name": "MATE, Laszlo",
     "year": "1990-1997",
     "games": 6,
-    "id": "17091"
+    "id": "17091",
+    "synced": true
   },
   {
     "higestRating": 2250,
