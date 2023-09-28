@@ -7519,7 +7519,8 @@
     "name": "GEORGIADIS, Nico",
     "year": "2006-2022",
     "games": 511,
-    "id": "113638"
+    "id": "113638",
+    "synced": true
   },
   {
     "higestRating": 2520,
@@ -7909,7 +7910,8 @@
     "name": "SANGUINETI, Raul",
     "year": "1949-1978",
     "games": 490,
-    "id": "23577"
+    "id": "23577",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -20855,7 +20857,8 @@
     "name": "RESHETNIKOV, Alexey",
     "year": "2000-2019",
     "games": 178,
-    "id": "95726"
+    "id": "95726",
+    "synced": true
   },
   {
     "higestRating": 2554,
@@ -46767,7 +46770,8 @@
     "name": "KRAMER, Julian",
     "year": "2012-2022",
     "games": 64,
-    "id": "138897"
+    "id": "138897",
+    "synced": true
   },
   {
     "higestRating": 2224,
@@ -63598,7 +63602,8 @@
     "name": "LITTKE, Adam",
     "year": "1985-1995",
     "games": 39,
-    "id": "16401"
+    "id": "16401",
+    "synced": true
   },
   {
     "higestRating": 2267,
@@ -90339,7 +90344,8 @@
     "name": "BRAUN, Vitali",
     "year": "2000-2023",
     "games": 20,
-    "id": "68672"
+    "id": "68672",
+    "synced": true
   },
   {
     "higestRating": 2222,
