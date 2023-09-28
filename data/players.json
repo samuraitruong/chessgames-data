@@ -3071,7 +3071,8 @@
     "name": "GALKIN, Alexander",
     "year": "1990-2019",
     "games": 1034,
-    "id": "18290"
+    "id": "18290",
+    "synced": true
   },
   {
     "higestRating": 2618,
@@ -22291,7 +22292,8 @@
     "name": "FROLIK, Erhard",
     "year": "1978-2019",
     "games": 165,
-    "id": "29888"
+    "id": "29888",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -25654,7 +25656,8 @@
     "name": "PRASAD, Dhulipalla Bala Chandra",
     "year": "2014-2023",
     "games": 139,
-    "id": "151556"
+    "id": "151556",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -25763,7 +25766,8 @@
     "name": "JAVAKHADZE, Zurab",
     "year": "2003-2022",
     "games": 138,
-    "id": "95926"
+    "id": "95926",
+    "synced": true
   },
   {
     "higestRating": 2505,
@@ -59515,7 +59519,8 @@
     "name": "TAEGER, Winfried",
     "year": "1963-2001",
     "games": 44,
-    "id": "71234"
+    "id": "71234",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -69092,7 +69097,8 @@
     "name": "DEUTSCH, Eyal",
     "year": "1999-2023",
     "games": 34,
-    "id": "58236"
+    "id": "58236",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -98711,7 +98717,8 @@
     "name": "REZASADE, Amir",
     "year": "2004-2019",
     "games": 17,
-    "id": "145787"
+    "id": "145787",
+    "synced": true
   },
   {
     "higestRating": 2377,
