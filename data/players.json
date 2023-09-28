@@ -1040,7 +1040,8 @@
     "name": "WOJTASZEK, Radoslaw",
     "year": "1996-2023",
     "games": 1677,
-    "id": "54492"
+    "id": "54492",
+    "synced": true
   },
   {
     "higestRating": 2590,
@@ -71751,7 +71752,8 @@
     "name": "SNIHUR, Piotr",
     "year": "2010-2021",
     "games": 32,
-    "id": "134711"
+    "id": "134711",
+    "synced": true
   },
   {
     "higestRating": 2265,
