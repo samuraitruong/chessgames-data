@@ -2079,7 +2079,8 @@
     "name": "HECTOR, Jonny",
     "year": "1983-2021",
     "games": 1253,
-    "id": "16293"
+    "id": "16293",
+    "synced": true
   },
   {
     "higestRating": 2656,
@@ -9755,7 +9756,8 @@
     "name": "KARTTUNEN, Mika",
     "year": "1996-2022",
     "games": 402,
-    "id": "49861"
+    "id": "49861",
+    "synced": true
   },
   {
     "higestRating": 2569,
@@ -20381,7 +20383,8 @@
     "name": "DAVTYAN, Artur",
     "year": "2014-2023",
     "games": 183,
-    "id": "149290"
+    "id": "149290",
+    "synced": true
   },
   {
     "higestRating": 2451,
@@ -32982,7 +32985,8 @@
     "name": "MOUSAVI, Seyed Khalil",
     "year": "2012-2023",
     "games": 101,
-    "id": "143115"
+    "id": "143115",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -37528,7 +37532,8 @@
     "name": "RUSSELL, M K A",
     "year": "2001-2013",
     "games": 85,
-    "id": "79906"
+    "id": "79906",
+    "synced": true
   },
   {
     "higestRating": 2379,
@@ -40637,7 +40642,8 @@
     "name": "PFRETZSCHNER, Roland",
     "year": "1978-2013",
     "games": 77,
-    "id": "52732"
+    "id": "52732",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -47122,7 +47128,8 @@
     "name": "MENONI, Vincenzo",
     "year": "1994-2002",
     "games": 63,
-    "id": "54030"
+    "id": "54030",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -56680,7 +56687,8 @@
     "name": "KAHLERT, Thomas",
     "year": "1986-2018",
     "games": 47,
-    "id": "35202"
+    "id": "35202",
+    "synced": true
   },
   {
     "higestRating": 2447,
@@ -104662,7 +104670,8 @@
     "name": "ROSENBERG, Evan",
     "year": "2001-2022",
     "games": 13,
-    "id": "53315"
+    "id": "53315",
+    "synced": true
   },
   {
     "higestRating": 2307,
