@@ -4099,7 +4099,8 @@
     "name": "STELLWAGEN, Daniel",
     "year": "1996-2013",
     "games": 852,
-    "id": "50906"
+    "id": "50906",
+    "synced": true
   },
   {
     "higestRating": 2606,
@@ -27820,7 +27821,8 @@
     "name": "MESZAROS, Michal",
     "year": "1997-2019",
     "games": 123,
-    "id": "53523"
+    "id": "53523",
+    "synced": true
   },
   {
     "higestRating": 2454,
@@ -38420,7 +38422,8 @@
     "name": "WEEKS, Manuel",
     "year": "1987-2014",
     "games": 82,
-    "id": "12055"
+    "id": "12055",
+    "synced": true
   },
   {
     "higestRating": 2308,

@@ -1,0 +1,14 @@
+[Event "Soest open"]
+[Site "Soest NED"]
+[Date "2001.05.26"]
+[EventDate "?"]
+[Round "5.4"]
+[Result "0-1"]
+[White "Johan Engelen"]
+[Black "Daniel Stellwagen"]
+[ECO "C02"]
+[WhiteElo "1911"]
+[BlackElo "2310"]
+[PlyCount "60"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Nge7 6.Bd3 cxd4 7.cxd4 Nf5 8.Bxf5 exf5 9.O-O Be7 10.Nc3 Be6 11.a3 O-O 12.Be3 Na5 13.b3 b6 14.Ne2 h6 15.Qd3 Qd7 16.h4 Rfc8 17.Rfc1 Rxc1+ 18.Bxc1 Rc8 19.h5 Qc6 20.Ne1 Bd7 21.Bd2 Qb5 22.Bxa5 Qxa5 23.f4 Bb5 24.Qxf5 Rc6 25.Kf2 Qd2 26.Nf3 Qxe2+ 27.Kg3 Rc2 28.Rg1 Qf2+ 29.Kh3 Rc3 30.e6 Qh4# 0-1
