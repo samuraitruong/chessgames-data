@@ -1832,7 +1832,8 @@
     "name": "BILEK, Istvan",
     "year": "1954-1998",
     "games": 1328,
-    "id": "15220"
+    "id": "15220",
+    "synced": true
   },
   {
     "higestRating": 2660,
@@ -61272,7 +61273,8 @@
     "name": "BIBBY, Simon",
     "year": "1990-2022",
     "games": 42,
-    "id": "88628"
+    "id": "88628",
+    "synced": true
   },
   {
     "higestRating": 2236,
@@ -97394,7 +97396,8 @@
     "name": "UROSEVIC, Radojko",
     "year": "1983-2013",
     "games": 17,
-    "id": "85436"
+    "id": "85436",
+    "synced": true
   },
   {
     "higestRating": 2317,
