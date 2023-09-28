@@ -1,0 +1,15 @@
+[Event "Buenos Aires Olympiad"]
+[Site "Buenos Aires ARG"]
+[Date "1978.11.06"]
+[EventDate "1978.10.25"]
+[Round "11"]
+[Result "0-1"]
+[White "Carlos Ruben Vasquez Horna"]
+[Black "Nicolas Giffard"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "2365"]
+[Source "Olimpbase"]
+[PlyCount "42"]
+
+1.d4 Nf6 2.Nc3 d5 3.Bg5 Nbd7 4.f3 c6 5.e4 dxe4 6.fxe4 e5 7.dxe5 Qa5 8.Bxf6 gxf6 9.e6 fxe6 10.Bc4 Bb4 11.Ne2 Ne5 12.Bb3 Ng4 13.a3 Bc5 14.Nd4 e5 15.Nb5 Ke7 16.Qd2 Qd8 17.Qe2 Ne3 18.Qh5 Be6 19.Bxe6 Kxe6 20.Qh3+ Ke7 21.Qh6 Qf8 0-1
