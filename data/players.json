@@ -3904,7 +3904,8 @@
     "name": "AMIN, Bassem",
     "year": "1998-2023",
     "games": 890,
-    "id": "87335"
+    "id": "87335",
+    "synced": true
   },
   {
     "higestRating": 2627,
@@ -42701,7 +42702,8 @@
     "name": "ZARUBIN, Pavel",
     "year": "1981-2006",
     "games": 72,
-    "id": "46473"
+    "id": "46473",
+    "synced": true
   },
   {
     "higestRating": 2352,
@@ -59637,7 +59639,8 @@
     "name": "BOVE, Alessandro",
     "year": "2003-2018",
     "games": 44,
-    "id": "95758"
+    "id": "95758",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -106268,7 +106271,8 @@
     "name": "CHIRICUTA, Marius",
     "year": "1968-2001",
     "games": 10,
-    "id": "55799"
+    "id": "55799",
+    "synced": true
   },
   {
     "higestRating": 2237,
