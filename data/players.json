@@ -5854,7 +5854,8 @@
     "name": "CIRIC, Dragoljub",
     "year": "1955-2011",
     "games": 657,
-    "id": "25818"
+    "id": "25818",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -28178,7 +28179,8 @@
     "name": "MOINGT, Anne",
     "year": "1996-2012",
     "games": 121,
-    "id": "65406"
+    "id": "65406",
+    "synced": true
   },
   {
     "higestRating": 2226,
@@ -31946,7 +31948,8 @@
     "name": "DREI, Andrea",
     "year": "1984-2019",
     "games": 104,
-    "id": "10980"
+    "id": "10980",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -36816,7 +36819,8 @@
     "name": "DELANEY, Killian",
     "year": "2001-2022",
     "games": 87,
-    "id": "50653"
+    "id": "50653",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -89948,7 +89952,8 @@
     "name": "CANIBAL, Jaromir",
     "year": "1994-2011",
     "games": 20,
-    "id": "51863"
+    "id": "51863",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -91597,7 +91602,8 @@
     "name": "BANERJEE, Bitan",
     "year": "2010-2016",
     "games": 20,
-    "id": "155009"
+    "id": "155009",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -91672,7 +91678,8 @@
     "name": "CIROVIC, Miroljub",
     "year": "2017-2019",
     "games": 20,
-    "id": "159213"
+    "id": "159213",
+    "synced": true
   },
   {
     "higestRating": 2373,
@@ -93011,7 +93018,8 @@
     "name": "ANGELOV, Georgi",
     "year": "1990-2013",
     "games": 19,
-    "id": "100964"
+    "id": "100964",
+    "synced": true
   },
   {
     "higestRating": 2221,
@@ -109118,7 +109126,8 @@
     "name": "DELEKTA, Filip",
     "year": "2010-2011",
     "games": 3,
-    "id": "128324"
+    "id": "128324",
+    "synced": true
   },
   {
     "higestRating": 2326,
