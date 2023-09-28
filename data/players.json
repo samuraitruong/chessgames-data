@@ -6651,7 +6651,8 @@
     "name": "VAN DEN DOEL, Erik",
     "year": "1992-2023",
     "games": 582,
-    "id": "42404"
+    "id": "42404",
+    "synced": true
   },
   {
     "higestRating": 2644,
@@ -11635,7 +11636,8 @@
     "name": "MOVSESIAN, Julia",
     "year": "1996-2022",
     "games": 337,
-    "id": "55595"
+    "id": "55595",
+    "synced": true
   },
   {
     "higestRating": 2389,
@@ -47588,7 +47590,8 @@
     "name": "PETRIENKO, Vladimir",
     "year": "1980-2004",
     "games": 62,
-    "id": "26179"
+    "id": "26179",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -48624,7 +48627,8 @@
     "name": "HORN, Pascal",
     "year": "1984-2001",
     "games": 60,
-    "id": "29004"
+    "id": "29004",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -54845,7 +54849,8 @@
     "name": "HANEL, Reinhard",
     "year": "1988-2002",
     "games": 50,
-    "id": "93946"
+    "id": "93946",
+    "synced": true
   },
   {
     "higestRating": 2333,
@@ -70766,7 +70771,8 @@
     "name": "MICHAILOV, Matias",
     "year": "2009-2020",
     "games": 33,
-    "id": "124385"
+    "id": "124385",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -76876,7 +76882,8 @@
     "name": "SCHUNK, Eduard",
     "year": "1998-2006",
     "games": 28,
-    "id": "54142"
+    "id": "54142",
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -96788,7 +96795,8 @@
     "name": "PEROVIC, Dragan",
     "year": "1971-1996",
     "games": 17,
-    "id": "27513"
+    "id": "27513",
+    "synced": true
   },
   {
     "higestRating": 2335,
