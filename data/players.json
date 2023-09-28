@@ -3774,7 +3774,8 @@
     "name": "IORDACHESCU, Viorel",
     "year": "1992-2022",
     "games": 911,
-    "id": "17882"
+    "id": "17882",
+    "synced": true
   },
   {
     "higestRating": 2623,
@@ -37128,7 +37129,8 @@
     "name": "MINIBOECK, Guenter",
     "year": "1985-2002",
     "games": 86,
-    "id": "19924"
+    "id": "19924",
+    "synced": true
   },
   {
     "higestRating": 2249,
@@ -76335,7 +76337,8 @@
     "name": "MICA, Marek",
     "year": "2019-2023",
     "games": 29,
-    "id": "170715"
+    "id": "170715",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -86459,7 +86462,8 @@
     "name": "CASTANO, Duvan Martin",
     "year": "2000-2009",
     "games": 22,
-    "id": "57891"
+    "id": "57891",
+    "synced": true
   },
   {
     "higestRating": 2214,
@@ -99597,7 +99601,8 @@
     "name": "MELA, Benjamin",
     "year": "1999-2005",
     "games": 16,
-    "id": "57137"
+    "id": "57137",
+    "synced": true
   },
   {
     "higestRating": 2250,
