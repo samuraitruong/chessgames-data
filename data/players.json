@@ -258,7 +258,8 @@
     "name": "UHLMANN, Wolfgang",
     "year": "1951-2016",
     "games": 2587,
-    "id": "11804"
+    "id": "11804",
+    "synced": true
   },
   {
     "higestRating": 2822,
@@ -40441,7 +40442,8 @@
     "name": "QUANG, Kim Le",
     "year": "1990-2019",
     "games": 77,
-    "id": "26796"
+    "id": "26796",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -54261,7 +54263,8 @@
     "name": "RUANO, Adrian Jimenez",
     "year": "2017-2022",
     "games": 51,
-    "id": "163716"
+    "id": "163716",
+    "synced": true
   },
   {
     "higestRating": 2204,
@@ -82825,7 +82828,8 @@
     "name": "JOHNSON, Joel",
     "year": "1975-2015",
     "games": 24,
-    "id": "43200"
+    "id": "43200",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -89450,7 +89454,8 @@
     "name": "KOELLE, Tobias",
     "year": "2021-2023",
     "games": 21,
-    "id": "175401"
+    "id": "175401",
+    "synced": true
   },
   {
     "higestRating": 2374,
