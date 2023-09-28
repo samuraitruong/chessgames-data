@@ -9509,7 +9509,8 @@
     "name": "SIDEIFZADE, Fikret",
     "year": "1972-2006",
     "games": 410,
-    "id": "29654"
+    "id": "29654",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -10027,7 +10028,8 @@
     "name": "AMBROZ, Jan",
     "year": "1973-1995",
     "games": 393,
-    "id": "24612"
+    "id": "24612",
+    "synced": true
   },
   {
     "higestRating": 2643,
@@ -27284,7 +27286,8 @@
     "name": "FEUERSTACK, Aljoscha",
     "year": "2002-2023",
     "games": 127,
-    "id": "104921"
+    "id": "104921",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -59340,7 +59343,8 @@
     "name": "BRZESKI, Maciej",
     "year": "2001-2015",
     "games": 44,
-    "id": "54695"
+    "id": "54695",
+    "synced": true
   },
   {
     "higestRating": 2334,
@@ -67191,7 +67195,8 @@
     "name": "RAMIREZ, Miguel Angel Alvarez",
     "year": "2007-2016",
     "games": 36,
-    "id": "113315"
+    "id": "113315",
+    "synced": true
   },
   {
     "higestRating": 2258,
@@ -68663,7 +68668,8 @@
     "name": "AGUDELO, Antonio",
     "year": "1978-2000",
     "games": 34,
-    "id": "22494"
+    "id": "22494",
+    "synced": true
   },
   {
     "higestRating": 2344,
@@ -83942,7 +83948,8 @@
     "name": "PADROS, Emili Simon",
     "year": "1965-2012",
     "games": 24,
-    "id": "118508"
+    "id": "118508",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -103494,7 +103501,8 @@
     "name": "SHAPIRO, Boris",
     "year": "1983-2002",
     "games": 15,
-    "id": "108503"
+    "id": "108503",
+    "synced": true
   },
   {
     "higestRating": 2210,
