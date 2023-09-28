@@ -1,0 +1,15 @@
+[Event "BRA-ch"]
+[Site "Rio de Janeiro BRA"]
+[Date "1958.12.??"]
+[EventDate "1958.12.00"]
+[Round "?"]
+[Result "1-0"]
+[White "Helder Camara"]
+[Black "Jose Thiago Mangini"]
+[ECO "D44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Amatzia Avni, Devious Chess, p. 33-34"]
+[PlyCount "35"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 e6 5.Bg5 dxc4 6.e4 Qa5 7.Bxf6 gxf6 8.Bxc4 Bg7 9.Qe2 O-O 10.O-O Qh5 11.g4 Qxg4+ 12.Kh1 Nd7 13.Rg1 Qh5 14.Rg3 Kh8 15.Rag1 Rg8 16.Ne5 Qxe5 17.dxe5 fxe5 18.Qh5 1-0

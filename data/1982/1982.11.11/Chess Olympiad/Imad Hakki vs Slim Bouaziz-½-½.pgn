@@ -1,0 +1,15 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.11.11"]
+[EventDate "1982.10.30"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Imad Hakki"]
+[Black "Slim Bouaziz"]
+[ECO "B97"]
+[WhiteElo "2310"]
+[BlackElo "2360"]
+[Source "Olimpbase"]
+[PlyCount "36"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Qxb2 9.Rb1 Qa3 10.f5 Nc6 11.fxe6 fxe6 12.Nxc6 bxc6 13.e5 dxe5 14.Bxf6 gxf6 15.Ne4 Qxa2 16.Rd1 Be7 17.Be2 O-O 18.O-O f5 1/2-1/2

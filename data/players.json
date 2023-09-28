@@ -8601,7 +8601,8 @@
     "name": "CAMARA, Helder",
     "year": "1958-2000",
     "games": 457,
-    "id": "28589"
+    "id": "28589",
+    "synced": true
   },
   {
     "higestRating": 2508,
@@ -11334,7 +11335,8 @@
     "name": "BOUAZIZ, Slim",
     "year": "1965-2015",
     "games": 345,
-    "id": "16990"
+    "id": "16990",
+    "synced": true
   },
   {
     "higestRating": 2489,
@@ -16653,7 +16655,8 @@
     "name": "ZHIDKOV, Valery S",
     "year": "1964-2012",
     "games": 227,
-    "id": "26969"
+    "id": "26969",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -48148,7 +48151,8 @@
     "name": "MOISEEV, Viktor",
     "year": "1968-2016",
     "games": 61,
-    "id": "69518"
+    "id": "69518",
+    "synced": true
   },
   {
     "higestRating": 2443,
@@ -63048,7 +63052,8 @@
     "name": "KODENTSOV, Grigori",
     "year": "2001-2009",
     "games": 40,
-    "id": "70622"
+    "id": "70622",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -76411,7 +76416,8 @@
     "name": "LALEV, Dimitar",
     "year": "1982-2011",
     "games": 28,
-    "id": "28325"
+    "id": "28325",
+    "synced": true
   },
   {
     "higestRating": 2234,
@@ -88209,7 +88215,8 @@
     "name": "KERKMEESTER, Heico",
     "year": "1978-2001",
     "games": 21,
-    "id": "57174"
+    "id": "57174",
+    "synced": true
   },
   {
     "higestRating": 2282,
