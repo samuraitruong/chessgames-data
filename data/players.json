@@ -2733,7 +2733,8 @@
     "name": "KORNEEV, Oleg",
     "year": "1991-2023",
     "games": 1110,
-    "id": "18187"
+    "id": "18187",
+    "synced": true
   },
   {
     "higestRating": 2671,
@@ -80987,7 +80988,8 @@
     "name": "LAZOVIC, Gordan",
     "year": "1993-1999",
     "games": 25,
-    "id": "12663"
+    "id": "12663",
+    "synced": true
   },
   {
     "higestRating": 2351,
