@@ -1087,7 +1087,8 @@
     "name": "KOROBOV, Anton",
     "year": "1998-2023",
     "games": 1644,
-    "id": "49462"
+    "id": "49462",
+    "synced": true
   },
   {
     "higestRating": 2733,
@@ -10007,7 +10008,8 @@
     "name": "AGREST, Inna",
     "year": "2005-2022",
     "games": 395,
-    "id": "96112"
+    "id": "96112",
+    "synced": true
   },
   {
     "higestRating": 2642,
@@ -59403,7 +59405,8 @@
     "name": "LOEFFLER, Markus",
     "year": "1987-2021",
     "games": 44,
-    "id": "58642"
+    "id": "58642",
+    "synced": true
   },
   {
     "higestRating": 2269,
@@ -62368,7 +62371,8 @@
     "name": "ROSIC, Slavko S",
     "year": "1989-2017",
     "games": 41,
-    "id": "100967"
+    "id": "100967",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -100059,7 +100063,8 @@
     "name": "LENZ, Thomas",
     "year": "1987-2001",
     "games": 16,
-    "id": "71318"
+    "id": "71318",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -108125,7 +108130,8 @@
     "name": "RUTHEN, Stephen W",
     "year": "1988-1993",
     "games": 6,
-    "id": "90528"
+    "id": "90528",
+    "synced": true
   },
   {
     "higestRating": 2275,
