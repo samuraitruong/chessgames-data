@@ -1,0 +1,15 @@
+[Event "Russian Championship"]
+[Site "Elista RUS"]
+[Date "1995.10.??"]
+[EventDate "1995.10.17"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Ilya Frog"]
+[Black "Andrei V Kharitonov"]
+[ECO "D31"]
+[WhiteElo "2295"]
+[BlackElo "2550"]
+[Source "Olimpbase"]
+[PlyCount "42"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Be7 4.Bf4 Nf6 5.e3 O-O 6.Nf3 c5 7.dxc5 Bxc5 8.Be2 dxc4 9.Bxc4 a6 10.Qe2 b5 11.Bd3 Bb7 12.O-O Nbd7 13.Rfd1 Qb6 14.Ne5 Rfd8 15.Nxd7 Rxd7 16.Be5 Qc6 17.f3 Rad8 18.Bxf6 gxf6 19.Be4 Qb6 20.Bxb7 Rxd1+ 21.Rxd1 1/2-1/2
