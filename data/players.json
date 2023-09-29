@@ -7057,7 +7057,8 @@
     "name": "BEIM, Valeri",
     "year": "1990-2008",
     "games": 543,
-    "id": "27701"
+    "id": "27701",
+    "synced": true
   },
   {
     "higestRating": 2618,
@@ -16218,7 +16219,8 @@
     "name": "RATKOVIC, Miloje",
     "year": "2006-2021",
     "games": 236,
-    "id": "119794"
+    "id": "119794",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -34580,7 +34582,8 @@
     "name": "VAN WESSEL, Rudy",
     "year": "1994-2017",
     "games": 95,
-    "id": "51029"
+    "id": "51029",
+    "synced": true
   },
   {
     "higestRating": 2284,
@@ -36438,7 +36441,8 @@
     "name": "NEDILKO, Vasily",
     "year": "1982-2018",
     "games": 89,
-    "id": "127925"
+    "id": "127925",
+    "synced": true
   },
   {
     "higestRating": 2439,
@@ -86638,7 +86642,8 @@
     "name": "MONSIEUX, Cyril",
     "year": "2000-2008",
     "games": 22,
-    "id": "54694"
+    "id": "54694",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -90905,7 +90910,8 @@
     "name": "OTERO, Orlando Santana",
     "year": "1983-2014",
     "games": 20,
-    "id": "80944"
+    "id": "80944",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -97062,7 +97068,8 @@
     "name": "MOREJON, Eduardo",
     "year": "1998-2001",
     "games": 17,
-    "id": "36711"
+    "id": "36711",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -103292,7 +103299,8 @@
     "name": "SMITH, Peter W H",
     "year": "1978-1997",
     "games": 15,
-    "id": "90970"
+    "id": "90970",
+    "synced": true
   },
   {
     "higestRating": 2317,
