@@ -6588,7 +6588,8 @@
     "name": "UBILAVA, Elizbar",
     "year": "1967-2021",
     "games": 590,
-    "id": "16901"
+    "id": "16901",
+    "synced": true
   },
   {
     "higestRating": 2510,
@@ -8981,7 +8982,8 @@
     "name": "RAICEVIC, Vladimir",
     "year": "1974-2010",
     "games": 438,
-    "id": "17532"
+    "id": "17532",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -57371,7 +57373,8 @@
     "name": "AGUADO, Juan Luis Fernandez",
     "year": "1984-2007",
     "games": 47,
-    "id": "82846"
+    "id": "82846",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -63892,7 +63895,8 @@
     "name": "RIVERO, Juan Carlos Obregon",
     "year": "2010-2022",
     "games": 40,
-    "id": "139349"
+    "id": "139349",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -70249,7 +70253,8 @@
     "name": "HAAKERT, Juergen",
     "year": "1978-2015",
     "games": 33,
-    "id": "26328"
+    "id": "26328",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -79860,7 +79865,8 @@
     "name": "GEORGIEVSKI, Vanco",
     "year": "1976",
     "games": 26,
-    "id": "29487"
+    "id": "29487",
+    "synced": true
   },
   {
     "higestRating": 2282,
@@ -90360,7 +90366,8 @@
     "name": "KARLSSON, Agust Sindri",
     "year": "1984-2017",
     "games": 20,
-    "id": "31115"
+    "id": "31115",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -101016,7 +101023,8 @@
     "name": "CZAP, Bernhard",
     "year": "2005-2015",
     "games": 16,
-    "id": "98948"
+    "id": "98948",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -105284,7 +105292,8 @@
     "name": "HAREUX, Hubert",
     "year": "1998-2003",
     "games": 13,
-    "id": "49836"
+    "id": "49836",
+    "synced": true
   },
   {
     "higestRating": 2257,
