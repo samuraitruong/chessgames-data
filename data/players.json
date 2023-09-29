@@ -2815,7 +2815,8 @@
     "name": "BAUER, Christian",
     "year": "1991-2022",
     "games": 1098,
-    "id": "65385"
+    "id": "65385",
+    "synced": true
   },
   {
     "higestRating": 2572,
@@ -42013,7 +42014,8 @@
     "name": "MOZES, Ervin",
     "year": "1964-2014",
     "games": 74,
-    "id": "38228"
+    "id": "38228",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -87324,7 +87326,8 @@
     "name": "MUZYKA, Nikolay",
     "year": "2000-2009",
     "games": 22,
-    "id": "108378"
+    "id": "108378",
+    "synced": true
   },
   {
     "higestRating": 2303,
@@ -97735,7 +97738,8 @@
     "name": "ROESEMANN, Rainer",
     "year": "1992-2017",
     "games": 17,
-    "id": "73957"
+    "id": "73957",
+    "synced": true
   },
   {
     "higestRating": 2465,
