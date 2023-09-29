@@ -3032,7 +3032,8 @@
     "name": "MUZYCHUK, Mariya",
     "year": "2001-2023",
     "games": 1043,
-    "id": "94551"
+    "id": "94551",
+    "synced": true
   },
   {
     "higestRating": 2511,
@@ -41668,7 +41669,8 @@
     "name": "LOGOTHETIS, Sotiris",
     "year": "2003-2019",
     "games": 75,
-    "id": "81380"
+    "id": "81380",
+    "synced": true
   },
   {
     "higestRating": 2257,
@@ -48578,7 +48580,8 @@
     "name": "MABRAS, Bernat Serarols",
     "year": "2012-2022",
     "games": 61,
-    "id": "139374"
+    "id": "139374",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -63278,7 +63281,8 @@
     "name": "BERDICHEVSKI, Igor",
     "year": "1989-2003",
     "games": 40,
-    "id": "60090"
+    "id": "60090",
+    "synced": true
   },
   {
     "higestRating": 2353,
@@ -65574,7 +65578,8 @@
     "name": "KUZMIN, Egor",
     "year": "2010-2018",
     "games": 38,
-    "id": "132613"
+    "id": "132613",
+    "synced": true
   },
   {
     "higestRating": 2428,
@@ -88783,7 +88788,8 @@
     "name": "BORDA, Alan",
     "year": "2001-2010",
     "games": 21,
-    "id": "69184"
+    "id": "69184",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -110279,7 +110285,8 @@
     "name": "BASKAKOV, Egor",
     "year": "2019",
     "games": 2,
-    "id": "192398"
+    "id": "192398",
+    "synced": true
   },
   {
     "higestRating": 2290,
