@@ -826,7 +826,8 @@
     "name": "SAX, Gyula",
     "year": "1969-2013",
     "games": 1825,
-    "id": "15696"
+    "id": "15696",
+    "synced": true
   },
   {
     "higestRating": 2510,
@@ -35308,7 +35309,8 @@
     "name": "STARK, Lars",
     "year": "2004-2019",
     "games": 93,
-    "id": "102799"
+    "id": "102799",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -37957,7 +37959,8 @@
     "name": "THUESEN, Mogens",
     "year": "1988-2019",
     "games": 84,
-    "id": "27713"
+    "id": "27713",
+    "synced": true
   },
   {
     "higestRating": 2625,
@@ -38331,7 +38334,8 @@
     "name": "CHRISTENSEN, Stefan",
     "year": "1997-2013",
     "games": 83,
-    "id": "50767"
+    "id": "50767",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -42372,7 +42376,8 @@
     "name": "ARDELEAN, George-Catalin",
     "year": "1995-2018",
     "games": 73,
-    "id": "49389"
+    "id": "49389",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -53120,7 +53125,8 @@
     "name": "REYHAN, Dogan Heval",
     "year": "1998-2012",
     "games": 53,
-    "id": "92051"
+    "id": "92051",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -60273,7 +60279,8 @@
     "name": "POPIVODA, Radmila",
     "year": "1979-2005",
     "games": 43,
-    "id": "25466"
+    "id": "25466",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -69921,7 +69928,8 @@
     "name": "GIRON, Jorge Ernesto",
     "year": "2014-2022",
     "games": 34,
-    "id": "151008"
+    "id": "151008",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -72259,7 +72267,8 @@
     "name": "PINGIN, Artem",
     "year": "2016-2021",
     "games": 32,
-    "id": "156494"
+    "id": "156494",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -85215,7 +85224,8 @@
     "name": "ZAIKOV, Oleg",
     "year": "2004-2009",
     "games": 23,
-    "id": "87137"
+    "id": "87137",
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -85516,7 +85526,8 @@
     "name": "CASSAI, Paolo",
     "year": "1987-1989",
     "games": 23,
-    "id": "104387"
+    "id": "104387",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -87856,7 +87867,8 @@
     "name": "XU, Yining",
     "year": "2015-2019",
     "games": 22,
-    "id": "153878"
+    "id": "153878",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -95400,7 +95412,8 @@
     "name": "MACK, Wolfgang",
     "year": "1986-2017",
     "games": 18,
-    "id": "75193"
+    "id": "75193",
+    "synced": true
   },
   {
     "higestRating": 2204,
