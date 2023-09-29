@@ -1,0 +1,15 @@
+[Event "European Individual Championship"]
+[Site "Terme Catez SLO"]
+[Date "2022.03.28"]
+[EventDate "2022.03.27"]
+[Round "2.52"]
+[Result "1-0"]
+[White "Benny Aizenberg"]
+[Black "Fatmir Qorri"]
+[ECO "B33"]
+[WhiteElo "2297"]
+[BlackElo "2031"]
+[Source "Lichess"]
+[PlyCount "40"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Nxc6 bxc6 7. e5 Ng8 8. Bc4 g6 9. Qf3 e6 10. Ne4 Bb4+ 11. c3 d5 12. exd6 Bxd6 13. Bg5 Be7 14. Rd1 Qc7 15. Bf4 Qb7 16. Be5 f6 17. Bxf6 Nxf6 18. Nxf6+ Bxf6 19. Qxf6 Rf8 20. Rd8# 1-0
