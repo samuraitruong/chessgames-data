@@ -3354,7 +3354,8 @@
     "name": "NIKCEVIC, Nebojsa",
     "year": "1989-2021",
     "games": 987,
-    "id": "46581"
+    "id": "46581",
+    "synced": true
   },
   {
     "higestRating": 2640,
@@ -64012,7 +64013,8 @@
     "name": "HOLZER, Gerhard",
     "year": "1986-2004",
     "games": 40,
-    "id": "169911"
+    "id": "169911",
+    "synced": true
   },
   {
     "higestRating": 2369,
