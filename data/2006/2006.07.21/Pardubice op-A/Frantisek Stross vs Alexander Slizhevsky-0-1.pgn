@@ -1,0 +1,14 @@
+[Event "Pardubice op-A"]
+[Site "Pardubice CZE"]
+[Date "2006.07.21"]
+[EventDate "2006.07.21"]
+[Round "1"]
+[Result "0-1"]
+[White "Frantisek Stross"]
+[Black "Alexander Slizhevsky"]
+[ECO "D01"]
+[WhiteElo "2256"]
+[BlackElo "2454"]
+[PlyCount "32"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e3 Nc6 6. Qh5 cxd4 7. exd4 e6 8. O-O-O Bd7 9. g4 Qa5 10. f4 b5 11. f5 b4 12. fxe6 Bxe6 13. Bb5 O-O-O 14. Bxc6 bxc3 15. Rd3 cxb2+ 16. Kxb2 Rd6 0-1
