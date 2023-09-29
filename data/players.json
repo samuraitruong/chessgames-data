@@ -4414,7 +4414,8 @@
     "name": "GABRIEL, Christian",
     "year": "1988-2018",
     "games": 808,
-    "id": "11615"
+    "id": "11615",
+    "synced": true
   },
   {
     "higestRating": 2535,
@@ -22440,7 +22441,8 @@
     "name": "FUCHS, Judith",
     "year": "2007-2019",
     "games": 165,
-    "id": "110079"
+    "id": "110079",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -34566,7 +34568,8 @@
     "name": "HUBER, Martin Christian",
     "year": "2010-2018",
     "games": 96,
-    "id": "134928"
+    "id": "134928",
+    "synced": true
   },
   {
     "higestRating": 2461,
@@ -105445,7 +105448,8 @@
     "name": "STEINBERG, Jana",
     "year": "1995-2000",
     "games": 13,
-    "id": "100096"
+    "id": "100096",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -106470,7 +106474,8 @@
     "name": "EQUIZA, Miguel Rada",
     "year": "2001-2007",
     "games": 11,
-    "id": "104989"
+    "id": "104989",
+    "synced": true
   },
   {
     "higestRating": 2203,
