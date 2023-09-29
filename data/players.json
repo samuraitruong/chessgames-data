@@ -3161,7 +3161,8 @@
     "name": "MARKOVIC, Miroslav",
     "year": "1987-2021",
     "games": 1019,
-    "id": "60467"
+    "id": "60467",
+    "synced": true
   },
   {
     "higestRating": 2620,
@@ -6528,7 +6529,8 @@
     "name": "BARBERO, Gerardo",
     "year": "1977-2000",
     "games": 595,
-    "id": "14021"
+    "id": "14021",
+    "synced": true
   },
   {
     "higestRating": 2540,
@@ -49173,7 +49175,8 @@
     "name": "PAJEKEN, Jakob Leon",
     "year": "2014-2023",
     "games": 60,
-    "id": "149326"
+    "id": "149326",
+    "synced": true
   },
   {
     "higestRating": 2285,
