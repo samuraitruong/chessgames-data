@@ -4075,7 +4075,8 @@
     "name": "EINGORN, Vereslav",
     "year": "1977-2016",
     "games": 857,
-    "id": "18056"
+    "id": "18056",
+    "synced": true
   },
   {
     "higestRating": 2575,
@@ -41265,7 +41266,8 @@
     "name": "SAVICKAS, Airidas",
     "year": "2004-2008",
     "games": 76,
-    "id": "96051"
+    "id": "96051",
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -60469,7 +60471,8 @@
     "name": "BLIUMBERG, Vladislav",
     "year": "1982-2019",
     "games": 43,
-    "id": "65165"
+    "id": "65165",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -88826,7 +88829,8 @@
     "name": "DUBINSKY, Roman",
     "year": "1995-1999",
     "games": 21,
-    "id": "89520"
+    "id": "89520",
+    "synced": true
   },
   {
     "higestRating": 2281,
@@ -94794,7 +94798,8 @@
     "name": "HOVMOLLER, Kristian",
     "year": "2000-2003",
     "games": 18,
-    "id": "50763"
+    "id": "50763",
+    "synced": true
   },
   {
     "higestRating": 2374,
