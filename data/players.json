@@ -6904,7 +6904,8 @@
     "name": "ROWSON, Jonathan",
     "year": "1991-2022",
     "games": 559,
-    "id": "10949"
+    "id": "10949",
+    "synced": true
   },
   {
     "higestRating": 2574,
@@ -13458,7 +13459,8 @@
     "name": "POVAH, Nigel",
     "year": "1971-2023",
     "games": 289,
-    "id": "40469"
+    "id": "40469",
+    "synced": true
   },
   {
     "higestRating": 2561,
@@ -13540,7 +13542,8 @@
     "name": "TOLOGONTEGIN, Semetey",
     "year": "2003-2022",
     "games": 287,
-    "id": "95984"
+    "id": "95984",
+    "synced": true
   },
   {
     "higestRating": 2664,
@@ -15199,7 +15202,8 @@
     "name": "MASCARINAS, Rico",
     "year": "1976-2001",
     "games": 254,
-    "id": "18130"
+    "id": "18130",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -31565,7 +31569,8 @@
     "name": "PERSITZ, Raaphi",
     "year": "1953-1969",
     "games": 106,
-    "id": "37217"
+    "id": "37217",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -89177,7 +89182,8 @@
     "name": "GUO, Josh",
     "year": "2006-2011",
     "games": 21,
-    "id": "111223"
+    "id": "111223",
+    "synced": true
   },
   {
     "higestRating": 2377,
