@@ -7986,7 +7986,8 @@
     "name": "ANDERSEN, Mads",
     "year": "2006-2022",
     "games": 489,
-    "id": "105215"
+    "id": "105215",
+    "synced": true
   },
   {
     "higestRating": 2692,
@@ -25208,7 +25209,8 @@
     "name": "TRYGSTAD, Kristian",
     "year": "1994-2014",
     "games": 142,
-    "id": "44757"
+    "id": "44757",
+    "synced": true
   },
   {
     "higestRating": 2533,
@@ -26281,7 +26283,8 @@
     "name": "GOODMAN, David",
     "year": "1973-1988",
     "games": 134,
-    "id": "37456"
+    "id": "37456",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -32155,7 +32158,8 @@
     "name": "PAOLOZZI, Marcos",
     "year": "1979-1985",
     "games": 104,
-    "id": "20268"
+    "id": "20268",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -74620,7 +74624,8 @@
     "name": "HANSEN, Jens Christian",
     "year": "1981-1997",
     "games": 30,
-    "id": "104182"
+    "id": "104182",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -79122,7 +79127,8 @@
     "name": "KIESE, Matthias",
     "year": "1992-2017",
     "games": 27,
-    "id": "118719"
+    "id": "118719",
+    "synced": true
   },
   {
     "higestRating": 2228,
@@ -81341,7 +81347,8 @@
     "name": "MILOCCO, Franco",
     "year": "1984-1997",
     "games": 25,
-    "id": "37890"
+    "id": "37890",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -94273,7 +94280,8 @@
     "name": "MARTIN, Lewis",
     "year": "1997-2018",
     "games": 19,
-    "id": "147283"
+    "id": "147283",
+    "synced": true
   },
   {
     "higestRating": 2521,
@@ -98675,7 +98683,8 @@
     "name": "SIMUTOWE, Musatwe",
     "year": "2011-2018",
     "games": 17,
-    "id": "130534"
+    "id": "130534",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -105269,7 +105278,8 @@
     "name": "KARAPCHANSKI, Dimitar",
     "year": "1990-2006",
     "games": 13,
-    "id": "100392"
+    "id": "100392",
+    "synced": true
   },
   {
     "higestRating": 2207,
@@ -105711,7 +105721,8 @@
     "name": "MURO, Matias Di",
     "year": "2004-2009",
     "games": 12,
-    "id": "88442"
+    "id": "88442",
+    "synced": true
   },
   {
     "higestRating": 2312,
