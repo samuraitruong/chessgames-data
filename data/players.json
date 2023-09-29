@@ -7495,7 +7495,8 @@
     "name": "SMITH, Robert Wayne",
     "year": "1976-2023",
     "games": 515,
-    "id": "83511"
+    "id": "83511",
+    "synced": true
   },
   {
     "higestRating": 2526,
@@ -10879,7 +10880,8 @@
     "name": "AGOPOV, Mikael",
     "year": "1990-2021",
     "games": 364,
-    "id": "49862"
+    "id": "49862",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -31081,7 +31083,8 @@
     "name": "BROWN, Martin",
     "year": "2006-2016",
     "games": 109,
-    "id": "105654"
+    "id": "105654",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -39394,7 +39397,8 @@
     "name": "DE LA RIVA, Lazaro Lorenzo",
     "year": "2006-2021",
     "games": 81,
-    "id": "105142"
+    "id": "105142",
+    "synced": true
   },
   {
     "higestRating": 2414,
@@ -65848,7 +65852,8 @@
     "name": "KAMINSKY, Oleg",
     "year": "1957-2002",
     "games": 37,
-    "id": "17381"
+    "id": "17381",
+    "synced": true
   },
   {
     "higestRating": 2269,
