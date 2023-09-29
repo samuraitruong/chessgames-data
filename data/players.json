@@ -6478,7 +6478,8 @@
     "name": "ROSELL, Alvar Alonso",
     "year": "2003-2023",
     "games": 599,
-    "id": "96082"
+    "id": "96082",
+    "synced": true
   },
   {
     "higestRating": 2488,
@@ -21268,7 +21269,8 @@
     "name": "NINOV, Nikolai",
     "year": "1990-2022",
     "games": 175,
-    "id": "29164"
+    "id": "29164",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -37556,7 +37558,8 @@
     "name": "SIMONET, Marc",
     "year": "1992-2014",
     "games": 85,
-    "id": "42038"
+    "id": "42038",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -42228,7 +42231,8 @@
     "name": "MADAMINOV, Mukhiddin",
     "year": "2020-2023",
     "games": 74,
-    "id": "171068"
+    "id": "171068",
+    "synced": true
   },
   {
     "higestRating": 2363,
@@ -46928,7 +46932,8 @@
     "name": "LAVENDELIS, Egons",
     "year": "1994-2021",
     "games": 64,
-    "id": "128370"
+    "id": "128370",
+    "synced": true
   },
   {
     "higestRating": 2412,
@@ -46943,7 +46948,8 @@
     "name": "SANCHEZ, Louis",
     "year": "2001-2019",
     "games": 64,
-    "id": "128474"
+    "id": "128474",
+    "synced": true
   },
   {
     "higestRating": 2444,
@@ -52355,7 +52361,8 @@
     "name": "FAISAL, Abdulla Kashwani",
     "year": "2001-2014",
     "games": 54,
-    "id": "55764"
+    "id": "55764",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -53221,7 +53228,8 @@
     "name": "HAKOBYAN, Hovhannes H",
     "year": "2013-2018",
     "games": 53,
-    "id": "149289"
+    "id": "149289",
+    "synced": true
   },
   {
     "higestRating": 2337,
@@ -81489,7 +81497,8 @@
     "name": "BEHLE, Karl-Willi",
     "year": "1957-1991",
     "games": 25,
-    "id": "48090"
+    "id": "48090",
+    "synced": true
   },
   {
     "higestRating": 2241,
@@ -88553,7 +88562,8 @@
     "name": "DOBIAS, Richard",
     "year": "1990-2009",
     "games": 21,
-    "id": "56034"
+    "id": "56034",
+    "synced": true
   },
   {
     "higestRating": 2211,
@@ -96146,7 +96156,8 @@
     "name": "SAVINOV, Leonid",
     "year": "2009-2019",
     "games": 18,
-    "id": "124618"
+    "id": "124618",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -96408,7 +96419,8 @@
     "name": "BOCHKAREV, Alexey",
     "year": "2012-2014",
     "games": 18,
-    "id": "139277"
+    "id": "139277",
+    "synced": true
   },
   {
     "higestRating": 2296,
@@ -103232,7 +103244,8 @@
     "name": "MAMATOV, Dair",
     "year": "1963-1983",
     "games": 15,
-    "id": "89886"
+    "id": "89886",
+    "synced": true
   },
   {
     "higestRating": 2275,
