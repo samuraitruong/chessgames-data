@@ -9698,7 +9698,8 @@
     "name": "NEVOSTRUJEV, Vladimir",
     "year": "1986-2022",
     "games": 405,
-    "id": "38368"
+    "id": "38368",
+    "synced": true
   },
   {
     "higestRating": 2614,
@@ -11293,7 +11294,8 @@
     "name": "XU, Yuhua",
     "year": "1993-2011",
     "games": 349,
-    "id": "49535"
+    "id": "49535",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -42666,7 +42668,8 @@
     "name": "THING, Bibek",
     "year": "2018-2022",
     "games": 73,
-    "id": "161177"
+    "id": "161177",
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -56188,7 +56191,8 @@
     "name": "PENZ, Harald",
     "year": "1991-2017",
     "games": 48,
-    "id": "57030"
+    "id": "57030",
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -67143,7 +67147,8 @@
     "name": "FLORES, Roberto Alfonso Juarez",
     "year": "2003-2010",
     "games": 36,
-    "id": "88571"
+    "id": "88571",
+    "synced": true
   },
   {
     "higestRating": 2276,
@@ -77402,7 +77407,8 @@
     "name": "FOUGERIT, Valentin",
     "year": "2002-2015",
     "games": 28,
-    "id": "95992"
+    "id": "95992",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -80954,7 +80960,8 @@
     "name": "NOKKA, Risto",
     "year": "1987-1991",
     "games": 26,
-    "id": "142700"
+    "id": "142700",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -89499,7 +89506,8 @@
     "name": "CAPUANO, Eugenio",
     "year": "1994-2003",
     "games": 21,
-    "id": "131872"
+    "id": "131872",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -101113,7 +101121,8 @@
     "name": "CALTON, Bill J",
     "year": "1987-2008",
     "games": 16,
-    "id": "110841"
+    "id": "110841",
+    "synced": true
   },
   {
     "higestRating": 2239,
