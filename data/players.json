@@ -351,7 +351,8 @@
     "name": "TOPALOV, Veselin",
     "year": "1986-2022",
     "games": 2409,
-    "id": "12089"
+    "id": "12089",
+    "synced": true
   },
   {
     "higestRating": 2555,
@@ -29604,7 +29605,8 @@
     "name": "VANDENBUSSCHE, Thibaut",
     "year": "2001-2022",
     "games": 115,
-    "id": "127319"
+    "id": "127319",
+    "synced": true
   },
   {
     "higestRating": 2520,
@@ -34882,7 +34884,8 @@
     "name": "SANDLER, Leonid",
     "year": "1980-2014",
     "games": 94,
-    "id": "12064"
+    "id": "12064",
+    "synced": true
   },
   {
     "higestRating": 2389,
@@ -49944,7 +49947,8 @@
     "name": "GERVASIO, Ricardo",
     "year": "1984-2019",
     "games": 58,
-    "id": "56964"
+    "id": "56964",
+    "synced": true
   },
   {
     "higestRating": 2447,
@@ -58518,7 +58522,8 @@
     "name": "KINLAY, Jonathan",
     "year": "1973-1981",
     "games": 45,
-    "id": "32759"
+    "id": "32759",
+    "synced": true
   },
   {
     "higestRating": 2348,
@@ -60978,7 +60983,8 @@
     "name": "NEKHAEV, Andrey",
     "year": "2009-2020",
     "games": 43,
-    "id": "138800"
+    "id": "138800",
+    "synced": true
   },
   {
     "higestRating": 2262,
@@ -63266,7 +63272,8 @@
     "name": "PAJKOVIC, Vladimir",
     "year": "1991-2012",
     "games": 40,
-    "id": "49606"
+    "id": "49606",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -63841,7 +63848,8 @@
     "name": "JIMENEZ, Zenia Corrales",
     "year": "2011-2022",
     "games": 40,
-    "id": "143030"
+    "id": "143030",
+    "synced": true
   },
   {
     "higestRating": 2202,
@@ -65056,7 +65064,8 @@
     "name": "SINCLAIR, Ian",
     "year": "1971-1976",
     "games": 38,
-    "id": "40448"
+    "id": "40448",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -65602,7 +65611,8 @@
     "name": "GENUTIS, Mindaugas",
     "year": "2006-2016",
     "games": 38,
-    "id": "118779"
+    "id": "118779",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -72810,7 +72820,8 @@
     "name": "KRASSILNIKOV, Evgeni",
     "year": "1999-2002",
     "games": 31,
-    "id": "49689"
+    "id": "49689",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -82907,7 +82918,8 @@
     "name": "VOEGE, Tobias",
     "year": "2016-2022",
     "games": 25,
-    "id": "155065"
+    "id": "155065",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -89111,7 +89123,8 @@
     "name": "JOHANSSON, Krister",
     "year": "1978-2004",
     "games": 21,
-    "id": "90172"
+    "id": "90172",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -91659,7 +91672,8 @@
     "name": "TCHETCHELNITSKI, Boris",
     "year": "2001-2016",
     "games": 20,
-    "id": "118531"
+    "id": "118531",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -102741,7 +102755,8 @@
     "name": "VOELZKE, Ferdinand",
     "year": "1999-2013",
     "games": 15,
-    "id": "54094"
+    "id": "54094",
+    "synced": true
   },
   {
     "higestRating": 2284,
@@ -104467,7 +104482,8 @@
     "name": "POLEG, Dan",
     "year": "2014-2023",
     "games": 15,
-    "id": "150610"
+    "id": "150610",
+    "synced": true
   },
   {
     "higestRating": 2345,
