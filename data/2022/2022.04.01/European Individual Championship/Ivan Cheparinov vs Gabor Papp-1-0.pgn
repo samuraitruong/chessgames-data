@@ -1,0 +1,15 @@
+[Event "European Individual Championship"]
+[Site "Terme Catez SLO"]
+[Date "2022.04.01"]
+[EventDate "2022.03.27"]
+[Round "6.4"]
+[Result "1-0"]
+[White "Ivan Cheparinov"]
+[Black "Gabor Papp"]
+[ECO "C43"]
+[WhiteElo "2672"]
+[BlackElo "2574"]
+[Source "Lichess"]
+[PlyCount "32"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. dxe5 d5 5. Nbd2 Be7 6. Nxe4 dxe4 7. Qxd8+ Bxd8 8. Nd4 c6 9. Bc4 b5 10. Nxb5 cxb5 11. Bd5 Nd7 12. Bxa8 Nxe5 13. Bxe4 f5 14. Bd5 Bf6 15. O-O Nc4 16. a4 1-0
