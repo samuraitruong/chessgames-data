@@ -10653,7 +10653,8 @@
     "name": "GROOTEN, Herman",
     "year": "1976-2023",
     "games": 371,
-    "id": "40545"
+    "id": "40545",
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -27584,7 +27585,8 @@
     "name": "NENEZIC, Marko",
     "year": "2008-2023",
     "games": 126,
-    "id": "119674"
+    "id": "119674",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -30461,7 +30463,8 @@
     "name": "HARTMAN, Brian",
     "year": "1980-2011",
     "games": 111,
-    "id": "22507"
+    "id": "22507",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -31146,7 +31149,8 @@
     "name": "KHALAFOVA, Narmin",
     "year": "2010-2018",
     "games": 109,
-    "id": "126944"
+    "id": "126944",
+    "synced": true
   },
   {
     "higestRating": 2474,
@@ -35644,7 +35648,8 @@
     "name": "BASKIN, Robert",
     "year": "2011-2022",
     "games": 92,
-    "id": "133495"
+    "id": "133495",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -53024,7 +53029,8 @@
     "name": "SLAPIKAS, Vytautas",
     "year": "1995-2008",
     "games": 53,
-    "id": "49358"
+    "id": "49358",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -67309,7 +67315,8 @@
     "name": "CAVE, Christo",
     "year": "1990-2008",
     "games": 36,
-    "id": "88900"
+    "id": "88900",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -67683,7 +67690,8 @@
     "name": "MWALE, Joseph",
     "year": "2012-2022",
     "games": 36,
-    "id": "140192"
+    "id": "140192",
+    "synced": true
   },
   {
     "higestRating": 2319,
@@ -73885,7 +73893,8 @@
     "name": "GAMAYEV, Oleg",
     "year": "1994-2015",
     "games": 31,
-    "id": "150607"
+    "id": "150607",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -81149,7 +81158,8 @@
     "name": "STROMBOLI, Carlo",
     "year": "2003-2016",
     "games": 26,
-    "id": "143155"
+    "id": "143155",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -86165,7 +86175,8 @@
     "name": "SOLOVYOV, Viktor",
     "year": "2009-2021",
     "games": 23,
-    "id": "141483"
+    "id": "141483",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -91216,7 +91227,8 @@
     "name": "MAMOURI, Mehdi",
     "year": "1976-1996",
     "games": 20,
-    "id": "88328"
+    "id": "88328",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -100461,7 +100473,8 @@
     "name": "VOLOACA, Minhea",
     "year": "2001-2011",
     "games": 16,
-    "id": "69997"
+    "id": "69997",
+    "synced": true
   },
   {
     "higestRating": 2332,
