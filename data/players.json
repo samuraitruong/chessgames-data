@@ -7842,7 +7842,8 @@
     "name": "MISTA, Aleksander",
     "year": "1995-2021",
     "games": 497,
-    "id": "54226"
+    "id": "54226",
+    "synced": true
   },
   {
     "higestRating": 2507,
@@ -12559,7 +12560,8 @@
     "name": "SAHL, Bjarke Barth",
     "year": "1975-2021",
     "games": 309,
-    "id": "24700"
+    "id": "24700",
+    "synced": true
   },
   {
     "higestRating": 2485,
@@ -26078,7 +26080,8 @@
     "name": "HALLAEVA, Bahar",
     "year": "2002-2020",
     "games": 136,
-    "id": "127804"
+    "id": "127804",
+    "synced": true
   },
   {
     "higestRating": 2473,
@@ -68152,7 +68155,8 @@
     "name": "KIPPER, Jens",
     "year": "1992-2014",
     "games": 35,
-    "id": "66677"
+    "id": "66677",
+    "synced": true
   },
   {
     "higestRating": 2352,
@@ -83654,7 +83658,8 @@
     "name": "LUTOVAC, Maksim",
     "year": "1963-1977",
     "games": 24,
-    "id": "85387"
+    "id": "85387",
+    "synced": true
   },
   {
     "higestRating": 2251,
