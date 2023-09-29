@@ -1,0 +1,14 @@
+[Event "Chigorin mem open"]
+[Site "St. Petersburg RUS"]
+[Date "2001.10.29"]
+[EventDate "2001.10.26"]
+[Round "4"]
+[Result "1-0"]
+[White "Vladimir Belov"]
+[Black "Nikolai Vasilyevich Pushkov"]
+[ECO "D37"]
+[WhiteElo "2458"]
+[BlackElo "2541"]
+[PlyCount "43"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2 Nc6 9. a3 Qa5 10. O-O-O Be7 11. h4 a6 12. Ng5 Rd8 13. cxd5 exd5 14. e4 h6 15. exd5 Bg4 16. f3 Bh5 17. dxc6 Rxd1+ 18. Nxd1 Rc8 19. Bd2 Qd8 20. Nc3 hxg5 21. hxg5 Bg6 22. Qxg6 1-0

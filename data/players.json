@@ -3478,7 +3478,8 @@
     "name": "WADE, Robert Graham",
     "year": "1942-2008",
     "games": 962,
-    "id": "18993"
+    "id": "18993",
+    "synced": true
   },
   {
     "higestRating": 2570,
@@ -13495,7 +13496,8 @@
     "name": "PUSHKOV, Nikolai",
     "year": "1991-2019",
     "games": 289,
-    "id": "42034"
+    "id": "42034",
+    "synced": true
   },
   {
     "higestRating": 2556,
