@@ -8532,7 +8532,8 @@
     "name": "SCHUSSLER, Harry",
     "year": "1973-2019",
     "games": 464,
-    "id": "29770"
+    "id": "29770",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -8652,7 +8653,8 @@
     "name": "TIMMERMAN, Gert",
     "year": "1971-2009",
     "games": 457,
-    "id": "28207"
+    "id": "28207",
+    "synced": true
   },
   {
     "higestRating": 2347,
@@ -28901,7 +28903,8 @@
     "name": "BOUTTEVILLE, Cesar",
     "year": "1946-1993",
     "games": 118,
-    "id": "28666"
+    "id": "28666",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -35740,7 +35743,8 @@
     "name": "OIM, Tonu",
     "year": "1961-2001",
     "games": 91,
-    "id": "45476"
+    "id": "45476",
+    "synced": true
   },
   {
     "higestRating": 2326,
@@ -41484,7 +41488,8 @@
     "name": "GELLER, Anastasiya",
     "year": "2014-2021",
     "games": 76,
-    "id": "157177"
+    "id": "157177",
+    "synced": true
   },
   {
     "higestRating": 2459,
@@ -47077,7 +47082,8 @@
     "name": "ANDERSEN, Morten",
     "year": "1978-2021",
     "games": 64,
-    "id": "138853"
+    "id": "138853",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -53459,7 +53465,8 @@
     "name": "RASZKA, Janusz",
     "year": "1987-2014",
     "games": 52,
-    "id": "25126"
+    "id": "25126",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -87944,7 +87951,8 @@
     "name": "SANCHEZ, Pedro Jesus Ferrer",
     "year": "1989-2008",
     "games": 22,
-    "id": "150415"
+    "id": "150415",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -92534,7 +92542,8 @@
     "name": "CANDELAS, Andres Eloy Perez",
     "year": "2018-2023",
     "games": 20,
-    "id": "188230"
+    "id": "188230",
+    "synced": true
   },
   {
     "higestRating": 2222,
