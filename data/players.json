@@ -585,7 +585,8 @@
     "name": "KOSTENIUK, Alexandra",
     "year": "1994-2023",
     "games": 2042,
-    "id": "10940"
+    "id": "10940",
+    "synced": true
   },
   {
     "higestRating": 2480,
@@ -58272,7 +58273,8 @@
     "name": "RAFIEE, Makan",
     "year": "2000-2022",
     "games": 46,
-    "id": "158225"
+    "id": "158225",
+    "synced": true
   },
   {
     "higestRating": 2419,
@@ -60237,7 +60239,8 @@
     "name": "SCHOONMAKER, Nicholas",
     "year": "1984-2007",
     "games": 43,
-    "id": "35592"
+    "id": "35592",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -61683,7 +61686,8 @@
     "name": "KHOURI, Ibrahim Mohamed",
     "year": "2001-2015",
     "games": 42,
-    "id": "140235"
+    "id": "140235",
+    "synced": true
   },
   {
     "higestRating": 2388,
@@ -67146,7 +67150,8 @@
     "name": "PULITO, Alberto",
     "year": "1998-2014",
     "games": 36,
-    "id": "98651"
+    "id": "98651",
+    "synced": true
   },
   {
     "higestRating": 2386,
@@ -101953,7 +101958,8 @@
     "name": "SPECKNER, Roland",
     "year": "1986-2005",
     "games": 15,
-    "id": "18218"
+    "id": "18218",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -107571,7 +107577,8 @@
     "name": "POZDNIAKOV, Vladimir",
     "year": "1970",
     "games": 7,
-    "id": "29439"
+    "id": "29439",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -108916,7 +108923,8 @@
     "name": "DEVAULT, Roy E",
     "year": "1978-1997",
     "games": 4,
-    "id": "90418"
+    "id": "90418",
+    "synced": true
   },
   {
     "higestRating": 2230,
