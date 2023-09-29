@@ -9010,7 +9010,8 @@
     "name": "YEVSEEV, Denis",
     "year": "1995-2021",
     "games": 436,
-    "id": "49678"
+    "id": "49678",
+    "synced": true
   },
   {
     "higestRating": 2589,
@@ -16926,7 +16927,8 @@
     "name": "RUDOLF, Anna",
     "year": "1998-2017",
     "games": 225,
-    "id": "49177"
+    "id": "49177",
+    "synced": true
   },
   {
     "higestRating": 2537,
@@ -19062,7 +19064,8 @@
     "name": "GOSTISA, Leon",
     "year": "1981-2017",
     "games": 199,
-    "id": "30509"
+    "id": "30509",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -26001,7 +26004,8 @@
     "name": "JANZELJ, Lara",
     "year": "2015-2022",
     "games": 137,
-    "id": "153868"
+    "id": "153868",
+    "synced": true
   },
   {
     "higestRating": 2527,
@@ -69706,7 +69710,8 @@
     "name": "GRIGORIADIS, Alexandros",
     "year": "2006-2018",
     "games": 34,
-    "id": "105492"
+    "id": "105492",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -78475,7 +78480,8 @@
     "name": "TURUNEN, Erkki O",
     "year": "1968-1990",
     "games": 27,
-    "id": "40475"
+    "id": "40475",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -87326,7 +87332,8 @@
     "name": "SUCHER, Johannes",
     "year": "1990-2017",
     "games": 22,
-    "id": "100995"
+    "id": "100995",
+    "synced": true
   },
   {
     "higestRating": 2342,
@@ -93805,7 +93812,8 @@
     "name": "ASGARI, Morteza",
     "year": "2006-2019",
     "games": 19,
-    "id": "105803"
+    "id": "105803",
+    "synced": true
   },
   {
     "higestRating": 2254,
@@ -93844,7 +93852,8 @@
     "name": "VUKELIC, Tomislav",
     "year": "1990-2017",
     "games": 19,
-    "id": "107769"
+    "id": "107769",
+    "synced": true
   },
   {
     "higestRating": 2204,
