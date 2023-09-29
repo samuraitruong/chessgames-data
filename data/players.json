@@ -3010,7 +3010,8 @@
     "name": "PLAT, Vojtech",
     "year": "2004-2022",
     "games": 1047,
-    "id": "125323"
+    "id": "125323",
+    "synced": true
   },
   {
     "higestRating": 2559,
@@ -105819,7 +105820,8 @@
     "name": "PRIEDITE, Ingrida",
     "year": "1990-2017",
     "games": 12,
-    "id": "145706"
+    "id": "145706",
+    "synced": true
   },
   {
     "higestRating": 2289,
