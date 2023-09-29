@@ -8377,7 +8377,8 @@
     "name": "SZEKELY, Peter",
     "year": "1971-2003",
     "games": 468,
-    "id": "22064"
+    "id": "22064",
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -12905,7 +12906,8 @@
     "name": "PETROV, Nikita",
     "year": "2008-2023",
     "games": 302,
-    "id": "117646"
+    "id": "117646",
+    "synced": true
   },
   {
     "higestRating": 2600,
@@ -46186,7 +46188,8 @@
     "name": "LEYVA, Hector",
     "year": "1989-2008",
     "games": 65,
-    "id": "51390"
+    "id": "51390",
+    "synced": true
   },
   {
     "higestRating": 2447,
@@ -50692,7 +50695,8 @@
     "name": "FURFINE, Jacob",
     "year": "2015-2019",
     "games": 57,
-    "id": "153538"
+    "id": "153538",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -57595,7 +57599,8 @@
     "name": "KOCH, Wolfgang Max",
     "year": "1991-2013",
     "games": 46,
-    "id": "22802"
+    "id": "22802",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -72119,7 +72124,8 @@
     "name": "GRIFFITH, Kyron",
     "year": "2015-2023",
     "games": 32,
-    "id": "155977"
+    "id": "155977",
+    "synced": true
   },
   {
     "higestRating": 2219,
@@ -74121,7 +74127,8 @@
     "name": "KHECHEN, Nabil E",
     "year": "1980-2010",
     "games": 30,
-    "id": "58554"
+    "id": "58554",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -96346,7 +96353,8 @@
     "name": "ELISHEV, Ivan",
     "year": "2008-2017",
     "games": 18,
-    "id": "145676"
+    "id": "145676",
+    "synced": true
   },
   {
     "higestRating": 2229,
