@@ -4877,7 +4877,8 @@
     "name": "MAMMADOVA, Gulnar",
     "year": "2001-2023",
     "games": 755,
-    "id": "54936"
+    "id": "54936",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -5360,7 +5361,8 @@
     "name": "JARACZ, Pawel",
     "year": "1990-2022",
     "games": 702,
-    "id": "19893"
+    "id": "19893",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -48378,7 +48380,8 @@
     "name": "AKETAYEVA, Dana",
     "year": "2001-2009",
     "games": 61,
-    "id": "51296"
+    "id": "51296",
+    "synced": true
   },
   {
     "higestRating": 2214,
@@ -49713,7 +49716,8 @@
     "name": "CASTIBLANCO, Jenny Astrid Chirivi",
     "year": "2004-2022",
     "games": 59,
-    "id": "127813"
+    "id": "127813",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -53311,7 +53315,8 @@
     "name": "DESHPANDE, Aniruddha",
     "year": "2009-2022",
     "games": 53,
-    "id": "147207"
+    "id": "147207",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -68426,7 +68431,8 @@
     "name": "BERTONA, Fernando",
     "year": "1989-2008",
     "games": 35,
-    "id": "86304"
+    "id": "86304",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -75791,7 +75797,8 @@
     "name": "EBNER, Hubert",
     "year": "1987-2003",
     "games": 29,
-    "id": "58599"
+    "id": "58599",
+    "synced": true
   },
   {
     "higestRating": 2234,
@@ -88988,7 +88995,8 @@
     "name": "WILDI, Marcel",
     "year": "1986-2017",
     "games": 21,
-    "id": "69624"
+    "id": "69624",
+    "synced": true
   },
   {
     "higestRating": 2244,
@@ -106377,7 +106385,8 @@
     "name": "BERDICHESKY, Ruben",
     "year": "1990-1999",
     "games": 11,
-    "id": "90610"
+    "id": "90610",
+    "synced": true
   },
   {
     "higestRating": 2420,
