@@ -2790,7 +2790,8 @@
     "name": "FISCHER, Robert James",
     "year": "1953-1992",
     "games": 1101,
-    "id": "19233"
+    "id": "19233",
+    "synced": true
   },
   {
     "higestRating": 2473,
@@ -25662,7 +25663,8 @@
     "name": "SIBILIO, Mario",
     "year": "1981-2015",
     "games": 139,
-    "id": "113080"
+    "id": "113080",
+    "synced": true
   },
   {
     "higestRating": 2502,
@@ -48556,7 +48558,8 @@
     "name": "QUERALTO, Daniel Jose",
     "year": "1994-2018",
     "games": 61,
-    "id": "127212"
+    "id": "127212",
+    "synced": true
   },
   {
     "higestRating": 2454,
@@ -59671,7 +59674,8 @@
     "name": "NIELSEN, Poul Erik",
     "year": "1979-2016",
     "games": 44,
-    "id": "84311"
+    "id": "84311",
+    "synced": true
   },
   {
     "higestRating": 2281,
@@ -62711,7 +62715,8 @@
     "name": "DIJKHUIS, Tycho",
     "year": "2011-2019",
     "games": 41,
-    "id": "133503"
+    "id": "133503",
+    "synced": true
   },
   {
     "higestRating": 2278,
@@ -68669,7 +68674,8 @@
     "name": "LARSON, Matthew",
     "year": "2012-2019",
     "games": 35,
-    "id": "149940"
+    "id": "149940",
+    "synced": true
   },
   {
     "higestRating": 2404,
@@ -70384,7 +70390,8 @@
     "name": "FLASINSKI, Michal",
     "year": "2001-2021",
     "games": 33,
-    "id": "54467"
+    "id": "54467",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -83562,7 +83569,8 @@
     "name": "NUALART, Josep Garriga",
     "year": "1979-2012",
     "games": 24,
-    "id": "61601"
+    "id": "61601",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -86800,7 +86808,8 @@
     "name": "FRINDT, Kornel",
     "year": "1994-2017",
     "games": 22,
-    "id": "67977"
+    "id": "67977",
+    "synced": true
   },
   {
     "higestRating": 2296,
@@ -106293,7 +106302,8 @@
     "name": "CHOGDOV, Munkhbat",
     "year": "2010",
     "games": 11,
-    "id": "127253"
+    "id": "127253",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -108136,7 +108146,8 @@
     "name": "DOROBANOV, Svetoslav",
     "year": "1995-1999",
     "games": 6,
-    "id": "16793"
+    "id": "16793",
+    "synced": true
   },
   {
     "higestRating": 2368,
