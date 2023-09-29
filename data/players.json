@@ -7713,7 +7713,8 @@
     "name": "MARGVELASHVILI, Giorgi",
     "year": "2001-2021",
     "games": 504,
-    "id": "88267"
+    "id": "88267",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -13360,7 +13361,8 @@
     "name": "GRANT, Jonathan I M",
     "year": "1988-2018",
     "games": 292,
-    "id": "43671"
+    "id": "43671",
+    "synced": true
   },
   {
     "higestRating": 2453,
@@ -13836,7 +13838,8 @@
     "name": "USMANOV, Vasily",
     "year": "2010-2021",
     "games": 282,
-    "id": "134205"
+    "id": "134205",
+    "synced": true
   },
   {
     "higestRating": 2590,
@@ -47785,7 +47788,8 @@
     "name": "DAM, Ruurd",
     "year": "1984-1993",
     "games": 62,
-    "id": "34383"
+    "id": "34383",
+    "synced": true
   },
   {
     "higestRating": 2368,
