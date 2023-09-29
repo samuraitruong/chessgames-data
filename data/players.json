@@ -7773,7 +7773,8 @@
     "name": "HOFFMAN, Alejandro",
     "year": "1981-2023",
     "games": 501,
-    "id": "16469"
+    "id": "16469",
+    "synced": true
   },
   {
     "higestRating": 2606,
@@ -16526,7 +16527,8 @@
     "name": "DRIMER, Dolfi",
     "year": "1957-1987",
     "games": 230,
-    "id": "16633"
+    "id": "16633",
+    "synced": true
   },
   {
     "higestRating": 2389,
@@ -23525,7 +23527,8 @@
     "name": "MIEDEMA, Roi David",
     "year": "2005-2023",
     "games": 155,
-    "id": "102245"
+    "id": "102245",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -42227,7 +42230,8 @@
     "name": "BINHAM, Timothy Frank",
     "year": "1976-2019",
     "games": 73,
-    "id": "18044"
+    "id": "18044",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -43153,7 +43157,8 @@
     "name": "LAPIENIS, Donatas",
     "year": "1961-2007",
     "games": 71,
-    "id": "29722"
+    "id": "29722",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -47262,7 +47267,8 @@
     "name": "JUSIC, Zdenko",
     "year": "1989-2017",
     "games": 63,
-    "id": "53754"
+    "id": "53754",
+    "synced": true
   },
   {
     "higestRating": 2254,
@@ -52152,7 +52158,8 @@
     "name": "MANOLOV, Ivan",
     "year": "1963-2009",
     "games": 54,
-    "id": "29321"
+    "id": "29321",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -71155,7 +71162,8 @@
     "name": "SHURAEV, Andrei",
     "year": "1991-2013",
     "games": 32,
-    "id": "18273"
+    "id": "18273",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -78773,7 +78781,8 @@
     "name": "ONODA, Hirokaz",
     "year": "1998-2005",
     "games": 27,
-    "id": "90159"
+    "id": "90159",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -83768,7 +83777,8 @@
     "name": "RATHLEV, Jakob",
     "year": "1997-2018",
     "games": 24,
-    "id": "92144"
+    "id": "92144",
+    "synced": true
   },
   {
     "higestRating": 2248,
@@ -91645,7 +91655,8 @@
     "name": "SOLLARS, Claude",
     "year": "1970-1994",
     "games": 20,
-    "id": "129691"
+    "id": "129691",
+    "synced": true
   },
   {
     "higestRating": 2323,
