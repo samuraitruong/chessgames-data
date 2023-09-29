@@ -11240,7 +11240,8 @@
     "name": "SLOBODJAN, Roman",
     "year": "1991-2011",
     "games": 350,
-    "id": "11661"
+    "id": "11661",
+    "synced": true
   },
   {
     "higestRating": 2550,
@@ -16372,7 +16373,8 @@
     "name": "RUBAN, Vadim",
     "year": "1978-1996",
     "games": 233,
-    "id": "18100"
+    "id": "18100",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -36679,7 +36681,8 @@
     "name": "MASCARENHAS, Alberto Pinheiro",
     "year": "1978-2012",
     "games": 88,
-    "id": "39738"
+    "id": "39738",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -45475,7 +45478,8 @@
     "name": "SANTANA, Mauricio Arias",
     "year": "2001-2022",
     "games": 67,
-    "id": "127201"
+    "id": "127201",
+    "synced": true
   },
   {
     "higestRating": 2404,
@@ -49260,7 +49264,8 @@
     "name": "BABULA, Milan",
     "year": "1965-2009",
     "games": 59,
-    "id": "19600"
+    "id": "19600",
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -52080,7 +52085,8 @@
     "name": "MAKARENKO, Alexandra",
     "year": "2012-2018",
     "games": 55,
-    "id": "136504"
+    "id": "136504",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -52248,7 +52254,8 @@
     "name": "LEOW, Leslie M",
     "year": "1970-1992",
     "games": 54,
-    "id": "23699"
+    "id": "23699",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -61196,7 +61203,8 @@
     "name": "VOSPERNIK, Zdravko",
     "year": "1955-1995",
     "games": 42,
-    "id": "26455"
+    "id": "26455",
+    "synced": true
   },
   {
     "higestRating": 2588,
@@ -62870,7 +62878,8 @@
     "name": "HOMMERSON, Paul",
     "year": "2000-2016",
     "games": 41,
-    "id": "142879"
+    "id": "142879",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -67096,7 +67105,8 @@
     "name": "HILL, Shane Malcolm",
     "year": "1986-1991",
     "games": 36,
-    "id": "62438"
+    "id": "62438",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -93601,7 +93611,8 @@
     "name": "PEREIRA, Renato",
     "year": "1958-1968",
     "games": 19,
-    "id": "98214"
+    "id": "98214",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -100633,7 +100644,8 @@
     "name": "JANSEN, Christof",
     "year": "1990-2008",
     "games": 16,
-    "id": "88395"
+    "id": "88395",
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -109835,7 +109847,8 @@
     "name": "SADEGHI, Saeid",
     "year": "2007",
     "games": 3,
-    "id": "111239"
+    "id": "111239",
+    "synced": true
   },
   {
     "higestRating": 2281,
@@ -110609,7 +110622,8 @@
     "name": "KATZ, Michael S",
     "year": "2001",
     "games": 1,
-    "id": "57312"
+    "id": "57312",
+    "synced": true
   },
   {
     "higestRating": 2239,
