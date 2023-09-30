@@ -4393,7 +4393,8 @@
     "name": "BODNARUK, Anastasia",
     "year": "2001-2022",
     "games": 816,
-    "id": "105123"
+    "id": "105123",
+    "synced": true
   },
   {
     "higestRating": 2637,
@@ -20481,7 +20482,8 @@
     "name": "LEE, Peter N",
     "year": "1964-2023",
     "games": 183,
-    "id": "48189"
+    "id": "48189",
+    "synced": true
   },
   {
     "higestRating": 2548,
@@ -103151,7 +103153,8 @@
     "name": "EFLER, David",
     "year": "1992-2001",
     "games": 15,
-    "id": "55135"
+    "id": "55135",
+    "synced": true
   },
   {
     "higestRating": 2304,
