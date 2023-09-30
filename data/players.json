@@ -7942,7 +7942,8 @@
     "name": "HOWELL, James Clifford",
     "year": "1976-2004",
     "games": 494,
-    "id": "19312"
+    "id": "19312",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -32493,7 +32494,8 @@
     "name": "FRANKLIN, Samuel G A",
     "year": "2007-2019",
     "games": 104,
-    "id": "113767"
+    "id": "113767",
+    "synced": true
   },
   {
     "higestRating": 2233,
@@ -37444,7 +37446,8 @@
     "name": "STAJCIC, Nikola",
     "year": "1981-1997",
     "games": 86,
-    "id": "19752"
+    "id": "19752",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -48094,7 +48097,8 @@
     "name": "BURSTEIN, Roman",
     "year": "1995-2017",
     "games": 62,
-    "id": "56503"
+    "id": "56503",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -55677,7 +55681,8 @@
     "name": "YEWDOKIMOV, Oleg",
     "year": "1988-2004",
     "games": 49,
-    "id": "38951"
+    "id": "38951",
+    "synced": true
   },
   {
     "higestRating": 2252,
@@ -57578,7 +57583,8 @@
     "name": "LLORENS, Marcelo",
     "year": "1998-2017",
     "games": 47,
-    "id": "83897"
+    "id": "83897",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -72334,7 +72340,8 @@
     "name": "JUHASZ, Kristof",
     "year": "2008-2020",
     "games": 32,
-    "id": "117725"
+    "id": "117725",
+    "synced": true
   },
   {
     "higestRating": 2338,
@@ -78405,7 +78412,8 @@
     "name": "BEUKEMA, Jasper",
     "year": "2017-2021",
     "games": 28,
-    "id": "157998"
+    "id": "157998",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -81589,7 +81597,8 @@
     "name": "CELIK, Hasan Huseyin",
     "year": "2021-2023",
     "games": 26,
-    "id": "174961"
+    "id": "174961",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -82925,7 +82934,8 @@
     "name": "ZAKARIA, Fairin",
     "year": "1997-2008",
     "games": 25,
-    "id": "108140"
+    "id": "108140",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -86253,7 +86263,8 @@
     "name": "SMOLA, Michal",
     "year": "2008-2013",
     "games": 23,
-    "id": "126781"
+    "id": "126781",
+    "synced": true
   },
   {
     "higestRating": 2296,
@@ -92679,7 +92690,8 @@
     "name": "GRETZ, Denis",
     "year": "2015-2019",
     "games": 20,
-    "id": "155661"
+    "id": "155661",
+    "synced": true
   },
   {
     "higestRating": 2204,
@@ -103241,7 +103253,8 @@
     "name": "AFTSOGLOU, Ioannis",
     "year": "2000-2012",
     "games": 15,
-    "id": "53827"
+    "id": "53827",
+    "synced": true
   },
   {
     "higestRating": 2266,
