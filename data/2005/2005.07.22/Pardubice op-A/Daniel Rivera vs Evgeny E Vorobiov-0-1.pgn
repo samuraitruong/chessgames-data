@@ -1,0 +1,14 @@
+[Event "Pardubice op-A"]
+[Site "Pardubice"]
+[Date "2005.07.22"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Daniel Rivera"]
+[Black "Evgeny E Vorobiov"]
+[ECO "B85"]
+[WhiteElo "2323"]
+[BlackElo "2552"]
+[PlyCount "90"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. Be2 a6 7. O-O Nf6 8. Be3 Be7 9. f4 d6 10. Kh1 O-O 11. a4 Re8 12. a5 Nxa5 13. e5 dxe5 14. fxe5 Qxe5 15. Bf4 Qc5 16. Na4 Qa7 17. Be3 ( 17. Bc7 Nc4 $1 18. Bxc4 b5 19. Nb6 bxc4 20. Nxa8 Qxa8 21. Qd2 Bb7 ) Nd5 $1 ( b6 18. Nxe6 $5 (18. b4 $2 Nd5 19. Bd3 Nxe3 20. Bxh7+ Kf8 21. Rxf7+ Kxf7 22. Qh5+ Kf8 23. Bg6 Bf6 24. Qh8+ Ke7 25. Qxe8+ Kd6 ) Bxe6 ( Rb8 19. Nxg7 Kxg7 20. Qe1 Nc6 21. Qh4 Ng8 22. Rxf7+ $1 Kxf7 23. Qxh7+) 19. Bxb6 Qb7 20. Bxa5 Rac8 21. Bf3 Bd5 22. Bc3 Ne4 23. Bd4 Rcd8 24. Nc3 Nxc3 25. Bxc3 $11) ( Rd8 18. Bd3 (18. Nf5 exf5 19. Bxa7 Rxd1 20. Rfxd1 Rxa7 21. Nb6 Be6 22. Rxa5 Ne4 $11 ) b6 19. b4 e5 20. bxa5 exd4 ) 18. Bd3 $6 ( 18. Bg1 $5 b6 19. Bd3 (19. c4 Nb4 20. Nxb6 Qxb6 21. Nb3 Qc7 22. Nxa5 Rd8) g6 20. c4 (20. Nf3 Qc7) Nb4 21. Nf3 Bd8 $44 ) Nxe3 $1 19. Bxh7+ Kf8 20. Rxf7+ Kxf7 21. Qh5+ Kf8 22. Bg6 Bf6 23. Qh8+ Ke7 24. Qxe8+ Kd6 25. Qf8+ Kc7 26. Qf7+ Kb8 27. Nxe6 b5 28. Qf8 Qe7 ( Nac4 $1 29. Nac5 Qe7 $19) 29. Qxe7 Bxe7 30. Nb6 Bxe6 31. Nxa8 Kxa8 32. Rxa5 Kb7 33. Be4+ Kb6 34. Ra1 a5 35. Re1 Bc5 36. b4 axb4 37. Ra1 Bf5 38. Bxf5 Nxf5 39. g3 Ne3 40. Ra2 Bd4 41. h3 Kc5 42. Ra7 Kc4 43. Rc7+ Bc5 44. Rxg7 Nxc2 45. Rf7 b3 0-1

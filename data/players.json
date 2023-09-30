@@ -1312,7 +1312,8 @@
     "name": "VOROBIOV, Evgeny E",
     "year": "1994-2022",
     "games": 1559,
-    "id": "49687"
+    "id": "49687",
+    "synced": true
   },
   {
     "higestRating": 2539,
@@ -48102,7 +48103,8 @@
     "name": "DEBRAY, Christopher",
     "year": "2002-2016",
     "games": 62,
-    "id": "109888"
+    "id": "109888",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -55656,7 +55658,8 @@
     "name": "DOMINGUEZ, Jesus Garrido",
     "year": "2001-2012",
     "games": 49,
-    "id": "56253"
+    "id": "56253",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -96969,7 +96972,8 @@
     "name": "ZHU, Hengyi",
     "year": "2019-2023",
     "games": 18,
-    "id": "170552"
+    "id": "170552",
+    "synced": true
   },
   {
     "higestRating": 2243,
@@ -105132,7 +105136,8 @@
     "name": "COLIJN, Stefan",
     "year": "2007-2017",
     "games": 14,
-    "id": "112069"
+    "id": "112069",
+    "synced": true
   },
   {
     "higestRating": 2285,

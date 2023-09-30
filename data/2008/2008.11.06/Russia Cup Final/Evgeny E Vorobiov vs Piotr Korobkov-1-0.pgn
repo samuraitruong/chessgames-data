@@ -2,13 +2,13 @@
 [Site "Serpuhov RUS"]
 [Date "2008.11.06"]
 [EventDate "?"]
-[Round "1.2"]
+[Round "1.3"]
 [Result "1-0"]
 [White "Evgeny E Vorobiov"]
 [Black "Piotr Korobkov"]
-[ECO "E12"]
+[ECO "B10"]
 [WhiteElo "2577"]
 [BlackElo "2509"]
-[PlyCount "156"]
+[PlyCount "82"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Ba6 5. Qc2 Bb7 6. Nc3 c5 7. e4 cxd4 8. Nxd4 Bc5 9. Nb3 Nc6 10. Bf4 O-O 11. Rd1 e5 12. Bg5 Nd4 13. Nxd4 Bxd4 14. Bd3 h6 15. Bh4 Bxc3+ 16. Qxc3 d6 17. O-O g5 18. Bg3 Nh5 19. Rd2 Qe7 20. Rfd1 Nxg3 21. hxg3 Rfd8 22. Bf1 Rac8 23. Qe3 Rc7 24. b3 Bc8 25. a4 Be6 26. f4 Bg4 27. Re1 exf4 28. gxf4 gxf4 29. Qxf4 Qg5 30. Qf2 Re7 31. Re3 Rde8 32. Rxd6 Rxe4 33. Rxe4 Rxe4 34. Rd5 Qe3 35. Bd3 Qxf2+ 36. Kxf2 Re7 37. a5 Rd7 38. Rxd7 Bxd7 39. axb6 axb6 40. Ke3 Kf8 41. Kd4 Ke7 42. Kd5 Be8 43. g3 Kd7 44. c5 Kc7 45. cxb6+ Kxb6 46. Kd6 Bc6 47. Bc4 f5 48. Ke5 Kc5 49. Kxf5 h5 50. Be2 Kb4 51. Bd1 Bd5 52. Ke5 Bf7 53. Kf6 Be8 54. Bc2 Bc6 55. Bd1 Be8 56. Ke6 Bg6 57. Ke5 Bf7 58. Bc2 Be8 59. Kf5 Bd7+ 60. Kg5 Bg4 61. Bf5 Bd1 62. Be6 Kc3 63. Bf7 Kb4 64. Kg6 Kc3 65. Kh6 Kb4 66. Bxh5 Bxb3 67. g4 Kc5 68. g5 Bc2 69. Bg6 Ba4 70. Bf5 Be8 71. Bg4 Kd6 72. Bh5 Bc6 73. g6 Bd5 74. g7 Bg8 75. Kg6 Ke7 76. Bg4 Ke8 77. Kf6 Kd8 78. Be6 1-0
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Qa4+ Nbd7 6. Nc3 g6 7. Bc4 Bg7 8. Nf3 O-O 9. d3 a6 10. Qa3 Nb6 11. Qb3 Bg4 12. Ne5 Bf5 13. O-O Nbd7 14. Nxd7 Qxd7 15. a4 Ne8 16. Bg5 Nd6 17. Rfe1 Rfe8 18. a5 h6 19. Be3 Bxc3 20. Qxc3 Kh7 21. b3 Rac8 22. Qd4 g5 23. Bd2 f6 24. Re2 Bg6 25. Rae1 Nf5 26. Qb6 Bf7 27. d6 e5 28. Be3 Nxd6 29. Bxf7 Nxf7 30. Qxf6 Rc6 31. Qf3 Kg7 32. Bb6 Rc3 33. Re3 Rxb3 34. h3 Rc3 35. Qe4 Rec8 36. d4 Rxe3 37. Qxe3 exd4 38. Bxd4+ Kf8 39. Qe4 Rd8 40. Bf6 Nd6 41. Qe7+ 1-0
