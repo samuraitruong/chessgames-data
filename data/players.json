@@ -2348,7 +2348,8 @@
     "name": "HODGSON, Julian M",
     "year": "1976-2002",
     "games": 1183,
-    "id": "11751"
+    "id": "11751",
+    "synced": true
   },
   {
     "higestRating": 2480,
@@ -11084,7 +11085,8 @@
     "name": "FIRAT, Burak",
     "year": "2005-2023",
     "games": 359,
-    "id": "113243"
+    "id": "113243",
+    "synced": true
   },
   {
     "higestRating": 2486,
@@ -27788,7 +27790,8 @@
     "name": "PREOTU, Razvan",
     "year": "2010-2023",
     "games": 125,
-    "id": "128720"
+    "id": "128720",
+    "synced": true
   },
   {
     "higestRating": 2571,
@@ -42252,7 +42255,8 @@
     "name": "KUDISCHEWITSCH, David",
     "year": "1966-2020",
     "games": 74,
-    "id": "58249"
+    "id": "58249",
+    "synced": true
   },
   {
     "higestRating": 2264,
@@ -53507,7 +53511,8 @@
     "name": "BAI, Adelard",
     "year": "2018-2023",
     "games": 53,
-    "id": "161175"
+    "id": "161175",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -61100,7 +61105,8 @@
     "name": "YANKOVSKY, Roman",
     "year": "2005-2014",
     "games": 43,
-    "id": "124566"
+    "id": "124566",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -71085,7 +71091,8 @@
     "name": "JAIN, Akash",
     "year": "2006-2008",
     "games": 33,
-    "id": "107318"
+    "id": "107318",
+    "synced": true
   },
   {
     "higestRating": 2373,
@@ -71388,7 +71395,8 @@
     "name": "NOWAK, Lukasz",
     "year": "2013-2021",
     "games": 33,
-    "id": "158864"
+    "id": "158864",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -95656,7 +95664,8 @@
     "name": "TAMMELA, Kari",
     "year": "1991-2003",
     "games": 18,
-    "id": "65571"
+    "id": "65571",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -99182,7 +99191,8 @@
     "name": "KISIC, Bozidar",
     "year": "2012-2023",
     "games": 17,
-    "id": "139782"
+    "id": "139782",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -99505,7 +99515,8 @@
     "name": "LOZOYA, Jose Vicente Pallardo",
     "year": "2000-2022",
     "games": 17,
-    "id": "163093"
+    "id": "163093",
+    "synced": true
   },
   {
     "higestRating": 2202,
@@ -99877,7 +99888,8 @@
     "name": "GAL, Jozsef Istvan",
     "year": "1993-2005",
     "games": 16,
-    "id": "35167"
+    "id": "35167",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -102361,7 +102373,8 @@
     "name": "GHIMPU, Samuel-Timotei",
     "year": "2022-2023",
     "games": 16,
-    "id": "187176"
+    "id": "187176",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -111273,7 +111286,8 @@
     "name": "NAPOLES, Fanny Duarte",
     "year": "2010",
     "games": 1,
-    "id": "145722"
+    "id": "145722",
+    "synced": true
   },
   {
     "higestRating": 2326,
