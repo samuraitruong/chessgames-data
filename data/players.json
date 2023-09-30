@@ -2619,7 +2619,8 @@
     "name": "GOLUBEV, Mikhail",
     "year": "1979-2022",
     "games": 1127,
-    "id": "14511"
+    "id": "14511",
+    "synced": true
   },
   {
     "higestRating": 2615,
@@ -10832,7 +10833,8 @@
     "name": "BERCZES, David",
     "year": "1998-2022",
     "games": 366,
-    "id": "49798"
+    "id": "49798",
+    "synced": true
   },
   {
     "higestRating": 2418,
@@ -42857,7 +42859,8 @@
     "name": "ADY, Jonathan",
     "year": "1981-1999",
     "games": 72,
-    "id": "27489"
+    "id": "27489",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -51266,7 +51269,8 @@
     "name": "KERNAN, Bernard",
     "year": "1969-1976",
     "games": 56,
-    "id": "58978"
+    "id": "58978",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -65245,7 +65249,8 @@
     "name": "ERASCHENKOV, Denis",
     "year": "2001-2020",
     "games": 38,
-    "id": "50184"
+    "id": "50184",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -90519,7 +90524,8 @@
     "name": "BALENOVIC, Zvonimir",
     "year": "1985-2010",
     "games": 20,
-    "id": "39677"
+    "id": "39677",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -100664,7 +100670,8 @@
     "name": "NOREN, Kevin",
     "year": "1982-2003",
     "games": 16,
-    "id": "83808"
+    "id": "83808",
+    "synced": true
   },
   {
     "higestRating": 2316,
