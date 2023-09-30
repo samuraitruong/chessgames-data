@@ -7385,7 +7385,8 @@
     "name": "BERG, Klaus",
     "year": "1978-2019",
     "games": 526,
-    "id": "14055"
+    "id": "14055",
+    "synced": true
   },
   {
     "higestRating": 2450,
@@ -9018,7 +9019,8 @@
     "name": "DZIUBA, Marcin",
     "year": "1998-2023",
     "games": 440,
-    "id": "51581"
+    "id": "51581",
+    "synced": true
   },
   {
     "higestRating": 2485,
@@ -55631,7 +55633,8 @@
     "name": "DOUBLEDAY, William G",
     "year": "1968-2014",
     "games": 49,
-    "id": "22444"
+    "id": "22444",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -103765,7 +103768,8 @@
     "name": "UMGAEV, Alexander",
     "year": "1994-1997",
     "games": 15,
-    "id": "72280"
+    "id": "72280",
+    "synced": true
   },
   {
     "higestRating": 2210,
