@@ -6258,7 +6258,8 @@
     "name": "WEDBERG, Tom",
     "year": "1973-2022",
     "games": 620,
-    "id": "14340"
+    "id": "14340",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -16993,7 +16994,8 @@
     "name": "VOITSEKHOVSKY, Stanislav",
     "year": "1990-2013",
     "games": 225,
-    "id": "26119"
+    "id": "26119",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -18133,7 +18135,8 @@
     "name": "TOTH, Peter",
     "year": "1960-2004",
     "games": 211,
-    "id": "36207"
+    "id": "36207",
+    "synced": true
   },
   {
     "higestRating": 2504,
