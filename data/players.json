@@ -96,7 +96,8 @@
     "name": "MAMEDYAROV, Shakhriyar",
     "year": "1999-2023",
     "games": 3308,
-    "id": "50065"
+    "id": "50065",
+    "synced": true
   },
   {
     "higestRating": 2600,
@@ -79680,7 +79681,8 @@
     "name": "VASILEV, Vasil Aleksandrov",
     "year": "2010-2011",
     "games": 27,
-    "id": "138576"
+    "id": "138576",
+    "synced": true
   },
   {
     "higestRating": 2351,
