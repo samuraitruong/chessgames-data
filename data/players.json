@@ -4258,7 +4258,8 @@
     "name": "MUNGUNTUUL, Batkhuyag",
     "year": "1997-2023",
     "games": 833,
-    "id": "95767"
+    "id": "95767",
+    "synced": true
   },
   {
     "higestRating": 2563,
@@ -24649,7 +24650,8 @@
     "name": "BREDER, Dennis",
     "year": "1997-2022",
     "games": 148,
-    "id": "52610"
+    "id": "52610",
+    "synced": true
   },
   {
     "higestRating": 2402,
@@ -47021,7 +47023,8 @@
     "name": "CIFKA, Stanislav",
     "year": "1998-2012",
     "games": 64,
-    "id": "92380"
+    "id": "92380",
+    "synced": true
   },
   {
     "higestRating": 2480,
@@ -51710,7 +51713,8 @@
     "name": "ADLER, Viktor",
     "year": "1962-2005",
     "games": 55,
-    "id": "26779"
+    "id": "26779",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -85493,7 +85497,8 @@
     "name": "REZZUTI, Vincenzo",
     "year": "1991-1999",
     "games": 23,
-    "id": "90332"
+    "id": "90332",
+    "synced": true
   },
   {
     "higestRating": 2465,
