@@ -11794,7 +11794,8 @@
     "name": "SALOMON, Johan",
     "year": "2009-2019",
     "games": 335,
-    "id": "120970"
+    "id": "120970",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -13284,7 +13285,8 @@
     "name": "SUAREZ, Isan Reynaldo Ortiz",
     "year": "2005-2023",
     "games": 295,
-    "id": "130255"
+    "id": "130255",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -28221,7 +28223,8 @@
     "name": "MASSEREY, Yvan",
     "year": "1990-2005",
     "games": 122,
-    "id": "27277"
+    "id": "27277",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -29869,7 +29872,8 @@
     "name": "RONCHETTI, Niccolo",
     "year": "2001-2013",
     "games": 114,
-    "id": "95801"
+    "id": "95801",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -31859,7 +31863,8 @@
     "name": "SANA, Mariano",
     "year": "2003-2023",
     "games": 106,
-    "id": "85890"
+    "id": "85890",
+    "synced": true
   },
   {
     "higestRating": 2392,
@@ -35018,7 +35023,8 @@
     "name": "BARAGAR, Fletcher",
     "year": "1975-2003",
     "games": 94,
-    "id": "22488"
+    "id": "22488",
+    "synced": true
   },
   {
     "higestRating": 2447,
@@ -58420,7 +58426,8 @@
     "name": "FREEMAN, Michael Roy",
     "year": "1977-2018",
     "games": 46,
-    "id": "108388"
+    "id": "108388",
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -100721,7 +100728,8 @@
     "name": "WYRWICH, Thomas",
     "year": "1995-2000",
     "games": 16,
-    "id": "70286"
+    "id": "70286",
+    "synced": true
   },
   {
     "higestRating": 2293,
