@@ -3470,7 +3470,8 @@
     "name": "HALKIAS, Stelios",
     "year": "1992-2023",
     "games": 966,
-    "id": "49439"
+    "id": "49439",
+    "synced": true
   },
   {
     "higestRating": 2656,
@@ -40343,7 +40344,8 @@
     "name": "LESKI, Marc",
     "year": "1982-2006",
     "games": 78,
-    "id": "14389"
+    "id": "14389",
+    "synced": true
   },
   {
     "higestRating": 2513,
@@ -50794,7 +50796,8 @@
     "name": "KACZOROWSKA, Barbara",
     "year": "1986-1999",
     "games": 57,
-    "id": "92579"
+    "id": "92579",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -60838,7 +60841,8 @@
     "name": "KALDOR, Avraham",
     "year": "1972-2001",
     "games": 43,
-    "id": "58508"
+    "id": "58508",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -73049,7 +73053,8 @@
     "name": "TOVILLAS, Daniel R",
     "year": "1978-2008",
     "games": 31,
-    "id": "48535"
+    "id": "48535",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -102976,7 +102981,8 @@
     "name": "PETROSIAN, Tigran A",
     "year": "1996-2005",
     "games": 15,
-    "id": "50104"
+    "id": "50104",
+    "synced": true
   },
   {
     "higestRating": 2283,
