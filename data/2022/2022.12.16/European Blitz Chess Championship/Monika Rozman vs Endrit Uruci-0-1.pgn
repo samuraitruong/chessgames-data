@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.16"]
+[EventDate "2022.12.16"]
+[Round "10.95"]
+[Result "0-1"]
+[White "Monika Rozman"]
+[Black "Endrit Uruci"]
+[ECO "B15"]
+[WhiteElo "2125"]
+[BlackElo "2297"]
+[PlyCount "36"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8. Qc2 Re8+ 9. Ne2 g6 10. O-O Nd7 11. Be3 f5 12. c4 Nf8 13. Rfd1 Bd7 14. g3 Rc8 15. Qd2 Ne6 16. d5 Nc5 17. Bc2 cxd5 18. cxd5 Ne4 0-1

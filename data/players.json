@@ -12201,7 +12201,8 @@
     "name": "HEIMANN, Andreas",
     "year": "2005-2022",
     "games": 323,
-    "id": "107280"
+    "id": "107280",
+    "synced": true
   },
   {
     "higestRating": 2465,
@@ -27858,7 +27859,8 @@
     "name": "NOSENKO, Alexander",
     "year": "1984-2016",
     "games": 124,
-    "id": "51413"
+    "id": "51413",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -28894,7 +28896,8 @@
     "name": "URUCI, Endrit",
     "year": "2016-2022",
     "games": 119,
-    "id": "154805"
+    "id": "154805",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -35338,7 +35341,8 @@
     "name": "BARBER, Haydn J",
     "year": "1969-2001",
     "games": 93,
-    "id": "55527"
+    "id": "55527",
+    "synced": true
   },
   {
     "higestRating": 2307,
@@ -35459,7 +35463,8 @@
     "name": "HOLLEMAERT, Nahuel Diaz",
     "year": "1994-2023",
     "games": 93,
-    "id": "114699"
+    "id": "114699",
+    "synced": true
   },
   {
     "higestRating": 2462,
@@ -48033,7 +48038,8 @@
     "name": "AGABABEAN, Naira",
     "year": "1979-2017",
     "games": 62,
-    "id": "57478"
+    "id": "57478",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -57432,7 +57438,8 @@
     "name": "OKRUGIN, Sergey",
     "year": "1989-2019",
     "games": 47,
-    "id": "71714"
+    "id": "71714",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -58876,7 +58883,8 @@
     "name": "POSCH, Werner",
     "year": "1993-2005",
     "games": 45,
-    "id": "58583"
+    "id": "58583",
+    "synced": true
   },
   {
     "higestRating": 2319,
@@ -68345,7 +68353,8 @@
     "name": "YAUCA, Javier Longa",
     "year": "1998-2018",
     "games": 35,
-    "id": "55731"
+    "id": "55731",
+    "synced": true
   },
   {
     "higestRating": 2218,
@@ -79366,7 +79375,8 @@
     "name": "MAS, Vicens Santamaria",
     "year": "1982-2010",
     "games": 27,
-    "id": "109254"
+    "id": "109254",
+    "synced": true
   },
   {
     "higestRating": 2249,
@@ -89389,7 +89399,8 @@
     "name": "LUPO, Alfredo",
     "year": "1983-1999",
     "games": 21,
-    "id": "90333"
+    "id": "90333",
+    "synced": true
   },
   {
     "higestRating": 2283,
@@ -92543,7 +92554,8 @@
     "name": "DAGHLI, Arash",
     "year": "2017-2022",
     "games": 20,
-    "id": "158567"
+    "id": "158567",
+    "synced": true
   },
   {
     "higestRating": 2362,
@@ -98847,7 +98859,8 @@
     "name": "ELORTA, David",
     "year": "2009-2014",
     "games": 17,
-    "id": "122069"
+    "id": "122069",
+    "synced": true
   },
   {
     "higestRating": 2335,
