@@ -3592,7 +3592,8 @@
     "name": "HOVHANNISYAN, Robert",
     "year": "2003-2023",
     "games": 945,
-    "id": "91952"
+    "id": "91952",
+    "synced": true
   },
   {
     "higestRating": 2720,
@@ -21714,7 +21715,8 @@
     "name": "SIMONIAN, Hrair",
     "year": "2004-2021",
     "games": 172,
-    "id": "105731"
+    "id": "105731",
+    "synced": true
   },
   {
     "higestRating": 2276,
@@ -98161,7 +98163,8 @@
     "name": "DEMIR, Gokhan",
     "year": "1990-2012",
     "games": 17,
-    "id": "80633"
+    "id": "80633",
+    "synced": true
   },
   {
     "higestRating": 2216,
