@@ -11594,7 +11594,8 @@
     "name": "IVANOV, Mikhail M",
     "year": "1994-2022",
     "games": 341,
-    "id": "27087"
+    "id": "27087",
+    "synced": true
   },
   {
     "higestRating": 2523,
@@ -14674,7 +14675,8 @@
     "name": "VAN DER WERF, Mark",
     "year": "1984-2023",
     "games": 265,
-    "id": "40389"
+    "id": "40389",
+    "synced": true
   },
   {
     "higestRating": 2212,
@@ -18064,7 +18066,8 @@
     "name": "STETSKO, Lanita",
     "year": "2008-2020",
     "games": 212,
-    "id": "118016"
+    "id": "118016",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -19823,7 +19826,8 @@
     "name": "PERUNOVIC, Miodrag",
     "year": "1994-2022",
     "games": 191,
-    "id": "96747"
+    "id": "96747",
+    "synced": true
   },
   {
     "higestRating": 2528,
@@ -24971,7 +24975,8 @@
     "name": "QIN, Kanying",
     "year": "1989-2008",
     "games": 145,
-    "id": "11037"
+    "id": "11037",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -74933,7 +74938,8 @@
     "name": "JERAN, Bostjan",
     "year": "2005-2017",
     "games": 30,
-    "id": "96793"
+    "id": "96793",
+    "synced": true
   },
   {
     "higestRating": 2565,
