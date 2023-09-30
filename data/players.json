@@ -3615,7 +3615,8 @@
     "name": "PALERMO, Carlos Garcia",
     "year": "1970-2020",
     "games": 940,
-    "id": "81333"
+    "id": "81333",
+    "synced": true
   },
   {
     "higestRating": 2604,
@@ -7754,7 +7755,8 @@
     "name": "CARLSSON, Pontus",
     "year": "1998-2021",
     "games": 503,
-    "id": "50058"
+    "id": "50058",
+    "synced": true
   },
   {
     "higestRating": 2520,
@@ -51712,7 +51714,8 @@
     "name": "KOCHETKOV, German",
     "year": "1988-2017",
     "games": 55,
-    "id": "30523"
+    "id": "30523",
+    "synced": true
   },
   {
     "higestRating": 2397,
