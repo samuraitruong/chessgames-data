@@ -3916,7 +3916,8 @@
     "name": "MILOV, Vadim",
     "year": "1984-2021",
     "games": 890,
-    "id": "21410"
+    "id": "21410",
+    "synced": true
   },
   {
     "higestRating": 2706,
@@ -9814,7 +9815,8 @@
     "name": "GAUSEL, Einar J",
     "year": "1982-2017",
     "games": 402,
-    "id": "14458"
+    "id": "14458",
+    "synced": true
   },
   {
     "higestRating": 2555,
@@ -17289,7 +17291,8 @@
     "name": "MORENO, Javier Campos",
     "year": "1979-2020",
     "games": 221,
-    "id": "48907"
+    "id": "48907",
+    "synced": true
   },
   {
     "higestRating": 2511,
@@ -33134,7 +33137,8 @@
     "name": "ROHONYAN, Katerina",
     "year": "1997-2013",
     "games": 101,
-    "id": "58201"
+    "id": "58201",
+    "synced": true
   },
   {
     "higestRating": 2512,
@@ -43396,7 +43400,8 @@
     "name": "GAMBACK, Bjorn",
     "year": "1994-2016",
     "games": 71,
-    "id": "49864"
+    "id": "49864",
+    "synced": true
   },
   {
     "higestRating": 2527,
@@ -61137,7 +61142,8 @@
     "name": "ALOTHMAN, Ali Layth Ahmed",
     "year": "2007-2023",
     "games": 43,
-    "id": "140129"
+    "id": "140129",
+    "synced": true
   },
   {
     "higestRating": 2438,
@@ -65336,7 +65342,8 @@
     "name": "PAVLOVIC, Dejan S",
     "year": "2000-2015",
     "games": 38,
-    "id": "56622"
+    "id": "56622",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -72013,7 +72020,8 @@
     "name": "TORRES, Pedro Navarro",
     "year": "1985-2008",
     "games": 32,
-    "id": "92746"
+    "id": "92746",
+    "synced": true
   },
   {
     "higestRating": 2426,
@@ -82942,7 +82950,8 @@
     "name": "MARIE, Maxime",
     "year": "2003-2022",
     "games": 25,
-    "id": "137117"
+    "id": "137117",
+    "synced": true
   },
   {
     "higestRating": 2420,

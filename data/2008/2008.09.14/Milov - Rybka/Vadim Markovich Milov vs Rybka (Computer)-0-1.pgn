@@ -1,0 +1,14 @@
+[Event "Milov - Rybka"]
+[Site "Potomac USA"]
+[Date "2008.09.14"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Vadim Markovich Milov"]
+[Black "Rybka (Computer)"]
+[ECO "A06"]
+[WhiteElo "2705"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. Nf3 d5 2. e3 Nf6 3. c4 c6 4. Nc3 e6 5. b3 Nbd7 6. Bb2 Bd6 7. d4 O-O 8. Be2 Qe7 9. O-O b6 10. Rc1 Bb7 11. Rc2 Ne4 12. Nxe4 dxe4 13. Ne5 Rfd8 14. Qa1 Bc7 15. Rd1 Nb8 16. c5 f6 17. Nc4 b5 18. Nd6 Bxd6 19. cxd6 Qxd6 20. a4 b4 21. f3 exf3 22. Bxf3 Nd7 23. Qc1 Rac8 24. Rc4 f5 25. Qd2 Ne5 26. Rc5 Nxf3+ 27. gxf3 a5 28. Qe1 Qe7 29. Rd2 Rd5 30. Qg3 Rcd8 31. Rdc2 e5 32. Rxd5 Rxd5 33. Rc5 Rxc5 34. dxc5 Qxc5 35. Qxe5 Qxe5 36. Bxe5 c5 37. Kf2 Bd5 38. Bc7 Bxb3 39. Bxa5 Bxa4 40. Bc7 Kf7 41. Bd6 b3 42. Be5 g5 43. Ke2 Ke6 44. Bb2 h5 45. Kd3 Bb5+ 46. Kc3 g4 47. fxg4 fxg4 48. Ba3 h4 0-1
