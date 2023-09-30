@@ -1,0 +1,14 @@
+[Event "Najdorf mem op"]
+[Site "Buenos Aires"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Gustavo Mallada"]
+[Black "Diego Flores"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "2319"]
+[PlyCount "38"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. O-O Bg7 8. Re1 O-O 9. Nbd2 Nd7 10. Nf1 Nc5 11. Bc2 Ne6 12. Ne3 Kh8 13. h3 f5 14. exf5 gxf5 15. Nf1 d5 16. c4 dxc4 17. dxc4 Qxd1 18. Rxd1 e4 19. N3h2 Ned4 0-1

@@ -2428,7 +2428,8 @@
     "name": "FLORES, Diego",
     "year": "1994-2022",
     "games": 1175,
-    "id": "53050"
+    "id": "53050",
+    "synced": true
   },
   {
     "higestRating": 2545,
@@ -61856,7 +61857,8 @@
     "name": "TASSOPOULOS, Marios",
     "year": "2001-2010",
     "games": 42,
-    "id": "98828"
+    "id": "98828",
+    "synced": true
   },
   {
     "higestRating": 2474,
