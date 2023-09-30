@@ -1060,7 +1060,8 @@
     "name": "CHANDLER, Murray",
     "year": "1973-2013",
     "games": 1656,
-    "id": "11788"
+    "id": "11788",
+    "synced": true
   },
   {
     "higestRating": 2670,
@@ -24047,7 +24048,8 @@
     "name": "LYRBERG, Patrik",
     "year": "1990-2022",
     "games": 151,
-    "id": "14451"
+    "id": "14451",
+    "synced": true
   },
   {
     "higestRating": 2221,
@@ -36960,7 +36962,8 @@
     "name": "BHUVANESH, Ramnath",
     "year": "2006-2016",
     "games": 88,
-    "id": "129576"
+    "id": "129576",
+    "synced": true
   },
   {
     "higestRating": 2418,
@@ -54466,7 +54469,8 @@
     "name": "POGROMSKY, Mikhail",
     "year": "2000-2021",
     "games": 51,
-    "id": "107112"
+    "id": "107112",
+    "synced": true
   },
   {
     "higestRating": 2239,
@@ -57199,7 +57203,8 @@
     "name": "FERNANDEZ, Alvaro Blanco",
     "year": "1993-2022",
     "games": 47,
-    "id": "46611"
+    "id": "46611",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -77225,7 +77230,8 @@
     "name": "KOSTER, Ramon",
     "year": "2000-2005",
     "games": 28,
-    "id": "49254"
+    "id": "49254",
+    "synced": true
   },
   {
     "higestRating": 2239,
@@ -78765,7 +78771,8 @@
     "name": "TOKMACHEV, Mikhail",
     "year": "2000-2012",
     "games": 27,
-    "id": "50845"
+    "id": "50845",
+    "synced": true
   },
   {
     "higestRating": 2296,
@@ -80201,7 +80208,8 @@
     "name": "KLARNER, William",
     "year": "1972-2013",
     "games": 26,
-    "id": "49757"
+    "id": "49757",
+    "synced": true
   },
   {
     "higestRating": 2316,
