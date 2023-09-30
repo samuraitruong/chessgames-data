@@ -3586,7 +3586,8 @@
     "name": "LAZNICKA, Viktor",
     "year": "1998-2021",
     "games": 949,
-    "id": "54640"
+    "id": "54640",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -14501,7 +14502,8 @@
     "name": "VIJAYALAKSHMI, Subbaraman",
     "year": "1994-2018",
     "games": 268,
-    "id": "49546"
+    "id": "49546",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -45089,7 +45091,8 @@
     "name": "BRAJOVIC, Radovan",
     "year": "1979-2009",
     "games": 68,
-    "id": "85429"
+    "id": "85429",
+    "synced": true
   },
   {
     "higestRating": 2232,
@@ -52090,7 +52093,8 @@
     "name": "SERGEJEV, Roman",
     "year": "1994-2001",
     "games": 55,
-    "id": "61383"
+    "id": "61383",
+    "synced": true
   },
   {
     "higestRating": 2431,
