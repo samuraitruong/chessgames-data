@@ -2837,7 +2837,8 @@
     "name": "GUERRERO, Gilberto Hernandez",
     "year": "1983-2022",
     "games": 1097,
-    "id": "27712"
+    "id": "27712",
+    "synced": true
   },
   {
     "higestRating": 2672,
@@ -21792,7 +21793,8 @@
     "name": "KAENEL, Hansjuerg",
     "year": "1972-2014",
     "games": 171,
-    "id": "27070"
+    "id": "27070",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -24997,7 +24999,8 @@
     "name": "VATTER, Hans-Joachim",
     "year": "1980-2018",
     "games": 145,
-    "id": "11721"
+    "id": "11721",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -69657,7 +69660,8 @@
     "name": "MOHEBBI, Jafar",
     "year": "1987-2018",
     "games": 34,
-    "id": "58404"
+    "id": "58404",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -110752,7 +110756,8 @@
     "name": "MASON, Bill",
     "year": "1996",
     "games": 2,
-    "id": "95129"
+    "id": "95129",
+    "synced": true
   },
   {
     "higestRating": 2507,
