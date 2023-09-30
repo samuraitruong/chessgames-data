@@ -1639,7 +1639,8 @@
     "name": "VAN FOREEST, Jorden",
     "year": "2010-2023",
     "games": 1438,
-    "id": "131179"
+    "id": "131179",
+    "synced": true
   },
   {
     "higestRating": 2606,
@@ -13576,7 +13577,8 @@
     "name": "LNENICKOVA, Gabriela",
     "year": "1992-2014",
     "games": 289,
-    "id": "84843"
+    "id": "84843",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -39560,7 +39562,8 @@
     "name": "HENRIKSSON, Johan",
     "year": "1996-2022",
     "games": 81,
-    "id": "112155"
+    "id": "112155",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -56142,7 +56145,8 @@
     "name": "MIKHAILOVSKY, Vladimir",
     "year": "2015-2021",
     "games": 49,
-    "id": "162645"
+    "id": "162645",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -67422,7 +67426,8 @@
     "name": "OSSIPOV, Victor",
     "year": "1936-2011",
     "games": 36,
-    "id": "79130"
+    "id": "79130",
+    "synced": true
   },
   {
     "higestRating": 2287,
@@ -88509,7 +88514,8 @@
     "name": "CHANDLER, Clifford",
     "year": "1977-2011",
     "games": 21,
-    "id": "24563"
+    "id": "24563",
+    "synced": true
   },
   {
     "higestRating": 2288,
@@ -90748,7 +90754,8 @@
     "name": "TAMAI, Roberto",
     "year": "1982-1993",
     "games": 20,
-    "id": "44493"
+    "id": "44493",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -93171,7 +93178,8 @@
     "name": "SIMIC, Dragisa",
     "year": "1993-2017",
     "games": 19,
-    "id": "49608"
+    "id": "49608",
+    "synced": true
   },
   {
     "higestRating": 2486,
