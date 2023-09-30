@@ -1,0 +1,14 @@
+[Event "Munich GER"]
+[Site "Munich GER"]
+[Date "1975.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Hoffmann"]
+[Black "Yosef Richter"]
+[ECO "B24"]
+[WhiteElo "2471"]
+[BlackElo "2414"]
+[PlyCount "26"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 e6 4.Bg2 Nf6 5.Nge2 d5 6.exd5 exd5 7.d4 Bg4 8.dxc5 Bxc5 9.Nxd5 Nd4 10.Nxf6+ Qxf6 11.f3 Qxf3 12.Bxf3 Nxf3+ 13.Kf1 Bh3# 0-1
