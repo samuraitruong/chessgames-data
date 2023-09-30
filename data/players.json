@@ -4993,7 +4993,8 @@
     "name": "GARCIA, Antonio Angel Medina",
     "year": "1943-1998",
     "games": 748,
-    "id": "40277"
+    "id": "40277",
+    "synced": true
   },
   {
     "higestRating": 2714,
@@ -11318,7 +11319,8 @@
     "name": "LITTLEWOOD, John Eric",
     "year": "1952-2009",
     "games": 350,
-    "id": "47714"
+    "id": "47714",
+    "synced": true
   },
   {
     "higestRating": 2466,
@@ -21698,7 +21700,8 @@
     "name": "UJTUMEN, Tudev",
     "year": "1964-1987",
     "games": 172,
-    "id": "46139"
+    "id": "46139",
+    "synced": true
   },
   {
     "higestRating": 2481,
@@ -83286,7 +83289,8 @@
     "name": "AGDELEN, Huseyin Can",
     "year": "2018-2023",
     "games": 25,
-    "id": "161579"
+    "id": "161579",
+    "synced": true
   },
   {
     "higestRating": 2214,
@@ -108680,7 +108684,8 @@
     "name": "LOBARTE, Jose Andres Anglada",
     "year": "1989-2001",
     "games": 7,
-    "id": "142017"
+    "id": "142017",
+    "synced": true
   },
   {
     "higestRating": 2289,
@@ -109563,7 +109568,8 @@
     "name": "BRAEUNLIN, Herbert",
     "year": "1975-1990",
     "games": 4,
-    "id": "73182"
+    "id": "73182",
+    "synced": true
   },
   {
     "higestRating": 2340,

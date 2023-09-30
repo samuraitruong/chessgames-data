@@ -2,13 +2,13 @@
 [Site "Wijk aan Zee NED"]
 [Date "1971.01.??"]
 [EventDate "?"]
-[Round "2"]
+[Round "4"]
 [Result "1-0"]
 [White "Herman C van Riemsdijk"]
 [Black "Antonio Angel Medina Garcia"]
 [ECO "C72"]
 [WhiteElo "2340"]
 [BlackElo "2400"]
-[PlyCount "83"]
+[PlyCount "81"]
 
-1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Bd7 6.c3 Nge7 7.d4 Ng6 8.Re1 Be7 9.Nbd2 O-O 10.Nf1 Bg4 11.Be3 b5 12.Bc2 Nh4 13.N1d2 exd4 14.cxd4 Nb4 15.Bb1 c5 16.h3 cxd4 17.Bxd4 Nxf3+ 18.Nxf3 Bxf3 19.Qxf3 Nc6 20.Be3 Bf6 21.Qe2 Ne5 22.a4 Nc4 23.axb5 axb5 24.Rxa8 Qxa8 25.Bc1 g6 26.b3 Na5 27.Bf4 Nxb3 28.Bxd6 Nd4 29.Qd1 Rd8 30.e5 Qd5 31.Bc7 Be7 32.Bxd8 Bxd8 33.Ba2 Qxa2 34.Qxd4 Ba5 35.Ra1 Qd2 36.Qc5 Qc3 37.Rc1 Qd2 38.Rb1 Bc3 39.Qxb5 Bd4 40.Rf1 Qg5 41.Qe8+ Kg7 42.e6 1-0
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Bd7 6.c3 g6 7.d4 Bg7 8.dxe5 dxe5 9.Qe2 Nge7 10.Rd1 O-O 11.Na3 Qc8 12.Be3 b6 13.Rd2 h6 14.Bb3 Be6 15.Bd5 Bg4 16.h3 Nxd5 17.exd5 e4 18.hxg4 exf3 19.gxf3 Ne5 20.Nc4 h5 21.gxh5 Qf5 22.Nxe5 Bxe5 23.Kg2 Rae8 24.Qc4 gxh5 25.Qh4 Kg7 26.Rh1 Rh8 27.Qe4 Qf6 28.Qd3 Kf8 29.Kf1 h4 30.Qc4 h3 31.f4 Qg6 32.fxe5 Qg2+ 33.Ke2 Qxh1 34.Qb4+ Kg8 35.Rd4 Rh7 36.Rg4+ Rg7 37.Rxg7+ Kxg7 38.Qg4+ Kh7 39.Qh5+ Kg8 40.e6 Re7 41.Qg4+ 1-0
