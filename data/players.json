@@ -6340,7 +6340,8 @@
     "name": "FULLER, Maxwell",
     "year": "1960-2004",
     "games": 609,
-    "id": "39614"
+    "id": "39614",
+    "synced": true
   },
   {
     "higestRating": 2588,
@@ -16566,7 +16567,8 @@
     "name": "ALEXANDROVA, Olga",
     "year": "1996-2014",
     "games": 231,
-    "id": "49635"
+    "id": "49635",
+    "synced": true
   },
   {
     "higestRating": 2468,
@@ -24206,7 +24208,8 @@
     "name": "ALZATE, Dario",
     "year": "1970-2017",
     "games": 150,
-    "id": "15662"
+    "id": "15662",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -29607,7 +29610,8 @@
     "name": "PASCUAL, Antonio Gual",
     "year": "1988-2020",
     "games": 115,
-    "id": "55368"
+    "id": "55368",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -31353,7 +31357,8 @@
     "name": "QUIROGA, Facundo",
     "year": "1976-2018",
     "games": 108,
-    "id": "66612"
+    "id": "66612",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -41411,7 +41416,8 @@
     "name": "NOVOTNY, Michal",
     "year": "1996-2022",
     "games": 76,
-    "id": "61630"
+    "id": "61630",
+    "synced": true
   },
   {
     "higestRating": 2432,
@@ -67503,7 +67509,8 @@
     "name": "KHOMYAKOV, Vladimir",
     "year": "1988-2000",
     "games": 36,
-    "id": "102863"
+    "id": "102863",
+    "synced": true
   },
   {
     "higestRating": 2366,
@@ -78844,7 +78851,8 @@
     "name": "BENDERAC, Srdjan",
     "year": "1989-2007",
     "games": 27,
-    "id": "54559"
+    "id": "54559",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -79078,7 +79086,8 @@
     "name": "KINSIZ, Onur",
     "year": "1999-2012",
     "games": 27,
-    "id": "88234"
+    "id": "88234",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -86777,7 +86786,8 @@
     "name": "MALFAGIA, Andrea",
     "year": "1984-2009",
     "games": 22,
-    "id": "47381"
+    "id": "47381",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -92511,7 +92521,8 @@
     "name": "EMANUEL, Yahav",
     "year": "2017-2020",
     "games": 20,
-    "id": "159304"
+    "id": "159304",
+    "synced": true
   },
   {
     "higestRating": 2354,
@@ -101227,7 +101238,8 @@
     "name": "SANTANA, Fernando Hidalgo",
     "year": "1992-2004",
     "games": 16,
-    "id": "100002"
+    "id": "100002",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -110153,7 +110165,8 @@
     "name": "SUGAR, Karoly",
     "year": "1985-1992",
     "games": 3,
-    "id": "131871"
+    "id": "131871",
+    "synced": true
   },
   {
     "higestRating": 2211,
