@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.14"]
+[EventDate "2020.08.14"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Niaz Murshed"]
+[Black "Aleksej Gennadyevich Aleksandrov"]
+[ECO "D38"]
+[WhiteElo "2476"]
+[BlackElo "2549"]
+[PlyCount "40"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Qa4+ Nc6 7. Bg5 h6 8. Bxf6 Qxf6 9. e3 O-O 10. Be2 Be6 11. O-O a6 12. Qc2 Bd6 13. Rfd1 Kh8 14. a3 Ne7 15. e4 dxe4 16. Nxe4 Bf5 17. Bd3 Bxe4 18. Bxe4 c6 19. d5 cxd5 20. Bxd5 Nxd5 1/2-1/2
