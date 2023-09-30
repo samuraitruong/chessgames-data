@@ -3798,7 +3798,8 @@
     "name": "BOENSCH, Uwe",
     "year": "1974-2022",
     "games": 912,
-    "id": "11607"
+    "id": "11607",
+    "synced": true
   },
   {
     "higestRating": 2651,
@@ -44680,7 +44681,8 @@
     "name": "FANG, Yan",
     "year": "2012-2019",
     "games": 69,
-    "id": "143240"
+    "id": "143240",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -54495,7 +54497,8 @@
     "name": "PAPROCKI, Jaroslaw",
     "year": "2006-2022",
     "games": 51,
-    "id": "110966"
+    "id": "110966",
+    "synced": true
   },
   {
     "higestRating": 2442,
@@ -74948,7 +74951,8 @@
     "name": "KULAGO, Alexander",
     "year": "2004-2012",
     "games": 30,
-    "id": "105784"
+    "id": "105784",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -88475,7 +88479,8 @@
     "name": "GRINFELD, Alla B",
     "year": "1973-1997",
     "games": 21,
-    "id": "25452"
+    "id": "25452",
+    "synced": true
   },
   {
     "higestRating": 2240,
