@@ -14590,7 +14590,8 @@
     "name": "GAO, Rui",
     "year": "2005-2019",
     "games": 266,
-    "id": "98957"
+    "id": "98957",
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -15073,7 +15074,8 @@
     "name": "PACHER, Milan",
     "year": "1999-2023",
     "games": 258,
-    "id": "58400"
+    "id": "58400",
+    "synced": true
   },
   {
     "higestRating": 2535,
@@ -15896,7 +15898,8 @@
     "name": "QUINN, Mark",
     "year": "1991-2019",
     "games": 243,
-    "id": "17170"
+    "id": "17170",
+    "synced": true
   },
   {
     "higestRating": 2487,
@@ -33995,7 +33998,8 @@
     "name": "MATJUSHIN, Gennadi",
     "year": "1999-2017",
     "games": 98,
-    "id": "56722"
+    "id": "56722",
+    "synced": true
   },
   {
     "higestRating": 2382,
@@ -44407,7 +44411,8 @@
     "name": "ZJUKIN, Sergei",
     "year": "1990-2007",
     "games": 69,
-    "id": "34975"
+    "id": "34975",
+    "synced": true
   },
   {
     "higestRating": 2321,
@@ -54218,7 +54223,8 @@
     "name": "SOBEK, Jaroslav",
     "year": "1980-2017",
     "games": 51,
-    "id": "51883"
+    "id": "51883",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -57573,7 +57579,8 @@
     "name": "JACOBS, Robert Merton",
     "year": "1954-2004",
     "games": 47,
-    "id": "97792"
+    "id": "97792",
+    "synced": true
   },
   {
     "higestRating": 2497,
@@ -65104,7 +65111,8 @@
     "name": "MAHMUD, Syarif",
     "year": "1982-2019",
     "games": 38,
-    "id": "23645"
+    "id": "23645",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -69110,7 +69118,8 @@
     "name": "JESENSKI, Tibor",
     "year": "1989-2019",
     "games": 34,
-    "id": "21352"
+    "id": "21352",
+    "synced": true
   },
   {
     "higestRating": 2283,
@@ -72831,7 +72840,8 @@
     "name": "VAN DER HEIJDEN, Ton",
     "year": "1969-2018",
     "games": 31,
-    "id": "30750"
+    "id": "30750",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -75015,7 +75025,8 @@
     "name": "NGUYEN, Hoang Nam",
     "year": "2005-2018",
     "games": 30,
-    "id": "122075"
+    "id": "122075",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -85241,7 +85252,8 @@
     "name": "GERENSKI, Hristo",
     "year": "1958-2005",
     "games": 23,
-    "id": "56596"
+    "id": "56596",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -89453,7 +89465,8 @@
     "name": "PETRAKOV, Anton",
     "year": "1991-1995",
     "games": 21,
-    "id": "92243"
+    "id": "92243",
+    "synced": true
   },
   {
     "higestRating": 2268,
