@@ -1,0 +1,15 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.10.30"]
+[EventDate "1982.10.30"]
+[Round "1"]
+[Result "1-0"]
+[White "Lev Gutman"]
+[Black "Charles Azzopardi"]
+[ECO "A04"]
+[WhiteElo "2475"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "27"]
+
+1.Nf3 b6 2.g3 Bb7 3.Bg2 e5 4.O-O d6 5.d4 exd4 6.Nxd4 Bxg2 7.Kxg2 Qd7 8.Qd3 Ne7 9.Nc3 Nbc6 10.e4 g6 11.Nxc6 Nxc6 12.Nd5 O-O-O 13.Qc3 Be7 14.Qxc6 1-0
