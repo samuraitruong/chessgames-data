@@ -3332,7 +3332,8 @@
     "name": "NANU, Ciprian-Costica",
     "year": "1994-2023",
     "games": 989,
-    "id": "49366"
+    "id": "49366",
+    "synced": true
   },
   {
     "higestRating": 2550,
@@ -11585,7 +11586,8 @@
     "name": "VASILEVICH, Irina",
     "year": "1996-2019",
     "games": 341,
-    "id": "50305"
+    "id": "50305",
+    "synced": true
   },
   {
     "higestRating": 2451,
@@ -13664,7 +13666,8 @@
     "name": "IPPOLITO, Dean",
     "year": "1994-2023",
     "games": 286,
-    "id": "36804"
+    "id": "36804",
+    "synced": true
   },
   {
     "higestRating": 2342,
@@ -32209,7 +32212,8 @@
     "name": "GLIENKE, Manfred",
     "year": "1978-2015",
     "games": 104,
-    "id": "18039"
+    "id": "18039",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -37682,7 +37686,8 @@
     "name": "KHURTSILAVA, Inga",
     "year": "1990-2021",
     "games": 85,
-    "id": "50134"
+    "id": "50134",
+    "synced": true
   },
   {
     "higestRating": 2348,
@@ -89318,7 +89323,8 @@
     "name": "CHRISTENSEN, Thomas",
     "year": "1992-2017",
     "games": 21,
-    "id": "94253"
+    "id": "94253",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -89927,7 +89933,8 @@
     "name": "AMINOV, Andrey",
     "year": "2012-2022",
     "games": 21,
-    "id": "141341"
+    "id": "141341",
+    "synced": true
   },
   {
     "higestRating": 2233,
@@ -104223,7 +104230,8 @@
     "name": "OBLAMSKI, Vladimir",
     "year": "2009-2017",
     "games": 15,
-    "id": "124142"
+    "id": "124142",
+    "synced": true
   },
   {
     "higestRating": 2266,
