@@ -11913,7 +11913,8 @@
     "name": "DEMUTH, Adrien",
     "year": "2005-2023",
     "games": 331,
-    "id": "96050"
+    "id": "96050",
+    "synced": true
   },
   {
     "higestRating": 2648,
@@ -12258,7 +12259,8 @@
     "name": "HAMITEVICI, Vladimir",
     "year": "2003-2022",
     "games": 321,
-    "id": "127238"
+    "id": "127238",
+    "synced": true
   },
   {
     "higestRating": 2485,
@@ -15241,7 +15243,8 @@
     "name": "FILIPOVIC, Branko",
     "year": "1979-2021",
     "games": 255,
-    "id": "56407"
+    "id": "56407",
+    "synced": true
   },
   {
     "higestRating": 2238,
@@ -27590,7 +27593,8 @@
     "name": "TEJERA, Emilio Moreno",
     "year": "2000-2022",
     "games": 126,
-    "id": "68214"
+    "id": "68214",
+    "synced": true
   },
   {
     "higestRating": 2464,
@@ -60746,7 +60750,8 @@
     "name": "GOOSSENS, Etienne",
     "year": "1998-2011",
     "games": 43,
-    "id": "57176"
+    "id": "57176",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -76994,7 +76999,8 @@
     "name": "BALI, Janos",
     "year": "1990-1998",
     "games": 28,
-    "id": "19048"
+    "id": "19048",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -78920,7 +78926,8 @@
     "name": "FORTHOFER, Robert",
     "year": "1997-2013",
     "games": 27,
-    "id": "58438"
+    "id": "58438",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -80399,7 +80406,8 @@
     "name": "FROEYMAN, Helmut",
     "year": "1999-2012",
     "games": 26,
-    "id": "57716"
+    "id": "57716",
+    "synced": true
   },
   {
     "higestRating": 2226,
@@ -81476,7 +81484,8 @@
     "name": "BARRY, Colm",
     "year": "1975-2022",
     "games": 25,
-    "id": "20663"
+    "id": "20663",
+    "synced": true
   },
   {
     "higestRating": 2279,
@@ -87273,7 +87282,8 @@
     "name": "INGENERF, Stefan",
     "year": "1981-1986",
     "games": 22,
-    "id": "82611"
+    "id": "82611",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -106497,7 +106507,8 @@
     "name": "BEZUCH, Martin",
     "year": "2000-2012",
     "games": 11,
-    "id": "65661"
+    "id": "65661",
+    "synced": true
   },
   {
     "higestRating": 2248,
