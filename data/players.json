@@ -3506,7 +3506,8 @@
     "name": "SHNEIDER, Aleksandr",
     "year": "1982-2023",
     "games": 960,
-    "id": "17638"
+    "id": "17638",
+    "synced": true
   },
   {
     "higestRating": 2616,
@@ -9434,7 +9435,8 @@
     "name": "HAIK, Aldo",
     "year": "1969-2014",
     "games": 417,
-    "id": "21545"
+    "id": "21545",
+    "synced": true
   },
   {
     "higestRating": 2458,
@@ -23734,7 +23736,8 @@
     "name": "PEREIRA, Silvio Cunha",
     "year": "1975-2023",
     "games": 154,
-    "id": "16417"
+    "id": "16417",
+    "synced": true
   },
   {
     "higestRating": 2438,
@@ -31678,7 +31681,8 @@
     "name": "KOKSAL, Ege",
     "year": "2011-2023",
     "games": 107,
-    "id": "138022"
+    "id": "138022",
+    "synced": true
   },
   {
     "higestRating": 2261,
@@ -32124,7 +32128,8 @@
     "name": "KUMMEROW, Heiko",
     "year": "1990-2016",
     "games": 105,
-    "id": "52758"
+    "id": "52758",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -33746,7 +33751,8 @@
     "name": "DELANOY, Arnaud",
     "year": "1984-2001",
     "games": 99,
-    "id": "63293"
+    "id": "63293",
+    "synced": true
   },
   {
     "higestRating": 2498,
@@ -65872,7 +65878,8 @@
     "name": "AGHABEKIAN, Liana",
     "year": "2001-2018",
     "games": 38,
-    "id": "106327"
+    "id": "106327",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -77343,7 +77350,8 @@
     "name": "MACPHERSON, Hugh Dugald",
     "year": "1976-1980",
     "games": 28,
-    "id": "43185"
+    "id": "43185",
+    "synced": true
   },
   {
     "higestRating": 2480,

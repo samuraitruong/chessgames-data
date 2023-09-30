@@ -1,0 +1,14 @@
+[Event "Corfu"]
+[Site "Corfu"]
+[Date "2007.10.08"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Ioannis Simeonidis"]
+[Black "Aleksandr Shneider"]
+[ECO "D37"]
+[WhiteElo "2268"]
+[BlackElo "2543"]
+[PlyCount "36"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.d4 Be7 5.Bf4 O-O 6.e3 Nbd7 7.a3 c6 8.h3 a6 9.c5 b6 10.b4 bxc5 11.bxc5 Ne4 12.Rc1 Qa5 13.Bd3 Nxc3 14.Qd2 f6 15.Qxc3 Qxc3+ 16.Rxc3 e5 17.dxe5 fxe5 18.Nxe5 Bf6 0-1
