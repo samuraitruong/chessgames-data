@@ -2562,7 +2562,8 @@
     "name": "ZAITSEV, Igor A",
     "year": "1960-2011",
     "games": 1148,
-    "id": "18985"
+    "id": "18985",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -5991,7 +5992,8 @@
     "name": "MINEV, Nikolay",
     "year": "1953-1999",
     "games": 645,
-    "id": "46319"
+    "id": "46319",
+    "synced": true
   },
   {
     "higestRating": 2599,
@@ -25999,7 +26001,8 @@
     "name": "GUTENEV, Alexander",
     "year": "2006-2021",
     "games": 137,
-    "id": "117782"
+    "id": "117782",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -41472,7 +41475,8 @@
     "name": "VALENCIA, Beatriz Irene Franco",
     "year": "2005-2019",
     "games": 76,
-    "id": "119237"
+    "id": "119237",
+    "synced": true
   },
   {
     "higestRating": 2226,
@@ -74033,7 +74037,8 @@
     "name": "BODI, Tibor",
     "year": "2019-2022",
     "games": 31,
-    "id": "169102"
+    "id": "169102",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -84741,7 +84746,8 @@
     "name": "ATUTUBO, Rodrigo",
     "year": "1989-2007",
     "games": 23,
-    "id": "15227"
+    "id": "15227",
+    "synced": true
   },
   {
     "higestRating": 2315,
