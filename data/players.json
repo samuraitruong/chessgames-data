@@ -27283,7 +27283,8 @@
     "name": "GARCIA, Jan Emmanuel",
     "year": "2006-2021",
     "games": 128,
-    "id": "119984"
+    "id": "119984",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -33305,7 +33306,8 @@
     "name": "EK, Hans",
     "year": "1958-1975",
     "games": 100,
-    "id": "47790"
+    "id": "47790",
+    "synced": true
   },
   {
     "higestRating": 2277,
@@ -35719,7 +35721,8 @@
     "name": "SIEBER, Fiona",
     "year": "2015-2023",
     "games": 92,
-    "id": "155673"
+    "id": "155673",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -37563,7 +37566,8 @@
     "name": "MANDIZHA, Farai",
     "year": "2004-2023",
     "games": 86,
-    "id": "99448"
+    "id": "99448",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -39103,7 +39107,8 @@
     "name": "PETRISOR, Adrian-Marian",
     "year": "2004-2022",
     "games": 82,
-    "id": "117773"
+    "id": "117773",
+    "synced": true
   },
   {
     "higestRating": 2239,
@@ -47433,7 +47438,8 @@
     "name": "MGELADZE, Tamaz",
     "year": "1995-2019",
     "games": 63,
-    "id": "50119"
+    "id": "50119",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -53354,7 +53360,8 @@
     "name": "JENSEN, Michael Agermose",
     "year": "2000-2018",
     "games": 53,
-    "id": "111632"
+    "id": "111632",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -55046,7 +55053,8 @@
     "name": "KOSMO, Santul",
     "year": "2000-2019",
     "games": 50,
-    "id": "81542"
+    "id": "81542",
+    "synced": true
   },
   {
     "higestRating": 2383,
@@ -62319,7 +62327,8 @@
     "name": "GLINERT, Stephen",
     "year": "1997-2003",
     "games": 41,
-    "id": "41004"
+    "id": "41004",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -62348,7 +62357,8 @@
     "name": "VAGER, Boris",
     "year": "1992-2012",
     "games": 41,
-    "id": "46373"
+    "id": "46373",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -63546,7 +63556,8 @@
     "name": "ZWANZGER, Johannes",
     "year": "1995-2016",
     "games": 40,
-    "id": "65575"
+    "id": "65575",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -71786,7 +71797,8 @@
     "name": "VANEK, Petr",
     "year": "1992-2019",
     "games": 32,
-    "id": "55134"
+    "id": "55134",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -73051,7 +73063,8 @@
     "name": "YAKUNIN, Alexey",
     "year": "2001-2012",
     "games": 31,
-    "id": "52317"
+    "id": "52317",
+    "synced": true
   },
   {
     "higestRating": 2347,
@@ -77195,7 +77208,8 @@
     "name": "PROVOTOROV, Ivan",
     "year": "2000-2018",
     "games": 28,
-    "id": "50141"
+    "id": "50141",
+    "synced": true
   },
   {
     "higestRating": 2278,
@@ -78943,7 +78957,8 @@
     "name": "ROEDER, Gerd",
     "year": "1981-1999",
     "games": 27,
-    "id": "63465"
+    "id": "63465",
+    "synced": true
   },
   {
     "higestRating": 2501,
@@ -82509,7 +82524,8 @@
     "name": "RIEMENS, Albert",
     "year": "1991-2010",
     "games": 25,
-    "id": "95587"
+    "id": "95587",
+    "synced": true
   },
   {
     "higestRating": 2326,
@@ -83641,7 +83657,8 @@
     "name": "SIMEONOV, Simeon",
     "year": "1994-2009",
     "games": 24,
-    "id": "48962"
+    "id": "48962",
+    "synced": true
   },
   {
     "higestRating": 2342,
@@ -95864,7 +95881,8 @@
     "name": "KARASIK, Evgeni",
     "year": "2004-2013",
     "games": 18,
-    "id": "88189"
+    "id": "88189",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -98324,7 +98342,8 @@
     "name": "LARSSON, Anders",
     "year": "1980-2015",
     "games": 17,
-    "id": "95438"
+    "id": "95438",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -98759,7 +98778,8 @@
     "name": "SCHOEPE, Jan",
     "year": "1985-2011",
     "games": 17,
-    "id": "120917"
+    "id": "120917",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -98905,7 +98925,8 @@
     "name": "SZABLOWSKI, Pawel",
     "year": "1998-2011",
     "games": 17,
-    "id": "126612"
+    "id": "126612",
+    "synced": true
   },
   {
     "higestRating": 2229,
@@ -99565,7 +99586,8 @@
     "name": "YIM, Sung Ho",
     "year": "2011-2022",
     "games": 17,
-    "id": "189069"
+    "id": "189069",
+    "synced": true
   },
   {
     "higestRating": 2277,
@@ -100217,7 +100239,8 @@
     "name": "SEMASEV, Kim",
     "year": "1993-2001",
     "games": 16,
-    "id": "55573"
+    "id": "55573",
+    "synced": true
   },
   {
     "higestRating": 2278,
