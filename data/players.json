@@ -613,7 +613,8 @@
     "name": "MOROZEVICH, Alexander",
     "year": "1990-2022",
     "games": 2025,
-    "id": "11719"
+    "id": "11719",
+    "synced": true
   },
   {
     "higestRating": 2645,
@@ -42420,14 +42421,16 @@
     "name": "LUQUE, Agustin Garcia",
     "year": "1990-2008",
     "games": 74,
-    "id": "99235"
+    "id": "99235",
+    "synced": true
   },
   {
     "higestRating": 2420,
     "name": "PITL, Gregory",
     "year": "2000-2022",
     "games": 74,
-    "id": "107054"
+    "id": "107054",
+    "synced": true
   },
   {
     "higestRating": 2282,
@@ -61036,7 +61039,8 @@
     "name": "ROCA, Petronio",
     "year": "1986-2002",
     "games": 43,
-    "id": "79473"
+    "id": "79473",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -71782,7 +71786,8 @@
     "name": "MAIER, Alexander",
     "year": "1981-2007",
     "games": 32,
-    "id": "30715"
+    "id": "30715",
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -72110,7 +72115,8 @@
     "name": "VAN VEEN, Oscar",
     "year": "2000-2015",
     "games": 32,
-    "id": "68164"
+    "id": "68164",
+    "synced": true
   },
   {
     "higestRating": 2389,
@@ -75486,7 +75492,8 @@
     "name": "SPITZL, Vinzent",
     "year": "2015-2018",
     "games": 30,
-    "id": "154208"
+    "id": "154208",
+    "synced": true
   },
   {
     "higestRating": 2446,
@@ -84915,7 +84922,8 @@
     "name": "HARTL, Daniel",
     "year": "2007-2015",
     "games": 24,
-    "id": "140612"
+    "id": "140612",
+    "synced": true
   },
   {
     "higestRating": 2232,
