@@ -4760,7 +4760,8 @@
     "name": "BRUNELLO, Sabino",
     "year": "2002-2023",
     "games": 766,
-    "id": "95809"
+    "id": "95809",
+    "synced": true
   },
   {
     "higestRating": 2688,
@@ -31856,7 +31857,8 @@
     "name": "BOGUT, Zeljko",
     "year": "1997-2019",
     "games": 106,
-    "id": "83463"
+    "id": "83463",
+    "synced": true
   },
   {
     "higestRating": 2248,
@@ -42796,7 +42798,8 @@
     "name": "EMERSON, Roger",
     "year": "1969-2019",
     "games": 73,
-    "id": "136480"
+    "id": "136480",
+    "synced": true
   },
   {
     "higestRating": 2478,
@@ -47816,7 +47819,8 @@
     "name": "AARYAN, Varshney",
     "year": "2017-2022",
     "games": 63,
-    "id": "158828"
+    "id": "158828",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -63061,7 +63065,8 @@
     "name": "FISABILILLAH, Ummi",
     "year": "2012-2021",
     "games": 41,
-    "id": "140341"
+    "id": "140341",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -80643,7 +80648,8 @@
     "name": "BELETIC, Daniel",
     "year": "1996-2019",
     "games": 26,
-    "id": "76934"
+    "id": "76934",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -92950,7 +92956,8 @@
     "name": "FRITSCH, Rolf",
     "year": "1976-2017",
     "games": 19,
-    "id": "29033"
+    "id": "29033",
+    "synced": true
   },
   {
     "higestRating": 2225,
