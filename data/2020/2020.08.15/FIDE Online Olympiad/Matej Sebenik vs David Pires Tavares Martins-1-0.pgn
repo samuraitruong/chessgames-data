@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.15"]
+[EventDate "2020.08.14"]
+[Round "6"]
+[Result "1-0"]
+[White "Matej Sebenik"]
+[Black "David Pires Tavares Martins"]
+[ECO "C02"]
+[WhiteElo "2524"]
+[BlackElo "2223"]
+[Source "Chess-Results"]
+[PlyCount "99"]
+
+1. d4 e6 2. e4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 Nh6 7. Bxh6 gxh6 8. Qd2 Bd7 9. O-O Bg7 10. Na3 cxd4 11. cxd4 O-O 12. Nc2 f6 13. exf6 Rxf6 14. b4 Raf8 15. b5 Ne7 16. Ne5 Be8 17. g3 Nf5 18. a4 Nd6 19. Qb4 h5 20. Bd3 h4 21. a5 Qd8 22. b6 a6 23. Ne3 h5 24. Rac1 Bb5 25. Rc7 Bh6 26. Bxb5 Nxb5 27. Rd7 Qb8 28. Qb1 Bg7 29. Qd1 hxg3 30. hxg3 Rh6 31. f4 Qc8 32. Qc1 Qe8 33. Rxb7 Nxd4 34. Qc7 Rh7 35. Nd7 Qg6 36. f5 Qg5 37. Nxf8 Qxe3+ 38. Rf2 Nf3+ 39. Kg2 Ne1+ 40. Kf1 Qd3+ 41. Kg1 Nf3+ 42. Kg2 Ne1+ 43. Kg1 Nf3+ 44. Kh1 Qd1+ 45. Kg2 Ne1+ 46. Kh2 Nf3+ 47. Rxf3 Qe2+ 48. Kh3 Qxf3 49. Qf7+ Kh8 50. Ng6# 1-0

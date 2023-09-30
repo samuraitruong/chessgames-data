@@ -17506,7 +17506,8 @@
     "name": "POLDAUF, Dirk",
     "year": "1980-2012",
     "games": 218,
-    "id": "26786"
+    "id": "26786",
+    "synced": true
   },
   {
     "higestRating": 2537,
@@ -23294,7 +23295,8 @@
     "name": "KORLEY, Kassa",
     "year": "2007-2023",
     "games": 158,
-    "id": "111559"
+    "id": "111559",
+    "synced": true
   },
   {
     "higestRating": 2491,
@@ -26133,7 +26135,8 @@
     "name": "MUSIL, Vojko",
     "year": "1962-1994",
     "games": 137,
-    "id": "194023"
+    "id": "194023",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -36391,7 +36394,8 @@
     "name": "MARTINS, David Pires Tavares",
     "year": "2007-2020",
     "games": 90,
-    "id": "154034"
+    "id": "154034",
+    "synced": true
   },
   {
     "higestRating": 2426,
@@ -46499,7 +46503,8 @@
     "name": "NGUYEN, Chi-Minh",
     "year": "1998-2014",
     "games": 65,
-    "id": "51940"
+    "id": "51940",
+    "synced": true
   },
   {
     "higestRating": 2359,
@@ -48067,7 +48072,8 @@
     "name": "BARATOSI, Daniel",
     "year": "2000-2017",
     "games": 62,
-    "id": "54659"
+    "id": "54659",
+    "synced": true
   },
   {
     "higestRating": 2436,
@@ -49593,7 +49599,8 @@
     "name": "CREPAN, Marjan",
     "year": "1987-2010",
     "games": 59,
-    "id": "49217"
+    "id": "49217",
+    "synced": true
   },
   {
     "higestRating": 2397,
@@ -59515,7 +59522,8 @@
     "name": "HOLLAN, Martin",
     "year": "2017-2022",
     "games": 45,
-    "id": "159684"
+    "id": "159684",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -63062,7 +63070,8 @@
     "name": "PANTOJA, Roberto Garcia",
     "year": "2010-2019",
     "games": 41,
-    "id": "133275"
+    "id": "133275",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -69994,7 +70003,8 @@
     "name": "SERBAN, Vlad",
     "year": "2006-2012",
     "games": 34,
-    "id": "106648"
+    "id": "106648",
+    "synced": true
   },
   {
     "higestRating": 2414,
@@ -72224,7 +72234,8 @@
     "name": "ROSKAR, Robert",
     "year": "1991-2011",
     "games": 32,
-    "id": "98843"
+    "id": "98843",
+    "synced": true
   },
   {
     "higestRating": 2358,
@@ -73984,7 +73995,8 @@
     "name": "VISWANADHA, Kesav",
     "year": "2011-2017",
     "games": 31,
-    "id": "131422"
+    "id": "131422",
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -83549,7 +83561,8 @@
     "name": "KELSON, Richard",
     "year": "1986-2003",
     "games": 24,
-    "id": "21696"
+    "id": "21696",
+    "synced": true
   },
   {
     "higestRating": 2276,
@@ -83901,7 +83914,8 @@
     "name": "ROMIEUX, Sebastien",
     "year": "1998-2008",
     "games": 24,
-    "id": "51922"
+    "id": "51922",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -97284,7 +97298,8 @@
     "name": "SAIZ, Andres Luque",
     "year": "2020-2022",
     "games": 18,
-    "id": "173808"
+    "id": "173808",
+    "synced": true
   },
   {
     "higestRating": 2314,
@@ -102549,7 +102564,8 @@
     "name": "SHCHUKIN, Maksim",
     "year": "2021-2023",
     "games": 16,
-    "id": "181637"
+    "id": "181637",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -108071,7 +108087,8 @@
     "name": "POPE, Alistair",
     "year": "1976-1997",
     "games": 8,
-    "id": "93666"
+    "id": "93666",
+    "synced": true
   },
   {
     "higestRating": 2227,

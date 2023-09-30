@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.16"]
+[EventDate "2020.08.14"]
+[Round "8"]
+[Result "0-1"]
+[White "Herman Pedmanson"]
+[Black "David Pires Tavares Martins"]
+[ECO "B07"]
+[WhiteElo "1773"]
+[BlackElo "2223"]
+[Source "Chess-Results"]
+[PlyCount "72"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. f3 c6 5. Be3 Nbd7 6. Qd2 b5 7. O-O-O Nb6 8. g4 Qc7 9. g5 Nfd7 10. f4 Bb7 11. b3 b4 12. Nb1 c5 13. d5 e6 14. Bc4 exd5 15. exd5 Nxc4 16. bxc4 O-O-O 17. c3 Nb6 18. Nf3 Nxc4 19. Qd3 Nxe3 20. Qxe3 Bg7 21. Rd2 Rhe8 22. Qd3 Kb8 23. cxb4 cxb4+ 24. Rc2 Qb6 25. Nbd2 Re3 26. Qf1 Bxd5 27. Nc4 Rxf3 28. Nxb6 Rxf1+ 29. Rxf1 axb6 30. Rd2 Be6 31. h4 Kc7 32. Rh1 Ra8 33. h5 Bxa2 34. hxg6 hxg6 35. Rh7 Bc3 36. Rc2 Bb3 0-1

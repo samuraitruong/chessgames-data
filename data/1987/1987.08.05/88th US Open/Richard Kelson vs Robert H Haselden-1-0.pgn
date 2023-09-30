@@ -1,0 +1,14 @@
+[Event "88th US Open"]
+[Site "Portland, OR USA"]
+[Date "1987.08.05"]
+[EventDate "1987.08.02"]
+[Round "4"]
+[Result "1-0"]
+[White "Richard Kelson"]
+[Black "Robert H Haselden"]
+[ECO "B33"]
+[WhiteElo "2338"]
+[BlackElo "2016"]
+[PlyCount "55"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Nd5 Qa5+ 10.Bd2 Qd8 11.Bg5 Qa5+ 12.Bd2 Qd8 13.Nxf6+ gxf6 14.c4 bxc4 15.Bxc4 Bb7 16.Bxf7+ Ke7 17.Bd5 h5 18.Qa4 Qd7 19.Rc1 Rc8 20.Nc4 Qg4 21.O-O Nd4 22.Ne3 Ne2+ 23.Kh1 Rxc1 24.Bxc1 Qc8 25.Nf5+ Kd8 26.Bd2 Qb8 27.Ba5+ Kc8 28.Qe8# 1-0
