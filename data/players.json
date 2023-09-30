@@ -5679,7 +5679,8 @@
     "name": "YURTAEV, Leonid",
     "year": "1973-2010",
     "games": 678,
-    "id": "17121"
+    "id": "17121",
+    "synced": true
   },
   {
     "higestRating": 2540,
@@ -13778,7 +13779,8 @@
     "name": "SERET, Jean-Luc",
     "year": "1969-2017",
     "games": 284,
-    "id": "13874"
+    "id": "13874",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -26295,7 +26297,8 @@
     "name": "PIRTTIMAKI, Timo",
     "year": "1975-2004",
     "games": 135,
-    "id": "34230"
+    "id": "34230",
+    "synced": true
   },
   {
     "higestRating": 2349,
