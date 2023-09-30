@@ -4309,7 +4309,8 @@
     "name": "SVETUSHKIN, Dmitry",
     "year": "1994-2020",
     "games": 826,
-    "id": "49405"
+    "id": "49405",
+    "synced": true
   },
   {
     "higestRating": 2625,
@@ -4759,7 +4760,8 @@
     "name": "ROIZ, Michael",
     "year": "1997-2022",
     "games": 766,
-    "id": "51137"
+    "id": "51137",
+    "synced": true
   },
   {
     "higestRating": 2617,
@@ -29957,7 +29959,8 @@
     "name": "GHOSH, Aronyak",
     "year": "2018-2022",
     "games": 114,
-    "id": "160798"
+    "id": "160798",
+    "synced": true
   },
   {
     "higestRating": 2382,
@@ -81405,7 +81408,8 @@
     "name": "STOJANOVIC, Zlatko",
     "year": "2006-2009",
     "games": 26,
-    "id": "140675"
+    "id": "140675",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -86309,7 +86313,8 @@
     "name": "LUNDINA, Aelita",
     "year": "1996-1999",
     "games": 23,
-    "id": "128560"
+    "id": "128560",
+    "synced": true
   },
   {
     "higestRating": 2342,
