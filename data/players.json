@@ -5808,7 +5808,8 @@
     "name": "XU, Jun",
     "year": "1984-2023",
     "games": 670,
-    "id": "28330"
+    "id": "28330",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -15840,7 +15841,8 @@
     "name": "CUIJPERS, Frans Andre",
     "year": "1977-2017",
     "games": 246,
-    "id": "29038"
+    "id": "29038",
+    "synced": true
   },
   {
     "higestRating": 2418,
@@ -16945,7 +16947,8 @@
     "name": "MISHRA, Abhimanyu",
     "year": "2018-2023",
     "games": 227,
-    "id": "163109"
+    "id": "163109",
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -104052,7 +104055,8 @@
     "name": "COOKSEY, Paul S",
     "year": "1995-2012",
     "games": 15,
-    "id": "68906"
+    "id": "68906",
+    "synced": true
   },
   {
     "higestRating": 2269,
