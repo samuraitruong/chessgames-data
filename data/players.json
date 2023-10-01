@@ -9165,7 +9165,8 @@
     "name": "LUGOVOI, Alexei",
     "year": "1991-2021",
     "games": 433,
-    "id": "19925"
+    "id": "19925",
+    "synced": true
   },
   {
     "higestRating": 2600,
@@ -21640,7 +21641,8 @@
     "name": "KALAIYALAHAN, Akshaya",
     "year": "2013-2022",
     "games": 174,
-    "id": "147304"
+    "id": "147304",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -22126,7 +22128,8 @@
     "name": "MOEN, Andreas G R",
     "year": "1995-2019",
     "games": 168,
-    "id": "12446"
+    "id": "12446",
+    "synced": true
   },
   {
     "higestRating": 2232,
@@ -31951,7 +31954,8 @@
     "name": "MOGHADDAM, Sayed Javad Alavi",
     "year": "1997-2022",
     "games": 106,
-    "id": "58113"
+    "id": "58113",
+    "synced": true
   },
   {
     "higestRating": 2323,
@@ -42154,7 +42158,8 @@
     "name": "SERGEYEVA, Mariya",
     "year": "1997-2013",
     "games": 75,
-    "id": "137053"
+    "id": "137053",
+    "synced": true
   },
   {
     "higestRating": 2334,
@@ -49551,7 +49556,8 @@
     "name": "CORO, Lucas",
     "year": "2016-2023",
     "games": 60,
-    "id": "157086"
+    "id": "157086",
+    "synced": true
   },
   {
     "higestRating": 2326,
@@ -84283,7 +84289,8 @@
     "name": "POPOVIC, Mladen",
     "year": "1990-2009",
     "games": 24,
-    "id": "55493"
+    "id": "55493",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -87022,7 +87029,8 @@
     "name": "LEISCH, Lukas",
     "year": "2017-2023",
     "games": 23,
-    "id": "170882"
+    "id": "170882",
+    "synced": true
   },
   {
     "higestRating": 2319,
