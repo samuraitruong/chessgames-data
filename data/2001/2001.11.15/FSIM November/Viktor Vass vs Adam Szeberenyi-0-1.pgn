@@ -1,0 +1,14 @@
+[Event "FSIM November"]
+[Site "Budapest HUN"]
+[Date "2001.11.15"]
+[EventDate "2001.11.03"]
+[Round "13"]
+[Result "0-1"]
+[White "Viktor Vass"]
+[Black "Adam Szeberenyi"]
+[ECO "B87"]
+[WhiteElo "2166"]
+[BlackElo "2365"]
+[PlyCount "44"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O Be7 9. Qf3 Qb6 10. Bg5 Bb7 11. Rad1 O-O 12. Rfe1 Nbd7 13. Qh3 Nc5 14. e5 dxe5 15. Rxe5 Rfd8 16. Nf5 exf5 17. Rxe7 Nxb3 18. cxb3 b4 19. Bxf6 Qxf6 20. Rxd8+ Rxd8 21. Qe3 Qc6 22. Nd5 h6 0-1
