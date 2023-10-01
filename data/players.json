@@ -6591,7 +6591,8 @@
     "name": "LAU, Ralf",
     "year": "1977-2006",
     "games": 595,
-    "id": "15134"
+    "id": "15134",
+    "synced": true
   },
   {
     "higestRating": 2588,
@@ -34475,7 +34476,8 @@
     "name": "YANG, Kaiqi",
     "year": "2008-2020",
     "games": 97,
-    "id": "118902"
+    "id": "118902",
+    "synced": true
   },
   {
     "higestRating": 2432,
@@ -40660,7 +40662,8 @@
     "name": "JAKUBOWSKA, Anna",
     "year": "2001-2021",
     "games": 78,
-    "id": "54866"
+    "id": "54866",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -52733,7 +52736,8 @@
     "name": "GRIFFITHS, Peter C",
     "year": "1962-1991",
     "games": 54,
-    "id": "48343"
+    "id": "48343",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -57503,7 +57507,8 @@
     "name": "KIRUSHA, Andrey",
     "year": "1997-2010",
     "games": 47,
-    "id": "49673"
+    "id": "49673",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -72807,7 +72812,8 @@
     "name": "KILIC, Efe Mert",
     "year": "2013-2019",
     "games": 32,
-    "id": "147785"
+    "id": "147785",
+    "synced": true
   },
   {
     "higestRating": 2352,
@@ -75668,7 +75674,8 @@
     "name": "GUNGL, Theo",
     "year": "2016-2022",
     "games": 30,
-    "id": "155974"
+    "id": "155974",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -79584,7 +79591,8 @@
     "name": "NYVLT, Zdenek",
     "year": "1999-2020",
     "games": 27,
-    "id": "90901"
+    "id": "90901",
+    "synced": true
   },
   {
     "higestRating": 2273,
@@ -86460,7 +86468,8 @@
     "name": "SHEN, Arthur",
     "year": "2010-2016",
     "games": 23,
-    "id": "125659"
+    "id": "125659",
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -88756,7 +88765,8 @@
     "name": "LI, Eric",
     "year": "2019-2022",
     "games": 22,
-    "id": "168915"
+    "id": "168915",
+    "synced": true
   },
   {
     "higestRating": 2302,
