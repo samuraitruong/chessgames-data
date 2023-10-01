@@ -1,0 +1,14 @@
+[Event "13th Masters"]
+[Site "Clichy FRA"]
+[Date "2001.12.21"]
+[EventDate "2001.12.15"]
+[Round "7"]
+[Result "1-0"]
+[White "Ventzislav V Inkiov"]
+[Black "Loic Dubois"]
+[ECO "D07"]
+[WhiteElo "2500"]
+[BlackElo "2239"]
+[PlyCount "33"]
+
+1.d4 d5 2.c4 Nc6 3.Nf3 Bg4 4.Qa4 Bxf3 5.exf3 dxc4 6.Bxc4 Qxd4 7.Nc3 e6 8.Be3 Qe5 9.Bb5 Nge7 10.O-O O-O-O 11.Rad1 Rxd1 12.Rxd1 a5 13.f4 Qh5 14.b4 Nd5 15.Nxd5 Nxb4 16.Be2 Qxe2 17.Qe8# 1-0

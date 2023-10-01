@@ -1425,7 +1425,8 @@
     "name": "BENJAMIN, Joel",
     "year": "1975-2022",
     "games": 1511,
-    "id": "42951"
+    "id": "42951",
+    "synced": true
   },
   {
     "higestRating": 2542,
@@ -5232,7 +5233,8 @@
     "name": "INKIOV, Ventzislav",
     "year": "1972-2018",
     "games": 723,
-    "id": "15527"
+    "id": "15527",
+    "synced": true
   },
   {
     "higestRating": 2469,
@@ -23938,7 +23940,8 @@
     "name": "SAGIT, Rauan",
     "year": "2006-2019",
     "games": 154,
-    "id": "104901"
+    "id": "104901",
+    "synced": true
   },
   {
     "higestRating": 2498,
@@ -106002,7 +106005,8 @@
     "name": "KRETZ, Johan",
     "year": "1992-2021",
     "games": 14,
-    "id": "145966"
+    "id": "145966",
+    "synced": true
   },
   {
     "higestRating": 2347,
