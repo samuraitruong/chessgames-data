@@ -8524,7 +8524,8 @@
     "name": "POPILSKI, Gil",
     "year": "2003-2019",
     "games": 468,
-    "id": "118270"
+    "id": "118270",
+    "synced": true
   },
   {
     "higestRating": 2510,
@@ -13941,7 +13942,8 @@
     "name": "UMUDOVA, Nargiz",
     "year": "2001-2019",
     "games": 282,
-    "id": "54913"
+    "id": "54913",
+    "synced": true
   },
   {
     "higestRating": 2507,
@@ -27221,7 +27223,8 @@
     "name": "LOKANDER, Martin",
     "year": "2009-2023",
     "games": 130,
-    "id": "124970"
+    "id": "124970",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -39704,7 +39707,8 @@
     "name": "GIKAS, Andreas Basilius",
     "year": "1988-2015",
     "games": 81,
-    "id": "55303"
+    "id": "55303",
+    "synced": true
   },
   {
     "higestRating": 2323,
@@ -47415,7 +47419,8 @@
     "name": "NOVOSADOVA, Kristyna",
     "year": "2008-2021",
     "games": 64,
-    "id": "118056"
+    "id": "118056",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -65976,7 +65981,8 @@
     "name": "SARWER, Jeff",
     "year": "1985-2016",
     "games": 38,
-    "id": "81835"
+    "id": "81835",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -101328,7 +101334,8 @@
     "name": "TOMERLIN, Sinisa",
     "year": "2001-2019",
     "games": 16,
-    "id": "68924"
+    "id": "68924",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -107918,7 +107925,8 @@
     "name": "KOONS, Nat",
     "year": "1998-2008",
     "games": 10,
-    "id": "116865"
+    "id": "116865",
+    "synced": true
   },
   {
     "higestRating": 2219,
