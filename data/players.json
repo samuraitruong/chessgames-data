@@ -4941,7 +4941,8 @@
     "name": "PADEVSKY, Nikola",
     "year": "1949-1992",
     "games": 753,
-    "id": "15399"
+    "id": "15399",
+    "synced": true
   },
   {
     "higestRating": 2520,
@@ -15856,7 +15857,8 @@
     "name": "INIYAN, P",
     "year": "2014-2023",
     "games": 246,
-    "id": "151545"
+    "id": "151545",
+    "synced": true
   },
   {
     "higestRating": 2314,
@@ -26437,7 +26439,8 @@
     "name": "BORGE, Nikolaj",
     "year": "1988-2021",
     "games": 134,
-    "id": "12034"
+    "id": "12034",
+    "synced": true
   },
   {
     "higestRating": 2402,
@@ -49629,7 +49632,8 @@
     "name": "VUCENOVIC, Dragomir",
     "year": "1971-2018",
     "games": 59,
-    "id": "29525"
+    "id": "29525",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -55354,7 +55358,8 @@
     "name": "VARITSKI, Igor",
     "year": "1996-2017",
     "games": 50,
-    "id": "92313"
+    "id": "92313",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -55888,7 +55893,8 @@
     "name": "RENDBOE, John",
     "year": "1987-2019",
     "games": 49,
-    "id": "50739"
+    "id": "50739",
+    "synced": true
   },
   {
     "higestRating": 2331,
