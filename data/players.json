@@ -5170,7 +5170,8 @@
     "name": "KOSIC, Dragan",
     "year": "1987-2023",
     "games": 726,
-    "id": "25638"
+    "id": "25638",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -6401,7 +6402,8 @@
     "name": "PERT, Nicholas",
     "year": "1992-2023",
     "games": 608,
-    "id": "48992"
+    "id": "48992",
+    "synced": true
   },
   {
     "higestRating": 2475,
@@ -34783,7 +34785,8 @@
     "name": "LIBNI, Guil Russek",
     "year": "1984-2005",
     "games": 95,
-    "id": "22549"
+    "id": "22549",
+    "synced": true
   },
   {
     "higestRating": 2334,
@@ -37657,7 +37660,8 @@
     "name": "FREISE, Helmut",
     "year": "1969-2009",
     "games": 86,
-    "id": "68639"
+    "id": "68639",
+    "synced": true
   },
   {
     "higestRating": 2444,
@@ -47571,7 +47575,8 @@
     "name": "PETKOVSKI, Vlatko",
     "year": "1978-2014",
     "games": 63,
-    "id": "49472"
+    "id": "49472",
+    "synced": true
   },
   {
     "higestRating": 2362,
@@ -54290,7 +54295,8 @@
     "name": "HORVATH, Sandor",
     "year": "1972-2011",
     "games": 51,
-    "id": "41477"
+    "id": "41477",
+    "synced": true
   },
   {
     "higestRating": 2283,
@@ -88952,7 +88958,8 @@
     "name": "WIKSTROM, Per",
     "year": "1993-2002",
     "games": 21,
-    "id": "45329"
+    "id": "45329",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -98524,7 +98531,8 @@
     "name": "LE, Thi Phuong Lien",
     "year": "1997-2009",
     "games": 17,
-    "id": "89160"
+    "id": "89160",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -104085,7 +104093,8 @@
     "name": "MUROMTSEV, Arthur",
     "year": "2003-2018",
     "games": 15,
-    "id": "91095"
+    "id": "91095",
+    "synced": true
   },
   {
     "higestRating": 2223,
@@ -111576,7 +111585,8 @@
     "name": "DUGIN, Sergey A",
     "year": "2004",
     "games": 1,
-    "id": "136142"
+    "id": "136142",
+    "synced": true
   },
   {
     "higestRating": 2560,
