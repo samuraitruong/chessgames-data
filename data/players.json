@@ -2061,7 +2061,8 @@
     "name": "KRUSH, Irina",
     "year": "1996-2023",
     "games": 1265,
-    "id": "49592"
+    "id": "49592",
+    "synced": true
   },
   {
     "higestRating": 2707,
@@ -15790,7 +15791,8 @@
     "name": "VOKAREV, Sergey",
     "year": "1995-2017",
     "games": 247,
-    "id": "49064"
+    "id": "49064",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -50517,7 +50519,8 @@
     "name": "DE VERDIER, Michael",
     "year": "2006-2019",
     "games": 58,
-    "id": "107897"
+    "id": "107897",
+    "synced": true
   },
   {
     "higestRating": 2316,
