@@ -1,0 +1,14 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1961.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Egon Reichmann"]
+[Black "Heinz Ullrich"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 5.Nxf7 Bxf2+ 6.Kf1 Qe7 7.Nxh8 d5 8.exd5 Bg4 9.Be2 Bxe2+ 10.Qxe2 Nd4 11.Qxf2 O-O-O 12.Na3 Rf8 13.Ke1 Ne4 14.Qe3 Qh4+ 15.g3 Qg4 16.h3 Nf3+ 17.Kd1 Ng1+ 18.hxg4 Rf1+ 19.Qe1 Nf2# 0-1

@@ -19430,7 +19430,8 @@
     "name": "VIDEKI, Sandor",
     "year": "1984-2019",
     "games": 196,
-    "id": "24659"
+    "id": "24659",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -28785,7 +28786,8 @@
     "name": "MIRON, Lucian-Costin",
     "year": "2000-2021",
     "games": 120,
-    "id": "120815"
+    "id": "120815",
+    "synced": true
   },
   {
     "higestRating": 2536,
@@ -32366,7 +32368,8 @@
     "name": "ROWLEY, Robert",
     "year": "1976-2009",
     "games": 104,
-    "id": "18834"
+    "id": "18834",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -35045,7 +35048,8 @@
     "name": "SELIVERSTOV, Vladimir",
     "year": "2004-2019",
     "games": 95,
-    "id": "141634"
+    "id": "141634",
+    "synced": true
   },
   {
     "higestRating": 2452,
@@ -36126,7 +36130,8 @@
     "name": "JONASSON, Benedikt",
     "year": "1982-2007",
     "games": 90,
-    "id": "10967"
+    "id": "10967",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -37844,7 +37849,8 @@
     "name": "MARIC, Mirjana",
     "year": "1987-2010",
     "games": 85,
-    "id": "49634"
+    "id": "49634",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -44833,7 +44839,8 @@
     "name": "RAMOS, Daniel Garcia",
     "year": "2016-2022",
     "games": 69,
-    "id": "156933"
+    "id": "156933",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -48509,7 +48516,8 @@
     "name": "GUNNARSSON, Gunnar",
     "year": "1957-2017",
     "games": 61,
-    "id": "28033"
+    "id": "28033",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -48585,7 +48593,8 @@
     "name": "BRATCHENKO, Alexander",
     "year": "1988-2002",
     "games": 61,
-    "id": "42816"
+    "id": "42816",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -60496,7 +60505,8 @@
     "name": "HAND, Freddie",
     "year": "2015-2019",
     "games": 44,
-    "id": "154120"
+    "id": "154120",
+    "synced": true
   },
   {
     "higestRating": 2226,
@@ -67212,7 +67222,8 @@
     "name": "JONSSON, Mikael",
     "year": "1992-2019",
     "games": 36,
-    "id": "36327"
+    "id": "36327",
+    "synced": true
   },
   {
     "higestRating": 2229,
@@ -76099,7 +76110,8 @@
     "name": "REICHMANN, Egon",
     "year": "1961-2017",
     "games": 29,
-    "id": "55015"
+    "id": "55015",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -86465,7 +86477,8 @@
     "name": "VOJTA, Tomas",
     "year": "1998-2019",
     "games": 23,
-    "id": "132019"
+    "id": "132019",
+    "synced": true
   },
   {
     "higestRating": 2422,
