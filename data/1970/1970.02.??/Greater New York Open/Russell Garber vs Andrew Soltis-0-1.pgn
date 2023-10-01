@@ -1,0 +1,14 @@
+[Event "Greater New York Open"]
+[Site "New York"]
+[Date "1970.02.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Russell Garber"]
+[Black "Andrew Soltis"]
+[ECO "B95"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.Qd2 h6 8.Be3 Ng4 9.O-O-O Be7 10.Kb1 Nc6 11.Nb3 b5 12.f4 Bd7 13.Bg1 Rb8 14.Be2 Nf6 15.Bf3 b4 16.Ne2 e5 17.Be3 a5 18.h3 a4 19.Nbc1 Qc7 20.g4 exf4 21.Bxf4 Ne5 22.Bxe5 dxe5 23.Ng3 O-O 24.h4 Rfd8 25.g5 Be6 26.Qe2 Rxd1 27.Rxd1 hxg5 28.hxg5 Nh7 29.Rh1 Bxg5 30.Qh2 Bh6 31.Nh5 Ng5 32.Bg4 Bxg4 33.Nf6+ Kf8 34.Nxg4 Nf3 35.Qg2 Nd2+ 36.Ka1 Qxc2 37.Nxe5 Qb1# 0-1

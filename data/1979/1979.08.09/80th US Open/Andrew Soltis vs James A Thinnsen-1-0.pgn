@@ -1,0 +1,14 @@
+[Event "80th US Open"]
+[Site "Chicago, IL USA"]
+[Date "1979.08.09"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Andrew Soltis"]
+[Black "James A Thinnsen"]
+[ECO "B89"]
+[WhiteElo "2445"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 d6 4.d4 cxd4 5.Nxd4 Nf6 6.Bc4 e6 7.Be3 Be7 8.Qe2 a6 9.Bb3 Qc7 10.O-O-O O-O 11.Rhg1 Na5 12.g4 Nxb3+ 13.axb3 b5 14.g5 Nd7 15.Rg3 Re8 16.f4 b4 17.Na4 Bb7 18.f5 e5 19.g6 exd4 20.gxh7+ Kh8 21.Rxg7 Kxg7 22.Qg4+ Kh8 23.Rg1 Bf6 24.Bh6 1-0

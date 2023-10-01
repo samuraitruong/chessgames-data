@@ -4668,7 +4668,8 @@
     "name": "SOLTIS, Andrew",
     "year": "1963-2002",
     "games": 781,
-    "id": "37439"
+    "id": "37439",
+    "synced": true
   },
   {
     "higestRating": 2596,
@@ -31410,7 +31411,8 @@
     "name": "POGOSIAN, Vladimir",
     "year": "1994-2019",
     "games": 108,
-    "id": "46401"
+    "id": "46401",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -36305,7 +36307,8 @@
     "name": "GOLDENBERG, Richard",
     "year": "1972-2008",
     "games": 90,
-    "id": "47881"
+    "id": "47881",
+    "synced": true
   },
   {
     "higestRating": 2378,
@@ -83231,7 +83234,8 @@
     "name": "AGGELIS, Nikolaos",
     "year": "2006-2015",
     "games": 25,
-    "id": "117750"
+    "id": "117750",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -109818,7 +109822,8 @@
     "name": "MARTIAN, Dragos-Daniel",
     "year": "2012-2015",
     "games": 5,
-    "id": "139324"
+    "id": "139324",
+    "synced": true
   },
   {
     "higestRating": 2251,
