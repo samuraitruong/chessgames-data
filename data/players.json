@@ -400,7 +400,8 @@
     "name": "TREGUBOV, Pavel",
     "year": "1990-2022",
     "games": 2317,
-    "id": "18184"
+    "id": "18184",
+    "synced": true
   },
   {
     "higestRating": 2590,
@@ -5543,7 +5544,8 @@
     "name": "KURMANN, Oliver",
     "year": "1999-2023",
     "games": 689,
-    "id": "54618"
+    "id": "54618",
+    "synced": true
   },
   {
     "higestRating": 2592,
@@ -26670,7 +26672,8 @@
     "name": "HOBBER, Anders",
     "year": "2006-2020",
     "games": 133,
-    "id": "111547"
+    "id": "111547",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -42241,7 +42244,8 @@
     "name": "ZVARA, Petr",
     "year": "1990-2017",
     "games": 74,
-    "id": "31119"
+    "id": "31119",
+    "synced": true
   },
   {
     "higestRating": 2389,
@@ -81035,7 +81039,8 @@
     "name": "MARTOS, Francesc Xavier Farran",
     "year": "2003-2021",
     "games": 26,
-    "id": "98891"
+    "id": "98891",
+    "synced": true
   },
   {
     "higestRating": 2307,
@@ -86712,7 +86717,8 @@
     "name": "RANGEL, Daniel",
     "year": "2014-2023",
     "games": 23,
-    "id": "157923"
+    "id": "157923",
+    "synced": true
   },
   {
     "higestRating": 2233,
@@ -87923,7 +87929,8 @@
     "name": "SIWIEC, Arkadiusz",
     "year": "2007-2021",
     "games": 22,
-    "id": "110955"
+    "id": "110955",
+    "synced": true
   },
   {
     "higestRating": 2234,
@@ -89745,7 +89752,8 @@
     "name": "SIKANJIC, Bojan",
     "year": "2001-2012",
     "games": 21,
-    "id": "95326"
+    "id": "95326",
+    "synced": true
   },
   {
     "higestRating": 2242,
