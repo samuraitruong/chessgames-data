@@ -9827,7 +9827,8 @@
     "name": "SIMACEK, Pavel",
     "year": "1993-2022",
     "games": 404,
-    "id": "51463"
+    "id": "51463",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -17010,7 +17011,8 @@
     "name": "PRIEHODA, Vitezslav",
     "year": "1978-2020",
     "games": 225,
-    "id": "19641"
+    "id": "19641",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -21937,7 +21939,8 @@
     "name": "SCHENK, Andreas",
     "year": "1998-2018",
     "games": 170,
-    "id": "53054"
+    "id": "53054",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -25198,7 +25201,8 @@
     "name": "TIHONOV, Jurij",
     "year": "1992-2019",
     "games": 144,
-    "id": "38766"
+    "id": "38766",
+    "synced": true
   },
   {
     "higestRating": 2462,
@@ -36033,7 +36037,8 @@
     "name": "KARKANAQE, Ilir",
     "year": "1979-2011",
     "games": 91,
-    "id": "79284"
+    "id": "79284",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -39292,7 +39297,8 @@
     "name": "NIYAZGULOVA, Marina",
     "year": "2005-2018",
     "games": 82,
-    "id": "117942"
+    "id": "117942",
+    "synced": true
   },
   {
     "higestRating": 2442,
@@ -64558,7 +64564,8 @@
     "name": "MICKIEWICZ, Piotr",
     "year": "1997-2021",
     "games": 39,
-    "id": "29586"
+    "id": "29586",
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -111129,7 +111136,8 @@
     "name": "GANDHI, Jilesh",
     "year": "2009-2012",
     "games": 2,
-    "id": "121189"
+    "id": "121189",
+    "synced": true
   },
   {
     "higestRating": 2270,

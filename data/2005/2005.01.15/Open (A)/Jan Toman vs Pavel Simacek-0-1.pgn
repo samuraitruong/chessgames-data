@@ -1,0 +1,14 @@
+[Event "Open (A)"]
+[Site "Prague CZE"]
+[Date "2005.01.15"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Jan Toman"]
+[Black "Pavel Simacek"]
+[ECO "A70"]
+[WhiteElo "2171"]
+[BlackElo "2432"]
+[PlyCount "78"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.h3 Bg7 8.Nf3 O-O 9.Bd3 Re8 10.O-O a6 11.a4 c4 12.Bc2 Nbd7 13.Bf4 Qc7 14.Re1 Rb8 15.Qd2 Nh5 16.Bh2 Ne5 17.Nd4 Qc5 18.Rad1 Bxh3 19.Kh1 Bd7 20.Nce2 Ng4 21.Bg1 Bh6 22.Qc3 b5 23.axb5 axb5 24.b4 Qc8 25.f3 Ne5 26.Be3 Bxe3 27.Qxe3 Qd8 28.Kg1 Qh4 29.Ra1 f5 30.Ne6 Bxe6 31.dxe6 f4 32.Qd2 Ng3 33.Nd4 Rxe6 34.Ra6 g5 35.Rea1 Rf6 36.Qd1 g4 37.Ra7 gxf3 38.Nxf3 Qh1+ 39.Kf2 Ng4# 0-1
