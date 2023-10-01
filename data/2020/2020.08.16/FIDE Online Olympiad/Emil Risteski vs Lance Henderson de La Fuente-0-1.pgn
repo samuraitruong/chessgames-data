@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.16"]
+[EventDate "2020.08.14"]
+[Round "7"]
+[Result "0-1"]
+[White "Emil Risteski"]
+[Black "Lance Henderson de La Fuente"]
+[ECO "C07"]
+[WhiteElo "2035"]
+[BlackElo "2177"]
+[Source "Chess-Results"]
+[PlyCount "58"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. Ne4 Qb4+ 8. Nfd2 Nf6 9. c3 dxc3 10. bxc3 Qa5 11. Nxf6+ gxf6 12. O-O Be7 13. Ne4 Nc6 14. Nd6+ Bxd6 15. Qxd6 Qe5 16. Qd3 Bd7 17. Ba3 O-O-O 18. Bd6 Qa5 19. Rab1 Ne5 20. Qe2 Bc6 21. Be7 Rhg8 22. f3 Rd7 23. Bb4 Qc7 24. Bb3 Bxf3 25. Rxf3 Rd2 26. Qe3 Rdxg2+ 27. Kh1 Rxh2+ 28. Kxh2 Nxf3+ 29. Kh1 Qh2# 0-1
