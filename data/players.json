@@ -7905,7 +7905,8 @@
     "name": "DANIELSEN, Henrik",
     "year": "1980-2023",
     "games": 500,
-    "id": "56533"
+    "id": "56533",
+    "synced": true
   },
   {
     "higestRating": 2520,
@@ -15375,7 +15376,8 @@
     "name": "GERUSEL, Mathias",
     "year": "1957-2007",
     "games": 254,
-    "id": "16154"
+    "id": "16154",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -18872,7 +18874,8 @@
     "name": "COMMONS, Kim",
     "year": "1969-1982",
     "games": 203,
-    "id": "19265"
+    "id": "19265",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -71558,7 +71561,8 @@
     "name": "SEUSS, Oswald",
     "year": "1964-2008",
     "games": 33,
-    "id": "106685"
+    "id": "106685",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -82535,7 +82539,8 @@
     "name": "HLINKA, Vasil",
     "year": "1994-2008",
     "games": 25,
-    "id": "53483"
+    "id": "53483",
+    "synced": true
   },
   {
     "higestRating": 2391,
@@ -90442,7 +90447,8 @@
     "name": "PECHA, Tomas",
     "year": "2009-2012",
     "games": 21,
-    "id": "126785"
+    "id": "126785",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -92836,7 +92842,8 @@
     "name": "PEDERSEN, Henrik Dahl",
     "year": "1995-2001",
     "games": 20,
-    "id": "133198"
+    "id": "133198",
+    "synced": true
   },
   {
     "higestRating": 2302,
@@ -95667,7 +95674,8 @@
     "name": "DEKKER, Alain Stephen",
     "year": "2001-2007",
     "games": 18,
-    "id": "27656"
+    "id": "27656",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -96644,7 +96652,8 @@
     "name": "BODNAR, Nikolay",
     "year": "1996-2007",
     "games": 18,
-    "id": "91404"
+    "id": "91404",
+    "synced": true
   },
   {
     "higestRating": 2246,
@@ -96939,7 +96948,8 @@
     "name": "RODRIGUEZ, Emilio Bastidas",
     "year": "1995-2022",
     "games": 18,
-    "id": "102629"
+    "id": "102629",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -111195,7 +111205,8 @@
     "name": "BEER, Robert",
     "year": "1986-1997",
     "games": 2,
-    "id": "86958"
+    "id": "86958",
+    "synced": true
   },
   {
     "higestRating": 2290,
