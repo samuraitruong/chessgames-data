@@ -11119,7 +11119,8 @@
     "name": "HESS, Robert",
     "year": "2001-2020",
     "games": 360,
-    "id": "57258"
+    "id": "57258",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -32263,7 +32264,8 @@
     "name": "GROSAR, Kiti",
     "year": "1992-2001",
     "games": 105,
-    "id": "55593"
+    "id": "55593",
+    "synced": true
   },
   {
     "higestRating": 2462,
@@ -36364,7 +36366,8 @@
     "name": "ARKHANGELSKY, Boris",
     "year": "1955-2008",
     "games": 90,
-    "id": "45269"
+    "id": "45269",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -38790,7 +38793,8 @@
     "name": "MORRIS, Walter D",
     "year": "1977-1991",
     "games": 83,
-    "id": "62751"
+    "id": "62751",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -58844,7 +58848,8 @@
     "name": "XU, Grant",
     "year": "2011-2022",
     "games": 46,
-    "id": "131393"
+    "id": "131393",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -61970,7 +61975,8 @@
     "name": "NOVAK, Pavel",
     "year": "1992-2005",
     "games": 42,
-    "id": "54187"
+    "id": "54187",
+    "synced": true
   },
   {
     "higestRating": 2432,
@@ -63871,7 +63877,8 @@
     "name": "ALBARRACIN, Francisco D Garcia",
     "year": "1989-2018",
     "games": 40,
-    "id": "50591"
+    "id": "50591",
+    "synced": true
   },
   {
     "higestRating": 2465,
@@ -68211,7 +68218,8 @@
     "name": "COMMERCON, Simon",
     "year": "2009-2021",
     "games": 36,
-    "id": "139815"
+    "id": "139815",
+    "synced": true
   },
   {
     "higestRating": 2236,
@@ -77127,7 +77135,8 @@
     "name": "VELIKANOV, Alexander",
     "year": "2009-2020",
     "games": 29,
-    "id": "135437"
+    "id": "135437",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -77713,7 +77722,8 @@
     "name": "GORGONA, Jonathan Carvajal",
     "year": "2001-2013",
     "games": 28,
-    "id": "49576"
+    "id": "49576",
+    "synced": true
   },
   {
     "higestRating": 2386,
@@ -78002,7 +78012,8 @@
     "name": "KRISTIANSEN, Tor",
     "year": "1976-1981",
     "games": 28,
-    "id": "82577"
+    "id": "82577",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -79768,7 +79779,8 @@
     "name": "PUCHER, Olivier",
     "year": "1998-2012",
     "games": 27,
-    "id": "101390"
+    "id": "101390",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -81362,7 +81374,8 @@
     "name": "STRAKA, Zdenek",
     "year": "1998-2013",
     "games": 26,
-    "id": "101510"
+    "id": "101510",
+    "synced": true
   },
   {
     "higestRating": 2299,
@@ -84047,7 +84060,8 @@
     "name": "DANILOV, Nikolai",
     "year": "1994-2003",
     "games": 24,
-    "id": "35896"
+    "id": "35896",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -93761,7 +93775,8 @@
     "name": "MISIUGA, Andrzej",
     "year": "1991-2008",
     "games": 19,
-    "id": "51874"
+    "id": "51874",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -102301,7 +102316,8 @@
     "name": "BIOCANIN, Goran",
     "year": "2008-2011",
     "games": 16,
-    "id": "118803"
+    "id": "118803",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -105657,7 +105673,8 @@
     "name": "KIESEKAMP, Marcos",
     "year": "1995-2008",
     "games": 14,
-    "id": "17934"
+    "id": "17934",
+    "synced": true
   },
   {
     "higestRating": 2322,
