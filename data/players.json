@@ -15215,7 +15215,8 @@
     "name": "ZAITSEV, Alexander",
     "year": "1954-1971",
     "games": 256,
-    "id": "16574"
+    "id": "16574",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -16570,7 +16571,8 @@
     "name": "WAN, Yunguo",
     "year": "2006-2023",
     "games": 233,
-    "id": "114771"
+    "id": "114771",
+    "synced": true
   },
   {
     "higestRating": 2267,
@@ -19590,7 +19592,8 @@
     "name": "OBODCHUK, Andrei",
     "year": "1992-2020",
     "games": 195,
-    "id": "26747"
+    "id": "26747",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -20154,7 +20157,8 @@
     "name": "ZARUBITSKI, Viachaslau",
     "year": "2012-2023",
     "games": 189,
-    "id": "142147"
+    "id": "142147",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -35403,7 +35407,8 @@
     "name": "MOZNY, Milos",
     "year": "1973-2023",
     "games": 93,
-    "id": "19701"
+    "id": "19701",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -53412,7 +53417,8 @@
     "name": "SAGAFOS, Magne",
     "year": "2000-2016",
     "games": 53,
-    "id": "49521"
+    "id": "49521",
+    "synced": true
   },
   {
     "higestRating": 2414,
@@ -72395,7 +72401,8 @@
     "name": "PREDESCU, Sebastian",
     "year": "1995-2007",
     "games": 32,
-    "id": "81967"
+    "id": "81967",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -84923,7 +84930,8 @@
     "name": "FOO, Zhi Rong Benjamin",
     "year": "2003-2018",
     "games": 24,
-    "id": "111996"
+    "id": "111996",
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -102310,7 +102318,8 @@
     "name": "MINSKER, Reuven",
     "year": "1965-1976",
     "games": 16,
-    "id": "121011"
+    "id": "121011",
+    "synced": true
   },
   {
     "higestRating": 2231,
@@ -111738,7 +111747,8 @@
     "name": "KERCHEV, Zlatozar",
     "year": "1971",
     "games": 1,
-    "id": "109068"
+    "id": "109068",
+    "synced": true
   },
   {
     "higestRating": 2220,
