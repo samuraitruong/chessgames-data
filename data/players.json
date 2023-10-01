@@ -13699,7 +13699,8 @@
     "name": "VALERGA, Diego",
     "year": "1988-2023",
     "games": 287,
-    "id": "36035"
+    "id": "36035",
+    "synced": true
   },
   {
     "higestRating": 2439,
@@ -14292,7 +14293,8 @@
     "name": "BELIKOV, Vladimir",
     "year": "1986-2013",
     "games": 274,
-    "id": "23199"
+    "id": "23199",
+    "synced": true
   },
   {
     "higestRating": 2485,
@@ -17749,7 +17751,8 @@
     "name": "SALMENSUU, Olli",
     "year": "1989-2005",
     "games": 216,
-    "id": "35900"
+    "id": "35900",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -42466,7 +42469,8 @@
     "name": "UTNASUNOV, Alexander",
     "year": "2000-2021",
     "games": 74,
-    "id": "49044"
+    "id": "49044",
+    "synced": true
   },
   {
     "higestRating": 2443,
@@ -55181,7 +55185,8 @@
     "name": "WADDINGHAM, Graham A",
     "year": "1983-1986",
     "games": 50,
-    "id": "27425"
+    "id": "27425",
+    "synced": true
   },
   {
     "higestRating": 2254,
@@ -67040,7 +67045,8 @@
     "name": "PURGAR, Ivona",
     "year": "2005-2019",
     "games": 37,
-    "id": "102025"
+    "id": "102025",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -67220,7 +67226,8 @@
     "name": "SURYA, K Praneeth",
     "year": "2011-2016",
     "games": 37,
-    "id": "131315"
+    "id": "131315",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -85223,7 +85230,8 @@
     "name": "DRAGASEVIC, Srdja",
     "year": "1979-2013",
     "games": 24,
-    "id": "133872"
+    "id": "133872",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -95589,7 +95597,8 @@
     "name": "JOHANSEN, Oivind",
     "year": "1990-2017",
     "games": 18,
-    "id": "22369"
+    "id": "22369",
+    "synced": true
   },
   {
     "higestRating": 2275,
