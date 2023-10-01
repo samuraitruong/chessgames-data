@@ -1,0 +1,15 @@
+[Event "AUS-op"]
+[Site "Sippy Downs,  Buderim AUS"]
+[Date "1999.01.09"]
+[EventDate "1999.01.02"]
+[Round "7"]
+[Result "1-0"]
+[White "Gary William Lane"]
+[Black "Tim Reilly"]
+[ECO "B06"]
+[WhiteElo "2405"]
+[BlackElo "2270"]
+[Source "Batsford"]
+[PlyCount "30"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be3 Bg7 5.Qd2 c6 6.Bh6 Bxh6 7.Qxh6 c5 8.dxc5 dxc5 9.e5 Nd5 10.O-O-O e6 11.Bc4 Nc6 12.Bxd5 exd5 13.Nxd5 Qa5 14.Qg7 Rf8 15.Qf6 1-0

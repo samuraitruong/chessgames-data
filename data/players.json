@@ -15567,7 +15567,8 @@
     "name": "REILLY, Tim",
     "year": "1986-2017",
     "games": 250,
-    "id": "16722"
+    "id": "16722",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -27372,7 +27373,8 @@
     "name": "CORKE, Anya Sun",
     "year": "2001-2013",
     "games": 128,
-    "id": "88914"
+    "id": "88914",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -27495,7 +27497,8 @@
     "name": "LIU, Yan",
     "year": "2013-2023",
     "games": 128,
-    "id": "154833"
+    "id": "154833",
+    "synced": true
   },
   {
     "higestRating": 2369,
@@ -32912,7 +32915,8 @@
     "name": "MALBRAN, Guillermo",
     "year": "1978-2009",
     "games": 102,
-    "id": "29312"
+    "id": "29312",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -38651,7 +38655,8 @@
     "name": "STENBORG, Ake",
     "year": "1950-1978",
     "games": 83,
-    "id": "43541"
+    "id": "43541",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -47448,7 +47453,8 @@
     "name": "ILIC, Dragan M",
     "year": "1984-2013",
     "games": 64,
-    "id": "140743"
+    "id": "140743",
+    "synced": true
   },
   {
     "higestRating": 2363,
@@ -58470,7 +58476,8 @@
     "name": "SARTHOU, Gaetan",
     "year": "1995-2005",
     "games": 46,
-    "id": "57284"
+    "id": "57284",
+    "synced": true
   },
   {
     "higestRating": 2323,
@@ -58501,7 +58508,8 @@
     "name": "KORNASIEWICZ, Stanislaw",
     "year": "1967-1999",
     "games": 46,
-    "id": "68349"
+    "id": "68349",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -62874,7 +62882,8 @@
     "name": "LACINER, Kerem",
     "year": "2001-2012",
     "games": 41,
-    "id": "57239"
+    "id": "57239",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -67524,7 +67533,8 @@
     "name": "LYBIN, Dmitry",
     "year": "1995-2009",
     "games": 36,
-    "id": "51524"
+    "id": "51524",
+    "synced": true
   },
   {
     "higestRating": 2234,
@@ -67675,7 +67685,8 @@
     "name": "LUTZ, Anke",
     "year": "1992-2006",
     "games": 36,
-    "id": "68027"
+    "id": "68027",
+    "synced": true
   },
   {
     "higestRating": 2208,
@@ -83288,7 +83299,8 @@
     "name": "MEZA, Hugo",
     "year": "2003-2009",
     "games": 25,
-    "id": "114705"
+    "id": "114705",
+    "synced": true
   },
   {
     "higestRating": 2303,
@@ -88022,7 +88034,8 @@
     "name": "BHAGWAT, Vinod",
     "year": "2006-2017",
     "games": 22,
-    "id": "100932"
+    "id": "100932",
+    "synced": true
   },
   {
     "higestRating": 2232,
