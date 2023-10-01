@@ -208,7 +208,8 @@
     "name": "CARUANA, Fabiano",
     "year": "1999-2023",
     "games": 2843,
-    "id": "76172"
+    "id": "76172",
+    "synced": true
   },
   {
     "higestRating": 2710,
@@ -23024,7 +23025,8 @@
     "name": "CAURIN, Ramon Oltra",
     "year": "1976-2004",
     "games": 160,
-    "id": "95217"
+    "id": "95217",
+    "synced": true
   },
   {
     "higestRating": 2513,
@@ -34435,7 +34437,8 @@
     "name": "PASKO, Llambi",
     "year": "2008-2022",
     "games": 97,
-    "id": "124161"
+    "id": "124161",
+    "synced": true
   },
   {
     "higestRating": 2438,
@@ -56453,7 +56456,8 @@
     "name": "PRELEVIC, Dusko",
     "year": "1998-2011",
     "games": 48,
-    "id": "49611"
+    "id": "49611",
+    "synced": true
   },
   {
     "higestRating": 2337,
@@ -80390,7 +80394,8 @@
     "name": "BENJAMIN, Dan",
     "year": "1991-1992",
     "games": 26,
-    "id": "43107"
+    "id": "43107",
+    "synced": true
   },
   {
     "higestRating": 2344,
