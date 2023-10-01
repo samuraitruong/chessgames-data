@@ -8452,7 +8452,8 @@
     "name": "DARDHA, Daniel",
     "year": "2015-2023",
     "games": 472,
-    "id": "153978"
+    "id": "153978",
+    "synced": true
   },
   {
     "higestRating": 2564,
@@ -27088,7 +27089,8 @@
     "name": "SEVERIUKHINA, Zoja",
     "year": "2004-2012",
     "games": 131,
-    "id": "103225"
+    "id": "103225",
+    "synced": true
   },
   {
     "higestRating": 2522,
@@ -30875,7 +30877,8 @@
     "name": "RADEVA, Viktoria",
     "year": "2012-2023",
     "games": 111,
-    "id": "139635"
+    "id": "139635",
+    "synced": true
   },
   {
     "higestRating": 2317,
@@ -34148,7 +34151,8 @@
     "name": "SIDOROV, Anatoly",
     "year": "1993-2019",
     "games": 98,
-    "id": "40931"
+    "id": "40931",
+    "synced": true
   },
   {
     "higestRating": 2536,
@@ -36990,7 +36994,8 @@
     "name": "FLOREAN, Andrei-Costel",
     "year": "1992-2006",
     "games": 88,
-    "id": "38757"
+    "id": "38757",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -47524,7 +47529,8 @@
     "name": "SALEMGAREEV, Tagir",
     "year": "2016-2022",
     "games": 64,
-    "id": "154700"
+    "id": "154700",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -49262,7 +49268,8 @@
     "name": "SARWAT, Walaa",
     "year": "1994-2019",
     "games": 60,
-    "id": "49116"
+    "id": "49116",
+    "synced": true
   },
   {
     "higestRating": 2394,
@@ -55699,7 +55706,8 @@
     "name": "ESTEVE, Vicenc Esplugas",
     "year": "2007-2022",
     "games": 50,
-    "id": "143139"
+    "id": "143139",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -63723,7 +63731,8 @@
     "name": "MENDOZA, Rafael",
     "year": "1969-2019",
     "games": 40,
-    "id": "34662"
+    "id": "34662",
+    "synced": true
   },
   {
     "higestRating": 2316,

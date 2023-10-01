@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.21"]
+[EventDate "2020.08.21"]
+[Round "3"]
+[Result "1-0"]
+[White "Viktoria Radeva"]
+[Black "Denisa-Andreea Bucur"]
+[ECO "B84"]
+[WhiteElo "2052"]
+[BlackElo "1751"]
+[Source "Chess-Results"]
+[PlyCount "39"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be2 Nf6 6. Nc3 Qc7 7. O-O d6 8. f4 Be7 9. Qe1 b5 10. a3 Bb7 11. Bf3 Nbd7 12. Qg3 O-O 13. Kh1 Rac8 14. Bd2 Nb6 15. e5 Nfd5 16. f5 dxe5 17. Bh6 Bf6 18. Ne4 Kh8 19. Nxf6 gxf6 20. Qg7# 1-0
