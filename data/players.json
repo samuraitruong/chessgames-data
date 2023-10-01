@@ -10449,7 +10449,8 @@
     "name": "LYELL, Mark",
     "year": "1986-2022",
     "games": 383,
-    "id": "34250"
+    "id": "34250",
+    "synced": true
   },
   {
     "higestRating": 2512,
@@ -14312,7 +14313,8 @@
     "name": "HAUGE, Lars Oskar",
     "year": "2011-2022",
     "games": 274,
-    "id": "128433"
+    "id": "128433",
+    "synced": true
   },
   {
     "higestRating": 2252,
@@ -34289,7 +34291,8 @@
     "name": "SYAH, Farid Firman",
     "year": "2005-2020",
     "games": 98,
-    "id": "137177"
+    "id": "137177",
+    "synced": true
   },
   {
     "higestRating": 2528,
@@ -35777,7 +35780,8 @@
     "name": "MIKAC, Matjaz",
     "year": "1991-2012",
     "games": 92,
-    "id": "19879"
+    "id": "19879",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -64984,7 +64988,8 @@
     "name": "GUNAJEW, Rafal",
     "year": "2002-2012",
     "games": 39,
-    "id": "79587"
+    "id": "79587",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -74745,7 +74750,8 @@
     "name": "BUSQUETS, Luis",
     "year": "1972-2007",
     "games": 30,
-    "id": "27249"
+    "id": "27249",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -75932,7 +75938,8 @@
     "name": "KLIMM, Wolf-Dietrich",
     "year": "1993-2008",
     "games": 29,
-    "id": "17206"
+    "id": "17206",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -82398,7 +82405,8 @@
     "name": "ALAGULIAN, Kamo",
     "year": "1999-2015",
     "games": 25,
-    "id": "49701"
+    "id": "49701",
+    "synced": true
   },
   {
     "higestRating": 2366,
@@ -84229,7 +84237,8 @@
     "name": "LIM, Jeremy",
     "year": "1988-2001",
     "games": 24,
-    "id": "47304"
+    "id": "47304",
+    "synced": true
   },
   {
     "higestRating": 2518,
@@ -91129,7 +91138,8 @@
     "name": "MULTHOPP, Hans",
     "year": "1981-2001",
     "games": 20,
-    "id": "29243"
+    "id": "29243",
+    "synced": true
   },
   {
     "higestRating": 2442,
