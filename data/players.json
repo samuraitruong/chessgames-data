@@ -3962,7 +3962,8 @@
     "name": "BERG, Emanuel",
     "year": "1991-2022",
     "games": 889,
-    "id": "19787"
+    "id": "19787",
+    "synced": true
   },
   {
     "higestRating": 2476,
@@ -41423,7 +41424,8 @@
     "name": "BACKWINKEL, Paul",
     "year": "1981-2001",
     "games": 76,
-    "id": "28080"
+    "id": "28080",
+    "synced": true
   },
   {
     "higestRating": 2354,
@@ -74989,7 +74991,8 @@
     "name": "JEVTIC, Miodrag",
     "year": "1976-2009",
     "games": 30,
-    "id": "87596"
+    "id": "87596",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -93942,7 +93945,8 @@
     "name": "MENACHER, Manfred",
     "year": "1990-2003",
     "games": 19,
-    "id": "78143"
+    "id": "78143",
+    "synced": true
   },
   {
     "higestRating": 2404,
