@@ -171,7 +171,8 @@
     "name": "VAN WELY, Loek",
     "year": "1985-2022",
     "games": 2945,
-    "id": "11733"
+    "id": "11733",
+    "synced": true
   },
   {
     "higestRating": 2655,
@@ -9621,7 +9622,8 @@
     "name": "PORTISCH, Ferenc",
     "year": "1956-2017",
     "games": 410,
-    "id": "37509"
+    "id": "37509",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -9880,7 +9882,8 @@
     "name": "VAN NGUYEN, Thai Dai",
     "year": "2014-2023",
     "games": 401,
-    "id": "149208"
+    "id": "149208",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -85567,7 +85570,8 @@
     "name": "OVEZOV, Artek",
     "year": "1993-2002",
     "games": 23,
-    "id": "61225"
+    "id": "61225",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -108507,7 +108511,8 @@
     "name": "KRABBE, Wolf-Dieter",
     "year": "1986-2004",
     "games": 7,
-    "id": "33668"
+    "id": "33668",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -109674,7 +109679,8 @@
     "name": "BANK, Pelle",
     "year": "1993-2010",
     "games": 4,
-    "id": "26359"
+    "id": "26359",
+    "synced": true
   },
   {
     "higestRating": 2388,
