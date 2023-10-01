@@ -4207,7 +4207,8 @@
     "name": "DEGRAEVE, Jean-Marc",
     "year": "1985-2018",
     "games": 845,
-    "id": "21943"
+    "id": "21943",
+    "synced": true
   },
   {
     "higestRating": 2757,
@@ -23384,7 +23385,8 @@
     "name": "PETRONIC, Jovan",
     "year": "1983-2008",
     "games": 157,
-    "id": "26731"
+    "id": "26731",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -32947,7 +32949,8 @@
     "name": "WEBER, Jean-Marie",
     "year": "1975-2017",
     "games": 102,
-    "id": "57003"
+    "id": "57003",
+    "synced": true
   },
   {
     "higestRating": 2231,
@@ -50985,7 +50988,8 @@
     "name": "OMARSSON, Dadi",
     "year": "2006-2014",
     "games": 57,
-    "id": "105211"
+    "id": "105211",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -108233,7 +108237,8 @@
     "name": "MCCLINTOCK, Doug",
     "year": "1981-1996",
     "games": 8,
-    "id": "36394"
+    "id": "36394",
+    "synced": true
   },
   {
     "higestRating": 2325,
