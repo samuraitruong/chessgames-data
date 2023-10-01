@@ -9445,7 +9445,8 @@
     "name": "MITTAL, Aditya",
     "year": "2016-2023",
     "games": 419,
-    "id": "155275"
+    "id": "155275",
+    "synced": true
   },
   {
     "higestRating": 2525,
@@ -22432,7 +22433,8 @@
     "name": "PAASIKANGAS, Johanna",
     "year": "1986-2023",
     "games": 166,
-    "id": "51749"
+    "id": "51749",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -26050,7 +26052,8 @@
     "name": "WONG, Meng Kong",
     "year": "1979-2015",
     "games": 138,
-    "id": "88773"
+    "id": "88773",
+    "synced": true
   },
   {
     "higestRating": 2476,
@@ -27790,7 +27793,8 @@
     "name": "LUBBE, Nikolas",
     "year": "2006-2022",
     "games": 126,
-    "id": "110025"
+    "id": "110025",
+    "synced": true
   },
   {
     "higestRating": 2528,
@@ -28339,7 +28343,8 @@
     "name": "BANGIEV, Alexander",
     "year": "1965-2001",
     "games": 122,
-    "id": "15372"
+    "id": "15372",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -43184,7 +43189,8 @@
     "name": "KAMBER, Bruno",
     "year": "1985-2021",
     "games": 72,
-    "id": "29518"
+    "id": "29518",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -66070,7 +66076,8 @@
     "name": "SHVYRJOV, Igor",
     "year": "1984-2019",
     "games": 38,
-    "id": "99039"
+    "id": "99039",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -81870,7 +81877,8 @@
     "name": "MROZIAK, Maciej",
     "year": "2014-2021",
     "games": 26,
-    "id": "155060"
+    "id": "155060",
+    "synced": true
   },
   {
     "higestRating": 2214,
@@ -88837,7 +88845,8 @@
     "name": "MAMMADOV, Sadig",
     "year": "2017-2022",
     "games": 22,
-    "id": "158369"
+    "id": "158369",
+    "synced": true
   },
   {
     "higestRating": 2214,

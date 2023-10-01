@@ -1,0 +1,15 @@
+[Event "Bern op"]
+[Site "Bern SUI"]
+[Date "1990.??.??"]
+[EventDate "1990.02.00"]
+[Round "1"]
+[Result "0-1"]
+[White "V D’Arcangelo"]
+[Black "Bruno Kamber"]
+[ECO "D24"]
+[WhiteElo "?"]
+[BlackElo "2280"]
+[Source "PGN Mentor"]
+[PlyCount "32"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 dxc4 4.Nc3 c5 5.e3 e6 6.Bxc4 a6 7.a3 b5 8.Bb3 Bb7 9.O-O Nc6 10.Qe2 Be7 11.Rd1 Qc7 12.a4 b4 13.Nb1 Na5 14.Nbd2 Nxb3 15.Nxb3 c4 16.Qc2 Be4 0-1
