@@ -3865,7 +3865,8 @@
     "name": "ABDUSATTOROV, Nodirbek",
     "year": "2014-2023",
     "games": 905,
-    "id": "149949"
+    "id": "149949",
+    "synced": true
   },
   {
     "higestRating": 2753,
@@ -10881,7 +10882,8 @@
     "name": "KUNIN, Vitaly",
     "year": "1995-2021",
     "games": 366,
-    "id": "12341"
+    "id": "12341",
+    "synced": true
   },
   {
     "higestRating": 2570,
@@ -11710,7 +11712,8 @@
     "name": "COLOVIC, Aleksandar",
     "year": "1993-2019",
     "games": 340,
-    "id": "44745"
+    "id": "44745",
+    "synced": true
   },
   {
     "higestRating": 2496,
@@ -49456,7 +49459,8 @@
     "name": "JICMAN, Ligia-Letitia",
     "year": "1978-2014",
     "games": 60,
-    "id": "133474"
+    "id": "133474",
+    "synced": true
   },
   {
     "higestRating": 2620,
