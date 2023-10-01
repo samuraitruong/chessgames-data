@@ -10727,7 +10727,8 @@
     "name": "FERNANDES, Antonio",
     "year": "1980-2021",
     "games": 370,
-    "id": "27782"
+    "id": "27782",
+    "synced": true
   },
   {
     "higestRating": 2337,
@@ -18728,7 +18729,8 @@
     "name": "FROIS, Antonio",
     "year": "1981-2013",
     "games": 204,
-    "id": "21996"
+    "id": "21996",
+    "synced": true
   },
   {
     "higestRating": 2331,
@@ -25291,7 +25293,8 @@
     "name": "IKEDA, Junta",
     "year": "2004-2019",
     "games": 143,
-    "id": "96079"
+    "id": "96079",
+    "synced": true
   },
   {
     "higestRating": 2447,
@@ -31639,7 +31642,8 @@
     "name": "PHILLIPS, Roy",
     "year": "1994-2018",
     "games": 107,
-    "id": "88889"
+    "id": "88889",
+    "synced": true
   },
   {
     "higestRating": 2523,
@@ -53441,7 +53445,8 @@
     "name": "PRIVARA, Igor",
     "year": "1971-2020",
     "games": 53,
-    "id": "89899"
+    "id": "89899",
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -60143,7 +60148,8 @@
     "name": "PANDAVOS, Panayotis",
     "year": "1978-2006",
     "games": 44,
-    "id": "91987"
+    "id": "91987",
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -66237,7 +66243,8 @@
     "name": "CHANDLER, Patrick",
     "year": "1993-2017",
     "games": 37,
-    "id": "17826"
+    "id": "17826",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -73980,7 +73987,8 @@
     "name": "MATVEEVA, Olga",
     "year": "2007-2019",
     "games": 31,
-    "id": "121205"
+    "id": "121205",
+    "synced": true
   },
   {
     "higestRating": 2423,
@@ -74296,7 +74304,8 @@
     "name": "KARAOGLAN, Doruk",
     "year": "2018-2023",
     "games": 31,
-    "id": "161583"
+    "id": "161583",
+    "synced": true
   },
   {
     "higestRating": 2321,
@@ -80126,7 +80135,8 @@
     "name": "CHIAUDANO, Andrea",
     "year": "1984-1991",
     "games": 26,
-    "id": "20293"
+    "id": "20293",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -82022,7 +82032,8 @@
     "name": "WINER, Steven",
     "year": "1996-2015",
     "games": 25,
-    "id": "46326"
+    "id": "46326",
+    "synced": true
   },
   {
     "higestRating": 2284,
@@ -95692,7 +95703,8 @@
     "name": "NEBEL, Jens",
     "year": "1999-2020",
     "games": 18,
-    "id": "52856"
+    "id": "52856",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -108603,7 +108615,8 @@
     "name": "FISCHBACH, Harald",
     "year": "1986-2001",
     "games": 7,
-    "id": "69295"
+    "id": "69295",
+    "synced": true
   },
   {
     "higestRating": 2218,
