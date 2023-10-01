@@ -5983,7 +5983,8 @@
     "name": "BOSIOCIC, Marin",
     "year": "2001-2023",
     "games": 650,
-    "id": "54641"
+    "id": "54641",
+    "synced": true
   },
   {
     "higestRating": 2428,
@@ -38580,7 +38581,8 @@
     "name": "RUF, Matthias",
     "year": "1986-1997",
     "games": 83,
-    "id": "37567"
+    "id": "37567",
+    "synced": true
   },
   {
     "higestRating": 2446,
@@ -41956,7 +41958,8 @@
     "name": "DZHAKAEV, Dzhakay",
     "year": "1997-2011",
     "games": 75,
-    "id": "56710"
+    "id": "56710",
+    "synced": true
   },
   {
     "higestRating": 2288,
@@ -51215,7 +51218,8 @@
     "name": "NOSACHEVA, Mariya",
     "year": "2019-2021",
     "games": 57,
-    "id": "162829"
+    "id": "162829",
+    "synced": true
   },
   {
     "higestRating": 2254,
@@ -51703,7 +51707,8 @@
     "name": "GUILLEUX, Fabien",
     "year": "2005-2022",
     "games": 56,
-    "id": "109955"
+    "id": "109955",
+    "synced": true
   },
   {
     "higestRating": 2503,
@@ -61786,7 +61791,8 @@
     "name": "KAZAKOV, Peter",
     "year": "1997-2009",
     "games": 42,
-    "id": "50332"
+    "id": "50332",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -87771,7 +87777,8 @@
     "name": "JOHANSEN, John Martin",
     "year": "1997-2021",
     "games": 22,
-    "id": "90441"
+    "id": "90441",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -90338,7 +90345,8 @@
     "name": "KUMIC, Filip",
     "year": "2010-2016",
     "games": 21,
-    "id": "134835"
+    "id": "134835",
+    "synced": true
   },
   {
     "higestRating": 2247,
