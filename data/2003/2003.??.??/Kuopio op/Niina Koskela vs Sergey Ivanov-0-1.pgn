@@ -1,0 +1,14 @@
+[Event "Kuopio op"]
+[Site "Kuopio"]
+[Date "2003.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Niina Koskela"]
+[Black "Sergey Ivanov"]
+[ECO "B28"]
+[WhiteElo "2307"]
+[BlackElo "2561"]
+[PlyCount "126"]
+
+1.e4 c5 2.Nf3 a6 3.g3 Nc6 4.Bg2 g6 5.O-O Bg7 6.Re1 d6 7.c3 e5 8.a3 a5 9.a4 Nge7 10.Na3 O-O 11.d3 h6 12.Nd2 f5 13.Qb3+ Kh8 14.Nb5 f4 15.Nc4 Be6 16.Nbxd6 Qxd6 17.Nxd6 Bxb3 18.Nxb7 c4 19.Nc5 g5 20.Bf1 Rfd8 21.dxc4 Rab8 22.Be2 Nc8 23.Na6 Rb6 24.Nc5 Bf6 25.Kg2 Be7 26.Ne6 Rg8 27.Nc7 Rb7 28.Nd5 Bc5 29.Bd2 Nd6 30.Bf1 Rgb8 31.h4 Kg7 32.hxg5 hxg5 33.gxf4 gxf4 34.Kf3 Rh8 35.Bd3 Rh3+ 36.Kg4 Rxd3 37.Bxf4 exf4 38.Nxf4 Ne5+ 39.Kg5 Nf3+ 40.Kg4 Nxe1 41.Rxe1 Bxc4 42.Nxd3 Bxd3 43.b4 axb4 44.cxb4 Rxb4 45.f3 Rxa4 46.Kf4 Nf7 47.Rd1 Ra3 48.Rd2 Be7 49.Kf5 Ra5+ 50.Ke6 Re5+ 51.Kd7 Bb5+ 52.Kc7 Bd8+ 53.Kc8 Rc5+ 54.Kb8 Bb6 55.Rb2 Bc7+ 56.Kb7 Nd6+ 57.Ka7 Bc6 58.Rg2+ Kf6 59.Ra2 Rb5 60.e5+ Kxe5 61.Re2+ Kf5 62.Ra2 Bb8+ 63.Ka6 Bb7# 0-1

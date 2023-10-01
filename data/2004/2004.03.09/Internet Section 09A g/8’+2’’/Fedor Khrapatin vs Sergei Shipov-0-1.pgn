@@ -1,0 +1,14 @@
+[Event "Internet Section 09A g/8’+2’’"]
+[Site "Dos Hermanas"]
+[Date "2004.03.09"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Fedor Khrapatin"]
+[Black "Sergei Shipov"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "2589"]
+[PlyCount "38"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.c4 Nf6 5.cxd5 Nxd5 6.Nc3 Bb4 7.Bd2 O-O 8.a3 Nxc3 9.Bxc3 Bxc3+ 10.bxc3 c5 11.Nf3 Qa5 12.Qc2 Nc6 13.d5 Nd4 14.Nxd4 cxd4 15.Bd3 Re8+ 16.Kf1 h6 17.c4 b6 18.g3 Bh3+ 19.Kg1 Re1+ 0-1

@@ -1,0 +1,14 @@
+[Event "North Sydney sim1"]
+[Site "Sydney AUS"]
+[Date "2007.04.03"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Sergei Shipov"]
+[Black "Zdzislaw Sliwinski"]
+[ECO "A40"]
+[WhiteElo "2592"]
+[BlackElo "1380"]
+[PlyCount "62"]
+
+1.d4 e6 2.c4 b6 3.e4 Be7 4.g3 d6 5.Nc3 e5 6.d5 Nf6 7.Nf3 Bg4 8.Bg2 Nbd7 9.O-O Nc5 10.Qc2 O-O 11.b4 Bxf3 12.Bxf3 Nb7 13.Bd2 Qd7 14.a3 Kh8 15.Kg2 Qd8 16.Be2 Ng8 17.Bd3 Qe8 18.Qa4 Bd8 19.Qxe8 Rxe8 20.Be2 Rf8 21.f4 Bf6 22.f5 Ne7 23.h4 c5 24.dxc6 Nxc6 25.Bd3 a5 26.Nd5 Bd8 27.Be3 axb4 28.axb4 Rxa1 29.Rxa1 Ne7 30.Ra7 Nxd5 31.cxd5 1-0

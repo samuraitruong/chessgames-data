@@ -3388,7 +3388,8 @@
     "name": "SHIPOV, Sergei",
     "year": "1983-2015",
     "games": 986,
-    "id": "21968"
+    "id": "21968",
+    "synced": true
   },
   {
     "higestRating": 2673,
@@ -12937,7 +12938,8 @@
     "name": "BAQUERO, Martha Lorena Fierro",
     "year": "1993-2020",
     "games": 304,
-    "id": "64170"
+    "id": "64170",
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -23917,7 +23919,8 @@
     "name": "KOSKELA, Niina",
     "year": "1990-2015",
     "games": 154,
-    "id": "89067"
+    "id": "89067",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -27315,7 +27318,8 @@
     "name": "GUSEINOV, Aidyn",
     "year": "1973-2000",
     "games": 128,
-    "id": "16921"
+    "id": "16921",
+    "synced": true
   },
   {
     "higestRating": 2407,
@@ -60344,7 +60348,8 @@
     "name": "ROSTALSKI, Walter",
     "year": "1969-1987",
     "games": 44,
-    "id": "92368"
+    "id": "92368",
+    "synced": true
   },
   {
     "higestRating": 2583,
@@ -60478,7 +60483,8 @@
     "name": "MACKLE, Dominic",
     "year": "2009-2013",
     "games": 44,
-    "id": "122850"
+    "id": "122850",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -69700,7 +69706,8 @@
     "name": "GOLOVCHENKO, Gleb",
     "year": "2001-2005",
     "games": 34,
-    "id": "49714"
+    "id": "49714",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -73341,7 +73348,8 @@
     "name": "RAMIREZ, Emilio",
     "year": "1980-2004",
     "games": 31,
-    "id": "42721"
+    "id": "42721",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -76831,7 +76839,8 @@
     "name": "KORDSACHIA, Tariel",
     "year": "1977-1982",
     "games": 29,
-    "id": "103760"
+    "id": "103760",
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -79749,7 +79758,8 @@
     "name": "KOT, Jerzy",
     "year": "1988-2022",
     "games": 27,
-    "id": "102464"
+    "id": "102464",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -85747,7 +85757,8 @@
     "name": "MAURER, Fritz",
     "year": "1991-2013",
     "games": 23,
-    "id": "58636"
+    "id": "58636",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -94540,7 +94551,8 @@
     "name": "JACOBS, John N",
     "year": "1967-1996",
     "games": 19,
-    "id": "104143"
+    "id": "104143",
+    "synced": true
   },
   {
     "higestRating": 2208,
@@ -97592,7 +97604,8 @@
     "name": "KAUSTUV, Kundu",
     "year": "2018-2022",
     "games": 18,
-    "id": "160801"
+    "id": "160801",
+    "synced": true
   },
   {
     "higestRating": 2262,

@@ -1,0 +1,14 @@
+[Event "North Sydney sim1"]
+[Site "Sydney AUS"]
+[Date "2007.04.03"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Sergei Shipov"]
+[Black "Simon Parker"]
+[ECO "D35"]
+[WhiteElo "2592"]
+[BlackElo "1314"]
+[PlyCount "82"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 Bb4 6.e3 O-O 7.Bd3 Qd7 8.Bxf6 gxf6 9.Qh5 Re8 10.Qxh7+ Kf8 11.Nge2 Ke7 12.O-O c6 13.Ng3 Kd8 14.Rac1 Qe7 15.Bf5 Bxc3 16.bxc3 Nd7 17.Rfe1 Nb6 18.e4 Be6 19.Qh4 Nc4 20.h3 Nd6 21.exd5 cxd5 22.c4 Nxc4 23.Rxc4 dxc4 24.d5 Rc8 25.dxe6 Kc7 26.Qxc4+ Kb8 27.Qf4+ Ka8 28.Kh2 Rc6 29.exf7 Qxf7 30.Rxe8+ Qxe8 31.h4 a6 32.h5 Qe5 33.Qxe5 fxe5 34.Ne4 b5 35.g4 Rh6 36.Bg6 Rh8 37.g5 Kb7 38.h6 Kc7 39.Kg3 Kc6 40.h7 b4 41.Bf5 1-0
