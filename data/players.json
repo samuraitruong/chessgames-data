@@ -2923,7 +2923,8 @@
     "name": "EDOUARD, Romain",
     "year": "2003-2023",
     "games": 1070,
-    "id": "95988"
+    "id": "95988",
+    "synced": true
   },
   {
     "higestRating": 2569,
@@ -3880,7 +3881,8 @@
     "name": "YI, Wei",
     "year": "2009-2023",
     "games": 903,
-    "id": "130615"
+    "id": "130615",
+    "synced": true
   },
   {
     "higestRating": 2635,
@@ -10583,7 +10585,8 @@
     "name": "ROTSTEIN, Arkadij",
     "year": "1984-2018",
     "games": 377,
-    "id": "24372"
+    "id": "24372",
+    "synced": true
   },
   {
     "higestRating": 2304,
@@ -32220,7 +32223,8 @@
     "name": "CASTILLO, Jose Antonio Gutierrez",
     "year": "1969-2013",
     "games": 105,
-    "id": "25847"
+    "id": "25847",
+    "synced": true
   },
   {
     "higestRating": 2279,
@@ -53897,7 +53901,8 @@
     "name": "IVANOVA, Karina",
     "year": "2015-2019",
     "games": 53,
-    "id": "153650"
+    "id": "153650",
+    "synced": true
   },
   {
     "higestRating": 2257,
@@ -55828,7 +55833,8 @@
     "name": "KAMBRATH, Yannick",
     "year": "2007-2019",
     "games": 50,
-    "id": "145254"
+    "id": "145254",
+    "synced": true
   },
   {
     "higestRating": 2382,
@@ -84201,7 +84207,8 @@
     "name": "LYMAN, Shelby",
     "year": "1954-1979",
     "games": 24,
-    "id": "29941"
+    "id": "29941",
+    "synced": true
   },
   {
     "higestRating": 2303,
@@ -111485,7 +111492,8 @@
     "name": "NOVIKOV, Leonid",
     "year": "1967-2006",
     "games": 2,
-    "id": "104278"
+    "id": "104278",
+    "synced": true
   },
   {
     "higestRating": 2423,
