@@ -1,0 +1,14 @@
+[Event "Prague International Open"]
+[Site "Prague CZE"]
+[Date "2020.02.18"]
+[EventDate "?"]
+[Round "5.2"]
+[Result "1-0"]
+[White "Spyridon Kapnisis"]
+[Black "Pawel Teclaf"]
+[ECO "E60"]
+[WhiteElo "2471"]
+[BlackElo "2440"]
+[PlyCount "48"]
+
+1. d4 Nf6 2. c4 g6 3. h4 c6 4. Nc3 d5 5. cxd5 cxd5 6. Bf4 Nc6 7. e3 Ne4 8. Qb3 Nxc3 9. bxc3 Bg7 10. h5 O-O 11. hxg6 hxg6 12. Nf3 Bg4 13. Be2 Na5 14. Qb4 Rc8 15. Rc1 Re8 16. Bb5 Nc6 17. Bxc6 bxc6 18. Ne5 Bf5 19. g4 Be6 20. f3 c5 21. Qb2 f6 22. Qh2 g5 23. Qh7+ Kf8 24. Qg6 1-0
