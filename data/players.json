@@ -8685,7 +8685,8 @@
     "name": "KULON, Klaudia",
     "year": "2004-2023",
     "games": 463,
-    "id": "113335"
+    "id": "113335",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -9457,7 +9458,8 @@
     "name": "PERELSHTEYN, Eugene",
     "year": "1995-2018",
     "games": 419,
-    "id": "10214"
+    "id": "10214",
+    "synced": true
   },
   {
     "higestRating": 2515,
@@ -11418,7 +11420,8 @@
     "name": "SHILONG, Li",
     "year": "1993-2019",
     "games": 350,
-    "id": "47181"
+    "id": "47181",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -21138,7 +21141,8 @@
     "name": "HESSE, Peter",
     "year": "1965-2004",
     "games": 179,
-    "id": "44599"
+    "id": "44599",
+    "synced": true
   },
   {
     "higestRating": 2521,
@@ -22816,7 +22820,8 @@
     "name": "DUCARMON, Quinten",
     "year": "2007-2019",
     "games": 164,
-    "id": "112125"
+    "id": "112125",
+    "synced": true
   },
   {
     "higestRating": 2239,
@@ -29026,7 +29031,8 @@
     "name": "MAHALAKSHMI, M",
     "year": "2011-2023",
     "games": 120,
-    "id": "131298"
+    "id": "131298",
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -31130,7 +31136,8 @@
     "name": "CARR, Neil L",
     "year": "1976-2013",
     "games": 110,
-    "id": "39358"
+    "id": "39358",
+    "synced": true
   },
   {
     "higestRating": 2397,
@@ -41839,7 +41846,8 @@
     "name": "VAN BEEK, Lucien",
     "year": "1996-2008",
     "games": 76,
-    "id": "52989"
+    "id": "52989",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -42206,7 +42214,8 @@
     "name": "ROCA, Antonio Granero",
     "year": "1994-2022",
     "games": 75,
-    "id": "50585"
+    "id": "50585",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -43265,7 +43274,8 @@
     "name": "KENNESKOG, Theodor",
     "year": "2012-2022",
     "games": 73,
-    "id": "142957"
+    "id": "142957",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -52145,7 +52155,8 @@
     "name": "GRIGORIAN, Spartak",
     "year": "2012-2021",
     "games": 56,
-    "id": "139530"
+    "id": "139530",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -55517,7 +55528,8 @@
     "name": "SMITH, Alan A",
     "year": "1978-1999",
     "games": 50,
-    "id": "47927"
+    "id": "47927",
+    "synced": true
   },
   {
     "higestRating": 2442,
@@ -61388,7 +61400,8 @@
     "name": "SHILOV, Sergej",
     "year": "1995-2022",
     "games": 43,
-    "id": "51726"
+    "id": "51726",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -67553,7 +67566,8 @@
     "name": "BENEDETTI, Julio",
     "year": "2012-2021",
     "games": 37,
-    "id": "140063"
+    "id": "140063",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -79568,7 +79582,8 @@
     "name": "KROCKENBERGER, Martin",
     "year": "1989-2015",
     "games": 27,
-    "id": "47466"
+    "id": "47466",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -104962,7 +104977,8 @@
     "name": "RADONJANIN, Vlastimir",
     "year": "1981-2007",
     "games": 15,
-    "id": "91583"
+    "id": "91583",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -105992,7 +106008,8 @@
     "name": "LAPENNA, Antonio",
     "year": "2002-2004",
     "games": 15,
-    "id": "154605"
+    "id": "154605",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -107824,7 +107841,8 @@
     "name": "ASKER, Sven",
     "year": "1951-1988",
     "games": 11,
-    "id": "90513"
+    "id": "90513",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -107839,7 +107857,8 @@
     "name": "BISON, Beniamino",
     "year": "1992-1998",
     "games": 11,
-    "id": "90798"
+    "id": "90798",
+    "synced": true
   },
   {
     "higestRating": 2235,
