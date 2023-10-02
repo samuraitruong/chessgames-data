@@ -7417,7 +7417,8 @@
     "name": "JANKOVIC, Alojzije",
     "year": "1994-2023",
     "games": 528,
-    "id": "55616"
+    "id": "55616",
+    "synced": true
   },
   {
     "higestRating": 2575,
@@ -9505,7 +9506,8 @@
     "name": "DGEBUADZE, Alexandre",
     "year": "1989-2023",
     "games": 418,
-    "id": "17930"
+    "id": "17930",
+    "synced": true
   },
   {
     "higestRating": 2537,
@@ -10561,7 +10563,8 @@
     "name": "MAIWALD, Jens-Uwe",
     "year": "1990-2022",
     "games": 379,
-    "id": "17795"
+    "id": "17795",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -22657,7 +22660,8 @@
     "name": "SEMKOV, Semko",
     "year": "1976-2003",
     "games": 165,
-    "id": "19768"
+    "id": "19768",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -26748,7 +26752,8 @@
     "name": "HAIRAPETIAN, Anna",
     "year": "2005-2015",
     "games": 134,
-    "id": "106322"
+    "id": "106322",
+    "synced": true
   },
   {
     "higestRating": 2547,
@@ -27330,7 +27335,8 @@
     "name": "LEENHOUTS, Koen",
     "year": "1996-2022",
     "games": 130,
-    "id": "35895"
+    "id": "35895",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -45460,7 +45466,8 @@
     "name": "STRUK, Jerzy",
     "year": "1993-2007",
     "games": 68,
-    "id": "54138"
+    "id": "54138",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -59926,7 +59933,8 @@
     "name": "TEREICK, Benjamin",
     "year": "2005-2013",
     "games": 45,
-    "id": "117803"
+    "id": "117803",
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -65413,7 +65421,8 @@
     "name": "ARSENAULT, Nicolas",
     "year": "2005-2010",
     "games": 39,
-    "id": "92111"
+    "id": "92111",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -65729,7 +65738,8 @@
     "name": "ARCHIBALDO, Orlando Andres Leon",
     "year": "2011-2022",
     "games": 39,
-    "id": "155524"
+    "id": "155524",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -66462,7 +66472,8 @@
     "name": "NIPPULA, Timo",
     "year": "1992-2001",
     "games": 38,
-    "id": "100216"
+    "id": "100216",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -67953,7 +67964,8 @@
     "name": "BOMBEK, Peter",
     "year": "1999-2012",
     "games": 36,
-    "id": "50880"
+    "id": "50880",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -79656,7 +79668,8 @@
     "name": "MOSNEGUTU, Mariana",
     "year": "1999-2007",
     "games": 27,
-    "id": "49390"
+    "id": "49390",
+    "synced": true
   },
   {
     "higestRating": 2375,
