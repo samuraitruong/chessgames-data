@@ -1,0 +1,15 @@
+[Event "Thessaloniki Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1984.11.19"]
+[EventDate "1984.11.19"]
+[Round "1"]
+[Result "1-0"]
+[White "Andrew J Muir"]
+[Black "Konate Ibrahima"]
+[ECO "A67"]
+[WhiteElo "2255"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "43"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Bb5+ Nfd7 9.a4 O-O 10.Nf3 Na6 11.O-O Rb8 12.Re1 Nb4 13.e5 dxe5 14.fxe5 Nb6 15.Be3 a6 16.Bxc5 axb5 17.Bxb4 Re8 18.Bd6 Ra8 19.Nxb5 Nc4 20.Bc7 Qd7 21.Qd4 Qg4 22. Re4 1-0

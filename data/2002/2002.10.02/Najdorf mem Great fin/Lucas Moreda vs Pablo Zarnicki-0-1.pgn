@@ -1,0 +1,14 @@
+[Event "Najdorf mem Great fin"]
+[Site "Buenos Aires"]
+[Date "2002.10.02"]
+[EventDate "?"]
+[Round "1.2"]
+[Result "0-1"]
+[White "Lucas Moreda"]
+[Black "Pablo Zarnicki"]
+[ECO "A48"]
+[WhiteElo "2340"]
+[BlackElo "2499"]
+[PlyCount "42"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Bd3 Nbd7 7. h4 Qe8 8. Bf4 c5 9. c3 cxd4 10. cxd4 Ng4 11. Ng5 e5 12. dxe5 Ndxe5 13. Be2 d4 14. Nc4 Nxc4 15. Bxc4 dxe3 16. Qb3 exf2+ 17. Kf1 h6 18. Nh3 Be6 19. Nxf2 Bxc4+ 20. Qxc4 Rc8 21. Qd3 Qa4 0-1
