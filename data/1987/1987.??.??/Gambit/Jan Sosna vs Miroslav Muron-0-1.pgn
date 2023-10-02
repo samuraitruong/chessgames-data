@@ -1,0 +1,14 @@
+[Event "Gambit/"]
+[Site "Gambit/"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "3.0"]
+[Result "0-1"]
+[White "Jan Sosna"]
+[Black "Miroslav Muron"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 5.Nxf7 Bxf2+ 6.Kxf2 Nxe4+ 7.Kg1 Qh4 8.g3 Nxg3 9.d4 Ne4 10.Be3 exd4 11.Nxh8 dxe3 12.Qf1 Ne5 13.Be2 Ng5 14.Qf5 Nef3+ 15.Bxf3 Qf2# 0-1
