@@ -3804,7 +3804,8 @@
     "name": "SETHURAMAN, Sethuraman P",
     "year": "2004-2023",
     "games": 916,
-    "id": "99254"
+    "id": "99254",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -3907,7 +3908,8 @@
     "name": "ROBATSCH, Karl",
     "year": "1953-1996",
     "games": 898,
-    "id": "14860"
+    "id": "14860",
+    "synced": true
   },
   {
     "higestRating": 2707,
@@ -16170,7 +16172,8 @@
     "name": "KRAAI, Jesse",
     "year": "1990-2023",
     "games": 240,
-    "id": "27254"
+    "id": "27254",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -24887,7 +24890,8 @@
     "name": "MIRANDA, Marcio Marcos do Carmo",
     "year": "1960-2007",
     "games": 148,
-    "id": "27187"
+    "id": "27187",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -58075,7 +58079,8 @@
     "name": "BERG, Olaf",
     "year": "2000-2018",
     "games": 47,
-    "id": "64354"
+    "id": "64354",
+    "synced": true
   },
   {
     "higestRating": 2246,
@@ -62447,7 +62452,8 @@
     "name": "JUNIOR, Gerardo Pinto da Frota",
     "year": "1973-1999",
     "games": 42,
-    "id": "85850"
+    "id": "85850",
+    "synced": true
   },
   {
     "higestRating": 2319,
@@ -63952,7 +63958,8 @@
     "name": "MORRIS, Matthew",
     "year": "1979-1999",
     "games": 40,
-    "id": "16853"
+    "id": "16853",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -72284,7 +72291,8 @@
     "name": "OUTON, Alex Garrido",
     "year": "2018-2023",
     "games": 33,
-    "id": "163883"
+    "id": "163883",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -78003,7 +78011,8 @@
     "name": "ZIVKOVIC, Branimir",
     "year": "1979-1997",
     "games": 28,
-    "id": "29001"
+    "id": "29001",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -79020,7 +79029,8 @@
     "name": "DUPORT, Nicolas",
     "year": "2007-2013",
     "games": 28,
-    "id": "135466"
+    "id": "135466",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -94886,7 +94896,8 @@
     "name": "SIROTKIN, Valentin",
     "year": "1967-1991",
     "games": 19,
-    "id": "90700"
+    "id": "90700",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -96011,7 +96022,8 @@
     "name": "RYBAKOV, Sergey",
     "year": "2000-2002",
     "games": 18,
-    "id": "10850"
+    "id": "10850",
+    "synced": true
   },
   {
     "higestRating": 2331,
@@ -108581,7 +108593,8 @@
     "name": "DOSS, Jason R",
     "year": "1993-2000",
     "games": 9,
-    "id": "10143"
+    "id": "10143",
+    "synced": true
   },
   {
     "higestRating": 2346,
