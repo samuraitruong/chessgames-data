@@ -9771,7 +9771,8 @@
     "name": "ARUTINIAN, David",
     "year": "1999-2020",
     "games": 407,
-    "id": "50088"
+    "id": "50088",
+    "synced": true
   },
   {
     "higestRating": 2592,
@@ -10383,7 +10384,8 @@
     "name": "HOYOS, Manuel Leon",
     "year": "1998-2017",
     "games": 388,
-    "id": "56806"
+    "id": "56806",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -27243,7 +27245,8 @@
     "name": "WEINDL, Alfred",
     "year": "1984-2016",
     "games": 130,
-    "id": "19760"
+    "id": "19760",
+    "synced": true
   },
   {
     "higestRating": 2362,
@@ -27489,7 +27492,8 @@
     "name": "PEREZ, Alfonso Jerez",
     "year": "1992-2022",
     "games": 128,
-    "id": "50536"
+    "id": "50536",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -32784,7 +32788,8 @@
     "name": "ANWESH, Upadhyaya",
     "year": "2008-2017",
     "games": 104,
-    "id": "124943"
+    "id": "124943",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -33951,7 +33956,8 @@
     "name": "ELISEEV, Alexei",
     "year": "1992-2018",
     "games": 99,
-    "id": "49078"
+    "id": "49078",
+    "synced": true
   },
   {
     "higestRating": 2219,
@@ -38848,7 +38854,8 @@
     "name": "NEULINGER, Manfred",
     "year": "1992-2003",
     "games": 83,
-    "id": "44698"
+    "id": "44698",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -44042,7 +44049,8 @@
     "name": "HALAY, Taufik",
     "year": "1997-2012",
     "games": 71,
-    "id": "86186"
+    "id": "86186",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -44386,7 +44394,8 @@
     "name": "LAKDAWALA, Cyrus",
     "year": "1983-2010",
     "games": 70,
-    "id": "46907"
+    "id": "46907",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -55047,7 +55056,8 @@
     "name": "KIGEL, Dmytro",
     "year": "2003-2013",
     "games": 51,
-    "id": "113392"
+    "id": "113392",
+    "synced": true
   },
   {
     "higestRating": 2499,
@@ -56244,7 +56254,8 @@
     "name": "HINDERMANN, Felix",
     "year": "1996-2023",
     "games": 49,
-    "id": "51089"
+    "id": "51089",
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -57689,7 +57700,8 @@
     "name": "PAJAK, John",
     "year": "1978-1987",
     "games": 47,
-    "id": "28390"
+    "id": "28390",
+    "synced": true
   },
   {
     "higestRating": 2344,
@@ -59556,7 +59568,8 @@
     "name": "HABU, Yoshiharu",
     "year": "2001-2016",
     "games": 45,
-    "id": "74670"
+    "id": "74670",
+    "synced": true
   },
   {
     "higestRating": 2441,
@@ -61280,7 +61293,8 @@
     "name": "ROOBOL, Martin",
     "year": "1991-2018",
     "games": 43,
-    "id": "50945"
+    "id": "50945",
+    "synced": true
   },
   {
     "higestRating": 2302,
@@ -69636,7 +69650,8 @@
     "name": "EZOV, Roman",
     "year": "2001-2017",
     "games": 35,
-    "id": "140160"
+    "id": "140160",
+    "synced": true
   },
   {
     "higestRating": 2436,
@@ -72612,7 +72627,8 @@
     "name": "PIOCH, Thomas",
     "year": "1981-1998",
     "games": 32,
-    "id": "60197"
+    "id": "60197",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -72683,7 +72699,8 @@
     "name": "KYAS, Juergen",
     "year": "1992-2013",
     "games": 32,
-    "id": "74163"
+    "id": "74163",
+    "synced": true
   },
   {
     "higestRating": 2201,
@@ -76886,7 +76903,8 @@
     "name": "MARTI, Yuleikys Fleites",
     "year": "2001-2014",
     "games": 29,
-    "id": "79790"
+    "id": "79790",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -77068,7 +77086,8 @@
     "name": "VASILIEV, Rustam N",
     "year": "1982-1993",
     "games": 29,
-    "id": "93951"
+    "id": "93951",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -83024,7 +83043,8 @@
     "name": "FUCHS, Georg",
     "year": "1984-2013",
     "games": 25,
-    "id": "61753"
+    "id": "61753",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -83107,7 +83127,8 @@
     "name": "OKRAJEK, Alexander",
     "year": "1978-2001",
     "games": 25,
-    "id": "68631"
+    "id": "68631",
+    "synced": true
   },
   {
     "higestRating": 2419,
@@ -92833,7 +92854,8 @@
     "name": "ORLOV, Oleg",
     "year": "2006-2009",
     "games": 20,
-    "id": "114716"
+    "id": "114716",
+    "synced": true
   },
   {
     "higestRating": 2237,
@@ -94938,7 +94960,8 @@
     "name": "DUNCKER, Joachim",
     "year": "1994-1999",
     "games": 19,
-    "id": "102975"
+    "id": "102975",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -96651,7 +96674,8 @@
     "name": "BURLOV, Vassili",
     "year": "1990-2012",
     "games": 18,
-    "id": "62071"
+    "id": "62071",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -97433,7 +97457,8 @@
     "name": "HARSHAL, Shahi",
     "year": "2008-2020",
     "games": 18,
-    "id": "117335"
+    "id": "117335",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -109232,7 +109257,8 @@
     "name": "GARCIA, Jorge Alberto Ramirez",
     "year": "2012-2019",
     "games": 8,
-    "id": "139360"
+    "id": "139360",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -111151,7 +111177,8 @@
     "name": "MADHAVAN, Collin",
     "year": "1989-1990",
     "games": 3,
-    "id": "84107"
+    "id": "84107",
+    "synced": true
   },
   {
     "higestRating": 2318,
