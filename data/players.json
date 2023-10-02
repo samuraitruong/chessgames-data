@@ -980,7 +980,8 @@
     "name": "WESTERINEN, Heikki",
     "year": "1958-2018",
     "games": 1736,
-    "id": "79807"
+    "id": "79807",
+    "synced": true
   },
   {
     "higestRating": 2522,
@@ -5278,7 +5279,8 @@
     "name": "SHER, Miron N",
     "year": "1969-2012",
     "games": 718,
-    "id": "27771"
+    "id": "27771",
+    "synced": true
   },
   {
     "higestRating": 2658,
@@ -39883,7 +39885,8 @@
     "name": "TOLHUIZEN, Ludo",
     "year": "1983-2019",
     "games": 81,
-    "id": "92088"
+    "id": "92088",
+    "synced": true
   },
   {
     "higestRating": 2465,
@@ -42998,7 +43001,8 @@
     "name": "RAKOWIECKI, Tomasz",
     "year": "1975-1989",
     "games": 73,
-    "id": "59637"
+    "id": "59637",
+    "synced": true
   },
   {
     "higestRating": 2366,
@@ -52109,7 +52113,8 @@
     "name": "GANDHI, Anish",
     "year": "2014-2022",
     "games": 56,
-    "id": "151615"
+    "id": "151615",
+    "synced": true
   },
   {
     "higestRating": 2264,
@@ -101815,7 +101820,8 @@
     "name": "PICK, Stepan",
     "year": "1988-2006",
     "games": 16,
-    "id": "84998"
+    "id": "84998",
+    "synced": true
   },
   {
     "higestRating": 2278,

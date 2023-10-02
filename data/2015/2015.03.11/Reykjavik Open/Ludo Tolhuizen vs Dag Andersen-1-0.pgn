@@ -1,0 +1,14 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2015.03.11"]
+[EventDate "2015.03.10"]
+[Round "3.75"]
+[Result "1-0"]
+[White "Ludo Tolhuizen"]
+[Black "Dag Andersen"]
+[ECO "D30"]
+[WhiteElo "2123"]
+[BlackElo "1843"]
+[PlyCount "45"]
+
+1. d4 d5 2. Nf3 e6 3. c4 c6 4. Nbd2 Nf6 5. e3 Be7 6. Bd3 Nbd7 7. O-O O-O 8. b3 h6 9. Bb2 Re8 10. Qe2 b6 11. e4 dxe4 12. Nxe4 Bb7 13. Rad1 Nxe4 14. Qxe4 Nf6 15. Qe2 Qc7 16. Ne5 Bf8 17. Ng4 Nxg4 18. Qxg4 c5 19. d5 e5 20. Rde1 Bc8 21. Qg3 Bd6 22. f4 f6 23. Qg6 1-0
