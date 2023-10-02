@@ -827,7 +827,8 @@
     "name": "KRASENKOW, Michal",
     "year": "1980-2023",
     "games": 1828,
-    "id": "16340"
+    "id": "16340",
+    "synced": true
   },
   {
     "higestRating": 2590,
@@ -21242,7 +21243,8 @@
     "name": "SEEL, Christian",
     "year": "2000-2021",
     "games": 178,
-    "id": "50224"
+    "id": "50224",
+    "synced": true
   },
   {
     "higestRating": 2483,
@@ -82701,7 +82703,8 @@
     "name": "PICHLER, Juergen",
     "year": "1980-1999",
     "games": 25,
-    "id": "43607"
+    "id": "43607",
+    "synced": true
   },
   {
     "higestRating": 2257,
