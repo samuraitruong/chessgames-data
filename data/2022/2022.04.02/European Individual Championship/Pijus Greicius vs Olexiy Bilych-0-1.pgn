@@ -1,0 +1,15 @@
+[Event "European Individual Championship"]
+[Site "Terme Catez SLO"]
+[Date "2022.04.02"]
+[EventDate "2022.03.27"]
+[Round "7.33"]
+[Result "0-1"]
+[White "Pijus Greicius"]
+[Black "Olexiy Bilych"]
+[ECO "E20"]
+[WhiteElo "2100"]
+[BlackElo "2342"]
+[Source "Lichess"]
+[PlyCount "32"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d6 5. e4 c5 6. d5 b5 7. Bd2 a6 8. a3 Ba5 9. Be3 O-O 10. Be2 exd5 11. cxd5 Re8 12. g4 Bxg4 13. fxg4 Nxe4 14. Qd3 c4 15. Qd4 Nd7 16. O-O-O Nxc3 0-1

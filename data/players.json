@@ -6032,7 +6032,8 @@
     "name": "BELLIN, Robert",
     "year": "1969-2019",
     "games": 647,
-    "id": "24130"
+    "id": "24130",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -10461,7 +10462,8 @@
     "name": "ROGULJ, Branko",
     "year": "1975-2021",
     "games": 384,
-    "id": "22636"
+    "id": "22636",
+    "synced": true
   },
   {
     "higestRating": 2536,
@@ -13443,7 +13445,8 @@
     "name": "DIAZ, Joaquin Carlos",
     "year": "1966-2007",
     "games": 294,
-    "id": "86618"
+    "id": "86618",
+    "synced": true
   },
   {
     "higestRating": 2575,
@@ -20362,7 +20365,8 @@
     "name": "LEDERMAN, Leon S",
     "year": "1975-2019",
     "games": 187,
-    "id": "37474"
+    "id": "37474",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -33598,7 +33602,8 @@
     "name": "SOKOLIN, Leonid",
     "year": "1988-2022",
     "games": 100,
-    "id": "14552"
+    "id": "14552",
+    "synced": true
   },
   {
     "higestRating": 2436,
@@ -35599,7 +35604,8 @@
     "name": "PAULSEN, Dirk",
     "year": "1974-2015",
     "games": 93,
-    "id": "24562"
+    "id": "24562",
+    "synced": true
   },
   {
     "higestRating": 2283,
@@ -42201,7 +42207,8 @@
     "name": "DOGGERS, Peter",
     "year": "1993-2021",
     "games": 75,
-    "id": "50922"
+    "id": "50922",
+    "synced": true
   },
   {
     "higestRating": 2323,
@@ -47768,7 +47775,8 @@
     "name": "DAMJANOVIC, Vuk",
     "year": "2016-2023",
     "games": 64,
-    "id": "156766"
+    "id": "156766",
+    "synced": true
   },
   {
     "higestRating": 2506,
@@ -56673,7 +56681,8 @@
     "name": "CHYZY, Jakub",
     "year": "2017-2022",
     "games": 49,
-    "id": "160193"
+    "id": "160193",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -57278,7 +57287,8 @@
     "name": "MWALI, Chitumbo",
     "year": "2006-2023",
     "games": 48,
-    "id": "103839"
+    "id": "103839",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -57764,7 +57774,8 @@
     "name": "BERNAT, Miguel",
     "year": "1976-1992",
     "games": 47,
-    "id": "38884"
+    "id": "38884",
+    "synced": true
   },
   {
     "higestRating": 2307,
@@ -59765,7 +59776,8 @@
     "name": "MATTHIESEN, Arne",
     "year": "1996-2017",
     "games": 45,
-    "id": "105161"
+    "id": "105161",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -62935,7 +62947,8 @@
     "name": "THORSSON, Olafur",
     "year": "1990-2019",
     "games": 41,
-    "id": "27735"
+    "id": "27735",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -76899,7 +76912,8 @@
     "name": "HEIMRATH, Reiner",
     "year": "1991-2019",
     "games": 29,
-    "id": "75442"
+    "id": "75442",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -80634,7 +80648,8 @@
     "name": "VALLIFUOCO, Giovanni",
     "year": "1981-1987",
     "games": 27,
-    "id": "169770"
+    "id": "169770",
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -84181,7 +84196,8 @@
     "name": "BILYCH, Olexiy",
     "year": "2019-2022",
     "games": 25,
-    "id": "175740"
+    "id": "175740",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -98713,7 +98729,8 @@
     "name": "FULGONI, Fabrice Pinol",
     "year": "2001-2007",
     "games": 17,
-    "id": "50228"
+    "id": "50228",
+    "synced": true
   },
   {
     "higestRating": 2226,
@@ -103609,7 +103626,8 @@
     "name": "JANKOVIC, Branimir",
     "year": "1998-1999",
     "games": 15,
-    "id": "12591"
+    "id": "12591",
+    "synced": true
   },
   {
     "higestRating": 2243,
@@ -107333,7 +107351,8 @@
     "name": "VARGA, David",
     "year": "1999-2012",
     "games": 12,
-    "id": "106661"
+    "id": "106661",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -108089,7 +108108,8 @@
     "name": "NEGELE, Michael",
     "year": "1988-2007",
     "games": 10,
-    "id": "34189"
+    "id": "34189",
+    "synced": true
   },
   {
     "higestRating": 2255,
