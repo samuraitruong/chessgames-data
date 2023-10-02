@@ -4156,7 +4156,8 @@
     "name": "KHAIRULLIN, Ildar",
     "year": "2000-2021",
     "games": 856,
-    "id": "56802"
+    "id": "56802",
+    "synced": true
   },
   {
     "higestRating": 2639,
@@ -7457,7 +7458,8 @@
     "name": "ERENBURG, Sergey",
     "year": "1994-2019",
     "games": 525,
-    "id": "51144"
+    "id": "51144",
+    "synced": true
   },
   {
     "higestRating": 2479,
@@ -18041,7 +18043,8 @@
     "name": "ITKIS, Boris",
     "year": "1974-2016",
     "games": 213,
-    "id": "49386"
+    "id": "49386",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -20284,7 +20287,8 @@
     "name": "BRUNNER, Nicolas",
     "year": "2000-2022",
     "games": 188,
-    "id": "64443"
+    "id": "64443",
+    "synced": true
   },
   {
     "higestRating": 2353,
@@ -39214,7 +39218,8 @@
     "name": "CLAUSEN, Steen",
     "year": "1983-2011",
     "games": 82,
-    "id": "30550"
+    "id": "30550",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -39618,7 +39623,8 @@
     "name": "SARBOK, Torsten",
     "year": "2000-2017",
     "games": 81,
-    "id": "11017"
+    "id": "11017",
+    "synced": true
   },
   {
     "higestRating": 2428,
@@ -42127,7 +42133,8 @@
     "name": "ORAK, Ljubomir",
     "year": "1976-2012",
     "games": 75,
-    "id": "49222"
+    "id": "49222",
+    "synced": true
   },
   {
     "higestRating": 2283,
@@ -53950,7 +53957,8 @@
     "name": "JAROCH, Karol",
     "year": "2005-2019",
     "games": 53,
-    "id": "128403"
+    "id": "128403",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -58820,7 +58828,8 @@
     "name": "FRANSSILA, Tommi",
     "year": "1989-2012",
     "games": 46,
-    "id": "81395"
+    "id": "81395",
+    "synced": true
   },
   {
     "higestRating": 2237,
@@ -100909,7 +100918,8 @@
     "name": "WEIDEMANN, Christian",
     "year": "1994-2012",
     "games": 16,
-    "id": "31047"
+    "id": "31047",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -103242,7 +103252,8 @@
     "name": "CHEREDNICHENKO, Dmitrij",
     "year": "2016-2019",
     "games": 16,
-    "id": "157185"
+    "id": "157185",
+    "synced": true
   },
   {
     "higestRating": 2458,
@@ -104545,7 +104556,8 @@
     "name": "MANZONE, Alessandro",
     "year": "2000-2023",
     "games": 15,
-    "id": "71797"
+    "id": "71797",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -105419,7 +105431,8 @@
     "name": "MLADENOV, Ilian",
     "year": "2004-2012",
     "games": 15,
-    "id": "118847"
+    "id": "118847",
+    "synced": true
   },
   {
     "higestRating": 2248,

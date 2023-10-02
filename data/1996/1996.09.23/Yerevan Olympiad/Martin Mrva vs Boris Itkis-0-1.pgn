@@ -1,0 +1,15 @@
+[Event "Yerevan Olympiad"]
+[Site "Yerevan ARM"]
+[Date "1996.09.23"]
+[EventDate "1996.09.16"]
+[Round "7"]
+[Result "0-1"]
+[White "Martin Mrva"]
+[Black "Boris Itkis"]
+[ECO "C00"]
+[WhiteElo "2410"]
+[BlackElo "2470"]
+[Source "Olimpbase"]
+[PlyCount "56"]
+
+1.e4 e6 2.d3 c5 3.g3 Nc6 4.Bg2 g6 5.c3 Bg7 6.Be3 b6 7.Ne2 Nge7 8.d4 cxd4 9.Nxd4 Ba6 10.Na3 O-O 11.Qa4 Bb7 12.Rd1 d5 13.exd5 Nxd5 14.Nxc6 Qe8 15. Bxd5 exd5 16.O-O Bxc6 17.Qh4 d4 18.Bxd4 Qe2 19.Qf4 Bxd4 20.Rxd4 Rad8 21. Rxd8 Rxd8 22.Nc4 Bb5 23.Ne3 Bd3 24.Rc1 Ba6 25.Qf6 Rd2 26.c4 Bb7 27.b4 Bf3 28.c5 Qxf2# 0-1
