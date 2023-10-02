@@ -2873,7 +2873,8 @@
     "name": "SALAMANCA, Arturo Pomar",
     "year": "1943-1992",
     "games": 1095,
-    "id": "26577"
+    "id": "26577",
+    "synced": true
   },
   {
     "higestRating": 2576,
@@ -5420,7 +5421,8 @@
     "name": "MARTINEZ, Silvino Garcia",
     "year": "1964-2017",
     "games": 703,
-    "id": "29478"
+    "id": "29478",
+    "synced": true
   },
   {
     "higestRating": 2543,
@@ -15810,7 +15812,8 @@
     "name": "GAGARE, Shardul",
     "year": "2008-2022",
     "games": 248,
-    "id": "117246"
+    "id": "117246",
+    "synced": true
   },
   {
     "higestRating": 2511,
@@ -39065,7 +39068,8 @@
     "name": "VUCINIC, Gojko",
     "year": "2008-2022",
     "games": 83,
-    "id": "118148"
+    "id": "118148",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -47380,7 +47384,8 @@
     "name": "FARLEY, Terry",
     "year": "1996-2020",
     "games": 64,
-    "id": "35658"
+    "id": "35658",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -65910,7 +65915,8 @@
     "name": "HAGER, Franz",
     "year": "1984-2013",
     "games": 38,
-    "id": "38729"
+    "id": "38729",
+    "synced": true
   },
   {
     "higestRating": 2322,
@@ -107363,7 +107369,8 @@
     "name": "POLETOV, Vladimir",
     "year": "2004-2005",
     "games": 12,
-    "id": "113045"
+    "id": "113045",
+    "synced": true
   },
   {
     "higestRating": 2320,
