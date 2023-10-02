@@ -255,7 +255,8 @@
     "name": "JANSA, Vlastimil",
     "year": "1959-2021",
     "games": 2592,
-    "id": "18547"
+    "id": "18547",
+    "synced": true
   },
   {
     "higestRating": 2570,
@@ -101174,7 +101175,8 @@
     "name": "LUTZ, Dieter",
     "year": "1999-2005",
     "games": 16,
-    "id": "54148"
+    "id": "54148",
+    "synced": true
   },
   {
     "higestRating": 2354,

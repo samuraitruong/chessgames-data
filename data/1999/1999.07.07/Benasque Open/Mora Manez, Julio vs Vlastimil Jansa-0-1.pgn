@@ -1,0 +1,14 @@
+[Event "Benasque Open"]
+[Site "Benasque ESP"]
+[Date "1999.07.07"]
+[EventDate "1999.07.06"]
+[Round "2"]
+[Result "0-1"]
+[White "Mora Manez, Julio"]
+[Black "Vlastimil Jansa"]
+[ECO "B22"]
+[WhiteElo "2140"]
+[BlackElo "2469"]
+[PlyCount "40"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.d4 cxd4 6.cxd4 b6 7.Nc3 Nxc3 8.bxc3 Qc7 9.Bd2 Be7 10.Bd3 Ba6 11.Bxa6 Nxa6 12.O-O O-O 13.Qe2 Qb7 14.a4 Nc7 15.Rfb1 Rfe8 16.c4 Rab8 17.h3 Qc6 18.Rc1 h6 19.Qd3 a5 20.Ng5 hxg5 0-1
