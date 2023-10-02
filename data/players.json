@@ -3767,7 +3767,8 @@
     "name": "DONCHENKO, Alexander",
     "year": "2010-2023",
     "games": 920,
-    "id": "129292"
+    "id": "129292",
+    "synced": true
   },
   {
     "higestRating": 2481,
@@ -5640,7 +5641,8 @@
     "name": "LIEBERT, Heinz",
     "year": "1954-2012",
     "games": 682,
-    "id": "27993"
+    "id": "27993",
+    "synced": true
   },
   {
     "higestRating": 2391,
@@ -19100,14 +19102,16 @@
     "name": "SIECIECHOWICZ, Marcin",
     "year": "2004-2021",
     "games": 202,
-    "id": "118193"
+    "id": "118193",
+    "synced": true
   },
   {
     "higestRating": 2478,
     "name": "KRISHNA, C R G",
     "year": "2011-2022",
     "games": 202,
-    "id": "131266"
+    "id": "131266",
+    "synced": true
   },
   {
     "higestRating": 2503,
@@ -20522,7 +20526,8 @@
     "name": "OCHOA, Francisco Javier",
     "year": "1974-1998",
     "games": 184,
-    "id": "38545"
+    "id": "38545",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -28519,7 +28524,8 @@
     "name": "BERKE, Ana",
     "year": "2001-2023",
     "games": 122,
-    "id": "55651"
+    "id": "55651",
+    "synced": true
   },
   {
     "higestRating": 2388,
@@ -33146,7 +33152,8 @@
     "name": "REGAN, Natasha K",
     "year": "1987-2019",
     "games": 102,
-    "id": "68635"
+    "id": "68635",
+    "synced": true
   },
   {
     "higestRating": 2287,
@@ -43485,7 +43492,8 @@
     "name": "SCHNIDER, Gert",
     "year": "1994-2021",
     "games": 72,
-    "id": "61000"
+    "id": "61000",
+    "synced": true
   },
   {
     "higestRating": 2373,
@@ -66758,7 +66766,8 @@
     "name": "BRANFORD, John W",
     "year": "1978-1985",
     "games": 37,
-    "id": "28092"
+    "id": "28092",
+    "synced": true
   },
   {
     "higestRating": 2319,
@@ -66835,7 +66844,8 @@
     "name": "DE JONG, Tom",
     "year": "1978-2018",
     "games": 37,
-    "id": "40505"
+    "id": "40505",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -80323,7 +80333,8 @@
     "name": "LOFTSSON, Hrafn",
     "year": "1995-2018",
     "games": 27,
-    "id": "136229"
+    "id": "136229",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -94741,7 +94752,8 @@
     "name": "GAJIC, Zoran",
     "year": "1976-2015",
     "games": 19,
-    "id": "94957"
+    "id": "94957",
+    "synced": true
   },
   {
     "higestRating": 2329,
@@ -108218,7 +108230,8 @@
     "name": "ESPINOZA, Felix",
     "year": "2008",
     "games": 10,
-    "id": "119018"
+    "id": "119018",
+    "synced": true
   },
   {
     "higestRating": 2231,
@@ -110135,7 +110148,8 @@
     "name": "KOLOTILIN, Yuri",
     "year": "1989-2003",
     "games": 5,
-    "id": "60105"
+    "id": "60105",
+    "synced": true
   },
   {
     "higestRating": 2240,
