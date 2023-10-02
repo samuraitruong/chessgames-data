@@ -1896,7 +1896,8 @@
     "name": "MATLAKOV, Maxim",
     "year": "2000-2023",
     "games": 1315,
-    "id": "54730"
+    "id": "54730",
+    "synced": true
   },
   {
     "higestRating": 2681,
@@ -10276,7 +10277,8 @@
     "name": "COLLINS, Sam E",
     "year": "1998-2022",
     "games": 391,
-    "id": "31504"
+    "id": "31504",
+    "synced": true
   },
   {
     "higestRating": 2446,
@@ -12190,7 +12192,8 @@
     "name": "MARTORELLI, Antonio",
     "year": "1976-2021",
     "games": 327,
-    "id": "42604"
+    "id": "42604",
+    "synced": true
   },
   {
     "higestRating": 2563,
@@ -18354,7 +18357,8 @@
     "name": "FERGUSON, Mark",
     "year": "1992-2014",
     "games": 210,
-    "id": "14225"
+    "id": "14225",
+    "synced": true
   },
   {
     "higestRating": 2383,
@@ -20468,7 +20472,8 @@
     "name": "RICHARDSON, John R",
     "year": "1981-2022",
     "games": 185,
-    "id": "27795"
+    "id": "27795",
+    "synced": true
   },
   {
     "higestRating": 2596,
@@ -43612,7 +43617,8 @@
     "name": "GOCHELASHVILI, David",
     "year": "1996-2021",
     "games": 72,
-    "id": "81637"
+    "id": "81637",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -47971,7 +47977,8 @@
     "name": "LOGINOV, Anton",
     "year": "1996-2016",
     "games": 63,
-    "id": "50195"
+    "id": "50195",
+    "synced": true
   },
   {
     "higestRating": 2419,
@@ -56777,7 +56784,8 @@
     "name": "KUCERA, Petr",
     "year": "1979-2015",
     "games": 48,
-    "id": "29146"
+    "id": "29146",
+    "synced": true
   },
   {
     "higestRating": 2392,
@@ -65178,7 +65186,8 @@
     "name": "WODA, Jacek",
     "year": "1985-1998",
     "games": 39,
-    "id": "60287"
+    "id": "60287",
+    "synced": true
   },
   {
     "higestRating": 2391,
@@ -77778,7 +77787,8 @@
     "name": "BOCHKAREV, Alexander",
     "year": "1998-2011",
     "games": 28,
-    "id": "10854"
+    "id": "10854",
+    "synced": true
   },
   {
     "higestRating": 2334,
