@@ -1,0 +1,14 @@
+[Event "Pro Chess League"]
+[Site "chess.com INT"]
+[Date "2018.02.28"]
+[EventDate "2018.01.18"]
+[Round "8"]
+[Result "0-1"]
+[White "Nicholas Rosenthal"]
+[Black "Sean Nagle"]
+[ECO "B06"]
+[WhiteElo "2169"]
+[BlackElo "2432"]
+[PlyCount "42"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. a4 Nf6 6. f3 Nbd7 7. Bc4 O-O 8. Nge2 c5 9. dxc5 Nxc5 10. Bxc5 dxc5 11. Qxd8 Rxd8 12. a5 e6 13. Kf2 Bd7 14. Rhd1 Bc6 15. g4 Nd7 16. f4 g5 17. Rd2 gxf4 18. Rad1 f3 19. Ng3 Bd4+ 20. Kf1 Ne5 21. Bb3 Nxg4 0-1

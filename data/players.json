@@ -5225,7 +5225,8 @@
     "name": "KADRIC, Denis",
     "year": "2008-2023",
     "games": 724,
-    "id": "118267"
+    "id": "118267",
+    "synced": true
   },
   {
     "higestRating": 2566,
@@ -13238,7 +13239,8 @@
     "name": "OSTENSTAD, Berge",
     "year": "1982-2018",
     "games": 298,
-    "id": "14457"
+    "id": "14457",
+    "synced": true
   },
   {
     "higestRating": 2506,
@@ -23903,7 +23905,8 @@
     "name": "HOHLER, Peter",
     "year": "1959-2017",
     "games": 154,
-    "id": "44668"
+    "id": "44668",
+    "synced": true
   },
   {
     "higestRating": 2441,
@@ -27900,7 +27903,8 @@
     "name": "WHITEHEAD, Jay",
     "year": "1976-1998",
     "games": 125,
-    "id": "15462"
+    "id": "15462",
+    "synced": true
   },
   {
     "higestRating": 2302,
@@ -30482,7 +30486,8 @@
     "name": "ALTOUNIAN, Levon",
     "year": "1993-2018",
     "games": 112,
-    "id": "51149"
+    "id": "51149",
+    "synced": true
   },
   {
     "higestRating": 2418,
@@ -32909,7 +32914,8 @@
     "name": "ALONSO, Alejandro Franco",
     "year": "2001-2021",
     "games": 103,
-    "id": "71088"
+    "id": "71088",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -35742,7 +35748,8 @@
     "name": "PERENA, Catherine",
     "year": "2006-2020",
     "games": 93,
-    "id": "103610"
+    "id": "103610",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -39165,7 +39172,8 @@
     "name": "NAGLE, Sean",
     "year": "1997-2019",
     "games": 82,
-    "id": "36731"
+    "id": "36731",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -40695,7 +40703,8 @@
     "name": "RYTOV, Boris",
     "year": "1966-1980",
     "games": 78,
-    "id": "21275"
+    "id": "21275",
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -47955,7 +47964,8 @@
     "name": "NYMAN, Sture Valentin",
     "year": "1943-1994",
     "games": 63,
-    "id": "59332"
+    "id": "59332",
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -51247,7 +51257,8 @@
     "name": "DONG, Bao Nghia",
     "year": "2008-2023",
     "games": 57,
-    "id": "120038"
+    "id": "120038",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -52417,7 +52428,8 @@
     "name": "BLESIC, Vaso",
     "year": "2002-2022",
     "games": 55,
-    "id": "76772"
+    "id": "76772",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -53194,7 +53206,8 @@
     "name": "KHARMUNOVA, Nadezhda",
     "year": "2001-2017",
     "games": 54,
-    "id": "109135"
+    "id": "109135",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -57937,7 +57950,8 @@
     "name": "TIMMAN, Ton",
     "year": "1969-2007",
     "games": 47,
-    "id": "81119"
+    "id": "81119",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -63218,7 +63232,8 @@
     "name": "BUECKER, Juergen",
     "year": "1998-2010",
     "games": 41,
-    "id": "90370"
+    "id": "90370",
+    "synced": true
   },
   {
     "higestRating": 2471,
@@ -64213,7 +64228,8 @@
     "name": "LEKANDER, Rolf",
     "year": "1972-2017",
     "games": 40,
-    "id": "84678"
+    "id": "84678",
+    "synced": true
   },
   {
     "higestRating": 2229,
@@ -67809,7 +67825,8 @@
     "name": "CIVIN, Tomas",
     "year": "1995-2022",
     "games": 36,
-    "id": "55125"
+    "id": "55125",
+    "synced": true
   },
   {
     "higestRating": 2402,
@@ -76332,7 +76349,8 @@
     "name": "ARAMBEL, Sergio Javier",
     "year": "1994-2006",
     "games": 29,
-    "id": "42683"
+    "id": "42683",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -78707,7 +78725,8 @@
     "name": "NIKITINYH, Boris",
     "year": "2005-2018",
     "games": 28,
-    "id": "132597"
+    "id": "132597",
+    "synced": true
   },
   {
     "higestRating": 2456,
@@ -79905,7 +79924,8 @@
     "name": "BELAMARIC, Goran",
     "year": "1981-2016",
     "games": 27,
-    "id": "96752"
+    "id": "96752",
+    "synced": true
   },
   {
     "higestRating": 2345,
@@ -85968,7 +85988,8 @@
     "name": "ALAGUZOV, Maxat",
     "year": "2000-2010",
     "games": 23,
-    "id": "56761"
+    "id": "56761",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -87900,7 +87921,8 @@
     "name": "POZIN, Sergey",
     "year": "1993-2019",
     "games": 22,
-    "id": "60865"
+    "id": "60865",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -95290,7 +95312,8 @@
     "name": "SANCHEZ, Jairo Andres Hernandez",
     "year": "2012-2020",
     "games": 19,
-    "id": "139024"
+    "id": "139024",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -97179,7 +97202,8 @@
     "name": "TEREKHOV, Konstantin",
     "year": "2007-2020",
     "games": 18,
-    "id": "109180"
+    "id": "109180",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -107118,7 +107142,8 @@
     "name": "MAKINANO, Anthony",
     "year": "2006-2007",
     "games": 12,
-    "id": "113124"
+    "id": "113124",
+    "synced": true
   },
   {
     "higestRating": 2383,
