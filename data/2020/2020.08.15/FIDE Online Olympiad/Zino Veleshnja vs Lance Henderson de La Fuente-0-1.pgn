@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.15"]
+[EventDate "2020.08.14"]
+[Round "5"]
+[Result "0-1"]
+[White "Zino Veleshnja"]
+[Black "Lance Henderson de La Fuente"]
+[ECO "E00"]
+[WhiteElo "2104"]
+[BlackElo "2177"]
+[Source "Chess-Results"]
+[PlyCount "72"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O Nbd7 8. Qc2 c6 9. Bf4 Ne4 10. Nc3 g5 11. Bc1 f5 12. Ne5 Bf6 13. f4 gxf4 14. Nxe4 dxe4 15. Bxf4 Nxe5 16. dxe5 Be7 17. Rad1 Qb6+ 18. Kh1 Rd8 19. c5 Qc7 20. g4 Rd5 21. b4 a5 22. Rxd5 cxd5 23. gxf5 exf5 24. Bh3 Be6 25. Qb2 Qd7 26. Rg1+ Kf7 27. Bxf5 Rg8 28. Bxe6+ Qxe6 29. Bg3 h5 30. Rf1+ Ke8 31. bxa5 h4 32. Qb5+ Kd8 33. Bf4 Qh3 34. Qb6+ Kc8 35. Rf2 Qg4 36. Rf1 Qg2# 0-1
