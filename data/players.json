@@ -4370,7 +4370,8 @@
     "name": "DEAC, Bogdan-Daniel",
     "year": "2012-2023",
     "games": 826,
-    "id": "139343"
+    "id": "139343",
+    "synced": true
   },
   {
     "higestRating": 2593,
@@ -6613,7 +6614,8 @@
     "name": "ABDUMALIK, Zhansaya",
     "year": "2007-2023",
     "games": 599,
-    "id": "113680"
+    "id": "113680",
+    "synced": true
   },
   {
     "higestRating": 2696,
@@ -12533,7 +12535,8 @@
     "name": "GURAMISHVILI, Sopiko",
     "year": "2002-2019",
     "games": 318,
-    "id": "110074"
+    "id": "110074",
+    "synced": true
   },
   {
     "higestRating": 2535,
@@ -17839,7 +17842,8 @@
     "name": "JURCIK, Marian",
     "year": "2001-2023",
     "games": 217,
-    "id": "54644"
+    "id": "54644",
+    "synced": true
   },
   {
     "higestRating": 2502,
@@ -20222,7 +20226,8 @@
     "name": "ESLON, Jaan",
     "year": "1969-2000",
     "games": 189,
-    "id": "25873"
+    "id": "25873",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -20713,7 +20718,8 @@
     "name": "NITIN, S",
     "year": "2004-2022",
     "games": 184,
-    "id": "107102"
+    "id": "107102",
+    "synced": true
   },
   {
     "higestRating": 2492,
@@ -28328,7 +28334,8 @@
     "name": "THEJKUMAR, M S",
     "year": "2000-2017",
     "games": 124,
-    "id": "102338"
+    "id": "102338",
+    "synced": true
   },
   {
     "higestRating": 2418,
@@ -41933,7 +41940,8 @@
     "name": "IVANOV, Alexey",
     "year": "1989-2012",
     "games": 76,
-    "id": "44532"
+    "id": "44532",
+    "synced": true
   },
   {
     "higestRating": 2527,
@@ -49084,7 +49092,8 @@
     "name": "KRANTZ, Kjell",
     "year": "1965-1989",
     "games": 61,
-    "id": "28936"
+    "id": "28936",
+    "synced": true
   },
   {
     "higestRating": 2345,
@@ -51618,7 +51627,8 @@
     "name": "VON MEIJENFELDT, Bart",
     "year": "2011-2017",
     "games": 57,
-    "id": "131166"
+    "id": "131166",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -87007,7 +87017,8 @@
     "name": "SCHOENTHIER, Frank",
     "year": "1984-2002",
     "games": 23,
-    "id": "95575"
+    "id": "95575",
+    "synced": true
   },
   {
     "higestRating": 2258,
@@ -90276,7 +90287,8 @@
     "name": "NETUSIL, Miloslav",
     "year": "1985-2019",
     "games": 21,
-    "id": "55109"
+    "id": "55109",
+    "synced": true
   },
   {
     "higestRating": 2259,
@@ -100955,7 +100967,8 @@
     "name": "TUNA, Alp",
     "year": "2016-2018",
     "games": 17,
-    "id": "157102"
+    "id": "157102",
+    "synced": true
   },
   {
     "higestRating": 2348,

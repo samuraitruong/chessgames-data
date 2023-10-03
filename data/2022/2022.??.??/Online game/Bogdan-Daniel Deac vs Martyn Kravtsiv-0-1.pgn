@@ -1,0 +1,15 @@
+[Event "Online game"]
+[Site "chess.com"]
+[Date "2022.??.??"]
+[EventDate "2022.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Bogdan-Daniel Deac"]
+[Black "Martyn Kravtsiv"]
+[ECO "C45"]
+[WhiteElo "2679"]
+[BlackElo "2598"]
+[Source "ChessBase"]
+[PlyCount "42"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8. h4 Qe6 9. Nd2 a5 10. Nf3 Ba6 11. Qe4 Bb4+ 12. Kd1 f5 13. Qd4 c5 14. Ng5 cxd4 15. Nxe6 dxe6 16. a3 Be7 17. Bxa6 Rxa6 18. h5 Kf7 19. Ke2 c5 20. Kd3 Rc8 21. h6 g6 0-1
