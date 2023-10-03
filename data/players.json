@@ -187,7 +187,8 @@
     "name": "TAL, Mikhail",
     "year": "1949-1992",
     "games": 2915,
-    "id": "14380"
+    "id": "14380",
+    "synced": true
   },
   {
     "higestRating": 2520,
@@ -9120,7 +9121,8 @@
     "name": "NEGULESCU, Adrian",
     "year": "1977-2005",
     "games": 440,
-    "id": "21984"
+    "id": "21984",
+    "synced": true
   },
   {
     "higestRating": 2610,
@@ -53353,7 +53355,8 @@
     "name": "MICHIELSEN, Joost",
     "year": "2001-2011",
     "games": 54,
-    "id": "50899"
+    "id": "50899",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -77492,7 +77495,8 @@
     "name": "HELIS, Tadeusz",
     "year": "1991-2021",
     "games": 29,
-    "id": "92637"
+    "id": "92637",
+    "synced": true
   },
   {
     "higestRating": 2405,
