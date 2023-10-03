@@ -3354,7 +3354,8 @@
     "name": "FONTAINE, Robert",
     "year": "1991-2021",
     "games": 994,
-    "id": "17364"
+    "id": "17364",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -14398,7 +14399,8 @@
     "name": "AGZAMOV, Georgy",
     "year": "1966-1986",
     "games": 274,
-    "id": "16887"
+    "id": "16887",
+    "synced": true
   },
   {
     "higestRating": 2519,
@@ -26591,7 +26593,8 @@
     "name": "PROKOPP, Heinz",
     "year": "1958-2010",
     "games": 136,
-    "id": "105423"
+    "id": "105423",
+    "synced": true
   },
   {
     "higestRating": 2202,
@@ -30128,7 +30131,8 @@
     "name": "RIEMER, Wolfgang",
     "year": "1980-2004",
     "games": 115,
-    "id": "90353"
+    "id": "90353",
+    "synced": true
   },
   {
     "higestRating": 2414,
@@ -34561,7 +34565,8 @@
     "name": "RUIZ, Jose Miguel Ortega",
     "year": "1992-2022",
     "games": 98,
-    "id": "92740"
+    "id": "92740",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -38788,7 +38793,8 @@
     "name": "OLIVIER, Jean-Christophe",
     "year": "1989-2011",
     "games": 84,
-    "id": "56950"
+    "id": "56950",
+    "synced": true
   },
   {
     "higestRating": 2456,
@@ -46116,7 +46122,8 @@
     "name": "SCHRAMM, Christian",
     "year": "1993-2019",
     "games": 67,
-    "id": "57331"
+    "id": "57331",
+    "synced": true
   },
   {
     "higestRating": 2289,
@@ -51156,7 +51163,8 @@
     "name": "COLBOW, Collin",
     "year": "2019-2022",
     "games": 58,
-    "id": "162977"
+    "id": "162977",
+    "synced": true
   },
   {
     "higestRating": 2227,
@@ -57075,7 +57083,8 @@
     "name": "LINDSTEDT, Johan",
     "year": "1988-2016",
     "games": 48,
-    "id": "37994"
+    "id": "37994",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -60874,7 +60883,8 @@
     "name": "GOKSEL, Doga Cihan",
     "year": "2003-2013",
     "games": 44,
-    "id": "85211"
+    "id": "85211",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -66848,7 +66858,8 @@
     "name": "SULMAN, Robert M",
     "year": "1979-2001",
     "games": 38,
-    "id": "126841"
+    "id": "126841",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -74408,7 +74419,8 @@
     "name": "BABRIKOWSKI, Peter",
     "year": "1976-1994",
     "games": 31,
-    "id": "62766"
+    "id": "62766",
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -86875,7 +86887,8 @@
     "name": "JEZEK, Jan",
     "year": "1960-2020",
     "games": 23,
-    "id": "83400"
+    "id": "83400",
+    "synced": true
   },
   {
     "higestRating": 2419,
@@ -96954,7 +96967,8 @@
     "name": "MESIARIK, Rudolf",
     "year": "1971-2007",
     "games": 18,
-    "id": "51869"
+    "id": "51869",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -102011,7 +102025,8 @@
     "name": "SPIRIEV, Peter",
     "year": "1986-1991",
     "games": 16,
-    "id": "60482"
+    "id": "60482",
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -106067,7 +106082,8 @@
     "name": "BATOR, Zbigniew",
     "year": "1975-1987",
     "games": 15,
-    "id": "124125"
+    "id": "124125",
+    "synced": true
   },
   {
     "higestRating": 2227,
@@ -106934,7 +106950,8 @@
     "name": "TAPPER, Larry",
     "year": "1967-2011",
     "games": 14,
-    "id": "109396"
+    "id": "109396",
+    "synced": true
   },
   {
     "higestRating": 2338,
