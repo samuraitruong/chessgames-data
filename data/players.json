@@ -2478,7 +2478,8 @@
     "name": "POTKIN, Vladimir",
     "year": "1997-2023",
     "games": 1173,
-    "id": "49040"
+    "id": "49040",
+    "synced": true
   },
   {
     "higestRating": 2640,
@@ -16930,7 +16931,8 @@
     "name": "KAZIMOVA, Narmin",
     "year": "2004-2023",
     "games": 230,
-    "id": "114728"
+    "id": "114728",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -19288,7 +19290,8 @@
     "name": "ZILBERSTEIN, Valery",
     "year": "1963-1995",
     "games": 201,
-    "id": "41943"
+    "id": "41943",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -29837,7 +29840,8 @@
     "name": "KOSKINEN, Henri",
     "year": "1987-2017",
     "games": 116,
-    "id": "54034"
+    "id": "54034",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -34576,7 +34580,8 @@
     "name": "BRONNIKOVA, Elizaveta",
     "year": "2003-2015",
     "games": 98,
-    "id": "72024"
+    "id": "72024",
+    "synced": true
   },
   {
     "higestRating": 2389,
@@ -46180,7 +46185,8 @@
     "name": "IERMITO, Sebastian",
     "year": "2001-2022",
     "games": 67,
-    "id": "70487"
+    "id": "70487",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -56435,7 +56441,8 @@
     "name": "HANRECK, Alan E",
     "year": "1972-1993",
     "games": 49,
-    "id": "27526"
+    "id": "27526",
+    "synced": true
   },
   {
     "higestRating": 2201,
@@ -63154,7 +63161,8 @@
     "name": "BORGES, Guilherme Deola",
     "year": "2000-2023",
     "games": 42,
-    "id": "158394"
+    "id": "158394",
+    "synced": true
   },
   {
     "higestRating": 2238,
@@ -63176,7 +63184,8 @@
     "name": "DE BOER, Eelke",
     "year": "2017-2020",
     "games": 42,
-    "id": "159806"
+    "id": "159806",
+    "synced": true
   },
   {
     "higestRating": 2282,
@@ -69030,7 +69039,8 @@
     "name": "PFREUNDT, Jakob",
     "year": "2015-2019",
     "games": 36,
-    "id": "155061"
+    "id": "155061",
+    "synced": true
   },
   {
     "higestRating": 2222,
@@ -90488,7 +90498,8 @@
     "name": "BONEV, Todor",
     "year": "2001-2011",
     "games": 21,
-    "id": "56770"
+    "id": "56770",
+    "synced": true
   },
   {
     "higestRating": 2248,
@@ -90511,7 +90522,8 @@
     "name": "HOELLRIGL, Wilfried",
     "year": "1991-2006",
     "games": 21,
-    "id": "57037"
+    "id": "57037",
+    "synced": true
   },
   {
     "higestRating": 2259,
@@ -98528,7 +98540,8 @@
     "name": "OPANASENKO, Mikhail",
     "year": "2012-2013",
     "games": 18,
-    "id": "141366"
+    "id": "141366",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -101022,7 +101035,8 @@
     "name": "NURI, Murad",
     "year": "2009-2018",
     "games": 17,
-    "id": "147719"
+    "id": "147719",
+    "synced": true
   },
   {
     "higestRating": 2275,
