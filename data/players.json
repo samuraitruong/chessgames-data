@@ -2564,7 +2564,8 @@
     "name": "MCSHANE, Luke",
     "year": "1990-2022",
     "games": 1151,
-    "id": "14287"
+    "id": "14287",
+    "synced": true
   },
   {
     "higestRating": 2705,
@@ -7500,7 +7501,8 @@
     "name": "SHOMOEV, Anton",
     "year": "1996-2021",
     "games": 524,
-    "id": "50320"
+    "id": "50320",
+    "synced": true
   },
   {
     "higestRating": 2601,
@@ -20591,7 +20593,8 @@
     "name": "ZELLER, Frank",
     "year": "1987-2023",
     "games": 184,
-    "id": "36706"
+    "id": "36706",
+    "synced": true
   },
   {
     "higestRating": 2436,
@@ -28956,7 +28959,8 @@
     "name": "GOKHALE, Chandrashekhar",
     "year": "1990-2019",
     "games": 120,
-    "id": "36878"
+    "id": "36878",
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -34848,7 +34852,8 @@
     "name": "ERNESTE, Inguna",
     "year": "1990-2017",
     "games": 96,
-    "id": "17890"
+    "id": "17890",
+    "synced": true
   },
   {
     "higestRating": 2354,
@@ -41588,7 +41593,8 @@
     "name": "FOUDZI, Siti Zulaikha",
     "year": "2000-2022",
     "games": 77,
-    "id": "101169"
+    "id": "101169",
+    "synced": true
   },
   {
     "higestRating": 2387,
@@ -46974,7 +46980,8 @@
     "name": "BEULEN, Marcel",
     "year": "1987-1999",
     "games": 65,
-    "id": "46665"
+    "id": "46665",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -47764,7 +47771,8 @@
     "name": "ZELESCO, Karl",
     "year": "2012-2018",
     "games": 64,
-    "id": "135373"
+    "id": "135373",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -57930,7 +57938,8 @@
     "name": "THORVALDSSON, Jonas",
     "year": "1962-1974",
     "games": 47,
-    "id": "45697"
+    "id": "45697",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -68729,7 +68738,8 @@
     "name": "KACZMARCZYK, Dennis",
     "year": "2012-2021",
     "games": 36,
-    "id": "148818"
+    "id": "148818",
+    "synced": true
   },
   {
     "higestRating": 2257,
@@ -70961,7 +70971,8 @@
     "name": "SKLYAROV, Dmitry V",
     "year": "2002-2022",
     "games": 34,
-    "id": "126637"
+    "id": "126637",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -89083,7 +89094,8 @@
     "name": "SCHERER, Rolf",
     "year": "2008-2013",
     "games": 22,
-    "id": "129602"
+    "id": "129602",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -89443,7 +89455,8 @@
     "name": "PALOZZA, Christian",
     "year": "2017-2021",
     "games": 22,
-    "id": "158918"
+    "id": "158918",
+    "synced": true
   },
   {
     "higestRating": 2215,

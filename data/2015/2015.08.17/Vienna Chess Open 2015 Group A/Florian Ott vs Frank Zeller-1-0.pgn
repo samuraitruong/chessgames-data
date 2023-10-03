@@ -1,0 +1,14 @@
+[Event "Vienna Chess Open 2015 Group A"]
+[Site "Vienna AUT"]
+[Date "2015.08.17"]
+[EventDate "2015.08.15"]
+[Round "3"]
+[Result "1-0"]
+[White "Florian Ott"]
+[Black "Frank Zeller"]
+[ECO "E46"]
+[WhiteElo "2254"]
+[BlackElo "2402"]
+[PlyCount "40"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nge2 Re8 6.a3 Bf8 7.Ng3 d5 8.Be2 c5 9.dxc5 Bxc5 10.b4 Bf8 11.O-O Nc6 12.Bb2 a5 13.b5 Ne5 14.Nce4 Nxe4 15.Bxe5 Nc5 16.Bb2 dxc4 17.Qc2 Nd3 18.Rfd1 Qb6 19.Bd4 Bc5 20.Bxd3 1-0
