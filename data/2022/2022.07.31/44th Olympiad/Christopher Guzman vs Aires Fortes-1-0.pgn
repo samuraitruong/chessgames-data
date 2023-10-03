@@ -1,0 +1,14 @@
+[Event "44th Olympiad"]
+[Site "Chennai IND"]
+[Date "2022.07.31"]
+[EventDate "2022.07.29"]
+[Round "3.53"]
+[Result "1-0"]
+[White "Christopher Guzman"]
+[Black "Aires Fortes"]
+[ECO "C47"]
+[WhiteElo "2243"]
+[BlackElo "1508"]
+[PlyCount "44"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O 8. O-O d6 9. Na4 d5 10. e5 Ng4 11. f4 Qh4 12. h3 f5 13. c3 Ba5 14. Qf3 Nxe5 15. fxe5 Qxa4 16. Qg3 c5 17. Bh6 Rf7 18. Bxf5 Bxf5 19. Rxf5 Qd7 20. Raf1 Raf8 21. Qxg7+ Rxg7 22. Rxf8# 1-0

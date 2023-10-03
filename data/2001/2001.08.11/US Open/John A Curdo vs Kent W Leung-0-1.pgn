@@ -1,0 +1,14 @@
+[Event "US Open"]
+[Site "Framingham, MA USA"]
+[Date "2001.08.11"]
+[EventDate "2001.08.04"]
+[Round "8"]
+[Result "0-1"]
+[White "John A Curdo"]
+[Black "Kent W Leung"]
+[ECO "B51"]
+[WhiteElo "2263"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c3 a6 5. Ba4 b5 6. Bc2 c4 7. b3 Ngf6 8. O-O g6 9. bxc4 bxc4 10. Na3 Qc7 11. Qe2 Nb6 12. e5 dxe5 13. Qxe5 Qxe5 14. Nxe5 Be6 15. Rb1 Nfd7 16. Re1 Bg7 17. Nxd7 Nxd7 18. Ba4 O-O-O 19. d4 cxd3 20. Be3 Bxa2 21. Rb2 Bd5 22. Bd4 e5 23. c4 Ba8 0-1
