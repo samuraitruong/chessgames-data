@@ -6582,7 +6582,8 @@
     "name": "KHURTSIDZE, Nino",
     "year": "1992-2017",
     "games": 601,
-    "id": "49619"
+    "id": "49619",
+    "synced": true
   },
   {
     "higestRating": 2593,
@@ -6891,7 +6892,8 @@
     "name": "MITKOV, Nikola",
     "year": "1989-2020",
     "games": 575,
-    "id": "17038"
+    "id": "17038",
+    "synced": true
   },
   {
     "higestRating": 2625,
@@ -17143,7 +17145,8 @@
     "name": "PANCZYK, Krzysztof",
     "year": "1977-2019",
     "games": 226,
-    "id": "18690"
+    "id": "18690",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -23461,7 +23464,8 @@
     "name": "BACH, Matthias",
     "year": "1987-2022",
     "games": 159,
-    "id": "29112"
+    "id": "29112",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -23969,7 +23973,8 @@
     "name": "JAKAB, Attila",
     "year": "1995-2022",
     "games": 155,
-    "id": "48917"
+    "id": "48917",
+    "synced": true
   },
   {
     "higestRating": 2477,
@@ -25754,7 +25759,8 @@
     "name": "ROHIT, Gogineni",
     "year": "2001-2008",
     "games": 142,
-    "id": "56805"
+    "id": "56805",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -43926,7 +43932,8 @@
     "name": "MITHIL, Ajgaonkar",
     "year": "2008-2020",
     "games": 72,
-    "id": "117287"
+    "id": "117287",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -67150,7 +67157,8 @@
     "name": "VIHINEN, Teemu",
     "year": "1990-2022",
     "games": 37,
-    "id": "14261"
+    "id": "14261",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -71284,7 +71292,8 @@
     "name": "PECZELY, Sebastian Zsombor",
     "year": "2010-2020",
     "games": 34,
-    "id": "134699"
+    "id": "134699",
+    "synced": true
   },
   {
     "higestRating": 2224,
@@ -101317,7 +101326,8 @@
     "name": "MATHONIA, Claude",
     "year": "1988-1995",
     "games": 17,
-    "id": "176912"
+    "id": "176912",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -111570,7 +111580,8 @@
     "name": "NUBER, Korbinian",
     "year": "2006-2008",
     "games": 4,
-    "id": "106760"
+    "id": "106760",
+    "synced": true
   },
   {
     "higestRating": 2349,
