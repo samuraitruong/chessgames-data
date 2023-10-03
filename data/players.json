@@ -1309,7 +1309,8 @@
     "name": "RUBLEVSKY, Sergei",
     "year": "1987-2021",
     "games": 1561,
-    "id": "18234"
+    "id": "18234",
+    "synced": true
   },
   {
     "higestRating": 2606,
@@ -7937,7 +7938,8 @@
     "name": "BELOV, Vladimir",
     "year": "1996-2019",
     "games": 500,
-    "id": "10963"
+    "id": "10963",
+    "synced": true
   },
   {
     "higestRating": 2545,
@@ -18439,7 +18441,8 @@
     "name": "GAPRINDASHVILI, Valeriane",
     "year": "1993-2019",
     "games": 209,
-    "id": "17312"
+    "id": "17312",
+    "synced": true
   },
   {
     "higestRating": 2383,
@@ -21083,7 +21086,8 @@
     "name": "WILLOW, Jonah B",
     "year": "2015-2023",
     "games": 180,
-    "id": "153150"
+    "id": "153150",
+    "synced": true
   },
   {
     "higestRating": 2429,
@@ -21907,7 +21911,8 @@
     "name": "DASTAN, Muhammed Batuhan",
     "year": "2007-2021",
     "games": 173,
-    "id": "134832"
+    "id": "134832",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -21977,7 +21982,8 @@
     "name": "KALEGIN, Evgenij",
     "year": "1981-2022",
     "games": 172,
-    "id": "70548"
+    "id": "70548",
+    "synced": true
   },
   {
     "higestRating": 2521,
@@ -33502,7 +33508,8 @@
     "name": "TURZO, Attila",
     "year": "1994-2021",
     "games": 101,
-    "id": "38798"
+    "id": "38798",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -33943,7 +33950,8 @@
     "name": "IRZHANOV, Ruslan",
     "year": "1990-1999",
     "games": 99,
-    "id": "17926"
+    "id": "17926",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -43412,7 +43420,8 @@
     "name": "SCHUH, Hubert",
     "year": "1979-1999",
     "games": 72,
-    "id": "11759"
+    "id": "11759",
+    "synced": true
   },
   {
     "higestRating": 2383,
@@ -56630,7 +56639,8 @@
     "name": "PERSSON, Mats",
     "year": "2006-2017",
     "games": 49,
-    "id": "124141"
+    "id": "124141",
+    "synced": true
   },
   {
     "higestRating": 2524,
@@ -57525,7 +57535,8 @@
     "name": "DE JAGER, Jaap",
     "year": "1988-2017",
     "games": 48,
-    "id": "127050"
+    "id": "127050",
+    "synced": true
   },
   {
     "higestRating": 2345,
@@ -67421,7 +67432,8 @@
     "name": "RAGHAVI, N",
     "year": "2005-2019",
     "games": 37,
-    "id": "98435"
+    "id": "98435",
+    "synced": true
   },
   {
     "higestRating": 2243,
@@ -69361,7 +69373,8 @@
     "name": "BLOHM, David",
     "year": "1965-2000",
     "games": 35,
-    "id": "65649"
+    "id": "65649",
+    "synced": true
   },
   {
     "higestRating": 2394,
@@ -73647,7 +73660,8 @@
     "name": "FIERZ, Martin",
     "year": "1987-2011",
     "games": 31,
-    "id": "19858"
+    "id": "19858",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -74328,7 +74342,8 @@
     "name": "NEMEC, Pavel",
     "year": "1980-2021",
     "games": 31,
-    "id": "84877"
+    "id": "84877",
+    "synced": true
   },
   {
     "higestRating": 2238,
@@ -80809,7 +80824,8 @@
     "name": "KUSA, Jakub",
     "year": "2020-2023",
     "games": 27,
-    "id": "171398"
+    "id": "171398",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -85068,7 +85084,8 @@
     "name": "NIEVES, Antonio Villar",
     "year": "1999-2006",
     "games": 24,
-    "id": "69330"
+    "id": "69330",
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -87371,7 +87388,8 @@
     "name": "GUEMPEL, Viktor",
     "year": "2003-2013",
     "games": 23,
-    "id": "136678"
+    "id": "136678",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -93046,7 +93064,8 @@
     "name": "ZVARIK, Martin",
     "year": "2004-2018",
     "games": 20,
-    "id": "113312"
+    "id": "113312",
+    "synced": true
   },
   {
     "higestRating": 2299,
@@ -97225,7 +97244,8 @@
     "name": "KRUEGER, Hilmar",
     "year": "1987-2015",
     "games": 18,
-    "id": "90319"
+    "id": "90319",
+    "synced": true
   },
   {
     "higestRating": 2397,
@@ -99022,7 +99042,8 @@
     "name": "SCHWARZ, Frank",
     "year": "2001-2019",
     "games": 17,
-    "id": "54103"
+    "id": "54103",
+    "synced": true
   },
   {
     "higestRating": 2257,
@@ -101269,7 +101290,8 @@
     "name": "ULLRICH, Frank",
     "year": "1981-1988",
     "games": 16,
-    "id": "39539"
+    "id": "39539",
+    "synced": true
   },
   {
     "higestRating": 2428,

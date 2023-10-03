@@ -1,0 +1,14 @@
+[Event "Tournament (Elo)"]
+[Site "San Francisco (USA)"]
+[Date "2000.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Eric Schiller"]
+[Black "David Blohm"]
+[ECO "B31"]
+[WhiteElo "2172"]
+[BlackElo "2176"]
+[PlyCount "40"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.O-O Nf6 6.Re1 Bg7 7.c3 O-O 8.d3 Rb8 9.Qa4 Qc7 10.e5 Nd5 11.Nbd2 d6 12.exd6 exd6 13.Qh4 Bf5 14.Ne4 Rfe8 15.Bh6 Bxe4 16.dxe4 Bxh6 17.Qxh6 Nf6 18.Qf4 Nd7 19.b3 Ne5 20.Rad1 Nxf3+ 1/2-1/2
