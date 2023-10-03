@@ -1,0 +1,15 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata ARG"]
+[Date "1971.03.23"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Miguel Najdorf"]
+[Black "Florin Gheorghiu"]
+[ECO "E54"]
+[WhiteElo "2530"]
+[BlackElo "2530"]
+[Source "PGN Mentor"]
+[PlyCount "32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 O-O 6.Nf3 d5 7.O-O dxc4 8.Bxc4 Nc6 9.Bd3 cxd4 10.exd4 Be7 11.a3 b6 12.Re1 Bb7 13.Bc2 Rc8 14.Qd3 g6 15.Bh6 Re8 16.Rad1 Nd5 1/2-1/2
