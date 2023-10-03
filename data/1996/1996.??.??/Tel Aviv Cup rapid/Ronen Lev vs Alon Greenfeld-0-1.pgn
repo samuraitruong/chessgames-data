@@ -6,9 +6,9 @@
 [Result "0-1"]
 [White "Ronen Lev"]
 [Black "Alon Greenfeld"]
-[ECO "E32"]
+[ECO "D41"]
 [WhiteElo "2465"]
 [BlackElo "2560"]
-[PlyCount "70"]
+[PlyCount "58"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 f5 8. e3 b6 9. Ne2 Bb7 10. Ng3 Qh4 11. Nxe4 Bxe4 12. Qd2 Rf6 13. h3 Rg6 14. Rg1 Nc6 15. b4 Re8 16. Bb2 Bf3 17. Bc3 e5 18. dxe5 Nxe5 19. Qd4 f4 20. c5 Kh8 21. g3 Qh6 22. Kd2 fxe3+ 23. fxe3 Bh5 24. Qxe5 Rxe5 25. Bxe5 Re6 26. Bd4 Re4 27. Kc2 bxc5 28. bxc5 Rxe3 29. Bxe3 Qxe3 30. Bd3 Qxc5+ 31. Kd2 Bg6 32. Bxg6 hxg6 33. h4 d5 34. Rgf1 Qd4+ 35. Ke2 c5 0-1
+1. c4 Nf6 2. Nc3 c5 3. g3 e6 4. Nf3 Nc6 5. Bg2 Be7 6. O-O O-O 7. d4 d5 8. cxd5 Nxd5 9. Nxd5 exd5 10. b3 Bg4 11. Ne5 Bh5 12. Nxc6 bxc6 13. Bb2 Re8 14. Rc1 Qa5 15. Qc2 cxd4 16. Bxd4 Ba3 17. e3 Bxc1 18. Rxc1 Rac8 19. Qb2 f6 20. Bh3 Rc7 21. b4 Qb5 22. Bf1 Qb7 23. Rc5 Bf3 24. a3 Qc8 25. Qc3 Ree7 26. Ra5 Qf5 27. Qd3 Be4 28. Qe2 h5 29. h3 0-1
