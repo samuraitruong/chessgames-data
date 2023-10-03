@@ -4291,7 +4291,8 @@
     "name": "DRASKO, Milan",
     "year": "1979-2021",
     "games": 838,
-    "id": "21344"
+    "id": "21344",
+    "synced": true
   },
   {
     "higestRating": 2622,
@@ -6312,7 +6313,8 @@
     "name": "BUHMANN, Rainer",
     "year": "1998-2022",
     "games": 621,
-    "id": "51575"
+    "id": "51575",
+    "synced": true
   },
   {
     "higestRating": 2480,
@@ -18725,7 +18727,8 @@
     "name": "ANDERSSON, Christin",
     "year": "1990-2012",
     "games": 207,
-    "id": "78909"
+    "id": "78909",
+    "synced": true
   },
   {
     "higestRating": 2366,
@@ -34171,7 +34174,8 @@
     "name": "LOMSADZE, Davit",
     "year": "2006-2020",
     "games": 99,
-    "id": "106666"
+    "id": "106666",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -43992,7 +43996,8 @@
     "name": "MARKOVIC, Ivan J",
     "year": "1988-2015",
     "games": 71,
-    "id": "49479"
+    "id": "49479",
+    "synced": true
   },
   {
     "higestRating": 2223,
@@ -73534,7 +73539,8 @@
     "name": "RABATIN, Jakub",
     "year": "2007-2020",
     "games": 32,
-    "id": "158345"
+    "id": "158345",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -73672,7 +73678,8 @@
     "name": "PUTZBACH, Gerd",
     "year": "1974-2007",
     "games": 31,
-    "id": "19659"
+    "id": "19659",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -77734,7 +77741,8 @@
     "name": "DABEK, Roman",
     "year": "1987-2005",
     "games": 29,
-    "id": "140755"
+    "id": "140755",
+    "synced": true
   },
   {
     "higestRating": 2423,
@@ -78314,7 +78322,8 @@
     "name": "GALLEGO, Sergio Castillo",
     "year": "1997-2003",
     "games": 28,
-    "id": "51793"
+    "id": "51793",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -79357,7 +79366,8 @@
     "name": "ZHOU, Liran",
     "year": "2018-2022",
     "games": 28,
-    "id": "160980"
+    "id": "160980",
+    "synced": true
   },
   {
     "higestRating": 2397,
@@ -96484,7 +96494,8 @@
     "name": "ZOLLBRECHT, Josef",
     "year": "1986-2005",
     "games": 18,
-    "id": "39703"
+    "id": "39703",
+    "synced": true
   },
   {
     "higestRating": 2271,
@@ -104114,7 +104125,8 @@
     "name": "EUSEBE, Aurelien",
     "year": "1991-2006",
     "games": 15,
-    "id": "38711"
+    "id": "38711",
+    "synced": true
   },
   {
     "higestRating": 2333,
