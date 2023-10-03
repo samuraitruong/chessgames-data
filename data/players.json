@@ -1212,7 +1212,8 @@
     "name": "INARKIEV, Ernesto",
     "year": "1998-2023",
     "games": 1593,
-    "id": "49041"
+    "id": "49041",
+    "synced": true
   },
   {
     "higestRating": 2625,
@@ -9607,7 +9608,8 @@
     "name": "BORTNYK, Olexandr",
     "year": "2007-2023",
     "games": 416,
-    "id": "117639"
+    "id": "117639",
+    "synced": true
   },
   {
     "higestRating": 2540,
@@ -12296,7 +12298,8 @@
     "name": "DOLUHANOVA, Evgeniya",
     "year": "2001-2023",
     "games": 326,
-    "id": "76827"
+    "id": "76827",
+    "synced": true
   },
   {
     "higestRating": 2438,
@@ -16471,7 +16474,8 @@
     "name": "HANDOKO, Edhi",
     "year": "1979-2008",
     "games": 236,
-    "id": "14352"
+    "id": "14352",
+    "synced": true
   },
   {
     "higestRating": 2254,
@@ -23538,7 +23542,8 @@
     "name": "BASAGIC, Zlatko",
     "year": "1972-2008",
     "games": 158,
-    "id": "26684"
+    "id": "26684",
+    "synced": true
   },
   {
     "higestRating": 2546,
@@ -54058,7 +54063,8 @@
     "name": "NURKIEWICZ, Maciej",
     "year": "1991-2020",
     "games": 53,
-    "id": "81515"
+    "id": "81515",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -57181,7 +57187,8 @@
     "name": "YASHTYLOV, Anatolij",
     "year": "1999-2007",
     "games": 48,
-    "id": "53167"
+    "id": "53167",
+    "synced": true
   },
   {
     "higestRating": 2353,
@@ -69149,7 +69156,8 @@
     "name": "FEICHT, Arno",
     "year": "1995-2017",
     "games": 35,
-    "id": "36845"
+    "id": "36845",
+    "synced": true
   },
   {
     "higestRating": 2404,
@@ -69436,7 +69444,8 @@
     "name": "SERMIER, Guillaume",
     "year": "1992-2021",
     "games": 35,
-    "id": "58793"
+    "id": "58793",
+    "synced": true
   },
   {
     "higestRating": 2299,
@@ -73762,7 +73771,8 @@
     "name": "PERECZ, Laszlo",
     "year": "1965-1979",
     "games": 31,
-    "id": "14786"
+    "id": "14786",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -76687,7 +76697,8 @@
     "name": "SALMAN, Nachum",
     "year": "1983-2012",
     "games": 29,
-    "id": "27018"
+    "id": "27018",
+    "synced": true
   },
   {
     "higestRating": 2234,
@@ -98040,7 +98051,8 @@
     "name": "VALERO, Adrian Villuendas",
     "year": "2004-2021",
     "games": 18,
-    "id": "123829"
+    "id": "123829",
+    "synced": true
   },
   {
     "higestRating": 2423,
@@ -101713,7 +101725,8 @@
     "name": "GORBUNOV, Igor",
     "year": "1984-2010",
     "games": 16,
-    "id": "52052"
+    "id": "52052",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -110712,7 +110725,8 @@
     "name": "TISCHENDORF, Michael",
     "year": "1989-2001",
     "games": 5,
-    "id": "49851"
+    "id": "49851",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -112818,7 +112832,8 @@
     "name": "BOLLEN, Guus",
     "year": "2007",
     "games": 1,
-    "id": "113024"
+    "id": "113024",
+    "synced": true
   },
   {
     "higestRating": 2217,
@@ -112833,7 +112848,8 @@
     "name": "UDANI, Ian",
     "year": "2008",
     "games": 1,
-    "id": "118919"
+    "id": "118919",
+    "synced": true
   },
   {
     "higestRating": 2339,
