@@ -1,0 +1,14 @@
+[Event "SWE-chT 9899"]
+[Site "SWE"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Jonas Barkhagen"]
+[Black "Sergey Ivanov"]
+[ECO "D31"]
+[WhiteElo "2506"]
+[BlackElo "2570"]
+[PlyCount "42"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e4 Bb4 5.Qg4 Nf6 6.Qxg7 Rg8 7.Qh6 dxe4 8.Nge2 Rg6 9.Qe3 c5 10.Bd2 Nc6 11.dxc5 Ng4 12.Qf4 e5 13.Qxe4 Nxf2 14.Kxf2 Qxd2 15.g3 Bxc5+ 16.Kg2 Rf6 17.Rg1 Bf5 18.Qd5 Qe3 19.h4 Rd8 20.Kh2 Rxd5 21.Nxd5 Qh6 0-1

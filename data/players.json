@@ -1998,7 +1998,8 @@
     "name": "IVANOV, Sergey",
     "year": "1980-2021",
     "games": 1293,
-    "id": "38123"
+    "id": "38123",
+    "synced": true
   },
   {
     "higestRating": 2585,
@@ -4786,7 +4787,8 @@
     "name": "SCHILLER, Eric",
     "year": "1969-2012",
     "games": 769,
-    "id": "27484"
+    "id": "27484",
+    "synced": true
   },
   {
     "higestRating": 2633,
@@ -37375,7 +37377,8 @@
     "name": "CSISZAR, Csaba",
     "year": "1991-2019",
     "games": 88,
-    "id": "91624"
+    "id": "91624",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -56723,7 +56726,8 @@
     "name": "SHEN, Victor C",
     "year": "2007-2015",
     "games": 49,
-    "id": "130603"
+    "id": "130603",
+    "synced": true
   },
   {
     "higestRating": 2334,
@@ -58564,7 +58568,8 @@
     "name": "MARCZUK, Dominik",
     "year": "2012-2022",
     "games": 47,
-    "id": "142965"
+    "id": "142965",
+    "synced": true
   },
   {
     "higestRating": 2254,
@@ -59709,7 +59714,8 @@
     "name": "LOVASS, Imre",
     "year": "1962-1992",
     "games": 45,
-    "id": "62840"
+    "id": "62840",
+    "synced": true
   },
   {
     "higestRating": 2246,
@@ -84371,7 +84377,8 @@
     "name": "MARTINS, Bruno Andre Leite",
     "year": "2017-2022",
     "games": 25,
-    "id": "157858"
+    "id": "157858",
+    "synced": true
   },
   {
     "higestRating": 2353,
@@ -94925,7 +94932,8 @@
     "name": "STABOLEWSKI, Andreas",
     "year": "1993-2011",
     "games": 19,
-    "id": "81772"
+    "id": "81772",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -95041,7 +95049,8 @@
     "name": "BIRAROV, Vladimir",
     "year": "1999-2011",
     "games": 19,
-    "id": "90250"
+    "id": "90250",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -100288,7 +100297,8 @@
     "name": "SHREYANSH, Daklia",
     "year": "2009-2022",
     "games": 17,
-    "id": "123109"
+    "id": "123109",
+    "synced": true
   },
   {
     "higestRating": 2340,

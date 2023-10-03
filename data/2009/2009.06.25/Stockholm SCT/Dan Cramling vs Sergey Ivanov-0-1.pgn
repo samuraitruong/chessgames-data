@@ -1,0 +1,14 @@
+[Event "Stockholm SCT"]
+[Site "Stockholm"]
+[Date "2009.06.25"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Dan Cramling"]
+[Black "Sergey Ivanov"]
+[ECO "E41"]
+[WhiteElo "2409"]
+[BlackElo "2551"]
+[PlyCount "44"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 Nc6 6.Nge2 cxd4 7.exd4 d5 8.cxd5 Nxd5 9.a3 Bd6 10.Bc2 Qh4 11.Ne4 Be7 12.h3 f5 13.g3 Qh5 14.g4 Qh4 15.N4g3 O-O 16.Ng1 Bd6 17.Nf3 Qe7 18.Qd3 Qc7 19.Bd2 Bxg3 20.fxg3 Qxg3+ 21.Ke2 Qg2+ 22.Ke1 0-1

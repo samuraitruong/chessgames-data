@@ -1,0 +1,14 @@
+[Event "XS06A"]
+[Site "Internet Chess Club"]
+[Date "2004.03.06"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Heian"]
+[Black "Eric Schiller"]
+[ECO "B06"]
+[WhiteElo "1894"]
+[BlackElo "2680"]
+[PlyCount "50"]
+
+1.e4 g6 2.d4 Bg7 3.f4 c5 4.c3 cxd4 5.cxd4 Qb6 6.Nf3 Nc6 7.e5 Nh6 8.Nc3 O-O 9.a3 d6 10.Na4 Qc7 11.Be3 dxe5 12.fxe5 Nf5 13.Bf2 Rd8 14.Rc1 Be6 15.b4 Qb8 16.g4 Nfxd4 17.Bxd4 Nxd4 18.Nc5 Bxg4 19.Be2 Nxf3+ 20.Bxf3 Rxd1+ 21.Rxd1 Bxf3 22.Rf1 Bxd1 23.Kxd1 Qxe5 24.Re1 Rd8+ 25.Kc1 Qb2# 0-1

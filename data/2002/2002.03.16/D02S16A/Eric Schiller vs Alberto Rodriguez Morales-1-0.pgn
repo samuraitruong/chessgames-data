@@ -1,0 +1,14 @@
+[Event "D02S16A"]
+[Site "Internet Chess Club"]
+[Date "2002.03.16"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Eric Schiller"]
+[Black "Alberto Rodriguez Morales"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.d4 e6 2.Nf3 d5 3.e3 c5 4.Bd3 c4 5.Be2 Qa5+ 6.Bd2 Bb4 7.Nc3 Nf6 8.a3 Bd6 9.e4 Qb6 10.e5 Ne4 11.exd6 e5 12.Nxd5 Qxb2 13.Nc7+ Kd7 14.Nxa8 g5 15.O-O g4 16.Nxe5+ Ke6 17.Nc7+ Kf6 18.Bxg4 Qxd4 19.Qf3+ Kg7 20.Qxf7# 1-0
