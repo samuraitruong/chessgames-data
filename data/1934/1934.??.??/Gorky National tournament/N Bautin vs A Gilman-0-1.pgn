@@ -1,0 +1,15 @@
+[Event "Gorky National tournament"]
+[Site "Gorky (URS)"]
+[Date "1934.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "N Bautin"]
+[Black "A Gilman"]
+[ECO "E83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "46"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Qd2 e5 8.Nge2 Ne8 9.d5 Ne7 10.g3 f5 11.Bg2 Bd7 12.O-O Qc8 13.Rac1 b6 14.Rc2 Nf6 15.b4 fxe4 16.fxe4 a5 17.a3 axb4 18.axb4 Bh3 19.c5 bxc5 20.bxc5 Qg4 21.Bf3 Nxe4 22.Nxe4 Qxe4 23.Nc3 Rxf3 0-1
