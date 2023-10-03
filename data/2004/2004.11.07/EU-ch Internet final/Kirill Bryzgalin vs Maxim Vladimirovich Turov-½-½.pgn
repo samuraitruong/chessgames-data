@@ -9,6 +9,6 @@
 [ECO "B18"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "124"]
+[PlyCount "83"]
 
-1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nf6 7.Nh4 e6 8.Nxg6 hxg6 9.c3 Bd6 10.Be2 Qc7 11.Qc2 Bxg3 12.fxg3 Rxh2 13.Rxh2 Qxg3+ 14.Kf1 Qxh2 15.Be3 Nd5 16.Bg1 Qg3 17.Bf3 Nd7 18.c4 N5f6 19.Rd1 Nb6 20.b4 Rd8 21.a4 g5 22.a5 Nbd7 23.Rd3 Qf4 24.Be3 Qf5 25.Kg1 Ne5 26.dxe5 Rxd3 27.exf6 gxf6 28.a6 bxa6 29.Bxc6+ Kf8 30.Bxa7 g4 31.b5 axb5 32.cxb5 g3 33.Qc5+ Qxc5+ 34.Bxc5+ Kg7 35.Kf1 Rc3 36.Bd6 Rb3 37.Bc7 Rc3 38.Ke2 e5 39.Kd2 Rc4 40.Kd3 Rc1 41.b6 Rxc6 42.b7 Rxc7 43.b8=Q Rd7+ 44.Ke3 Rd4 45.Kf3 e4+ 46.Ke3 Rd5 47.Qxg3+ Rg5 48.Qf2 Re5 49.Qb2 Kg8 50.g4 Kg7 51.Qb6 Rg5 52.Kf4 Re5 53.Qe3 Kg8 54.Kg3 Kg7 55.Kf4 Kg8 56.Qd4 e3 57.Qd8+ Kg7 58.g5 Rxg5 59.Kxe3 Re5+ 60.Kf4 Rg5 61.Qe8 Re5 62.Qd7 Rg5 1/2-1/2
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nf6 7.c3 Nbd7 8.Bd3 e6 9.Bg5 Be7 10.O-O Bxd3 11.Qxd3 h6 12.Bxf6 Nxf6 13.Rfd1 O-O 14.Ne5 Qb6 15.b4 Rfd8 16.Qc2 Qc7 17.Ne4 Nxe4 18.Qxe4 a5 19.a3 Bf6 20.Nc4 axb4 21.axb4 Rxa1 22.Rxa1 Qd7 23.Ra7 Qd5 24.Qxd5 cxd5 25.Na3 Rd7 26.f4 g5 27.g3 Kg7 28.Kg2 gxf4 29.gxf4 Kg6 30.Kf3 Kf5 31.Ra8 Be7 32.Nb5 Bd6 33.Nxd6+ Rxd6 34.b5 Rb6 35.Ra5 f6 36.h3 e5 37.fxe5 fxe5 38.dxe5 Kxe5 39.Ke3 Rg6 40.Ra7 Rb6 41.Ra5 Rg6 42.Ra7 1/2-1/2
