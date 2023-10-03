@@ -7227,7 +7227,8 @@
     "name": "BOHM, Hans",
     "year": "1968-2015",
     "games": 542,
-    "id": "14815"
+    "id": "14815",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -10401,7 +10402,8 @@
     "name": "RENDLE, Thomas E",
     "year": "1996-2023",
     "games": 389,
-    "id": "53968"
+    "id": "53968",
+    "synced": true
   },
   {
     "higestRating": 2580,
@@ -16249,7 +16251,8 @@
     "name": "SMIRNOV, Artem",
     "year": "1997-2019",
     "games": 240,
-    "id": "49692"
+    "id": "49692",
+    "synced": true
   },
   {
     "higestRating": 2496,
@@ -18210,7 +18213,8 @@
     "name": "ZELBEL, Patrick",
     "year": "2002-2022",
     "games": 213,
-    "id": "110035"
+    "id": "110035",
+    "synced": true
   },
   {
     "higestRating": 2329,
@@ -18265,7 +18269,8 @@
     "name": "BRADFORD, Joseph",
     "year": "1973-2019",
     "games": 212,
-    "id": "27298"
+    "id": "27298",
+    "synced": true
   },
   {
     "higestRating": 2582,
@@ -36464,7 +36469,8 @@
     "name": "SOLTAU, Achim",
     "year": "1975-2010",
     "games": 91,
-    "id": "108243"
+    "id": "108243",
+    "synced": true
   },
   {
     "higestRating": 2277,
@@ -37683,7 +37689,8 @@
     "name": "ARNOLD, Lothar",
     "year": "1976-2008",
     "games": 87,
-    "id": "43412"
+    "id": "43412",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -45936,7 +45943,8 @@
     "name": "BERKOVICH, Dmitry",
     "year": "1980-2001",
     "games": 67,
-    "id": "17781"
+    "id": "17781",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -48721,7 +48729,8 @@
     "name": "WALKER, Martin",
     "year": "1992-2023",
     "games": 62,
-    "id": "52172"
+    "id": "52172",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -63596,7 +63605,8 @@
     "name": "IDRIZAJ, Abedin",
     "year": "2003-2019",
     "games": 41,
-    "id": "81443"
+    "id": "81443",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -71114,7 +71124,8 @@
     "name": "KUDZMA, Laimonas",
     "year": "1985-2015",
     "games": 34,
-    "id": "126595"
+    "id": "126595",
+    "synced": true
   },
   {
     "higestRating": 2484,
@@ -75504,7 +75515,8 @@
     "name": "CAREY, Osmel Garcia",
     "year": "1994-2014",
     "games": 30,
-    "id": "49102"
+    "id": "49102",
+    "synced": true
   },
   {
     "higestRating": 2388,
@@ -78616,7 +78628,8 @@
     "name": "BOOIJ, Johan",
     "year": "1985-1993",
     "games": 28,
-    "id": "62757"
+    "id": "62757",
+    "synced": true
   },
   {
     "higestRating": 2322,
@@ -84876,7 +84889,8 @@
     "name": "EULER, Gerd",
     "year": "1993-2019",
     "games": 24,
-    "id": "38332"
+    "id": "38332",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -85024,7 +85038,8 @@
     "name": "IONESCU, Mihai",
     "year": "1993-2016",
     "games": 24,
-    "id": "49400"
+    "id": "49400",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -103934,7 +103949,8 @@
     "name": "SPYROPOULOS, Nikolaos",
     "year": "2019-2023",
     "games": 16,
-    "id": "168827"
+    "id": "168827",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -105966,7 +105982,8 @@
     "name": "MEDDEB, Anis",
     "year": "2008-2022",
     "games": 15,
-    "id": "118796"
+    "id": "118796",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -112841,7 +112858,8 @@
     "name": "OVERVELD, Ronald",
     "year": "1991",
     "games": 1,
-    "id": "110508"
+    "id": "110508",
+    "synced": true
   },
   {
     "higestRating": 2238,
