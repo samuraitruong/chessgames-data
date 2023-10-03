@@ -1,0 +1,14 @@
+[Event "Xtracon Chess Open"]
+[Site "Elsinore"]
+[Date "2017.07.23"]
+[EventDate "2017.07.22"]
+[Round "2.104"]
+[Result "1-0"]
+[White "Esmat Guindy"]
+[Black "Bjorn Nielsen"]
+[ECO "D20"]
+[WhiteElo "2158"]
+[BlackElo "1353"]
+[PlyCount "41"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Qxd4 Qxd4 6. Nxd4 c5 7. Nb5 Na6 8. Bxc4 Bd7 9. N1c3 Be7 10. Nd5 Bxb5 11. Bxb5+ Kd8 12. Bf4 Nf6 13. O-O-O Nxd5 14. Rxd5+ Kc8 15. Rhd1 Nc7 16. Bxc7 Kxc7 17. Rd7+ Kc8 18. Rxe7 Rd8 19. Rxd8+ Kxd8 20. Re8+ Kc7 21. Rxa8 1-0
