@@ -1,0 +1,14 @@
+[Event "P-511 IECC"]
+[Site "?"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Marc Cassimon"]
+[Black "Charles Schulien"]
+[ECO "C36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 d5 4.exd5 Nf6 5.c4 c6 6.Nc3 cxd5 7.Nxd5 Nxd5 8.cxd5 Qxd5 9.Qa4+ Nc6 10.Qxf4 Qe6+ 11.Be2 Bd6 12.Qe3 O-O 13.d4 Re8 14.Qxe6 Bxe6 15.b3 Bd5 16.Bb2 Nb4 17.O-O Rxe2 0-1

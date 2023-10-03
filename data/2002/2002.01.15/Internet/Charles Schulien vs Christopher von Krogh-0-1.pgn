@@ -1,0 +1,14 @@
+[Event "Internet"]
+[Site "It"]
+[Date "2002.01.15"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Charles Schulien"]
+[Black "Christopher von Krogh"]
+[ECO "D82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.Rc1 c6 6.e3 O-O 7.h3 Nbd7 8.cxd5 Nxd5 9.Nxd5 cxd5 10.Nf3 e6 11.Bd3 Qa5+ 12.Qd2 Qxd2+ 13.Kxd2 Re8 14.Bb5 a6 15.Rxc8 axb5 16.Rxe8+ Rxe8 17.Rc1 b4 18.Rc7 Nb6 19.Rxb7 Nc4+ 20.Kc2 Rc8 21.Rc7 Ra8 22.Kb3 Bf8 23.Rb7 h6 24.Kc2 Rxa2 25.Ne5 Rxb2+ 26.Kc1 Rxf2 27.Nxf7 g5 0-1

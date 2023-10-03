@@ -1,0 +1,14 @@
+[Event "Internet"]
+[Site "It"]
+[Date "2002.01.15"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Charles Schulien"]
+[Black "Riccardo Alaimo"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Bg5 dxc4 5.a4 Qa5 6.Nf3 Ne4 7.Bd2 Nxc3 8.Bxc3 Qc7 9.e4 b5 10.b3 cxb3 11.axb5 cxb5 12.Bxb5+ Bd7 13.Qxb3 e6 14.O-O Be7 15.Rfc1 Qb7 16.Bxd7+ Qxd7 17.Ne5 Qd6 18.Bb4 Qxd4 19.Rc8+ Bd8 20.Rd1 Qb6 21.Qa4+ 1-0

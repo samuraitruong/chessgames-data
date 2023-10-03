@@ -1,0 +1,14 @@
+[Event "IECC,Pyramid"]
+[Site "?"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Chris F A Johnson"]
+[Black "Charles Schulien"]
+[ECO "A03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.f4 d5 2.Nf3 g6 3.e3 Bg7 4.Nc3 Nh6 5.b4 O-O 6.d4 a5 7.b5 c5 8.a4 Bg4 9.Bb2 cxd4 10.exd4 Nf5 11.Be2 e6 12.Ne5 Ne3 13.Qd2 Nxg2+ 14.Kf2 Bxe2 15.Kxg2 Bh5 16.Ne2 Bxe2 17.Qxe2 Nd7 18.h4 h5 19.Ba3 Re8 20.Rac1 Rc8 21.Rhd1 Nb6 22.Kh3 Nxa4 23.c4 dxc4 24.Rxc4 Nc3 0-1

@@ -1257,7 +1257,8 @@
     "name": "ALEKSEEV, Evgeny",
     "year": "1998-2023",
     "games": 1577,
-    "id": "68679"
+    "id": "68679",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -16244,7 +16245,8 @@
     "name": "LECONTE, Maria",
     "year": "1990-2018",
     "games": 240,
-    "id": "51342"
+    "id": "51342",
+    "synced": true
   },
   {
     "higestRating": 2505,
@@ -51836,7 +51838,8 @@
     "name": "HAAPASALO, Jukka-Pekka",
     "year": "1987-2012",
     "games": 56,
-    "id": "37652"
+    "id": "37652",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -67403,7 +67406,8 @@
     "name": "POJEDZINIEC, Wladyslaw",
     "year": "1960-1981",
     "games": 37,
-    "id": "83340"
+    "id": "83340",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -68935,7 +68939,8 @@
     "name": "SCHWETLICK, Thomas",
     "year": "1987-2020",
     "games": 36,
-    "id": "162076"
+    "id": "162076",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -78430,7 +78435,8 @@
     "name": "BLODIG, Reinhard",
     "year": "1987-2016",
     "games": 28,
-    "id": "53688"
+    "id": "53688",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -79544,7 +79550,8 @@
     "name": "GOHIL, Harry",
     "year": "1990-2019",
     "games": 27,
-    "id": "17174"
+    "id": "17174",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -89167,7 +89174,8 @@
     "name": "MEMETI, Kastriot",
     "year": "2010-2020",
     "games": 22,
-    "id": "127903"
+    "id": "127903",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -103745,7 +103753,8 @@
     "name": "AGIBILEG, Uurtsaikh",
     "year": "2014-2020",
     "games": 16,
-    "id": "161575"
+    "id": "161575",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -104921,7 +104930,8 @@
     "name": "WANG, Hao Yuan",
     "year": "2000-2003",
     "games": 15,
-    "id": "69190"
+    "id": "69190",
+    "synced": true
   },
   {
     "higestRating": 2249,
