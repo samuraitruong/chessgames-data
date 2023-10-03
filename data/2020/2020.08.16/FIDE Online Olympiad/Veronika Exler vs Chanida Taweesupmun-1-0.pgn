@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.16"]
+[EventDate "2020.08.14"]
+[Round "8"]
+[Result "1-0"]
+[White "Veronika Exler"]
+[Black "Chanida Taweesupmun"]
+[ECO "C44"]
+[WhiteElo "2135"]
+[BlackElo "1754"]
+[PlyCount "35"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Be7 5. O-O Nf6 6. e5 Ng4 7. Bf4 d6 8. exd6 cxd6 9. Nxd4 O-O 10. Nc3 Nge5 11. Bd5 Bf6 12. Be3 Bg4 13. Qd2 Rc8 14. h3 Bh5 15. Ne4 Bg6 16. Nxf6+ Qxf6 17. Bg5 Nxd4 18. Bxf6 1-0

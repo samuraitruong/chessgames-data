@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.15"]
+[EventDate "2020.08.14"]
+[Round "4"]
+[Result "1-0"]
+[White "Veronika Exler"]
+[Black "Marina Kaydanovich"]
+[ECO "C45"]
+[WhiteElo "2135"]
+[BlackElo "1792"]
+[PlyCount "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ng4 7. h3 Nxe5 8. Nxe5 Qe7 9. O-O Qf6 10. Qxd4 Be7 11. Nxc6 1-0
