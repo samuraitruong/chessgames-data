@@ -3376,7 +3376,8 @@
     "name": "MKRTCHIAN, Lilit",
     "year": "1996-2023",
     "games": 991,
-    "id": "50100"
+    "id": "50100",
+    "synced": true
   },
   {
     "higestRating": 2535,
@@ -14494,7 +14495,8 @@
     "name": "SARNO, Spartaco",
     "year": "1986-2017",
     "games": 272,
-    "id": "16995"
+    "id": "16995",
+    "synced": true
   },
   {
     "higestRating": 2517,
@@ -15695,7 +15697,8 @@
     "name": "GLUD, Jakob Vang",
     "year": "2002-2021",
     "games": 251,
-    "id": "98392"
+    "id": "98392",
+    "synced": true
   },
   {
     "higestRating": 2597,
@@ -25957,7 +25960,8 @@
     "name": "KOSTIC, Vladimir G",
     "year": "1981-2021",
     "games": 140,
-    "id": "36798"
+    "id": "36798",
+    "synced": true
   },
   {
     "higestRating": 2428,
@@ -33248,7 +33252,8 @@
     "name": "MARKZON, Gregory",
     "year": "1970-2023",
     "games": 102,
-    "id": "19896"
+    "id": "19896",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -34256,7 +34261,8 @@
     "name": "NITHANDER, Victor",
     "year": "2003-2015",
     "games": 99,
-    "id": "100469"
+    "id": "100469",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -45928,7 +45934,8 @@
     "name": "AMARTUVSHIN, Ganzorig",
     "year": "2016-2023",
     "games": 68,
-    "id": "156115"
+    "id": "156115",
+    "synced": true
   },
   {
     "higestRating": 2316,
@@ -46050,7 +46057,8 @@
     "name": "CAPELAN, Guenter",
     "year": "1968-1987",
     "games": 67,
-    "id": "43411"
+    "id": "43411",
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -47533,7 +47541,8 @@
     "name": "GRUCHACZ, Robert",
     "year": "1970-1987",
     "games": 64,
-    "id": "15440"
+    "id": "15440",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -53555,7 +53564,8 @@
     "name": "ZARIC, Srboljub",
     "year": "1968-2006",
     "games": 54,
-    "id": "97392"
+    "id": "97392",
+    "synced": true
   },
   {
     "higestRating": 2452,
@@ -61205,7 +61215,8 @@
     "name": "NABOKA, Sergey",
     "year": "2010-2019",
     "games": 44,
-    "id": "132603"
+    "id": "132603",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -79155,7 +79166,8 @@
     "name": "VAN DOOREN, Dirk",
     "year": "2005-2018",
     "games": 28,
-    "id": "112006"
+    "id": "112006",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -108197,7 +108209,8 @@
     "name": "PETIJEVIC, Vaso",
     "year": "2001-2017",
     "games": 11,
-    "id": "54566"
+    "id": "54566",
+    "synced": true
   },
   {
     "higestRating": 2414,
@@ -113061,7 +113074,8 @@
     "name": "VILCHENKOV, Nikolay",
     "year": "2003",
     "games": 1,
-    "id": "134152"
+    "id": "134152",
+    "synced": true
   },
   {
     "higestRating": 2274,
