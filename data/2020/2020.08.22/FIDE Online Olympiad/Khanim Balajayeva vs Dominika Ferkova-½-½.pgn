@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.22"]
+[EventDate "2020.08.21"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Khanim Balajayeva"]
+[Black "Dominika Ferkova"]
+[ECO "B13"]
+[WhiteElo "2093"]
+[BlackElo "1820"]
+[Source "Chess-Results"]
+[PlyCount "35"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Ne4 7. Nxe4 dxe4 8. d5 Ne5 9. Be2 Qb6 10. f3 Qg6 11. f4 Nd3+ 12. Bxd3 exd3 13. Kf1 h6 14. Bh4 Bg4 15. Qa4+ Bd7 16. Qb3 Qf5 17. Nf3 g5 18. Bf2 1/2-1/2

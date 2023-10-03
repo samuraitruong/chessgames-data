@@ -1,0 +1,14 @@
+[Event "Halle Buna"]
+[Site "Halle GDR"]
+[Date "1981.12.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Ivan Hausner"]
+[Black "Jiri Lechtynsky"]
+[ECO "B96"]
+[WhiteElo "2435"]
+[BlackElo "2455"]
+[PlyCount "38"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Nbd7 8.Qf3 Qc7 9.O-O-O b5 10.e5 dxe5 11.Qxa8 exd4 12.Rxd4 Bc5 13.Rd1 O-O 14.Qf3 Bb7 15.Qg3 b4 16.Bh6 Nh5 17.Qg5 Ndf6 18.Ne2 Be3+ 19.Kb1 Ne4 0-1
