@@ -4057,7 +4057,8 @@
     "name": "LENDERMAN, Aleksandr",
     "year": "2002-2023",
     "games": 875,
-    "id": "92070"
+    "id": "92070",
+    "synced": true
   },
   {
     "higestRating": 2513,
@@ -7330,7 +7331,8 @@
     "name": "BRUNO, Fabio",
     "year": "1981-2018",
     "games": 537,
-    "id": "84801"
+    "id": "84801",
+    "synced": true
   },
   {
     "higestRating": 2528,
@@ -11641,7 +11643,8 @@
     "name": "CSONKA, Balazs",
     "year": "2007-2023",
     "games": 345,
-    "id": "134725"
+    "id": "134725",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -26540,7 +26543,8 @@
     "name": "TERRIEUX, Kevin",
     "year": "2001-2021",
     "games": 136,
-    "id": "98425"
+    "id": "98425",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -31890,7 +31894,8 @@
     "name": "WEGNER, Hannu",
     "year": "1984-1994",
     "games": 107,
-    "id": "15731"
+    "id": "15731",
+    "synced": true
   },
   {
     "higestRating": 2262,
@@ -37285,7 +37290,8 @@
     "name": "HEIDRICH, Manfred",
     "year": "1977-2017",
     "games": 88,
-    "id": "28116"
+    "id": "28116",
+    "synced": true
   },
   {
     "higestRating": 2329,
@@ -99424,7 +99430,8 @@
     "name": "MEETEI, A B",
     "year": "1980-1994",
     "games": 17,
-    "id": "62986"
+    "id": "62986",
+    "synced": true
   },
   {
     "higestRating": 2268,
@@ -103038,7 +103045,8 @@
     "name": "MARKLUND, Goran",
     "year": "1979-1983",
     "games": 16,
-    "id": "109487"
+    "id": "109487",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -106868,7 +106876,8 @@
     "name": "DOMINGUEZ, Imar Tallo",
     "year": "2006-2012",
     "games": 14,
-    "id": "118183"
+    "id": "118183",
+    "synced": true
   },
   {
     "higestRating": 2265,
