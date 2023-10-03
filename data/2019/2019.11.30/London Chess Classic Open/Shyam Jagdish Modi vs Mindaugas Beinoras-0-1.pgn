@@ -1,0 +1,14 @@
+[Event "London Chess Classic Open"]
+[Site "London ENG"]
+[Date "2019.11.30"]
+[EventDate "2019.11.29"]
+[Round "2.19"]
+[Result "0-1"]
+[White "Shyam Jagdish Modi"]
+[Black "Mindaugas Beinoras"]
+[ECO "D20"]
+[WhiteElo "2124"]
+[BlackElo "2350"]
+[PlyCount "34"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Be6 4. Nc3 c6 5. Nf3 b5 6. Ng5 Bc8 7. e4 h6 8. Nf3 Nf6 9. a4 b4 10. e5 bxc3 11. exf6 cxb2 12. fxg7 bxa1=Q 13. gxh8=Q Qa5+ 14. Nd2 Q5c3 15. Bxc4 Qaxc1 16. Qxc1 Qxc1+ 17. Ke2 Bg4+ 0-1
