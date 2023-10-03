@@ -2712,7 +2712,8 @@
     "name": "KUZMIN, Gennady",
     "year": "1963-2010",
     "games": 1118,
-    "id": "15300"
+    "id": "15300",
+    "synced": true
   },
   {
     "higestRating": 2708,
@@ -8560,7 +8561,8 @@
     "name": "GUTIERREZ, Sabrina Vega",
     "year": "1996-2023",
     "games": 468,
-    "id": "50570"
+    "id": "50570",
+    "synced": true
   },
   {
     "higestRating": 2605,
@@ -15034,7 +15036,8 @@
     "name": "MRVA, Martin",
     "year": "1988-2023",
     "games": 261,
-    "id": "49444"
+    "id": "49444",
+    "synced": true
   },
   {
     "higestRating": 2457,
@@ -28702,7 +28705,8 @@
     "name": "GINDY, Essam El",
     "year": "1996-2021",
     "games": 122,
-    "id": "80337"
+    "id": "80337",
+    "synced": true
   },
   {
     "higestRating": 2233,
@@ -39494,7 +39498,8 @@
     "name": "KHETSURIANI, Besarion",
     "year": "1977-2019",
     "games": 82,
-    "id": "51353"
+    "id": "51353",
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -53028,7 +53033,8 @@
     "name": "KWON, Sehyun",
     "year": "2016-2022",
     "games": 55,
-    "id": "155520"
+    "id": "155520",
+    "synced": true
   },
   {
     "higestRating": 2432,
@@ -74195,7 +74201,8 @@
     "name": "CHUIKO, Alexander",
     "year": "1983-2005",
     "games": 31,
-    "id": "53188"
+    "id": "53188",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -88503,7 +88510,8 @@
     "name": "LENGYEL, Ferenc",
     "year": "1983-2008",
     "games": 22,
-    "id": "69549"
+    "id": "69549",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -100979,7 +100987,8 @@
     "name": "HACKER, Jonas",
     "year": "2013-2022",
     "games": 17,
-    "id": "158215"
+    "id": "158215",
+    "synced": true
   },
   {
     "higestRating": 2255,

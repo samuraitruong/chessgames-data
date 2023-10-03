@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.22"]
+[EventDate "2020.08.21"]
+[Round "6"]
+[Result "1-0"]
+[White "Sabrina Vega Gutierrez"]
+[Black "Solenn Afraoui"]
+[ECO "B53"]
+[WhiteElo "2243"]
+[BlackElo "1823"]
+[Source "Chess-Results"]
+[PlyCount "53"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nf6 5. Nc3 a6 6. Bg5 Nc6 7. Qd2 Bg4 8. O-O-O h6 9. Bxf6 gxf6 10. Be2 h5 11. Kb1 Bh6 12. Qe1 Bxf3 13. Bxf3 Ne5 14. Be2 Rc8 15. g3 Bg7 16. f4 Nc4 17. Bxc4 Rxc4 18. f5 Qc8 19. Rd3 b5 20. Qe2 Qc6 21. Rhd1 Kd7 22. Nd5 Rc8 23. c3 e6 24. Qxh5 Ke8 25. fxe6 Rxe4 26. Qxf7+ Kd8 27. Qe7# 1-0
