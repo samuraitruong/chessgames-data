@@ -653,7 +653,8 @@
     "name": "SZABO, Laszlo",
     "year": "1933-1996",
     "games": 1988,
-    "id": "16113"
+    "id": "16113",
+    "synced": true
   },
   {
     "higestRating": 2640,
@@ -8498,7 +8499,8 @@
     "name": "ABBASOV, Farid",
     "year": "1993-2022",
     "games": 472,
-    "id": "49449"
+    "id": "49449",
+    "synced": true
   },
   {
     "higestRating": 2655,
@@ -13927,7 +13929,8 @@
     "name": "HASLINGER, Stewart",
     "year": "1996-2016",
     "games": 285,
-    "id": "64154"
+    "id": "64154",
+    "synced": true
   },
   {
     "higestRating": 2567,
@@ -27047,7 +27050,8 @@
     "name": "SUBELJ, Jan",
     "year": "2016-2023",
     "games": 133,
-    "id": "156041"
+    "id": "156041",
+    "synced": true
   },
   {
     "higestRating": 2458,
@@ -29707,7 +29711,8 @@
     "name": "ABDULLAH, Hassan",
     "year": "1998-2019",
     "games": 117,
-    "id": "109360"
+    "id": "109360",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -38296,7 +38301,8 @@
     "name": "AKVIST, Hakan",
     "year": "1965-2002",
     "games": 85,
-    "id": "47783"
+    "id": "47783",
+    "synced": true
   },
   {
     "higestRating": 2267,
@@ -39083,7 +39089,8 @@
     "name": "THORARINSSON, Pall A",
     "year": "1994-2022",
     "games": 83,
-    "id": "51462"
+    "id": "51462",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -44215,7 +44222,8 @@
     "name": "KUBA, Guenter",
     "year": "1989-2010",
     "games": 71,
-    "id": "57035"
+    "id": "57035",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -45131,7 +45139,8 @@
     "name": "FONTAL, Felix Manuel Gomez",
     "year": "1988-2015",
     "games": 69,
-    "id": "49103"
+    "id": "49103",
+    "synced": true
   },
   {
     "higestRating": 2358,
@@ -46486,7 +46495,8 @@
     "name": "VAN BEERS, Eddy",
     "year": "1993-2007",
     "games": 66,
-    "id": "30528"
+    "id": "30528",
+    "synced": true
   },
   {
     "higestRating": 2279,
@@ -56887,7 +56897,8 @@
     "name": "KUSENKOVA, Natallia",
     "year": "2005-2019",
     "games": 49,
-    "id": "153652"
+    "id": "153652",
+    "synced": true
   },
   {
     "higestRating": 2432,
@@ -60781,7 +60792,8 @@
     "name": "SCHWARZ, Dusan",
     "year": "1997-2020",
     "games": 44,
-    "id": "70089"
+    "id": "70089",
+    "synced": true
   },
   {
     "higestRating": 2314,
@@ -65762,7 +65774,8 @@
     "name": "DONATTI, Alvaro",
     "year": "1979-2009",
     "games": 39,
-    "id": "124502"
+    "id": "124502",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -70053,7 +70066,8 @@
     "name": "SAMADASHVILI, Martha",
     "year": "2016-2020",
     "games": 35,
-    "id": "156158"
+    "id": "156158",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -70406,7 +70420,8 @@
     "name": "GAJSIN, Evgenij",
     "year": "1999-2008",
     "games": 34,
-    "id": "50322"
+    "id": "50322",
+    "synced": true
   },
   {
     "higestRating": 2264,
@@ -74313,7 +74328,8 @@
     "name": "CIESLA, Adam",
     "year": "1998-2017",
     "games": 31,
-    "id": "57908"
+    "id": "57908",
+    "synced": true
   },
   {
     "higestRating": 2358,
@@ -82258,7 +82274,8 @@
     "name": "UCHA, Manuel Outerelo",
     "year": "1989-2002",
     "games": 26,
-    "id": "115301"
+    "id": "115301",
+    "synced": true
   },
   {
     "higestRating": 2222,
@@ -89246,7 +89263,8 @@
     "name": "BOFILL, Carlos Eloy Carbonell",
     "year": "1990-2006",
     "games": 22,
-    "id": "126347"
+    "id": "126347",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -93822,7 +93840,8 @@
     "name": "KOVPAK, Anastasiya",
     "year": "2005-2009",
     "games": 20,
-    "id": "141174"
+    "id": "141174",
+    "synced": true
   },
   {
     "higestRating": 2289,
@@ -111619,7 +111638,8 @@
     "name": "SIMON, Antoni Padros",
     "year": "1985-1989",
     "games": 3,
-    "id": "33405"
+    "id": "33405",
+    "synced": true
   },
   {
     "higestRating": 2234,

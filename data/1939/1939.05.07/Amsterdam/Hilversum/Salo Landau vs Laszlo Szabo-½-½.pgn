@@ -1,0 +1,14 @@
+[Event "Amsterdam/Hilversum"]
+[Site "Amsterdam NED"]
+[Date "1939.05.07"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Salo Landau"]
+[Black "Laszlo Szabo"]
+[ECO "E56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 c5 7.O-O Nc6 8.cxd5 exd5 9.dxc5 Bxc5 10.a3 Bg4 11.Be2 a5 12.Qa4 d4 13.Rd1 Bxf3 14.Bxf3 Qb6 15.Bxc6 dxc3 16.Bb5 Rad8 17.Rxd8 Rxd8 18.bxc3 Nd5 19.Bf1 Be7 20.Qc2 Nxc3 21.Bd2 Rc8 22.Bxc3 Qc6 1/2-1/2

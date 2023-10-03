@@ -1,0 +1,14 @@
+[Event "non-FIDE Munich Olympiad"]
+[Site "Munich GER"]
+[Date "1936.08.17"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Laszlo Szabo"]
+[Black "Johannes Turn"]
+[ECO "D41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Nc6 9.Be2 Bb4+ 10.Bd2 Bxd2+ 11.Qxd2 e5 12.d5 Bg4 13.dxc6 1-0
