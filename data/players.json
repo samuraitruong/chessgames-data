@@ -4220,7 +4220,8 @@
     "name": "RADULOV, Ivan",
     "year": "1961-2013",
     "games": 850,
-    "id": "14353"
+    "id": "14353",
+    "synced": true
   },
   {
     "higestRating": 2667,
@@ -8686,7 +8687,8 @@
     "name": "IKONNIKOV, Viacheslav",
     "year": "1988-2023",
     "games": 463,
-    "id": "21981"
+    "id": "21981",
+    "synced": true
   },
   {
     "higestRating": 2496,
@@ -16635,7 +16637,8 @@
     "name": "HINDLE, Owen M",
     "year": "1959-1990",
     "games": 233,
-    "id": "30391"
+    "id": "30391",
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -21539,7 +21542,8 @@
     "name": "RINGOIR, Tanguy",
     "year": "2007-2023",
     "games": 176,
-    "id": "110027"
+    "id": "110027",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -24615,7 +24619,8 @@
     "name": "DUKACZEWSKI, Piotr",
     "year": "1988-2018",
     "games": 150,
-    "id": "57450"
+    "id": "57450",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -31161,7 +31166,8 @@
     "name": "BABU, N Sudhakar",
     "year": "1983-2011",
     "games": 110,
-    "id": "27611"
+    "id": "27611",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -33167,7 +33173,8 @@
     "name": "VUJACIC, Borivoje",
     "year": "1969-2017",
     "games": 102,
-    "id": "29426"
+    "id": "29426",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -37430,7 +37437,8 @@
     "name": "DUANY, Lelys Stanley Martinez",
     "year": "2003-2023",
     "games": 88,
-    "id": "125399"
+    "id": "125399",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -44331,7 +44339,8 @@
     "name": "PLICHTA, Kamil",
     "year": "2009-2022",
     "games": 71,
-    "id": "135149"
+    "id": "135149",
+    "synced": true
   },
   {
     "higestRating": 2217,
@@ -48384,7 +48393,8 @@
     "name": "YEOH, Li Tian",
     "year": "2012-2019",
     "games": 63,
-    "id": "140133"
+    "id": "140133",
+    "synced": true
   },
   {
     "higestRating": 2226,
@@ -53865,7 +53875,8 @@
     "name": "GOLDENBERG, Danny",
     "year": "1998-2001",
     "games": 53,
-    "id": "52023"
+    "id": "52023",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -56523,7 +56534,8 @@
     "name": "EISENBEISER, Amadeus",
     "year": "2002-2015",
     "games": 49,
-    "id": "83020"
+    "id": "83020",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -60435,7 +60447,8 @@
     "name": "TOPALOVIC, Zlatko",
     "year": "1995-2003",
     "games": 44,
-    "id": "49226"
+    "id": "49226",
+    "synced": true
   },
   {
     "higestRating": 2397,
@@ -68100,7 +68113,8 @@
     "name": "URQUHART, Ed",
     "year": "2000-2009",
     "games": 36,
-    "id": "54035"
+    "id": "54035",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -69564,7 +69578,8 @@
     "name": "ADEBAYO, Adegboyega",
     "year": "2003-2022",
     "games": 35,
-    "id": "91160"
+    "id": "91160",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -73801,7 +73816,8 @@
     "name": "PRIZANT, Michael",
     "year": "1977-1996",
     "games": 31,
-    "id": "32755"
+    "id": "32755",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -76213,7 +76229,8 @@
     "name": "TLEPTSOK, Ruslan",
     "year": "2007-2018",
     "games": 30,
-    "id": "148042"
+    "id": "148042",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -76637,7 +76654,8 @@
     "name": "BABEV, Aleksandar",
     "year": "1968-1979",
     "games": 29,
-    "id": "38231"
+    "id": "38231",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -76666,7 +76684,8 @@
     "name": "MOJZIS, Jaroslav",
     "year": "1971-2016",
     "games": 29,
-    "id": "40465"
+    "id": "40465",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -79106,7 +79125,8 @@
     "name": "STEGARIU, Vlad-Ionut",
     "year": "2010-2017",
     "games": 28,
-    "id": "134848"
+    "id": "134848",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -82036,7 +82056,8 @@
     "name": "VELEZ, Fermin Gonzalez",
     "year": "1994-2001",
     "games": 26,
-    "id": "115005"
+    "id": "115005",
+    "synced": true
   },
   {
     "higestRating": 2302,
@@ -86956,7 +86977,8 @@
     "name": "ISHKANOV, Tigran",
     "year": "1993-2016",
     "games": 23,
-    "id": "102523"
+    "id": "102523",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -91937,7 +91959,8 @@
     "name": "PERRUCHOUD, Benoit",
     "year": "1988-2010",
     "games": 20,
-    "id": "49251"
+    "id": "49251",
+    "synced": true
   },
   {
     "higestRating": 2248,
@@ -107861,7 +107884,8 @@
     "name": "IBRAHIM, Hatim",
     "year": "1995-2014",
     "games": 11,
-    "id": "55268"
+    "id": "55268",
+    "synced": true
   },
   {
     "higestRating": 2385,
