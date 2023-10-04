@@ -393,7 +393,8 @@
     "name": "CHEPARINOV, Ivan",
     "year": "1994-2023",
     "games": 2331,
-    "id": "10930"
+    "id": "10930",
+    "synced": true
   },
   {
     "higestRating": 2749,
@@ -1943,7 +1944,8 @@
     "name": "KAVALEK, Lubomir",
     "year": "1958-1998",
     "games": 1306,
-    "id": "14819"
+    "id": "14819",
+    "synced": true
   },
   {
     "higestRating": 2520,
@@ -12410,7 +12412,8 @@
     "name": "KISELEV, Sergey",
     "year": "1981-2003",
     "games": 323,
-    "id": "18123"
+    "id": "18123",
+    "synced": true
   },
   {
     "higestRating": 2578,
@@ -16443,7 +16446,8 @@
     "name": "KARKLINS, Andrew",
     "year": "1963-2012",
     "games": 237,
-    "id": "19921"
+    "id": "19921",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -99555,7 +99559,8 @@
     "name": "MARGOLIN, Evgenij",
     "year": "1999-2003",
     "games": 17,
-    "id": "50306"
+    "id": "50306",
+    "synced": true
   },
   {
     "higestRating": 2322,
