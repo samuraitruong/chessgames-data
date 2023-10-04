@@ -2043,7 +2043,8 @@
     "name": "ARKELL, Keith",
     "year": "1977-2023",
     "games": 1279,
-    "id": "13774"
+    "id": "13774",
+    "synced": true
   },
   {
     "higestRating": 2535,
@@ -6512,7 +6513,8 @@
     "name": "AMONATOV, Farrukh",
     "year": "1992-2022",
     "games": 605,
-    "id": "50168"
+    "id": "50168",
+    "synced": true
   },
   {
     "higestRating": 2628,
@@ -25914,7 +25916,8 @@
     "name": "MINKO, Vladimir",
     "year": "2008-2018",
     "games": 141,
-    "id": "117605"
+    "id": "117605",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -30554,7 +30557,8 @@
     "name": "RJABZEV, Konstantin",
     "year": "2001-2021",
     "games": 113,
-    "id": "56699"
+    "id": "56699",
+    "synced": true
   },
   {
     "higestRating": 2412,
@@ -31320,7 +31324,8 @@
     "name": "NOURO, Mikael",
     "year": "1989-2007",
     "games": 110,
-    "id": "45315"
+    "id": "45315",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -46255,7 +46260,8 @@
     "name": "KOROBKOV, Piotr",
     "year": "2001-2018",
     "games": 67,
-    "id": "86996"
+    "id": "86996",
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -48956,7 +48962,8 @@
     "name": "VERNEUIL, Pascal",
     "year": "2006-2019",
     "games": 62,
-    "id": "105113"
+    "id": "105113",
+    "synced": true
   },
   {
     "higestRating": 2293,
@@ -62883,7 +62890,8 @@
     "name": "PINGITZER, Harald",
     "year": "1991-2017",
     "games": 42,
-    "id": "100385"
+    "id": "100385",
+    "synced": true
   },
   {
     "higestRating": 2333,
@@ -64400,7 +64408,8 @@
     "name": "HAIST, Wolfgang",
     "year": "1987-1999",
     "games": 40,
-    "id": "30682"
+    "id": "30682",
+    "synced": true
   },
   {
     "higestRating": 2244,
@@ -81415,7 +81424,8 @@
     "name": "MAGALOTTI, Andrea",
     "year": "1986-2005",
     "games": 26,
-    "id": "33688"
+    "id": "33688",
+    "synced": true
   },
   {
     "higestRating": 2466,
@@ -83833,7 +83843,8 @@
     "name": "POPOV, Petar",
     "year": "1950-2011",
     "games": 25,
-    "id": "82689"
+    "id": "82689",
+    "synced": true
   },
   {
     "higestRating": 2333,
@@ -87938,7 +87949,8 @@
     "name": "YUAN, Qingyu",
     "year": "2015-2019",
     "games": 23,
-    "id": "155092"
+    "id": "155092",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -88876,7 +88888,8 @@
     "name": "KLEMENCIC, Gorazd",
     "year": "1977-2013",
     "games": 22,
-    "id": "86445"
+    "id": "86445",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -91187,7 +91200,8 @@
     "name": "ABAYASEKERA, Roger F T",
     "year": "1976-2005",
     "games": 21,
-    "id": "104892"
+    "id": "104892",
+    "synced": true
   },
   {
     "higestRating": 2289,
@@ -100211,7 +100225,8 @@
     "name": "EDREIRA, Jose Antonio Sande",
     "year": "1994-2018",
     "games": 17,
-    "id": "99311"
+    "id": "99311",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -106228,7 +106243,8 @@
     "name": "SPICHKIN, Alexander",
     "year": "2010-2017",
     "games": 15,
-    "id": "125334"
+    "id": "125334",
+    "synced": true
   },
   {
     "higestRating": 2237,
@@ -108586,7 +108602,8 @@
     "name": "RYBARSKA, Janina",
     "year": "1978",
     "games": 11,
-    "id": "122868"
+    "id": "122868",
+    "synced": true
   },
   {
     "higestRating": 2213,
