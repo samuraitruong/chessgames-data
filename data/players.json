@@ -36,7 +36,8 @@
     "name": "FARAGO, Ivan",
     "year": "1961-2021",
     "games": 3954,
-    "id": "12209"
+    "id": "12209",
+    "synced": true
   },
   {
     "higestRating": 2830,
@@ -21550,7 +21551,8 @@
     "name": "BAUMGARTNER, Heinz",
     "year": "1964-2006",
     "games": 177,
-    "id": "37478"
+    "id": "37478",
+    "synced": true
   },
   {
     "higestRating": 2426,
@@ -30609,7 +30611,8 @@
     "name": "TOLSTIKH, Nikolay",
     "year": "1989-2016",
     "games": 113,
-    "id": "42806"
+    "id": "42806",
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -35683,7 +35686,8 @@
     "name": "JACOBSEN, Mikkel Manosri",
     "year": "2013-2023",
     "games": 95,
-    "id": "147365"
+    "id": "147365",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -62959,7 +62963,8 @@
     "name": "KABATIANSKI, Alexander",
     "year": "1989-2012",
     "games": 42,
-    "id": "58528"
+    "id": "58528",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -72350,7 +72355,8 @@
     "name": "LAMORELLE, Yves",
     "year": "1985-2011",
     "games": 33,
-    "id": "82984"
+    "id": "82984",
+    "synced": true
   },
   {
     "higestRating": 2393,
@@ -103176,7 +103182,8 @@
     "name": "TRIPOTEAU, Nicolas",
     "year": "1999-2013",
     "games": 16,
-    "id": "91808"
+    "id": "91808",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -104479,7 +104486,8 @@
     "name": "STEINKOHL, Thomas",
     "year": "1996-2006",
     "games": 16,
-    "id": "167301"
+    "id": "167301",
+    "synced": true
   },
   {
     "higestRating": 2340,
