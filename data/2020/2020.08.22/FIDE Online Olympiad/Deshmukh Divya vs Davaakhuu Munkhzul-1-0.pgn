@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.22"]
+[EventDate "2020.08.21"]
+[Round "6"]
+[Result "1-0"]
+[White "Deshmukh Divya"]
+[Black "Davaakhuu Munkhzul"]
+[ECO "C25"]
+[WhiteElo "1775"]
+[BlackElo "1743"]
+[Source "Chess-Results"]
+[PlyCount "30"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 g6 4. d3 Bg7 5. h4 Nf6 6. h5 Nxh5 7. Rxh5 gxh5 8. Qxh5 O-O 9. Bg5 Bf6 10. Nh3 Nb4 11. Qh4 Nxc2+ 12. Kd2 Nxa1 13. Bxf6 Qxf6 14. Qxf6 d6 15. Nd5 1-0
