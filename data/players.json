@@ -5090,7 +5090,8 @@
     "name": "MUREY, Jacob",
     "year": "1963-2015",
     "games": 747,
-    "id": "38671"
+    "id": "38671",
+    "synced": true
   },
   {
     "higestRating": 2651,
@@ -16975,7 +16976,8 @@
     "name": "SILVA, Rodrigo Disconzi da",
     "year": "1984-2015",
     "games": 229,
-    "id": "39402"
+    "id": "39402",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -17675,7 +17677,8 @@
     "name": "ISGANDAROVA, Khayala",
     "year": "2004-2017",
     "games": 220,
-    "id": "102779"
+    "id": "102779",
+    "synced": true
   },
   {
     "higestRating": 2333,
@@ -20009,7 +20012,8 @@
     "name": "PRATYUSHA, Bodda",
     "year": "2008-2022",
     "games": 193,
-    "id": "117283"
+    "id": "117283",
+    "synced": true
   },
   {
     "higestRating": 2404,
@@ -23021,7 +23025,8 @@
     "name": "VEDDER, Richard",
     "year": "1991-2021",
     "games": 163,
-    "id": "26356"
+    "id": "26356",
+    "synced": true
   },
   {
     "higestRating": 2396,
@@ -39073,7 +39078,8 @@
     "name": "HUSSEIN, Noah A",
     "year": "1990-2018",
     "games": 83,
-    "id": "22727"
+    "id": "22727",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -40483,7 +40489,8 @@
     "name": "SCALCIONE, Michelangelo",
     "year": "1999-2014",
     "games": 80,
-    "id": "57396"
+    "id": "57396",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -45033,7 +45040,8 @@
     "name": "MICIANO, John Marvin",
     "year": "2016-2021",
     "games": 70,
-    "id": "159524"
+    "id": "159524",
+    "synced": true
   },
   {
     "higestRating": 2491,
@@ -46299,7 +46307,8 @@
     "name": "HART, Ralph",
     "year": "1982-2014",
     "games": 67,
-    "id": "91913"
+    "id": "91913",
+    "synced": true
   },
   {
     "higestRating": 2353,
@@ -84592,7 +84601,8 @@
     "name": "ABELGAS, Roel",
     "year": "2013-2019",
     "games": 25,
-    "id": "148812"
+    "id": "148812",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -90104,7 +90114,8 @@
     "name": "EADE, Jim",
     "year": "1985-1999",
     "games": 21,
-    "id": "27392"
+    "id": "27392",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -94406,7 +94417,8 @@
     "name": "RICHTER, Nils",
     "year": "2017-2023",
     "games": 20,
-    "id": "179337"
+    "id": "179337",
+    "synced": true
   },
   {
     "higestRating": 2287,
@@ -98937,7 +98949,8 @@
     "name": "MENDL, Manuel",
     "year": "2014-2020",
     "games": 18,
-    "id": "187392"
+    "id": "187392",
+    "synced": true
   },
   {
     "higestRating": 2348,
@@ -102087,7 +102100,8 @@
     "name": "BONDARCHUK, Sergei",
     "year": "2001",
     "games": 16,
-    "id": "54531"
+    "id": "54531",
+    "synced": true
   },
   {
     "higestRating": 2288,
@@ -103406,7 +103420,8 @@
     "name": "TESTA, Adriano",
     "year": "2007-2012",
     "games": 16,
-    "id": "112585"
+    "id": "112585",
+    "synced": true
   },
   {
     "higestRating": 2407,
@@ -104083,7 +104098,8 @@
     "name": "VYPKHANIUK, Ihor",
     "year": "2004-2018",
     "games": 16,
-    "id": "159084"
+    "id": "159084",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -104335,7 +104351,8 @@
     "name": "NOVICHKOV, Vadim",
     "year": "1996-2000",
     "games": 15,
-    "id": "12339"
+    "id": "12339",
+    "synced": true
   },
   {
     "higestRating": 2212,
@@ -110193,7 +110210,8 @@
     "name": "SAARILUOMA, Pertti",
     "year": "1972-1973",
     "games": 7,
-    "id": "47869"
+    "id": "47869",
+    "synced": true
   },
   {
     "higestRating": 2248,

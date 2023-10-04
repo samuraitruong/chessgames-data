@@ -1,0 +1,14 @@
+[Event "Dieren"]
+[Site "Dieren NED"]
+[Date "2000.07.19"]
+[EventDate "2000.07.18"]
+[Round "2"]
+[Result "0-1"]
+[White "Merijn van Delft"]
+[Black "Yacov Isaakovich Murey"]
+[ECO "B60"]
+[WhiteElo "2320"]
+[BlackElo "2509"]
+[PlyCount "40"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Bxf6 gxf6 8. Be2 Qa5 9. O-O Nxd4 10. Qxd4 Qc5 11. Qd2 Rc8 12. Nd5 Qxc2 13. Qe3 Qc5 14. Qb3 f5 15. exf5 b5 16. Rfe1 Kd8 17. Bf3 Bxf5 18. Nxe7 Bxe7 19. Qxf7 Rc7 20. Rad1 Bh4 0-1
