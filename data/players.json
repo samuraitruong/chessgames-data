@@ -7009,7 +7009,8 @@
     "name": "MESTROVIC, Zvonimir",
     "year": "1963-2014",
     "games": 569,
-    "id": "47807"
+    "id": "47807",
+    "synced": true
   },
   {
     "higestRating": 2640,
@@ -13671,7 +13672,8 @@
     "name": "SARAKAUSKAS, Gediminas",
     "year": "1994-2022",
     "games": 292,
-    "id": "49359"
+    "id": "49359",
+    "synced": true
   },
   {
     "higestRating": 2419,
@@ -14948,7 +14950,8 @@
     "name": "FLEAR, Christine",
     "year": "1985-2020",
     "games": 265,
-    "id": "41064"
+    "id": "41064",
+    "synced": true
   },
   {
     "higestRating": 2439,
@@ -17372,7 +17375,8 @@
     "name": "COLLAS, Didier",
     "year": "1989-2016",
     "games": 224,
-    "id": "28644"
+    "id": "28644",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -20439,7 +20443,8 @@
     "name": "BERSAMINA, Paulo",
     "year": "2010-2022",
     "games": 189,
-    "id": "128162"
+    "id": "128162",
+    "synced": true
   },
   {
     "higestRating": 2512,
@@ -45694,7 +45699,8 @@
     "name": "HARARI, Zaki",
     "year": "1977-2022",
     "games": 68,
-    "id": "33335"
+    "id": "33335",
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -57707,7 +57713,8 @@
     "name": "IVANOV, Andrey A",
     "year": "1998-2012",
     "games": 48,
-    "id": "86963"
+    "id": "86963",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -58238,7 +58245,8 @@
     "name": "DOBRICH, Walter",
     "year": "1966-1975",
     "games": 47,
-    "id": "22443"
+    "id": "22443",
+    "synced": true
   },
   {
     "higestRating": 2287,
@@ -62247,7 +62255,8 @@
     "name": "JADRIJEVIC, Ante",
     "year": "2002-2011",
     "games": 43,
-    "id": "97348"
+    "id": "97348",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -69608,7 +69617,8 @@
     "name": "MORALES, Jhon Alexander",
     "year": "1998-2020",
     "games": 35,
-    "id": "48908"
+    "id": "48908",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -70279,7 +70289,8 @@
     "name": "JONSSON, Hans",
     "year": "1989-1994",
     "games": 35,
-    "id": "128940"
+    "id": "128940",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -81393,7 +81404,8 @@
     "name": "IGLESIAS, Jorge",
     "year": "1995-2017",
     "games": 27,
-    "id": "157405"
+    "id": "157405",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -82048,7 +82060,8 @@
     "name": "SOKOLOWSKI, Ryszard",
     "year": "1987-2022",
     "games": 26,
-    "id": "56354"
+    "id": "56354",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -83286,7 +83299,8 @@
     "name": "HEILEMANN, Manfred",
     "year": "1972-1993",
     "games": 25,
-    "id": "34911"
+    "id": "34911",
+    "synced": true
   },
   {
     "higestRating": 2279,
@@ -91633,7 +91647,8 @@
     "name": "PARFENOV, Pavel",
     "year": "2005-2010",
     "games": 21,
-    "id": "119176"
+    "id": "119176",
+    "synced": true
   },
   {
     "higestRating": 2221,
@@ -92177,7 +92192,8 @@
     "name": "STEPHENS, Malcolm",
     "year": "1989-2017",
     "games": 21,
-    "id": "164577"
+    "id": "164577",
+    "synced": true
   },
   {
     "higestRating": 2204,
@@ -94099,7 +94115,8 @@
     "name": "ZECEVIC, Dean",
     "year": "1983-2005",
     "games": 20,
-    "id": "130871"
+    "id": "130871",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -99447,7 +99464,8 @@
     "name": "SOBRINHO, Francisco Briffel",
     "year": "1984-1992",
     "games": 17,
-    "id": "29175"
+    "id": "29175",
+    "synced": true
   },
   {
     "higestRating": 2288,
@@ -101176,7 +101194,8 @@
     "name": "ARDIAN, Jashari",
     "year": "2011-2021",
     "games": 17,
-    "id": "132900"
+    "id": "132900",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -109249,7 +109268,8 @@
     "name": "LEITNER, Gerald",
     "year": "1992-2022",
     "games": 10,
-    "id": "60669"
+    "id": "60669",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -111376,7 +111396,8 @@
     "name": "BUSU, Corneliu",
     "year": "1999-2011",
     "games": 5,
-    "id": "70204"
+    "id": "70204",
+    "synced": true
   },
   {
     "higestRating": 2275,

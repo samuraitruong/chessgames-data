@@ -1,0 +1,14 @@
+[Event "Hanoi GM 2022"]
+[Site "Hanoi VIE"]
+[Date "2022.05.29"]
+[EventDate "2022.05.24"]
+[Round "9.4"]
+[Result "1/2-1/2"]
+[White "Daniel Quizon"]
+[Black "Paulo Bersamina"]
+[ECO "C65"]
+[WhiteElo "2384"]
+[BlackElo "2441"]
+[PlyCount "42"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6 dxc6 5. d3 Bd6 6. h3 Be6 7. Nbd2 Qe7 8. Qe2 Nd7 9. Nc4 f6 10. Nxd6+ cxd6 11. d4 O-O 12. O-O Rfd8 13. b3 d5 14. exd5 Bxd5 15. Re1 Qf7 16. Bb2 exd4 17. Bxd4 c5 18. Bb2 Re8 19. Qd3 Bc6 20. c4 Rxe1+ 21. Rxe1 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Hanoi GM 2022"]
+[Site "Hanoi VIE"]
+[Date "2022.05.26"]
+[EventDate "2022.05.24"]
+[Round "4.5"]
+[Result "0-1"]
+[White "Paulo Bersamina"]
+[Black "Jodi Setyaki Azarya"]
+[ECO "C45"]
+[WhiteElo "2441"]
+[BlackElo "2394"]
+[PlyCount "26"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8. h4 f6 9. c4 Ba6 10. Rh3 O-O-O 11. Ra3 Nb4 12. Ra5 d5 13. a3 Bxc4 0-1
