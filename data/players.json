@@ -1833,7 +1833,8 @@
     "name": "KUDRIN, Sergey",
     "year": "1978-2016",
     "games": 1352,
-    "id": "12151"
+    "id": "12151",
+    "synced": true
   },
   {
     "higestRating": 2520,
@@ -3501,7 +3502,8 @@
     "name": "SEVIAN, Samuel",
     "year": "2010-2023",
     "games": 970,
-    "id": "128737"
+    "id": "128737",
+    "synced": true
   },
   {
     "higestRating": 2566,
@@ -15411,7 +15413,8 @@
     "name": "VRANESIC, Zvonko",
     "year": "1958-1997",
     "games": 256,
-    "id": "18958"
+    "id": "18958",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -22316,7 +22319,8 @@
     "name": "JANETSCHEK, Karl",
     "year": "1960-2002",
     "games": 169,
-    "id": "26672"
+    "id": "26672",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -35410,7 +35414,8 @@
     "name": "LAURENT, Bruno",
     "year": "1997-2017",
     "games": 95,
-    "id": "55220"
+    "id": "55220",
+    "synced": true
   },
   {
     "higestRating": 2304,
@@ -45636,7 +45641,8 @@
     "name": "SAVAGE, Allan George",
     "year": "1972-2019",
     "games": 68,
-    "id": "46341"
+    "id": "46341",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -49158,7 +49164,8 @@
     "name": "PSYK, Radoslaw",
     "year": "2012-2022",
     "games": 62,
-    "id": "142106"
+    "id": "142106",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -56390,7 +56397,8 @@
     "name": "ZHURIKHIN, Alexander",
     "year": "2011-2015",
     "games": 50,
-    "id": "141485"
+    "id": "141485",
+    "synced": true
   },
   {
     "higestRating": 2342,
@@ -57494,7 +57502,8 @@
     "name": "KHECHUMYAN, Gagik",
     "year": "1998-2001",
     "games": 48,
-    "id": "57802"
+    "id": "57802",
+    "synced": true
   },
   {
     "higestRating": 2373,
@@ -70881,7 +70890,8 @@
     "name": "MAROS, Milan",
     "year": "1993-2012",
     "games": 34,
-    "id": "66833"
+    "id": "66833",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -72880,7 +72890,8 @@
     "name": "FRIEDMAN, Edward",
     "year": "1969-1994",
     "games": 32,
-    "id": "23372"
+    "id": "23372",
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -73668,7 +73679,8 @@
     "name": "SULA, Zeqir",
     "year": "1979-2000",
     "games": 32,
-    "id": "129754"
+    "id": "129754",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -85828,7 +85840,8 @@
     "name": "SWOL, Michal",
     "year": "1992-1995",
     "games": 24,
-    "id": "92281"
+    "id": "92281",
+    "synced": true
   },
   {
     "higestRating": 2252,
@@ -86922,7 +86935,8 @@
     "name": "ERMOLAEV, Andrey",
     "year": "2001-2004",
     "games": 23,
-    "id": "58923"
+    "id": "58923",
+    "synced": true
   },
   {
     "higestRating": 2219,
@@ -100740,7 +100754,8 @@
     "name": "SOUZA, Adwilhans Luciano",
     "year": "1994-2004",
     "games": 17,
-    "id": "121120"
+    "id": "121120",
+    "synced": true
   },
   {
     "higestRating": 2317,
@@ -103660,7 +103675,8 @@
     "name": "SHOROKHOV, Alexandr",
     "year": "2001-2016",
     "games": 16,
-    "id": "120857"
+    "id": "120857",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -110063,7 +110079,8 @@
     "name": "CASADEMONT, Marti Mayo",
     "year": "2005-2019",
     "games": 8,
-    "id": "107044"
+    "id": "107044",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -112410,7 +112427,8 @@
     "name": "SINURAT, Tumpak",
     "year": "2012-2013",
     "games": 3,
-    "id": "141237"
+    "id": "141237",
+    "synced": true
   },
   {
     "higestRating": 2204,
