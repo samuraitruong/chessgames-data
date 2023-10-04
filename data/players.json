@@ -6790,7 +6790,8 @@
     "name": "ASEEV, Konstantin",
     "year": "1980-2003",
     "games": 583,
-    "id": "17703"
+    "id": "17703",
+    "synced": true
   },
   {
     "higestRating": 2586,
@@ -8112,7 +8113,8 @@
     "name": "YAKUBBOEV, Nodirbek",
     "year": "2014-2023",
     "games": 491,
-    "id": "154820"
+    "id": "154820",
+    "synced": true
   },
   {
     "higestRating": 2540,
@@ -9839,7 +9841,8 @@
     "name": "DYDYSHKO, Viacheslav",
     "year": "1966-2015",
     "games": 407,
-    "id": "19904"
+    "id": "19904",
+    "synced": true
   },
   {
     "higestRating": 2593,
@@ -25625,7 +25628,8 @@
     "name": "VAN DER WEIDE, Piet",
     "year": "1965-2010",
     "games": 143,
-    "id": "23059"
+    "id": "23059",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -34087,7 +34091,8 @@
     "name": "HUNGER, Horst",
     "year": "2009-2019",
     "games": 100,
-    "id": "188707"
+    "id": "188707",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -38890,7 +38895,8 @@
     "name": "KLERIDES, Paris",
     "year": "1996-2020",
     "games": 84,
-    "id": "88592"
+    "id": "88592",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -40304,7 +40310,8 @@
     "name": "MERKESVIK, Sondre",
     "year": "2012-2017",
     "games": 81,
-    "id": "138820"
+    "id": "138820",
+    "synced": true
   },
   {
     "higestRating": 2201,
@@ -45292,7 +45299,8 @@
     "name": "HAHN, Anna",
     "year": "1992-2004",
     "games": 69,
-    "id": "60583"
+    "id": "60583",
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -75504,7 +75512,8 @@
     "name": "ARNETT, David A",
     "year": "1992-2000",
     "games": 30,
-    "id": "16863"
+    "id": "16863",
+    "synced": true
   },
   {
     "higestRating": 2404,
@@ -75660,7 +75669,8 @@
     "name": "YASSEEN, Aly",
     "year": "1982-2016",
     "games": 30,
-    "id": "47270"
+    "id": "47270",
+    "synced": true
   },
   {
     "higestRating": 2456,
@@ -76879,7 +76889,8 @@
     "name": "VULFSON, Vladimir",
     "year": "1974-2012",
     "games": 29,
-    "id": "26993"
+    "id": "26993",
+    "synced": true
   },
   {
     "higestRating": 2264,
@@ -87766,7 +87777,8 @@
     "name": "PETROV, Artur",
     "year": "2010-2013",
     "games": 23,
-    "id": "132207"
+    "id": "132207",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -100909,7 +100921,8 @@
     "name": "CHIFOR, Ovidiu-Emanuel",
     "year": "2010-2017",
     "games": 17,
-    "id": "133446"
+    "id": "133446",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -101034,7 +101047,8 @@
     "name": "JOVANOVIC, Sasa M",
     "year": "1990-2021",
     "games": 17,
-    "id": "140746"
+    "id": "140746",
+    "synced": true
   },
   {
     "higestRating": 2328,

@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.21"]
+[EventDate "2020.08.21"]
+[Round "2"]
+[Result "1-0"]
+[White "Nodirbek Yakubboev"]
+[Black "Roy Mwadzura"]
+[ECO "D35"]
+[WhiteElo "2459"]
+[BlackElo "2029"]
+[Source "Chess-Results"]
+[PlyCount "10"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 Bb4 5. Qa4+ 1-0
