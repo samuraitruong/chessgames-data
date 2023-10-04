@@ -1,0 +1,15 @@
+[Event "Moscow Olympiad"]
+[Site "Moscow RUS"]
+[Date "1994.12.15"]
+[EventDate "1994.12.01"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Niaz Murshed"]
+[Black "Serikbay Temirbaev"]
+[ECO "A48"]
+[WhiteElo "2520"]
+[BlackElo "2465"]
+[Source "Olimpbase"]
+[PlyCount "42"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.Be2 c6 7.Ne5 Nfd7 8.h4 Nxe5 9.Bxe5 Bxe5 10.dxe5 Nd7 11.f4 Qb6 12.Qd4 f6 13.O-O-O fxe5 14.fxe5 Qxd4 15.exd4 Rf4 16.g3 Rf2 17.Rdf1 Rxf1+ 18.Rxf1 Nf8 19.Nd1 Ne6 20.c3 Bd7 21.Ne3 1/2-1/2

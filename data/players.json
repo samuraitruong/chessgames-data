@@ -861,7 +861,8 @@
     "name": "VOLOKITIN, Andrei",
     "year": "1996-2023",
     "games": 1824,
-    "id": "49244"
+    "id": "49244",
+    "synced": true
   },
   {
     "higestRating": 2587,
@@ -8012,7 +8013,8 @@
     "name": "MURSHED, Niaz",
     "year": "1982-2022",
     "games": 497,
-    "id": "41987"
+    "id": "41987",
+    "synced": true
   },
   {
     "higestRating": 2617,
@@ -21504,7 +21506,8 @@
     "name": "OSTOJIC, Nikola",
     "year": "1989-2022",
     "games": 177,
-    "id": "57903"
+    "id": "57903",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -62112,7 +62115,8 @@
     "name": "NUQUE, Augusto Moran",
     "year": "1986-2004",
     "games": 43,
-    "id": "111486"
+    "id": "111486",
+    "synced": true
   },
   {
     "higestRating": 2340,
