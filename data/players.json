@@ -3003,7 +3003,8 @@
     "name": "ZARNICKI, Pablo",
     "year": "1986-2019",
     "games": 1061,
-    "id": "14586"
+    "id": "14586",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -12966,7 +12967,8 @@
     "name": "COSTACHI, Mihnea",
     "year": "2012-2022",
     "games": 308,
-    "id": "139344"
+    "id": "139344",
+    "synced": true
   },
   {
     "higestRating": 2478,
@@ -13357,7 +13359,8 @@
     "name": "FIRMAN, Nazar",
     "year": "1995-2019",
     "games": 299,
-    "id": "70369"
+    "id": "70369",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -28340,7 +28343,8 @@
     "name": "ACZEL, Gergely",
     "year": "2012-2023",
     "games": 125,
-    "id": "139197"
+    "id": "139197",
+    "synced": true
   },
   {
     "higestRating": 2358,
@@ -33959,7 +33963,8 @@
     "name": "ILLIJIN, Neboisa",
     "year": "1970-2012",
     "games": 100,
-    "id": "49974"
+    "id": "49974",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -44663,7 +44668,8 @@
     "name": "HARDAWAY, Brewington",
     "year": "2017-2023",
     "games": 71,
-    "id": "192168"
+    "id": "192168",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -53877,7 +53883,8 @@
     "name": "KOELLNER, Ruben Gideon",
     "year": "2016-2023",
     "games": 54,
-    "id": "156062"
+    "id": "156062",
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -108234,7 +108241,8 @@
     "name": "SACK, Bruno-Wolfgang",
     "year": "1981-1994",
     "games": 12,
-    "id": "103762"
+    "id": "103762",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -111582,7 +111590,8 @@
     "name": "MADHY, Nezar",
     "year": "2000",
     "games": 4,
-    "id": "57509"
+    "id": "57509",
+    "synced": true
   },
   {
     "higestRating": 2265,
