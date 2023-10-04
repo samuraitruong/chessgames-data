@@ -6877,7 +6877,8 @@
     "name": "POPOV, Luben",
     "year": "1958-2008",
     "games": 578,
-    "id": "10937"
+    "id": "10937",
+    "synced": true
   },
   {
     "higestRating": 2646,
@@ -12080,7 +12081,8 @@
     "name": "KANAREK, Marcel",
     "year": "2003-2021",
     "games": 333,
-    "id": "117744"
+    "id": "117744",
+    "synced": true
   },
   {
     "higestRating": 2452,
@@ -14757,7 +14759,8 @@
     "name": "MIHAJLOV, Sebastian",
     "year": "2011-2022",
     "games": 268,
-    "id": "129011"
+    "id": "129011",
+    "synced": true
   },
   {
     "higestRating": 2505,
@@ -18387,7 +18390,8 @@
     "name": "NAGY, Gabor",
     "year": "2009-2023",
     "games": 212,
-    "id": "132759"
+    "id": "132759",
+    "synced": true
   },
   {
     "higestRating": 2648,
@@ -32368,7 +32372,8 @@
     "name": "GROETZ, Harald",
     "year": "1994-2015",
     "games": 106,
-    "id": "55012"
+    "id": "55012",
+    "synced": true
   },
   {
     "higestRating": 2464,
@@ -33592,7 +33597,8 @@
     "name": "LAM, Daniel King Wai",
     "year": "2001-2019",
     "games": 102,
-    "id": "135499"
+    "id": "135499",
+    "synced": true
   },
   {
     "higestRating": 2391,
@@ -44075,7 +44081,8 @@
     "name": "RADOVANOVIC, Mihajlo",
     "year": "2016-2021",
     "games": 72,
-    "id": "156776"
+    "id": "156776",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -49537,7 +49544,8 @@
     "name": "PITTERSON, Jomo",
     "year": "1990-2012",
     "games": 61,
-    "id": "79531"
+    "id": "79531",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -50561,7 +50569,8 @@
     "name": "MELNIKOVA, Yana",
     "year": "1996-2010",
     "games": 59,
-    "id": "56706"
+    "id": "56706",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -61239,7 +61248,8 @@
     "name": "DEK, Lennart",
     "year": "2007-2019",
     "games": 44,
-    "id": "112026"
+    "id": "112026",
+    "synced": true
   },
   {
     "higestRating": 2261,
@@ -63583,7 +63593,8 @@
     "name": "SYRE, Christian",
     "year": "1974-1997",
     "games": 41,
-    "id": "48405"
+    "id": "48405",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -64314,7 +64325,8 @@
     "name": "SKUHALA, Jernej",
     "year": "2017-2021",
     "games": 41,
-    "id": "159087"
+    "id": "159087",
+    "synced": true
   },
   {
     "higestRating": 2307,
@@ -65715,7 +65727,8 @@
     "name": "AGZAMOV, Viacheslav",
     "year": "1965-2016",
     "games": 39,
-    "id": "62594"
+    "id": "62594",
+    "synced": true
   },
   {
     "higestRating": 2248,
@@ -72102,7 +72115,8 @@
     "name": "MANDEKIC, Ivan",
     "year": "1988-2005",
     "games": 33,
-    "id": "58579"
+    "id": "58579",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -86630,7 +86644,8 @@
     "name": "ROSTEN, Oliver",
     "year": "1991-2001",
     "games": 23,
-    "id": "34770"
+    "id": "34770",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -91726,7 +91741,8 @@
     "name": "GICHURKIN, Sergei",
     "year": "2003-2007",
     "games": 21,
-    "id": "136937"
+    "id": "136937",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -93465,7 +93481,8 @@
     "name": "KRASIK, Ilya",
     "year": "2005-2008",
     "games": 20,
-    "id": "100883"
+    "id": "100883",
+    "synced": true
   },
   {
     "higestRating": 2443,
@@ -106237,7 +106254,8 @@
     "name": "HUGAERT, Arthur",
     "year": "2007-2009",
     "games": 15,
-    "id": "112071"
+    "id": "112071",
+    "synced": true
   },
   {
     "higestRating": 2304,
@@ -109726,7 +109744,8 @@
     "name": "GALUNOV, Todor",
     "year": "2006-2011",
     "games": 9,
-    "id": "124755"
+    "id": "124755",
+    "synced": true
   },
   {
     "higestRating": 2282,
@@ -110000,7 +110019,8 @@
     "name": "KAUDER, Hartmut",
     "year": "1950-1982",
     "games": 8,
-    "id": "94741"
+    "id": "94741",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -110824,7 +110844,8 @@
     "name": "GASSMANN, Volker",
     "year": "2001",
     "games": 6,
-    "id": "52848"
+    "id": "52848",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -112570,7 +112591,8 @@
     "name": "RIEDEL, Hartmut",
     "year": "1986-2000",
     "games": 2,
-    "id": "70792"
+    "id": "70792",
+    "synced": true
   },
   {
     "higestRating": 2379,
