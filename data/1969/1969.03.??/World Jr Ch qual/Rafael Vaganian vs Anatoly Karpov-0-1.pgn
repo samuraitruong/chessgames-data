@@ -2,13 +2,13 @@
 [Site "Leningrad URS"]
 [Date "1969.03.??"]
 [EventDate "?"]
-[Round "5"]
+[Round "1"]
 [Result "0-1"]
 [White "Rafael Vaganian"]
 [Black "Anatoly Karpov"]
-[ECO "E50"]
+[ECO "E14"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "60"]
+[PlyCount "108"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 c5 6. Be2 d5 7. O-O Nbd7 8. cxd5 exd5 9. Qb3 Bxc3 10. Qxc3 Ne4 11. Qc2 b6 12. dxc5 bxc5 13. b3 Bb7 14. Bb2 Rc8 15. Rfd1 Qe7 16. Rac1 f5 17. Ne1 Qh4 18. g3 Qh6 19. Ng2 Kh8 20. Qd3 Rce8 21. f3 Ng5 22. Nf4 d4 23. h4 Bxf3 24. exd4 Nh3+ 25. Nxh3 Bxe2 26. Qd2 Re3 27. Kh2 Nf6 28. Nf4 Ng4+ 29. Kg2 Bf3+ 30. Kg1 Bxd1 0-1
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 6. O-O c5 7. Nbd2 Nc6 8. a3 cxd4 9. exd4 d5 10. cxd5 Qxd5 11. Bc4 Qd6 12. Nb3 O-O 13. Qe2 h6 14. Rd1 Rfd8 15. Be3 Rac8 16. Rac1 Nd5 17. Bd2 a5 18. Rc2 Qb8 19. Nc1 Nf4 20. Bxf4 Qxf4 21. Rcd2 Bf6 22. Nd3 Qc7 23. Nde5 Nxd4 24. Rxd4 Rxd4 25. Nxd4 Qxe5 26. Nb5 Qxb2 27. Nd6 Qxe2 28. Bxe2 Rc7 29. Nxb7 Rxb7 30. a4 Rc7 31. Bb5 Rc2 32. h3 g6 33. Rd6 Rc1+ 34. Bf1 Ra1 35. Rxb6 Rxa4 36. g3 Bd4 37. Rb8+ Kg7 38. Be2 Ra2 39. Kf1 a4 40. Rb4 e5 41. Rb7 a3 42. Rxf7+ Kh8 43. Rf8+ Kg7 44. Rf7+ Kxf7 45. Bc4+ Kf6 46. Bxa2 g5 47. f3 h5 48. Ke2 e4 49. fxe4 g4 50. hxg4 hxg4 51. Bb3 Be5 52. Kf2 Ke7 53. Ke3 Bxg3 54. Kd4 Be5+ 0-1
