@@ -1691,7 +1691,8 @@
     "name": "LAZIC, Miroljub",
     "year": "1983-2023",
     "games": 1425,
-    "id": "28776"
+    "id": "28776",
+    "synced": true
   },
   {
     "higestRating": 2726,
@@ -7170,7 +7171,8 @@
     "name": "TUNIK, Gennady",
     "year": "1984-2019",
     "games": 549,
-    "id": "17079"
+    "id": "17079",
+    "synced": true
   },
   {
     "higestRating": 2660,
@@ -25331,7 +25333,8 @@
     "name": "BARAEVA, Irina",
     "year": "2004-2015",
     "games": 146,
-    "id": "117946"
+    "id": "117946",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -30434,7 +30437,8 @@
     "name": "TOZER, Richard",
     "year": "1986-2002",
     "games": 113,
-    "id": "13895"
+    "id": "13895",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -34130,7 +34134,8 @@
     "name": "VALLIFUOCO, Giacomo",
     "year": "1978-1989",
     "games": 99,
-    "id": "20805"
+    "id": "20805",
+    "synced": true
   },
   {
     "higestRating": 2329,
@@ -35803,7 +35808,8 @@
     "name": "KALIKSTEYN, Alexander",
     "year": "1992-2022",
     "games": 93,
-    "id": "18881"
+    "id": "18881",
+    "synced": true
   },
   {
     "higestRating": 2412,
@@ -46694,7 +46700,8 @@
     "name": "HOKKANEN, Petri",
     "year": "1989-2019",
     "games": 66,
-    "id": "51755"
+    "id": "51755",
+    "synced": true
   },
   {
     "higestRating": 2423,
@@ -52308,7 +52315,8 @@
     "name": "WEBER, Karlheinz",
     "year": "1992-2017",
     "games": 56,
-    "id": "90420"
+    "id": "90420",
+    "synced": true
   },
   {
     "higestRating": 2480,
@@ -52610,7 +52618,8 @@
     "name": "MORRISON, Robert",
     "year": "1976-1985",
     "games": 55,
-    "id": "22512"
+    "id": "22512",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -55001,7 +55010,8 @@
     "name": "SCHROER, Jonathan",
     "year": "1980-2012",
     "games": 51,
-    "id": "15553"
+    "id": "15553",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -59801,7 +59811,8 @@
     "name": "CHERNIACK, Alex",
     "year": "1988-2022",
     "games": 45,
-    "id": "50488"
+    "id": "50488",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -61610,7 +61621,8 @@
     "name": "KUJAWSKI, Adam",
     "year": "1987-2017",
     "games": 43,
-    "id": "30792"
+    "id": "30792",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -63355,7 +63367,8 @@
     "name": "FORCHERT, Martin",
     "year": "1987-2017",
     "games": 41,
-    "id": "27746"
+    "id": "27746",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -64083,7 +64096,8 @@
     "name": "DJOKIC, Nebojsa",
     "year": "2003-2022",
     "games": 41,
-    "id": "135269"
+    "id": "135269",
+    "synced": true
   },
   {
     "higestRating": 2302,
@@ -68303,7 +68317,8 @@
     "name": "TJURIN, Alexander P",
     "year": "2001-2012",
     "games": 36,
-    "id": "50191"
+    "id": "50191",
+    "synced": true
   },
   {
     "higestRating": 2271,
@@ -70415,7 +70430,8 @@
     "name": "ALMADA, Enrique",
     "year": "1982-2012",
     "games": 34,
-    "id": "37730"
+    "id": "37730",
+    "synced": true
   },
   {
     "higestRating": 2208,
@@ -72617,7 +72633,8 @@
     "name": "JANUARIO, Severino Pereira",
     "year": "1987-2018",
     "games": 33,
-    "id": "151762"
+    "id": "151762",
+    "synced": true
   },
   {
     "higestRating": 2411,
@@ -85780,7 +85797,8 @@
     "name": "JUNGE, Kai",
     "year": "1988-2007",
     "games": 24,
-    "id": "99242"
+    "id": "99242",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -85951,7 +85969,8 @@
     "name": "COSTA, Renan Levy da",
     "year": "1984-2000",
     "games": 24,
-    "id": "115183"
+    "id": "115183",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -86482,7 +86501,8 @@
     "name": "DEKIC, Josip",
     "year": "1990-2014",
     "games": 23,
-    "id": "34613"
+    "id": "34613",
+    "synced": true
   },
   {
     "higestRating": 2218,
@@ -86504,7 +86524,8 @@
     "name": "MACIONIS, Andrius",
     "year": "1992-1996",
     "games": 23,
-    "id": "35052"
+    "id": "35052",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -94172,7 +94193,8 @@
     "name": "CHOMCZYK, Marek",
     "year": "2016-2021",
     "games": 20,
-    "id": "158036"
+    "id": "158036",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -110354,7 +110376,8 @@
     "name": "PAPPIER, Carlos Guillermo",
     "year": "1994-2015",
     "games": 7,
-    "id": "97733"
+    "id": "97733",
+    "synced": true
   },
   {
     "higestRating": 2225,

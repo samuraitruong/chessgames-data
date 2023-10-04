@@ -1,0 +1,14 @@
+[Event "EM/M/GT/A014"]
+[Site "ICCF Email"]
+[Date "1998.09.05"]
+[EventDate "1998.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Daniel Jabot"]
+[Black "Karlheinz Weber"]
+[ECO "B96"]
+[WhiteElo "2206"]
+[BlackElo "2408"]
+[PlyCount "24"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qc7 8.Qf3 b5 9.Bxf6 gxf6 10.e5 Qb7 11.Qh5 b4 12.Nxe6 Bxe6 0-1
