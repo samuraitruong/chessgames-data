@@ -1,0 +1,14 @@
+[Event "St Affrique Open 8."]
+[Site "Saint Affrique FRA"]
+[Date "2000.07.22"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Fabien Tanguy"]
+[Black "Glenn Flear"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "2480"]
+[PlyCount "44"]
+
+1.c4 e6 2.Nc3 d5 3.cxd5 exd5 4.e3 Nf6 5.Nf3 c6 6.Be2 Bd6 7.d3 O-O 8.O-O Re8 9.Re1 Bc7 10.b3 Nbd7 11.d4 Nf8 12.Ba3 Ng6 13.g3 Bh3 14.Bf1 Qd7 15.Ng5 Bxf1 16.Rxf1 h6 17.Nf3 Qh3 18.Ne2 Re4 19.Kh1 Nh4 20.Nf4 Rxf4 21.Nxh4 Rxh4 22.gxh4 Qxh2# 0-1

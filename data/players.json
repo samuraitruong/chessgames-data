@@ -3350,7 +3350,8 @@
     "name": "FLEAR, Glenn",
     "year": "1977-2021",
     "games": 995,
-    "id": "13822"
+    "id": "13822",
+    "synced": true
   },
   {
     "higestRating": 2645,
@@ -13188,7 +13189,8 @@
     "name": "VOGEL, Jaap",
     "year": "1969-2018",
     "games": 303,
-    "id": "46515"
+    "id": "46515",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -20743,7 +20745,8 @@
     "name": "VISAKH, N R",
     "year": "2011-2023",
     "games": 185,
-    "id": "131314"
+    "id": "131314",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -28059,7 +28062,8 @@
     "name": "KLEINMAN, Michael",
     "year": "2008-2019",
     "games": 127,
-    "id": "121990"
+    "id": "121990",
+    "synced": true
   },
   {
     "higestRating": 2314,
@@ -30105,7 +30109,8 @@
     "name": "ACOSTA, Pablo Ismael",
     "year": "2014-2023",
     "games": 116,
-    "id": "151731"
+    "id": "151731",
+    "synced": true
   },
   {
     "higestRating": 2288,
@@ -31480,7 +31485,8 @@
     "name": "DAMBRAUSKAS, Virginijus A",
     "year": "1992-2020",
     "games": 110,
-    "id": "53681"
+    "id": "53681",
+    "synced": true
   },
   {
     "higestRating": 2520,
@@ -35527,7 +35533,8 @@
     "name": "NICOARA, Malina",
     "year": "1992-2019",
     "games": 95,
-    "id": "58417"
+    "id": "58417",
+    "synced": true
   },
   {
     "higestRating": 2299,
@@ -37447,7 +37454,8 @@
     "name": "RUXTON, Keith",
     "year": "1988-2008",
     "games": 88,
-    "id": "19724"
+    "id": "19724",
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -44796,7 +44804,8 @@
     "name": "HARPER, Bruce",
     "year": "1968-2004",
     "games": 70,
-    "id": "22442"
+    "id": "22442",
+    "synced": true
   },
   {
     "higestRating": 2319,
@@ -49251,7 +49260,8 @@
     "name": "ARDA, Cagil Irmak",
     "year": "2012-2018",
     "games": 62,
-    "id": "140302"
+    "id": "140302",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -56731,7 +56741,8 @@
     "name": "KAESER, Udo",
     "year": "1985-2006",
     "games": 49,
-    "id": "30655"
+    "id": "30655",
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -57449,7 +57460,8 @@
     "name": "ZEIN, Eid Mahmoud Abou El",
     "year": "1988-2018",
     "games": 48,
-    "id": "49125"
+    "id": "49125",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -67670,7 +67682,8 @@
     "name": "BOGACHKOV, Igor",
     "year": "1996-2010",
     "games": 37,
-    "id": "49674"
+    "id": "49674",
+    "synced": true
   },
   {
     "higestRating": 2232,
@@ -67990,7 +68003,8 @@
     "name": "CHATTERJEE, Debaraj",
     "year": "2004-2022",
     "games": 37,
-    "id": "100934"
+    "id": "100934",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -83214,7 +83228,8 @@
     "name": "HAAG, Martin",
     "year": "1987-2017",
     "games": 25,
-    "id": "16604"
+    "id": "16604",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -84244,7 +84259,8 @@
     "name": "GUIZAR, Clemente",
     "year": "1985-2008",
     "games": 25,
-    "id": "90175"
+    "id": "90175",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -92320,7 +92336,8 @@
     "name": "CATIVELLI, Gerardo",
     "year": "1987-2012",
     "games": 20,
-    "id": "16394"
+    "id": "16394",
+    "synced": true
   },
   {
     "higestRating": 2383,
@@ -92490,7 +92507,8 @@
     "name": "STOEBER, Michael",
     "year": "1988-2017",
     "games": 20,
-    "id": "34190"
+    "id": "34190",
+    "synced": true
   },
   {
     "higestRating": 2363,
@@ -96633,7 +96651,8 @@
     "name": "SVOBODA, Vaclav",
     "year": "2009-2020",
     "games": 19,
-    "id": "143236"
+    "id": "143236",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -105511,7 +105530,8 @@
     "name": "AKINTOLA, Fola",
     "year": "1990-2006",
     "games": 15,
-    "id": "63354"
+    "id": "63354",
+    "synced": true
   },
   {
     "higestRating": 2278,
@@ -112859,7 +112879,8 @@
     "name": "ROZIER, Denis",
     "year": "1989",
     "games": 2,
-    "id": "93731"
+    "id": "93731",
+    "synced": true
   },
   {
     "higestRating": 2245,

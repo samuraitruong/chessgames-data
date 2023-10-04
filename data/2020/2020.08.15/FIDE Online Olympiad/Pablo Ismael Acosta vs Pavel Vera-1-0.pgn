@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.15"]
+[EventDate "2020.08.14"]
+[Round "4"]
+[Result "1-0"]
+[White "Pablo Ismael Acosta"]
+[Black "Pavel Vera"]
+[ECO "D85"]
+[WhiteElo "2377"]
+[BlackElo "1579"]
+[Source "Chess-Results"]
+[PlyCount "47"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bb5+ Bd7 8. Bc4 c5 9. Ne2 O-O 10. O-O Nc6 11. Be3 Na5 12. Bd3 b6 13. dxc5 Qc7 14. cxb6 axb6 15. Bd4 e5 16. Be3 Rfd8 17. Qc2 b5 18. Rfd1 Qc6 19. Rab1 Nc4 20. Bxc4 Qxc4 21. Nc1 f5 22. Bg5 fxe4 23. Bxd8 Rxd8 24. Qb3 1-0
