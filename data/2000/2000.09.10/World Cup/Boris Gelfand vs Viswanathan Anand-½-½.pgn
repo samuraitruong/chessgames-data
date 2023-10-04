@@ -1,14 +1,14 @@
 [Event "World Cup"]
 [Site "Shenyang CHN"]
 [Date "2000.09.10"]
-[EventDate "2000.??.??"]
-[Round "7.2"]
+[EventDate "?"]
+[Round "7.5"]
 [Result "1/2-1/2"]
 [White "Boris Gelfand"]
 [Black "Viswanathan Anand"]
-[ECO "E06"]
-[WhiteElo "2681"]
-[BlackElo "2762"]
-[PlyCount "75"]
+[ECO "E41"]
+[WhiteElo "2762"]
+[BlackElo "2681"]
+[PlyCount "88"]
 
-1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4 Bd7 9. Qxc4 Bc6 10. Bg5 a5 11. Nc3 Na6 12. Bxf6 Bxf6 13. e4 Nb4 14. Rfd1 g6 15. Rac1 Re8 16. d5 exd5 17. exd5 Bd7 18. Nd4 Rc8 19. Ne4 Be5 20. Nc5 b6 21. Nc6 Bxc6 22. dxc6 bxc5 23. Rxd8 Rcxd8 24. Re1 Bd4 25. Rxe8+ Rxe8 26. Qb5 Kg7 27. Qxa5 Re2 28. Qxc7 Rxf2 29. Kh1 Nd3 30. Qd8 Rc2 31. Bf1 Nf2+ 32. Kg2 Ng4+ 33. Kf3 Ne5+ 34. Ke4 Nxc6 35. Qc7 Nb4 36. g4 Rf2 37. Bb5 g5 38. a5 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nge2 cxd4 7. exd4 d5 8. cxd5 Nxd5 9. O-O Bd6 10. Ne4 Be7 11. a3 O-O 12. Bc2 Re8 13. Qd3 g6 14. Bh6 b6 15. Rac1 Bb7 16. Ba4 Rc8 17. Rfd1 a6 18. Bxc6 Rxc6 19. Rxc6 Bxc6 20. Qxa6 Qa8 21. Qxa8 Rxa8 22. N2c3 Rc8 23. Rc1 Bb7 24. Nxd5 Rxc1+ 25. Bxc1 Bxd5 26. f3 b5 27. Bd2 Kf8 28. Kf2 f5 29. Nc3 Bc6 30. Ne2 Ke8 31. Nf4 Kd7 32. Nd3 Bd5 33. Ne5+ Ke8 34. Nd3 Kd7 35. Bb4 Bf6 36. Ke3 Bg5+ 37. f4 Bf6 38. g3 Bc4 39. Nc5+ Kc6 40. Bc3 Be7 41. Nd3 Bd6 42. Ne1 Bd5 43. Nd3 Bc4 44. Ne1 Bd5 1/2-1/2

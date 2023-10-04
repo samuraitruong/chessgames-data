@@ -1,0 +1,14 @@
+[Event "Torneo A"]
+[Site "Bratto ITA"]
+[Date "2005.08.24"]
+[EventDate "2005.08.20"]
+[Round "5"]
+[Result "0-1"]
+[White "Michele Buono"]
+[Black "Denis Rombaldoni"]
+[ECO "E38"]
+[WhiteElo "2133"]
+[BlackElo "2327"]
+[PlyCount "46"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. a3 cxd4 6. axb4 dxc3 7. bxc3 h6 8. e4 d5 9. e5 Nfd7 10. f4 dxc4 11. Be3 Nc6 12. Qe4 f5 13. Qxc4 Nb6 14. Qb3 Qc7 15. Be2 O-O 16. Nf3 Nd5 17. Bc5 Nxf4 18. Bd6 Qb6 19. Bc5 Qc7 20. Bd6 Qd8 21. Bxf8 Kxf8 22. b5 Qb6 23. Qb4+ 0-1
