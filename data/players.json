@@ -944,7 +944,8 @@
     "name": "PAEHTZ, Elisabeth",
     "year": "1994-2023",
     "games": 1773,
-    "id": "50272"
+    "id": "50272",
+    "synced": true
   },
   {
     "higestRating": 2570,
@@ -10033,7 +10034,8 @@
     "name": "BAUMBACH, Fritz",
     "year": "1952-2019",
     "games": 402,
-    "id": "17180"
+    "id": "17180",
+    "synced": true
   },
   {
     "higestRating": 2508,
@@ -15402,7 +15404,8 @@
     "name": "SWAPNIL, Sunil Dhopade",
     "year": "2007-2022",
     "games": 258,
-    "id": "117291"
+    "id": "117291",
+    "synced": true
   },
   {
     "higestRating": 2535,
@@ -51664,7 +51667,8 @@
     "name": "LEVENE, Mark",
     "year": "1980-1984",
     "games": 57,
-    "id": "59693"
+    "id": "59693",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -54840,7 +54844,8 @@
     "name": "MONIER, Raul",
     "year": "1978-2005",
     "games": 52,
-    "id": "50032"
+    "id": "50032",
+    "synced": true
   },
   {
     "higestRating": 2432,

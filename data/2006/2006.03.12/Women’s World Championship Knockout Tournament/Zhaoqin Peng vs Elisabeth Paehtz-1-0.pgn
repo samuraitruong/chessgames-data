@@ -2,13 +2,13 @@
 [Site "Ekaterinburg RUS"]
 [Date "2006.03.12"]
 [EventDate "2006.03.11"]
-[Round "1.6"]
+[Round "1.2"]
 [Result "1-0"]
 [White "Zhaoqin Peng"]
 [Black "Elisabeth Paehtz"]
-[ECO "A04"]
+[ECO "A19"]
 [WhiteElo "2407"]
 [BlackElo "2422"]
-[PlyCount "91"]
+[PlyCount "69"]
 
-1. Nf3 e6 2. c4 b6 3. g3 Bb7 4. Bg2 f5 5. O-O Nf6 6. Nc3 g6 7. d3 Bg7 8. Qc2 O-O 9. e4 Nc6 10. e5 Ng4 11. d4 d6 12. Bg5 Qd7 13. exd6 Qxd6 14. h3 Nh6 15. Nb5 Qd7 16. Rad1 a6 17. Nc3 Nf7 18. d5 exd5 19. Nxd5 Nd6 20. Bf4 Rad8 21. Nxb6 cxb6 22. Rxd6 Qc8 23. Rfd1 Rxd6 24. Rxd6 Re8 25. b3 Bf8 26. Rd1 Bc5 27. Qc3 Re2 28. Bh6 Qc7 29. Rf1 Qe7 30. Bg5 Qe6 31. Bh6 Qe7 32. Bg5 Qf7 33. Bf4 Rxa2 34. Ng5 Bd4 35. Qd3 Qg7 36. Bd5+ Kh8 37. Nf7+ Kg8 38. Ne5+ Kf8 39. Nxc6 Bxc6 40. Bd6+ Ke8 41. Bxc6+ Kd8 42. Rd1 Bxf2+ 43. Kh1 Kc8 44. Bf4 Qe7 45. Bg2 Bc5 46. Qd5 1-0
+1. c4 Nf6 2. Nc3 e6 3. e4 c5 4. e5 Ng8 5. Nf3 Nc6 6. d4 cxd4 7. Nxd4 Qa5 8. Ndb5 a6 9. Nd6+ Bxd6 10. exd6 Nf6 11. Be2 Ne4 12. O-O Nxc3 13. bxc3 b5 14. Qd3 O-O 15. Be3 bxc4 16. Qxc4 Qe5 17. Rab1 a5 18. Qc5 Ba6 19. Bxa6 Rxa6 20. Rb7 Rd8 21. Rfb1 f6 22. Qc4 Raa8 23. Bf4 Qh5 24. h3 Kf8 25. a4 Rac8 26. Qb5 Qe8 27. Be3 Rb8 28. Qa6 Rxb7 29. Rxb7 Rb8 30. Rc7 Ra8 31. Qd3 Kg8 32. Bb6 Ne5 33. Qe4 Nc6 34. c4 Rc8 35. Qxc6 1-0
