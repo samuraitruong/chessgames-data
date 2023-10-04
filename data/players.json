@@ -4945,7 +4945,8 @@
     "name": "POURKASHIYAN, Atousa",
     "year": "1997-2023",
     "games": 761,
-    "id": "84014"
+    "id": "84014",
+    "synced": true
   },
   {
     "higestRating": 2559,
@@ -5692,7 +5693,8 @@
     "name": "BERGEZ, Luc",
     "year": "1991-2019",
     "games": 686,
-    "id": "36824"
+    "id": "36824",
+    "synced": true
   },
   {
     "higestRating": 2613,
@@ -11139,7 +11141,8 @@
     "name": "TXABARRI, Felix Izeta",
     "year": "1986-2014",
     "games": 365,
-    "id": "87603"
+    "id": "87603",
+    "synced": true
   },
   {
     "higestRating": 2581,
@@ -22511,7 +22514,8 @@
     "name": "CARRILLO, Oscar Quinones",
     "year": "1959-1976",
     "games": 168,
-    "id": "21211"
+    "id": "21211",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -25902,7 +25906,8 @@
     "name": "TOUFIGHI, Homayoon",
     "year": "2004-2017",
     "games": 142,
-    "id": "95994"
+    "id": "95994",
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -38892,7 +38897,8 @@
     "name": "TEICHMANN, Erik",
     "year": "1978-2010",
     "games": 84,
-    "id": "27120"
+    "id": "27120",
+    "synced": true
   },
   {
     "higestRating": 2423,
@@ -45797,7 +45803,8 @@
     "name": "HUBER, Gregory",
     "year": "1987-2010",
     "games": 68,
-    "id": "49964"
+    "id": "49964",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -57814,7 +57821,8 @@
     "name": "TRAVNICEK, Petr",
     "year": "1971-2004",
     "games": 48,
-    "id": "93926"
+    "id": "93926",
+    "synced": true
   },
   {
     "higestRating": 2229,
@@ -60895,7 +60903,8 @@
     "name": "BUSCH, Raimund",
     "year": "1974-2002",
     "games": 44,
-    "id": "40501"
+    "id": "40501",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -74378,7 +74387,8 @@
     "name": "VASILCHENKO, Oleg",
     "year": "1973-1995",
     "games": 31,
-    "id": "29653"
+    "id": "29653",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -79238,7 +79248,8 @@
     "name": "BRUCH, Jochen",
     "year": "1998-2022",
     "games": 28,
-    "id": "88237"
+    "id": "88237",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -88805,7 +88816,8 @@
     "name": "ESFAHANI, Peyman Mohajerin",
     "year": "2001-2010",
     "games": 22,
-    "id": "51275"
+    "id": "51275",
+    "synced": true
   },
   {
     "higestRating": 2338,
@@ -95368,7 +95380,8 @@
     "name": "VAVPETIC, Vid",
     "year": "1976-2001",
     "games": 19,
-    "id": "58096"
+    "id": "58096",
+    "synced": true
   },
   {
     "higestRating": 2332,
