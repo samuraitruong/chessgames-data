@@ -2209,7 +2209,8 @@
     "name": "BRODSKY, Michail",
     "year": "1984-2016",
     "games": 1232,
-    "id": "18168"
+    "id": "18168",
+    "synced": true
   },
   {
     "higestRating": 2560,
@@ -23023,7 +23024,8 @@
     "name": "ATABAYEV, Yusup",
     "year": "2008-2022",
     "games": 164,
-    "id": "127367"
+    "id": "127367",
+    "synced": true
   },
   {
     "higestRating": 2486,
@@ -27505,7 +27507,8 @@
     "name": "CASAGRANDE, Harald",
     "year": "1987-2001",
     "games": 130,
-    "id": "19908"
+    "id": "19908",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -31593,7 +31596,8 @@
     "name": "SIEGEL, Georg",
     "year": "1981-2004",
     "games": 109,
-    "id": "19843"
+    "id": "19843",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -36223,7 +36227,8 @@
     "name": "KUZAWKA, Daniel Rivera",
     "year": "1977-2016",
     "games": 92,
-    "id": "18316"
+    "id": "18316",
+    "synced": true
   },
   {
     "higestRating": 2322,
@@ -39933,7 +39938,8 @@
     "name": "MARTYNKOVA, Olena",
     "year": "2012-2022",
     "games": 82,
-    "id": "136169"
+    "id": "136169",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -49893,7 +49899,8 @@
     "name": "BASHKOV, Viacheslav",
     "year": "1988-2016",
     "games": 60,
-    "id": "42777"
+    "id": "42777",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -52611,7 +52618,8 @@
     "name": "TEH, Eu Wen Aron",
     "year": "2013-2017",
     "games": 56,
-    "id": "149309"
+    "id": "149309",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -54695,7 +54703,8 @@
     "name": "CATROPA, Djalma Marcondes",
     "year": "1984-1995",
     "games": 52,
-    "id": "39401"
+    "id": "39401",
+    "synced": true
   },
   {
     "higestRating": 2231,
@@ -87478,7 +87487,8 @@
     "name": "PYERNIK, Moshe",
     "year": "1982-1990",
     "games": 23,
-    "id": "101103"
+    "id": "101103",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -100950,7 +100960,8 @@
     "name": "IVELINOV, Hristo",
     "year": "2005-2013",
     "games": 17,
-    "id": "127721"
+    "id": "127721",
+    "synced": true
   },
   {
     "higestRating": 2223,
@@ -101804,7 +101815,8 @@
     "name": "MIRKOVIC, Stevan",
     "year": "2005-2018",
     "games": 16,
-    "id": "28628"
+    "id": "28628",
+    "synced": true
   },
   {
     "higestRating": 2250,
