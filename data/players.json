@@ -5750,7 +5750,8 @@
     "name": "LIBERZON, Vladimir",
     "year": "1955-1996",
     "games": 679,
-    "id": "15452"
+    "id": "15452",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -10243,7 +10244,8 @@
     "name": "VAKHIDOV, Jakhongir",
     "year": "2005-2023",
     "games": 396,
-    "id": "119994"
+    "id": "119994",
+    "synced": true
   },
   {
     "higestRating": 2379,
@@ -13634,7 +13636,8 @@
     "name": "GRIGORYAN, Avetik",
     "year": "2002-2020",
     "games": 293,
-    "id": "95360"
+    "id": "95360",
+    "synced": true
   },
   {
     "higestRating": 2531,
@@ -27324,7 +27327,8 @@
     "name": "KAMALIDENOVA, Meruert",
     "year": "2016-2023",
     "games": 132,
-    "id": "156182"
+    "id": "156182",
+    "synced": true
   },
   {
     "higestRating": 2463,
@@ -29598,7 +29602,8 @@
     "name": "MIKHEEV, Stanislav",
     "year": "1999-2020",
     "games": 118,
-    "id": "53205"
+    "id": "53205",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -37215,7 +37220,8 @@
     "name": "PALERMO, Vicente",
     "year": "1955-2001",
     "games": 89,
-    "id": "40285"
+    "id": "40285",
+    "synced": true
   },
   {
     "higestRating": 2212,
@@ -41231,7 +41237,8 @@
     "name": "BUCHNICEK, Petr",
     "year": "1992-2010",
     "games": 78,
-    "id": "36762"
+    "id": "36762",
+    "synced": true
   },
   {
     "higestRating": 2386,
@@ -51742,7 +51749,8 @@
     "name": "SEROV, Maksim",
     "year": "2003-2011",
     "games": 57,
-    "id": "81690"
+    "id": "81690",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -55036,7 +55044,8 @@
     "name": "VARDANIAN, Haik G",
     "year": "2007-2021",
     "games": 52,
-    "id": "113319"
+    "id": "113319",
+    "synced": true
   },
   {
     "higestRating": 2349,
@@ -65037,7 +65046,8 @@
     "name": "FLORES, Alberto Santos",
     "year": "2002-2014",
     "games": 40,
-    "id": "89112"
+    "id": "89112",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -76148,7 +76158,8 @@
     "name": "OVCHINIKOVA, Julia",
     "year": "1996-2001",
     "games": 30,
-    "id": "67495"
+    "id": "67495",
+    "synced": true
   },
   {
     "higestRating": 2204,
@@ -79998,7 +80009,8 @@
     "name": "COLDING, Ernest",
     "year": "1989-2007",
     "games": 27,
-    "id": "10179"
+    "id": "10179",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -95878,7 +95890,8 @@
     "name": "CHRISTENSEN, Thomas Flindt",
     "year": "2005-2014",
     "games": 19,
-    "id": "100451"
+    "id": "100451",
+    "synced": true
   },
   {
     "higestRating": 2397,
@@ -96555,7 +96568,8 @@
     "name": "PYATIN, Alexander",
     "year": "2010-2013",
     "games": 19,
-    "id": "141459"
+    "id": "141459",
+    "synced": true
   },
   {
     "higestRating": 2402,
@@ -98599,7 +98613,8 @@
     "name": "DONKER, Roel",
     "year": "2009-2012",
     "games": 18,
-    "id": "124975"
+    "id": "124975",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -99541,7 +99556,8 @@
     "name": "JUERGENS, Peter",
     "year": "1992-2008",
     "games": 17,
-    "id": "34971"
+    "id": "34971",
+    "synced": true
   },
   {
     "higestRating": 2239,
@@ -100856,7 +100872,8 @@
     "name": "KAFOROS, Dimitrios-Alkis",
     "year": "2007-2012",
     "games": 17,
-    "id": "117769"
+    "id": "117769",
+    "synced": true
   },
   {
     "higestRating": 2204,
@@ -104512,7 +104529,8 @@
     "name": "LUKMAN, Ronny",
     "year": "1983-1997",
     "games": 16,
-    "id": "174714"
+    "id": "174714",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -107273,7 +107291,8 @@
     "name": "ZAW, Tin Htun",
     "year": "1999",
     "games": 14,
-    "id": "47361"
+    "id": "47361",
+    "synced": true
   },
   {
     "higestRating": 2487,
