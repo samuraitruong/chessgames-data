@@ -2284,7 +2284,8 @@
     "name": "SHAMKOVICH, Leonid",
     "year": "1949-1998",
     "games": 1215,
-    "id": "14904"
+    "id": "14904",
+    "synced": true
   },
   {
     "higestRating": 2521,
@@ -6800,7 +6801,8 @@
     "name": "BLOMQVIST, Erik",
     "year": "2001-2023",
     "games": 585,
-    "id": "100464"
+    "id": "100464",
+    "synced": true
   },
   {
     "higestRating": 2545,
@@ -15773,7 +15775,8 @@
     "name": "ANIKAEV, Yuri",
     "year": "1967-2010",
     "games": 251,
-    "id": "42272"
+    "id": "42272",
+    "synced": true
   },
   {
     "higestRating": 2550,
@@ -16798,7 +16801,8 @@
     "name": "THIEDE, Lars",
     "year": "1988-2020",
     "games": 233,
-    "id": "52729"
+    "id": "52729",
+    "synced": true
   },
   {
     "higestRating": 2572,
@@ -44558,7 +44562,8 @@
     "name": "STRZEMIECKI, Zbigniew",
     "year": "2002-2013",
     "games": 71,
-    "id": "102467"
+    "id": "102467",
+    "synced": true
   },
   {
     "higestRating": 2573,
@@ -52420,7 +52425,8 @@
     "name": "LAHAYE, Rick",
     "year": "1987-2019",
     "games": 56,
-    "id": "70807"
+    "id": "70807",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -56343,7 +56349,8 @@
     "name": "PETERSEN, Soren Boeck",
     "year": "1990-2006",
     "games": 50,
-    "id": "98751"
+    "id": "98751",
+    "synced": true
   },
   {
     "higestRating": 2407,
@@ -71066,7 +71073,8 @@
     "name": "SIMMELINK, Joop Theo",
     "year": "1991-2007",
     "games": 34,
-    "id": "73717"
+    "id": "73717",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -72715,7 +72723,8 @@
     "name": "RAVICHANDRAN, Siddharth",
     "year": "2002-2013",
     "games": 33,
-    "id": "128268"
+    "id": "128268",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -95587,7 +95596,8 @@
     "name": "TSYGANOV, Igor M",
     "year": "1995-2008",
     "games": 19,
-    "id": "80894"
+    "id": "80894",
+    "synced": true
   },
   {
     "higestRating": 2282,
@@ -98780,7 +98790,8 @@
     "name": "MILLIGAN, Thomas",
     "year": "1980-1981",
     "games": 18,
-    "id": "133236"
+    "id": "133236",
+    "synced": true
   },
   {
     "higestRating": 2368,
