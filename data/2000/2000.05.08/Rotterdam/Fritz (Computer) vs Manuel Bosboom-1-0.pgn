@@ -1,0 +1,14 @@
+[Event "Rotterdam"]
+[Site "NK"]
+[Date "2000.05.08"]
+[EventDate "2000.??.??"]
+[Round "2"]
+[Result "1-0"]
+[White "Fritz (Computer)"]
+[Black "Manuel Bosboom"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "2461"]
+[PlyCount "7"]
+
+1. d4 c6 2. c4 d6 3. Nf3 Bg4 4. Nc3 1-0
