@@ -1,0 +1,14 @@
+[Event "Arctic Chess Challenge"]
+[Site "Tromso NOR"]
+[Date "2009.08.01"]
+[EventDate "2009.08.01"]
+[Round "1"]
+[Result "0-1"]
+[White "Leon De Beer"]
+[Black "Peter S Poobalasingam"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "2224"]
+[PlyCount "44"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 Bg7 5. Qd2 h6 6. h4 a6 7. g3 Bf5 8. Bg2 Nbd7 9. Ne5 Nf8 10. g4 Bxg4 11. Nxg4 Nxg4 12. Nxd5 Ne6 13. e3 c6 14. Nb4 Nxf4 15. exf4 Qxd4 16. Nxc6 Qc5 17. O-O-O O-O 18. Nd4 Rad8 19. Ne6 fxe6 20. Qxd8 Rxd8 21. Rxd8+ Kf7 22. Bxb7 Qb6 0-1
