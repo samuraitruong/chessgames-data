@@ -4437,7 +4437,8 @@
     "name": "SANAL, Vahap",
     "year": "2007-2023",
     "games": 822,
-    "id": "129541"
+    "id": "129541",
+    "synced": true
   },
   {
     "higestRating": 2664,
@@ -7320,7 +7321,8 @@
     "name": "MORADIABADI, Elshan",
     "year": "1999-2023",
     "games": 538,
-    "id": "51258"
+    "id": "51258",
+    "synced": true
   },
   {
     "higestRating": 2610,
@@ -14215,7 +14217,8 @@
     "name": "KUPKA, Slavoj",
     "year": "1959-2001",
     "games": 279,
-    "id": "28022"
+    "id": "28022",
+    "synced": true
   },
   {
     "higestRating": 2450,
@@ -22127,7 +22130,8 @@
     "name": "HAUSMAN, Walter Ader",
     "year": "1945-1972",
     "games": 171,
-    "id": "23528"
+    "id": "23528",
+    "synced": true
   },
   {
     "higestRating": 2452,
@@ -27355,7 +27359,8 @@
     "name": "ANDRIASYAN, Siranush",
     "year": "1995-2017",
     "games": 131,
-    "id": "54822"
+    "id": "54822",
+    "synced": true
   },
   {
     "higestRating": 2515,
@@ -32127,7 +32132,8 @@
     "name": "SEYB, Alexander",
     "year": "2006-2022",
     "games": 107,
-    "id": "106768"
+    "id": "106768",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -52775,7 +52781,8 @@
     "name": "BRATOVIC, Blaz",
     "year": "1998-2022",
     "games": 55,
-    "id": "50262"
+    "id": "50262",
+    "synced": true
   },
   {
     "higestRating": 2211,
@@ -57982,7 +57989,8 @@
     "name": "WACHINGER, Nikolas",
     "year": "2017-2023",
     "games": 48,
-    "id": "160133"
+    "id": "160133",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -73377,7 +73385,8 @@
     "name": "TOBARES, Leandro",
     "year": "1997-2012",
     "games": 32,
-    "id": "96622"
+    "id": "96622",
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -79737,7 +79746,8 @@
     "name": "REYES, Jose Antonio Herrera",
     "year": "2009-2019",
     "games": 28,
-    "id": "162646"
+    "id": "162646",
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -88389,7 +88399,8 @@
     "name": "MARTINEZ, Cristhian Montero",
     "year": "1980-2017",
     "games": 22,
-    "id": "45223"
+    "id": "45223",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -99345,7 +99356,8 @@
     "name": "GUIDEZ, Yann-Michael",
     "year": "1986-2011",
     "games": 17,
-    "id": "43896"
+    "id": "43896",
+    "synced": true
   },
   {
     "higestRating": 2441,
@@ -102295,7 +102307,8 @@
     "name": "KAUPPILA, Osmo",
     "year": "1999-2017",
     "games": 16,
-    "id": "64265"
+    "id": "64265",
+    "synced": true
   },
   {
     "higestRating": 2237,
@@ -109974,7 +109987,8 @@
     "name": "TAN, Oscar L",
     "year": "1996-2009",
     "games": 8,
-    "id": "114639"
+    "id": "114639",
+    "synced": true
   },
   {
     "higestRating": 2303,
@@ -112808,7 +112822,8 @@
     "name": "SAY, Frank J",
     "year": "1993",
     "games": 1,
-    "id": "21678"
+    "id": "21678",
+    "synced": true
   },
   {
     "higestRating": 2215,
