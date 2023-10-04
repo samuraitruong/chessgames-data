@@ -1,0 +1,15 @@
+[Event "Chess Olympiad"]
+[Site "Dubai UAE"]
+[Date "1986.11.15"]
+[EventDate "1986.11.15"]
+[Round "1"]
+[Result "0-1"]
+[White "Simon Le Blancq"]
+[Black "Helgi Olafsson"]
+[ECO "E12"]
+[WhiteElo "2270"]
+[BlackElo "2560"]
+[Source "Olimpbase"]
+[PlyCount "42"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.a3 c5 5.e3 g6 6.Be2 Bg7 7.O-O O-O 8.Nc3 Bb7 9. b3 d5 10.cxd5 Nxd5 11.Bb2 Nc6 12.Na4 cxd4 13.Nxd4 Nxd4 14.Bxd4 Qg5 15.g3 Rfd8 16.h4 Qe7 17.Bxg7 Kxg7 18.Qd4+ e5 19.Qb2 Nf6 20.Rfd1 Qe6 21.Rac1 Qh3 0-1

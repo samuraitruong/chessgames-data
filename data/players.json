@@ -1793,7 +1793,8 @@
     "name": "PETURSSON, Margeir",
     "year": "1975-2023",
     "games": 1366,
-    "id": "15512"
+    "id": "15512",
+    "synced": true
   },
   {
     "higestRating": 2570,
@@ -7020,7 +7021,8 @@
     "name": "DRAGNEV, Valentin",
     "year": "2014-2023",
     "games": 567,
-    "id": "152143"
+    "id": "152143",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -16773,7 +16775,8 @@
     "name": "HVENEKILDE, Jorgen",
     "year": "1962-2015",
     "games": 232,
-    "id": "32475"
+    "id": "32475",
+    "synced": true
   },
   {
     "higestRating": 2475,
@@ -24898,7 +24901,8 @@
     "name": "LEE, Graham D",
     "year": "1963-2012",
     "games": 149,
-    "id": "46632"
+    "id": "46632",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -44705,7 +44709,8 @@
     "name": "BLANCQ, Simon Le",
     "year": "1982-1991",
     "games": 70,
-    "id": "28111"
+    "id": "28111",
+    "synced": true
   },
   {
     "higestRating": 2323,
@@ -48809,7 +48814,8 @@
     "name": "KIRPICHNIKOV, Vladimir",
     "year": "1966-2001",
     "games": 62,
-    "id": "42450"
+    "id": "42450",
+    "synced": true
   },
   {
     "higestRating": 2378,
@@ -49889,7 +49895,8 @@
     "name": "MASSE, Hugues",
     "year": "2001-2017",
     "games": 60,
-    "id": "51422"
+    "id": "51422",
+    "synced": true
   },
   {
     "higestRating": 2249,
@@ -70045,7 +70052,8 @@
     "name": "SKOUSEN, Nikolai",
     "year": "1990-2018",
     "games": 35,
-    "id": "121058"
+    "id": "121058",
+    "synced": true
   },
   {
     "higestRating": 2361,
