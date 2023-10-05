@@ -1,0 +1,14 @@
+[Event "68th US Open"]
+[Site "Atlanta, GA USA"]
+[Date "1967.08.20"]
+[EventDate "1967.08.13"]
+[Round "7"]
+[Result "1-0"]
+[White "Louis Levy"]
+[Black "Bill Wheeler"]
+[ECO "C34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 d6 4.Bc4 h6 5.h4 Nf6 6.Nc3 Bg4 7.d4 Nh5 8.Ne5 dxe5 9.Qxg4 Nf6 10.Qf5 Qxd4 11.Qc8+ Qd8 12.Bxf7+ Ke7 13.Qe6# 1-0
