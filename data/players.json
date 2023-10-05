@@ -44,7 +44,8 @@
     "name": "ARONIAN, Levon",
     "year": "1993-2023",
     "games": 3849,
-    "id": "17316"
+    "id": "17316",
+    "synced": true
   },
   {
     "higestRating": 2780,
@@ -16057,7 +16058,8 @@
     "name": "DIMAKILING, Oliver",
     "year": "2005-2022",
     "games": 247,
-    "id": "102318"
+    "id": "102318",
+    "synced": true
   },
   {
     "higestRating": 2514,
@@ -16416,7 +16418,8 @@
     "name": "SALAMANCA, Antonio Gamundi",
     "year": "1989-2023",
     "games": 239,
-    "id": "88162"
+    "id": "88162",
+    "synced": true
   },
   {
     "higestRating": 2612,
@@ -17315,7 +17318,8 @@
     "name": "CARDOSO, Rodolfo Tan",
     "year": "1956-1980",
     "games": 225,
-    "id": "21481"
+    "id": "21481",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -18082,7 +18086,8 @@
     "name": "GARCIA, Rodney Oscar Perez",
     "year": "1992-2022",
     "games": 215,
-    "id": "49092"
+    "id": "49092",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -55656,7 +55661,8 @@
     "name": "MAZURKIEWICZ, Michal",
     "year": "2001-2021",
     "games": 51,
-    "id": "110963"
+    "id": "110963",
+    "synced": true
   },
   {
     "higestRating": 2248,
@@ -79643,7 +79649,8 @@
     "name": "ROMANENKO, Vladimir",
     "year": "2009-2012",
     "games": 28,
-    "id": "124557"
+    "id": "124557",
+    "synced": true
   },
   {
     "higestRating": 2224,
