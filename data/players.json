@@ -5916,7 +5916,8 @@
     "name": "DODA, Zbigniew",
     "year": "1953-1988",
     "games": 668,
-    "id": "16105"
+    "id": "16105",
+    "synced": true
   },
   {
     "higestRating": 2592,
@@ -15776,7 +15777,8 @@
     "name": "CICAK, Slavko",
     "year": "1988-2017",
     "games": 251,
-    "id": "24056"
+    "id": "24056",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -18807,7 +18809,8 @@
     "name": "RUSEV, Krasimir",
     "year": "1993-2019",
     "games": 208,
-    "id": "48978"
+    "id": "48978",
+    "synced": true
   },
   {
     "higestRating": 2432,
@@ -20714,7 +20717,8 @@
     "name": "CHUPROV, Dmitry",
     "year": "1993-2011",
     "games": 185,
-    "id": "42817"
+    "id": "42817",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -23646,7 +23650,8 @@
     "name": "URAZAYEV, Arystanbek",
     "year": "2015-2023",
     "games": 159,
-    "id": "155655"
+    "id": "155655",
+    "synced": true
   },
   {
     "higestRating": 2446,
@@ -29034,7 +29039,8 @@
     "name": "HOPMAN, Pieter",
     "year": "1993-2017",
     "games": 121,
-    "id": "51024"
+    "id": "51024",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -37826,7 +37832,8 @@
     "name": "MIRZOEV, Emil",
     "year": "2015-2022",
     "games": 88,
-    "id": "155865"
+    "id": "155865",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -42110,7 +42117,8 @@
     "name": "TAHBAZ, Arash",
     "year": "2015-2022",
     "games": 77,
-    "id": "157069"
+    "id": "157069",
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -45319,7 +45327,8 @@
     "name": "ADLER, Joel",
     "year": "1984-2006",
     "games": 69,
-    "id": "22345"
+    "id": "22345",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -45396,7 +45405,8 @@
     "name": "KIVISTO, Mikko",
     "year": "1981-2007",
     "games": 69,
-    "id": "35322"
+    "id": "35322",
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -68304,7 +68314,8 @@
     "name": "NASSR, Ali",
     "year": "2012-2022",
     "games": 37,
-    "id": "140145"
+    "id": "140145",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -71083,7 +71094,8 @@
     "name": "VUKANOVIC, Sasa",
     "year": "1989-2006",
     "games": 34,
-    "id": "63188"
+    "id": "63188",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -74774,7 +74786,8 @@
     "name": "KOSIOREK, Marek",
     "year": "1994-2019",
     "games": 31,
-    "id": "54468"
+    "id": "54468",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -80400,7 +80413,8 @@
     "name": "WAQAR, Mohamed",
     "year": "1991-2008",
     "games": 27,
-    "id": "38726"
+    "id": "38726",
+    "synced": true
   },
   {
     "higestRating": 2209,
@@ -81751,7 +81765,8 @@
     "name": "AVNI, Amatzia",
     "year": "1981-1995",
     "games": 26,
-    "id": "26783"
+    "id": "26783",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -82747,7 +82762,8 @@
     "name": "TOKARSKI, Lukasz",
     "year": "2005-2013",
     "games": 26,
-    "id": "110961"
+    "id": "110961",
+    "synced": true
   },
   {
     "higestRating": 2296,
@@ -104509,7 +104525,8 @@
     "name": "FALCON, Benjamin",
     "year": "2017-2018",
     "games": 16,
-    "id": "158434"
+    "id": "158434",
+    "synced": true
   },
   {
     "higestRating": 2412,
@@ -106651,7 +106668,8 @@
     "name": "OSSA, Orlando Jose",
     "year": "2007-2009",
     "games": 15,
-    "id": "118560"
+    "id": "118560",
+    "synced": true
   },
   {
     "higestRating": 2358,
@@ -109451,7 +109469,8 @@
     "name": "HUGHEY, Micah",
     "year": "2003-2009",
     "games": 10,
-    "id": "84097"
+    "id": "84097",
+    "synced": true
   },
   {
     "higestRating": 2220,
