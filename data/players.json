@@ -154,7 +154,8 @@
     "name": "HORT, Vlastimil",
     "year": "1959-2020",
     "games": 3098,
-    "id": "11743"
+    "id": "11743",
+    "synced": true
   },
   {
     "higestRating": 2711,
@@ -1663,7 +1664,8 @@
     "name": "HOWELL, David",
     "year": "1998-2023",
     "games": 1441,
-    "id": "54691"
+    "id": "54691",
+    "synced": true
   },
   {
     "higestRating": 2585,
@@ -18936,7 +18938,8 @@
     "name": "BARTEL, Marta",
     "year": "2003-2022",
     "games": 207,
-    "id": "102262"
+    "id": "102262",
+    "synced": true
   },
   {
     "higestRating": 2505,
@@ -55893,7 +55896,8 @@
     "name": "MATSENKO, Andrei",
     "year": "2009-2022",
     "games": 51,
-    "id": "131992"
+    "id": "131992",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -58316,7 +58320,8 @@
     "name": "ABDILKHAIR, Abilmansur",
     "year": "2017-2023",
     "games": 48,
-    "id": "157425"
+    "id": "157425",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -66401,7 +66406,8 @@
     "name": "TARLABASI, Emirhan",
     "year": "2012-2023",
     "games": 39,
-    "id": "140216"
+    "id": "140216",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -67871,7 +67877,8 @@
     "name": "BATYROV, Sapar",
     "year": "1996-2008",
     "games": 37,
-    "id": "53984"
+    "id": "53984",
+    "synced": true
   },
   {
     "higestRating": 2378,
@@ -88158,7 +88165,8 @@
     "name": "KHADEMI, Mohammad Miran",
     "year": "2007-2017",
     "games": 23,
-    "id": "126958"
+    "id": "126958",
+    "synced": true
   },
   {
     "higestRating": 2201,
@@ -111104,7 +111112,8 @@
     "name": "PAMUNGKAS, Junaid",
     "year": "2007-2012",
     "games": 7,
-    "id": "125136"
+    "id": "125136",
+    "synced": true
   },
   {
     "higestRating": 2217,
@@ -113520,7 +113529,8 @@
     "name": "BROWN, John R",
     "year": "2001",
     "games": 1,
-    "id": "52024"
+    "id": "52024",
+    "synced": true
   },
   {
     "higestRating": 2251,

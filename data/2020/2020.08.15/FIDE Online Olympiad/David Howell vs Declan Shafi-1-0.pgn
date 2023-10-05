@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.15"]
+[EventDate "2020.08.14"]
+[Round "5"]
+[Result "1-0"]
+[White "David Howell"]
+[Black "Declan Shafi"]
+[ECO "E60"]
+[WhiteElo "2624"]
+[BlackElo "2166"]
+[Source "Chess-Results"]
+[PlyCount "69"]
+
+1. c4 g6 2. d4 Nf6 3. g3 c6 4. Nf3 d5 5. Bg2 Bg7 6. b3 dxc4 7. bxc4 c5 8. Bb2 cxd4 9. Nxd4 O-O 10. O-O Qb6 11. Qc1 Nbd7 12. Rd1 Nc5 13. Nc3 e5 14. Nc2 Bd7 15. Rb1 Qc7 16. Nb4 Rae8 17. Qe3 Bf5 18. Nbd5 Qc8 19. Nxf6+ Bxf6 20. Nd5 Bg7 21. Ba3 b6 22. Bxc5 bxc5 23. Rb7 Bd7 24. Rxd7 Kh8 25. Rxa7 f5 26. Ra5 Qd8 27. Qxc5 Qg5 28. Ra7 f4 29. Qc7 Rg8 30. Ne7 Rgf8 31. Nd5 Rg8 32. Ne7 Rgf8 33. Be4 Rf7 34. Nxg6+ Qxg6 35. Qxf7 1-0
