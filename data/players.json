@@ -866,7 +866,8 @@
     "name": "KEENE, Raymond",
     "year": "1960-2012",
     "games": 1824,
-    "id": "15438"
+    "id": "15438",
+    "synced": true
   },
   {
     "higestRating": 2724,
@@ -15082,7 +15083,8 @@
     "name": "REPKOVA, Eva",
     "year": "1991-2023",
     "games": 264,
-    "id": "26777"
+    "id": "26777",
+    "synced": true
   },
   {
     "higestRating": 2358,
@@ -17505,7 +17507,8 @@
     "name": "JAMIESON, Robert Murray",
     "year": "1971-1999",
     "games": 223,
-    "id": "26667"
+    "id": "26667",
+    "synced": true
   },
   {
     "higestRating": 2489,
@@ -22603,7 +22606,8 @@
     "name": "ACOSTA, Bernal Gonzalez",
     "year": "1978-2018",
     "games": 168,
-    "id": "49567"
+    "id": "49567",
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -23148,7 +23152,8 @@
     "name": "YANKELEVICH, Lev",
     "year": "2012-2023",
     "games": 164,
-    "id": "139521"
+    "id": "139521",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -33365,7 +33370,8 @@
     "name": "CORVI, Marco",
     "year": "1988-2018",
     "games": 103,
-    "id": "44494"
+    "id": "44494",
+    "synced": true
   },
   {
     "higestRating": 2492,
@@ -39344,7 +39350,8 @@
     "name": "KULKARNI, Vikramaditya",
     "year": "1998-2022",
     "games": 83,
-    "id": "36820"
+    "id": "36820",
+    "synced": true
   },
   {
     "higestRating": 2353,
@@ -57354,7 +57361,8 @@
     "name": "FRENCH, Max",
     "year": "2013-2020",
     "games": 49,
-    "id": "148620"
+    "id": "148620",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -77343,7 +77351,8 @@
     "name": "MILICEVIC, Miodrag",
     "year": "1961-1993",
     "games": 29,
-    "id": "26650"
+    "id": "26650",
+    "synced": true
   },
   {
     "higestRating": 2288,
@@ -78810,7 +78819,8 @@
     "name": "NEIDHARDT, Claus-Ulrich",
     "year": "1990-2001",
     "games": 28,
-    "id": "14016"
+    "id": "14016",
+    "synced": true
   },
   {
     "higestRating": 2254,
@@ -90295,7 +90305,8 @@
     "name": "AHMAD, Ali Syed",
     "year": "2014-2016",
     "games": 22,
-    "id": "150793"
+    "id": "150793",
+    "synced": true
   },
   {
     "higestRating": 2388,
@@ -95789,7 +95800,8 @@
     "name": "HAENSEL, Thomas",
     "year": "1998-2004",
     "games": 19,
-    "id": "71741"
+    "id": "71741",
+    "synced": true
   },
   {
     "higestRating": 2298,
@@ -96875,7 +96887,8 @@
     "name": "TRKULJA, Zoran",
     "year": "1998-2016",
     "games": 19,
-    "id": "142701"
+    "id": "142701",
+    "synced": true
   },
   {
     "higestRating": 2243,
@@ -101187,7 +101200,8 @@
     "name": "ADELBERG, David",
     "year": "2008-2012",
     "games": 17,
-    "id": "119901"
+    "id": "119901",
+    "synced": true
   },
   {
     "higestRating": 2276,

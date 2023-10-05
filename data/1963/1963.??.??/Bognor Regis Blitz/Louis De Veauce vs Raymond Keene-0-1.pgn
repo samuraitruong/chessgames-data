@@ -1,0 +1,14 @@
+[Event "Bognor Regis Blitz"]
+[Site "Bognor Regis ENG"]
+[Date "1963.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Louis De Veauce"]
+[Black "Raymond Keene"]
+[ECO "A02"]
+[WhiteElo "2300"]
+[BlackElo "2455"]
+[PlyCount "14"]
+
+1.f4 e5 2.fxe5 d6 3.exd6 Bf5 4.dxc7 Qxc7 5.Nc3 Bd6 6.Nb5 Bg3+ 7.hxg3 Qxg3# 0-1
