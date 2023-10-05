@@ -3515,7 +3515,8 @@
     "name": "FEDOROV, Alexei",
     "year": "1992-2023",
     "games": 974,
-    "id": "10754"
+    "id": "10754",
+    "synced": true
   },
   {
     "higestRating": 2660,
@@ -20211,7 +20212,8 @@
     "name": "SWAYAMS, Mishra",
     "year": "2010-2020",
     "games": 192,
-    "id": "131265"
+    "id": "131265",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -21679,7 +21681,8 @@
     "name": "SLIWICKA, Alicja",
     "year": "2012-2023",
     "games": 177,
-    "id": "142105"
+    "id": "142105",
+    "synced": true
   },
   {
     "higestRating": 2523,
@@ -28714,7 +28717,8 @@
     "name": "SYLVAN, Jacob",
     "year": "1991-2021",
     "games": 123,
-    "id": "50731"
+    "id": "50731",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -29460,7 +29464,8 @@
     "name": "BRAUN, Gottfried",
     "year": "1957-2007",
     "games": 119,
-    "id": "26302"
+    "id": "26302",
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -33692,7 +33697,8 @@
     "name": "GOLIZADEH, Asghar",
     "year": "2006-2017",
     "games": 102,
-    "id": "107186"
+    "id": "107186",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -50748,7 +50754,8 @@
     "name": "HAITIN, Ilja",
     "year": "2001-2020",
     "games": 59,
-    "id": "51510"
+    "id": "51510",
+    "synced": true
   },
   {
     "higestRating": 2303,
@@ -56430,7 +56437,8 @@
     "name": "MOSER, Guenter",
     "year": "1984-2019",
     "games": 50,
-    "id": "87413"
+    "id": "87413",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -64133,7 +64141,8 @@
     "name": "MUSSANTI, Diego",
     "year": "1992-2018",
     "games": 41,
-    "id": "74293"
+    "id": "74293",
+    "synced": true
   },
   {
     "higestRating": 2442,
@@ -65193,7 +65202,8 @@
     "name": "MORSHEDI, Ali",
     "year": "1999-2018",
     "games": 40,
-    "id": "80886"
+    "id": "80886",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -68970,7 +68980,8 @@
     "name": "ACERS, Jude",
     "year": "1960-2013",
     "games": 36,
-    "id": "73320"
+    "id": "73320",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -73519,7 +73530,8 @@
     "name": "NAZAROV, Anvar",
     "year": "1990-2010",
     "games": 32,
-    "id": "53012"
+    "id": "53012",
+    "synced": true
   },
   {
     "higestRating": 2238,
@@ -79905,7 +79917,8 @@
     "name": "VAN KERKHOF, David",
     "year": "2005-2019",
     "games": 28,
-    "id": "129464"
+    "id": "129464",
+    "synced": true
   },
   {
     "higestRating": 2238,
@@ -85366,7 +85379,8 @@
     "name": "ZISMAN, Boris",
     "year": "1992-2004",
     "games": 24,
-    "id": "15639"
+    "id": "15639",
+    "synced": true
   },
   {
     "higestRating": 2268,
@@ -86038,7 +86052,8 @@
     "name": "ABDULLAEV, Mahish",
     "year": "2000-2004",
     "games": 24,
-    "id": "74230"
+    "id": "74230",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -90828,7 +90843,8 @@
     "name": "SOUTH, Robert",
     "year": "1975-1992",
     "games": 21,
-    "id": "44009"
+    "id": "44009",
+    "synced": true
   },
   {
     "higestRating": 2224,
@@ -100129,7 +100145,8 @@
     "name": "MOUROUTIS, Konstantinos",
     "year": "2000-2011",
     "games": 17,
-    "id": "54382"
+    "id": "54382",
+    "synced": true
   },
   {
     "higestRating": 2209,

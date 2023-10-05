@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.22"]
+[EventDate "2020.08.21"]
+[Round "4"]
+[Result "1-0"]
+[White "Alicja Sliwicka"]
+[Black "Paula Oviedo Acosta"]
+[ECO "B42"]
+[WhiteElo "2059"]
+[BlackElo "1311"]
+[Source "Chess-Results"]
+[PlyCount "27"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Be7 7. O-O d6 8. f4 Nd7 9. Nc3 Ngf6 10. Qf3 Qc7 11. Bd2 O-O 12. Rae1 e5 13. Kh1 b5 14. Nd5 1-0
