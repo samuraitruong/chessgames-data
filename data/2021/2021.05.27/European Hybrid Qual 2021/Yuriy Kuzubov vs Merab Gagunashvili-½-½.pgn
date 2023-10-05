@@ -2,13 +2,13 @@
 [Site "Tornelo INT"]
 [Date "2021.05.27"]
 [EventDate "?"]
-[Round "2.2"]
+[Round "2.3"]
 [Result "1/2-1/2"]
 [White "Yuriy Kuzubov"]
 [Black "Merab Gagunashvili"]
-[ECO "A07"]
+[ECO "C78"]
 [WhiteElo "2642"]
 [BlackElo "2584"]
-[PlyCount "24"]
+[PlyCount "110"]
 
-1. Nf3 d5 2. g3 g6 3. c4 c6 4. Qa4 d4 5. d3 Bg7 6. Bg2 Nf6 7. O-O O-O 8. Bg5 Nbd7 9. Qc2 h6 10. Bxf6 Nxf6 11. Nbd2 Re8 12. b4 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. axb5 axb5 9. d3 O-O 10. Nc3 h6 11. Ne2 d6 12. h3 d5 13. exd5 Nxd5 14. d4 exd4 15. Nexd4 Nxd4 16. Nxd4 Rb6 17. c3 Bb7 18. Bc2 Nb4 19. cxb4 Bxd4 20. Ra3 Qh4 21. Qg4 Qxg4 22. hxg4 Re8 23. Rd3 Rd6 24. Rfd1 Be5 25. Rxd6 Bxd6 26. Bd2 Kf8 27. Kf1 Be4 28. Rc1 Bxc2 29. Rxc2 Re4 30. f3 Rd4 31. Ke2 Bxb4 32. Be3 Rc4 33. Rxc4 bxc4 34. Bd4 c5 35. Be5 g6 36. f4 f5 37. Kf3 Kf7 38. Bh8 Bd2 39. Bc3 Bxc3 40. bxc3 Kf6 41. gxf5 Kxf5 42. g4+ Kf6 43. Kg3 Ke6 44. Kf3 Kd5 45. Ke3 Kd6 46. Kf3 Ke6 47. Ke4 h5 48. Kf3 Kd5 49. f5 hxg4+ 50. Kxg4 gxf5+ 51. Kxf5 Kd6 52. Kf6 Kd5 53. Kf5 Kd6 54. Kf6 Kd5 55. Kf5 1/2-1/2
