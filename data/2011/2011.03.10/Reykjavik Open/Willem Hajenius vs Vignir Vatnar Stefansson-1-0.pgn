@@ -1,0 +1,14 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2011.03.10"]
+[EventDate "2011.03.09"]
+[Round "2.75"]
+[Result "1-0"]
+[White "Willem Hajenius"]
+[Black "Vignir Vatnar Stefansson"]
+[ECO "D31"]
+[WhiteElo "2028"]
+[BlackElo "1501"]
+[PlyCount "25"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 Bb4 5. e5 Bxc3+ 6. bxc3 Nd7 7. Nf3 Ne7 8. cxd5 cxd5 9. Bd3 O-O 10. Bxh7+ Kxh7 11. Ng5+ Kg8 12. Qh5 f6 13. Qh7# 1-0

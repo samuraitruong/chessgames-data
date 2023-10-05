@@ -437,7 +437,8 @@
     "name": "STEFANOVA, Antoaneta",
     "year": "1989-2023",
     "games": 2276,
-    "id": "44272"
+    "id": "44272",
+    "synced": true
   },
   {
     "higestRating": 2550,
@@ -20143,7 +20144,8 @@
     "name": "STEFANSSON, Vignir Vatnar",
     "year": "2011-2023",
     "games": 193,
-    "id": "129027"
+    "id": "129027",
+    "synced": true
   },
   {
     "higestRating": 2493,
