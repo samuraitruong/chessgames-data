@@ -1,0 +1,14 @@
+[Event "88th US Open"]
+[Site "Portland, OR USA"]
+[Date "1987.08.09"]
+[EventDate "1987.08.02"]
+[Round "7"]
+[Result "1-0"]
+[White "Kenneth Larsen"]
+[Black "Peter Yu"]
+[ECO "E61"]
+[WhiteElo "2388"]
+[BlackElo "2174"]
+[PlyCount "31"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.g3 O-O 5.Bg2 d6 6.Nf3 c6 7.O-O Nbd7 8.h3 a6 9.a4 Rb8 10.e4 e5 11.Be3 Re8 12.Qc2 Nf8 13.Rfd1 Bd7 14.a5 b5 15.axb6 Qxb6 16.dxe5 1-0

@@ -1,0 +1,15 @@
+[Event "AUS-ch 1991-92"]
+[Site "Melbourne AUS"]
+[Date "1992.01.07"]
+[EventDate "1991.12.28"]
+[Round "9"]
+[Result "1-0"]
+[White "Alan D Goldsmith"]
+[Black "Matthew Drummond"]
+[ECO "D80"]
+[WhiteElo "1919"]
+[BlackElo "2222"]
+[Source "New in Chess"]
+[PlyCount "42"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4 5.cxd5 Nxg5 6.h4 e6 7.hxg5 exd5 8.Qb3 c6 9.e4 Bg7 10.Nf3 O-O 11.Rh4 dxe4 12.Nxe4 Qa5+ 13.Nfd2 b5 14.O-O-O Be6 15.Qf3 Qxa2 16.Bd3 c5 17.Rxh7 Nd7 18.Nf6+ Bxf6 19.gxf6 Rfc8 20.d5 Qxd5 21.Rdh1 1-0
