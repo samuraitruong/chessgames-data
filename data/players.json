@@ -718,7 +718,8 @@
     "name": "SMEJKAL, Jan",
     "year": "1960-2001",
     "games": 1944,
-    "id": "29727"
+    "id": "29727",
+    "synced": true
   },
   {
     "higestRating": 2643,
@@ -51533,7 +51534,8 @@
     "name": "VAN KETEL, Raoul",
     "year": "2001-2019",
     "games": 58,
-    "id": "106177"
+    "id": "106177",
+    "synced": true
   },
   {
     "higestRating": 2386,
