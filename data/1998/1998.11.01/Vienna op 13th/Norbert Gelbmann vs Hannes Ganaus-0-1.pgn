@@ -1,0 +1,14 @@
+[Event "Vienna op 13th"]
+[Site "Vienna AUT"]
+[Date "1998.11.01"]
+[EventDate "1998.10.25"]
+[Round "8"]
+[Result "0-1"]
+[White "Norbert Gelbmann"]
+[Black "Hannes Ganaus"]
+[ECO "C18"]
+[WhiteElo "2250"]
+[BlackElo "2245"]
+[PlyCount "40"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Nc6 7. h4 Bd7 8. h5 h6 9. Qg4 Nge7 10. Qxg7 Rg8 11. Qxh6 cxd4 12. cxd4 Nxd4 13. Bd3 Qc7 14. Kf1 Ba4 15. Qf4 Qc3 16. Ne2 Nxe2 17. Qxa4+ Nc6 18. Qb5 Qxa1 19. Qxb7 Qxc1+ 20. Kxe2 Nd4# 0-1
