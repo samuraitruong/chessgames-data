@@ -1,0 +1,14 @@
+[Event "Sant Cebria Open"]
+[Site "Sant Cebria"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joel Sole Rojals"]
+[Black "Josep Manuel Lopez Martinez"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "2355"]
+[PlyCount "31"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd8 4.Nf3 Qd6 5.d4 Qe6+ 6.Be3 Nc6 7.d5 Qd6 8.dxc6 Qxc6 9.Bb5 Bg4 10.Bxc6+ bxc6 11.Qd4 Bxf3 12.gxf3 e6 13.O-O-O Nf6 14.Bg5 h6 15.Bxf6 gxf6 16.Qd7# 1-0
