@@ -1,0 +1,14 @@
+[Event "Offhand game"]
+[Site "Chicago, IL USA"]
+[Date "2019.10.01"]
+[EventDate "2019.10.01"]
+[Round "?"]
+[Result "0-1"]
+[White "Robert S Robinson"]
+[Black "Frederick Rhine"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.e4 c5 2.c4 Nc6 3.Nc3 g6 4.d4 cxd4 5.Nce2 Bg7 6.b3 e5 7.Bb2 Nf6 8.Nf3 Nxe4 9.Nxe5 Bxe5 10.Nxd4 Qa5+ 11.b4 Qxb4+ 12.Ke2 Qxb2+ 13.Kf3 Qxf2+ 14.Kxe4 d5+ 15.Kxd5 Be6+ 16.Kc5 Bxd4+ 17.Kd6 O-O-O# 0-1

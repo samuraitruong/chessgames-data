@@ -1,0 +1,14 @@
+[Event "Internet blitz game"]
+[Site "playchess.com"]
+[Date "2014.12.16"]
+[EventDate "2014.12.16"]
+[Round "?"]
+[Result "1-0"]
+[White "Frederick Rhine"]
+[Black "NN"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.d4 e6 2.c4 c6 3.Nc3 Ne7 4.e4 g6 5.e5 Nf5 6.g4 Nh4 7.Ne4 Bg7 8.Nd6+ Ke7 9.Bg5+ f6 10.Bxh4 Qa5+ 11.Qd2 Qc7 12.exf6+ Bxf6 13.Bxf6+ Kxf6 14.Qf4+ Ke7 15.Qf7+ Kxd6 16.c5+ Kd5 17.Qf3+ Kxd4 18.Qe3+ Kd5 19.O-O-O# 1-0

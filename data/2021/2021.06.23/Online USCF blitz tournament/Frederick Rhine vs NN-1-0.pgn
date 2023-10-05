@@ -1,0 +1,14 @@
+[Event "Online USCF blitz tournament"]
+[Site "chess.com"]
+[Date "2021.06.23"]
+[EventDate "2021.06.23"]
+[Round "6"]
+[Result "1-0"]
+[White "Frederick Rhine"]
+[Black "NN"]
+[ECO "C41"]
+[WhiteElo "2173"]
+[BlackElo "2001"]
+[PlyCount "20"]
+
+1.d4 d6 2.e4 e5 3.Nf3 Nd7 4.Bc4 Be7 5.dxe5 dxe5 6.Qd5 Nb6 7.Qxf7+ Kd7 8.Nxe5+ Kd6 9.Bf4 Nxc4 10.Qd5# 1-0

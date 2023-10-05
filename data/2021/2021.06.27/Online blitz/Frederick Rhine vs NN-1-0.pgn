@@ -1,0 +1,14 @@
+[Event "Online blitz"]
+[Site "play.chessbase.com"]
+[Date "2021.06.27"]
+[EventDate "2021.06.27"]
+[Round "?"]
+[Result "1-0"]
+[White "Frederick Rhine"]
+[Black "NN"]
+[ECO "D06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.d4 d5 2.c4 Nf6 3.cxd5 Nxd5 4.Nf3 e6 5.e4 Nf6 6.Nc3 Bb4 7.Bd3 O-O 8.e5 Nd5 9.Bxh7+ Kxh7 10.Ng5+ Kg6 11.h4 Nxc3 12.h5+ Kf5 13.g4# 1-0

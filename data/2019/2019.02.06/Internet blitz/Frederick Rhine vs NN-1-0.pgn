@@ -1,0 +1,14 @@
+[Event "Internet blitz"]
+[Site "lichess"]
+[Date "2019.02.06"]
+[EventDate "2019.02.06"]
+[Round "?"]
+[Result "1-0"]
+[White "Frederick Rhine"]
+[Black "NN"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "17"]
+
+1.e4 Nc6 2.Nf3 d6 3.d4 Bg4 4.d5 Ne5 5.Nxe5 Bxd1 6.Bb5+ c6 7.dxc6 dxe5 8.cxb7+ Qd7 9.bxa8=R# 1-0

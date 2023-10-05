@@ -1,0 +1,14 @@
+[Event "Internet blitz"]
+[Site "chess24.com"]
+[Date "2019.12.07"]
+[EventDate "2019.12.07"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Frederick Rhine"]
+[ECO "A46"]
+[WhiteElo "2543"]
+[BlackElo "2424"]
+[PlyCount "22"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 c5 4.Bd3 g5 5.Nxg5 c4 6.Bxc4 Qa5+ 7.Bd2 Qxg5 8.g3 d5 9.e4 Qg6 10.exd5 Qe4+ 11.Be3 Qxh1+ 0-1

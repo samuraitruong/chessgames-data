@@ -1,0 +1,14 @@
+[Event "Internet blitz"]
+[Site "lichess"]
+[Date "2017.11.17"]
+[EventDate "2017.11.17"]
+[Round "?"]
+[Result "1-0"]
+[White "Frederick Rhine"]
+[Black "NN"]
+[ECO "D06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1.d4 d5 2.c4 Nf6 3.cxd5 Nxd5 4.Nf3 Nc6 5.e4 Nb6 6.Nc3 Bg4 7.d5 Ne5 8.Nxe5 Bxd1 9.Bb5+ c6 10.dxc6 Qc7 11.cxb7+ Kd8 12.Nxf7# 1-0

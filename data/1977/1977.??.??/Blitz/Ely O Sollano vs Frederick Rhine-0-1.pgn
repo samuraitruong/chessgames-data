@@ -1,0 +1,14 @@
+[Event "Blitz"]
+[Site "Chicago, IL USA"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ely O Sollano"]
+[Black "Frederick Rhine"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.d4 Nf6 2.Nc3 d5 3.Bg5 c5 4.Bxf6 exf6 5. dxc5 d4 6.Ne4 Bf5 7.Ng3 Bxc5 8.Nxf5 Qa5+ 9.c3 dxc3 10.b4 Bxb4 11.Qc2 Qxf5 12.Qxf5 c2# 0-1

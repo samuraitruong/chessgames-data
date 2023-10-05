@@ -1,0 +1,15 @@
+[Event "Online blitz"]
+[Site "play.chessbase.com"]
+[Date "2022.09.07"]
+[EventDate "2022.09.07"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Frederick Rhine"]
+[ECO "A50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "play.chessbase.com"]
+[PlyCount "18"]
+
+1.d4 Nf6 2.c4 Nc6 3.d5 Ne5 4.b3 e6 5.Nc3 Bb4 6.Bd2 exd5 7.Nxd5 Nxd5 8.cxd5 Qe7 9.Nf3 Nd3# 0-1

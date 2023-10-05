@@ -1,0 +1,15 @@
+[Event "Online rapid"]
+[Site "chess24.com"]
+[Date "2022.12.26"]
+[EventDate "2022.12.26"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Frederick Rhine"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "chess24.com"]
+[PlyCount "48"]
+
+1.e4 c5 2.Bc4 e6 3.Nf3 a6 4.a3 d5 5.exd5 exd5 6.Ba2 Qe7+ 7.Qe2 Qxe2+ 8.Kxe2 Nf6 9.Re1 Nc6 10.Kf1+ Be7 11.c3 Bf5 12.Ne5 Nxe5 13.Rxe5 Bd3+ 14.Kg1 O-O-O 15.b4 Bd6 16.Re3 Rhe8 17.Bb2 c4 18.a4 Ng4 19.Rxe8 Bxh2+ 20.Kh1 Rxe8 21.Na3 Re6 22.f3 Rh6 23.fxg4 Bb8+ 24.Kg1 Ba7# 0-1
