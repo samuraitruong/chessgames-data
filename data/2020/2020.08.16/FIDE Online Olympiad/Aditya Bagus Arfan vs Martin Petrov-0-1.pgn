@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.16"]
+[EventDate "2020.08.14"]
+[Round "8"]
+[Result "0-1"]
+[White "Aditya Bagus Arfan"]
+[Black "Martin Petrov"]
+[ECO "B51"]
+[WhiteElo "1772"]
+[BlackElo "2393"]
+[PlyCount "40"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Bxd7+ Bxd7 7. Nc3 e5 8. Qd3 h6 9. Nd2 Nf6 10. Nc4 Be6 11. Be3 b5 12. Nb6 Rb8 13. Ncd5 Be7 14. O-O-O Ng4 15. Nxe7 Kxe7 16. Nd5+ Bxd5 17. exd5 Qc7 18. h3 Nxe3 19. fxe3 Qc4 20. Rhf1 Qxd3 0-1
