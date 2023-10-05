@@ -1,0 +1,14 @@
+[Event "Bern op"]
+[Site "Bern SUI"]
+[Date "1993.02.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Oliver Sutter"]
+[Black "Viesturs Meijers"]
+[ECO "D55"]
+[WhiteElo "2245"]
+[BlackElo "2380"]
+[PlyCount "48"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.Nf3 Nf6 5.Bg5 O-O 6.e3 b6 7.Rc1 Bb7 8.Bd3 Nbd7 9.O-O Re8 10.Qe2 a6 11.a4 c5 12.Rfd1 g6 13.h3 Kg7 14.Bf4 Bf8 15.Bh2 Kg8 16.cxd5 exd5 17.Bb1 c4 18.Ba2 b5 19.axb5 axb5 20.b4 Bxb4 21.Nxb5 Qa5 22.Rb1 Qxb5 23.Bd6 Qa6 24.Rxb4 Bc8 0-1
