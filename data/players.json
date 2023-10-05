@@ -4675,7 +4675,8 @@
     "name": "NAUMKIN, Igor",
     "year": "1982-2022",
     "games": 787,
-    "id": "17734"
+    "id": "17734",
+    "synced": true
   },
   {
     "higestRating": 2669,
@@ -8408,7 +8409,8 @@
     "name": "STRIKOVIC, Aleksa",
     "year": "1985-2020",
     "games": 480,
-    "id": "13997"
+    "id": "13997",
+    "synced": true
   },
   {
     "higestRating": 2485,
@@ -18963,7 +18965,8 @@
     "name": "GONZALES, Jayson",
     "year": "1996-2018",
     "games": 206,
-    "id": "10121"
+    "id": "10121",
+    "synced": true
   },
   {
     "higestRating": 2537,
@@ -19608,7 +19611,8 @@
     "name": "PETERSEN, Sejer Holm",
     "year": "1960-2009",
     "games": 198,
-    "id": "25803"
+    "id": "25803",
+    "synced": true
   },
   {
     "higestRating": 2468,
@@ -23542,7 +23546,8 @@
     "name": "HEINATZ, Gundula",
     "year": "1981-2022",
     "games": 159,
-    "id": "12025"
+    "id": "12025",
+    "synced": true
   },
   {
     "higestRating": 2419,
@@ -25187,7 +25192,8 @@
     "name": "VEGA, Sulennis Pina",
     "year": "1996-2014",
     "games": 148,
-    "id": "49428"
+    "id": "49428",
+    "synced": true
   },
   {
     "higestRating": 2454,
@@ -43534,7 +43540,8 @@
     "name": "KRISTOVIC, Marijan",
     "year": "1993-2011",
     "games": 73,
-    "id": "55620"
+    "id": "55620",
+    "synced": true
   },
   {
     "higestRating": 2518,
@@ -43924,7 +43931,8 @@
     "name": "SHETTY, Rahul",
     "year": "1992-2011",
     "games": 72,
-    "id": "36783"
+    "id": "36783",
+    "synced": true
   },
   {
     "higestRating": 2279,
@@ -46446,7 +46454,8 @@
     "name": "POSTL, Anton",
     "year": "1991-2010",
     "games": 67,
-    "id": "57028"
+    "id": "57028",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -56900,7 +56909,8 @@
     "name": "SEIFERT, Henryk",
     "year": "1986-2009",
     "games": 49,
-    "id": "46807"
+    "id": "46807",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -61118,7 +61128,8 @@
     "name": "KOTZ, Heinz Peter",
     "year": "1991-2004",
     "games": 44,
-    "id": "57033"
+    "id": "57033",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -68387,7 +68398,8 @@
     "name": "BELMONTE, Diego Mariano",
     "year": "1992-2017",
     "games": 37,
-    "id": "155723"
+    "id": "155723",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -88731,7 +88743,8 @@
     "name": "CALLEJO, Jesus Garcia",
     "year": "1982-2001",
     "games": 22,
-    "id": "39673"
+    "id": "39673",
+    "synced": true
   },
   {
     "higestRating": 2358,
@@ -105848,7 +105861,8 @@
     "name": "MAYER, Jean-Marc",
     "year": "1987-2007",
     "games": 15,
-    "id": "71579"
+    "id": "71579",
+    "synced": true
   },
   {
     "higestRating": 2404,
