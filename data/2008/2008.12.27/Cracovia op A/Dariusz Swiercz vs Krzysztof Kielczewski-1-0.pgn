@@ -1,0 +1,14 @@
+[Event "Cracovia op A"]
+[Site "Krakow"]
+[Date "2008.12.27"]
+[EventDate "?"]
+[Round "1.5"]
+[Result "1-0"]
+[White "Dariusz Swiercz"]
+[Black "Krzysztof Kielczewski"]
+[ECO "B76"]
+[WhiteElo "2478"]
+[BlackElo "2185"]
+[PlyCount "45"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2 O-O 9. O-O-O Bd7 10. g4 b5 11. Kb1 b4 12. Nd5 a5 13. h4 Ne5 14. h5 Nexg4 15. fxg4 Nxe4 16. Qg2 Nc3+ 17. bxc3 e6 18. hxg6 fxg6 19. Qh2 h5 20. Qxd6 exd5 21. Qxd5+ Rf7 22. Bc4 Be8 23. gxh5 1-0
