@@ -1,0 +1,15 @@
+[Event "Bern Zonal"]
+[Site "Bern SUI"]
+[Date "1990.??.??"]
+[EventDate "1990.01.??"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Stefan Kindermann"]
+[Black "Werner Hug"]
+[ECO "C18"]
+[WhiteElo "2560"]
+[BlackElo "2445"]
+[Source "Olimpbase"]
+[PlyCount "36"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 Qc7 8.Qxg7 Rg8 9.Qxh7 cxd4 10.Ne2 dxc3 11.f4 b6 12.Nd4 a6 13.Qd3 Bb7 14.a4 Nbc6 15. Rb1 Nf5 16.Be3 Ncxd4 17.Bxd4 Qd7 18.Rxb6 Qxa4 1/2-1/2

@@ -7279,7 +7279,8 @@
     "name": "HUG, Werner",
     "year": "1969-2017",
     "games": 542,
-    "id": "13910"
+    "id": "13910",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -11405,7 +11406,8 @@
     "name": "FISHBEIN, Alexander",
     "year": "1985-2023",
     "games": 356,
-    "id": "13766"
+    "id": "13766",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -16143,7 +16145,8 @@
     "name": "SEMCESEN, Daniel",
     "year": "2001-2023",
     "games": 246,
-    "id": "105186"
+    "id": "105186",
+    "synced": true
   },
   {
     "higestRating": 2506,
@@ -21546,7 +21549,8 @@
     "name": "MIHOK, Oliver",
     "year": "2003-2022",
     "games": 178,
-    "id": "109549"
+    "id": "109549",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -24251,7 +24255,8 @@
     "name": "FREISLER, Pavel",
     "year": "1985-2020",
     "games": 154,
-    "id": "19621"
+    "id": "19621",
+    "synced": true
   },
   {
     "higestRating": 2281,
@@ -27513,7 +27518,8 @@
     "name": "DOURERASSOU, Jonathan",
     "year": "2001-2021",
     "games": 131,
-    "id": "56825"
+    "id": "56825",
+    "synced": true
   },
   {
     "higestRating": 2218,
@@ -30514,7 +30520,8 @@
     "name": "BROMANN, Thorbjorn",
     "year": "1996-2022",
     "games": 114,
-    "id": "50418"
+    "id": "50418",
+    "synced": true
   },
   {
     "higestRating": 2476,
@@ -33678,7 +33685,8 @@
     "name": "NAVALGUND, Niranjan",
     "year": "2008-2022",
     "games": 102,
-    "id": "117417"
+    "id": "117417",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -37475,7 +37483,8 @@
     "name": "SANDSTROM, Ludvig",
     "year": "1984-2023",
     "games": 88,
-    "id": "14180"
+    "id": "14180",
+    "synced": true
   },
   {
     "higestRating": 2334,
@@ -45273,7 +45282,8 @@
     "name": "MOROZOV, Nichita",
     "year": "2015-2020",
     "games": 70,
-    "id": "157900"
+    "id": "157900",
+    "synced": true
   },
   {
     "higestRating": 2411,
@@ -60975,7 +60985,8 @@
     "name": "ZIMMER, Ralph",
     "year": "1986-2016",
     "games": 44,
-    "id": "31940"
+    "id": "31940",
+    "synced": true
   },
   {
     "higestRating": 2389,
@@ -67262,7 +67273,8 @@
     "name": "VERA, Sandro Pozo",
     "year": "2003-2018",
     "games": 38,
-    "id": "111473"
+    "id": "111473",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -71388,7 +71400,8 @@
     "name": "ESPOSITO, Luca",
     "year": "1992-2019",
     "games": 34,
-    "id": "93816"
+    "id": "93816",
+    "synced": true
   },
   {
     "higestRating": 2429,
@@ -74506,7 +74519,8 @@
     "name": "GERBERT, Philipp",
     "year": "1976-1982",
     "games": 31,
-    "id": "29751"
+    "id": "29751",
+    "synced": true
   },
   {
     "higestRating": 2317,
@@ -86307,7 +86321,8 @@
     "name": "BEDNAY, Bence",
     "year": "2005-2009",
     "games": 24,
-    "id": "105128"
+    "id": "105128",
+    "synced": true
   },
   {
     "higestRating": 2232,
@@ -87616,7 +87631,8 @@
     "name": "SCHWARZBAUM, Juan Belmonte",
     "year": "1972-1995",
     "games": 23,
-    "id": "92228"
+    "id": "92228",
+    "synced": true
   },
   {
     "higestRating": 2284,
@@ -88631,7 +88647,8 @@
     "name": "RUEDA, Libardo",
     "year": "1984-2014",
     "games": 22,
-    "id": "15655"
+    "id": "15655",
+    "synced": true
   },
   {
     "higestRating": 2232,
@@ -94441,7 +94458,8 @@
     "name": "LADOPOULOS, Dimitrios",
     "year": "2012-2023",
     "games": 20,
-    "id": "139247"
+    "id": "139247",
+    "synced": true
   },
   {
     "higestRating": 2218,
@@ -102010,7 +102028,8 @@
     "name": "KAPIC, Ibrahim",
     "year": "1955-2006",
     "games": 16,
-    "id": "12665"
+    "id": "12665",
+    "synced": true
   },
   {
     "higestRating": 2212,
@@ -102507,7 +102526,8 @@
     "name": "GUTKIN, Boris",
     "year": "1968-2017",
     "games": 16,
-    "id": "52142"
+    "id": "52142",
+    "synced": true
   },
   {
     "higestRating": 2264,
@@ -104049,7 +104069,8 @@
     "name": "ZIVKOVIC, Nemanja",
     "year": "2008-2022",
     "games": 16,
-    "id": "119797"
+    "id": "119797",
+    "synced": true
   },
   {
     "higestRating": 2373,
@@ -111047,7 +111068,8 @@
     "name": "OLIVARES, Claudio",
     "year": "2009-2017",
     "games": 7,
-    "id": "124509"
+    "id": "124509",
+    "synced": true
   },
   {
     "higestRating": 2240,

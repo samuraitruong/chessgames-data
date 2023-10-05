@@ -1,0 +1,14 @@
+[Event "PRO Chess League (Eastern)"]
+[Site "chess.com INT"]
+[Date "2017.01.11"]
+[EventDate "2017.01.11"]
+[Round "1"]
+[Result "0-1"]
+[White "Vikramaditya Kamble"]
+[Black "Oliver Mihok"]
+[ECO "A37"]
+[WhiteElo "2285"]
+[BlackElo "2505"]
+[PlyCount "40"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 g6 4. g3 e5 5. Bg2 Bg7 6. O-O Nge7 7. a3 O-O 8. Rb1 d5 9. cxd5 Nxd5 10. Nxe5 Nxc3 11. Nxc6 Nxe2+ 12. Qxe2 bxc6 13. Bxc6 Bf5 14. Bxa8 Qxa8 15. d3 Re8 16. Qd1 Bh3 17. f3 Bd4+ 18. Kh1 Bxf1 19. Qxf1 Re1 20. Qxe1 Qxf3# 0-1
