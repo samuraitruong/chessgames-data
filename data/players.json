@@ -7642,7 +7642,8 @@
     "name": "ABASOV, Nijat",
     "year": "2005-2023",
     "games": 522,
-    "id": "110381"
+    "id": "110381",
+    "synced": true
   },
   {
     "higestRating": 2512,
@@ -10124,7 +10125,8 @@
     "name": "KAGAN, Shimon",
     "year": "1964-2002",
     "games": 400,
-    "id": "23326"
+    "id": "23326",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -11885,7 +11887,8 @@
     "name": "ANTIC, Dejan",
     "year": "1988-2023",
     "games": 341,
-    "id": "28784"
+    "id": "28784",
+    "synced": true
   },
   {
     "higestRating": 2614,
@@ -26822,7 +26825,8 @@
     "name": "BURNETT, Jim",
     "year": "1972-2022",
     "games": 136,
-    "id": "49020"
+    "id": "49020",
+    "synced": true
   },
   {
     "higestRating": 2511,
@@ -27794,7 +27798,8 @@
     "name": "HEMPSON, Peter W",
     "year": "1966-2012",
     "games": 129,
-    "id": "47913"
+    "id": "47913",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -27911,7 +27916,8 @@
     "name": "BOLDUC, Steve",
     "year": "1981-2017",
     "games": 128,
-    "id": "42104"
+    "id": "42104",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -27974,7 +27980,8 @@
     "name": "BEGGI, Pierluigi",
     "year": "1959-2006",
     "games": 128,
-    "id": "99616"
+    "id": "99616",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -37637,7 +37644,8 @@
     "name": "BRAUN, Leslie",
     "year": "1973-1997",
     "games": 88,
-    "id": "18816"
+    "id": "18816",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -52372,7 +52380,8 @@
     "name": "HUA, Lefong",
     "year": "1992-2018",
     "games": 56,
-    "id": "17283"
+    "id": "17283",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -58808,7 +58817,8 @@
     "name": "SALAMI, Marco",
     "year": "1993-2010",
     "games": 47,
-    "id": "53996"
+    "id": "53996",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -60498,7 +60508,8 @@
     "name": "STRELNIKOV, Sergey",
     "year": "2002-2018",
     "games": 45,
-    "id": "76823"
+    "id": "76823",
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -61871,7 +61882,8 @@
     "name": "PRAYITNO, Sugeng",
     "year": "1986-2012",
     "games": 44,
-    "id": "141233"
+    "id": "141233",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -69269,7 +69281,8 @@
     "name": "COLMENARES, Aurelio",
     "year": "2001-2021",
     "games": 36,
-    "id": "95764"
+    "id": "95764",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -70347,7 +70360,8 @@
     "name": "KIRSZENBERG, Marc",
     "year": "1991-2021",
     "games": 35,
-    "id": "83074"
+    "id": "83074",
+    "synced": true
   },
   {
     "higestRating": 2269,
@@ -71198,7 +71212,8 @@
     "name": "KHAMRAKULOVA, Iroda",
     "year": "1993-2008",
     "games": 34,
-    "id": "53066"
+    "id": "53066",
+    "synced": true
   },
   {
     "higestRating": 2219,
@@ -77677,7 +77692,8 @@
     "name": "IGLESIAS, Alejandro",
     "year": "1987-1998",
     "games": 29,
-    "id": "42150"
+    "id": "42150",
+    "synced": true
   },
   {
     "higestRating": 2307,
@@ -79770,7 +79786,8 @@
     "name": "DIMITRIJESKI, Boris",
     "year": "2005-2020",
     "games": 28,
-    "id": "97439"
+    "id": "97439",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -82733,7 +82750,8 @@
     "name": "RIJNAARTS, Sjef",
     "year": "2000-2017",
     "games": 26,
-    "id": "83156"
+    "id": "83156",
+    "synced": true
   },
   {
     "higestRating": 2277,
@@ -82764,7 +82782,8 @@
     "name": "MAESTRO, Jaime Anguera",
     "year": "1959-2017",
     "games": 26,
-    "id": "86028"
+    "id": "86028",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -102247,7 +102266,8 @@
     "name": "JONSSON, Dadi Orn",
     "year": "2014-2020",
     "games": 17,
-    "id": "187660"
+    "id": "187660",
+    "synced": true
   },
   {
     "higestRating": 2485,
@@ -106908,7 +106928,8 @@
     "name": "ELSEN, Mark",
     "year": "1988-1993",
     "games": 15,
-    "id": "107566"
+    "id": "107566",
+    "synced": true
   },
   {
     "higestRating": 2453,
@@ -107117,7 +107138,8 @@
     "name": "IVAN, Zoltan",
     "year": "1985-2007",
     "games": 15,
-    "id": "121149"
+    "id": "121149",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -110964,7 +110986,8 @@
     "name": "PILIPOSYAN, Robert",
     "year": "2019-2023",
     "games": 8,
-    "id": "162729"
+    "id": "162729",
+    "synced": true
   },
   {
     "higestRating": 2499,

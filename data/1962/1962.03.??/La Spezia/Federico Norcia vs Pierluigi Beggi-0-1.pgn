@@ -1,0 +1,14 @@
+[Event "La Spezia"]
+[Site "La Spezia ITA"]
+[Date "1962.03.??"]
+[EventDate "1962.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Federico Norcia"]
+[Black "Pierluigi Beggi"]
+[ECO "D83"]
+[WhiteElo "?"]
+[BlackElo "2122"]
+[PlyCount "40"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.h3 c5 7.Nf3 Qa5 8.Qd2 Nc6 9.cxd5 cxd4 10.dxc6 dxc3 11.Qxc3 Qa4 12.cxb7 Bxb7 13.Qc4 Qa5+ 14.b4 Qa3 15.Qb3 Qxb3 16.axb3 Bxf3 17.gxf3 Nd5 18.Rc1 Bc3+ 19.Kd1 Rfd8 20.Kc2 Bf6 0-1
