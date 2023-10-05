@@ -5977,7 +5977,8 @@
     "name": "ONYSHCHUK, Volodymyr",
     "year": "2001-2022",
     "games": 666,
-    "id": "69265"
+    "id": "69265",
+    "synced": true
   },
   {
     "higestRating": 2641,
@@ -14738,7 +14739,8 @@
     "name": "GORELOV, Sergey",
     "year": "1973-1996",
     "games": 269,
-    "id": "16709"
+    "id": "16709",
+    "synced": true
   },
   {
     "higestRating": 2465,
@@ -17664,7 +17666,8 @@
     "name": "CRAMLING, Dan",
     "year": "1975-2023",
     "games": 221,
-    "id": "15510"
+    "id": "15510",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -17891,7 +17894,8 @@
     "name": "KSIESKI, Zbigniew",
     "year": "1975-2011",
     "games": 218,
-    "id": "18306"
+    "id": "18306",
+    "synced": true
   },
   {
     "higestRating": 2508,
@@ -24447,7 +24451,8 @@
     "name": "LEHNER, Oliver",
     "year": "1991-2022",
     "games": 153,
-    "id": "35037"
+    "id": "35037",
+    "synced": true
   },
   {
     "higestRating": 2474,
@@ -27626,7 +27631,8 @@
     "name": "EBELING, Mika",
     "year": "1981-2012",
     "games": 130,
-    "id": "16938"
+    "id": "16938",
+    "synced": true
   },
   {
     "higestRating": 2429,
@@ -46522,7 +46528,8 @@
     "name": "KAGANSKIY, Gleb",
     "year": "1996-2017",
     "games": 67,
-    "id": "51142"
+    "id": "51142",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -55012,7 +55019,8 @@
     "name": "FINDLAY, David John",
     "year": "1970-2019",
     "games": 52,
-    "id": "47925"
+    "id": "47925",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -59762,7 +59770,8 @@
     "name": "VUJIC, Mihailo",
     "year": "1993-2023",
     "games": 46,
-    "id": "91962"
+    "id": "91962",
+    "synced": true
   },
   {
     "higestRating": 2214,
@@ -67397,7 +67406,8 @@
     "name": "GUTTULSRUD, Odd Martin",
     "year": "2007-2014",
     "games": 38,
-    "id": "111639"
+    "id": "111639",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -80329,7 +80339,8 @@
     "name": "FILATOV, Leonid",
     "year": "1993-2001",
     "games": 27,
-    "id": "10088"
+    "id": "10088",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -83947,7 +83958,8 @@
     "name": "JORGENSEN, Mikkel",
     "year": "2000-2004",
     "games": 25,
-    "id": "50723"
+    "id": "50723",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -86414,7 +86426,8 @@
     "name": "KIVIMAKI, Jaakko",
     "year": "1992-2017",
     "games": 24,
-    "id": "100252"
+    "id": "100252",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -91310,7 +91323,8 @@
     "name": "AFSHARI, Mohammadreza",
     "year": "2001-2018",
     "games": 21,
-    "id": "58553"
+    "id": "58553",
+    "synced": true
   },
   {
     "higestRating": 2249,
@@ -91599,7 +91613,8 @@
     "name": "KHEGAI, Angela",
     "year": "1995-2005",
     "games": 21,
-    "id": "89162"
+    "id": "89162",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -92088,7 +92103,8 @@
     "name": "ODNOROZHENKO, Evgenyi",
     "year": "2009-2020",
     "games": 21,
-    "id": "125589"
+    "id": "125589",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -111050,7 +111066,8 @@
     "name": "FUNKE, Reinhard",
     "year": "1989-2007",
     "games": 7,
-    "id": "78032"
+    "id": "78032",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -112781,7 +112798,8 @@
     "name": "SUESS, Robert",
     "year": "1989",
     "games": 3,
-    "id": "90570"
+    "id": "90570",
+    "synced": true
   },
   {
     "higestRating": 2240,
