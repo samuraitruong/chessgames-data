@@ -697,7 +697,8 @@
     "name": "NIKOLIC, Predrag",
     "year": "1976-2021",
     "games": 1970,
-    "id": "11732"
+    "id": "11732",
+    "synced": true
   },
   {
     "higestRating": 2713,
@@ -7434,7 +7435,8 @@
     "name": "BONIN, Jay",
     "year": "1974-2021",
     "games": 536,
-    "id": "18878"
+    "id": "18878",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -16216,7 +16218,8 @@
     "name": "GONZALEZ, Angel Martin",
     "year": "1972-2022",
     "games": 245,
-    "id": "89608"
+    "id": "89608",
+    "synced": true
   },
   {
     "higestRating": 2475,
@@ -17441,7 +17444,8 @@
     "name": "NOTKEVICH, Benjamin Arvola",
     "year": "2006-2021",
     "games": 225,
-    "id": "104536"
+    "id": "104536",
+    "synced": true
   },
   {
     "higestRating": 2645,
@@ -30324,7 +30328,8 @@
     "name": "CARLETON, John Joseph",
     "year": "1970-2018",
     "games": 115,
-    "id": "47926"
+    "id": "47926",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -44512,7 +44517,8 @@
     "name": "KOJDER, Konrad",
     "year": "1979-1987",
     "games": 71,
-    "id": "43593"
+    "id": "43593",
+    "synced": true
   },
   {
     "higestRating": 2273,
@@ -69697,7 +69703,8 @@
     "name": "DEGRAEVE, Remy",
     "year": "2017-2023",
     "games": 36,
-    "id": "157413"
+    "id": "157413",
+    "synced": true
   },
   {
     "higestRating": 2378,
@@ -70049,7 +70056,8 @@
     "name": "LITWAK, Aleksej",
     "year": "1999-2013",
     "games": 35,
-    "id": "52861"
+    "id": "52861",
+    "synced": true
   },
   {
     "higestRating": 2386,
@@ -75641,7 +75649,8 @@
     "name": "OLCUM, Ahmet",
     "year": "2007-2019",
     "games": 31,
-    "id": "113256"
+    "id": "113256",
+    "synced": true
   },
   {
     "higestRating": 2374,
@@ -89423,7 +89432,8 @@
     "name": "RISTOJA, Jan",
     "year": "1996-2016",
     "games": 22,
-    "id": "58703"
+    "id": "58703",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -92425,7 +92435,8 @@
     "name": "TOKARCZYK, Tomasz",
     "year": "2012-2018",
     "games": 21,
-    "id": "139807"
+    "id": "139807",
+    "synced": true
   },
   {
     "higestRating": 2373,
@@ -95327,7 +95338,8 @@
     "name": "LAMBERS, Gerrit Hans",
     "year": "1969-1999",
     "games": 19,
-    "id": "33469"
+    "id": "33469",
+    "synced": true
   },
   {
     "higestRating": 2228,
