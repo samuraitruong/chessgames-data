@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.16"]
+[EventDate "2022.12.16"]
+[Round "1.7"]
+[Result "0-1"]
+[White "Jan Bakalar"]
+[Black "Ante Saric"]
+[ECO "B01"]
+[WhiteElo "1901"]
+[BlackElo "2504"]
+[PlyCount "36"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. Ng3 Be6 5. d3 c5 6. b3 Nc6 7. N1e2 h5 8. h4 Be7 9. f4 Bxh4 10. f5 Bd7 11. Kf2 g6 12. Rxh4 Qxh4 13. Ng1 Nf6 14. Be2 Ng4+ 15. Bxg4 hxg4 16. Qd2 gxf5 17. exf5 Rh5 18. Ke1 0-1
