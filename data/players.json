@@ -116,7 +116,8 @@
     "name": "GRISCHUK, Alexander",
     "year": "1992-2023",
     "games": 3226,
-    "id": "17279"
+    "id": "17279",
+    "synced": true
   },
   {
     "higestRating": 2817,
@@ -9022,7 +9023,8 @@
     "name": "NIKOLAIDIS, Ioannis",
     "year": "1993-2022",
     "games": 451,
-    "id": "18266"
+    "id": "18266",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -51046,7 +51048,8 @@
     "name": "SPAN, Paul",
     "year": "1993-2010",
     "games": 59,
-    "id": "106243"
+    "id": "106243",
+    "synced": true
   },
   {
     "higestRating": 2254,
@@ -53238,7 +53241,8 @@
     "name": "OWCZARZAK, Jerzy",
     "year": "1998-2007",
     "games": 55,
-    "id": "54526"
+    "id": "54526",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -97836,7 +97840,8 @@
     "name": "BOURNIVAL, Braden",
     "year": "2000-2009",
     "games": 18,
-    "id": "50468"
+    "id": "50468",
+    "synced": true
   },
   {
     "higestRating": 2201,

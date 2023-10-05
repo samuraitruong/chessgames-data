@@ -2,13 +2,13 @@
 [Site "Dubai UAE"]
 [Date "2002.04.03"]
 [EventDate "2002.04.03"]
-[Round "1.3"]
+[Round "1.1"]
 [Result "1-0"]
 [White "Alexander Grischuk"]
 [Black "Alexander Morozevich"]
-[ECO "C78"]
+[ECO "C49"]
 [WhiteElo "2671"]
 [BlackElo "2742"]
-[PlyCount "73"]
+[PlyCount "132"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3 d6 9. d4 Bb6 10. h3 O-O 11. Be3 Ne7 12. Nbd2 Ng6 13. a5 exd4 14. Nxd4 Bxd4 15. cxd4 Bb7 16. Bc2 Qe7 17. f3 c5 18. Re1 cxd4 19. Bxd4 Nd7 20. Nf1 Nde5 21. Qd2 Rbc8 22. Bb3 Kh8 23. Ng3 Nh4 24. Rf1 Qf6 25. f4 Qg6 26. Kh2 Qh6 27. Qe2 Nc4 28. Rf2 f5 29. exf5 Nxf5 30. Nxf5 Rxf5 31. Qe7 Bd5 32. Re1 Rcf8 33. Bxc4 Bxc4 34. g4 R5f7 35. Qe3 Rxf4 36. Kg3 Qg5 37. Rxf4 1-0
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3 8. bxc3 Qe7 9. Re1 Nd8 10. d4 Ne6 11. Bc1 Rd8 12. Bf1 b6 13. Nh4 g6 14. g3 Bb7 15. Bg2 Nd7 16. h3 Re8 17. Nf3 Qf6 18. a4 a5 19. Nh2 Qg7 20. Be3 Nf6 21. Ng4 Nxg4 22. hxg4 g5 23. Qd2 h6 24. f3 Rad8 25. Qf2 Bc8 26. Bf1 Bd7 27. Bd3 Qg6 28. Kg2 Nf8 29. Rh1 Kg7 30. c4 c5 31. c3 Ne6 32. d5 Nc7 33. Qd2 Rh8 34. Rab1 Rb8 35. Bc2 f6 36. Rh5 Kf8 37. Qd1 Ke7 38. Rb2 Kd8 39. Qb1 Na8 40. Kf2 Kc7 41. Bd1 Kb7 42. Ke1 Ka7 43. Rg2 Rbe8 44. Kf1 Nc7 45. Rb2 Rb8 46. Rg2 Ne8 47. f4 exf4 48. gxf4 Ng7 49. Rh1 h5 50. gxh5 Nxh5 51. Kg1 Ng7 52. fxg5 Rxh1+ 53. Kxh1 f5 54. Rh2 fxe4 55. Rh6 Qf7 56. Rf6 Qe7 57. Bf4 Rh8+ 58. Kg1 Ne8 59. Rh6 Rxh6 60. gxh6 Qh4 61. Qxe4 Nf6 62. Qe3 Ng4 63. Bxg4 Qxg4+ 64. Kf2 Qf5 65. Qf3 Qc2+ 66. Qe2 Qf5 1-0
