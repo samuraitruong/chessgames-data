@@ -3399,7 +3399,8 @@
     "name": "BARCZAY, Laszlo",
     "year": "1955-2002",
     "games": 992,
-    "id": "38030"
+    "id": "38030",
+    "synced": true
   },
   {
     "higestRating": 2503,
@@ -11774,7 +11775,8 @@
     "name": "BRITTON, Richard L",
     "year": "1977-2023",
     "games": 343,
-    "id": "40466"
+    "id": "40466",
+    "synced": true
   },
   {
     "higestRating": 2630,
@@ -33093,7 +33095,8 @@
     "name": "BIRMINGHAM, Eric",
     "year": "1985-1993",
     "games": 104,
-    "id": "29050"
+    "id": "29050",
+    "synced": true
   },
   {
     "higestRating": 2269,
@@ -36529,7 +36532,8 @@
     "name": "THORMANN, Wolfgang",
     "year": "1968-2015",
     "games": 92,
-    "id": "77746"
+    "id": "77746",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -36823,7 +36827,8 @@
     "name": "ARSLANOV, Shamil",
     "year": "2007-2020",
     "games": 91,
-    "id": "118207"
+    "id": "118207",
+    "synced": true
   },
   {
     "higestRating": 2428,
@@ -38210,7 +38215,8 @@
     "name": "ZHANG, Ziji",
     "year": "2015-2019",
     "games": 87,
-    "id": "153854"
+    "id": "153854",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -45807,7 +45813,8 @@
     "name": "TOTH, Andras",
     "year": "1997-2008",
     "games": 68,
-    "id": "11590"
+    "id": "11590",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -54748,7 +54755,8 @@
     "name": "MOHAMMED, Zozek Salah",
     "year": "2014-2022",
     "games": 53,
-    "id": "149968"
+    "id": "149968",
+    "synced": true
   },
   {
     "higestRating": 2203,
@@ -56430,7 +56438,8 @@
     "name": "TESIC, Dragan",
     "year": "1990-2019",
     "games": 50,
-    "id": "85457"
+    "id": "85457",
+    "synced": true
   },
   {
     "higestRating": 2369,
@@ -60487,7 +60496,8 @@
     "name": "BLEIS, Christian",
     "year": "1987-2007",
     "games": 45,
-    "id": "94585"
+    "id": "94585",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -61932,7 +61942,8 @@
     "name": "AGDESTEIN, Espen",
     "year": "1982-2004",
     "games": 43,
-    "id": "20754"
+    "id": "20754",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -72910,7 +72921,8 @@
     "name": "JONES, Victor G L",
     "year": "2009-2011",
     "games": 33,
-    "id": "122851"
+    "id": "122851",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -87818,7 +87830,8 @@
     "name": "SHLYKOV, Vitali",
     "year": "2001-2005",
     "games": 23,
-    "id": "98407"
+    "id": "98407",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -109142,7 +109155,8 @@
     "name": "NAIDITSCH, Irina",
     "year": "1996-2001",
     "games": 11,
-    "id": "68711"
+    "id": "68711",
+    "synced": true
   },
   {
     "higestRating": 2217,
