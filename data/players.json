@@ -2312,7 +2312,8 @@
     "name": "USHENINA, Anna",
     "year": "1998-2023",
     "games": 1215,
-    "id": "76809"
+    "id": "76809",
+    "synced": true
   },
   {
     "higestRating": 2701,
@@ -7706,7 +7707,8 @@
     "name": "SINDAROV, Javokhir",
     "year": "2015-2023",
     "games": 516,
-    "id": "155744"
+    "id": "155744",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -13627,7 +13629,8 @@
     "name": "TSEITLIN, Mikhail",
     "year": "1970-2001",
     "games": 294,
-    "id": "42004"
+    "id": "42004",
+    "synced": true
   },
   {
     "higestRating": 2564,
@@ -49851,7 +49854,8 @@
     "name": "KHAKIMOV, Timur",
     "year": "2000-2021",
     "games": 61,
-    "id": "78967"
+    "id": "78967",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -52707,7 +52711,8 @@
     "name": "BANNINK, Bernard",
     "year": "1986-2017",
     "games": 56,
-    "id": "81778"
+    "id": "81778",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -53998,7 +54003,8 @@
     "name": "ARAMIL, William J",
     "year": "1999-2014",
     "games": 54,
-    "id": "78843"
+    "id": "78843",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -63869,7 +63875,8 @@
     "name": "POULTON, James",
     "year": "1988-2004",
     "games": 41,
-    "id": "27692"
+    "id": "27692",
+    "synced": true
   },
   {
     "higestRating": 2225,
@@ -82026,7 +82033,8 @@
     "name": "SENDERA, Jaroslaw",
     "year": "1984-2005",
     "games": 26,
-    "id": "26222"
+    "id": "26222",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -100803,7 +100811,8 @@
     "name": "CZUHAI, Kevin",
     "year": "1986-2010",
     "games": 17,
-    "id": "89410"
+    "id": "89410",
+    "synced": true
   },
   {
     "higestRating": 2258,
@@ -100998,7 +101007,8 @@
     "name": "TRITT, Maciej",
     "year": "2003-2009",
     "games": 17,
-    "id": "97836"
+    "id": "97836",
+    "synced": true
   },
   {
     "higestRating": 2227,
@@ -104260,7 +104270,8 @@
     "name": "MAIA, Luciano Malta",
     "year": "1997-2007",
     "games": 16,
-    "id": "115182"
+    "id": "115182",
+    "synced": true
   },
   {
     "higestRating": 2273,
