@@ -918,7 +918,8 @@
     "name": "HUEBNER, Robert",
     "year": "1961-2021",
     "games": 1809,
-    "id": "14098"
+    "id": "14098",
+    "synced": true
   },
   {
     "higestRating": 2557,
@@ -3851,7 +3852,8 @@
     "name": "RAKHMANOV, Aleksandr",
     "year": "2001-2023",
     "games": 918,
-    "id": "56727"
+    "id": "56727",
+    "synced": true
   },
   {
     "higestRating": 2537,
@@ -38947,7 +38949,8 @@
     "name": "MARKANTONAKI, Haritomeni",
     "year": "2001-2022",
     "games": 85,
-    "id": "85158"
+    "id": "85158",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -73084,7 +73087,8 @@
     "name": "UGAS, Ramon Chalmeta",
     "year": "2003-2019",
     "games": 33,
-    "id": "105054"
+    "id": "105054",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -93520,7 +93524,8 @@
     "name": "VLCEK, Stanislav",
     "year": "1999-2016",
     "games": 20,
-    "id": "53498"
+    "id": "53498",
+    "synced": true
   },
   {
     "higestRating": 2452,
@@ -102489,7 +102494,8 @@
     "name": "SIEGEL, Noah J",
     "year": "1994-2003",
     "games": 16,
-    "id": "11369"
+    "id": "11369",
+    "synced": true
   },
   {
     "higestRating": 2227,
