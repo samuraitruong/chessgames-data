@@ -8402,7 +8402,8 @@
     "name": "MURADLI, Mahammad",
     "year": "2015-2023",
     "games": 484,
-    "id": "154705"
+    "id": "154705",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -11999,7 +12000,8 @@
     "name": "ISKANDAROV, Misratdin",
     "year": "2005-2023",
     "games": 341,
-    "id": "114808"
+    "id": "114808",
+    "synced": true
   },
   {
     "higestRating": 2550,
@@ -20529,7 +20531,8 @@
     "name": "SOLN, Primoz",
     "year": "1991-2012",
     "games": 190,
-    "id": "88053"
+    "id": "88053",
+    "synced": true
   },
   {
     "higestRating": 2492,
@@ -21927,7 +21930,8 @@
     "name": "TADIC, Branko",
     "year": "1993-2022",
     "games": 176,
-    "id": "49478"
+    "id": "49478",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -23505,7 +23509,8 @@
     "name": "LOISEAU, Quentin",
     "year": "2012-2023",
     "games": 162,
-    "id": "136302"
+    "id": "136302",
+    "synced": true
   },
   {
     "higestRating": 2227,
@@ -29392,7 +29397,8 @@
     "name": "TILLER, Bjorn",
     "year": "1974-2011",
     "games": 121,
-    "id": "92172"
+    "id": "92172",
+    "synced": true
   },
   {
     "higestRating": 2451,
@@ -31396,7 +31402,8 @@
     "name": "SABUK, Piotr",
     "year": "2003-2020",
     "games": 112,
-    "id": "126599"
+    "id": "126599",
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -40083,7 +40090,8 @@
     "name": "KROEZE, Frank",
     "year": "1991-2010",
     "games": 82,
-    "id": "26750"
+    "id": "26750",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -46063,7 +46071,8 @@
     "name": "THINGSTAD, Even",
     "year": "2006-2017",
     "games": 69,
-    "id": "105201"
+    "id": "105201",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -59358,7 +59367,8 @@
     "name": "TUPY, Martin",
     "year": "1993-2016",
     "games": 47,
-    "id": "84887"
+    "id": "84887",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -60164,7 +60174,8 @@
     "name": "BERNARD, Jacques",
     "year": "1998-2010",
     "games": 46,
-    "id": "89958"
+    "id": "89958",
+    "synced": true
   },
   {
     "higestRating": 2377,
@@ -60869,7 +60880,8 @@
     "name": "SOUSA, Armindo",
     "year": "1990-2008",
     "games": 45,
-    "id": "79591"
+    "id": "79591",
+    "synced": true
   },
   {
     "higestRating": 2249,
@@ -72912,7 +72924,8 @@
     "name": "STOUMBOS, Konstantinos",
     "year": "2000-2019",
     "games": 33,
-    "id": "51655"
+    "id": "51655",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -75147,7 +75160,8 @@
     "name": "ALAWIEH, Amine",
     "year": "1990-1999",
     "games": 31,
-    "id": "28285"
+    "id": "28285",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -86716,7 +86730,8 @@
     "name": "DELEMARRE, Isabel",
     "year": "1993-2001",
     "games": 24,
-    "id": "67983"
+    "id": "67983",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -90892,7 +90907,8 @@
     "name": "GOSZTOLA, Istvan",
     "year": "1989-1998",
     "games": 22,
-    "id": "135312"
+    "id": "135312",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -105224,7 +105240,8 @@
     "name": "ZIMMERMANN, Klemens",
     "year": "1986-2023",
     "games": 16,
-    "id": "130854"
+    "id": "130854",
+    "synced": true
   },
   {
     "higestRating": 2285,
