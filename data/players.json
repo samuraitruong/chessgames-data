@@ -796,7 +796,8 @@
     "name": "PONS, Francisco Vallejo",
     "year": "1990-2023",
     "games": 1872,
-    "id": "49085"
+    "id": "49085",
+    "synced": true
   },
   {
     "higestRating": 2359,
@@ -45143,7 +45144,8 @@
     "name": "HUMPHREYS, Michael",
     "year": "2008-2015",
     "games": 71,
-    "id": "114855"
+    "id": "114855",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -54823,7 +54825,8 @@
     "name": "MILENKOVIC, Mladen",
     "year": "1992-2014",
     "games": 53,
-    "id": "38349"
+    "id": "38349",
+    "synced": true
   },
   {
     "higestRating": 2252,
@@ -70727,7 +70730,8 @@
     "name": "OCHSNER, Thomas",
     "year": "1980-2007",
     "games": 35,
-    "id": "64101"
+    "id": "64101",
+    "synced": true
   },
   {
     "higestRating": 2333,
@@ -71972,7 +71976,8 @@
     "name": "BALJE, Jan",
     "year": "2003-2019",
     "games": 34,
-    "id": "83163"
+    "id": "83163",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -105983,7 +105988,8 @@
     "name": "SAVKO, Alexei",
     "year": "1990-1994",
     "games": 15,
-    "id": "17760"
+    "id": "17760",
+    "synced": true
   },
   {
     "higestRating": 2360,
