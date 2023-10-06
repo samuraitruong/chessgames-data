@@ -1,0 +1,14 @@
+[Event "Chess Olympiad"]
+[Site "Batumi GEO"]
+[Date "2018.09.26"]
+[EventDate "2018.09.24"]
+[Round "3.65"]
+[Result "0-1"]
+[White "David Conhoff"]
+[Black "Murad Abdulla"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "2292"]
+[PlyCount "46"]
+
+1. d4 Nf6 2. c4 c5 3. e3 g6 4. Bd3 Bg7 5. Ne2 O-O 6. O-O b6 7. Nbc3 cxd4 8. exd4 Bb7 9. Bg5 d6 10. f4 d5 11. b3 dxc4 12. Bxc4 Qd7 13. h3 Rd8 14. Qd2 Nc6 15. d5 Na5 16. Bxf6 Bxf6 17. Rfd1 Nxc4 18. bxc4 Rac8 19. Ne4 Bxa1 20. Rxa1 Rxc4 21. N2g3 Qxd5 22. Qe3 f5 23. Ng5 Qxg2# 0-1

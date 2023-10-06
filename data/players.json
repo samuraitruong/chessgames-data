@@ -423,7 +423,8 @@
     "name": "TAIMANOV, Mark",
     "year": "1938-2011",
     "games": 2316,
-    "id": "14920"
+    "id": "14920",
+    "synced": true
   },
   {
     "higestRating": 2618,
@@ -8994,7 +8995,8 @@
     "name": "BARLE, Janez",
     "year": "1967-2017",
     "games": 454,
-    "id": "26655"
+    "id": "26655",
+    "synced": true
   },
   {
     "higestRating": 2453,
@@ -14948,7 +14950,8 @@
     "name": "OLSZEWSKI, Michal",
     "year": "2001-2020",
     "games": 267,
-    "id": "54699"
+    "id": "54699",
+    "synced": true
   },
   {
     "higestRating": 2611,
@@ -26600,7 +26603,8 @@
     "name": "DRYGALOV, Andrey",
     "year": "2015-2023",
     "games": 139,
-    "id": "154671"
+    "id": "154671",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -33889,7 +33893,8 @@
     "name": "CONGIU, Mathilde",
     "year": "2005-2018",
     "games": 102,
-    "id": "96030"
+    "id": "96030",
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -44247,7 +44252,8 @@
     "name": "ASAUSKAS, Henrikas",
     "year": "1998-2018",
     "games": 72,
-    "id": "36747"
+    "id": "36747",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -46600,7 +46606,8 @@
     "name": "ABDULLA, Murad",
     "year": "2016-2020",
     "games": 68,
-    "id": "156954"
+    "id": "156954",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -50323,7 +50330,8 @@
     "name": "PANZALOVIC, Srdjan",
     "year": "1989-2009",
     "games": 60,
-    "id": "15153"
+    "id": "15153",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -68556,7 +68564,8 @@
     "name": "YASINSKY, Vladimir",
     "year": "1989-1996",
     "games": 37,
-    "id": "91933"
+    "id": "91933",
+    "synced": true
   },
   {
     "higestRating": 2399,
@@ -76702,7 +76711,8 @@
     "name": "RUFENER, Markus",
     "year": "1994-2007",
     "games": 30,
-    "id": "52144"
+    "id": "52144",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -77498,7 +77508,8 @@
     "name": "KOTLYAR, Kirill",
     "year": "2012-2021",
     "games": 30,
-    "id": "139658"
+    "id": "139658",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -81661,7 +81672,8 @@
     "name": "VAN ESCH, Bas",
     "year": "1991-2000",
     "games": 27,
-    "id": "96187"
+    "id": "96187",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -88550,7 +88562,8 @@
     "name": "BORTOLOSO, Moacir Canella",
     "year": "1991-2014",
     "games": 23,
-    "id": "110948"
+    "id": "110948",
+    "synced": true
   },
   {
     "higestRating": 2233,
@@ -94132,7 +94145,8 @@
     "name": "SOKOLOV, Alexander",
     "year": "1994-2019",
     "games": 20,
-    "id": "82853"
+    "id": "82853",
+    "synced": true
   },
   {
     "higestRating": 2379,
@@ -97187,7 +97201,8 @@
     "name": "DIALLO, Moustaph",
     "year": "1983-1990",
     "games": 19,
-    "id": "129792"
+    "id": "129792",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -99251,7 +99266,8 @@
     "name": "LORENZO, Joan Carlos Montell",
     "year": "1992-2009",
     "games": 18,
-    "id": "102637"
+    "id": "102637",
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -101715,7 +101731,8 @@
     "name": "FRONTINAN, Cristobal Ramo",
     "year": "1986-2009",
     "games": 17,
-    "id": "110814"
+    "id": "110814",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -102136,7 +102153,8 @@
     "name": "GUSAROV, Grigory",
     "year": "2010-2019",
     "games": 17,
-    "id": "132448"
+    "id": "132448",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -102349,7 +102367,8 @@
     "name": "NINH, Vo Thanh",
     "year": "2012-2019",
     "games": 17,
-    "id": "143193"
+    "id": "143193",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -102753,7 +102772,8 @@
     "name": "DEMARRE, Jacques",
     "year": "1969-2005",
     "games": 16,
-    "id": "13922"
+    "id": "13922",
+    "synced": true
   },
   {
     "higestRating": 2337,
@@ -104113,7 +104133,8 @@
     "name": "DONGRE, Ravindra Murlidhar",
     "year": "1992-2000",
     "games": 16,
-    "id": "91703"
+    "id": "91703",
+    "synced": true
   },
   {
     "higestRating": 2317,
@@ -104848,7 +104869,8 @@
     "name": "PACE, Pietro Dario",
     "year": "2004-2010",
     "games": 16,
-    "id": "123319"
+    "id": "123319",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -106467,7 +106489,8 @@
     "name": "HOSTICKA, Frantisek",
     "year": "1977-2009",
     "games": 15,
-    "id": "64257"
+    "id": "64257",
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -107761,7 +107784,8 @@
     "name": "BANASIK, Krzysztof",
     "year": "2003-2018",
     "games": 15,
-    "id": "134275"
+    "id": "134275",
+    "synced": true
   },
   {
     "higestRating": 2314,
@@ -111368,7 +111392,8 @@
     "name": "GALLEMI, Jose Maria Lerch",
     "year": "1994-2005",
     "games": 8,
-    "id": "133306"
+    "id": "133306",
+    "synced": true
   },
   {
     "higestRating": 2352,
