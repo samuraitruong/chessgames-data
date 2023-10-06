@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.17"]
+[EventDate "2022.12.17"]
+[Round "6.95"]
+[Result "1-0"]
+[White "Jolanta Zawadzka"]
+[Black "Tomasz Posluszny"]
+[ECO "C45"]
+[WhiteElo "2386"]
+[BlackElo "1934"]
+[PlyCount "40"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. Nc3 Bc5 8. O-O O-O 9. Bg5 h6 10. Bh4 Be7 11. Re1 Re8 12. exd5 cxd5 13. Bxf6 Bxf6 14. Nxd5 Rxe1+ 15. Qxe1 Bxb2 16. Qe4 f5 17. Ne7+ Kh8 18. Qxa8 Bxa1 19. Qxc8 Qxc8 20. Nxc8 1-0
