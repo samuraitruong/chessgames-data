@@ -1,0 +1,14 @@
+[Event "60th US Open"]
+[Site "Omaha, NE USA"]
+[Date "1959.07.20"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "James T Sherwin"]
+[Black "William H Donnelly"]
+[ECO "A72"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.Bg5 Qe7 10.Qc2 Nbd7 11.Nd2 Ne5 12.f4 Neg4 13.Nc4 Qd8 14.e5 b5 15.exf6 Bxf6 16.Nxb5 Bxg5 17.fxg5 Qxg5 18.O-O Bf5 19.Qc1 1-0

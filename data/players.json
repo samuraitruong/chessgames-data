@@ -7369,7 +7369,8 @@
     "name": "KOVALEV, Andrei",
     "year": "1981-2020",
     "games": 540,
-    "id": "14058"
+    "id": "14058",
+    "synced": true
   },
   {
     "higestRating": 2525,
@@ -12320,7 +12321,8 @@
     "name": "SHERWIN, James",
     "year": "1950-2010",
     "games": 329,
-    "id": "19204"
+    "id": "19204",
+    "synced": true
   },
   {
     "higestRating": 2548,
@@ -13602,7 +13604,8 @@
     "name": "HUNT, Harriet",
     "year": "1991-2023",
     "games": 297,
-    "id": "27794"
+    "id": "27794",
+    "synced": true
   },
   {
     "higestRating": 2533,
@@ -14227,7 +14230,8 @@
     "name": "DIMITROV, Vladimir",
     "year": "1984-2019",
     "games": 282,
-    "id": "15686"
+    "id": "15686",
+    "synced": true
   },
   {
     "higestRating": 2592,
@@ -30120,7 +30124,8 @@
     "name": "WENLIANG, Li",
     "year": "1987-2013",
     "games": 117,
-    "id": "79932"
+    "id": "79932",
+    "synced": true
   },
   {
     "higestRating": 2271,
@@ -38776,7 +38781,8 @@
     "name": "SHAILESH, Dravid",
     "year": "2014-2022",
     "games": 86,
-    "id": "151559"
+    "id": "151559",
+    "synced": true
   },
   {
     "higestRating": 2461,
@@ -41794,7 +41800,8 @@
     "name": "EVERTSSON, Lennart",
     "year": "1998-2018",
     "games": 78,
-    "id": "80081"
+    "id": "80081",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -42367,7 +42374,8 @@
     "name": "AHMAD, Al Khatib",
     "year": "2010-2023",
     "games": 77,
-    "id": "128025"
+    "id": "128025",
+    "synced": true
   },
   {
     "higestRating": 2446,
@@ -54406,7 +54414,8 @@
     "name": "MEISSNER, Felix",
     "year": "2007-2022",
     "games": 54,
-    "id": "133445"
+    "id": "133445",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -57580,7 +57589,8 @@
     "name": "DEMAC, Elias",
     "year": "2008-2010",
     "games": 49,
-    "id": "118764"
+    "id": "118764",
+    "synced": true
   },
   {
     "higestRating": 2394,
@@ -59062,7 +59072,8 @@
     "name": "BEDNIKOVA, Stefi",
     "year": "2001-2008",
     "games": 47,
-    "id": "54812"
+    "id": "54812",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -63801,7 +63812,8 @@
     "name": "KONGSEE, Uaychai",
     "year": "2007-2016",
     "games": 42,
-    "id": "127222"
+    "id": "127222",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -76145,7 +76157,8 @@
     "name": "SMIESZEK, Wojciech",
     "year": "2011-2021",
     "games": 31,
-    "id": "134536"
+    "id": "134536",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -92007,7 +92020,8 @@
     "name": "SISASK, Jesper",
     "year": "2004-2006",
     "games": 21,
-    "id": "87029"
+    "id": "87029",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -99507,7 +99521,8 @@
     "name": "MARKAROV, Arsen",
     "year": "1996-2003",
     "games": 18,
-    "id": "125721"
+    "id": "125721",
+    "synced": true
   },
   {
     "higestRating": 2333,
@@ -108392,7 +108407,8 @@
     "name": "SERICANO, Claudio",
     "year": "1988-2000",
     "games": 14,
-    "id": "107766"
+    "id": "107766",
+    "synced": true
   },
   {
     "higestRating": 2598,
@@ -112598,7 +112614,8 @@
     "name": "GORSHKOV, Yury S",
     "year": "2007-2019",
     "games": 5,
-    "id": "136647"
+    "id": "136647",
+    "synced": true
   },
   {
     "higestRating": 2280,
