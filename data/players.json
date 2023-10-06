@@ -7706,7 +7706,8 @@
     "name": "TRATAR, Marko",
     "year": "1990-2022",
     "games": 519,
-    "id": "19756"
+    "id": "19756",
+    "synced": true
   },
   {
     "higestRating": 2589,
@@ -8907,7 +8908,8 @@
     "name": "PRIE, Eric",
     "year": "1980-2020",
     "games": 460,
-    "id": "27454"
+    "id": "27454",
+    "synced": true
   },
   {
     "higestRating": 2604,
@@ -22532,7 +22534,8 @@
     "name": "NOVOPASHIN, Arkady",
     "year": "1953-1999",
     "games": 170,
-    "id": "17426"
+    "id": "17426",
+    "synced": true
   },
   {
     "higestRating": 2217,
@@ -23099,7 +23102,8 @@
     "name": "LI, Ruifeng",
     "year": "2013-2018",
     "games": 166,
-    "id": "151660"
+    "id": "151660",
+    "synced": true
   },
   {
     "higestRating": 2436,
@@ -24040,7 +24044,8 @@
     "name": "OCHSNER, Bjorn Moller",
     "year": "2007-2021",
     "games": 158,
-    "id": "117708"
+    "id": "117708",
+    "synced": true
   },
   {
     "higestRating": 2497,
@@ -29175,7 +29180,8 @@
     "name": "GELDIYEVA, Mahri",
     "year": "1994-2018",
     "games": 122,
-    "id": "54972"
+    "id": "54972",
+    "synced": true
   },
   {
     "higestRating": 2414,
@@ -39427,7 +39433,8 @@
     "name": "KE, Mu",
     "year": "2001-2019",
     "games": 84,
-    "id": "52643"
+    "id": "52643",
+    "synced": true
   },
   {
     "higestRating": 2402,
@@ -42362,7 +42369,8 @@
     "name": "GASTHOFER, Alexander",
     "year": "1998-2016",
     "games": 77,
-    "id": "81766"
+    "id": "81766",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -53419,7 +53427,8 @@
     "name": "PEDERSEN, Jan Rode",
     "year": "1972-2017",
     "games": 55,
-    "id": "22835"
+    "id": "22835",
+    "synced": true
   },
   {
     "higestRating": 2239,
@@ -56542,7 +56551,8 @@
     "name": "SHAHIL, Dey",
     "year": "2019-2022",
     "games": 51,
-    "id": "161913"
+    "id": "161913",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -60463,7 +60473,8 @@
     "name": "PIRVERDIYEV, Agil",
     "year": "2010-2016",
     "games": 46,
-    "id": "155106"
+    "id": "155106",
+    "synced": true
   },
   {
     "higestRating": 2217,
@@ -66164,7 +66175,8 @@
     "name": "HORTON, Jamie A",
     "year": "2014-2022",
     "games": 40,
-    "id": "151616"
+    "id": "151616",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -68253,7 +68265,8 @@
     "name": "PURGIN, Nikolaj",
     "year": "1989-2000",
     "games": 37,
-    "id": "25939"
+    "id": "25939",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -71160,7 +71173,8 @@
     "name": "RYCHKOV, Oleg",
     "year": "2012-2019",
     "games": 35,
-    "id": "138117"
+    "id": "138117",
+    "synced": true
   },
   {
     "higestRating": 2254,
@@ -73994,7 +74008,8 @@
     "name": "VIGLUNDSSON, Bjorgvin",
     "year": "1968-2017",
     "games": 32,
-    "id": "38227"
+    "id": "38227",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -76410,7 +76425,8 @@
     "name": "HOFMANN, Michael",
     "year": "1982-2018",
     "games": 31,
-    "id": "141266"
+    "id": "141266",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -76926,7 +76942,8 @@
     "name": "NOGUEIRA, Nelson",
     "year": "1996-2003",
     "games": 30,
-    "id": "53862"
+    "id": "53862",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -78751,7 +78768,8 @@
     "name": "VUELBAN, Virgilio",
     "year": "1997-2019",
     "games": 29,
-    "id": "90990"
+    "id": "90990",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -98178,7 +98196,8 @@
     "name": "THIEL, Kuno",
     "year": "1986-2017",
     "games": 18,
-    "id": "29027"
+    "id": "29027",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -100456,7 +100475,8 @@
     "name": "MALDONADO, Oscar",
     "year": "1991-2017",
     "games": 17,
-    "id": "14427"
+    "id": "14427",
+    "synced": true
   },
   {
     "higestRating": 2215,
@@ -108194,7 +108214,8 @@
     "name": "OLEBILE, Thato",
     "year": "2013-2020",
     "games": 15,
-    "id": "147126"
+    "id": "147126",
+    "synced": true
   },
   {
     "higestRating": 2337,
@@ -108494,7 +108515,8 @@
     "name": "OLTHOF, Rene",
     "year": "1981-1997",
     "games": 14,
-    "id": "33029"
+    "id": "33029",
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -108874,7 +108896,8 @@
     "name": "WINSTON, Peter",
     "year": "1972-1977",
     "games": 13,
-    "id": "21458"
+    "id": "21458",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -114337,7 +114360,8 @@
     "name": "PELLANT, Timothy",
     "year": "1984-1987",
     "games": 2,
-    "id": "134437"
+    "id": "134437",
+    "synced": true
   },
   {
     "higestRating": 2235,
