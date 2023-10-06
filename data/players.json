@@ -6531,7 +6531,8 @@
     "name": "TESKE, Henrik",
     "year": "1986-2018",
     "games": 609,
-    "id": "18083"
+    "id": "18083",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -9207,7 +9208,8 @@
     "name": "GRUENBERG, Hans-Ulrich",
     "year": "1972-2015",
     "games": 443,
-    "id": "28829"
+    "id": "28829",
+    "synced": true
   },
   {
     "higestRating": 2491,
@@ -15578,7 +15580,8 @@
     "name": "DANESHVAR, Bardiya",
     "year": "2016-2023",
     "games": 257,
-    "id": "156259"
+    "id": "156259",
+    "synced": true
   },
   {
     "higestRating": 2520,
@@ -20909,7 +20912,8 @@
     "name": "ZAKSAITE, Salomeja",
     "year": "1996-2023",
     "games": 185,
-    "id": "54837"
+    "id": "54837",
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -30747,7 +30751,8 @@
     "name": "SOMMERBAUER, Norbert",
     "year": "1986-2008",
     "games": 114,
-    "id": "53839"
+    "id": "53839",
+    "synced": true
   },
   {
     "higestRating": 2598,
@@ -31208,7 +31213,8 @@
     "name": "HASSABIS, Demis",
     "year": "1988-2019",
     "games": 112,
-    "id": "57778"
+    "id": "57778",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -37351,7 +37357,8 @@
     "name": "HEDJESI, Balind Nadj",
     "year": "2002-2023",
     "games": 90,
-    "id": "99205"
+    "id": "99205",
+    "synced": true
   },
   {
     "higestRating": 2426,
@@ -40094,7 +40101,8 @@
     "name": "MENGHI, Carlo",
     "year": "1987-2000",
     "games": 82,
-    "id": "46523"
+    "id": "46523",
+    "synced": true
   },
   {
     "higestRating": 2344,
@@ -58990,7 +58998,8 @@
     "name": "SIGALAS, Frangiskos",
     "year": "1999-2012",
     "games": 47,
-    "id": "51674"
+    "id": "51674",
+    "synced": true
   },
   {
     "higestRating": 2404,
@@ -67223,7 +67232,8 @@
     "name": "MIANA, Elias",
     "year": "1967-1986",
     "games": 38,
-    "id": "40314"
+    "id": "40314",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -72001,7 +72011,8 @@
     "name": "CSISZAR, Zoltan",
     "year": "1992-2013",
     "games": 34,
-    "id": "106197"
+    "id": "106197",
+    "synced": true
   },
   {
     "higestRating": 2296,
@@ -76541,7 +76552,8 @@
     "name": "LUKEZ, Franko",
     "year": "1988-2022",
     "games": 30,
-    "id": "27579"
+    "id": "27579",
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -76768,7 +76780,8 @@
     "name": "ZIERKE, Oliver",
     "year": "1988-2016",
     "games": 30,
-    "id": "56370"
+    "id": "56370",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -90343,7 +90356,8 @@
     "name": "NAGEL, Bernhard",
     "year": "2005-2016",
     "games": 22,
-    "id": "110023"
+    "id": "110023",
+    "synced": true
   },
   {
     "higestRating": 2273,
@@ -103102,7 +103116,8 @@
     "name": "DAVID, Edwin",
     "year": "1990-2017",
     "games": 16,
-    "id": "45261"
+    "id": "45261",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -104408,7 +104423,8 @@
     "name": "MATORIN, Evgeny",
     "year": "1990-2012",
     "games": 16,
-    "id": "101359"
+    "id": "101359",
+    "synced": true
   },
   {
     "higestRating": 2387,
@@ -109385,7 +109401,8 @@
     "name": "BORN, Carlos Rodrigo",
     "year": "2006-2022",
     "games": 12,
-    "id": "107274"
+    "id": "107274",
+    "synced": true
   },
   {
     "higestRating": 2240,

@@ -1,0 +1,14 @@
+[Event "London op"]
+[Site "London"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Graham Paterson"]
+[Black "Demis Hassabis"]
+[ECO "A03"]
+[WhiteElo "?"]
+[BlackElo "2260"]
+[PlyCount "108"]
+
+1. f4 d5 2. g3 Nf6 3. Nf3 e6 4. Bg2 Bd6 5. O-O O-O 6. b3 Nbd7 7. Bb2 c6 8. e3 Qc7 9. d4 Ne4 10. Nbd2 f5 11. Nxe4 fxe4 12. Nd2 Nf6 13. Qe2 b6 14. c4 Ba6 15. Rfc1 Qe7 16. a3 c5 17. Qe1 Bb7 18. a4 a5 19. Rc2 Rac8 20. Kh1 Rc7 21. Qe2 Ba6 22. Qd1 Rfc8 23. g4 Qf7 24. g5 Nd7 25. cxd5 exd5 26. Qg4 Nb8 27. Rg1 Nc6 28. f5 cxd4 29. g6 hxg6 30. fxg6 Qf6 31. Qh5 Ne5 32. Rxc7 Rxc7 33. Qh7+ Kf8 34. Bxd4 Rc2 35. Qh8+ Ke7 36. Bxb6 Rc8 37. Qh3 Nd3 38. Rf1 Nf2+ 39. Rxf2 Qxf2 40. Bf1 Rc1 41. Qg2 Rxf1+ 42. Nxf1 Qxf1+ 43. Qxf1 Bxf1 44. Bxa5 Kf6 45. Bc3+ Kxg6 46. b4 Bd3 47. Kg2 Bc2 48. a5 Bd3 49. h3 Kf7 50. h4 g6 51. Kh3 Be2 52. Be1 Ke6 53. Bc3 Kf5 54. Be1 Bf1# 0-1
