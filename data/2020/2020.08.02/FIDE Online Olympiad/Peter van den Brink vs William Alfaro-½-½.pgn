@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.02"]
+[EventDate "2020.07.31"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Peter van den Brink"]
+[Black "William Alfaro"]
+[ECO "A15"]
+[WhiteElo "2180"]
+[BlackElo "2165"]
+[PlyCount "42"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 O-O 5. e4 d6 6. Nge2 c5 7. O-O Nc6 8. h3 a6 9. a4 Rb8 10. d3 Bd7 11. Be3 Ne8 12. f4 b5 13. axb5 axb5 14. Nxb5 Nc7 15. Nec3 Nxb5 16. Nxb5 Bxb2 17. Rb1 Bg7 18. f5 Nd4 19. Nxd4 cxd4 20. Rxb8 Qxb8 21. Bg5 Qd8 1/2-1/2
