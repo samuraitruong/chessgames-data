@@ -1504,7 +1504,8 @@
     "name": "ANDREIKIN, Dmitry",
     "year": "1999-2023",
     "games": 1498,
-    "id": "49702"
+    "id": "49702",
+    "synced": true
   },
   {
     "higestRating": 2686,
@@ -18114,7 +18115,8 @@
     "name": "TEIXEIRA, Ricardo da Silva",
     "year": "1978-2018",
     "games": 218,
-    "id": "52927"
+    "id": "52927",
+    "synced": true
   },
   {
     "higestRating": 2408,
@@ -45125,7 +45127,8 @@
     "name": "JOAO, Nevio",
     "year": "1995-2011",
     "games": 71,
-    "id": "105438"
+    "id": "105438",
+    "synced": true
   },
   {
     "higestRating": 2246,
@@ -50378,7 +50381,8 @@
     "name": "MURILLO, Amalia Aranaz",
     "year": "2006-2016",
     "games": 61,
-    "id": "117961"
+    "id": "117961",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -52756,7 +52760,8 @@
     "name": "RADASHKOVICH, Itchak",
     "year": "1968-1978",
     "games": 56,
-    "id": "15286"
+    "id": "15286",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -57480,7 +57485,8 @@
     "name": "PILS, Walter",
     "year": "1967-1995",
     "games": 49,
-    "id": "43590"
+    "id": "43590",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -58461,7 +58467,8 @@
     "name": "KARP, Ilya",
     "year": "2004-2023",
     "games": 48,
-    "id": "88186"
+    "id": "88186",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -109774,7 +109781,8 @@
     "name": "WINDELBAND, Jens",
     "year": "2007-2016",
     "games": 12,
-    "id": "110032"
+    "id": "110032",
+    "synced": true
   },
   {
     "higestRating": 2207,
