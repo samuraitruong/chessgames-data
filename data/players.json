@@ -4164,7 +4164,8 @@
     "name": "PETROSYAN, Manuel",
     "year": "2007-2023",
     "games": 866,
-    "id": "117611"
+    "id": "117611",
+    "synced": true
   },
   {
     "higestRating": 2682,
@@ -8417,7 +8418,8 @@
     "name": "BACHMANN, Axel",
     "year": "1995-2023",
     "games": 482,
-    "id": "56835"
+    "id": "56835",
+    "synced": true
   },
   {
     "higestRating": 2494,
@@ -18947,7 +18949,8 @@
     "name": "CHADAEV, Nikolai",
     "year": "2000-2013",
     "games": 208,
-    "id": "105526"
+    "id": "105526",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -26934,7 +26937,8 @@
     "name": "KAZARIAN, Anna-Maja",
     "year": "2012-2023",
     "games": 136,
-    "id": "141280"
+    "id": "141280",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -30062,7 +30066,8 @@
     "name": "HABIBI, Ali",
     "year": "1987-2019",
     "games": 117,
-    "id": "100975"
+    "id": "100975",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -58062,7 +58067,8 @@
     "name": "JESKE, Eckhard",
     "year": "1970-2016",
     "games": 48,
-    "id": "82675"
+    "id": "82675",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -61107,7 +61113,8 @@
     "name": "ANCIAUX, Marc",
     "year": "1988-2019",
     "games": 45,
-    "id": "195356"
+    "id": "195356",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -70302,7 +70309,8 @@
     "name": "MUSAT, Adrian",
     "year": "1992-2018",
     "games": 35,
-    "id": "62131"
+    "id": "62131",
+    "synced": true
   },
   {
     "higestRating": 2213,
@@ -72823,7 +72831,8 @@
     "name": "BALABAEV, Timur",
     "year": "2001-2017",
     "games": 33,
-    "id": "84955"
+    "id": "84955",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -73819,7 +73828,8 @@
     "name": "DJORIC, Dusan",
     "year": "1988-2022",
     "games": 32,
-    "id": "55495"
+    "id": "55495",
+    "synced": true
   },
   {
     "higestRating": 2391,
@@ -88413,7 +88423,8 @@
     "name": "LAMBERT, Grant R",
     "year": "1989-2006",
     "games": 23,
-    "id": "120776"
+    "id": "120776",
+    "synced": true
   },
   {
     "higestRating": 2258,
@@ -94700,7 +94711,8 @@
     "name": "CECCONI, Giovanni Alberto",
     "year": "1985-2005",
     "games": 20,
-    "id": "130194"
+    "id": "130194",
+    "synced": true
   },
   {
     "higestRating": 2306,
@@ -96450,7 +96462,8 @@
     "name": "SANTORROMAN, David Lafarga",
     "year": "2002-2012",
     "games": 19,
-    "id": "97751"
+    "id": "97751",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -104246,7 +104259,8 @@
     "name": "KRSTIC, Petar",
     "year": "2006-2021",
     "games": 16,
-    "id": "106669"
+    "id": "106669",
+    "synced": true
   },
   {
     "higestRating": 2293,
@@ -108786,7 +108800,8 @@
     "name": "KUHLMANN, Anton E J",
     "year": "1973-1997",
     "games": 12,
-    "id": "36484"
+    "id": "36484",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -109195,7 +109210,8 @@
     "name": "UKSINI, Bardhyl",
     "year": "2012-2017",
     "games": 12,
-    "id": "140022"
+    "id": "140022",
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -113812,7 +113828,8 @@
     "name": "LEHMENSICK, Jochen",
     "year": "1972-1984",
     "games": 2,
-    "id": "145405"
+    "id": "145405",
+    "synced": true
   },
   {
     "higestRating": 2304,
