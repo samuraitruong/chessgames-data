@@ -1,0 +1,14 @@
+[Event "Banyoles Open"]
+[Site "Banyoles ESP"]
+[Date "2005.08.17"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Lluis Riera Sola"]
+[Black "Stefan Bromberger"]
+[ECO "A07"]
+[WhiteElo "2067"]
+[BlackElo "2491"]
+[PlyCount "48"]
+
+1.e4 c5 2.Nc3 d6 3.g3 Nc6 4.Bg2 g6 5.d3 Bg7 6.Nge2 Nf6 7.O-O O-O 8.h3 Rb8 9.Be3 b5 10.Qd2 b4 11.Nd1 Re8 12.f4 Nd7 13.g4 a5 14.c3 a4 15.Ng3 a3 16.bxa3 bxc3 17.Qc2 Nd4 18.Bxd4 cxd4 19.Rb1 Rxb1 20.Qxb1 e5 21.f5 Nc5 22.Rf2 Bh6 23.Bf1 Re7 24.fxg6 hxg6 0-1
