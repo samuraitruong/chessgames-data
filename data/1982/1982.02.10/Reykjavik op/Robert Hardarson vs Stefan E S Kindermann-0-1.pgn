@@ -1,0 +1,14 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik ISL"]
+[Date "1982.02.10"]
+[EventDate "1982.02.09"]
+[Round "2"]
+[Result "0-1"]
+[White "Robert Hardarson"]
+[Black "Stefan E S Kindermann"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "2410"]
+[PlyCount "40"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Bd3 O-O 6.Nf3 Na6 7.O-O c5 8.e5 Ng4 9.exd6 cxd4 10.dxe7 Qxe7 11.Ne4 Nb4 12.Re1 Nd5 13.Qe2 Nge3 14.g3 Re8 15.Nf2 Bd7 16.Nd1 Qc5 17.Nxe3 Nxe3 18.Bxe3 Rxe3 19.Qf2 Rae8 20.a3 Bc6 0-1
