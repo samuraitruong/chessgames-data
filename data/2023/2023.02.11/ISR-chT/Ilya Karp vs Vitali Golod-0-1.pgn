@@ -1,0 +1,14 @@
+[Event "ISR-chT"]
+[Site "ISR"]
+[Date "2023.02.11"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Ilya Karp"]
+[Black "Vitali Golod"]
+[ECO "C83"]
+[WhiteElo "2392"]
+[BlackElo "2501"]
+[PlyCount "50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6 9.c3 Be7 10.Nbd2 Nc5 11.Bc2 d4 12.Nb3 d3 13.Bb1 Nxb3 14.axb3 Bf5 15.Be3 O-O 16.Bd4 Qd5 17.Re1 Rfd8 18.Re3 Nxd4 19.cxd4 c5 20.Bxd3 cxd4 21.Bxf5 dxe3 22.Qxd5 Rxd5 23.Be4 Rdd8 24.Bxa8 e2 25.Re1 Rd1 0-1

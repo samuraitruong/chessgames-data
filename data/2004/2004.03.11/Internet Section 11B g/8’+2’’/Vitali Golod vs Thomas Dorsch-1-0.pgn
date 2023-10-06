@@ -1,0 +1,14 @@
+[Event "Internet Section 11B g/8’+2’’"]
+[Site "Dos Hermanas"]
+[Date "2004.03.11"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Vitali Golod"]
+[Black "Thomas Dorsch"]
+[ECO "E70"]
+[WhiteElo "2544"]
+[BlackElo "2109"]
+[PlyCount "42"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Nf3 a6 6.e5 Ne8 7.h4 h5 8.Bd3 d6 9.Qe2 Bg4 10.Qe3 Nc6 11.e6 f5 12.d5 Bxf3 13.gxf3 Nd4 14.f4 c5 15.Rg1 Rf6 16.Ne2 Nxe2 17.Qxe2 b5 18.Bd2 Nc7 19.Bc3 Kh7 20.Bxf6 Bxf6 21.Bxf5 1-0
