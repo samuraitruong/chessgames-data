@@ -4943,7 +4943,8 @@
     "name": "POPOV, Valerij",
     "year": "1990-2021",
     "games": 763,
-    "id": "49075"
+    "id": "49075",
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -7120,7 +7121,8 @@
     "name": "ALVAREZ, Alejandro Ramirez",
     "year": "1998-2021",
     "games": 563,
-    "id": "49584"
+    "id": "49584",
+    "synced": true
   },
   {
     "higestRating": 2527,
@@ -17769,7 +17771,8 @@
     "name": "QUILLAN, Gary",
     "year": "1986-2019",
     "games": 221,
-    "id": "15855"
+    "id": "15855",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -25556,7 +25559,8 @@
     "name": "PEKAREK, Ales",
     "year": "1980-2020",
     "games": 146,
-    "id": "18182"
+    "id": "18182",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -28950,7 +28954,8 @@
     "name": "DEMIANJUK, Alexander",
     "year": "1998-2019",
     "games": 123,
-    "id": "107157"
+    "id": "107157",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -62981,7 +62986,8 @@
     "name": "MARKOV, Mikhail",
     "year": "2010-2022",
     "games": 43,
-    "id": "127196"
+    "id": "127196",
+    "synced": true
   },
   {
     "higestRating": 2429,
@@ -66118,7 +66124,8 @@
     "name": "BALZAR, Andreas",
     "year": "1988-2006",
     "games": 39,
-    "id": "17830"
+    "id": "17830",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -66884,7 +66891,8 @@
     "name": "GALLAGHER, Daniel G H",
     "year": "2015-2020",
     "games": 39,
-    "id": "154122"
+    "id": "154122",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -82078,7 +82086,8 @@
     "name": "DRORI, Saar",
     "year": "2015-2018",
     "games": 27,
-    "id": "152521"
+    "id": "152521",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -82335,7 +82344,8 @@
     "name": "MOZALIOV, Sergey V",
     "year": "1994-2003",
     "games": 26,
-    "id": "25279"
+    "id": "25279",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -83427,7 +83437,8 @@
     "name": "SANTOS, Hugo Lima",
     "year": "2008-2016",
     "games": 26,
-    "id": "117775"
+    "id": "117775",
+    "synced": true
   },
   {
     "higestRating": 2473,
@@ -89875,7 +89886,8 @@
     "name": "GASPARIAN, Tigran",
     "year": "1992-2014",
     "games": 22,
-    "id": "74118"
+    "id": "74118",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -98837,7 +98849,8 @@
     "name": "SYCHEV, Anatoly Viktorovich",
     "year": "1977-2003",
     "games": 18,
-    "id": "90134"
+    "id": "90134",
+    "synced": true
   },
   {
     "higestRating": 2315,

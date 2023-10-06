@@ -1,0 +1,14 @@
+[Event "Pro Chess League"]
+[Site "chess.com INT"]
+[Date "2018.03.07"]
+[EventDate "2018.01.18"]
+[Round "9"]
+[Result "0-1"]
+[White "Federico Perez Ponsa"]
+[Black "Alejandro Ramirez Alvarez"]
+[ECO "A09"]
+[WhiteElo "2553"]
+[BlackElo "2568"]
+[PlyCount "46"]
+
+1. Nf3 d5 2. c4 d4 3. b4 f6 4. c5 a5 5. Qa4+ Bd7 6. b5 e5 7. e3 Bxc5 8. Bc4 Ne7 9. exd4 exd4 10. Ba3 Na6 11. O-O Nb4 12. Re1 Bg4 13. Qb3 Qd7 14. Bf7+ Kf8 15. Bxb4 axb4 16. Bc4 d3 17. a3 Bxf3 18. gxf3 Qd4 19. Re3 Qxa1 20. Rxd3 bxa3 21. Kg2 Ng6 22. Rd7 Ne5 23. Rxc7 Qd4 0-1
