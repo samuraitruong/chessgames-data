@@ -4074,7 +4074,8 @@
     "name": "ZAPATA, Alonso",
     "year": "1977-2020",
     "games": 879,
-    "id": "14235"
+    "id": "14235",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -8853,7 +8854,8 @@
     "name": "DUDAS, Janos",
     "year": "1989-2007",
     "games": 462,
-    "id": "169051"
+    "id": "169051",
+    "synced": true
   },
   {
     "higestRating": 2486,
@@ -14652,7 +14654,8 @@
     "name": "PEEV, Peycho",
     "year": "1954-2007",
     "games": 273,
-    "id": "17961"
+    "id": "17961",
+    "synced": true
   },
   {
     "higestRating": 2571,
@@ -24172,7 +24175,8 @@
     "name": "FOMINA, Tatyana",
     "year": "1968-2014",
     "games": 156,
-    "id": "51539"
+    "id": "51539",
+    "synced": true
   },
   {
     "higestRating": 2456,
@@ -26162,7 +26166,8 @@
     "name": "SCHAUFELBERGER, Heinz",
     "year": "1966-2009",
     "games": 141,
-    "id": "17949"
+    "id": "17949",
+    "synced": true
   },
   {
     "higestRating": 2313,
@@ -27960,7 +27965,8 @@
     "name": "GOKERKAN, Cem Kaan",
     "year": "2015-2023",
     "games": 129,
-    "id": "153411"
+    "id": "153411",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -32053,7 +32059,8 @@
     "name": "LUPU, Mircea-Sergiu",
     "year": "1989-2007",
     "games": 109,
-    "id": "51909"
+    "id": "51909",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -36306,7 +36313,8 @@
     "name": "VAJDA, Albert",
     "year": "1993-2021",
     "games": 93,
-    "id": "28924"
+    "id": "28924",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -40956,7 +40964,8 @@
     "name": "JONES, Craig",
     "year": "1991-2023",
     "games": 80,
-    "id": "57358"
+    "id": "57358",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -45435,7 +45444,8 @@
     "name": "GEVORGYAN, David",
     "year": "2007-2019",
     "games": 70,
-    "id": "118815"
+    "id": "118815",
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -54221,7 +54231,8 @@
     "name": "WEGERER, Fred",
     "year": "1986-2018",
     "games": 54,
-    "id": "81760"
+    "id": "81760",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -58864,7 +58875,8 @@
     "name": "BARLOW, John A",
     "year": "1982-2000",
     "games": 47,
-    "id": "40194"
+    "id": "40194",
+    "synced": true
   },
   {
     "higestRating": 2252,
@@ -61256,7 +61268,8 @@
     "name": "SIMKIN, Yuri",
     "year": "1961-1999",
     "games": 44,
-    "id": "12260"
+    "id": "12260",
+    "synced": true
   },
   {
     "higestRating": 2450,
@@ -62061,7 +62074,8 @@
     "name": "ARIAS, Daniel",
     "year": "2011-2020",
     "games": 44,
-    "id": "140159"
+    "id": "140159",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -75278,7 +75292,8 @@
     "name": "DULCE, Rafael Saladen",
     "year": "1998-2012",
     "games": 31,
-    "id": "53128"
+    "id": "53128",
+    "synced": true
   },
   {
     "higestRating": 2443,
@@ -85765,7 +85780,8 @@
     "name": "CALOGRIDIS, Michael",
     "year": "1985-2014",
     "games": 25,
-    "id": "178124"
+    "id": "178124",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -89060,7 +89076,8 @@
     "name": "NALBANT, Tuna Onat",
     "year": "2017-2019",
     "games": 23,
-    "id": "159219"
+    "id": "159219",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -90504,7 +90521,8 @@
     "name": "COLINDRES, Daniel",
     "year": "1986-2016",
     "games": 22,
-    "id": "127267"
+    "id": "127267",
+    "synced": true
   },
   {
     "higestRating": 2221,
@@ -100767,7 +100785,8 @@
     "name": "VASTA, Eduardo",
     "year": "1972-2004",
     "games": 17,
-    "id": "58303"
+    "id": "58303",
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -104676,7 +104695,8 @@
     "name": "POCHINKOV, Andrey",
     "year": "2008-2009",
     "games": 16,
-    "id": "118564"
+    "id": "118564",
+    "synced": true
   },
   {
     "higestRating": 2314,
@@ -113413,7 +113433,8 @@
     "name": "IPSARIDES, Herodotos",
     "year": "1998",
     "games": 3,
-    "id": "125026"
+    "id": "125026",
+    "synced": true
   },
   {
     "higestRating": 2507,
@@ -114275,7 +114296,8 @@
     "name": "BON, John A Le",
     "year": "2004",
     "games": 1,
-    "id": "85697"
+    "id": "85697",
+    "synced": true
   },
   {
     "higestRating": 2294,
