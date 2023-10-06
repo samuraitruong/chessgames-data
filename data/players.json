@@ -5656,7 +5656,8 @@
     "name": "BAKLAN, Vladimir",
     "year": "1992-2023",
     "games": 690,
-    "id": "64696"
+    "id": "64696",
+    "synced": true
   },
   {
     "higestRating": 2671,
@@ -17086,7 +17087,8 @@
     "name": "FROLOV, Artur",
     "year": "1984-2020",
     "games": 230,
-    "id": "21965"
+    "id": "21965",
+    "synced": true
   },
   {
     "higestRating": 2512,
@@ -18056,7 +18058,8 @@
     "name": "FILIPENKO, Alexander V",
     "year": "1976-2022",
     "games": 217,
-    "id": "27284"
+    "id": "27284",
+    "synced": true
   },
   {
     "higestRating": 2392,
@@ -19740,7 +19743,8 @@
     "name": "ZAWADZKA, Beata",
     "year": "1998-2017",
     "games": 198,
-    "id": "54442"
+    "id": "54442",
+    "synced": true
   },
   {
     "higestRating": 2342,
@@ -27051,7 +27055,8 @@
     "name": "REN, Xiaoyi",
     "year": "2011-2023",
     "games": 135,
-    "id": "133520"
+    "id": "133520",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -32927,7 +32932,8 @@
     "name": "OLSEN, Heini",
     "year": "1986-2010",
     "games": 105,
-    "id": "49747"
+    "id": "49747",
+    "synced": true
   },
   {
     "higestRating": 2329,
@@ -38318,7 +38324,8 @@
     "name": "VALENCIA, Angela Maria Franco",
     "year": "2004-2020",
     "games": 87,
-    "id": "127814"
+    "id": "127814",
+    "synced": true
   },
   {
     "higestRating": 2373,
@@ -41631,7 +41638,8 @@
     "name": "AGUIRRE, Manuel Abarca",
     "year": "1982-2003",
     "games": 78,
-    "id": "58302"
+    "id": "58302",
+    "synced": true
   },
   {
     "higestRating": 2353,
@@ -62898,7 +62906,8 @@
     "name": "GORMAZ, Matias Perez",
     "year": "2012-2022",
     "games": 43,
-    "id": "149254"
+    "id": "149254",
+    "synced": true
   },
   {
     "higestRating": 2259,
@@ -65438,7 +65447,8 @@
     "name": "HAMDANI, Rudin",
     "year": "1992-2013",
     "games": 40,
-    "id": "84022"
+    "id": "84022",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -65746,7 +65756,8 @@
     "name": "VAN HASSELT, Frank",
     "year": "1984-2012",
     "games": 40,
-    "id": "135282"
+    "id": "135282",
+    "synced": true
   },
   {
     "higestRating": 2466,
@@ -71602,7 +71613,8 @@
     "name": "VAINERMAN, Igor",
     "year": "1982-1991",
     "games": 34,
-    "id": "86456"
+    "id": "86456",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -72082,7 +72094,8 @@
     "name": "STATHOPOULOS, Ioannis",
     "year": "2011-2019",
     "games": 34,
-    "id": "139027"
+    "id": "139027",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -75327,7 +75340,8 @@
     "name": "SCHACHER, Gerd",
     "year": "1992-2015",
     "games": 31,
-    "id": "65190"
+    "id": "65190",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -81025,7 +81039,8 @@
     "name": "KUZNETSOV, Kirill",
     "year": "2000-2014",
     "games": 27,
-    "id": "51670"
+    "id": "51670",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -92206,7 +92221,8 @@
     "name": "TOLENTINO, Rustum",
     "year": "2007-2013",
     "games": 21,
-    "id": "113126"
+    "id": "113126",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -94661,7 +94677,8 @@
     "name": "MANOJLO, Mikhail",
     "year": "1997-2000",
     "games": 20,
-    "id": "126538"
+    "id": "126538",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -106802,7 +106819,8 @@
     "name": "MUHEIM, Sebastian",
     "year": "2005-2010",
     "games": 15,
-    "id": "96364"
+    "id": "96364",
+    "synced": true
   },
   {
     "higestRating": 2208,
@@ -112919,7 +112937,8 @@
     "name": "ANGQVIST, Thore",
     "year": "1986-1992",
     "games": 3,
-    "id": "17727"
+    "id": "17727",
+    "synced": true
   },
   {
     "higestRating": 2263,
