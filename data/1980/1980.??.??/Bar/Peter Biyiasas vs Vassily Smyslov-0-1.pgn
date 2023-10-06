@@ -1,0 +1,15 @@
+[Event "Bar"]
+[Site "Bar YUG"]
+[Date "1980.??.??"]
+[EventDate "1980.10.00"]
+[Round "?"]
+[Result "0-1"]
+[White "Peter Biyiasas"]
+[Black "Vassily Smyslov"]
+[ECO "C41"]
+[WhiteElo "2485"]
+[BlackElo "2550"]
+[Source "ChessBase"]
+[PlyCount "42"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Bd7 5. Bg5 Nc6 6. Qd2 Be7 7. Bxe7 Qxe7 8. Nc3 Nf6 9. O-O-O O-O-O 10. Bd3 Rhe8 11. Rhe1 Ne5 12. Nd4 Nxd3+ 13. cxd3 Qe5 14. Nf3 Qa5 15. h3 Be6 16. Kb1 d5 17. e5 d4 18. exf6 dxc3 19. bxc3 gxf6 20. Nd4 Rxd4 21. cxd4 0-1

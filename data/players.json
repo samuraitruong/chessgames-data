@@ -233,7 +233,8 @@
     "name": "SMYSLOV, Vasily",
     "year": "1935-2001",
     "games": 2793,
-    "id": "14676"
+    "id": "14676",
+    "synced": true
   },
   {
     "higestRating": 2798,
@@ -22594,7 +22595,8 @@
     "name": "KJARTANSSON, David",
     "year": "1992-2022",
     "games": 170,
-    "id": "56536"
+    "id": "56536",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -99022,7 +99024,8 @@
     "name": "OZOLINS, Aris",
     "year": "2003-2017",
     "games": 18,
-    "id": "82233"
+    "id": "82233",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -104435,7 +104438,8 @@
     "name": "CHRAPKOWSKI, Grzegorz",
     "year": "1976-1999",
     "games": 16,
-    "id": "92156"
+    "id": "92156",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -107757,7 +107761,8 @@
     "name": "SAMDANOV, Samdan",
     "year": "2008-2016",
     "games": 15,
-    "id": "117649"
+    "id": "117649",
+    "synced": true
   },
   {
     "higestRating": 2235,
