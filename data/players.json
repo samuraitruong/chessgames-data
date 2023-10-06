@@ -11575,7 +11575,8 @@
     "name": "KIRIAKOV, Petr",
     "year": "1990-2019",
     "games": 355,
-    "id": "42811"
+    "id": "42811",
+    "synced": true
   },
   {
     "higestRating": 2560,
@@ -12504,7 +12505,8 @@
     "name": "LAZAREV, Vladimir",
     "year": "1982-2021",
     "games": 326,
-    "id": "17109"
+    "id": "17109",
+    "synced": true
   },
   {
     "higestRating": 2238,
@@ -13537,7 +13539,8 @@
     "name": "KOMLIAKOV, Viktor",
     "year": "1989-2017",
     "games": 299,
-    "id": "18277"
+    "id": "18277",
+    "synced": true
   },
   {
     "higestRating": 2426,
@@ -14021,7 +14024,8 @@
     "name": "ZHANG, Xiaowen",
     "year": "1999-2023",
     "games": 289,
-    "id": "87910"
+    "id": "87910",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -18362,7 +18366,8 @@
     "name": "GINSBURG, Mark",
     "year": "1974-2022",
     "games": 214,
-    "id": "15432"
+    "id": "15432",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -26401,7 +26406,8 @@
     "name": "REYES, Juan",
     "year": "1979-1995",
     "games": 140,
-    "id": "20848"
+    "id": "20848",
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -35461,7 +35467,8 @@
     "name": "SANAKOEV, Grigory",
     "year": "1960-2012",
     "games": 97,
-    "id": "80734"
+    "id": "80734",
+    "synced": true
   },
   {
     "higestRating": 2283,
@@ -37132,7 +37139,8 @@
     "name": "KERR, Stephen G R",
     "year": "1979-2012",
     "games": 91,
-    "id": "85321"
+    "id": "85321",
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -41723,7 +41731,8 @@
     "name": "SONNTAG, Hans-Hubert",
     "year": "1981-2021",
     "games": 78,
-    "id": "19697"
+    "id": "19697",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -42800,7 +42809,8 @@
     "name": "KOTAN, Ladislav",
     "year": "1991-2006",
     "games": 76,
-    "id": "53508"
+    "id": "53508",
+    "synced": true
   },
   {
     "higestRating": 2444,
@@ -59895,7 +59905,8 @@
     "name": "SABORIDO, Rafael",
     "year": "1948-1969",
     "games": 46,
-    "id": "27972"
+    "id": "27972",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -62362,7 +62373,8 @@
     "name": "BAYRAMOV, Zaur",
     "year": "2015-2023",
     "games": 44,
-    "id": "153900"
+    "id": "153900",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -63279,7 +63291,8 @@
     "name": "LUONG, Phuong Hanh",
     "year": "2002-2020",
     "games": 43,
-    "id": "149979"
+    "id": "149979",
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -64974,7 +64987,8 @@
     "name": "NOSOV, Andrey",
     "year": "1997-2011",
     "games": 41,
-    "id": "118814"
+    "id": "118814",
+    "synced": true
   },
   {
     "higestRating": 2212,
@@ -68097,7 +68111,8 @@
     "name": "FATIANOVA, Tatiana",
     "year": "2001-2019",
     "games": 38,
-    "id": "134177"
+    "id": "134177",
+    "synced": true
   },
   {
     "higestRating": 2382,
@@ -77308,7 +77323,8 @@
     "name": "HOLZHAEUER, Mathias",
     "year": "1987-2002",
     "games": 30,
-    "id": "89901"
+    "id": "89901",
+    "synced": true
   },
   {
     "higestRating": 2332,
@@ -78917,7 +78933,8 @@
     "name": "THERRIEN, Alex",
     "year": "2005-2016",
     "games": 29,
-    "id": "96355"
+    "id": "96355",
+    "synced": true
   },
   {
     "higestRating": 2232,
@@ -79600,7 +79617,8 @@
     "name": "SUTORIKHIN, Vladimir",
     "year": "1988-2006",
     "games": 28,
-    "id": "17108"
+    "id": "17108",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -100780,7 +100798,8 @@
     "name": "HOTTING, Arend",
     "year": "1985-2004",
     "games": 17,
-    "id": "33472"
+    "id": "33472",
+    "synced": true
   },
   {
     "higestRating": 2326,
@@ -105945,7 +105964,8 @@
     "name": "IANOVSKY, Alexander",
     "year": "1997-2006",
     "games": 15,
-    "id": "12275"
+    "id": "12275",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -114803,7 +114823,8 @@
     "name": "CRANE, David E",
     "year": "1988",
     "games": 1,
-    "id": "90514"
+    "id": "90514",
+    "synced": true
   },
   {
     "higestRating": 2250,
