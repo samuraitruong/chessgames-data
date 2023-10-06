@@ -7442,7 +7442,8 @@
     "name": "OBUKHOV, Alexander",
     "year": "1989-2008",
     "games": 536,
-    "id": "18254"
+    "id": "18254",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -8272,7 +8273,8 @@
     "name": "MAROVIC, Drazen",
     "year": "1957-1990",
     "games": 487,
-    "id": "47933"
+    "id": "47933",
+    "synced": true
   },
   {
     "higestRating": 2562,
@@ -11172,7 +11174,8 @@
     "name": "KANTANS, Toms",
     "year": "2004-2023",
     "games": 366,
-    "id": "119998"
+    "id": "119998",
+    "synced": true
   },
   {
     "higestRating": 2523,
@@ -19148,7 +19151,8 @@
     "name": "MURDZIA, Piotr",
     "year": "1991-2020",
     "games": 205,
-    "id": "38099"
+    "id": "38099",
+    "synced": true
   },
   {
     "higestRating": 2418,
@@ -35375,7 +35379,8 @@
     "name": "MICHAELSEN, Nils",
     "year": "1986-2006",
     "games": 96,
-    "id": "11725"
+    "id": "11725",
+    "synced": true
   },
   {
     "higestRating": 2402,
@@ -36317,7 +36322,8 @@
     "name": "VOJINOVIC, Goran",
     "year": "1993-2014",
     "games": 93,
-    "id": "49481"
+    "id": "49481",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -38736,7 +38742,8 @@
     "name": "LISENKO, Alexander",
     "year": "1968-2017",
     "games": 85,
-    "id": "14030"
+    "id": "14030",
+    "synced": true
   },
   {
     "higestRating": 2423,
@@ -49687,7 +49694,8 @@
     "name": "VAN GISBERGEN, Stan",
     "year": "1988-2010",
     "games": 61,
-    "id": "21989"
+    "id": "21989",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -57295,7 +57303,8 @@
     "name": "ZALKIND, Konstantin",
     "year": "1997-2015",
     "games": 49,
-    "id": "58232"
+    "id": "58232",
+    "synced": true
   },
   {
     "higestRating": 2349,
@@ -65502,7 +65511,8 @@
     "name": "MARTINEZ, Danilo Sirias",
     "year": "1984-2006",
     "games": 40,
-    "id": "88723"
+    "id": "88723",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -87368,7 +87378,8 @@
     "name": "BERNAL, Eduardo",
     "year": "1980-1991",
     "games": 23,
-    "id": "28808"
+    "id": "28808",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -88247,7 +88258,8 @@
     "name": "TIMAGIN, Piotr",
     "year": "1997-2001",
     "games": 23,
-    "id": "102291"
+    "id": "102291",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -112197,7 +112209,8 @@
     "name": "JANOS, Jozef",
     "year": "1987-2000",
     "games": 5,
-    "id": "70309"
+    "id": "70309",
+    "synced": true
   },
   {
     "higestRating": 2258,
