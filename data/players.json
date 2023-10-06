@@ -6597,7 +6597,8 @@
     "name": "BUKIC, Enver",
     "year": "1960-2000",
     "games": 607,
-    "id": "42487"
+    "id": "42487",
+    "synced": true
   },
   {
     "higestRating": 2650,
@@ -15852,7 +15853,8 @@
     "name": "BERCHTENBREITER, Maximilian",
     "year": "2003-2022",
     "games": 253,
-    "id": "120001"
+    "id": "120001",
+    "synced": true
   },
   {
     "higestRating": 2515,
@@ -16449,7 +16451,8 @@
     "name": "MAHJOOB, Morteza",
     "year": "2000-2018",
     "games": 241,
-    "id": "52585"
+    "id": "52585",
+    "synced": true
   },
   {
     "higestRating": 2272,
@@ -18864,7 +18867,8 @@
     "name": "SAVITSKIY, Sergey",
     "year": "2006-2022",
     "games": 209,
-    "id": "113635"
+    "id": "113635",
+    "synced": true
   },
   {
     "higestRating": 2481,
@@ -28783,7 +28787,8 @@
     "name": "SARAKAUSKIENE, Zivile",
     "year": "1995-2015",
     "games": 124,
-    "id": "94536"
+    "id": "94536",
+    "synced": true
   },
   {
     "higestRating": 2423,
@@ -34265,7 +34270,8 @@
     "name": "MERIBANOV, Vitaly",
     "year": "2010-2018",
     "games": 101,
-    "id": "134936"
+    "id": "134936",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -41660,7 +41666,8 @@
     "name": "HEDKE, Fred",
     "year": "1988-2017",
     "games": 78,
-    "id": "26771"
+    "id": "26771",
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -51784,7 +51791,8 @@
     "name": "GAEALAFSHWE, Barileng",
     "year": "2006-2018",
     "games": 58,
-    "id": "103384"
+    "id": "103384",
+    "synced": true
   },
   {
     "higestRating": 2232,
@@ -56360,7 +56368,8 @@
     "name": "KUMAR, Gaurav",
     "year": "2014-2022",
     "games": 51,
-    "id": "151630"
+    "id": "151630",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -57628,7 +57637,8 @@
     "name": "BUDIMA, Armend",
     "year": "2008-2022",
     "games": 49,
-    "id": "117534"
+    "id": "117534",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -68720,7 +68730,8 @@
     "name": "NIKOLOGORSKIY, Konstantin",
     "year": "2004-2015",
     "games": 37,
-    "id": "109544"
+    "id": "109544",
+    "synced": true
   },
   {
     "higestRating": 2238,
@@ -69076,7 +69087,8 @@
     "name": "TEUFEL, Juergen",
     "year": "1967-2001",
     "games": 36,
-    "id": "30409"
+    "id": "30409",
+    "synced": true
   },
   {
     "higestRating": 2319,
@@ -75873,7 +75885,8 @@
     "name": "KIERZEK, Matthias",
     "year": "1978-2017",
     "games": 31,
-    "id": "98523"
+    "id": "98523",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -78167,7 +78180,8 @@
     "name": "OOSTEROM, Erik",
     "year": "1993-2017",
     "games": 29,
-    "id": "51062"
+    "id": "51062",
+    "synced": true
   },
   {
     "higestRating": 2239,
@@ -79576,7 +79590,8 @@
     "name": "BELOTELOV, Dmitriy",
     "year": "1994-2008",
     "games": 28,
-    "id": "42043"
+    "id": "42043",
+    "synced": true
   },
   {
     "higestRating": 2330,
@@ -79725,7 +79740,8 @@
     "name": "BELTRAN, Carlos Armando",
     "year": "1990-2010",
     "games": 28,
-    "id": "53126"
+    "id": "53126",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -85011,7 +85027,8 @@
     "name": "STUHLIK, Marko",
     "year": "1993-2005",
     "games": 25,
-    "id": "86859"
+    "id": "86859",
+    "synced": true
   },
   {
     "higestRating": 2344,
@@ -103651,7 +103668,8 @@
     "name": "BOKELBRINK, Uwe",
     "year": "1995-2001",
     "games": 16,
-    "id": "65642"
+    "id": "65642",
+    "synced": true
   },
   {
     "higestRating": 2237,
@@ -111153,7 +111171,8 @@
     "name": "SABARTES, Joan Herrero",
     "year": "1996-2005",
     "games": 8,
-    "id": "53590"
+    "id": "53590",
+    "synced": true
   },
   {
     "higestRating": 2297,
