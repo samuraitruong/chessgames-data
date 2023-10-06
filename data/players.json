@@ -280,7 +280,8 @@
     "name": "SO, Wesley",
     "year": "2003-2023",
     "games": 2570,
-    "id": "95915"
+    "id": "95915",
+    "synced": true
   },
   {
     "higestRating": 2660,
@@ -25955,7 +25956,8 @@
     "name": "DORIC, Darko",
     "year": "2001-2022",
     "games": 144,
-    "id": "55657"
+    "id": "55657",
+    "synced": true
   },
   {
     "higestRating": 2489,
@@ -52642,7 +52644,8 @@
     "name": "ASKEROV, Marat",
     "year": "2015-2021",
     "games": 57,
-    "id": "157179"
+    "id": "157179",
+    "synced": true
   },
   {
     "higestRating": 2325,
