@@ -3703,7 +3703,8 @@
     "name": "ARESHCHENKO, Alexander",
     "year": "1996-2022",
     "games": 943,
-    "id": "10862"
+    "id": "10862",
+    "synced": true
   },
   {
     "higestRating": 2580,
@@ -6669,7 +6670,8 @@
     "name": "GOLDIN, Alexander",
     "year": "1967-2020",
     "games": 601,
-    "id": "46214"
+    "id": "46214",
+    "synced": true
   },
   {
     "higestRating": 2469,
@@ -36159,7 +36161,8 @@
     "name": "HENTUNEN, Asko",
     "year": "1987-2008",
     "games": 94,
-    "id": "51741"
+    "id": "51741",
+    "synced": true
   },
   {
     "higestRating": 2371,
@@ -47116,7 +47119,8 @@
     "name": "SHAH, Dev",
     "year": "2017-2022",
     "games": 67,
-    "id": "160308"
+    "id": "160308",
+    "synced": true
   },
   {
     "higestRating": 2207,
@@ -54386,7 +54390,8 @@
     "name": "WATANABE, Akira",
     "year": "1990-2020",
     "games": 54,
-    "id": "102526"
+    "id": "102526",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -61327,7 +61332,8 @@
     "name": "VATSAL, Singhania",
     "year": "2018-2022",
     "games": 45,
-    "id": "160797"
+    "id": "160797",
+    "synced": true
   },
   {
     "higestRating": 2207,
@@ -74613,7 +74619,8 @@
     "name": "NAVARRO, Alberto Quintin",
     "year": "2010-2021",
     "games": 32,
-    "id": "132198"
+    "id": "132198",
+    "synced": true
   },
   {
     "higestRating": 2395,
@@ -75552,14 +75559,16 @@
     "name": "BARSKIJ, Vladimir",
     "year": "1959-2019",
     "games": 31,
-    "id": "61948"
+    "id": "61948",
+    "synced": true
   },
   {
     "higestRating": 2427,
     "name": "APPOLONOV, Sergey",
     "year": "1976-2016",
     "games": 31,
-    "id": "62716"
+    "id": "62716",
+    "synced": true
   },
   {
     "higestRating": 2229,
@@ -76738,7 +76747,8 @@
     "name": "NAVINSEK, Thomaz",
     "year": "1989-2004",
     "games": 30,
-    "id": "49901"
+    "id": "49901",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -82287,7 +82297,8 @@
     "name": "ANDREEV, Konstantin",
     "year": "1992-2022",
     "games": 27,
-    "id": "163471"
+    "id": "163471",
+    "synced": true
   },
   {
     "higestRating": 2321,
@@ -92380,7 +92391,8 @@
     "name": "WOLFF, Armel David",
     "year": "1995-1996",
     "games": 21,
-    "id": "97522"
+    "id": "97522",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -92771,7 +92783,8 @@
     "name": "SZABO, Attila",
     "year": "2009-2016",
     "games": 21,
-    "id": "133457"
+    "id": "133457",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -109500,7 +109513,8 @@
     "name": "HOLT, Eric J",
     "year": "1970-1971",
     "games": 12,
-    "id": "100839"
+    "id": "100839",
+    "synced": true
   },
   {
     "higestRating": 2225,
