@@ -8754,7 +8754,8 @@
     "name": "HAZNEDAROGLU, Kivanc",
     "year": "1999-2023",
     "games": 467,
-    "id": "49464"
+    "id": "49464",
+    "synced": true
   },
   {
     "higestRating": 2625,
@@ -10270,7 +10271,8 @@
     "name": "POLZIN, Rainer",
     "year": "1990-2022",
     "games": 399,
-    "id": "94671"
+    "id": "94671",
+    "synced": true
   },
   {
     "higestRating": 2608,
@@ -12503,7 +12505,8 @@
     "name": "STRENZWILK, Denis",
     "year": "1964-2011",
     "games": 326,
-    "id": "19894"
+    "id": "19894",
+    "synced": true
   },
   {
     "higestRating": 2480,
@@ -16944,7 +16947,8 @@
     "name": "COX, John J",
     "year": "1975-2019",
     "games": 234,
-    "id": "81491"
+    "id": "81491",
+    "synced": true
   },
   {
     "higestRating": 2502,
@@ -22243,7 +22247,8 @@
     "name": "SERRANO, Carla Heredia",
     "year": "2008-2023",
     "games": 174,
-    "id": "119050"
+    "id": "119050",
+    "synced": true
   },
   {
     "higestRating": 2529,
@@ -26399,7 +26404,8 @@
     "name": "ZAPOLSKIS, Antanas",
     "year": "1984-2022",
     "games": 140,
-    "id": "33308"
+    "id": "33308",
+    "synced": true
   },
   {
     "higestRating": 2309,
@@ -26891,7 +26897,8 @@
     "name": "DE SOUZA, Mauro Guimaraes",
     "year": "1987-2009",
     "games": 137,
-    "id": "92402"
+    "id": "92402",
+    "synced": true
   },
   {
     "higestRating": 2526,
@@ -32801,7 +32808,8 @@
     "name": "ELBILIA, Jacques",
     "year": "1990-2023",
     "games": 106,
-    "id": "42813"
+    "id": "42813",
+    "synced": true
   },
   {
     "higestRating": 2299,
@@ -36354,7 +36362,8 @@
     "name": "WALLNER, Joachim",
     "year": "1998-2018",
     "games": 93,
-    "id": "10780"
+    "id": "10780",
+    "synced": true
   },
   {
     "higestRating": 2293,
@@ -42371,7 +42380,8 @@
     "name": "POLEY, Vladimir",
     "year": "1983-2020",
     "games": 77,
-    "id": "78921"
+    "id": "78921",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -74644,7 +74654,8 @@
     "name": "PANTIC, Ivica",
     "year": "2006-2012",
     "games": 32,
-    "id": "121267"
+    "id": "121267",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -80587,7 +80598,8 @@
     "name": "JACOB, Volker",
     "year": "1991-2018",
     "games": 28,
-    "id": "125785"
+    "id": "125785",
+    "synced": true
   },
   {
     "higestRating": 2322,
@@ -96107,7 +96119,8 @@
     "name": "VARGAS, Raul Ocampo",
     "year": "1974-2005",
     "games": 19,
-    "id": "40295"
+    "id": "40295",
+    "synced": true
   },
   {
     "higestRating": 2240,
