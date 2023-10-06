@@ -1814,7 +1814,8 @@
     "name": "SUBA, Mihai",
     "year": "1972-2015",
     "games": 1380,
-    "id": "15401"
+    "id": "15401",
+    "synced": true
   },
   {
     "higestRating": 2555,
@@ -4420,7 +4421,8 @@
     "name": "IVANOV, Alexander",
     "year": "1972-2017",
     "games": 829,
-    "id": "41447"
+    "id": "41447",
+    "synced": true
   },
   {
     "higestRating": 2616,
@@ -16939,7 +16941,8 @@
     "name": "LUGOVSKOY, Maxim",
     "year": "2004-2020",
     "games": 234,
-    "id": "117660"
+    "id": "117660",
+    "synced": true
   },
   {
     "higestRating": 2573,
@@ -45002,7 +45005,8 @@
     "name": "AGHAYEV, Nijat",
     "year": "2001-2017",
     "games": 71,
-    "id": "80806"
+    "id": "80806",
+    "synced": true
   },
   {
     "higestRating": 2404,
@@ -60307,7 +60311,8 @@
     "name": "AYALA, Ivan Cabezas",
     "year": "2001-2018",
     "games": 46,
-    "id": "110190"
+    "id": "110190",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -99681,7 +99686,8 @@
     "name": "GRINBERG, Iosif P",
     "year": "1997-2013",
     "games": 18,
-    "id": "118511"
+    "id": "118511",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -101486,7 +101492,8 @@
     "name": "RIBAS, Jose Maria Grau",
     "year": "1993-2000",
     "games": 17,
-    "id": "90286"
+    "id": "90286",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -110286,7 +110293,8 @@
     "name": "DE CARVALHO, Jose Jorge",
     "year": "1991-2011",
     "games": 11,
-    "id": "131906"
+    "id": "131906",
+    "synced": true
   },
   {
     "higestRating": 2358,

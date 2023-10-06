@@ -1,0 +1,14 @@
+[Event "Badalona"]
+[Site "Badalona ESP"]
+[Date "1993.08.02"]
+[EventDate "1993.08.02"]
+[Round "1"]
+[Result "0-1"]
+[White "Jose Ribera Bazan"]
+[Black "Mihai Suba"]
+[ECO "A31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 cxd4 4.Nxd4 a6 5.Nc3 d5 6.e3 e6 7.Bd2 Nc6 8.Nf3 Bd6 9.cxd5 exd5 10.Bd3 O-O 11.Ne2 Bg4 12.Nfd4 Nxd4 13.exd4 Ne4 14.O-O Qh4 15.f4 Rae8 16.Be1 Qh6 17.Qb3 Bxe2 18.Bxe2 Bxf4 19.g3 Nd2 20.Bxd2 Rxe2 21.Rf2 Rxf2 22.Kxf2 Qxh2+ 0-1
