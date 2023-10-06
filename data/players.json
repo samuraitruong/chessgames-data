@@ -517,7 +517,8 @@
     "name": "KAMSKY, Gata",
     "year": "1986-2023",
     "games": 2133,
-    "id": "15874"
+    "id": "15874",
+    "synced": true
   },
   {
     "higestRating": 2570,
@@ -4879,7 +4880,8 @@
     "name": "DURARBAYLI, Vasif",
     "year": "2002-2023",
     "games": 769,
-    "id": "103347"
+    "id": "103347",
+    "synced": true
   },
   {
     "higestRating": 2634,
@@ -25541,7 +25543,8 @@
     "name": "COSMA, Ioan",
     "year": "1990-2022",
     "games": 147,
-    "id": "24693"
+    "id": "24693",
+    "synced": true
   },
   {
     "higestRating": 2438,
@@ -35584,7 +35587,8 @@
     "name": "CLEMENS, Christian",
     "year": "1959-2015",
     "games": 96,
-    "id": "45113"
+    "id": "45113",
+    "synced": true
   },
   {
     "higestRating": 2237,
@@ -36721,7 +36725,8 @@
     "name": "SERVAT, Roberto",
     "year": "1986-2000",
     "games": 92,
-    "id": "30755"
+    "id": "30755",
+    "synced": true
   },
   {
     "higestRating": 2246,
@@ -42418,7 +42423,8 @@
     "name": "GAJIC, Mladen",
     "year": "2009-2022",
     "games": 77,
-    "id": "122603"
+    "id": "122603",
+    "synced": true
   },
   {
     "higestRating": 2461,
@@ -45177,7 +45183,8 @@
     "name": "PEREZ, Luis Quesada",
     "year": "2018-2023",
     "games": 71,
-    "id": "165441"
+    "id": "165441",
+    "synced": true
   },
   {
     "higestRating": 2322,
@@ -73387,7 +73394,8 @@
     "name": "TSKITISHVILI, Giorgi",
     "year": "1967-2014",
     "games": 33,
-    "id": "116099"
+    "id": "116099",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -83741,7 +83749,8 @@
     "name": "PON, Matt",
     "year": "2011-2017",
     "games": 26,
-    "id": "130403"
+    "id": "130403",
+    "synced": true
   },
   {
     "higestRating": 2329,
@@ -95281,7 +95290,8 @@
     "name": "DUPLA, Aurelio Vila",
     "year": "1992-2019",
     "games": 20,
-    "id": "139629"
+    "id": "139629",
+    "synced": true
   },
   {
     "higestRating": 2232,
@@ -98760,7 +98770,8 @@
     "name": "PERRIN, Guillaume",
     "year": "2000-2012",
     "games": 18,
-    "id": "64469"
+    "id": "64469",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -102190,7 +102201,8 @@
     "name": "NAUDIER, Serge",
     "year": "1988-2011",
     "games": 17,
-    "id": "129291"
+    "id": "129291",
+    "synced": true
   },
   {
     "higestRating": 2283,
