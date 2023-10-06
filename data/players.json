@@ -6860,7 +6860,8 @@
     "name": "ANTUNES, Antonio",
     "year": "1980-2000",
     "games": 584,
-    "id": "16998"
+    "id": "16998",
+    "synced": true
   },
   {
     "higestRating": 2591,
@@ -9206,7 +9207,8 @@
     "name": "MAMMADZADA, Gunay",
     "year": "2007-2023",
     "games": 441,
-    "id": "113679"
+    "id": "113679",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -20572,7 +20574,8 @@
     "name": "TU, Hoang Thong",
     "year": "1990-2019",
     "games": 189,
-    "id": "89106"
+    "id": "89106",
+    "synced": true
   },
   {
     "higestRating": 2322,
@@ -24507,7 +24510,8 @@
     "name": "VROLIJK, Liam",
     "year": "2016-2022",
     "games": 154,
-    "id": "158069"
+    "id": "158069",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -39107,7 +39111,8 @@
     "name": "MACOVEI, Andrei",
     "year": "2016-2022",
     "games": 85,
-    "id": "157874"
+    "id": "157874",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -43801,7 +43806,8 @@
     "name": "CHISTIAKOVA, Tamara",
     "year": "1996-2013",
     "games": 73,
-    "id": "67535"
+    "id": "67535",
+    "synced": true
   },
   {
     "higestRating": 2418,
@@ -44457,7 +44463,8 @@
     "name": "AZARYA, Jodi Setyaki",
     "year": "2012-2022",
     "games": 72,
-    "id": "141256"
+    "id": "141256",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -47179,7 +47186,8 @@
     "name": "VISMARA, Daniele",
     "year": "1996-2002",
     "games": 66,
-    "id": "49786"
+    "id": "49786",
+    "synced": true
   },
   {
     "higestRating": 2441,
@@ -47927,7 +47935,8 @@
     "name": "PANIC, Nenad",
     "year": "1997-2023",
     "games": 65,
-    "id": "102815"
+    "id": "102815",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -50579,7 +50588,8 @@
     "name": "NIEMI, Kalle",
     "year": "2002-2018",
     "games": 60,
-    "id": "100468"
+    "id": "100468",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -55886,7 +55896,8 @@
     "name": "GIAMPA, Alejandro",
     "year": "1996-2023",
     "games": 51,
-    "id": "72432"
+    "id": "72432",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -55965,7 +55976,8 @@
     "name": "MOYANO, Jonathan Alonso",
     "year": "1999-2020",
     "games": 51,
-    "id": "100049"
+    "id": "100049",
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -61888,7 +61900,8 @@
     "name": "BORSOS, Bogdan",
     "year": "1986-2019",
     "games": 44,
-    "id": "128381"
+    "id": "128381",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -70173,7 +70186,8 @@
     "name": "HARMON, Clark R",
     "year": "1971-2004",
     "games": 35,
-    "id": "49971"
+    "id": "49971",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -77969,7 +77983,8 @@
     "name": "LEIB, Agripa",
     "year": "1996-2005",
     "games": 29,
-    "id": "51114"
+    "id": "51114",
+    "synced": true
   },
   {
     "higestRating": 2389,
@@ -79070,7 +79085,8 @@
     "name": "PATUZZO, Fabrizio",
     "year": "1992-2018",
     "games": 29,
-    "id": "168301"
+    "id": "168301",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -87703,7 +87719,8 @@
     "name": "PAAKKONEN, Timo",
     "year": "1993-2022",
     "games": 23,
-    "id": "58710"
+    "id": "58710",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -91391,7 +91408,8 @@
     "name": "BOTVINKOV, Anton",
     "year": "2001-2007",
     "games": 21,
-    "id": "52343"
+    "id": "52343",
+    "synced": true
   },
   {
     "higestRating": 2231,
@@ -94305,7 +94323,8 @@
     "name": "MOORE, Harry",
     "year": "1973-2014",
     "games": 20,
-    "id": "99740"
+    "id": "99740",
+    "synced": true
   },
   {
     "higestRating": 2267,
@@ -97288,7 +97307,8 @@
     "name": "EGGINK, Ryszard",
     "year": "2007-2018",
     "games": 19,
-    "id": "142137"
+    "id": "142137",
+    "synced": true
   },
   {
     "higestRating": 2299,
@@ -106977,7 +106997,8 @@
     "name": "WIRIUS, Stefan",
     "year": "1986-2000",
     "games": 15,
-    "id": "100334"
+    "id": "100334",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -110250,7 +110271,8 @@
     "name": "CABRALIS, Quinn",
     "year": "2010",
     "games": 10,
-    "id": "127242"
+    "id": "127242",
+    "synced": true
   },
   {
     "higestRating": 2247,
