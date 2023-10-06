@@ -3746,7 +3746,8 @@
     "name": "AKESSON, Ralf",
     "year": "1978-2023",
     "games": 937,
-    "id": "21594"
+    "id": "21594",
+    "synced": true
   },
   {
     "higestRating": 2620,
@@ -10442,7 +10443,8 @@
     "name": "OLEKSIENKO, Mikhailo",
     "year": "1998-2022",
     "games": 393,
-    "id": "87314"
+    "id": "87314",
+    "synced": true
   },
   {
     "higestRating": 2487,
@@ -15398,7 +15400,8 @@
     "name": "HARDARSON, Robert",
     "year": "1982-2022",
     "games": 260,
-    "id": "36666"
+    "id": "36666",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -17543,7 +17546,8 @@
     "name": "CIBICKOVA, Zuzana",
     "year": "1998-2022",
     "games": 225,
-    "id": "54875"
+    "id": "54875",
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -40146,7 +40150,8 @@
     "name": "LIEB, Harald",
     "year": "1974-2008",
     "games": 82,
-    "id": "39702"
+    "id": "39702",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -52299,7 +52304,8 @@
     "name": "PILZ, Dieter",
     "year": "1989-2017",
     "games": 57,
-    "id": "71203"
+    "id": "71203",
+    "synced": true
   },
   {
     "higestRating": 2234,
@@ -64743,7 +64749,8 @@
     "name": "ZLATIC, Mihailo",
     "year": "1994-2009",
     "games": 41,
-    "id": "91596"
+    "id": "91596",
+    "synced": true
   },
   {
     "higestRating": 2436,
@@ -82342,7 +82349,8 @@
     "name": "LESOVOI, Evgenij",
     "year": "2014-2019",
     "games": 27,
-    "id": "157183"
+    "id": "157183",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -95785,7 +95793,8 @@
     "name": "GOTEL, Michael",
     "year": "2014-2016",
     "games": 20,
-    "id": "187294"
+    "id": "187294",
+    "synced": true
   },
   {
     "higestRating": 2261,
@@ -103401,7 +103410,8 @@
     "name": "HUMMEL, Markus",
     "year": "1999-2001",
     "games": 16,
-    "id": "49158"
+    "id": "49158",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -104805,7 +104815,8 @@
     "name": "SINANAN, Joshua",
     "year": "2006-2016",
     "games": 16,
-    "id": "108778"
+    "id": "108778",
+    "synced": true
   },
   {
     "higestRating": 2341,
@@ -105218,7 +105229,8 @@
     "name": "FUCEK, Claudio",
     "year": "1992-1996",
     "games": 16,
-    "id": "130010"
+    "id": "130010",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -110929,7 +110941,8 @@
     "name": "BANAWA, Jouaquin",
     "year": "2001-2021",
     "games": 9,
-    "id": "56766"
+    "id": "56766",
+    "synced": true
   },
   {
     "higestRating": 2239,

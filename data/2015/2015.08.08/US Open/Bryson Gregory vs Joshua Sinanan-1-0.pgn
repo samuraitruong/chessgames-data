@@ -1,0 +1,14 @@
+[Event "US Open"]
+[Site "Phoenix, AZ USA"]
+[Date "2015.08.08"]
+[EventDate "2015.08.01"]
+[Round "8"]
+[Result "1-0"]
+[White "Bryson Gregory"]
+[Black "Joshua Sinanan"]
+[ECO "B43"]
+[WhiteElo "?"]
+[BlackElo "2221"]
+[PlyCount "43"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Be3 Nge7 8. Ndb5 axb5 9. Nxb5 Qb8 10. Bb6 Nd5 11. exd5 Bb4+ 12. Kf1 Ba5 13. Nc7+ Ke7 14. Nxa8 Qxa8 15. Bc5+ d6 16. Bxd6+ Kxd6 17. dxc6 bxc6 18. Qg4 Ke7 19. Qxg7 Ba6 20. Qg5+ Kf8 21. Qc5+ Ke8 22. g3 1-0
