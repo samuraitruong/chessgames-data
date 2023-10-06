@@ -1,0 +1,14 @@
+[Event "Stepanov mem op"]
+[Site "Krasnodar"]
+[Date "2001.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vitaly Tseshkovsky"]
+[Black "Anna Yakimenko"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.c3 Nxe4 8.d4 exd4 9.Re1 d5 10.Ng5 f5 11.f3 Bc5 12.fxe4 dxc3+ 13.Kh1 dxe4 14.Ne6 Qxd1 15.Rxd1 c2 16.Nxg7+ Kf8 17.Ne6+ Ke8 18.Nxc7+ Kf8 19.Bh6+ Ke7 20.Bg5+ Kf8 21.Ne6+ Ke8 22.Bxc2 1-0
