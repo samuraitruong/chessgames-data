@@ -2233,7 +2233,8 @@
     "name": "ZHAO, Xue",
     "year": "1996-2023",
     "games": 1245,
-    "id": "49245"
+    "id": "49245",
+    "synced": true
   },
   {
     "higestRating": 2674,
@@ -26239,7 +26240,8 @@
     "name": "LUDWIG, Daniel",
     "year": "2003-2013",
     "games": 143,
-    "id": "87135"
+    "id": "87135",
+    "synced": true
   },
   {
     "higestRating": 2452,
@@ -36167,7 +36169,8 @@
     "name": "ZAWADZKI, Stanislaw",
     "year": "1998-2016",
     "games": 95,
-    "id": "54483"
+    "id": "54483",
+    "synced": true
   },
   {
     "higestRating": 2404,
@@ -44172,7 +44175,8 @@
     "name": "SCHWARZ, Michael",
     "year": "1990-2006",
     "games": 73,
-    "id": "26301"
+    "id": "26301",
+    "synced": true
   },
   {
     "higestRating": 2369,
@@ -47278,7 +47282,8 @@
     "name": "FERRETTI, Folco",
     "year": "1987-2016",
     "games": 67,
-    "id": "61437"
+    "id": "61437",
+    "synced": true
   },
   {
     "higestRating": 2436,
@@ -53412,7 +53417,8 @@
     "name": "PEDERSEN, Daniel Vesterbaek",
     "year": "1990-2016",
     "games": 56,
-    "id": "61603"
+    "id": "61603",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -59951,7 +59957,8 @@
     "name": "BROWN, Andrew",
     "year": "2006-2018",
     "games": 47,
-    "id": "101769"
+    "id": "101769",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -60246,7 +60253,8 @@
     "name": "DAVILA, Carlos",
     "year": "1991-2013",
     "games": 46,
-    "id": "17259"
+    "id": "17259",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -60660,7 +60668,8 @@
     "name": "SOBOLEVSKY, Leonid",
     "year": "1988-2017",
     "games": 46,
-    "id": "89978"
+    "id": "89978",
+    "synced": true
   },
   {
     "higestRating": 2382,
@@ -61826,7 +61835,8 @@
     "name": "VIGNESH, B",
     "year": "2016-2022",
     "games": 45,
-    "id": "157959"
+    "id": "157959",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -64577,7 +64587,8 @@
     "name": "TUGARIN, Anton",
     "year": "2013-2021",
     "games": 42,
-    "id": "147873"
+    "id": "147873",
+    "synced": true
   },
   {
     "higestRating": 2433,
@@ -83063,7 +83074,8 @@
     "name": "HADAD, Damaris",
     "year": "1991-1999",
     "games": 27,
-    "id": "172754"
+    "id": "172754",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -83597,7 +83609,8 @@
     "name": "LIPNOWSKI, Samuel",
     "year": "1998-2006",
     "games": 26,
-    "id": "54042"
+    "id": "54042",
+    "synced": true
   },
   {
     "higestRating": 2329,
@@ -88602,7 +88615,8 @@
     "name": "KOZAMERNIK, Janez",
     "year": "1992-2016",
     "games": 23,
-    "id": "49945"
+    "id": "49945",
+    "synced": true
   },
   {
     "higestRating": 2204,
@@ -89096,7 +89110,8 @@
     "name": "CAMACHO, Julian Morales",
     "year": "1989-2005",
     "games": 23,
-    "id": "89657"
+    "id": "89657",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -106826,7 +106841,8 @@
     "name": "BLAAUW, Casper",
     "year": "1984-1994",
     "games": 15,
-    "id": "26781"
+    "id": "26781",
+    "synced": true
   },
   {
     "higestRating": 2210,
