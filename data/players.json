@@ -1457,7 +1457,8 @@
     "name": "JONES, Gawain",
     "year": "1996-2022",
     "games": 1521,
-    "id": "23376"
+    "id": "23376",
+    "synced": true
   },
   {
     "higestRating": 2720,
@@ -11395,7 +11396,8 @@
     "name": "PALLISER, Richard J",
     "year": "1995-2019",
     "games": 361,
-    "id": "11545"
+    "id": "11545",
+    "synced": true
   },
   {
     "higestRating": 2475,
@@ -17915,7 +17917,8 @@
     "name": "DIPTAYAN, Ghosh",
     "year": "2008-2023",
     "games": 222,
-    "id": "117255"
+    "id": "117255",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -27590,7 +27593,8 @@
     "name": "TARASOVA, Viktoriya",
     "year": "2001-2014",
     "games": 133,
-    "id": "94528"
+    "id": "94528",
+    "synced": true
   },
   {
     "higestRating": 2515,
@@ -28635,7 +28639,8 @@
     "name": "COOKE, Eric N",
     "year": "1985-2018",
     "games": 126,
-    "id": "34847"
+    "id": "34847",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -36284,7 +36289,8 @@
     "name": "IZZAT, Kanan",
     "year": "2009-2019",
     "games": 95,
-    "id": "129241"
+    "id": "129241",
+    "synced": true
   },
   {
     "higestRating": 2441,
@@ -36354,7 +36360,8 @@
     "name": "CHAN, Kim Yew",
     "year": "2016-2023",
     "games": 95,
-    "id": "154127"
+    "id": "154127",
+    "synced": true
   },
   {
     "higestRating": 2472,
@@ -44394,7 +44401,8 @@
     "name": "SAGAR, Shah",
     "year": "2008-2017",
     "games": 73,
-    "id": "118911"
+    "id": "118911",
+    "synced": true
   },
   {
     "higestRating": 2386,
@@ -58816,7 +58824,8 @@
     "name": "GOGOLIS, Alexandros",
     "year": "1996-2012",
     "games": 48,
-    "id": "91978"
+    "id": "91978",
+    "synced": true
   },
   {
     "higestRating": 2213,
@@ -65410,7 +65419,8 @@
     "name": "KAYONDE, Andrew",
     "year": "2010-2023",
     "games": 41,
-    "id": "127261"
+    "id": "127261",
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -74870,7 +74880,8 @@
     "name": "KUEHNEL, Guenter",
     "year": "1984-2008",
     "games": 32,
-    "id": "90770"
+    "id": "90770",
+    "synced": true
   },
   {
     "higestRating": 2382,
@@ -88789,7 +88800,8 @@
     "name": "ROBULJ, Nenad",
     "year": "2002-2018",
     "games": 23,
-    "id": "76768"
+    "id": "76768",
+    "synced": true
   },
   {
     "higestRating": 2239,
@@ -96429,7 +96441,8 @@
     "name": "RADZHABOV, Shamsutdin",
     "year": "1995-1999",
     "games": 19,
-    "id": "12360"
+    "id": "12360",
+    "synced": true
   },
   {
     "higestRating": 2250,
@@ -109346,7 +109359,8 @@
     "name": "LATT, Moun Moun",
     "year": "1999",
     "games": 14,
-    "id": "102880"
+    "id": "102880",
+    "synced": true
   },
   {
     "higestRating": 2539,
@@ -113441,7 +113455,8 @@
     "name": "ROPER, David",
     "year": "1987-2004",
     "games": 5,
-    "id": "87815"
+    "id": "87815",
+    "synced": true
   },
   {
     "higestRating": 2226,
@@ -113949,7 +113964,8 @@
     "name": "TERRADELLAS, Eduardo Ibanez",
     "year": "1997-2017",
     "games": 4,
-    "id": "100006"
+    "id": "100006",
+    "synced": true
   },
   {
     "higestRating": 2202,
