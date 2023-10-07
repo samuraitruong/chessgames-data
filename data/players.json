@@ -204,7 +204,8 @@
     "name": "IVKOV, Borislav",
     "year": "1947-2013",
     "games": 2861,
-    "id": "14727"
+    "id": "14727",
+    "synced": true
   },
   {
     "higestRating": 2788,
@@ -6102,7 +6103,8 @@
     "name": "VARGA, Zoltan",
     "year": "1987-2022",
     "games": 663,
-    "id": "12206"
+    "id": "12206",
+    "synced": true
   },
   {
     "higestRating": 2444,
@@ -11845,7 +11847,8 @@
     "name": "KURSOVA, Maria",
     "year": "1996-2018",
     "games": 348,
-    "id": "67536"
+    "id": "67536",
+    "synced": true
   },
   {
     "higestRating": 2568,
@@ -67953,7 +67956,8 @@
     "name": "GREGER, Roland Reinhard",
     "year": "1990-2011",
     "games": 38,
-    "id": "46109"
+    "id": "46109",
+    "synced": true
   },
   {
     "higestRating": 2459,
@@ -70914,7 +70918,8 @@
     "name": "ZAHARIEV, Zahari",
     "year": "1983-2001",
     "games": 35,
-    "id": "37842"
+    "id": "37842",
+    "synced": true
   },
   {
     "higestRating": 2314,
@@ -75629,7 +75634,8 @@
     "name": "DICKENSON, Neil F",
     "year": "1979-2012",
     "games": 31,
-    "id": "13749"
+    "id": "13749",
+    "synced": true
   },
   {
     "higestRating": 2355,
@@ -78653,7 +78659,8 @@
     "name": "WYGLE, Steve",
     "year": "1977-2003",
     "games": 29,
-    "id": "27286"
+    "id": "27286",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -83482,7 +83489,8 @@
     "name": "DUJKOVIC, Sinisa",
     "year": "1995-2007",
     "games": 26,
-    "id": "49595"
+    "id": "49595",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -91379,7 +91387,8 @@
     "name": "ZIVKOVIC, Dejan",
     "year": "2004-2010",
     "games": 22,
-    "id": "118808"
+    "id": "118808",
+    "synced": true
   },
   {
     "higestRating": 2219,
