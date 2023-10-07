@@ -2977,7 +2977,8 @@
     "name": "CHEKHOV, Valery A",
     "year": "1972-2004",
     "games": 1083,
-    "id": "15410"
+    "id": "15410",
+    "synced": true
   },
   {
     "higestRating": 2672,
@@ -6232,7 +6233,8 @@
     "name": "SHARIF, Mehrshad",
     "year": "1970-2017",
     "games": 644,
-    "id": "37541"
+    "id": "37541",
+    "synced": true
   },
   {
     "higestRating": 2652,
@@ -9321,7 +9323,8 @@
     "name": "HENNINGS, Artur",
     "year": "1957-1998",
     "games": 438,
-    "id": "47815"
+    "id": "47815",
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -11845,7 +11848,8 @@
     "name": "URBAN, Klaudiusz",
     "year": "1989-2017",
     "games": 345,
-    "id": "18164"
+    "id": "18164",
+    "synced": true
   },
   {
     "higestRating": 2580,
@@ -35065,7 +35069,8 @@
     "name": "HJORTH, Greg",
     "year": "1977-1990",
     "games": 98,
-    "id": "20748"
+    "id": "20748",
+    "synced": true
   },
   {
     "higestRating": 2295,
@@ -53200,7 +53205,8 @@
     "name": "SORENSEN, Tage",
     "year": "1947-1994",
     "games": 56,
-    "id": "90787"
+    "id": "90787",
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -55858,7 +55864,8 @@
     "name": "TAHAY, Alexis",
     "year": "2016-2022",
     "games": 52,
-    "id": "155091"
+    "id": "155091",
+    "synced": true
   },
   {
     "higestRating": 2382,
@@ -60881,7 +60888,8 @@
     "name": "BARGLOWSKI, Filip",
     "year": "1996-2005",
     "games": 45,
-    "id": "54436"
+    "id": "54436",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -72085,7 +72093,8 @@
     "name": "PROTAZIUK, Grzegorz",
     "year": "1993-2019",
     "games": 34,
-    "id": "88024"
+    "id": "88024",
+    "synced": true
   },
   {
     "higestRating": 2249,
@@ -87911,7 +87920,8 @@
     "name": "SHPILKER, Boris",
     "year": "1976-1997",
     "games": 23,
-    "id": "29171"
+    "id": "29171",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -92849,7 +92859,8 @@
     "name": "GIROYAN, Gary",
     "year": "2004-2019",
     "games": 21,
-    "id": "117659"
+    "id": "117659",
+    "synced": true
   },
   {
     "higestRating": 2317,
@@ -107241,7 +107252,8 @@
     "name": "BRAGHETTA, Sergio",
     "year": "1995-2006",
     "games": 15,
-    "id": "86828"
+    "id": "86828",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -108427,7 +108439,8 @@
     "name": "MATA, Jesus Gonzalez",
     "year": "1984-2008",
     "games": 15,
-    "id": "151206"
+    "id": "151206",
+    "synced": true
   },
   {
     "higestRating": 2396,
