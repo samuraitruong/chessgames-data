@@ -1680,7 +1680,8 @@
     "name": "NIJBOER, Friso",
     "year": "1982-2022",
     "games": 1444,
-    "id": "15211"
+    "id": "15211",
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -3205,7 +3206,8 @@
     "name": "ADHIBAN, Baskaran",
     "year": "2006-2023",
     "games": 1036,
-    "id": "117280"
+    "id": "117280",
+    "synced": true
   },
   {
     "higestRating": 2626,
@@ -34322,7 +34324,8 @@
     "name": "VALVO, Michael Joseph",
     "year": "1963-2001",
     "games": 101,
-    "id": "15423"
+    "id": "15423",
+    "synced": true
   },
   {
     "higestRating": 2347,
@@ -46715,7 +46718,8 @@
     "name": "BALINT, Vilmos",
     "year": "2000-2022",
     "games": 68,
-    "id": "67955"
+    "id": "67955",
+    "synced": true
   },
   {
     "higestRating": 2392,
@@ -81248,7 +81252,8 @@
     "name": "ZAPATA, Irene Nicolas",
     "year": "2012-2015",
     "games": 28,
-    "id": "147607"
+    "id": "147607",
+    "synced": true
   },
   {
     "higestRating": 2329,

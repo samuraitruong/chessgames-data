@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.16"]
+[EventDate "2022.12.16"]
+[Round "10.91"]
+[Result "1-0"]
+[White "Oleksii Karvatskyi"]
+[Black "Vilmos Balint"]
+[ECO "A80"]
+[WhiteElo "1995"]
+[BlackElo "2242"]
+[PlyCount "42"]
+
+1. d4 f5 2. Nc3 d5 3. Bf4 Nf6 4. e3 e6 5. Nf3 a6 6. Be2 Bd6 7. Ne5 Bxe5 8. dxe5 Nfd7 9. g4 O-O 10. gxf5 Rxf5 11. Bg4 Rxe5 12. Bxe5 Nxe5 13. Rg1 c5 14. Qe2 Nbc6 15. O-O-O Bd7 16. f4 Nc4 17. f5 d4 18. Qxc4 dxc3 19. fxe6 cxb2+ 20. Kb1 Ne5 21. Qd5 1-0
