@@ -10711,7 +10711,8 @@
     "name": "BIYIASAS, Peter",
     "year": "1968-1985",
     "games": 387,
-    "id": "43987"
+    "id": "43987",
+    "synced": true
   },
   {
     "higestRating": 2579,
@@ -13032,7 +13033,8 @@
     "name": "KULJASEVIC, Davorin",
     "year": "2000-2021",
     "games": 312,
-    "id": "49214"
+    "id": "49214",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -15595,7 +15597,8 @@
     "name": "LIKAVSKY, Tomas",
     "year": "1991-2017",
     "games": 259,
-    "id": "66401"
+    "id": "66401",
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -17808,7 +17811,8 @@
     "name": "GOUMAS, Georgios",
     "year": "2002-2021",
     "games": 223,
-    "id": "114718"
+    "id": "114718",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -24827,7 +24831,8 @@
     "name": "KASPI, Alexander",
     "year": "1979-2022",
     "games": 153,
-    "id": "51139"
+    "id": "51139",
+    "synced": true
   },
   {
     "higestRating": 2354,
@@ -36301,7 +36306,8 @@
     "name": "LOW, Zhen Yu Cyrus",
     "year": "2011-2023",
     "games": 95,
-    "id": "129526"
+    "id": "129526",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -38370,7 +38376,8 @@
     "name": "DOUDOU, Wang",
     "year": "2005-2019",
     "games": 88,
-    "id": "114775"
+    "id": "114775",
+    "synced": true
   },
   {
     "higestRating": 2432,
@@ -38527,7 +38534,8 @@
     "name": "ASTROM, Robert",
     "year": "1990-2007",
     "games": 87,
-    "id": "17738"
+    "id": "17738",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -43156,7 +43164,8 @@
     "name": "KILPATRICK, Callum",
     "year": "2005-2019",
     "games": 76,
-    "id": "112567"
+    "id": "112567",
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -51777,7 +51786,8 @@
     "name": "CONNELL, Blair N",
     "year": "1990-2020",
     "games": 59,
-    "id": "120549"
+    "id": "120549",
+    "synced": true
   },
   {
     "higestRating": 2454,
@@ -65145,7 +65155,8 @@
     "name": "KREJCI, Jakub",
     "year": "1968-2005",
     "games": 41,
-    "id": "84849"
+    "id": "84849",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -68145,7 +68156,8 @@
     "name": "MATTHIAS, Heiner",
     "year": "1987-2002",
     "games": 38,
-    "id": "84486"
+    "id": "84486",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -70362,7 +70374,8 @@
     "name": "TILLYAEV, Ulugbek",
     "year": "2008-2023",
     "games": 36,
-    "id": "116977"
+    "id": "116977",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -79343,7 +79356,8 @@
     "name": "ISTRATE, Bogdan",
     "year": "1995-1999",
     "games": 29,
-    "id": "94700"
+    "id": "94700",
+    "synced": true
   },
   {
     "higestRating": 2297,
@@ -83819,7 +83833,8 @@
     "name": "ALTAMIRANO, Benjamin",
     "year": "1992-2006",
     "games": 26,
-    "id": "81303"
+    "id": "81303",
+    "synced": true
   },
   {
     "higestRating": 2284,
@@ -84129,7 +84144,8 @@
     "name": "CAMPELO, Leandro Fabricio",
     "year": "1998-2023",
     "games": 26,
-    "id": "103066"
+    "id": "103066",
+    "synced": true
   },
   {
     "higestRating": 2264,
@@ -85015,7 +85031,8 @@
     "name": "TORRES, Federico",
     "year": "1995-2019",
     "games": 25,
-    "id": "42682"
+    "id": "42682",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -90519,7 +90536,8 @@
     "name": "LABAHN, Wolfgang",
     "year": "1990-2001",
     "games": 22,
-    "id": "56234"
+    "id": "56234",
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -94686,7 +94704,8 @@
     "name": "LAIHONEN, Petteri",
     "year": "2000-2005",
     "games": 20,
-    "id": "58716"
+    "id": "58716",
+    "synced": true
   },
   {
     "higestRating": 2229,
@@ -104957,7 +104976,8 @@
     "name": "KNAZOVCIK, Ladislav",
     "year": "1990-2002",
     "games": 16,
-    "id": "89743"
+    "id": "89743",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -106034,7 +106054,8 @@
     "name": "ZAKRZEWSKI, Marek",
     "year": "2011-2021",
     "games": 16,
-    "id": "134564"
+    "id": "134564",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -106894,7 +106915,8 @@
     "name": "MORAZA, Manuel",
     "year": "1968-1986",
     "games": 15,
-    "id": "43403"
+    "id": "43403",
+    "synced": true
   },
   {
     "higestRating": 2229,
@@ -110560,7 +110582,8 @@
     "name": "CHICHKIN, Vasily",
     "year": "1999",
     "games": 11,
-    "id": "12288"
+    "id": "12288",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -110815,7 +110838,8 @@
     "name": "VINCENT, Trevor",
     "year": "2003-2009",
     "games": 11,
-    "id": "84079"
+    "id": "84079",
+    "synced": true
   },
   {
     "higestRating": 2270,
