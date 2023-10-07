@@ -9900,7 +9900,8 @@
     "name": "VOVK, Yuri",
     "year": "2001-2020",
     "games": 412,
-    "id": "98711"
+    "id": "98711",
+    "synced": true
   },
   {
     "higestRating": 2529,
@@ -18965,7 +18966,8 @@
     "name": "GUREVICH, Ilya",
     "year": "1984-1998",
     "games": 209,
-    "id": "28216"
+    "id": "28216",
+    "synced": true
   },
   {
     "higestRating": 2465,
@@ -19737,7 +19739,8 @@
     "name": "BELEZKY, Alexander",
     "year": "1998-2022",
     "games": 201,
-    "id": "50590"
+    "id": "50590",
+    "synced": true
   },
   {
     "higestRating": 2508,
@@ -22617,7 +22620,8 @@
     "name": "DIEU, Bruno",
     "year": "1986-2023",
     "games": 171,
-    "id": "90688"
+    "id": "90688",
+    "synced": true
   },
   {
     "higestRating": 2545,
@@ -23572,7 +23576,8 @@
     "name": "MARZOLO, Cyril",
     "year": "1994-2019",
     "games": 163,
-    "id": "57463"
+    "id": "57463",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -33975,7 +33980,8 @@
     "name": "LI, Yunshan",
     "year": "2014-2023",
     "games": 103,
-    "id": "153853"
+    "id": "153853",
+    "synced": true
   },
   {
     "higestRating": 2456,
@@ -35578,7 +35584,8 @@
     "name": "RODIN, Dmitrij",
     "year": "1993-2023",
     "games": 97,
-    "id": "50159"
+    "id": "50159",
+    "synced": true
   },
   {
     "higestRating": 2524,
@@ -38889,7 +38896,8 @@
     "name": "PEREZ, Jose Candela",
     "year": "1992-2007",
     "games": 86,
-    "id": "38953"
+    "id": "38953",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -46345,7 +46353,8 @@
     "name": "ACKERMANN, Hans Werner",
     "year": "1974-2017",
     "games": 69,
-    "id": "102977"
+    "id": "102977",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -47378,7 +47387,8 @@
     "name": "PERSKE, Thore",
     "year": "2010-2021",
     "games": 67,
-    "id": "134715"
+    "id": "134715",
+    "synced": true
   },
   {
     "higestRating": 2368,
@@ -49060,7 +49070,8 @@
     "name": "AAKANKSHA, Hagawane",
     "year": "2014-2019",
     "games": 64,
-    "id": "151600"
+    "id": "151600",
+    "synced": true
   },
   {
     "higestRating": 2509,
@@ -50380,7 +50391,8 @@
     "name": "LEROY, Didier",
     "year": "1995-2018",
     "games": 61,
-    "id": "51945"
+    "id": "51945",
+    "synced": true
   },
   {
     "higestRating": 2426,
@@ -60174,7 +60186,8 @@
     "name": "DIESEN, Bruce",
     "year": "1973-2014",
     "games": 46,
-    "id": "26983"
+    "id": "26983",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -62510,7 +62523,8 @@
     "name": "TYMRAKIEWICZ, Rafal",
     "year": "1999-2022",
     "games": 44,
-    "id": "126757"
+    "id": "126757",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -63227,7 +63241,8 @@
     "name": "SARKOZY, Ladislav",
     "year": "1991-2016",
     "games": 43,
-    "id": "71885"
+    "id": "71885",
+    "synced": true
   },
   {
     "higestRating": 2480,
@@ -64111,7 +64126,8 @@
     "name": "CASTIGLIONE, Mario",
     "year": "1993-2022",
     "games": 42,
-    "id": "74935"
+    "id": "74935",
+    "synced": true
   },
   {
     "higestRating": 2201,
@@ -73956,7 +73972,8 @@
     "name": "HAN, Daniel",
     "year": "1998-2011",
     "games": 33,
-    "id": "125531"
+    "id": "125531",
+    "synced": true
   },
   {
     "higestRating": 2304,
@@ -86170,7 +86187,8 @@
     "name": "JENSEN, Bjarke",
     "year": "1997-2015",
     "games": 25,
-    "id": "124132"
+    "id": "124132",
+    "synced": true
   },
   {
     "higestRating": 2392,
@@ -89790,7 +89808,8 @@
     "name": "GEIVONDIAN, Arman",
     "year": "2013-2020",
     "games": 23,
-    "id": "154680"
+    "id": "154680",
+    "synced": true
   },
   {
     "higestRating": 2411,
@@ -96969,7 +96988,8 @@
     "name": "FARAKHOV, Rafail",
     "year": "1997-2003",
     "games": 19,
-    "id": "57054"
+    "id": "57054",
+    "synced": true
   },
   {
     "higestRating": 2331,
@@ -102519,7 +102539,8 @@
     "name": "RUDOLPH, Anna",
     "year": "2001-2007",
     "games": 17,
-    "id": "109080"
+    "id": "109080",
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -103285,7 +103306,8 @@
     "name": "UNGURS, Edgars",
     "year": "2015-2022",
     "games": 17,
-    "id": "155890"
+    "id": "155890",
+    "synced": true
   },
   {
     "higestRating": 2459,
@@ -104128,7 +104150,8 @@
     "name": "PURIC, Nenad",
     "year": "1994-2009",
     "games": 16,
-    "id": "53029"
+    "id": "53029",
+    "synced": true
   },
   {
     "higestRating": 2288,
@@ -110461,7 +110484,8 @@
     "name": "STORK, Oliver",
     "year": "2018-2020",
     "games": 12,
-    "id": "162656"
+    "id": "162656",
+    "synced": true
   },
   {
     "higestRating": 2304,
@@ -113472,7 +113496,8 @@
     "name": "RUBEN, Gary",
     "year": "1973-2004",
     "games": 5,
-    "id": "105921"
+    "id": "105921",
+    "synced": true
   },
   {
     "higestRating": 2266,
