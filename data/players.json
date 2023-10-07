@@ -2086,7 +2086,8 @@
     "name": "TATAI, Stefano",
     "year": "1958-2012",
     "games": 1286,
-    "id": "16259"
+    "id": "16259",
+    "synced": true
   },
   {
     "higestRating": 2703,
@@ -13767,7 +13768,8 @@
     "name": "ZHAI, Mo",
     "year": "2011-2023",
     "games": 296,
-    "id": "133523"
+    "id": "133523",
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -13894,7 +13896,8 @@
     "name": "DAMASO, Rui",
     "year": "1984-2019",
     "games": 292,
-    "id": "38298"
+    "id": "38298",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -38146,7 +38149,8 @@
     "name": "SKALIK, Przemyslaw",
     "year": "1989-2013",
     "games": 88,
-    "id": "26117"
+    "id": "26117",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -62215,7 +62219,8 @@
     "name": "AGUILAR, Guillermo Dominguez",
     "year": "2003-2022",
     "games": 44,
-    "id": "81976"
+    "id": "81976",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -74491,7 +74496,8 @@
     "name": "MOLONEY, Nicholas R",
     "year": "1994-2012",
     "games": 32,
-    "id": "50341"
+    "id": "50341",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -75352,7 +75358,8 @@
     "name": "FIEDOREK, Michal",
     "year": "2017-2022",
     "games": 32,
-    "id": "160046"
+    "id": "160046",
+    "synced": true
   },
   {
     "higestRating": 2288,
@@ -78683,7 +78690,8 @@
     "name": "DATUASHVILI, Nona",
     "year": "1996-2015",
     "games": 29,
-    "id": "50116"
+    "id": "50116",
+    "synced": true
   },
   {
     "higestRating": 2338,
@@ -88078,7 +88086,8 @@
     "name": "FINEK, Vaclav",
     "year": "2020-2022",
     "games": 24,
-    "id": "171073"
+    "id": "171073",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -96816,7 +96825,8 @@
     "name": "TURNA, Stefan",
     "year": "1999-2001",
     "games": 19,
-    "id": "53470"
+    "id": "53470",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -97779,7 +97789,8 @@
     "name": "ALVAREZ, Inigo Martin",
     "year": "2007-2014",
     "games": 19,
-    "id": "117507"
+    "id": "117507",
+    "synced": true
   },
   {
     "higestRating": 2224,
@@ -106949,7 +106960,8 @@
     "name": "BALOGH, Viktor",
     "year": "1996-2002",
     "games": 15,
-    "id": "52619"
+    "id": "52619",
+    "synced": true
   },
   {
     "higestRating": 2376,
@@ -107794,7 +107806,8 @@
     "name": "ZABASAJJA, Willy",
     "year": "1982-1992",
     "games": 15,
-    "id": "91688"
+    "id": "91688",
+    "synced": true
   },
   {
     "higestRating": 2211,

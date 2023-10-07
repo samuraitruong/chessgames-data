@@ -1,0 +1,14 @@
+[Event "Beersheba"]
+[Site "Be’er Sheva ISR"]
+[Date "1976.02.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Stefano Tatai"]
+[Black "Moshe Czerniak"]
+[ECO "C03"]
+[WhiteElo "2465"]
+[BlackElo "2385"]
+[PlyCount "33"]
+
+1.e4 e6 2.d4 d5 3.Nd2 g6 4.Ngf3 Bg7 5.c3 c5 6.exd5 cxd4 7.Bb5+ Kf8 8.O-O dxc3 9.bxc3 Bxc3 10.Ba3+ Kg7 11.Rc1 Bxd2 12.Qxd2 a6 13.Bb2+ f6 14.Ba4 exd5 15.Qf4 Bf5 16.Rc7+ Nd7 17.Bxd7 1-0
