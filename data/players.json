@@ -1420,7 +1420,8 @@
     "name": "KENGIS, Edvins",
     "year": "1973-2018",
     "games": 1528,
-    "id": "14317"
+    "id": "14317",
+    "synced": true
   },
   {
     "higestRating": 2590,
@@ -36421,7 +36422,8 @@
     "name": "PRITHU, Gupta",
     "year": "2016-2019",
     "games": 95,
-    "id": "156928"
+    "id": "156928",
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -51823,7 +51825,8 @@
     "name": "ORNDAHL, Markus",
     "year": "2004-2018",
     "games": 59,
-    "id": "107888"
+    "id": "107888",
+    "synced": true
   },
   {
     "higestRating": 2252,
@@ -53528,7 +53531,8 @@
     "name": "KACAKOVSKI, Dimitar",
     "year": "1998-2019",
     "games": 56,
-    "id": "87634"
+    "id": "87634",
+    "synced": true
   },
   {
     "higestRating": 2450,
@@ -60496,7 +60500,8 @@
     "name": "KOHLER, Aran",
     "year": "1987-2012",
     "games": 46,
-    "id": "52991"
+    "id": "52991",
+    "synced": true
   },
   {
     "higestRating": 2392,
@@ -66249,7 +66254,8 @@
     "name": "NEDIMOVIC, Ljubisa",
     "year": "1997-2005",
     "games": 40,
-    "id": "71602"
+    "id": "71602",
+    "synced": true
   },
   {
     "higestRating": 2362,
@@ -69817,7 +69823,8 @@
     "name": "BARTELS, Hans A",
     "year": "1983-1997",
     "games": 36,
-    "id": "43756"
+    "id": "43756",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -70512,7 +70519,8 @@
     "name": "HERCULES, Benjamin Vincent",
     "year": "2010-2019",
     "games": 36,
-    "id": "126795"
+    "id": "126795",
+    "synced": true
   },
   {
     "higestRating": 2286,
@@ -70759,7 +70767,8 @@
     "name": "KIMELMAN, Gabriel",
     "year": "2017-2018",
     "games": 36,
-    "id": "160835"
+    "id": "160835",
+    "synced": true
   },
   {
     "higestRating": 2466,
@@ -80015,7 +80024,8 @@
     "name": "KVALOY, Aksel Bu",
     "year": "2017-2023",
     "games": 29,
-    "id": "158682"
+    "id": "158682",
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -100368,7 +100378,8 @@
     "name": "JAQUEZ, Juan Manuel",
     "year": "1990-2017",
     "games": 18,
-    "id": "112670"
+    "id": "112670",
+    "synced": true
   },
   {
     "higestRating": 2239,
@@ -104574,7 +104585,8 @@
     "name": "WAGNER, Harald",
     "year": "1976-1994",
     "games": 16,
-    "id": "60979"
+    "id": "60979",
+    "synced": true
   },
   {
     "higestRating": 2307,
@@ -109020,7 +109032,8 @@
     "name": "SORENSEN, Torben Kyhl",
     "year": "2012-2017",
     "games": 15,
-    "id": "140013"
+    "id": "140013",
+    "synced": true
   },
   {
     "higestRating": 2485,
