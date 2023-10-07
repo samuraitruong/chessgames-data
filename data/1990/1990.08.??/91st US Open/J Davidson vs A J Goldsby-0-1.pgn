@@ -1,0 +1,14 @@
+[Event "91st US Open"]
+[Site "Jacksonville, FL USA"]
+[Date "1990.08.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "J Davidson"]
+[Black "A J Goldsby"]
+[ECO "B77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Nc6 7.f3 Bg7 8.Qd2 O-O 9.Bc4 Bd7 10.Bb3 Rc8 11.O-O-O Ne5 12.Bh6 Bxh6 13.Qxh6 Rxc3 14.bxc3 b5 15.h4 Qa5 16.Qe3 Rc8 17.Kd2 Neg4 18.fxg4 Rxc3 19.Rhe1 Rxe3+ 20.Kxe3 Nxg4+ 21.Ke2 Ne5 22.Kf1 Qc3 23.Ne2 Qe3 0-1

@@ -2507,7 +2507,8 @@
     "name": "KONERU, Humpy",
     "year": "1997-2023",
     "games": 1177,
-    "id": "49497"
+    "id": "49497",
+    "synced": true
   },
   {
     "higestRating": 2602,
@@ -6669,7 +6670,8 @@
     "name": "PENROSE, Jonathan",
     "year": "1949-1989",
     "games": 607,
-    "id": "17945"
+    "id": "17945",
+    "synced": true
   },
   {
     "higestRating": 2495,
@@ -15208,7 +15210,8 @@
     "name": "HENNIGAN, Michael",
     "year": "1983-2010",
     "games": 265,
-    "id": "13757"
+    "id": "13757",
+    "synced": true
   },
   {
     "higestRating": 2465,
@@ -28652,7 +28655,8 @@
     "name": "SOYLU, Suat",
     "year": "1979-2018",
     "games": 126,
-    "id": "25885"
+    "id": "25885",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -34308,7 +34312,8 @@
     "name": "AHARON, Ofir",
     "year": "2008-2022",
     "games": 102,
-    "id": "120089"
+    "id": "120089",
+    "synced": true
   },
   {
     "higestRating": 2282,
@@ -35715,7 +35720,8 @@
     "name": "GOLDSBY, A J",
     "year": "1974-2012",
     "games": 97,
-    "id": "96818"
+    "id": "96818",
+    "synced": true
   },
   {
     "higestRating": 2478,
@@ -45002,7 +45008,8 @@
     "name": "BUDREWICZ, Krzysztof",
     "year": "2004-2022",
     "games": 72,
-    "id": "134139"
+    "id": "134139",
+    "synced": true
   },
   {
     "higestRating": 2270,
@@ -58480,7 +58487,8 @@
     "name": "KLARENBEEK, Hans",
     "year": "1985-1997",
     "games": 48,
-    "id": "25934"
+    "id": "25934",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -75064,7 +75072,8 @@
     "name": "SIRNIK, Bostjan",
     "year": "1993-2003",
     "games": 32,
-    "id": "91630"
+    "id": "91630",
+    "synced": true
   },
   {
     "higestRating": 2232,
@@ -85720,7 +85729,8 @@
     "name": "KUNTZ, Pierre",
     "year": "1992-2002",
     "games": 25,
-    "id": "68219"
+    "id": "68219",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -88618,7 +88628,8 @@
     "name": "BASTIAN, Martin",
     "year": "1986-2019",
     "games": 23,
-    "id": "40498"
+    "id": "40498",
+    "synced": true
   },
   {
     "higestRating": 2236,
@@ -89505,7 +89516,8 @@
     "name": "ZILBERT, Oleg",
     "year": "2006-2019",
     "games": 23,
-    "id": "107164"
+    "id": "107164",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -103345,7 +103357,8 @@
     "name": "GREABCA, Vasile",
     "year": "2007",
     "games": 17,
-    "id": "136056"
+    "id": "136056",
+    "synced": true
   },
   {
     "higestRating": 2496,
@@ -108576,7 +108589,8 @@
     "name": "NEESE, Hans-Joachim",
     "year": "1989-2008",
     "games": 15,
-    "id": "110991"
+    "id": "110991",
+    "synced": true
   },
   {
     "higestRating": 2228,
