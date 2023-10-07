@@ -1,0 +1,14 @@
+[Event "Athens GRE"]
+[Site "?"]
+[Date "2006.06.13"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ashot Gamletovich Anastasian"]
+[Black "Ioannis Poulopoulos"]
+[ECO "C46"]
+[WhiteElo "2571"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bc4 Nxe4 5.Nxe4 d5 6.Bxd5 Qxd5 7.d3 Bf5 8.Nc3 Bb4 9.Bd2 Bxc3 10.Bxc3 O-O 11.h3 Rfe8 12.O-O Qe6 13.Kh1 Rad8 14.Qe2 Bxh3 15.gxh3 Qxh3+ 16.Kg1 Rd6 17.Nh2 Rg6+ 18.Kh1 Qg2# 0-1
