@@ -1,0 +1,14 @@
+[Event "88th US Open"]
+[Site "Portland, OR USA"]
+[Date "1987.08.05"]
+[EventDate "1987.08.02"]
+[Round "4"]
+[Result "1-0"]
+[White "Kurt W Stein"]
+[Black "David Moody"]
+[ECO "C44"]
+[WhiteElo "2254"]
+[BlackElo "2083"]
+[PlyCount "33"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Be7 5.Nxd4 Nf6 6.Nxc6 bxc6 7.e5 Ne4 8.Qf3 d5 9.exd6 Nxd6 10.Qxc6+ Bd7 11.Qc5 O-O 12.Bd3 Ne4 13.Qc4 Nxf2 14.Kxf2 Bh4+ 15.g3 Qf6+ 16.Qf4 Qb6+ 17.Be3 1-0
