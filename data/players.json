@@ -468,7 +468,8 @@
     "name": "SMIRIN, Ilia",
     "year": "1972-2023",
     "games": 2260,
-    "id": "14149"
+    "id": "14149",
+    "synced": true
   },
   {
     "higestRating": 2663,
@@ -24017,7 +24018,8 @@
     "name": "MIKHALEVSKI, Alexander",
     "year": "1992-2019",
     "games": 159,
-    "id": "27053"
+    "id": "27053",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -24647,7 +24649,8 @@
     "name": "LAKOS, Nikoletta",
     "year": "1991-2018",
     "games": 154,
-    "id": "12220"
+    "id": "12220",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -40193,7 +40196,8 @@
     "name": "SANTANA, Jose Lisandro Munoz",
     "year": "2004-2022",
     "games": 83,
-    "id": "89127"
+    "id": "89127",
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -48323,7 +48327,8 @@
     "name": "NIEMINEN, Kari",
     "year": "1988-2016",
     "games": 65,
-    "id": "51347"
+    "id": "51347",
+    "synced": true
   },
   {
     "higestRating": 2428,
@@ -52657,7 +52662,8 @@
     "name": "SINGER, Christoph",
     "year": "1988-2019",
     "games": 57,
-    "id": "57323"
+    "id": "57323",
+    "synced": true
   },
   {
     "higestRating": 2293,
@@ -59058,14 +59064,16 @@
     "name": "GRIB, Roman",
     "year": "2008-2019",
     "games": 48,
-    "id": "118180"
+    "id": "118180",
+    "synced": true
   },
   {
     "higestRating": 2316,
     "name": "GERASIMOVA, Olga",
     "year": "2008-2018",
     "games": 48,
-    "id": "119063"
+    "id": "119063",
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -71404,7 +71412,8 @@
     "name": "IRIGOYEN, Gabriel Mazziotti",
     "year": "2001-2006",
     "games": 35,
-    "id": "88443"
+    "id": "88443",
+    "synced": true
   },
   {
     "higestRating": 2276,
@@ -73327,7 +73336,8 @@
     "name": "NOOMEN, Jeroen",
     "year": "1984-2004",
     "games": 33,
-    "id": "34149"
+    "id": "34149",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -73717,7 +73727,8 @@
     "name": "MORARU, Marius",
     "year": "1994-2005",
     "games": 33,
-    "id": "68728"
+    "id": "68728",
+    "synced": true
   },
   {
     "higestRating": 2277,
@@ -75698,7 +75709,8 @@
     "name": "GUIMARAES, Jorge",
     "year": "1981-1997",
     "games": 31,
-    "id": "20940"
+    "id": "20940",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -79283,7 +79295,8 @@
     "name": "DELITHANASIS, Dimitrios",
     "year": "1990-2011",
     "games": 29,
-    "id": "83178"
+    "id": "83178",
+    "synced": true
   },
   {
     "higestRating": 2212,
@@ -79298,7 +79311,8 @@
     "name": "GERVASI, Giancarlo",
     "year": "1983-1990",
     "games": 29,
-    "id": "84813"
+    "id": "84813",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -95375,7 +95389,8 @@
     "name": "PETROVIC, Djordje",
     "year": "1966-1994",
     "games": 20,
-    "id": "97742"
+    "id": "97742",
+    "synced": true
   },
   {
     "higestRating": 2319,
@@ -98495,7 +98510,8 @@
     "name": "DOROKHIN, Mykhailo",
     "year": "2012-2019",
     "games": 19,
-    "id": "142142"
+    "id": "142142",
+    "synced": true
   },
   {
     "higestRating": 2218,
@@ -113996,7 +114012,8 @@
     "name": "KISS, Zoltan",
     "year": "1980-1997",
     "games": 4,
-    "id": "82220"
+    "id": "82220",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -114496,7 +114513,8 @@
     "name": "SEVIAN, Armen",
     "year": "2001",
     "games": 3,
-    "id": "69504"
+    "id": "69504",
+    "synced": true
   },
   {
     "higestRating": 2385,
@@ -115223,7 +115241,8 @@
     "name": "TOVAR, Guillem Porta",
     "year": "2011-2016",
     "games": 2,
-    "id": "131856"
+    "id": "131856",
+    "synced": true
   },
   {
     "higestRating": 2246,
