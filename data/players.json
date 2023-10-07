@@ -2749,7 +2749,8 @@
     "name": "ESIPENKO, Andrey",
     "year": "2011-2023",
     "games": 1127,
-    "id": "138628"
+    "id": "138628",
+    "synced": true
   },
   {
     "higestRating": 2648,
@@ -15495,7 +15496,8 @@
     "name": "KRUSZYNSKI, Wlodzimierz",
     "year": "1973-2017",
     "games": 260,
-    "id": "17801"
+    "id": "17801",
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -19660,7 +19662,8 @@
     "name": "LUUKKONEN, Tommi",
     "year": "1993-2019",
     "games": 202,
-    "id": "51766"
+    "id": "51766",
+    "synced": true
   },
   {
     "higestRating": 2508,
@@ -32498,7 +32501,8 @@
     "name": "MAHARRAMZADE, Javad",
     "year": "1994-2003",
     "games": 108,
-    "id": "17931"
+    "id": "17931",
+    "synced": true
   },
   {
     "higestRating": 2266,
@@ -35476,7 +35480,8 @@
     "name": "RAGHUNANDAN, Kaumandur Srihari",
     "year": "2013-2019",
     "games": 98,
-    "id": "155712"
+    "id": "155712",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -38442,7 +38447,8 @@
     "name": "COPPOLA, Claudio",
     "year": "2008-2018",
     "games": 88,
-    "id": "120868"
+    "id": "120868",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -42026,7 +42032,8 @@
     "name": "BRENKE, Andreas",
     "year": "1990-2005",
     "games": 78,
-    "id": "26281"
+    "id": "26281",
+    "synced": true
   },
   {
     "higestRating": 2360,
@@ -43926,7 +43933,8 @@
     "name": "FOYGEL, Igor",
     "year": "1977-2011",
     "games": 74,
-    "id": "53213"
+    "id": "53213",
+    "synced": true
   },
   {
     "higestRating": 2276,
@@ -43957,7 +43965,8 @@
     "name": "CLERY, Nicolas",
     "year": "2000-2022",
     "games": 74,
-    "id": "56965"
+    "id": "56965",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -49328,7 +49337,8 @@
     "name": "LAY, Zaw Win",
     "year": "1996-2011",
     "games": 63,
-    "id": "47364"
+    "id": "47364",
+    "synced": true
   },
   {
     "higestRating": 2232,
@@ -55980,7 +55990,8 @@
     "name": "ROMANOV, Oleg",
     "year": "1991-2005",
     "games": 52,
-    "id": "57462"
+    "id": "57462",
+    "synced": true
   },
   {
     "higestRating": 2443,
@@ -68754,7 +68765,8 @@
     "name": "HORTON, Joe",
     "year": "1968-2000",
     "games": 37,
-    "id": "22504"
+    "id": "22504",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -80520,7 +80532,8 @@
     "name": "ORTIZ, Eduardo",
     "year": "1989-2015",
     "games": 28,
-    "id": "57355"
+    "id": "57355",
+    "synced": true
   },
   {
     "higestRating": 2218,
@@ -88820,7 +88833,8 @@
     "name": "ANBUHL, Edgar",
     "year": "1981-1982",
     "games": 23,
-    "id": "62795"
+    "id": "62795",
+    "synced": true
   },
   {
     "higestRating": 2302,
@@ -91278,7 +91292,8 @@
     "name": "MISKULIN, Dennis",
     "year": "1997-2017",
     "games": 22,
-    "id": "111974"
+    "id": "111974",
+    "synced": true
   },
   {
     "higestRating": 2263,
@@ -91476,7 +91491,8 @@
     "name": "ERDENE, Ganzorig",
     "year": "1997-2011",
     "games": 22,
-    "id": "127095"
+    "id": "127095",
+    "synced": true
   },
   {
     "higestRating": 2257,
@@ -111998,7 +112014,8 @@
     "name": "YOHANNES, Simbolon",
     "year": "2008",
     "games": 9,
-    "id": "118956"
+    "id": "118956",
+    "synced": true
   },
   {
     "higestRating": 2306,
