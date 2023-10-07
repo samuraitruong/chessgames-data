@@ -1,0 +1,14 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2023.03.29"]
+[EventDate "2023.03.29"]
+[Round "1.58"]
+[Result "0-1"]
+[White "Arnar Milutin Heidarsson"]
+[Black "Ludvig Carlsson"]
+[ECO "D10"]
+[WhiteElo "2075"]
+[BlackElo "2375"]
+[PlyCount "38"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Bf4 Nf6 5. Nc3 Nc6 6. e3 a6 7. Nf3 Bg4 8. h3 Bxf3 9. Qxf3 Qb6 10. Rb1 e6 11. a3 Qa5 12. Rc1 Ne4 13. Qd1 Nxc3 14. Rxc3 Bxa3 15. Qb3 Bb4 16. Bd3 Qa1+ 17. Ke2 Qxh1 18. Rxc6 Qe1+ 19. Kf3 bxc6 0-1
