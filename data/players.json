@@ -2576,7 +2576,8 @@
     "name": "BARSOV, Alexei",
     "year": "1983-2019",
     "games": 1167,
-    "id": "39734"
+    "id": "39734",
+    "synced": true
   },
   {
     "higestRating": 2711,
@@ -12851,7 +12852,8 @@
     "name": "MAKKA, Ioulia",
     "year": "2000-2023",
     "games": 317,
-    "id": "85156"
+    "id": "85156",
+    "synced": true
   },
   {
     "higestRating": 2546,
@@ -33601,7 +33603,8 @@
     "name": "MASHINSKAYA, Iulia",
     "year": "1994-2018",
     "games": 104,
-    "id": "58767"
+    "id": "58767",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -35073,7 +35076,8 @@
     "name": "PARVANYAN, Ashot",
     "year": "2014-2023",
     "games": 99,
-    "id": "149291"
+    "id": "149291",
+    "synced": true
   },
   {
     "higestRating": 2391,
@@ -35748,7 +35752,8 @@
     "name": "GSCHNITZER, Oswald",
     "year": "1986-2020",
     "games": 96,
-    "id": "24691"
+    "id": "24691",
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -40910,7 +40915,8 @@
     "name": "PORRASMAA, Timo",
     "year": "1966-2015",
     "games": 81,
-    "id": "51550"
+    "id": "51550",
+    "synced": true
   },
   {
     "higestRating": 2230,
@@ -41427,7 +41433,8 @@
     "name": "KARL, Hans",
     "year": "1957-2013",
     "games": 80,
-    "id": "122432"
+    "id": "122432",
+    "synced": true
   },
   {
     "higestRating": 2267,
@@ -51956,7 +51963,8 @@
     "name": "FILGUEIRA, Hernan",
     "year": "1988-2012",
     "games": 58,
-    "id": "55808"
+    "id": "55808",
+    "synced": true
   },
   {
     "higestRating": 2342,
@@ -55260,7 +55268,8 @@
     "name": "GERIGK, Erasmus",
     "year": "1988-2019",
     "games": 53,
-    "id": "71266"
+    "id": "71266",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -88354,7 +88363,8 @@
     "name": "FERRARI, Nicola",
     "year": "1998-2001",
     "games": 23,
-    "id": "50229"
+    "id": "50229",
+    "synced": true
   },
   {
     "higestRating": 2418,
@@ -95887,7 +95897,8 @@
     "name": "SEGOVIC, Goran",
     "year": "2003-2014",
     "games": 20,
-    "id": "141739"
+    "id": "141739",
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -97319,7 +97330,8 @@
     "name": "KRUSE, Hartwig",
     "year": "1999-2005",
     "games": 19,
-    "id": "90373"
+    "id": "90373",
+    "synced": true
   },
   {
     "higestRating": 2366,
@@ -112761,7 +112773,8 @@
     "name": "ANDREWS, Randal",
     "year": "1985-1993",
     "games": 6,
-    "id": "27235"
+    "id": "27235",
+    "synced": true
   },
   {
     "higestRating": 2325,
