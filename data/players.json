@@ -1513,7 +1513,8 @@
     "name": "HOU, Yifan",
     "year": "2003-2023",
     "games": 1498,
-    "id": "95916"
+    "id": "95916",
+    "synced": true
   },
   {
     "higestRating": 2570,
@@ -19769,7 +19770,8 @@
     "name": "ILUNDAIN, David Garcia",
     "year": "1988-2001",
     "games": 199,
-    "id": "17000"
+    "id": "17000",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -25916,7 +25918,8 @@
     "name": "SHAPIRO, Daniel E",
     "year": "1973-2021",
     "games": 144,
-    "id": "10097"
+    "id": "10097",
+    "synced": true
   },
   {
     "higestRating": 2467,
@@ -31635,7 +31638,8 @@
     "name": "SAREEN, Vishal",
     "year": "1992-2021",
     "games": 111,
-    "id": "46458"
+    "id": "46458",
+    "synced": true
   },
   {
     "higestRating": 2558,
@@ -48216,7 +48220,8 @@
     "name": "SHIVEN, Khosla",
     "year": "2006-2012",
     "games": 65,
-    "id": "103218"
+    "id": "103218",
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -80057,7 +80062,8 @@
     "name": "KUJALA, Auvo",
     "year": "1985-2010",
     "games": 28,
-    "id": "58734"
+    "id": "58734",
+    "synced": true
   },
   {
     "higestRating": 2244,
