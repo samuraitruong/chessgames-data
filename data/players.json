@@ -1222,7 +1222,8 @@
     "name": "SARGISSIAN, Gabriel",
     "year": "1996-2023",
     "games": 1612,
-    "id": "49434"
+    "id": "49434",
+    "synced": true
   },
   {
     "higestRating": 2760,
@@ -11466,7 +11467,8 @@
     "name": "SAMMALVUO, Tapani",
     "year": "1989-2021",
     "games": 359,
-    "id": "22632"
+    "id": "22632",
+    "synced": true
   },
   {
     "higestRating": 2561,
@@ -27163,7 +27165,8 @@
     "name": "MADEIRA, Wagner Martins",
     "year": "1982-2023",
     "games": 135,
-    "id": "16419"
+    "id": "16419",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -33293,7 +33296,8 @@
     "name": "PONIZIL, Cyril",
     "year": "2006-2022",
     "games": 105,
-    "id": "120073"
+    "id": "120073",
+    "synced": true
   },
   {
     "higestRating": 2477,
@@ -38123,7 +38127,8 @@
     "name": "SEMENIUK, Alexander",
     "year": "1975-2007",
     "games": 88,
-    "id": "49055"
+    "id": "49055",
+    "synced": true
   },
   {
     "higestRating": 2278,
@@ -43107,7 +43112,8 @@
     "name": "SHEVELEV, Arkady",
     "year": "1970-2018",
     "games": 75,
-    "id": "26782"
+    "id": "26782",
+    "synced": true
   },
   {
     "higestRating": 2381,
@@ -46609,7 +46615,8 @@
     "name": "CLEMENTE, Joel Martin",
     "year": "1999-2010",
     "games": 68,
-    "id": "90362"
+    "id": "90362",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -47840,7 +47847,8 @@
     "name": "WILLIAMS, Justus D",
     "year": "2010-2022",
     "games": 66,
-    "id": "134708"
+    "id": "134708",
+    "synced": true
   },
   {
     "higestRating": 2513,
@@ -50267,7 +50275,8 @@
     "name": "BRUNED, Yvain",
     "year": "2000-2018",
     "games": 61,
-    "id": "56841"
+    "id": "56841",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -51147,7 +51156,8 @@
     "name": "KAMINSKI, Uwe",
     "year": "1984-1998",
     "games": 59,
-    "id": "26214"
+    "id": "26214",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -54531,7 +54541,8 @@
     "name": "SAUNINA, Ludmila",
     "year": "1975-2022",
     "games": 54,
-    "id": "84382"
+    "id": "84382",
+    "synced": true
   },
   {
     "higestRating": 2261,
@@ -60711,7 +60722,8 @@
     "name": "CARNIC, Srdjan",
     "year": "1988-2021",
     "games": 45,
-    "id": "17673"
+    "id": "17673",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -66636,7 +66648,8 @@
     "name": "HAAS, Carmi",
     "year": "1989-2019",
     "games": 39,
-    "id": "44240"
+    "id": "44240",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -71410,7 +71423,8 @@
     "name": "DIAZ, Sebastian Donoso",
     "year": "2016-2020",
     "games": 35,
-    "id": "158477"
+    "id": "158477",
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -72645,7 +72659,8 @@
     "name": "ZAHEDIFAR, Anahita",
     "year": "2014-2022",
     "games": 34,
-    "id": "149980"
+    "id": "149980",
+    "synced": true
   },
   {
     "higestRating": 2303,
@@ -100720,7 +100735,8 @@
     "name": "ELYOSEPH, Harel",
     "year": "1979-2020",
     "games": 17,
-    "id": "16882"
+    "id": "16882",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -107870,7 +107886,8 @@
     "name": "MALEKI, Nicolas",
     "year": "2007-2023",
     "games": 15,
-    "id": "109896"
+    "id": "109896",
+    "synced": true
   },
   {
     "higestRating": 2220,
