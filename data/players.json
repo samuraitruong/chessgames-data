@@ -3223,7 +3223,8 @@
     "name": "GIACCIO, Alfredo",
     "year": "1989-2022",
     "games": 1031,
-    "id": "16430"
+    "id": "16430",
+    "synced": true
   },
   {
     "higestRating": 2530,
@@ -11300,7 +11301,8 @@
     "name": "BOBRAS, Piotr",
     "year": "1991-2022",
     "games": 364,
-    "id": "36652"
+    "id": "36652",
+    "synced": true
   },
   {
     "higestRating": 2465,
@@ -15680,7 +15682,8 @@
     "name": "DOBOSZ, Henryk",
     "year": "1971-2022",
     "games": 256,
-    "id": "24549"
+    "id": "24549",
+    "synced": true
   },
   {
     "higestRating": 2458,
@@ -21710,7 +21713,8 @@
     "name": "DE AZUA, Ernesto Real",
     "year": "1995-2020",
     "games": 179,
-    "id": "88419"
+    "id": "88419",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -35362,7 +35366,8 @@
     "name": "GARCIA, Humberto Pecorelli",
     "year": "1983-2015",
     "games": 97,
-    "id": "26813"
+    "id": "26813",
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -36132,7 +36137,8 @@
     "name": "BEJTOVIC, Jasmin",
     "year": "2009-2017",
     "games": 95,
-    "id": "122022"
+    "id": "122022",
+    "synced": true
   },
   {
     "higestRating": 2542,
@@ -39137,7 +39143,8 @@
     "name": "JEDLICKA, Ales",
     "year": "1995-2021",
     "games": 85,
-    "id": "54186"
+    "id": "54186",
+    "synced": true
   },
   {
     "higestRating": 2344,
@@ -42702,7 +42709,8 @@
     "name": "SMITH, Kenneth",
     "year": "1947-1997",
     "games": 76,
-    "id": "24387"
+    "id": "24387",
+    "synced": true
   },
   {
     "higestRating": 2407,
@@ -44833,7 +44841,8 @@
     "name": "DOLGITSER, Konstantin",
     "year": "1984-2022",
     "games": 71,
-    "id": "11265"
+    "id": "11265",
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -56493,7 +56502,8 @@
     "name": "ANDREASEN, Joan Hendrik",
     "year": "1989-2017",
     "games": 51,
-    "id": "127654"
+    "id": "127654",
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -57199,7 +57209,8 @@
     "name": "UESUGI, Shinsaku",
     "year": "2005-2011",
     "games": 50,
-    "id": "110109"
+    "id": "110109",
+    "synced": true
   },
   {
     "higestRating": 2241,
@@ -61344,7 +61355,8 @@
     "name": "RUBIL, Marko",
     "year": "2010-2023",
     "games": 45,
-    "id": "126643"
+    "id": "126643",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -71885,7 +71897,8 @@
     "name": "ANTOMS, Guntars",
     "year": "1977-2019",
     "games": 34,
-    "id": "56992"
+    "id": "56992",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -72980,7 +72993,8 @@
     "name": "ATARIA, Ernesto Mendez",
     "year": "1990-2018",
     "games": 33,
-    "id": "42630"
+    "id": "42630",
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -79338,7 +79352,8 @@
     "name": "BAYER, Bernhard",
     "year": "1995-2017",
     "games": 29,
-    "id": "134196"
+    "id": "134196",
+    "synced": true
   },
   {
     "higestRating": 2349,
@@ -84919,7 +84934,8 @@
     "name": "TANRIKULU, Erhan",
     "year": "2001-2011",
     "games": 25,
-    "id": "54667"
+    "id": "54667",
+    "synced": true
   },
   {
     "higestRating": 2245,
@@ -90310,7 +90326,8 @@
     "name": "LABENSKY, Igor",
     "year": "1999-2005",
     "games": 22,
-    "id": "72187"
+    "id": "72187",
+    "synced": true
   },
   {
     "higestRating": 2234,
@@ -98012,7 +98029,8 @@
     "name": "SOKAC, Marko",
     "year": "2014-2018",
     "games": 19,
-    "id": "153897"
+    "id": "153897",
+    "synced": true
   },
   {
     "higestRating": 2301,
@@ -99430,7 +99448,8 @@
     "name": "KRAJCSOVITS, Marton",
     "year": "1960-1981",
     "games": 18,
-    "id": "93925"
+    "id": "93925",
+    "synced": true
   },
   {
     "higestRating": 2321,
@@ -101287,7 +101306,8 @@
     "name": "GOESSLING, Guido",
     "year": "1992-2004",
     "games": 17,
-    "id": "58186"
+    "id": "58186",
+    "synced": true
   },
   {
     "higestRating": 2367,
@@ -104130,7 +104150,8 @@
     "name": "SANCHEZ, Fernando",
     "year": "1981-2008",
     "games": 16,
-    "id": "68302"
+    "id": "68302",
+    "synced": true
   },
   {
     "higestRating": 2423,
@@ -104556,7 +104577,8 @@
     "name": "OREN, Itamar",
     "year": "1989-2005",
     "games": 16,
-    "id": "90636"
+    "id": "90636",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -106155,7 +106177,8 @@
     "name": "FOCHTLER, Ekkehard",
     "year": "1986-1998",
     "games": 15,
-    "id": "18301"
+    "id": "18301",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -111180,7 +111203,8 @@
     "name": "SOMOZA, Oliver Gonzalez",
     "year": "2001-2007",
     "games": 9,
-    "id": "55721"
+    "id": "55721",
+    "synced": true
   },
   {
     "higestRating": 2338,
@@ -113107,7 +113131,8 @@
     "name": "CAO, Jason",
     "year": "2010-2017",
     "games": 5,
-    "id": "128728"
+    "id": "128728",
+    "synced": true
   },
   {
     "higestRating": 2330,
