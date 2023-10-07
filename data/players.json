@@ -3520,7 +3520,8 @@
     "name": "ZELCIC, Robert",
     "year": "1988-2023",
     "games": 978,
-    "id": "19797"
+    "id": "19797",
+    "synced": true
   },
   {
     "higestRating": 2529,
@@ -22319,7 +22320,8 @@
     "name": "YIP, Carissa",
     "year": "2014-2023",
     "games": 174,
-    "id": "151362"
+    "id": "151362",
+    "synced": true
   },
   {
     "higestRating": 2411,
@@ -25734,7 +25736,8 @@
     "name": "KRNAN, Tomas",
     "year": "1998-2017",
     "games": 146,
-    "id": "55197"
+    "id": "55197",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -26832,7 +26835,8 @@
     "name": "LOUREIRO, Luiz Vasconcellos",
     "year": "1978-2005",
     "games": 138,
-    "id": "126930"
+    "id": "126930",
+    "synced": true
   },
   {
     "higestRating": 2273,
@@ -34025,7 +34029,8 @@
     "name": "IBARRA, Rafael Alvarez",
     "year": "1987-2004",
     "games": 102,
-    "id": "95215"
+    "id": "95215",
+    "synced": true
   },
   {
     "higestRating": 2318,
@@ -39889,7 +39894,8 @@
     "name": "MUFIC, Goran",
     "year": "1983-2018",
     "games": 83,
-    "id": "56662"
+    "id": "56662",
+    "synced": true
   },
   {
     "higestRating": 2429,
@@ -40076,7 +40082,8 @@
     "name": "HASANZADE, Toghrul",
     "year": "2016-2022",
     "games": 83,
-    "id": "158368"
+    "id": "158368",
+    "synced": true
   },
   {
     "higestRating": 2293,
@@ -42386,7 +42393,8 @@
     "name": "KOSCIELSKI, Janusz",
     "year": "1992-2022",
     "games": 77,
-    "id": "52755"
+    "id": "52755",
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -53818,7 +53826,8 @@
     "name": "VALENTA, Vit",
     "year": "1993-2019",
     "games": 55,
-    "id": "91071"
+    "id": "91071",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -55245,7 +55254,8 @@
     "name": "VIGUS, James E",
     "year": "1995-2007",
     "games": 53,
-    "id": "123170"
+    "id": "123170",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -62412,7 +62422,8 @@
     "name": "GOMEZ, Julio Suarez",
     "year": "2015-2021",
     "games": 44,
-    "id": "153886"
+    "id": "153886",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -72118,7 +72129,8 @@
     "name": "BRANDING, Gerd",
     "year": "1999-2005",
     "games": 34,
-    "id": "90254"
+    "id": "90254",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -75875,7 +75887,8 @@
     "name": "FRIEDRICHS, Klaus",
     "year": "1999-2012",
     "games": 31,
-    "id": "69593"
+    "id": "69593",
+    "synced": true
   },
   {
     "higestRating": 2315,
@@ -85200,7 +85213,8 @@
     "name": "RIEDNER, Martin",
     "year": "1987-2001",
     "games": 25,
-    "id": "70631"
+    "id": "70631",
+    "synced": true
   },
   {
     "higestRating": 2366,
@@ -100572,7 +100586,8 @@
     "name": "AYUSH, Sharma",
     "year": "2022-2023",
     "games": 18,
-    "id": "191066"
+    "id": "191066",
+    "synced": true
   },
   {
     "higestRating": 2227,
@@ -110730,7 +110745,8 @@
     "name": "JELEN, Peter",
     "year": "1995-2007",
     "games": 10,
-    "id": "56035"
+    "id": "56035",
+    "synced": true
   },
   {
     "higestRating": 2357,
@@ -110944,7 +110960,8 @@
     "name": "SANCHEZ, Joan Bautista",
     "year": "1998-2006",
     "games": 10,
-    "id": "134450"
+    "id": "134450",
+    "synced": true
   },
   {
     "higestRating": 2242,
