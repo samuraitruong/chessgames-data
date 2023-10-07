@@ -2017,7 +2017,8 @@
     "name": "MRDJA, Milan",
     "year": "1978-2022",
     "games": 1298,
-    "id": "25869"
+    "id": "25869",
+    "synced": true
   },
   {
     "higestRating": 2512,
@@ -3176,7 +3177,8 @@
     "name": "STAROSTITS, Ilmars",
     "year": "1993-2022",
     "games": 1041,
-    "id": "55519"
+    "id": "55519",
+    "synced": true
   },
   {
     "higestRating": 2607,
@@ -17015,7 +17017,8 @@
     "name": "BARTHOLOMEW, John",
     "year": "2002-2019",
     "games": 235,
-    "id": "80827"
+    "id": "80827",
+    "synced": true
   },
   {
     "higestRating": 2493,
@@ -35170,7 +35173,8 @@
     "name": "SCHOPPEN, Casper",
     "year": "2016-2020",
     "games": 99,
-    "id": "156774"
+    "id": "156774",
+    "synced": true
   },
   {
     "higestRating": 2358,
@@ -49434,7 +49438,8 @@
     "name": "SPIESS, Gunter",
     "year": "1990-2019",
     "games": 63,
-    "id": "56989"
+    "id": "56989",
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -63057,7 +63062,8 @@
     "name": "HAQUE, Rezaul",
     "year": "1983-2016",
     "games": 43,
-    "id": "47276"
+    "id": "47276",
+    "synced": true
   },
   {
     "higestRating": 2431,
@@ -64679,7 +64685,8 @@
     "name": "MACINTYRE, Paul",
     "year": "1996-2009",
     "games": 41,
-    "id": "10124"
+    "id": "10124",
+    "synced": true
   },
   {
     "higestRating": 2280,
@@ -68538,7 +68545,8 @@
     "name": "JAVANBAKHT, Nima",
     "year": "2010-2018",
     "games": 38,
-    "id": "134933"
+    "id": "134933",
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -80590,7 +80598,8 @@
     "name": "CHOW, Samuel",
     "year": "2001-2022",
     "games": 28,
-    "id": "68951"
+    "id": "68951",
+    "synced": true
   },
   {
     "higestRating": 2221,
@@ -83635,7 +83644,8 @@
     "name": "BARGAN, Sergiu",
     "year": "2001-2017",
     "games": 26,
-    "id": "56620"
+    "id": "56620",
+    "synced": true
   },
   {
     "higestRating": 2493,
@@ -84105,7 +84115,8 @@
     "name": "HAIT, Alexander",
     "year": "1990-2012",
     "games": 26,
-    "id": "100974"
+    "id": "100974",
+    "synced": true
   },
   {
     "higestRating": 2466,
@@ -85087,7 +85098,8 @@
     "name": "FAROOQUI, Zahiruddin",
     "year": "1970-1985",
     "games": 25,
-    "id": "43740"
+    "id": "43740",
+    "synced": true
   },
   {
     "higestRating": 2403,
@@ -101455,7 +101467,8 @@
     "name": "VARELA, Daniel Elguezabal",
     "year": "1985-2001",
     "games": 17,
-    "id": "38954"
+    "id": "38954",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -110590,7 +110603,8 @@
     "name": "SALABARRIA, Ernesto Piedra",
     "year": "2019-2020",
     "games": 12,
-    "id": "168838"
+    "id": "168838",
+    "synced": true
   },
   {
     "higestRating": 2272,
