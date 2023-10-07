@@ -6947,7 +6947,8 @@
     "name": "KIROV, Nino",
     "year": "1969-2001",
     "games": 585,
-    "id": "47052"
+    "id": "47052",
+    "synced": true
   },
   {
     "higestRating": 2574,
@@ -7002,7 +7003,8 @@
     "name": "VOVK, Andrey",
     "year": "2001-2020",
     "games": 581,
-    "id": "99223"
+    "id": "99223",
+    "synced": true
   },
   {
     "higestRating": 2679,
@@ -17350,7 +17352,8 @@
     "name": "ANAGNOSTOPOULOS, Dimitrios",
     "year": "1984-2002",
     "games": 230,
-    "id": "53956"
+    "id": "53956",
+    "synced": true
   },
   {
     "higestRating": 2518,
@@ -19997,7 +20000,8 @@
     "name": "BARKHAGEN, Jonas",
     "year": "1990-2019",
     "games": 198,
-    "id": "27074"
+    "id": "27074",
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -29258,7 +29262,8 @@
     "name": "ESPIG, Thomas",
     "year": "1971-2005",
     "games": 123,
-    "id": "72493"
+    "id": "72493",
+    "synced": true
   },
   {
     "higestRating": 2322,
@@ -34057,7 +34062,8 @@
     "name": "TRAVKINA, Anastasia",
     "year": "2010-2017",
     "games": 103,
-    "id": "130359"
+    "id": "130359",
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -43865,7 +43871,8 @@
     "name": "TOSHKOV, Tihomir",
     "year": "1978-1988",
     "games": 74,
-    "id": "17614"
+    "id": "17614",
+    "synced": true
   },
   {
     "higestRating": 2455,
@@ -47952,7 +47959,8 @@
     "name": "STUBBERUD, Ornulf A",
     "year": "2002-2016",
     "games": 66,
-    "id": "88224"
+    "id": "88224",
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -54371,7 +54379,8 @@
     "name": "SOARES, Cesar",
     "year": "1983-2001",
     "games": 55,
-    "id": "125407"
+    "id": "125407",
+    "synced": true
   },
   {
     "higestRating": 2262,
@@ -57033,7 +57042,8 @@
     "name": "REYMUNDO, Juan Antonio Villar",
     "year": "2015-2022",
     "games": 51,
-    "id": "155917"
+    "id": "155917",
+    "synced": true
   },
   {
     "higestRating": 2314,
@@ -74125,7 +74135,8 @@
     "name": "LUCKY, David",
     "year": "1981-2012",
     "games": 33,
-    "id": "107129"
+    "id": "107129",
+    "synced": true
   },
   {
     "higestRating": 2242,
@@ -85851,7 +85862,8 @@
     "name": "FLOOR, Dirk",
     "year": "1995-2018",
     "games": 25,
-    "id": "70333"
+    "id": "70333",
+    "synced": true
   },
   {
     "higestRating": 2321,
@@ -88426,7 +88438,8 @@
     "name": "SZADKOWSKI, Kamil",
     "year": "2013-2020",
     "games": 24,
-    "id": "158869"
+    "id": "158869",
+    "synced": true
   },
   {
     "higestRating": 2311,
@@ -92392,7 +92405,8 @@
     "name": "SCIBOROWSKI, Miroslaw",
     "year": "1985-2008",
     "games": 21,
-    "id": "34115"
+    "id": "34115",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -102798,7 +102812,8 @@
     "name": "BASSLER, Markus",
     "year": "1972-1983",
     "games": 17,
-    "id": "103768"
+    "id": "103768",
+    "synced": true
   },
   {
     "higestRating": 2287,
@@ -110236,7 +110251,8 @@
     "name": "KAPHLE, Sebastian",
     "year": "2006-2008",
     "games": 13,
-    "id": "110051"
+    "id": "110051",
+    "synced": true
   },
   {
     "higestRating": 2400,
