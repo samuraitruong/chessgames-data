@@ -1,0 +1,14 @@
+[Event "Groningen Chess Festival"]
+[Site "Groningen NED"]
+[Date "2013.12.21"]
+[EventDate "2013.12.21"]
+[Round "1.47"]
+[Result "0-1"]
+[White "Joop Hummel"]
+[Black "Stefan Beukema"]
+[ECO "A04"]
+[WhiteElo "2006"]
+[BlackElo "2280"]
+[PlyCount "44"]
+
+1. Nf3 f5 2. e4 fxe4 3. Ng5 e5 4. Nxe4 Nc6 5. Bb5 Nf6 6. Nbc3 Nd4 7. O-O c6 8. Nxf6+ Qxf6 9. Ne4 Qg6 10. Bd3 d5 11. Ng3 e4 12. Re1 Be7 13. Nxe4 dxe4 14. Rxe4 Qf6 15. c3 Nf5 16. Qb3 Nd6 17. Re3 Bg4 18. Bc4 Rf8 19. f3 O-O-O 20. d4 Nxc4 21. Qxc4 Bd6 22. Re1 Bxh2+ 0-1
