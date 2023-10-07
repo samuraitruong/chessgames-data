@@ -1,0 +1,14 @@
+[Event "TCh-FIN 00-01"]
+[Site "FIN"]
+[Date "2001.02.10"]
+[EventDate "2001.01.07"]
+[Round "7"]
+[Result "1-0"]
+[White "Sauli Tiitta"]
+[Black "Ilkka Antero Kanko"]
+[ECO "B43"]
+[WhiteElo "2230"]
+[BlackElo "2240"]
+[PlyCount "33"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Qc7 7. O-O Bb7 8. Re1 d6 9. Bg5 Be7 10. Bxe7 Kxe7 11. Qg4 Nf6 12. Qxg7 Rg8 13. Nf5+ exf5 14. Nd5+ Bxd5 15. exd5+ Kd8 16. Qxf6+ Kc8 17. Re7 1-0

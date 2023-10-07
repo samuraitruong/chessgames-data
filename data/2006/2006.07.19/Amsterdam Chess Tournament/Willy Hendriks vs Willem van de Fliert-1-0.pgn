@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Tournament"]
+[Site "Amsterdam NED"]
+[Date "2006.07.19"]
+[EventDate "2006.07.15"]
+[Round "5"]
+[Result "1-0"]
+[White "Willy Hendriks"]
+[Black "Willem van de Fliert"]
+[ECO "C00"]
+[WhiteElo "2426"]
+[BlackElo "2195"]
+[PlyCount "43"]
+
+1. e4 e6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Bf3 c5 6. Ne2 Nc6 7. Be3 cxd4 8. Nxd4 Nxd4 9. Qxd4 Qc7 10. Nc3 e5 11. Qd3 Bd7 12. O-O-O a6 13. Nd5 Nxd5 14. Bxd5 Bg4 15. f3 Bh5 16. Qb3 Bg6 17. Bb6 Bxc2 18. Bxc7 Bxb3 19. Bxb7 Bxd1 20. Rxd1 Ra7 21. Bc6+ Ke7 22. Bb6 1-0

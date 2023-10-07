@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Tournament"]
+[Site "Amsterdam NED"]
+[Date "2006.07.16"]
+[EventDate "2006.07.15"]
+[Round "2"]
+[Result "0-1"]
+[White "Roeland Pruijssers"]
+[Black "Erwin L’Ami"]
+[ECO "C67"]
+[WhiteElo "2355"]
+[BlackElo "2586"]
+[PlyCount "44"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9. Nc3 Ne7 10. h3 Ng6 11. Ne4 h6 12. b3 c5 13. c4 Be6 14. Bb2 Kd7 15. Rad1+ Kc6 16. Nc3 Be7 17. Nd5 a5 18. Nh2 Rhd8 19. Nxe7+ Nxe7 20. a4 Bf5 21. e6 f6 22. Rde1 Bd3 0-1
