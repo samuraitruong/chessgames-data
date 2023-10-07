@@ -2880,7 +2880,8 @@
     "name": "MIEZIS, Normunds",
     "year": "1989-2023",
     "games": 1103,
-    "id": "49822"
+    "id": "49822",
+    "synced": true
   },
   {
     "higestRating": 2465,
@@ -10617,7 +10618,8 @@
     "name": "GHARAMIAN, Tigran",
     "year": "1997-2022",
     "games": 389,
-    "id": "36023"
+    "id": "36023",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -34814,7 +34816,8 @@
     "name": "POULSEN, Allan",
     "year": "1972-1996",
     "games": 99,
-    "id": "28982"
+    "id": "28982",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -40008,7 +40011,8 @@
     "name": "VON BAHR, Oskar",
     "year": "1992-2022",
     "games": 83,
-    "id": "80072"
+    "id": "80072",
+    "synced": true
   },
   {
     "higestRating": 2439,
@@ -42791,7 +42795,8 @@
     "name": "SZIVA, Erika",
     "year": "1985-2001",
     "games": 76,
-    "id": "34251"
+    "id": "34251",
+    "synced": true
   },
   {
     "higestRating": 2278,
@@ -51320,7 +51325,8 @@
     "name": "IONESCU, Doru-Alexandru",
     "year": "1994-2017",
     "games": 59,
-    "id": "49377"
+    "id": "49377",
+    "synced": true
   },
   {
     "higestRating": 2323,
@@ -53512,7 +53518,8 @@
     "name": "QUIZON, Daniel",
     "year": "2018-2023",
     "games": 56,
-    "id": "161895"
+    "id": "161895",
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -59759,7 +59766,8 @@
     "name": "GETZ, Alec S",
     "year": "2006-2013",
     "games": 47,
-    "id": "110118"
+    "id": "110118",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -63169,7 +63177,8 @@
     "name": "WALACH, Marcin",
     "year": "1991-2017",
     "games": 43,
-    "id": "92266"
+    "id": "92266",
+    "synced": true
   },
   {
     "higestRating": 2441,
@@ -83171,7 +83180,8 @@
     "name": "VALDEN, Petros",
     "year": "1998-2006",
     "games": 26,
-    "id": "51383"
+    "id": "51383",
+    "synced": true
   },
   {
     "higestRating": 2235,
@@ -83367,7 +83377,8 @@
     "name": "KERMAN, David J",
     "year": "1953-2012",
     "games": 26,
-    "id": "57349"
+    "id": "57349",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -87617,7 +87628,8 @@
     "name": "MEDINA, Jorge Beltran",
     "year": "1993-2012",
     "games": 24,
-    "id": "120972"
+    "id": "120972",
+    "synced": true
   },
   {
     "higestRating": 2288,
@@ -93099,7 +93111,8 @@
     "name": "SOHAL, Tanraj",
     "year": "2009-2019",
     "games": 21,
-    "id": "122479"
+    "id": "122479",
+    "synced": true
   },
   {
     "higestRating": 2328,
@@ -94328,7 +94341,8 @@
     "name": "FORDAN, Tibor",
     "year": "1994-2009",
     "games": 20,
-    "id": "57795"
+    "id": "57795",
+    "synced": true
   },
   {
     "higestRating": 2328,
