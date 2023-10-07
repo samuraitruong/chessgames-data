@@ -3252,7 +3252,8 @@
     "name": "IVANOV, Igor",
     "year": "1967-2005",
     "games": 1029,
-    "id": "72129"
+    "id": "72129",
+    "synced": true
   },
   {
     "higestRating": 2647,
@@ -4463,7 +4464,8 @@
     "name": "MARIN, Mihail",
     "year": "1985-2021",
     "games": 828,
-    "id": "14249"
+    "id": "14249",
+    "synced": true
   },
   {
     "higestRating": 2621,
@@ -9505,7 +9507,8 @@
     "name": "VAN MIL, Johan",
     "year": "1973-2003",
     "games": 431,
-    "id": "18125"
+    "id": "18125",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -29066,7 +29069,8 @@
     "name": "KOSHY, Varugeese",
     "year": "1981-2009",
     "games": 123,
-    "id": "14573"
+    "id": "14573",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -40426,7 +40430,8 @@
     "name": "BADEV, Kiril",
     "year": "1990-2019",
     "games": 82,
-    "id": "48967"
+    "id": "48967",
+    "synced": true
   },
   {
     "higestRating": 2439,
@@ -65575,7 +65580,8 @@
     "name": "LYE, Lik Zang",
     "year": "2017-2022",
     "games": 41,
-    "id": "159773"
+    "id": "159773",
+    "synced": true
   },
   {
     "higestRating": 2386,

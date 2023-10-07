@@ -1,0 +1,14 @@
+[Event "New York Open"]
+[Site "New York, NY USA"]
+[Date "1991.03.??"]
+[EventDate "1991.03.00"]
+[Round "1"]
+[Result "1-0"]
+[White "Igor Vasilievich Ivanov"]
+[Black "Michael Cavallo"]
+[ECO "E40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 Bxc3+ 5.bxc3 O-O 6.Bd3 d6 7.Ne2 e5 8.e4 Re8 9.f3 c5 10.d5 Nbd7 11.g4 Rf8 12.h4 Ne8 13.Ng3 Qa5 14.Bd2 a6 15.a4 Nb6 16.Qb3 Rb8 17.Ke2 Bd7 18.Rhb1 Nxa4 19.Nf5 g6 20.Ne7+ Kg7 21.Nc6 Bxc6 22.dxc6 b5 23.Rxa4 bxc4 24.Qxc4 1-0

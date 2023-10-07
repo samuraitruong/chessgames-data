@@ -1,0 +1,14 @@
+[Event "Sitges Open"]
+[Site "Sitges"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Mihail Marin"]
+[Black "Thomas Schubert"]
+[ECO "A09"]
+[WhiteElo "2545"]
+[BlackElo "2090"]
+[PlyCount "41"]
+
+1.Nf3 d5 2.c4 d4 3.g3 Nc6 4.Bg2 e5 5.O-O Bc5 6.b4 Bxb4 7.Nxe5 Nxe5 8.Qa4+ Nc6 9.Bxc6+ bxc6 10.Qxb4 Bh3 11.Re1 Nh6 12.d3 Ng4 13.Nd2 f5 14.Nf3 h6 15.Ba3 Qd7 16.Qc5 Rd8 17.Nxd4 Nxf2 18.Nxc6 Ng4 19.Nxd8 Qxd8 20.Rab1 Qa8 21.Qe7# 1-0

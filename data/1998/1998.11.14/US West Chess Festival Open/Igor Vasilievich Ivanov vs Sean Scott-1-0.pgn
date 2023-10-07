@@ -1,0 +1,14 @@
+[Event "US West Chess Festival Open"]
+[Site "Denver, CO USA"]
+[Date "1998.11.14"]
+[EventDate "1998.11.14"]
+[Round "1"]
+[Result "1-0"]
+[White "Igor Vasilievich Ivanov"]
+[Black "Sean Scott"]
+[ECO "A15"]
+[WhiteElo "2395"]
+[BlackElo "2019"]
+[PlyCount "43"]
+
+1.Nf3 d5 2.c4 Nf6 3.cxd5 Nxd5 4.d4 g6 5.e4 Nf6 6.Nc3 Bg7 7.h3 O-O 8.Bc4 c6 9.O-O b5 10.Bd3 a5 11.Qe2 Na6 12.e5 Nd5 13.Nxd5 Qxd5 14.a4 b4 15.Bg5 Qd7 16.Rab1 h6 17.Qe4 hxg5 18.Nxg5 Bh6 19.e6 Qd5 20.exf7+ Rxf7 21.Qxg6+ Bg7 22.Nxf7 1-0

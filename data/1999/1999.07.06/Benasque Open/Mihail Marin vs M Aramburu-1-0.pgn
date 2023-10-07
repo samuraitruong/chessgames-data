@@ -1,0 +1,14 @@
+[Event "Benasque Open"]
+[Site "Benasque ESP"]
+[Date "1999.07.06"]
+[EventDate "1999.07.06"]
+[Round "1"]
+[Result "1-0"]
+[White "Mihail Marin"]
+[Black "M Aramburu"]
+[ECO "B14"]
+[WhiteElo "2527"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.c4 c6 2.e4 d5 3.exd5 cxd5 4.d4 Nf6 5.Nc3 Nc6 6.Nf3 Bg4 7.cxd5 Nxd5 8.Qb3 Bxf3 9.gxf3 Nb6 10.d5 Nd4 11.Bb5+ Nxb5 12.Nxb5 g6 13.Bf4 Rc8 14.Nxa7 Bg7 15.Qb5+ Nd7 16.Nxc8 Qxc8 17.Rc1 Qa8 18.Rc7 Qd8 19.O-O 1-0
