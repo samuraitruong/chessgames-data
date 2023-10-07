@@ -2412,7 +2412,8 @@
     "name": "STOHL, Igor",
     "year": "1981-2020",
     "games": 1200,
-    "id": "11703"
+    "id": "11703",
+    "synced": true
   },
   {
     "higestRating": 2633,
@@ -17484,7 +17485,8 @@
     "name": "SCHITCO, Ivan",
     "year": "2015-2023",
     "games": 228,
-    "id": "154101"
+    "id": "154101",
+    "synced": true
   },
   {
     "higestRating": 2545,
@@ -21834,7 +21836,8 @@
     "name": "NGUYEN, Thi Thanh An",
     "year": "1998-2019",
     "games": 179,
-    "id": "54973"
+    "id": "54973",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -21937,7 +21940,8 @@
     "name": "KHAMRAKULOV, Dzhurabek",
     "year": "2005-2022",
     "games": 178,
-    "id": "95972"
+    "id": "95972",
+    "synced": true
   },
   {
     "higestRating": 2559,
@@ -38193,7 +38197,8 @@
     "name": "DZEVLAN, Miralem",
     "year": "1986-2005",
     "games": 88,
-    "id": "15150"
+    "id": "15150",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -44675,7 +44680,8 @@
     "name": "EDELMAN, Daniel",
     "year": "1982-2015",
     "games": 72,
-    "id": "18829"
+    "id": "18829",
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -52864,7 +52870,8 @@
     "name": "SASATA, Robert",
     "year": "1986-2006",
     "games": 57,
-    "id": "88502"
+    "id": "88502",
+    "synced": true
   },
   {
     "higestRating": 2333,
@@ -62345,7 +62352,8 @@
     "name": "DIRR, Ulrich",
     "year": "1988-2018",
     "games": 44,
-    "id": "60850"
+    "id": "60850",
+    "synced": true
   },
   {
     "higestRating": 2302,
@@ -67727,7 +67735,8 @@
     "name": "MLADEK, Richard",
     "year": "2016-2023",
     "games": 39,
-    "id": "156836"
+    "id": "156836",
+    "synced": true
   },
   {
     "higestRating": 2325,
@@ -82618,7 +82627,8 @@
     "name": "MINGACHEV, Mansur",
     "year": "2001-2006",
     "games": 27,
-    "id": "95983"
+    "id": "95983",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -94109,7 +94119,8 @@
     "name": "BALTIC, Fatih",
     "year": "2017-2021",
     "games": 21,
-    "id": "158220"
+    "id": "158220",
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -97843,7 +97854,8 @@
     "name": "JABLONICKY, Frantisek",
     "year": "1974-2012",
     "games": 19,
-    "id": "93930"
+    "id": "93930",
+    "synced": true
   },
   {
     "higestRating": 2459,
