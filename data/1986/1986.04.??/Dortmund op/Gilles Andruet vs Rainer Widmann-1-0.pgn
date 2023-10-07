@@ -1,0 +1,14 @@
+[Event "Dortmund op"]
+[Site "Dortmund FRG"]
+[Date "1986.04.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Gilles Andruet"]
+[Black "Rainer Widmann"]
+[ECO "A57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nf3 g6 5.cxb5 a6 6.e3 Bg7 7.Nc3 O-O 8.a4 Bb7 9.Ra3 e6 10.dxe6 fxe6 11.Qd6 axb5 12.Bxb5 Na6 13.O-O Rc8 14.e4 Nb4 15.e5 Bxf3 16.exf6 Qxf6 17.gxf3 Nc2 18.Ne4 Qh4 19.Bg5 Qh5 20.Bxd7 Nxa3 21.Bxe6+ Kh8 22.Bg4 1-0
