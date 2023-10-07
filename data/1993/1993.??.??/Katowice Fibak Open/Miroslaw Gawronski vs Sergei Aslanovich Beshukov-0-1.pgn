@@ -1,0 +1,14 @@
+[Event "Katowice Fibak Open"]
+[Site "Katowice POL"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Miroslaw Gawronski"]
+[Black "Sergei Aslanovich Beshukov"]
+[ECO "D93"]
+[WhiteElo "2275"]
+[BlackElo "2435"]
+[PlyCount "38"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bf4 O-O 6.e3 c5 7.dxc5 Qa5 8.Qb3 Na6 9.Rd1 Ne4 10.cxd5 Nxc3 11.bxc3 Bxc3+ 12.Nd2 Nxc5 13.Qc4 Bf5 14.d6 Ne4 15.dxe7 Bxd2+ 16.Ke2 Rfc8 17.Qd4 Qb5+ 18.Kf3 Bg4+ 19.Kxg4 Qh5# 0-1

@@ -3458,7 +3458,8 @@
     "name": "BESHUKOV, Sergei",
     "year": "1989-2018",
     "games": 994,
-    "id": "24442"
+    "id": "24442",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -5641,7 +5642,8 @@
     "name": "MAGHSOODLOO, Parham",
     "year": "2014-2023",
     "games": 701,
-    "id": "151393"
+    "id": "151393",
+    "synced": true
   },
   {
     "higestRating": 2555,
@@ -23318,7 +23320,8 @@
     "name": "SAFRANSKA, Anda",
     "year": "1987-2020",
     "games": 165,
-    "id": "14045"
+    "id": "14045",
+    "synced": true
   },
   {
     "higestRating": 2356,
@@ -24197,7 +24200,8 @@
     "name": "JELEN, Igor",
     "year": "1990-2016",
     "games": 158,
-    "id": "43787"
+    "id": "43787",
+    "synced": true
   },
   {
     "higestRating": 2421,
@@ -62085,7 +62089,8 @@
     "name": "GAZAREK, Danko",
     "year": "1979-2001",
     "games": 44,
-    "id": "26263"
+    "id": "26263",
+    "synced": true
   },
   {
     "higestRating": 2348,
@@ -71743,7 +71748,8 @@
     "name": "BUENO, Alfeu Junior Varela",
     "year": "2004-2023",
     "games": 35,
-    "id": "127098"
+    "id": "127098",
+    "synced": true
   },
   {
     "higestRating": 2243,
@@ -94374,7 +94380,8 @@
     "name": "LUETKE, Jens",
     "year": "1989-2010",
     "games": 20,
-    "id": "26294"
+    "id": "26294",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -105977,7 +105984,8 @@
     "name": "TAKAC, Zvonko",
     "year": "1993-2012",
     "games": 16,
-    "id": "115620"
+    "id": "115620",
+    "synced": true
   },
   {
     "higestRating": 2448,
@@ -114582,7 +114590,8 @@
     "name": "GIRALT, Daniel Leiro",
     "year": "1993-1995",
     "games": 3,
-    "id": "35126"
+    "id": "35126",
+    "synced": true
   },
   {
     "higestRating": 2245,
