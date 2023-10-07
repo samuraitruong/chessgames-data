@@ -1,0 +1,15 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.10.30"]
+[EventDate "1982.10.30"]
+[Round "1"]
+[Result "1-0"]
+[White "Amador Rodriguez Cespedes"]
+[Black "Marcos Yepez Jaramillo"]
+[ECO "B92"]
+[WhiteElo "2480"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "39"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be6 8.f4 Qc7 9.g4 exf4 10.g5 Nfd7 11.Bxf4 Nc6 12.Qd2 Be7 13.O-O-O Nce5 14.Nd4 g6 15.h4 O-O-O 16.Kb1 Kb8 17.Nd5 Bxd5 18.exd5 Rc8 19.b3 Qc3 20.Nc6+ 1-0

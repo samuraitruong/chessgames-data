@@ -1891,7 +1891,8 @@
     "name": "CESPEDES, Amador Rodriguez",
     "year": "1974-2014",
     "games": 1338,
-    "id": "47080"
+    "id": "47080",
+    "synced": true
   },
   {
     "higestRating": 2639,
@@ -5922,7 +5923,8 @@
     "name": "HARUTYUNIAN, Tigran K",
     "year": "2006-2023",
     "games": 676,
-    "id": "113369"
+    "id": "113369",
+    "synced": true
   },
   {
     "higestRating": 2612,
@@ -7283,7 +7285,8 @@
     "name": "MAMEDJAROVA, Turkan",
     "year": "2001-2023",
     "games": 553,
-    "id": "50137"
+    "id": "50137",
+    "synced": true
   },
   {
     "higestRating": 2549,
@@ -23052,7 +23055,8 @@
     "name": "STREMAVICIUS, Titas",
     "year": "2007-2023",
     "games": 167,
-    "id": "134815"
+    "id": "134815",
+    "synced": true
   },
   {
     "higestRating": 2391,
@@ -51997,7 +52001,8 @@
     "name": "DOTHAN, Yoav",
     "year": "1999-2011",
     "games": 58,
-    "id": "90153"
+    "id": "90153",
+    "synced": true
   },
   {
     "higestRating": 2399,
@@ -55841,7 +55846,8 @@
     "name": "WYSS, Jonas",
     "year": "2005-2022",
     "games": 52,
-    "id": "96443"
+    "id": "96443",
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -83545,7 +83551,8 @@
     "name": "FUELLGRABE, Thomas",
     "year": "1994-2015",
     "games": 26,
-    "id": "69590"
+    "id": "69590",
+    "synced": true
   },
   {
     "higestRating": 2425,
@@ -85698,7 +85705,8 @@
     "name": "RUBSAMEN, Cornelius",
     "year": "1995-2012",
     "games": 25,
-    "id": "98633"
+    "id": "98633",
+    "synced": true
   },
   {
     "higestRating": 2347,
@@ -92417,7 +92425,8 @@
     "name": "THEON, Pierre",
     "year": "1986-2021",
     "games": 21,
-    "id": "65084"
+    "id": "65084",
+    "synced": true
   },
   {
     "higestRating": 2361,
@@ -95634,7 +95643,8 @@
     "name": "GOMEZ, Juan Carlos Blazquez",
     "year": "1990-2004",
     "games": 20,
-    "id": "133261"
+    "id": "133261",
+    "synced": true
   },
   {
     "higestRating": 2251,
@@ -96540,7 +96550,8 @@
     "name": "SIDOROVA, Elena",
     "year": "1997-2002",
     "games": 19,
-    "id": "50302"
+    "id": "50302",
+    "synced": true
   },
   {
     "higestRating": 2392,
@@ -97151,7 +97162,8 @@
     "name": "RAMOS, Ricardo Dos",
     "year": "1984-2006",
     "games": 19,
-    "id": "89146"
+    "id": "89146",
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -105302,7 +105314,8 @@
     "name": "RYMSKYY, Aleksander",
     "year": "2007",
     "games": 16,
-    "id": "110957"
+    "id": "110957",
+    "synced": true
   },
   {
     "higestRating": 2284,
