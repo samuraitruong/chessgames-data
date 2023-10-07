@@ -2121,7 +2121,8 @@
     "name": "HRACEK, Zbynek",
     "year": "1985-2022",
     "games": 1273,
-    "id": "14000"
+    "id": "14000",
+    "synced": true
   },
   {
     "higestRating": 2633,
@@ -4652,7 +4653,8 @@
     "name": "KOVALENKO, Igor",
     "year": "2007-2023",
     "games": 799,
-    "id": "124564"
+    "id": "124564",
+    "synced": true
   },
   {
     "higestRating": 2560,
@@ -73129,7 +73131,8 @@
     "name": "ISIK, Alparslan",
     "year": "2019-2023",
     "games": 34,
-    "id": "161850"
+    "id": "161850",
+    "synced": true
   },
   {
     "higestRating": 2575,
@@ -79375,7 +79378,8 @@
     "name": "KRIZ, Miroslav",
     "year": "1972-1994",
     "games": 29,
-    "id": "91959"
+    "id": "91959",
+    "synced": true
   },
   {
     "higestRating": 2259,
@@ -82376,7 +82380,8 @@
     "name": "SOMOFF, Abdo",
     "year": "2000-2012",
     "games": 27,
-    "id": "88704"
+    "id": "88704",
+    "synced": true
   },
   {
     "higestRating": 2397,
@@ -85282,7 +85287,8 @@
     "name": "ULAK, Slawomir",
     "year": "1988-2001",
     "games": 25,
-    "id": "51862"
+    "id": "51862",
+    "synced": true
   },
   {
     "higestRating": 2304,
@@ -114631,7 +114637,8 @@
     "name": "WOOD, Christopher Baruch",
     "year": "1959-1965",
     "games": 3,
-    "id": "121416"
+    "id": "121416",
+    "synced": true
   },
   {
     "higestRating": 2250,
