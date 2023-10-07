@@ -3824,7 +3824,8 @@
     "name": "RODSHTEIN, Maxim",
     "year": "1999-2023",
     "games": 929,
-    "id": "54702"
+    "id": "54702",
+    "synced": true
   },
   {
     "higestRating": 2550,
@@ -3854,7 +3855,8 @@
     "name": "NEVEDNICHY, Vladislav",
     "year": "1985-2023",
     "games": 920,
-    "id": "17475"
+    "id": "17475",
+    "synced": true
   },
   {
     "higestRating": 2560,
@@ -31034,7 +31036,8 @@
     "name": "ZILBERMAN, Nathan R",
     "year": "1963-2004",
     "games": 113,
-    "id": "17607"
+    "id": "17607",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -35635,7 +35638,8 @@
     "name": "LYSENKO, Margarita",
     "year": "2018-2021",
     "games": 97,
-    "id": "160716"
+    "id": "160716",
+    "synced": true
   },
   {
     "higestRating": 2261,
@@ -39104,7 +39108,8 @@
     "name": "ANDERTON, David",
     "year": "1967-2018",
     "games": 85,
-    "id": "48371"
+    "id": "48371",
+    "synced": true
   },
   {
     "higestRating": 2312,
@@ -46196,7 +46201,8 @@
     "name": "HEITMANN, Manfred",
     "year": "1980-2000",
     "games": 69,
-    "id": "90518"
+    "id": "90518",
+    "synced": true
   },
   {
     "higestRating": 2257,
@@ -51658,7 +51664,8 @@
     "name": "CARDOSO, Alexey Fernandez",
     "year": "2000-2019",
     "games": 59,
-    "id": "131624"
+    "id": "131624",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -65196,7 +65203,8 @@
     "name": "SKOVGAARD, Peter",
     "year": "2003-2012",
     "games": 41,
-    "id": "122597"
+    "id": "122597",
+    "synced": true
   },
   {
     "higestRating": 2229,
@@ -65757,7 +65765,8 @@
     "name": "PROENZA, Ricardo Leyva",
     "year": "1993-2001",
     "games": 40,
-    "id": "49094"
+    "id": "49094",
+    "synced": true
   },
   {
     "higestRating": 2238,
@@ -67088,7 +67097,8 @@
     "name": "MIJOVIC, Stefan",
     "year": "2005-2014",
     "games": 39,
-    "id": "115576"
+    "id": "115576",
+    "synced": true
   },
   {
     "higestRating": 2435,
@@ -70355,7 +70365,8 @@
     "name": "KHODASHENAS, Mersad",
     "year": "2015-2019",
     "games": 36,
-    "id": "153893"
+    "id": "153893",
+    "synced": true
   },
   {
     "higestRating": 2428,
@@ -74594,7 +74605,8 @@
     "name": "UTKIN, Aleksey",
     "year": "2001-2010",
     "games": 32,
-    "id": "81630"
+    "id": "81630",
+    "synced": true
   },
   {
     "higestRating": 2243,
@@ -90667,7 +90679,8 @@
     "name": "DOURNES, Robert",
     "year": "1996",
     "games": 22,
-    "id": "93710"
+    "id": "93710",
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -108493,7 +108506,8 @@
     "name": "YAYLOYAN, Konstantin",
     "year": "2012-2017",
     "games": 15,
-    "id": "139478"
+    "id": "139478",
+    "synced": true
   },
   {
     "higestRating": 2397,
