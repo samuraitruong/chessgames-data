@@ -1847,7 +1847,8 @@
     "name": "HABA, Petr",
     "year": "1981-2021",
     "games": 1365,
-    "id": "19619"
+    "id": "19619",
+    "synced": true
   },
   {
     "higestRating": 2645,
@@ -7466,7 +7467,8 @@
     "name": "SPIRIDONOV, Nikola",
     "year": "1961-2012",
     "games": 539,
-    "id": "71469"
+    "id": "71469",
+    "synced": true
   },
   {
     "higestRating": 2603,
@@ -16124,7 +16126,8 @@
     "name": "CARLIER, Bruno",
     "year": "1973-2017",
     "games": 249,
-    "id": "19749"
+    "id": "19749",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -32915,7 +32918,8 @@
     "name": "ZEIDLER, Sven P",
     "year": "1987-2019",
     "games": 106,
-    "id": "42359"
+    "id": "42359",
+    "synced": true
   },
   {
     "higestRating": 2402,
@@ -56164,7 +56168,8 @@
     "name": "HARESTAD, Thor Geir",
     "year": "1972-2017",
     "games": 51,
-    "id": "46477"
+    "id": "46477",
+    "synced": true
   },
   {
     "higestRating": 2240,
@@ -77597,7 +77602,8 @@
     "name": "BECK, Hartmuth",
     "year": "1989-2002",
     "games": 30,
-    "id": "94670"
+    "id": "94670",
+    "synced": true
   },
   {
     "higestRating": 2252,
@@ -79082,7 +79088,8 @@
     "name": "VUJADINOVIC, Milan",
     "year": "1998-2010",
     "games": 29,
-    "id": "90310"
+    "id": "90310",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -90383,7 +90390,8 @@
     "name": "DOORNBOS, Yann",
     "year": "1993-2004",
     "games": 22,
-    "id": "58425"
+    "id": "58425",
+    "synced": true
   },
   {
     "higestRating": 2301,
