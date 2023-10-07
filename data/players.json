@@ -163,7 +163,8 @@
     "name": "DREEV, Aleksey",
     "year": "1982-2023",
     "games": 3022,
-    "id": "12136"
+    "id": "12136",
+    "synced": true
   },
   {
     "higestRating": 2712,
@@ -25880,7 +25881,8 @@
     "name": "PIETERSE, Gert",
     "year": "1980-1996",
     "games": 145,
-    "id": "25634"
+    "id": "25634",
+    "synced": true
   },
   {
     "higestRating": 2402,
@@ -64489,7 +64491,8 @@
     "name": "BEBCHUK, Evgeni",
     "year": "1959-2003",
     "games": 41,
-    "id": "21287"
+    "id": "21287",
+    "synced": true
   },
   {
     "higestRating": 2296,
@@ -94167,7 +94170,8 @@
     "name": "BINTAFRIT, Sameer",
     "year": "1994-2023",
     "games": 20,
-    "id": "52113"
+    "id": "52113",
+    "synced": true
   },
   {
     "higestRating": 2378,
