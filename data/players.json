@@ -10326,7 +10326,8 @@
     "name": "ALTERMAN, Boris",
     "year": "1983-2012",
     "games": 397,
-    "id": "17034"
+    "id": "17034",
+    "synced": true
   },
   {
     "higestRating": 2533,
@@ -12265,7 +12266,8 @@
     "name": "HAKOBYAN, Aram",
     "year": "2013-2023",
     "games": 334,
-    "id": "149264"
+    "id": "149264",
+    "synced": true
   },
   {
     "higestRating": 2512,
@@ -17398,7 +17400,8 @@
     "name": "MARCIANO, David",
     "year": "1988-2016",
     "games": 227,
-    "id": "20909"
+    "id": "20909",
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -19748,7 +19751,8 @@
     "name": "ZAMORA, Juan Carlos Gonzalez",
     "year": "1989-2022",
     "games": 200,
-    "id": "92332"
+    "id": "92332",
+    "synced": true
   },
   {
     "higestRating": 2450,
@@ -20097,7 +20101,8 @@
     "name": "VAN DER STRICHT, Geert",
     "year": "1990-2023",
     "games": 196,
-    "id": "51192"
+    "id": "51192",
+    "synced": true
   },
   {
     "higestRating": 2447,
@@ -28722,7 +28727,8 @@
     "name": "WENJIN, Wu",
     "year": "1996-2019",
     "games": 125,
-    "id": "47218"
+    "id": "47218",
+    "synced": true
   },
   {
     "higestRating": 2343,
@@ -31855,7 +31861,8 @@
     "name": "FISCHDICK, Gisela",
     "year": "1979-2003",
     "games": 110,
-    "id": "18213"
+    "id": "18213",
+    "synced": true
   },
   {
     "higestRating": 2247,
@@ -44228,7 +44235,8 @@
     "name": "SAROSI, Zoltan",
     "year": "1984-2011",
     "games": 73,
-    "id": "107313"
+    "id": "107313",
+    "synced": true
   },
   {
     "higestRating": 2456,
@@ -48453,7 +48461,8 @@
     "name": "DE GLERIA, Francesco",
     "year": "1996-2019",
     "games": 64,
-    "id": "11925"
+    "id": "11925",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -48970,7 +48979,8 @@
     "name": "SARTORI, Spartaco",
     "year": "1973-2002",
     "games": 64,
-    "id": "166551"
+    "id": "166551",
+    "synced": true
   },
   {
     "higestRating": 2595,
@@ -54188,7 +54198,8 @@
     "name": "ROHITH, Krishna S",
     "year": "2017-2022",
     "games": 55,
-    "id": "161152"
+    "id": "161152",
+    "synced": true
   },
   {
     "higestRating": 2438,
@@ -63161,7 +63172,8 @@
     "name": "TVARIJONAS, Povilas",
     "year": "2001-2012",
     "games": 43,
-    "id": "95996"
+    "id": "95996",
+    "synced": true
   },
   {
     "higestRating": 2260,
@@ -65089,7 +65101,8 @@
     "name": "IBERN, Marc Sanchez",
     "year": "2008-2014",
     "games": 41,
-    "id": "117727"
+    "id": "117727",
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -66762,7 +66775,8 @@
     "name": "SMALL, Simon W",
     "year": "1981-1992",
     "games": 39,
-    "id": "60248"
+    "id": "60248",
+    "synced": true
   },
   {
     "higestRating": 2383,
@@ -70659,7 +70673,8 @@
     "name": "KASTELIC, Marian",
     "year": "1997-2022",
     "games": 35,
-    "id": "49898"
+    "id": "49898",
+    "synced": true
   },
   {
     "higestRating": 2211,
@@ -78022,7 +78037,8 @@
     "name": "KUSHAGRA, Mohan",
     "year": "2016-2022",
     "games": 30,
-    "id": "156129"
+    "id": "156129",
+    "synced": true
   },
   {
     "higestRating": 2411,
@@ -78567,7 +78583,8 @@
     "name": "VELASCO, Santiago",
     "year": "1999-2008",
     "games": 29,
-    "id": "53131"
+    "id": "53131",
+    "synced": true
   },
   {
     "higestRating": 2258,
@@ -85570,7 +85587,8 @@
     "name": "MAYORGA, Nicolas",
     "year": "2003-2011",
     "games": 25,
-    "id": "96635"
+    "id": "96635",
+    "synced": true
   },
   {
     "higestRating": 2345,
@@ -89598,7 +89616,8 @@
     "name": "BUGALSKI, Michal",
     "year": "2004-2018",
     "games": 23,
-    "id": "160146"
+    "id": "160146",
+    "synced": true
   },
   {
     "higestRating": 2321,
@@ -104449,7 +104468,8 @@
     "name": "HEISMAN, Dan",
     "year": "1966-1989",
     "games": 16,
-    "id": "85240"
+    "id": "85240",
+    "synced": true
   },
   {
     "higestRating": 2206,
@@ -112575,7 +112595,8 @@
     "name": "OLBRICH, Joachim",
     "year": "1988-1996",
     "games": 6,
-    "id": "41354"
+    "id": "41354",
+    "synced": true
   },
   {
     "higestRating": 2205,
@@ -112636,7 +112657,8 @@
     "name": "SMALLBONE, Kieran",
     "year": "1997-2013",
     "games": 6,
-    "id": "57492"
+    "id": "57492",
+    "synced": true
   },
   {
     "higestRating": 2279,
