@@ -807,7 +807,8 @@
     "name": "VEPKHVISHVILI, Varlam",
     "year": "1963-2017",
     "games": 1864,
-    "id": "43016"
+    "id": "43016",
+    "synced": true
   },
   {
     "higestRating": 2571,
@@ -3505,7 +3506,8 @@
     "name": "OLAFSSON, Helgi",
     "year": "1975-2018",
     "games": 983,
-    "id": "14076"
+    "id": "14076",
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -12957,7 +12959,8 @@
     "name": "BRICARD, Emmanuel",
     "year": "1986-2014",
     "games": 312,
-    "id": "10970"
+    "id": "10970",
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -14571,7 +14574,8 @@
     "name": "RAMBALDI, Francesco",
     "year": "2007-2019",
     "games": 277,
-    "id": "139773"
+    "id": "139773",
+    "synced": true
   },
   {
     "higestRating": 2300,
@@ -32276,7 +32280,8 @@
     "name": "JORCZIK, Julian",
     "year": "2004-2015",
     "games": 109,
-    "id": "110018"
+    "id": "110018",
+    "synced": true
   },
   {
     "higestRating": 2496,
@@ -55199,7 +55204,8 @@
     "name": "LABECKAS, Kestutis",
     "year": "1997-2013",
     "games": 53,
-    "id": "102280"
+    "id": "102280",
+    "synced": true
   },
   {
     "higestRating": 2305,
@@ -59779,7 +59785,8 @@
     "name": "JAISWAL, Rupesh",
     "year": "2012-2023",
     "games": 47,
-    "id": "140180"
+    "id": "140180",
+    "synced": true
   },
   {
     "higestRating": 2304,
@@ -61456,7 +61463,8 @@
     "name": "BRONSTEIN, Or",
     "year": "2015-2023",
     "games": 45,
-    "id": "152535"
+    "id": "152535",
+    "synced": true
   },
   {
     "higestRating": 2308,
@@ -63412,7 +63420,8 @@
     "name": "SEMJONOVS, Ilja",
     "year": "2017-2021",
     "games": 43,
-    "id": "158364"
+    "id": "158364",
+    "synced": true
   },
   {
     "higestRating": 2344,
@@ -77460,7 +77469,8 @@
     "name": "GILIMSHIN, Azamat",
     "year": "2002-2003",
     "games": 30,
-    "id": "97808"
+    "id": "97808",
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -78993,7 +79003,8 @@
     "name": "NOETZEL, Frank",
     "year": "1985-2005",
     "games": 29,
-    "id": "96317"
+    "id": "96317",
+    "synced": true
   },
   {
     "higestRating": 2294,
@@ -82135,7 +82146,8 @@
     "name": "BROBERG, Horst",
     "year": "1974-2007",
     "games": 27,
-    "id": "105459"
+    "id": "105459",
+    "synced": true
   },
   {
     "higestRating": 2383,
@@ -105022,7 +105034,8 @@
     "name": "TASHKOV, Rumen",
     "year": "2000-2011",
     "games": 16,
-    "id": "108387"
+    "id": "108387",
+    "synced": true
   },
   {
     "higestRating": 2273,
@@ -111771,7 +111784,8 @@
     "name": "FUNK, Paul",
     "year": "1978-2007",
     "games": 8,
-    "id": "107204"
+    "id": "107204",
+    "synced": true
   },
   {
     "higestRating": 2212,
@@ -114883,7 +114897,8 @@
     "name": "MURATKULIEV, Shohrat",
     "year": "1973",
     "games": 1,
-    "id": "85724"
+    "id": "85724",
+    "synced": true
   },
   {
     "higestRating": 2266,

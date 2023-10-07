@@ -1,0 +1,14 @@
+[Event "Qual Tournament"]
+[Site "?"]
+[Date "1970.04.14"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "G Bogveradze"]
+[Black "Varlam Vepkhvishvili"]
+[ECO "C85"]
+[WhiteElo "?"]
+[BlackElo "2359"]
+[PlyCount "64"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6 7.d3 Nd7 8.Nbd2 f6 9.Nc4 O-O 10.Nh4 g6 11.Bh6 Rf7 12.d4 exd4 13.Qxd4 Bc5 14.Qd2 Qe7 15.Rfe1 b5 16.Na5 Ne5 17.c3 Bd7 18.Be3 Bd6 19.Bd4 c5 20.Bxe5 fxe5 21.Qd5 Raf8 22.Nf3 Be6 23.Qd2 Bg4 24.Re3 Bxf3 25.Rxf3 Rxf3 26.gxf3 Rxf3 27.Nb7 Qh4 28.Nxd6 cxd6 29.Rf1 Qg4+ 30.Kh1 Qxe4 31.Qxd6 Rxf2+ 32.Kg1 Qg2# 0-1
