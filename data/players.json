@@ -2515,7 +2515,8 @@
     "name": "PRIDOROZHNI, Aleksei",
     "year": "1996-2022",
     "games": 1176,
-    "id": "49035"
+    "id": "49035",
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -2850,7 +2851,8 @@
     "name": "GORYACHKINA, Aleksandra",
     "year": "2009-2023",
     "games": 1111,
-    "id": "121617"
+    "id": "121617",
+    "synced": true
   },
   {
     "higestRating": 2445,
@@ -33818,7 +33820,8 @@
     "name": "CHIGHLADZE, Iveri",
     "year": "1997-2017",
     "games": 104,
-    "id": "126961"
+    "id": "126961",
+    "synced": true
   },
   {
     "higestRating": 2380,
@@ -51002,7 +51005,8 @@
     "name": "REMON, Adelquis",
     "year": "1976-1992",
     "games": 60,
-    "id": "44102"
+    "id": "44102",
+    "synced": true
   },
   {
     "higestRating": 2346,
@@ -64743,7 +64747,8 @@
     "name": "BENOIT, Rodrigo",
     "year": "2017-2018",
     "games": 42,
-    "id": "158429"
+    "id": "158429",
+    "synced": true
   },
   {
     "higestRating": 2223,
@@ -73775,7 +73780,8 @@
     "name": "STECKNER, Johannes",
     "year": "1988-2004",
     "games": 33,
-    "id": "66501"
+    "id": "66501",
+    "synced": true
   },
   {
     "higestRating": 2335,
@@ -88013,7 +88019,8 @@
     "name": "MORIN, Yves",
     "year": "1987-2009",
     "games": 24,
-    "id": "110921"
+    "id": "110921",
+    "synced": true
   },
   {
     "higestRating": 2273,
@@ -95551,7 +95558,8 @@
     "name": "CAMPERO, Ronald",
     "year": "1990-2009",
     "games": 20,
-    "id": "98968"
+    "id": "98968",
+    "synced": true
   },
   {
     "higestRating": 2390,
@@ -96126,7 +96134,8 @@
     "name": "RITTIPHUNYAWONG, Anothai",
     "year": "1982-1988",
     "games": 20,
-    "id": "131899"
+    "id": "131899",
+    "synced": true
   },
   {
     "higestRating": 2274,
@@ -101192,7 +101201,8 @@
     "name": "CHMIEL, Marcin",
     "year": "2016-2021",
     "games": 18,
-    "id": "168904"
+    "id": "168904",
+    "synced": true
   },
   {
     "higestRating": 2383,
@@ -101615,7 +101625,8 @@
     "name": "SCHLEHOEFER, Ralf",
     "year": "1977-2000",
     "games": 17,
-    "id": "33750"
+    "id": "33750",
+    "synced": true
   },
   {
     "higestRating": 2269,
