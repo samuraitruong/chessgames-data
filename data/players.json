@@ -3092,7 +3092,8 @@
     "name": "DOLMATOV, Sergey",
     "year": "1974-2009",
     "games": 1060,
-    "id": "14018"
+    "id": "14018",
+    "synced": true
   },
   {
     "higestRating": 2585,
@@ -37747,7 +37748,8 @@
     "name": "ADNANI, Mokliss El",
     "year": "1994-2021",
     "games": 90,
-    "id": "61215"
+    "id": "61215",
+    "synced": true
   },
   {
     "higestRating": 2409,
@@ -82402,7 +82404,8 @@
     "name": "STEINER, Bruno",
     "year": "1990-2015",
     "games": 27,
-    "id": "60483"
+    "id": "60483",
+    "synced": true
   },
   {
     "higestRating": 2257,
@@ -88657,7 +88660,8 @@
     "name": "MESTRES, Luis Gonzales",
     "year": "1965-2001",
     "games": 23,
-    "id": "30050"
+    "id": "30050",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -110328,7 +110332,8 @@
     "name": "RODIONOVA, Daria",
     "year": "2010-2017",
     "games": 13,
-    "id": "142650"
+    "id": "142650",
+    "synced": true
   },
   {
     "higestRating": 2314,
