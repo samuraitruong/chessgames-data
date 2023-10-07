@@ -3233,7 +3233,8 @@
     "name": "RASHKOVSKY, Nukhim",
     "year": "1963-2019",
     "games": 1029,
-    "id": "15373"
+    "id": "15373",
+    "synced": true
   },
   {
     "higestRating": 2470,
@@ -5423,7 +5424,8 @@
     "name": "ERDOS, Viktor",
     "year": "1999-2023",
     "games": 718,
-    "id": "56768"
+    "id": "56768",
+    "synced": true
   },
   {
     "higestRating": 2639,
@@ -16442,7 +16444,8 @@
     "name": "VIDAL, Yuri Gonzalez",
     "year": "1998-2020",
     "games": 244,
-    "id": "49100"
+    "id": "49100",
+    "synced": true
   },
   {
     "higestRating": 2351,
@@ -31814,7 +31817,8 @@
     "name": "SCHULZE, Lara",
     "year": "2017-2023",
     "games": 111,
-    "id": "159878"
+    "id": "159878",
+    "synced": true
   },
   {
     "higestRating": 2509,
@@ -53913,7 +53917,8 @@
     "name": "DIONISI, Thomas",
     "year": "2005-2022",
     "games": 55,
-    "id": "96074"
+    "id": "96074",
+    "synced": true
   },
   {
     "higestRating": 2479,
@@ -54494,7 +54499,8 @@
     "name": "VAN DONGEN, Patrick",
     "year": "1989-2015",
     "games": 54,
-    "id": "64416"
+    "id": "64416",
+    "synced": true
   },
   {
     "higestRating": 2278,
@@ -83192,7 +83198,8 @@
     "name": "LIBOV, Gennady",
     "year": "1989-2005",
     "games": 26,
-    "id": "54474"
+    "id": "54474",
+    "synced": true
   },
   {
     "higestRating": 2297,
@@ -112842,7 +112849,8 @@
     "name": "KALININS, Valentine",
     "year": "2014",
     "games": 6,
-    "id": "149148"
+    "id": "149148",
+    "synced": true
   },
   {
     "higestRating": 2250,
