@@ -1,0 +1,14 @@
+[Event "Zonal 2.5"]
+[Site "Villa Martelli ARG"]
+[Date "2017.05.01"]
+[EventDate "2017.04.30"]
+[Round "2.11"]
+[Result "0-1"]
+[White "Rodrigo Benoit"]
+[Black "Pablo Salinas Herrera"]
+[ECO "D35"]
+[WhiteElo "2151"]
+[BlackElo "2453"]
+[PlyCount "18"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Nbd7 5. cxd5 exd5 6. Bf4 c6 7. e3 Be7 8. Bd3 Nh5 9. Bg3 g6 0-1
