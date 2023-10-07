@@ -1,0 +1,14 @@
+[Event "Chess Olympiad"]
+[Site "Batumi GEO"]
+[Date "2018.09.24"]
+[EventDate "2018.09.24"]
+[Round "1.61"]
+[Result "0-1"]
+[White "Loris Nathoo"]
+[Black "Franc Ashiku"]
+[ECO "C45"]
+[WhiteElo "1665"]
+[BlackElo "2373"]
+[PlyCount "36"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qf6 5. c3 Bc5 6. Be3 Nge7 7. b4 Bb6 8. Bc4 O-O 9. O-O Ne5 10. Bb3 Qg6 11. Nd2 d5 12. Bf4 Nd3 13. Bg3 Bxd4 14. cxd4 dxe4 15. Nxe4 Qxe4 16. Bc2 Bf5 17. Re1 Qxe1+ 18. Qxe1 Nxe1 0-1
