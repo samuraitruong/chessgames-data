@@ -1,0 +1,14 @@
+[Event "Frankfurt Ordix op"]
+[Site "Frankfurt"]
+[Date "1998.06.20"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Fritz (Computer)"]
+[Black "Stefan Djuric"]
+[ECO "B42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "145"]
+
+1.e4 e6 2.d4 c5 3.Nf3 cxd4 4.Nxd4 a6 5.Bd3 d5 6.exd5 Qxd5 7.O-O Nf6 8.Nc3 Qd8 9.Bg5 Be7 10.Nb3 Nc6 11.Qe2 h6 12.Bf4 Bd6 13.Bxd6 Qxd6 14.Rad1 Qc7 15.Rfe1 O-O 16.h3 b5 17.a3 Bb7 18.Ne4 Nd5 19.Nec5 Nf4 20.Qg4 Nxd3 21.Rxd3 Bc8 22.Rg3 f5 23.Qh5 Nd8 24.Rc3 Qf4 25.Qg6 Qg5 26.Qxg5 hxg5 27.Rg3 f4 28.Rxg5 Nf7 29.Rh5 g6 30.Rh4 e5 31.Ne4 Bf5 32.Nbc5 Kg7 33.g4 Bxe4 34.Nxe4 Rac8 35.c3 Rc4 36.f3 Rd8 37.Kf2 Rd3 38.Re2 a5 39.g5 Rxe4 40.Rxe4 Rxf3+ 41.Ke2 Rg3 42.Rg4 Rxh3 43.Kf1 Rh1+ 44.Kg2 Rd1 45.Kf2 Rb1 46.Re2 a4 47.Kf3 Rf1+ 48.Rf2 Re1 49.Rd2 Rf1+ 50.Kg2 Re1 51.Kf2 Rb1 52.Rg1 Rxg1 53.Kxg1 Nxg5 54.Rd5 Kf6 55.Rxb5 e4 56.Rb4 Kf5 57.Rxa4 Kg4 58.Ra6 Nh3+ 59.Kf1 g5 60.c4 Kf3 61.b4 g4 62.Rg6 Nf2 63.Rg5 e3 64.Ke1 Nd3+ 65.Kd1 e2+ 66.Kd2 e1=Q+ 67.Kxd3 Qe3+ 68.Kc2 g3 69.b5 g2 70.a4 g1=Q 71.Rxg1 Qxg1 72.b6 Qxb6 73.a5 0-1
