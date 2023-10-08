@@ -1,0 +1,14 @@
+[Event "FIDE World Junior Chess Championship"]
+[Site "Mexico City MEX"]
+[Date "2023.09.26"]
+[EventDate "2023.09.21"]
+[Round "6"]
+[Result "1-0"]
+[White "Michal Koziorowicz"]
+[Black "Emils Janis Mierins"]
+[ECO "B12"]
+[WhiteElo "2321"]
+[BlackElo "2149"]
+[PlyCount "44"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 h5 8. Nf4 Bh7 9. g5 Bf5 10. Nxh5 Nc6 11. Nb5 cxd4 12. Ng3 Bc5 13. Nxf5 exf5 14. Bf4 Qd7 15. Nd6+ Bxd6 16. exd6 O-O-O 17. Bg2 Re8+ 18. Kf1 Qe6 19. c3 f6 20. cxd4 fxg5 21. hxg5 Rxh1+ 22. Bxh1 1-0
