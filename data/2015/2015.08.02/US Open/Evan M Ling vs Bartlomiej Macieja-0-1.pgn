@@ -1,0 +1,14 @@
+[Event "US Open"]
+[Site "Phoenix, AZ USA"]
+[Date "2015.08.02"]
+[EventDate "2015.08.01"]
+[Round "2"]
+[Result "0-1"]
+[White "Evan M Ling"]
+[Black "Bartlomiej Macieja"]
+[ECO "B40"]
+[WhiteElo "1761"]
+[BlackElo "2574"]
+[PlyCount "40"]
+
+1. e4 c5 2. Nf3 e6 3. g3 b6 4. d4 cxd4 5. Nxd4 Bb7 6. Bg2 Nf6 7. Nc3 d6 8. O-O Nbd7 9. Re1 Qc7 10. Ncb5 Qb8 11. Nf5 exf5 12. exf5+ Ne5 13. Bxb7 Qxb7 14. Nxd6+ Bxd6 15. Qxd6 Nd7 16. f4 O-O-O 17. Rxe5 Nxe5 18. Qxe5 Rd1+ 19. Kf2 Qh1 20. Qc3+ Kb8 0-1

@@ -1,0 +1,14 @@
+[Event "Bar op"]
+[Site "Bar"]
+[Date "2007.04.07"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Dragisa Blagojevic"]
+[Black "Filip Ljubicic"]
+[ECO "A61"]
+[WhiteElo "2530"]
+[BlackElo "2398"]
+[PlyCount "46"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. h3 Bg7 8. e4 O-O 9. Bd3 b5 10. Bxb5 Nxe4 11. Nxe4 Qa5+ 12. Nfd2 Qxb5 13. Nxd6 Qa6 14. N2c4 Rd8 15. Bf4 Nd7 16. O-O Nb6 17. Nxb6 axb6 18. Qd2 Ra7 19. Rfe1 Rad7 20. Re8+ Rxe8 21. Nxe8 Bd4 22. Re1 h5 23. Be5 1-0
