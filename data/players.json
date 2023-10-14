@@ -645,7 +645,7 @@
     "year": "1990-2022",
     "games": 2025,
     "id": "11719",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2645,
@@ -1765,7 +1765,7 @@
     "year": "1979-2022",
     "games": 1411,
     "id": "15140",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2726,
@@ -3101,7 +3101,7 @@
     "year": "1978-2019",
     "games": 1059,
     "id": "13993",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2605,
@@ -3141,7 +3141,7 @@
     "year": "1991-2022",
     "games": 1051,
     "id": "27079",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2632,
@@ -5541,7 +5541,7 @@
     "year": "1976-2018",
     "games": 707,
     "id": "17775",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2479,
@@ -6565,7 +6565,7 @@
     "year": "1986-2022",
     "games": 614,
     "id": "10173",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2322,
@@ -8629,7 +8629,7 @@
     "year": "1974-2022",
     "games": 478,
     "id": "13903",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -9181,7 +9181,7 @@
     "year": "1993-2022",
     "games": 451,
     "id": "18266",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2310,
@@ -9709,7 +9709,7 @@
     "year": "1999-2020",
     "games": 422,
     "id": "43228",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2630,
@@ -10405,7 +10405,7 @@
     "year": "1991-2023",
     "games": 397,
     "id": "18300",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -10421,7 +10421,7 @@
     "year": "2007-2022",
     "games": 397,
     "id": "129580",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2406,
@@ -10725,7 +10725,7 @@
     "year": "1993-2023",
     "games": 388,
     "id": "52151",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2603,
@@ -11589,7 +11589,7 @@
     "year": "1996-2019",
     "games": 358,
     "id": "49591",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -11829,7 +11829,7 @@
     "year": "1977-2022",
     "games": 349,
     "id": "25844",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2517,
@@ -12037,7 +12037,7 @@
     "year": "2005-2023",
     "games": 342,
     "id": "111775",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2560,
@@ -12517,7 +12517,7 @@
     "year": "2003-2023",
     "games": 329,
     "id": "113390",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2556,
@@ -12773,7 +12773,7 @@
     "year": "1997-2022",
     "games": 321,
     "id": "103669",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2486,
@@ -13253,7 +13253,7 @@
     "year": "1982-2019",
     "games": 308,
     "id": "55370",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2543,
@@ -13365,7 +13365,7 @@
     "year": "1981-2005",
     "games": 305,
     "id": "15093",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2553,
@@ -16373,7 +16373,7 @@
     "year": "1995-2017",
     "games": 247,
     "id": "49064",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2500,
@@ -16501,7 +16501,7 @@
     "year": "2015-2023",
     "games": 245,
     "id": "153785",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2413,
@@ -17253,7 +17253,7 @@
     "year": "1982-2018",
     "games": 231,
     "id": "25925",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2479,
@@ -17477,7 +17477,7 @@
     "year": "1997-2015",
     "games": 228,
     "id": "51460",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2209,
@@ -17853,7 +17853,7 @@
     "year": "2007-2023",
     "games": 223,
     "id": "113420",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2424,
@@ -17941,7 +17941,7 @@
     "year": "2005-2021",
     "games": 222,
     "id": "107077",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2387,
@@ -18229,7 +18229,7 @@
     "year": "1980-2012",
     "games": 218,
     "id": "26786",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2537,
@@ -19765,7 +19765,7 @@
     "year": "1999-2021",
     "games": 201,
     "id": "10169",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2446,
@@ -21645,7 +21645,7 @@
     "year": "1986-2019",
     "games": 180,
     "id": "27498",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2314,
@@ -22213,7 +22213,7 @@
     "year": "2012-2023",
     "games": 176,
     "id": "137123",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2513,
@@ -22989,7 +22989,7 @@
     "year": "1995-2022",
     "games": 168,
     "id": "21405",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -23045,7 +23045,7 @@
     "year": "2001-2018",
     "games": 168,
     "id": "57309",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -23237,7 +23237,7 @@
     "year": "1974-2023",
     "games": 166,
     "id": "46871",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2392,
@@ -24597,7 +24597,7 @@
     "year": "1999-2021",
     "games": 155,
     "id": "49215",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2562,
@@ -24965,7 +24965,7 @@
     "year": "1992-2016",
     "games": 152,
     "id": "19854",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2478,
@@ -25925,7 +25925,7 @@
     "year": "1963-2019",
     "games": 146,
     "id": "58979",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2222,
@@ -27317,7 +27317,7 @@
     "year": "2010-2021",
     "games": 136,
     "id": "130358",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2320,
@@ -27589,7 +27589,7 @@
     "year": "1967-1998",
     "games": 133,
     "id": "17510",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2336,
@@ -29301,7 +29301,7 @@
     "year": "1998-2019",
     "games": 123,
     "id": "107157",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2490,
@@ -29805,7 +29805,7 @@
     "year": "1990-2019",
     "games": 120,
     "id": "36878",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2449,
@@ -30205,7 +30205,7 @@
     "year": "1952-2012",
     "games": 118,
     "id": "28689",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2364,
@@ -31229,7 +31229,7 @@
     "year": "1976-2012",
     "games": 113,
     "id": "19603",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2384,
@@ -31645,7 +31645,7 @@
     "year": "1988-2019",
     "games": 112,
     "id": "99328",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2365,
@@ -31781,7 +31781,7 @@
     "year": "1972-1987",
     "games": 111,
     "id": "15728",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2420,
@@ -34925,7 +34925,7 @@
     "year": "1995-2020",
     "games": 100,
     "id": "181184",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2593,
@@ -35069,7 +35069,7 @@
     "year": "1991-2018",
     "games": 99,
     "id": "53689",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2529,
@@ -35285,7 +35285,7 @@
     "year": "2013-2019",
     "games": 99,
     "id": "193900",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2517,
@@ -35493,7 +35493,7 @@
     "year": "1992-2022",
     "games": 98,
     "id": "92740",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2220,
@@ -35909,7 +35909,7 @@
     "year": "1986-2020",
     "games": 96,
     "id": "24691",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2375,
@@ -36309,7 +36309,7 @@
     "year": "1969-2009",
     "games": 95,
     "id": "90136",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2456,
@@ -36669,7 +36669,7 @@
     "year": "2016-2023",
     "games": 94,
     "id": "155017",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2404,
@@ -37565,7 +37565,7 @@
     "year": "1982-2007",
     "games": 90,
     "id": "10967",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -38453,7 +38453,7 @@
     "year": "2002-2014",
     "games": 88,
     "id": "88076",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2450,
@@ -39517,7 +39517,7 @@
     "year": "2000-2019",
     "games": 85,
     "id": "91561",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2466,
@@ -39533,7 +39533,7 @@
     "year": "1985-2017",
     "games": 85,
     "id": "97428",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2293,
@@ -39629,7 +39629,7 @@
     "year": "2016-2022",
     "games": 85,
     "id": "156840",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2383,
@@ -40293,7 +40293,7 @@
     "year": "1982-2019",
     "games": 83,
     "id": "94964",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -40989,7 +40989,7 @@
     "year": "1980-2007",
     "games": 81,
     "id": "25493",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2437,
@@ -41157,7 +41157,7 @@
     "year": "1992-2014",
     "games": 81,
     "id": "74125",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2398,
@@ -42445,7 +42445,7 @@
     "year": "2012-2023",
     "games": 78,
     "id": "135478",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2405,
@@ -42957,7 +42957,7 @@
     "year": "2015-2022",
     "games": 77,
     "id": "157069",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -43061,7 +43061,7 @@
     "year": "1985-2001",
     "games": 76,
     "id": "34251",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2278,
@@ -43301,7 +43301,7 @@
     "year": "1994-2010",
     "games": 76,
     "id": "123913",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2296,
@@ -43589,7 +43589,7 @@
     "year": "1993-2005",
     "games": 75,
     "id": "57852",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -43853,7 +43853,7 @@
     "year": "1984-2004",
     "games": 74,
     "id": "14474",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2475,
@@ -45565,7 +45565,7 @@
     "year": "2008-2020",
     "games": 71,
     "id": "117401",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -45613,7 +45613,7 @@
     "year": "2007-2019",
     "games": 71,
     "id": "127811",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2415,
@@ -47109,7 +47109,7 @@
     "year": "2015-2023",
     "games": 68,
     "id": "153473",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2265,
@@ -47277,7 +47277,7 @@
     "year": "1968-1987",
     "games": 67,
     "id": "43411",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2216,
@@ -47317,7 +47317,7 @@
     "year": "1979-2017",
     "games": 67,
     "id": "49954",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2419,
@@ -48029,7 +48029,7 @@
     "year": "1998-2017",
     "games": 66,
     "id": "100342",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2370,
@@ -48917,7 +48917,7 @@
     "year": "1973-1999",
     "games": 64,
     "id": "37865",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2348,
@@ -49205,7 +49205,7 @@
     "year": "2012-2022",
     "games": 64,
     "id": "138897",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2224,
@@ -49781,7 +49781,7 @@
     "year": "2010-2019",
     "games": 63,
     "id": "128624",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2416,
@@ -50837,7 +50837,7 @@
     "year": "2009-2020",
     "games": 61,
     "id": "126659",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2210,
@@ -51293,7 +51293,7 @@
     "year": "2002-2018",
     "games": 60,
     "id": "100468",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2440,
@@ -52973,7 +52973,7 @@
     "year": "2007-2022",
     "games": 57,
     "id": "113775",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -53501,7 +53501,7 @@
     "year": "2001-2015",
     "games": 56,
     "id": "55914",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2400,
@@ -53765,7 +53765,7 @@
     "year": "2011-2019",
     "games": 56,
     "id": "128274",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2422,
@@ -54293,7 +54293,7 @@
     "year": "1995-2006",
     "games": 55,
     "id": "95850",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2417,
@@ -55013,7 +55013,7 @@
     "year": "1991-2019",
     "games": 54,
     "id": "105217",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2501,
@@ -57029,7 +57029,7 @@
     "year": "2016-2021",
     "games": 51,
     "id": "154333",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2430,
@@ -57277,7 +57277,7 @@
     "year": "2001-2011",
     "games": 50,
     "id": "48920",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2446,
@@ -57845,7 +57845,7 @@
     "year": "1973-1985",
     "games": 49,
     "id": "18327",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2292,
@@ -58069,7 +58069,7 @@
     "year": "1996-2023",
     "games": 49,
     "id": "51089",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2253,
@@ -58493,7 +58493,7 @@
     "year": "2019-2022",
     "games": 49,
     "id": "161851",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2228,
@@ -60421,7 +60421,7 @@
     "year": "1948-1969",
     "games": 46,
     "id": "27972",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2324,
@@ -61269,7 +61269,7 @@
     "year": "1973-2015",
     "games": 45,
     "id": "44322",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2246,
@@ -61885,7 +61885,7 @@
     "year": "2011-2017",
     "games": 45,
     "id": "139267",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2339,
@@ -62325,7 +62325,7 @@
     "year": "1998-2013",
     "games": 44,
     "id": "58496",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2379,
@@ -62957,7 +62957,7 @@
     "year": "2015-2022",
     "games": 44,
     "id": "158867",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -64269,7 +64269,7 @@
     "year": "2001-2018",
     "games": 42,
     "id": "54754",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2427,
@@ -64277,7 +64277,7 @@
     "year": "1991-2021",
     "games": 42,
     "id": "55387",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2414,
@@ -64341,7 +64341,7 @@
     "year": "1988-2011",
     "games": 42,
     "id": "67539",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2540,
@@ -64917,7 +64917,7 @@
     "year": "1983-2003",
     "games": 41,
     "id": "21335",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2288,
@@ -65325,7 +65325,7 @@
     "year": "1998-2019",
     "games": 41,
     "id": "76790",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2331,
@@ -66229,7 +66229,7 @@
     "year": "1979-2015",
     "games": 40,
     "id": "52959",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2460,
@@ -69221,7 +69221,7 @@
     "year": "2001-2006",
     "games": 37,
     "id": "58363",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2249,
@@ -69957,7 +69957,7 @@
     "year": "1992-2017",
     "games": 36,
     "id": "46120",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2352,
@@ -69973,7 +69973,7 @@
     "year": "1982-1995",
     "games": 36,
     "id": "47157",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2350,
@@ -70301,7 +70301,7 @@
     "year": "1996-2012",
     "games": 36,
     "id": "84016",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2372,
@@ -70581,7 +70581,7 @@
     "year": "2008-2021",
     "games": 36,
     "id": "116968",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2404,
@@ -70725,7 +70725,7 @@
     "year": "1992-2003",
     "games": 36,
     "id": "140562",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2214,
@@ -71981,7 +71981,7 @@
     "year": "2011-2020",
     "games": 35,
     "id": "173036",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2434,
@@ -72141,7 +72141,7 @@
     "year": "1968-2016",
     "games": 34,
     "id": "29714",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2285,
@@ -72165,7 +72165,7 @@
     "year": "1994-2018",
     "games": 34,
     "id": "35673",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2257,
@@ -72277,7 +72277,7 @@
     "year": "2000-2018",
     "games": 34,
     "id": "49071",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2340,
@@ -74021,7 +74021,7 @@
     "year": "1999-2009",
     "games": 33,
     "id": "95630",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2410,
@@ -74093,7 +74093,7 @@
     "year": "1996-2013",
     "games": 33,
     "id": "102619",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2203,
@@ -74373,7 +74373,7 @@
     "year": "2012-2021",
     "games": 33,
     "id": "139490",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2213,
@@ -74541,7 +74541,7 @@
     "year": "2022",
     "games": 33,
     "id": "189894",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2327,
@@ -74565,7 +74565,7 @@
     "year": "1995-2014",
     "games": 32,
     "id": "12547",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2275,
@@ -75493,7 +75493,7 @@
     "year": "2011-2021",
     "games": 32,
     "id": "134571",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2271,
@@ -76501,7 +76501,7 @@
     "year": "1985-2003",
     "games": 31,
     "id": "70855",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2401,
@@ -76597,7 +76597,7 @@
     "year": "1958-1978",
     "games": 31,
     "id": "88278",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2290,
@@ -76885,7 +76885,7 @@
     "year": "1979-2020",
     "games": 31,
     "id": "109465",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2256,
@@ -78573,7 +78573,7 @@
     "year": "2016-2022",
     "games": 30,
     "id": "156129",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2411,
@@ -78837,7 +78837,7 @@
     "year": "1981-2012",
     "games": 29,
     "id": "28142",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2255,
@@ -78901,7 +78901,7 @@
     "year": "1992-2019",
     "games": 29,
     "id": "36240",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2268,
@@ -79037,7 +79037,7 @@
     "year": "1998-2007",
     "games": 29,
     "id": "49552",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2291,
@@ -79837,7 +79837,7 @@
     "year": "1994-2005",
     "games": 29,
     "id": "117183",
-    "synced": false
+    "synced": true
   },
   {
     "higestRating": 2278,
