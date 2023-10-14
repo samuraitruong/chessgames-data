@@ -2,13 +2,13 @@
 [Site "ICC INT"]
 [Date "2005.03.27"]
 [EventDate "2005.03.26"]
-[Round "3.3"]
+[Round "3.1"]
 [Result "0-1"]
 [White "Danilo Milanovic"]
 [Black "Daniel Grigoryevich Fridman"]
 [ECO "D45"]
 [WhiteElo "2447"]
 [BlackElo "2569"]
-[PlyCount "66"]
+[PlyCount "188"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 a6 6. a4 a5 7. Bd3 Na6 8. O-O Nb4 9. Be2 Be7 10. b3 O-O 11. Bb2 b6 12. Qb1 Bb7 13. e4 dxe4 14. Nxe4 c5 15. Nxf6+ Bxf6 16. Rd1 Qe7 17. Bc3 Rad8 18. Qb2 Bxf3 19. Bxf3 Bxd4 20. Bxd4 Rxd4 21. Rxd4 cxd4 22. Rd1 e5 23. Qe2 Rd8 24. Be4 g6 25. g4 Qg5 26. Kh1 Qf4 27. h3 Kh8 28. Rg1 d3 29. Qe3 Qxe3 30. fxe3 f5 31. gxf5 gxf5 32. Bxf5 d2 33. Kg2 d1=Q 0-1
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. g4 Bb4 8. Rg1 Qe7 9. Bd2 dxc4 10. Bxc4 b5 11. Be2 Bb7 12. g5 Nd5 13. Nxd5 exd5 14. O-O-O Bd6 15. Bd3 Rc8 16. Kb1 a6 17. e4 c5 18. e5 Bb8 19. Bf5 g6 20. Bxd7+ Qxd7 21. h4 Ba7 22. Qd3 c4 23. Qe3 Qf5+ 24. Ka1 Qe4 25. Ba5 Qxe3 26. fxe3 Rc6 27. Nh2 Bc8 28. Ng4 Bxg4 29. Rxg4 Bb6 30. Bxb6 Rxb6 31. e4 dxe4 32. d5 h6 33. gxh6 Rxh6 34. Rxe4 Rh5 35. Kb1 Rb7 36. Kc2 Re7 37. Rde1 Kd7 38. Kc3 Rf5 39. Kd4 Re8 40. R1e2 Rf3 41. R2e3 Rf2 42. Re2 Rf3 43. Kc5 Rd3 44. e6+ fxe6 45. Rxe6 Rc8+ 46. Rc6 Rxd5+ 47. Kxd5 Rxc6 48. Re5 b4 49. Re2 a5 50. Rc2 c3 51. bxc3 Rxc3 52. Rg2 Ra3 53. Kc5 Ke7 54. Kb5 Kf6 55. Kc4 Rh3 56. Kb5 Ra3 57. Kc4 Rf3 58. Kb5 Rf5+ 59. Ka4 Kg7 60. Rg1 Kh6 61. Rh1 Kh5 62. Rh2 Re5 63. Rg2 Rf5 64. Rh2 Rf4 65. Rh1 Rxh4 66. Rf1 Rh2 67. Kxa5 Rxa2+ 68. Kxb4 Rc2 69. Kb3 Rc8 70. Rh1+ Kg5 71. Rg1+ Kf6 72. Rf1+ Kg7 73. Rg1 Rc5 74. Kb4 Re5 75. Kc4 g5 76. Kd4 Kf6 77. Rf1+ Rf5 78. Rg1 Rf3 79. Ke4 Ra3 80. Rf1+ Kg6 81. Rg1 Kh5 82. Rh1+ Kg4 83. Rg1+ Kh4 84. Rh1+ Kg4 85. Rg1+ Rg3 86. Rh1 Rg2 87. Ke3 Kg3 88. Rh8 g4 89. Rg8 Ra2 90. Rg7 Kh3 91. Rh7+ Kg2 92. Rg7 g3 93. Kf4 Kf2 94. Ke4 Ra4+ 0-1
