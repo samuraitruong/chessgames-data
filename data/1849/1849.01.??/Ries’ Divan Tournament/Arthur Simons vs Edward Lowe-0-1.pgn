@@ -1,0 +1,15 @@
+[Event "Ries’ Divan Tournament"]
+[Site "London ENG"]
+[Date "1849.01.??"]
+[EventDate "?"]
+[Round "1.1"]
+[Result "0-1"]
+[White "Arthur Simons"]
+[Black "Edward Lowe"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.x, 1849, p.70"]
+[PlyCount "14"]
+
+1.e4 c5 2.Bc4 e6 3.Nc3 Ne7 4.f4 d5 5.Bb5+ Nbc6 6.d3 d4 7.Nce2 Qa5+ 0-1
