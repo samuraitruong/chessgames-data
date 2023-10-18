@@ -1,0 +1,14 @@
+[Event "Hastings cg"]
+[Site "Hastings cg"]
+[Date "1901.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Isidor Gunsberg"]
+[Black "Richard Teichmann"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e5 2.f4 d5 3.Nf3 dxe4 4.Nxe5 Nc6 5.Bb5 Ne7 6.Qe2 f6 7.Nxc6 bxc6 8.Qxe4 Bf5 9.Bxc6+ Kf7 10.Qf3 Nxc6 11.Qxc6 Qe8+ 12.Qxe8+ Rxe8+ 13.Kf2 Bc5+ 14.Kg3 h5 15.h3 Bxc2 16.d4 Bxd4 17.Nc3 h4+ 18.Kf3 Rh6 19.Bd2 Rg6 20.g4 hxg3 21.Rhe1 Rxe1 0-1
