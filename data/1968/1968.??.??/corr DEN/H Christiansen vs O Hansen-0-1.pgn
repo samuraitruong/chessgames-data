@@ -1,0 +1,14 @@
+[Event "corr DEN"]
+[Site "?"]
+[Date "1968.??.??"]
+[EventDate "1968.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "H Christiansen"]
+[Black "O Hansen"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "12"]
+
+1. e4 e5 2. f4 Nc6 3. Bc4 exf4 4. Nc3 Qh4+ 5. Kf1 Bc5 6. Nf3 Qf2# 0-1

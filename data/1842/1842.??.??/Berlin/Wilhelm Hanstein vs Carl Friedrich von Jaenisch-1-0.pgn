@@ -6,9 +6,9 @@
 [Result "1-0"]
 [White "Wilhelm Hanstein"]
 [Black "Carl Friedrich von Jaenisch"]
-[ECO "C31"]
+[ECO "C37"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "55"]
+[PlyCount "35"]
 
-1. e4 e5 2. f4 d5 3. exd5 Qxd5 4. Nc3 Qe6 5. fxe5 Qxe5+ 6. Be2 Bd6 7. Nf3 Qa5 8. d4 Nf6 9. Bd2 Bb4 10. a3 Bxc3 11. Bxc3 Qb6 12. Bb4 Na6 13. c3 Nxb4 14. axb4 O-O 15. Ra5 a6 16. O-O Be6 17. Ne5 Rad8 18. Bd3 Nd5 19. Qh5 h6 20. Rf3 Nxb4 21. cxb4 Qxd4+ 22. Kh1 Qxb4 23. Ra1 Qxb2 24. Raf1 c5 25. Nxf7 Bxf7 26. Rxf7 Rxf7 27. Qxf7+ Kh8 28. Qf8+ 1-0
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Bh6 7. d4 d5 8. exd5 Qf6 9. c3 Ne7 10. Nd2 Bf5 11. d6 Nec6 12. dxc7 Nd7 13. Re1+ Kf8 14. b3 Rc8 15. Ne4 Bxe4 16. Rxe4 Re8 17. Rxe8+ Kxe8 18. c8=Q+ 1-0

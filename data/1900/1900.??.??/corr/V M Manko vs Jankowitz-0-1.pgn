@@ -1,0 +1,14 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1900.??.??"]
+[EventDate "1900.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "V M Manko"]
+[Black "Jankowitz"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "18"]
+
+1. e4 e5 2. f4 Bc5 3. Ne2 Qf6 4. c3 Nc6 5. g3 Nh6 6. Bg2 Ng4 7. Rf1 Nxh2 8. fxe5 Qxf1+ 9. Bxf1 Nf3# 0-1

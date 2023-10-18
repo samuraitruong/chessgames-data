@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1842.??.??"]
+[EventDate "1842.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Howard Staunton"]
+[Black "NN"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+[Source "Chess Player’s Chronicle, vol. ii (1841/42), p.340"]
+[PlyCount "23"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. d4 gxf3 6. O-O fxg2 7. Bxf7+ Kxf7 8. Rxf4+ Nf6 9. e5 Kg8 10. exf6 d5 11. Qh5 Nc6 12. Rf2 1-0

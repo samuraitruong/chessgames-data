@@ -1,0 +1,14 @@
+[Event "Blindfold simul, 30b"]
+[Site "Antwerp BEL"]
+[Date "1931.05.10"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Georges Koltanowski"]
+[Black "NN"]
+[ECO "B15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Bd3 Qxd4 6.Nf3 Qd8 7.Qe2 Bf5 8.Nxf6+ gxf6 9.Bxf5 Qa5+ 10.Bd2 Qxf5 11.O-O-O Qe6 12.Qd3 Qxa2 13.Qd8+ Kxd8 14.Ba5+ Kc8 15.Rd8# 1-0

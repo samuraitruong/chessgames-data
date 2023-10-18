@@ -1,0 +1,14 @@
+[Event "Blindfold simul, 4b"]
+[Site "Manchester ENG"]
+[Date "1862.01.20"]
+[EventDate "1862.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "W Hamilton"]
+[ECO "C38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. c3 c6 6. d4 h6 7. O-O Ne7 8. g3 d5 9. exd5 fxg3 10. dxc6 O-O 11. Bxg5 Nbxc6 12. hxg3 hxg5 13. Nxg5 Nf5 14. Qh5 Bh6 15. Qg6+ Kh8 16. Qh7# 1-0

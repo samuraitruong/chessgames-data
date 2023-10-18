@@ -1,0 +1,14 @@
+[Event "Hamburg"]
+[Site "Hamburg GER"]
+[Date "1903.??.??"]
+[EventDate "1903.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Martin Bier"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. Nc3 Nc6 6. d3 Bg4 7. h3 Bxf3 8. Qxf3 Nd4 9. Qd1 g6 10. fxe5 Nh5 11. Bxf7+ Kxf7 12. O-O+ Nf3+ 13. Kh1 Ng3# 0-1

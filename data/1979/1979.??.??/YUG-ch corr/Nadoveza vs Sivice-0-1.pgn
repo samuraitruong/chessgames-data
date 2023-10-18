@@ -1,0 +1,14 @@
+[Event "YUG-ch corr"]
+[Site "YUG"]
+[Date "1979.??.??"]
+[EventDate "1979.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Nadoveza"]
+[Black "Sivice"]
+[ECO "C36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 bxc6 7. Ba4 Ba6 8. d3 Qb6 9. Qe2+ Be7 10. Bb3 O-O 11. Qxe7 Nbd7 12. Kf1 Rae8 13. Qd6 Ne4 14. Qd4 c5 15. Qg1 Qg6 16. c4 Ng3+ 17. hxg3 Qxd3+ 18. Kf2 Qe2# 0-1

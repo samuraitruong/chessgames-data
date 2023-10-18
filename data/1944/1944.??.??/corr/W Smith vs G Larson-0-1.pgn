@@ -1,0 +1,14 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1944.??.??"]
+[EventDate "1944.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "W Smith"]
+[Black "G Larson"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 Qh4+ 4. Ke2 d6 5. Nd5 Na6 6. Nf3 Bg4 7. Nxf4 Nf6 8. d3 g5 9. Nh3 Bh6 10. Nhg1 O-O-O 11. Be3 d5 12. Kd2 Nxe4+ 13. dxe4 dxe4+ 14. Bd3 Qh5 15. Kc3 Bxf3 16. gxf3 g4 17. Kd2 exd3 18. cxd3 Nb4 0-1

@@ -1,0 +1,14 @@
+[Event "Blind simul, 8b"]
+[Site "Akron, OH USA"]
+[Date "1946.11.16"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Georges Koltanowski"]
+[Black "Pleuddeman AE"]
+[ECO "D06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.d4 d5 2.c4 Nf6 3.cxd5 Nxd5 4.e4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.Bd3 O-O 8.O-O c5 9.e5 Bxc3 10.bxc3 Nfd7 11.Bxh7+ Kh8 12.Bc2 f6 13.Nh4 Nxe5 14.Qh5+ Kg8 15.Bh7+ Kh8 16.Bg6+ Kg8 17.Qh7# 1-0

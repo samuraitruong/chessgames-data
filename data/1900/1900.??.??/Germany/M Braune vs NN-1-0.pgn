@@ -1,0 +1,14 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1900.??.??"]
+[EventDate "1900.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "M Braune"]
+[Black "NN"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "17"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 g5 4. h4 f6 5. Qh5+ Ke7 6. Qf7+ Kd6 7. e5+ fxe5 8. Qd5+ Ke7 9. Qxe5# 1-0

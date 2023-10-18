@@ -1,0 +1,14 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1859.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Ignatz von Kolisch"]
+[Black "Heinrich Philipp Schlemm"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O Nf6 8.e5 d5 9.exf6 dxc4 10.fxg7 Rg8 11.Re1+ Be6 12.Ng5 Qd5 13.Rxe6+ fxe6 14.Qh5+ Kd7 15.Qf7+ Ne7 16.Nxh7 Qf5 17.Nf6+ Kd6 18.Ba3+ c5 19.Bxc5+ Kxc5 20.Qxe7+ Kb6 21.Qd6+ Kb5 22.a4# 1-0

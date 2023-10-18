@@ -1,0 +1,14 @@
+[Event "Tandem simul, 29b"]
+[Site "Hamburg GER"]
+[Date "1900.10.09"]
+[EventDate "1900.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Em. Lasker / Maroczy"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Bd6 5. Nc4 Bxf4 6. Nc3 Qh4+ 7. g3 Bxg3+ 8. Ke2 Bg4+ 9. Ke3 Bf2+ 10. Kxe4 Be2+ 11. Kd5 Ne7+ 12. Ke5 Nd7# 0-1

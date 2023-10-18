@@ -1,0 +1,14 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1861.??.??"]
+[EventDate "1861.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Karl Mayet"]
+[Black "Philipp Hirschfeld"]
+[ECO "C38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. d4 d6 6. c3 g4 7. Qb3 gxf3 8. Bxf7+ Kf8 9. Bxg8 Rxg8 10. O-O Bxd4+ 11. cxd4 Rxg2+ 12. Kh1 Rxh2+ 13. Kxh2 Qh4+ 14. Kg1 Qg3+ 15. Kh1 Qg2# 0-1

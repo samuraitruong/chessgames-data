@@ -1,0 +1,14 @@
+[Event "Philidor Chess Program"]
+[Site "Unknown"]
+[Date "1990.??.??"]
+[EventDate "1790.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Fran?ois Andr? Philidor"]
+[Black "NN"]
+[ECO "C38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 h6 6. d4 d6 7. c3 c6 8. Qe2 Be6 9. Bxe6 fxe6 10. e5 dxe5 11. dxe5 Nd7 12. g3 g4 13. gxf4 gxf3 14. Qxf3 Qe7 15. Nd2 O-O-O 16. b4 h5 17. Ne4 Nb6 18. Be3 Nh6 19. Bc5 Qc7 20. a4 Bf8 21. a5 Bxc5 22. bxc5 Nd7 23. Nd6+ Kb8 24. Rb1 Nxc5 25. Nxb7 Nxb7 26. a6 Ka8 27. Rxb7 Qc8 28. Rh2 Rd7 29. Rhb2 Rhh7 30. Qxc6 1-0
