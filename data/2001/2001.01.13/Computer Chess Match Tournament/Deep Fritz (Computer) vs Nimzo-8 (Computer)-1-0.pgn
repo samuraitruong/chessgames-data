@@ -1,0 +1,14 @@
+[Event "Computer Chess Match Tournament"]
+[Site "Cadaques ESP"]
+[Date "2001.01.13"]
+[EventDate "?"]
+[Round "15"]
+[Result "1-0"]
+[White "Deep Fritz (Computer)"]
+[Black "Nimzo-8 (Computer)"]
+[ECO "E04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1. c4 Nf6 2. d4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 c5 6. O-O Nc6 7. Ne5 Bd7 8. Na3 cxd4 9. Naxc4 Bc5 10. Qb3 O-O 11. Bf4 Qc8 12. Rac1 Nd5 13. Nxd7 Qxd7 14. Ne5 Nxe5 15. Bxe5 Bb6 16. Rcd1 Ne7 17. Bxd4 Bxd4 18. e3 e5 19. exd4 exd4 20. Rd2 Nc6 21. Qa4 Rad8 22. Rfd1 Qe6 23. b3 Rfe8 24. Bxc6 Qxc6 25. Qxc6 bxc6 26. Rxd4 Rxd4 27. Rxd4 Re1+ 28. Kg2 g6 29. Kf3 h5 30. Rd8+ Kg7 31. Ra8 Re7 32. Rc8 Re6 33. b4 Rd6 34. Ke2 Re6+ 35. Kf1 Rd6 36. Rc7 c5 37. b5 a6 38. Rc6 Rd1+ 39. Ke2 Rb1 40. bxa6 Rb2+ 41. Kd3 Rxa2 42. Kc4 Ra5 43. Rb6 g5 44. Kd5 c4+ 45. Kxc4 f6 46. Kb4 Ra2 47. Rb7+ Kg6 48. a7 h4 49. gxh4 g4 50. Kc5 Ra6 51. Kb5 Ra1 52. Kb6 f5 53. Rb8 Kh5 1-0

@@ -1,0 +1,14 @@
+[Event "Computer Chess Match Tournament"]
+[Site "Cadaques ESP"]
+[Date "2001.01.21"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Shredder (Computer)"]
+[Black "Deep Fritz (Computer)"]
+[ECO "E49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4 8. Bxc4 c5 9. Bb2 Qa5 10. Nf3 cxd4 11. exd4 b6 12. a4 Ba6 13. Nd2 Rc8 14. Bxa6 Qxa6 15. c4 Qa5 16. O-O Nbd7 17. Re1 a6 18. h3 Qg5 19. Qe2 Qf4 20. Qd3 Rab8 21. Nf3 Rc6 22. Bc1 Qc7 23. Ba3 Rc8 24. Rac1 Qf4 25. Qe2 Kh8 26. Be7 Qh6 27. c5 a5 28. Qb5 Qg6 29. Bxf6 Qxf6 30. Rcd1 bxc5 31. dxc5 Nxc5 32. Qxa5 R6c7 33. Qb4 Kg8 34. Ne5 Rb7 35. Qc3 Rbc7 36. Qd4 h6 37. a5 Qf5 38. Qe3 Ra8 39. Ra1 f6 40. Nc4 Qd3 41. Nb6 Qxe3 42. Rxe3 Raa7 43. Rc3 Na6 44. Rc4 Rxc4 45. Nxc4 e5 46. Rb1 Nc5 47. Rb5 Nd3 48. Kf1 Rc7 49. Ne3 Rc3 50. Rb8+ Kh7 51. Rd8 e4 52. Rd4 Ra3 53. Rxe4 Rxa5 54. Rd4 Nc5 55. Rd5 Ra1+ 56. Ke2 Ne4 57. Kf3 Ng5+ 58. Kg4 Ra4+ 59. f4 h5+ 60. Kg3 h4+ 61. Kxh4 Rxf4+ 62. Kg3 Re4 63. Nf5 Re5 64. Rxe5 fxe5 65. Ne7 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Computer Chess Match Tournament"]
+[Site "Cadaques ESP"]
+[Date "2001.01.27"]
+[EventDate "?"]
+[Round "16"]
+[Result "1/2-1/2"]
+[White "Shredder (Computer)"]
+[Black "Nimzo-8 (Computer)"]
+[ECO "E55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "136"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O dxc4 8. Bxc4 Nbd7 9. Qe2 b6 10. d5 Bxc3 11. dxe6 Ne5 12. bxc3 Nxf3+ 13. Qxf3 Bxe6 14. Bxe6 fxe6 15. e4 Qe8 16. Qe2 Rd8 17. f3 Qh5 18. Bf4 e5 19. Be3 Kh8 20. Qa6 Rd7 21. a4 Qf7 22. a5 Qb3 23. Bf2 Rb8 24. c4 Qc2 25. axb6 axb6 26. Qa4 Rd2 27. Qxc2 Rxc2 28. Rfc1 Rxc1+ 29. Rxc1 Kg8 30. Bg3 Re8 31. Ra1 h6 32. Kf1 g5 33. Ra7 Re6 34. Rb7 g4 35. Ke2 Kf8 36. Ke3 gxf3 37. gxf3 Ke8 38. f4 exf4+ 39. Kxf4 Nh5+ 40. Kf5 Rf6+ 41. Ke5 Rg6 42. Bf4 Nxf4 43. Kxf4 h5 44. Kf5 Rg2 45. h4 Rb2 46. Ke5 Kf8 47. Ke6 Rc2 48. Rb8+ Kg7 49. Kd5 Rd2+ 50. Ke5 Rb2 51. Kf5 Kf7 52. Rh8 Rc2 53. Rxh5 Rxc4 54. Rh7+ Kf8 55. Rb7 Rb4 56. h5 Rb1 57. h6 Kg8 58. e5 Rf1+ 59. Ke6 Rh1 60. Kd6 Rd1+ 61. Ke7 c4 62. e6 c3 63. Rc7 Rc1 64. Ke8 c2 65. e7 b5 66. Kd7 Rd1+ 67. Ke6 Re1+ 68. Kd6 Rd1+ 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Vena"]
+[Site "Vena"]
+[Date "1932.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lanu"]
+[Black "Halik"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "10"]
+
+1.d4 Nf6 2.Nf3 c5 3.Bf4 cxd4 4.Nxd4 e5 5.Bxe5 Qa5+ 0-1

@@ -1,0 +1,14 @@
+[Event "Computer Chess Match Tournament"]
+[Site "Cadaques ESP"]
+[Date "2001.01.02"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Shredder (Computer)"]
+[Black "Gambit Tiger (Computer)"]
+[ECO "E48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "126"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Ne2 Re8 8. O-O Bd6 9. Ng3 c6 10. Bd2 Qc7 11. Rc1 a6 12. Nce2 Ne4 13. Bxe4 dxe4 14. Qc2 Qe7 15. Nf4 g6 16. Nge2 Nd7 17. Ng3 f5 18. a3 Bxf4 19. exf4 Nf6 20. Ne2 Be6 21. h3 a5 22. Rfe1 Red8 23. Qa4 Nd5 24. Qc2 Nb6 25. b3 a4 26. Bb4 Qh4 27. bxa4 Nxa4 28. Bd2 Ra6 29. Qb1 Rd7 30. Rc2 Nb6 31. Qc1 Bb3 32. Rc5 Bf7 33. Bb4 Ra8 34. Bc3 Nd5 35. Ra5 Rdd8 36. Rc5 Ra6 37. Bb4 Re8 38. Bd2 Rea8 39. Qb2 Rb6 40. Qa1 Rb3 41. a4 Nb6 42. a5 Nc4 43. Bc3 e3 44. Rf1 Bd5 45. Qa2 Ra3 46. Qb1 Re8 47. Qc2 Nd2 48. Bxd2 exf2+ 49. Rxf2 Rxe2 50. Rxe2 Rxh3 51. gxh3 Qg3+ 52. Kf1 Qxh3+ 53. Rg2 Qxg2+ 54. Ke1 Qg3+ 55. Kd1 Bb3 56. Qxb3+ Qxb3+ 57. Ke2 h5 58. Re5 h4 59. Re3 Qc4+ 60. Ke1 Qxd4 61. Ke2 Qc4+ 62. Ke1 Qd5 63. Kd1 Qh1+ 0-1

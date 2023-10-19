@@ -1,0 +1,14 @@
+[Event "Computer Chess Match Tournament"]
+[Site "Cadaques ESP"]
+[Date "2001.01.07"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Gandalf (Computer)"]
+[Black "Deep Fritz (Computer)"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8. e3 d6 9. f3 Nbd7 10. Bd3 c5 11. Ne2 Rc8 12. Qd2 h6 13. Bh4 cxd4 14. exd4 Ba6 15. Rc1 d5 16. cxd5 Bxd3 17. dxe6 Bxe2 18. Rxc8 Qxc8 19. exd7 Qxd7 20. Kxe2 Ng4 21. Rc1 Qb5+ 22. Qd3 Re8+ 23. Kd2 Qh5 24. Re1 Ne5 25. Rxe5 Rxe5 26. dxe5 Qxh4 27. Qe2 Qxh2 28. Kd3 Qg3 29. Kc4 Qf4+ 30. Kb5 Kf8 31. Qe4 Qxe4 32. fxe4 h5 33. e6 f6 34. Kc6 Ke7 35. Kd5 h4 36. b3 g5 37. Kd4 Kxe6 38. b4 b5 39. Kd3 Ke5 40. Ke2 Kxe4 41. Ke1 Kd3 42. Kf2 0-1

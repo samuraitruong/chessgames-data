@@ -1,0 +1,14 @@
+[Event "Podebrady"]
+[Site "Podebrady CSR"]
+[Date "1936.07.06"]
+[EventDate "1936.07.05"]
+[Round "2"]
+[Result "0-1"]
+[White "Karel Treybal"]
+[Black "Jan Foltys"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "18"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.dxc5 Nc6 5.Nf3 Bxc5 6.Bd3 f6 7.O-O fxe5 8.Nxe5 Nxe5 9.Qh5+ Nf7 0-1

@@ -1,0 +1,14 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1930.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "M Warren"]
+[Black "Jan Selman"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "10"]
+
+1.e4 c5 2.Ne2 Nf6 3.e5 Nd5 4.c4 Nb4 5.Nbc3 Nd3# 0-1

@@ -1,0 +1,14 @@
+[Event "Barcelona"]
+[Site "Barcelona"]
+[Date "1935.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Esteban Canal"]
+[ECO "C20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "18"]
+
+1.e4 e5 2.Ne2 d5 3.exd5 Qxd5 4.Nbc3 Qa5 5.d4 Nc6 6.d5 Nb4 7.Bd2 Bf5 8.Rc1 Bxc2 9.Rxc2 Nd3# 0-1

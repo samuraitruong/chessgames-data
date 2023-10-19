@@ -1,0 +1,14 @@
+[Event "Simul"]
+[Site "Austin, TX USA"]
+[Date "1941.01.25"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Israel Albert Horowitz"]
+[Black "Charles W Hrissikopoulos"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. c3 Nc6 5. cxd4 Bb4+ 6. Nc3 exd4 7. Nxd4 Nf6 8. Nxc6 bxc6 9. Bd3 d5 10. exd5 Nxd5 11. O-O Nxc3 12. bxc3 Bxc3 13. Ba3 Bxa1 14. Qe2+ Be6 15. Rxa1 Qa5 16. Qb2 O-O-O 17. Rb1 Kd7 18. Be4 f6 19. Bxc6+ Kxc6 20. Qb7# 1-0

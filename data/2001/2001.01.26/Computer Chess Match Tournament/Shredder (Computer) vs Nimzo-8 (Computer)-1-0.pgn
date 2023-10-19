@@ -1,0 +1,14 @@
+[Event "Computer Chess Match Tournament"]
+[Site "Cadaques ESP"]
+[Date "2001.01.26"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Shredder (Computer)"]
+[Black "Nimzo-8 (Computer)"]
+[ECO "E81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bd3 e5 7. Nge2 exd4 8. Nxd4 Nh5 9. Nde2 Qh4+ 10. g3 Bxc3+ 11. Kf2 Bd4+ 12. Nxd4 Qf6 13. Be3 Bd7 14. Qd2 Re8 15. Rhd1 c5 16. Nb3 Na6 17. Be2 Rxe4 18. Bg5 Rxe2+ 19. Kxe2 Qe6+ 20. Kf2 Qxc4 21. Qxd6 Ba4 22. Qe7 h6 23. Bxh6 Bxb3 24. axb3 Qxb3 25. Rd2 Rc8 26. g4 Ng7 27. Rad1 Nc7 28. Rd8+ Rxd8 29. Rxd8+ Nge8 30. Qf8+ Kh7 31. Bg7 Qe3+ 32. Kxe3 Nd5+ 33. Kf2 g5 34. Qh8+ Kg6 35. Qh6# 1-0

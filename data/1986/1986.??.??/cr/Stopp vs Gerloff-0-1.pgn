@@ -1,0 +1,14 @@
+[Event "cr"]
+[Site "corr"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Stopp"]
+[Black "Gerloff"]
+[ECO "D09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "14"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.g3 Be6 6.Nbd2 Bb4 7.Qc2 f6 0-1

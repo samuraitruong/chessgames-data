@@ -1,0 +1,14 @@
+[Event "Halle"]
+[Site "Halle GDR"]
+[Date "1949.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Kurt Grossner"]
+[Black "Edmund Budrich"]
+[ECO "C03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "14"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nc6 4.Ne2 e5 5.exd5 Qxd5 6.c4 Nb4 7.cxd5 Nd3# 0-1

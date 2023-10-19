@@ -1,0 +1,14 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Loek Mostertman"]
+[Black "Ad Kleijberg"]
+[ECO "A51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Qc2 Bb4+ 5.Nc3 d5 6.exd6 Bf5 7.f3 Bxc3+ 8.bxc3 Qh4+ 9.g3 Nxg3 10.Qa4+ Bd7 0-1

@@ -1,0 +1,14 @@
+[Event "Computer Chess Match Tournament"]
+[Site "Cadaques ESP"]
+[Date "2001.01.23"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Junior (Computer)"]
+[Black "Gambit Tiger (Computer)"]
+[ECO "E34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "149"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. Nf3 Qf5 7. Qd1 e5 8. dxe5 Ne4 9. Bd2 Nc6 10. e3 Nxd2 11. Qxd2 Nxe5 12. Qd4 Nxf3+ 13. gxf3 Bxc3+ 14. Qxc3 O-O 15. f4 Be6 16. Rg1 f6 17. Bd3 Qh5 18. Qxc7 Rf7 19. Qd6 Qa5+ 20. b4 Qb6 21. Qxb6 axb6 22. a3 Rd7 23. Ke2 Rad8 24. Rad1 Bb3 25. Rd2 Kf8 26. Rb1 Ba4 27. Rbb2 g6 28. f5 Rxd3 29. Rxd3 Bb5 30. Rb3 Ke7 31. Kd2 Bxd3 32. Rxd3 Rg8 33. Rd5 Ra8 34. Rd4 gxf5 35. Rh4 Ke6 36. Rxh7 Ra7 37. Ke2 f4 38. Kf3 Kf5 39. h4 fxe3 40. fxe3 Kg6 41. Re7 Kh5 42. Kf4 Rxa3 43. Kf5 Kxh4 44. Rxb7 Kg3 45. Rxb6 Rxe3 46. Rxf6 Rb3 47. Rb6 Kf3 48. b5 Ke3 49. Ke5 Kd3 50. Kd5 Rb4 51. Rb8 Rd4+ 52. Kc6 Rc4+ 53. Kb7 Kd4 54. b6 Kd5 55. Rd8+ Ke6 56. Ka6 Ke7 57. Rh8 Ra4+ 58. Kb5 Ra1 59. b7 Rb1+ 60. Kc4 Rc1+ 61. Kd3 Rb1 62. b8=Q Rxb8 63. Rxb8 Kd6 64. Kd4 Ke6 65. Rb5 Kd6 66. Re5 Kc6 67. Rd5 Kb6 68. Rc5 Ka6 69. Kc4 Kb6 70. Kb4 Ka6 71. Rb5 Ka7 72. Ka5 Ka8 73. Kb6 Kb8 74. Rc5 Ka8 75. Rc8# 1-0

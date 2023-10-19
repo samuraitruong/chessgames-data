@@ -1,0 +1,16 @@
+[Event "Prague"]
+[Site "Prague CZE"]
+[Date "1943.04.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Josef Lokvenc"]
+[Black "Ludek Pachman"]
+[ECO "E33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "15"]
+[Source "Lachaga tournament book, p.71
+// Winter ’Chess Explorations’ (1996) p.50"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 Nc6 5.Nf3 d6 6.e3 e5 7.d5 Ne7 8.Qa4+ 1-0

@@ -1,0 +1,14 @@
+[Event "?"]
+[Site "?"]
+[Date "1941.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Livingstone"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.d4 d5 2.c4 e5 3.e3 exd4 4.exd4 Nf6 5.Bg5 Be6 6.cxd5 Bxd5 7.Nc3 Nc6 8.Nxd5 Qxd5 9.Bxf6 Bb4+ 10.Ke2 Qe4# 0-1

@@ -1,0 +1,14 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1928.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "A Miller"]
+[Black "Irving Chernev"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "18"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Bg5 Be7 6.Nf5 d5 7.exd5 Ne5 8.Nxe7 Qxe7 9.Bxf6 Nf3# 0-1

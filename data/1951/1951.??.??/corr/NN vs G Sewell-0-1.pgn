@@ -1,0 +1,14 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1951.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "G Sewell"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Re1 Ng4 6. d4 exd4 7. Nxd4 Qh4 8. Bxc6 bxc6 9. Be3 Qxh2+ 10. Kf1 Ba6+ 11. Re2 Qh1# 0-1

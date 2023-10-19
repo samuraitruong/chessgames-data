@@ -1,0 +1,14 @@
+[Event "?"]
+[Site "?"]
+[Date "1909.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Schulz"]
+[Black "Lehnert"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "15"]
+
+1.e4 e5 2.d4 exd4 3.Nf3 Nc6 4.Bc4 Be7 5.c3 dxc3 6.Qd5 d6 7.Qxf7+ Kd7 8.Be6# 1-0

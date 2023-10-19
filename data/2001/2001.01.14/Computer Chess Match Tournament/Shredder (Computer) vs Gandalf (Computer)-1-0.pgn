@@ -1,0 +1,14 @@
+[Event "Computer Chess Match Tournament"]
+[Site "Cadaques ESP"]
+[Date "2001.01.14"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Shredder (Computer)"]
+[Black "Gandalf (Computer)"]
+[ECO "C24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1. e4 e5 2. Bc4 Nf6 3. Qe2 Nc6 4. Nf3 Be7 5. c3 O-O 6. O-O d5 7. exd5 Nxd5 8. d3 Bg4 9. Re1 Bh5 10. Nbd2 Nf4 11. Qf1 Qd6 12. Bb5 Bf6 13. Nc4 Qxd3 14. Ncxe5 Qxf1+ 15. Kxf1 Nxe5 16. Nxe5 Nd5 17. Nd7 Rfd8 18. Nxf6+ Nxf6 19. Bc4 Rd7 20. Bg5 Rad8 21. f3 Bg6 22. Kf2 a6 23. Bb3 c5 24. Rad1 Bd3 25. a4 c4 26. Ba2 Rd5 27. Bxf6 gxf6 28. a5 Kf8 29. b4 f5 30. Kg3 R8d6 31. Kf4 Rh6 32. h3 Rdd6 33. g3 Rde6 34. h4 Kg7 35. Bb1 Rxe1 36. Rxe1 Rd6 37. Ba2 Kf8 38. Re5 Rc6 39. Ke3 Rg6 40. Rc5 Rxg3 41. Bxc4 Be4 42. Be2 Rh3 43. Rc7 Ke8 44. c4 h6 45. b5 axb5 46. cxb5 Bd5 47. b6 Kd8 48. Kd4 Bxf3 49. Bxf3 Rxf3 50. Rxb7 Ra3 51. Ra7 Kc8 52. a6 Kb8 53. Rb7+ 1-0

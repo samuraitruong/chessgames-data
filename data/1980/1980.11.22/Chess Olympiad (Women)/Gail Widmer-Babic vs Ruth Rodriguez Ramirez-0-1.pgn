@@ -1,0 +1,14 @@
+[Event "Chess Olympiad (Women)"]
+[Site "Valletta MLT"]
+[Date "1980.11.22"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Gail Widmer-Babic"]
+[Black "Ruth Rodriguez Ramirez"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.d5 exd5 5.Nxd5 Nf6 6.Bc4 Be6 7.Nxf6+ Qxf6 8.Bd5 Bc5 9.Nh3 Bxh3 10.gxh3 Qxf2# 0-1

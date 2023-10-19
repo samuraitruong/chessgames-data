@@ -1,0 +1,14 @@
+[Event "Computer Chess Match Tournament"]
+[Site "Cadaques ESP"]
+[Date "2001.01.28"]
+[EventDate "?"]
+[Round "17"]
+[Result "0-1"]
+[White "Gandalf (Computer)"]
+[Black "Junior (Computer)"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8. f3 h6 9. Bh4 d5 10. e3 Nbd7 11. Nh3 Rc8 12. c5 bxc5 13. dxc5 c6 14. Nf2 e5 15. Be2 Qe7 16. Ng4 Rfe8 17. O-O Qxc5 18. Qxc5 Nxc5 19. Nxf6+ gxf6 20. Bxf6 Re6 21. Bh4 a5 22. b4 Ba6 23. Bxa6 Nxa6 24. bxa5 d4 25. Rfd1 c5 26. Rab1 Nc7 27. exd4 exd4 28. Rbc1 Nb5 29. Be1 Rec6 30. a4 Nd6 31. Bd2 h5 32. Bf4 Kg7 33. Re1 h4 34. Kf2 Nb7 35. Re5 Nxa5 36. Rg5+ Kf6 37. Rh5 Nb3 38. Rc4 Ke6 39. Rc2 Kd7 40. Rh7 c4 41. Rxf7+ Ke6 42. Rh7 c3 43. Re2+ Kd5 44. Rxh4 Ra6 45. g4 Rxa4 46. Rh7 Nc5 47. Rh5+ Kc4 48. Kg3 Ra1 49. Rg2 d3 50. Re5 Rd8 51. Re3 Rd4 52. Be5 Nb3 53. Rxd3 Rxd3 54. g5 Nd2 55. g6 c2 56. g7 Rd8 57. Bb2 0-1

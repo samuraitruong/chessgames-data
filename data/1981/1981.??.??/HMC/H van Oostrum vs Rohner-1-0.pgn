@@ -1,0 +1,14 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "H van Oostrum"]
+[Black "Rohner"]
+[ECO "C27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "19"]
+
+1.e4 e5 2.Bc4 Nf6 3.Nf3 Nxe4 4.Nc3 Nxc3 5.dxc3 e4 6.Ng5 Bc5 7.Bxf7+ Kf8 8.Ne6+ Kxf7 9.Nxd8+ Rxd8 10.Qd5+ 1-0

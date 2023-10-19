@@ -1,0 +1,14 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "M Vodiska"]
+[Black "Fejes"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "13"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Qe2 g6 7.Nd6# 1-0
