@@ -1,0 +1,14 @@
+[Event "COQ Open"]
+[Site "Quebec CAN"]
+[Date "2001.07.22"]
+[EventDate "2001.07.21"]
+[Round "2"]
+[Result "1-0"]
+[White "Dmitri Feoktistov"]
+[Black "Maurice Poulin"]
+[ECO "A42"]
+[WhiteElo "2009"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nc6 5. Be3 e5 6. Nge2 Nh6 7. f3 f5 8. g3 fxe4 9. Nxe4 Bf5 10. Bg5 Qd7 11. Bxh6 Bxe4 12. Bxg7 Bxf3 13. Bxh8 Nxd4 14. Qd3 Bxh1 15. Nxd4 Kf7 16. Bxe5 dxe5 17. Nb5 Qe7 18. O-O-O 1-0

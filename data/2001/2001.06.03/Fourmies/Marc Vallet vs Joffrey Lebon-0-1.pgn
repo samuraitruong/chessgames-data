@@ -1,0 +1,14 @@
+[Event "Fourmies"]
+[Site "Fourmies FRA"]
+[Date "2001.06.03"]
+[EventDate "2001.06.02"]
+[Round "5"]
+[Result "0-1"]
+[White "Marc Vallet"]
+[Black "Joffrey Lebon"]
+[ECO "C80"]
+[WhiteElo "2257"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 exd4 7. Re1 d5 8. Nxd4 Bd6 9. Nxc6 Bxh2+ 10. Kf1 Qh4 11. Rxe4+ dxe4 12. Ne5+ b5 13. Qd5 Bxe5 14. Qxe5+ Be6 15. Bb3 Qh1+ 16. Ke2 O-O 17. Nd2 Bg4+ 18. Ke3 Qh6+ 19. Kd4 Qb6+ 20. Qc5 Rad8+ 21. Bd5 Rxd5+ 0-1

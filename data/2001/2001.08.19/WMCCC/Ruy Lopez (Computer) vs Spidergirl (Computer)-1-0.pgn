@@ -1,0 +1,14 @@
+[Event "WMCCC"]
+[Site "Maastricht NED"]
+[Date "2001.08.19"]
+[EventDate "2001.08.19"]
+[Round "1"]
+[Result "1-0"]
+[White "Ruy Lopez (Computer)"]
+[Black "Spidergirl (Computer)"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Be2 cxd4 7. cxd4 Bb5 8. Bxb5+ Qxb5 9. Bd2 Qxb2 10. Nc3 Qb6 11. Rb1 Qc7 12. Qb3 b6 13. Qa4+ Nc6 14. O-O Rc8 15. Nb5 Qb7 16. Bb4 a6 17. Bxf8 axb5 18. Qa3 b4 19. Bxb4 Ra8 20. Qb3 Qa6 21. Rfc1 Nge7 22. Bxe7 Nxe7 23. Qxb6 O-O 24. Qxa6 Rxa6 25. Rc2 Ra4 26. g4 Ra3 27. Kg2 Ng6 28. Rb7 Nf4+ 29. Kg3 Nd3 30. Rb3 Rxb3 31. axb3 f6 32. Rc3 fxe5 33. Rxd3 e4 34. Re3 exf3 35. Rxe6 Rb8 36. Re3 Rb4 37. Rd3 Kf7 38. Kxf3 Rb6 39. h4 Kf6 40. Rc3 Rb4 41. Ke3 g6 42. Kd3 Ke7 43. Rc7+ Kd6 44. Rxh7 Rxb3+ 45. Ke2 Ke6 46. h5 gxh5 47. Rxh5 Rb2+ 48. Ke3 Rb3+ 49. Kf4 Rb2 50. f3 Re2 51. Re5+ 1-0

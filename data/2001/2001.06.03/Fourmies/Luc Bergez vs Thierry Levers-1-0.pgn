@@ -1,0 +1,14 @@
+[Event "Fourmies"]
+[Site "Fourmies FRA"]
+[Date "2001.06.03"]
+[EventDate "2001.06.02"]
+[Round "3"]
+[Result "1-0"]
+[White "Luc Bergez"]
+[Black "Thierry Levers"]
+[ECO "B07"]
+[WhiteElo "2412"]
+[BlackElo "2010"]
+[PlyCount "41"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. e5 dxe5 6. dxe5 Qxd1+ 7. Rxd1 Ng4 8. h3 h6 9. Bf4 c6 10. hxg4 Bxg4 11. f3 Bf5 12. Bd3 Nd7 13. Bxf5 gxf5 14. Nge2 O-O-O 15. Rh5 e6 16. g4 fxg4 17. fxg4 Rdg8 18. Kf2 Bf8 19. Kf3 Rg6 20. Ne4 Rhg8 21. Rxd7 1-0
