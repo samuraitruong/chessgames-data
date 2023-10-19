@@ -1,0 +1,14 @@
+[Event "Clock simul, 2b"]
+[Site "Jewish CC, Breslau GER"]
+[Date "1936.12.08"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Garnik"]
+[Black "Jacques Mieses"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 dxc4 7.d5 Ne5 8.Qd4 Nd3+ 9.Bxd3 cxd3 10.Nf3 e6 11.Bxf6 Qxf6 12.Qxd3 Bd6 13.Qb5+ Bd7 14.Qxb7 Rb8 15.Qxa7 Rxb2 16.Ne4 Re2+ 17.Kxe2 Bb5+ 18.Kd1 Qxa1+ 19.Kc2 Bc5 20.Qb8+ 1-0

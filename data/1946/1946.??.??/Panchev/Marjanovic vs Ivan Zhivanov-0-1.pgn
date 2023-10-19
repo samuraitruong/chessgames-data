@@ -1,0 +1,14 @@
+[Event "Panchev"]
+[Site "Panchev"]
+[Date "1946.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Marjanovic"]
+[Black "Ivan Zhivanov"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "12"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 g6 4.d3 Bg7 5.Be3 Nd4 6.g3 Nf3# 0-1

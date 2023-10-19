@@ -1,0 +1,14 @@
+[Event "Vienna"]
+[Site "Vienna AUH"]
+[Date "1898.07.12"]
+[EventDate "1898.??.??"]
+[Round "29"]
+[Result "0-1"]
+[White "David Graham Baird"]
+[Black "Paul Lipke"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nxc6 bxc6 7.O-O d5 8.Nc3 Be7 9.b3 O-O 10.e5 Nd7 11.Re1 f5 12.exf6 Nxf6 13.h3 Bd6 14.Bb2 e5 15.Na4 e4 16.Bf1 Ng4 17.Re2 Rxf2 18.hxg4 Qh4 19.Qd4 Bh2+ 20.Kh1 Bg3+ 21.Kg1 Qh2# 0-1

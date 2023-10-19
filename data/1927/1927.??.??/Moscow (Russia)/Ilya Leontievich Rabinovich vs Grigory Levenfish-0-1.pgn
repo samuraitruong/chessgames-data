@@ -1,0 +1,14 @@
+[Event "Moscow (Russia)"]
+[Site "Moscow URS"]
+[Date "1927.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ilya Leontievich Rabinovich"]
+[Black "Grigory Levenfish"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1.e4 Nf6 2.e5 Nd5 3.Nf3 d6 4.Be2 Nf4 5.Bf1 dxe5 6.Nxe5 Qd5 7.Nf3 Qe4+ 8.Be2 Nxg2+ 9.Kf1 Bh3 10.d3 Nh4 11.Ke1 Nxf3# 0-1

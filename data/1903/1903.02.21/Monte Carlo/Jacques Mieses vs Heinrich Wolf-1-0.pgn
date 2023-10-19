@@ -1,0 +1,14 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo MNC"]
+[Date "1903.02.21"]
+[EventDate "1903.02.10"]
+[Round "9"]
+[Result "1-0"]
+[White "Jacques Mieses"]
+[Black "Heinrich Wolf"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 e5 2.d4 exd4 3.c3 d5 4.exd5 Qxd5 5.cxd4 Nc6 6.Nf3 Bg4 7.Be2 O-O-O 8.Nc3 Qa5 9.Be3 Bc5 10.O-O Nf6 11.Qb3 Nxd4 12.Bxd4 Bxd4 13.Nxd4 Rxd4 14.Qxf7 Qg5 15.Bxg4+ Qxg4 16.Rac1 Rd7 17.Qb3 Nh5 18.h3 Qg6 19.Na4 Qd3 20.Rc3 Qd5 21.Qa3 Nf4 22.Nb6+ 1-0
