@@ -1,0 +1,14 @@
+[Event "Intel World Chess Express Challenge"]
+[Site "Munich GER"]
+[Date "1994.05.20"]
+[EventDate "1994.05.20"]
+[Round "?"]
+[Result "0-1"]
+[White "Fritz (Computer)"]
+[Black "Gerald Hertneck"]
+[ECO "D19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O O-O 9.Qe2 Bg6 10.Ne5 Nbd7 11.Nxg6 hxg6 12.Rd1 Qa5 13.Bd2 e5 14.Nb1 exd4 15.Bxb4 Qxb4 16.Rxd4 Qe7 17.Nc3 Rfd8 18.Rad1 Ne5 19.b4 Nxc4 20.Qxc4 Rxd4 21.Rxd4 Rd8 22.Qc5 Qxc5 23.Rxd8+ Qf8 24.Rxf8+ Kxf8 25.e4 Ke7 26.f4 Ng4 27.h3 Ne3 28.g4 Nc2 29.b5 Kd6 30.e5+ Kc5 31.Ne4+ Kb4 32.bxc6 bxc6 33.Kf2 Kxa4 34.Ng5 a5 35.Nxf7 Nd4 36.Nd8 Kb4 37.e6 Nxe6 38.Nxe6 a4 39.Nd4 a3 40.Nc2+ Kb3 41.Nxa3 Kxa3 42.f5 c5 43.fxg6 c4 44.h4 c3 45.h5 c2 46.h6 c1=Q 47.h7 Qf4+ 48.Ke1 Qh2 49.Kd1 Kb3 50.Ke1 Kc3 51.h8=R Qxh8 52.Ke2 Qh3 53.Kf2 Kd3 54.g5 Qg4 55.Kf1 Ke3 56.Ke1 Qg1+ 0-1

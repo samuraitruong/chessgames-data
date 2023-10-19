@@ -1,0 +1,14 @@
+[Event "WCCC 2006"]
+[Site "Turin"]
+[Date "2006.05.30"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "IsiChess (Computer)"]
+[Black "ETABETA (Computer)"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+ 7. Bd2 a5 8. O-O O-O 9. Qc2 Bxd2 10. Nbxd2 Nc6 11. a3 Ne7 12. e4 Re8 13. e5 Nh5 14. Ng5 h6 15. Qh7+ Kf8 16. Qh8+ Ng8 17. Nh7+ Ke7 18. Bxb7 Rb8 19. Bf3 g6 20. g4 Nf4 21. Qf6+ Nxf6 22. exf6+ Kd6 23. c5+ bxc5 24. Nc4# 1-0

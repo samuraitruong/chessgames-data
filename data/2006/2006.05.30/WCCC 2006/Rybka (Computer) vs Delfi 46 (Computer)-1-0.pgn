@@ -1,0 +1,14 @@
+[Event "WCCC 2006"]
+[Site "Turin"]
+[Date "2006.05.30"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Rybka (Computer)"]
+[Black "Delfi 46 (Computer)"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Bc5 9.Qd2 O-O 10.O-O-O a6 11.Nb3 Bxe3 12.Qxe3 Qb6 13.Qxb6 Nxb6 14.a4 a5 15.Bb5 Na7 16.Nd4 Bd7 17.b3 Rac8 18.Kb2 Nc6 19.Nce2 Nxd4 20.Nxd4 Bxb5 21.Nxb5 Rc6 22.Nd4 Rcc8 23.Rhe1 Nd7 24.Nb5 Nc5 25.f5 Rc6 26.g4 Rb6 27.Rd4 Ra8 28.Re3 Rc6 29.Nd6 b6 30.Rd1 Rf8 31.Rd2 Nd7 32.Nb5 Nc5 33.h4 Ne4 34.Rd4 Nc5 35.Re1 Re8 36.Nd6 Rd8 37.Re3 Rc7 38.g5 exf5 39.Nxf5 Ne6 40.Rd1 d4 41.Red3 Rd5 42.Nxd4 Nc5 43.Re3 Rcd7 44.c3 Re7 45.Kc2 Rexe5 46.Rxe5 Rxe5 47.b4 axb4 48.cxb4 Nd7 49.Nb5 Nf8 50.Rd6 Re4 51.Rxb6 Rxb4 52.a5 Rc4+ 53.Kb3 Rc8 54.Rd6 h6 55.a6 hxg5 56.hxg5 Ne6 57.a7 Kh7 58.Rb6 Ra8 59.Rb8 1-0

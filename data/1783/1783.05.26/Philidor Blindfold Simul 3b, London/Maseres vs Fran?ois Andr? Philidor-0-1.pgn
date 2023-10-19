@@ -1,0 +1,16 @@
+[Event "Philidor Blindfold Simul 3b, London"]
+[Site "London ENG"]
+[Date "1783.05.26"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Maseres"]
+[Black "Fran?ois Andr? Philidor"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w Kkq - 0 1"]
+
+1.e4 Nh6 2.d4 Nf7 3.Bd3 e6 4.Nf3 d5 5.e5 c5 6.c3 Nc6 7.Be3 b6 8.Bb5 Bd7 9.a4 a6 10.Bd3 g6 11.O-O Qc7 12.Qe2 c4 13.Bc2 Rb8 14.Na3 Be7 15.h3 O-O 16.Nh2 b5 17.axb5 axb5 18.Qg4 Kg7 19.f4 Nh6 20.Qg3 Nf5 21.Bxf5 Rxf5 22.Qf3 b4 23.cxb4 Nxb4 24.g4 Rff8 25.Qg2 Nd3 26.Bc1 Qb6 27.Nc2 Nxc1 28.Raxc1 Qxb2 29.Ne3 Qxg2+ 30.Kxg2 Rb3 31.Rf3 Rd3 32.Rd1 Ba4 33.Rxd3 cxd3 34.Nhf1 Bb4 35.Rf2 Bc3 36.Ra2 Bb3 37.Rf2 Bxd4 38.Rd2 Rxf4 39.Rxd3 Bc4 40.Nxc4 dxc4 41.Rf3 Rxf3 42.Kxf3 Bxe5 43.Ke4 Bf6 44.Ne3 c3 45.Kd3 Kf7 46.Nd1 Ke7 47.Nxc3 Bxc3 48.Kxc3 Kd6 49.Kd4 e5+ 50.Ke4 Ke6 51.h4 h6 52.Ke3 Kd5 53.Kd3 e4+ 54.Ke3 Ke5 55.Ke2 Kf4 56.Kf2 Kxg4 57.Ke3 Kxh4 58.Kxe4 Kg5 0-1

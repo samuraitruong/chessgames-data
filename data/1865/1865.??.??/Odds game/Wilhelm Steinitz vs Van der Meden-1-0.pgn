@@ -1,0 +1,16 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1865.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Van der Meden"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O gxf3 6.Qxf3 Qf6 7.e5 Qxe5 8.Bxf7+ Kxf7 9.d4 Qxd4+ 10.Be3 Qf6 11.Qh5+ Qg6 12.Rxf4+ Nf6 13.Rxf6+ Kxf6 14.Bd4+ Kf7 15. Rf1+ Kg8 16.Qe5 Bg7 17.Qd5+ Qe6 18.Qg5 Qh6 19.Qd8+ Bf8 20.Qe8 1-0

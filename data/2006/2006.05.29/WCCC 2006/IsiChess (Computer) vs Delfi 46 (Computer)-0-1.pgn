@@ -1,0 +1,14 @@
+[Event "WCCC 2006"]
+[Site "Turin"]
+[Date "2006.05.29"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "IsiChess (Computer)"]
+[Black "Delfi 46 (Computer)"]
+[ECO "D57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "154"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 h6 6.Bh4 O-O 7.e3 b6 8.cxd5 exd5 9.Bd3 Bb7 10.O-O Nbd7 11.Rc1 Ne4 12.Bxe7 Qxe7 13.Nxe4 dxe4 14.Rxc7 Bc8 15.Bb5 Qd8 16.Rxc8 Rxc8 17.Nd2 Nf6 18.Qa4 Rc7 19.Nc4 Qd5 20.Ne5 Rfc8 21.Ba6 Re8 22.Be2 Rb8 23.f3 b5 24.Qa3 Rb6 25.Re1 exf3 26.Bxf3 Qd6 27.Qd3 Qb4 28.Re2 Rd6 29.Qf5 a6 30.Qb1 Nd7 31.Nd3 Qc4 32.b3 Qc3 33.b4 Rc4 34.g3 Nf6 35.Kg2 Nd5 36.Bxd5 Rxd5 37.Qd1 Rd6 38.h3 Rc7 39.Kh2 Re6 40.Kg1 Rce7 41.Kf2 Qc6 42.Qe1 Rd6 43.Nc5 Qd5 44.Nb3 Rf6+ 45.Kg1 Qf3 46.Nd2 Qf5 47.Kg2 Qd5+ 48.Kg1 Rc6 49.Nb3 Qf3 50.Nd2 Qh5 51.Kg2 Rc2 52.e4 Rxa2 53.Qf2 Ra4 54.d5 Rxb4 55.d6 Re8 56.Nf3 Rc4 57.e5 Qf5 58.Rd2 Rc3 59.Qe2 Qd7 60.Kh2 a5 61.Ne1 b4 62.Nd3 b3 63.Nf4 a4 64.Nd5 Rc1 65.Qe3 Qb5 66.Ne7+ Kh8 67.d7 Rd8 68.e6 b2 69.Ng6+ Kh7 70.exf7 Rh1+ 71.Kxh1 b1=Q+ 72.Kh2 Qxg6 73.Qe8 Qf6 74.Qg8+ Rxg8 75.fxg8=Q+ Kxg8 76.d8=Q+ Qxd8 77.Rxd8+ Kf7 0-1
