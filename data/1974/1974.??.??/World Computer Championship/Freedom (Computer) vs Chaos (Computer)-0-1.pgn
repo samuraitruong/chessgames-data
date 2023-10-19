@@ -1,0 +1,14 @@
+[Event "World Computer Championship"]
+[Site "Stockholm SWE"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Freedom (Computer)"]
+[Black "Chaos (Computer)"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.d4 Nf6 2.c4 e6 3.c5 d6 4.cxd6 Qxd6 5.Nc3 Nc6 6.e3 Bd7 7.Bb5 Be7 8.Nh3 O-O 9.Kf1 e5 10.Bd2 exd4 11.exd4 Bxh3 12.gxh3 Nxd4 13.Bc4 Qc6 14.Bd5 Nxd5 15.Nxd5 Qxd5 16.Rg1 Nf3 17.Rxg7+ Kh8 18.Ke2 Qe4+ 19.Kf1 Kxg7 20.Bc3+ f6 21.Kg2 Nh4+ 22.Kf1 Qg2+ 23.Ke2 Qe4+ 24.Kf1 Qh1+ 25.Ke2 Qf3+ 26.Kf1 Qxd1+ 27.Rxd1 Bd6 28.Rd5 Bxh2 0-1

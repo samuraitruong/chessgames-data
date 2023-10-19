@@ -1,0 +1,14 @@
+[Event "World Computer Championship"]
+[Site "Toronto CAN"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Chaos (Computer)"]
+[Black "Kaissa (Computer)"]
+[ECO "E75"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.d4 Nf6 2.c4 c5 3.d5 d6 4.Nc3 g6 5.e4 Bg7 6.Be2 O-O 7.Bg5 h6 8.Be3 Qb6 9.Qd2 Ng4 10.Bxg4 Bxg4 11.f3 Bd7 12.Bxh6 Bxh6 13.Qxh6 Qxb2 14.Rb1 Qxc3+ 15.Qd2 Qxd2+ 16.Kxd2 Bc8 17.Ne2 Kg7 18.h4 Rh8 19.Nf4 Nd7 20.h5 g5 21.Nd3 Rb8 22.f4 Nf6 23.e5 Ne4+ 24.Ke3 Ng3 25.Rh2 gxf4+ 26.Kxf4 Nxh5+ 27.Kf3 Bf5 28.Rd1 Bxd3 29.Rxd3 dxe5 30.Rh3 Nf6 31.Rg3+ Kf8 32.Re3 b5 33.Rxe5 bxc4 34.Rf5 c3 35.d6 exd6 36.Ke3 Re8+ 37.Kd3 c4+ 38.Kxc4 Rc8+ 39.Kb3 c2+ 40.Rxf6 c1=Q 41.Rgf3 Rb8+ 42.Ka4 Qc4+ 43.Ka5 Qb5# 0-1

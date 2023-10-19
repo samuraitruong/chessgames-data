@@ -1,0 +1,14 @@
+[Event "World Computer Championship"]
+[Site "Toronto CAN"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Ostrich (Computer)"]
+[Black "Black Knight (Computer)"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bc4 Nf6 4.Nc3 Nxe4 5.Bxf7+ Kxf7 6.Nxe4 d5 7.Nxc5 e5 8.Nb3 Bf5 9.O-O Be7 10.d3 d4 11.Re1 Qc7 12.Qe2 Bd6 13.Bd2 Qb6 14.c3 Rhe8 15.cxd4 exd4 1/2-1/2

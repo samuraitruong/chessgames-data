@@ -1,0 +1,14 @@
+[Event "World Computer Championship"]
+[Site "Stockholm SWE"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Ostrich (Computer)"]
+[Black "Beal (Computer)"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.Nf3 Nf6 2.d4 Nc6 3.d5 Nb4 4.Nc3 d6 5.a3 Na6 6.e4 e5 7.Bg5 Nc5 8.b4 Ncd7 9.Bb5 Be7 10.Bxf6 gxf6 11.O-O O-O 12.Qd3 Kg7 13.Nh4 Re8 14.f4 c5 15.Nf5+ Kg6 16.Qg3+ Kh5 17.Be2# 1-0
