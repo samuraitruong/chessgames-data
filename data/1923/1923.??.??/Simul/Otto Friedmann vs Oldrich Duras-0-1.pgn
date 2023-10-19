@@ -1,0 +1,14 @@
+[Event "Simul"]
+[Site "Prague CSR"]
+[Date "1923.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Otto Friedmann"]
+[Black "Oldrich Duras"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 Bg4 9.d4 Qc8 10.a4 O-O 11.Be3 Na5 12.axb5 axb5 13.Nbd2 c5 14.dxe5 dxe5 15.Nf1 c4 16.Bc2 Rd8 17.Qb1 Bxf3 18.gxf3 Nh5 19.Bb6 Nf4 20.Bxd8 Qh3 21.Ne3 Ra6 0-1

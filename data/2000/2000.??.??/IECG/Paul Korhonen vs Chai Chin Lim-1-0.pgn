@@ -1,0 +1,14 @@
+[Event "IECG"]
+[Site "QN"]
+[Date "2000.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Paul Korhonen"]
+[Black "Chai Chin Lim"]
+[ECO "C40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "21"]
+
+1.e4 e5 2.Nf3 f6 3.Nxe5 fxe5 4.Qh5+ Ke7 5.Qxe5+ Kf7 6.Bc4+ d5 7.Bxd5+ Kg6 8.Qg3+ Kf6 9.Qf4+ Ke7 10.Qe5+ Kd7 11.Qe6# 1-0

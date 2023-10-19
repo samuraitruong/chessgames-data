@@ -1,0 +1,14 @@
+[Event "EM/M/GT/A004"]
+[Site "ICCF Email"]
+[Date "1997.05.12"]
+[EventDate "1997.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Mike Stroud"]
+[Black "Horacio Neto"]
+[ECO "A60"]
+[WhiteElo "2245"]
+[BlackElo "2455"]
+[PlyCount "42"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 c5 4.Nf3 cxd4 5.Nxd4 Bb4 6.g3 O-O 7.Bg2 d5 8.O-O Bxc3 9.bxc3 Qa5 10.Qb3 e5 11.Nc2 dxc4 12.Qxc4 Nc6 13.Bg5 Be6 14.Qh4 Nd5 15.Bxd5 Qxd5 16.Rfd1 Qb5 17.e4 f6 18.Bd2 Qe2 19.Ne3 Ne7 20.g4 Ng6 21.Qg3 Nf4 0-1

@@ -1,0 +1,14 @@
+[Event "Vienna"]
+[Site "Vienna AUH"]
+[Date "1873.08.05"]
+[EventDate "1873.07.21"]
+[Round "5.3"]
+[Result "0-1"]
+[White "Josef Heral"]
+[Black "Karl Pitschel"]
+[ECO "D50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Bb4 5.Qb3 Nc6 6.e3 Bxc3+ 7.bxc3 Ne7 8.Bxf6 gxf6 9.Nf3 O-O 10.Bd3 c6 11.g4 Kh8 12.h4 Rg8 13.g5 Nf5 14.Kd2 dxc4 15.Bxc4 Nd6 16.Bd3 b6 17.Qc2 f5 18.c4 c5 19.dxc5 bxc5 20.Qb2+ Rg7 21.h5 Nxc4+ 0-1

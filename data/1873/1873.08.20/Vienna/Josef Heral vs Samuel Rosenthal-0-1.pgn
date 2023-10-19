@@ -1,0 +1,14 @@
+[Event "Vienna"]
+[Site "Vienna AUH"]
+[Date "1873.08.20"]
+[EventDate "1873.07.21"]
+[Round "9.3"]
+[Result "0-1"]
+[White "Josef Heral"]
+[Black "Samuel Rosenthal"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.d5 Nf6 5.Bg5 Bb4+ 6.Bd2 Bxd2+ 7.Nxd2 O-O 8.Bxc4 c6 9.Qb3 b5 10.Bd3 cxd5 11.Ne2 dxe4 12.Nxe4 Bb7 13.Nxf6+ Qxf6 14.O-O a6 15.a4 Qc6 16.Ng3 Qxg2# 0-1

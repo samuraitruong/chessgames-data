@@ -1,0 +1,14 @@
+[Event "Liege"]
+[Site "Liege BEL"]
+[Date "1930.08.21"]
+[EventDate "1930.08.19"]
+[Round "3"]
+[Result "1-0"]
+[White "Isaias Pleci"]
+[Black "Victor Ivanovich Soultanbeieff"]
+[ECO "D51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Nbd7 5.e3 Be7 6.Qc2 O-O 7.Rd1 c6 8.Nf3 h6 9.Bh4 Re8 10.a3 a6 11.Bd3 b5 12.cxd5 cxd5 13.O-O Bb7 14.Rfe1 Rc8 15.Qb1 Nb6 16.Ne5 Bxa3 17.bxa3 Rxc3 18.Bh7+ Kf8 19.Qb4+ Qe7 20.Qxc3 g5 21.Bg6 gxh4 22.Bxf7 Ne4 23.Qd3 1-0
