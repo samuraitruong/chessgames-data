@@ -1,0 +1,14 @@
+[Event "6th International CSVN Tournament"]
+[Site "Leiden NED"]
+[Date "2006.05.05"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "IsiChess (Computer)"]
+[Black "Usurpator (Computer)"]
+[ECO "C03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Be7 4.Ngf3 c5 5.exd5 exd5 6.dxc5 Bxc5 7.Nb3 Bd6 8.Bd3 Bg4 9.h3 Bxf3 10.Qxf3 Ne7 11.O-O O-O 12.Qh5 g6 13.Qf3 Nbc6 14.Bh6 Re8 15.Rfe1 Be5 16.c3 Qd6 17.Rad1 Bh2+ 18.Kh1 Be5 19.Rd2 Rad8 20.Rde2 d4 21.cxd4 Bxd4 22.Bc4 Bf6 23.Re6 Qxe6 24.Rxe6 Bxb2 25.Rxc6 Nxc6 26.Bxf7+ Kh8 27.Bxe8 Rxe8 28.Qf7 Rb8 29.Nc5 Rd8 30.Ne6 Rd1+ 31.Kh2 1-0

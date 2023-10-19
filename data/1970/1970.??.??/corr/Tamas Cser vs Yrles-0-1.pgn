@@ -1,0 +1,14 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1970.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Tamas Cser"]
+[Black "Yrles"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.e4 c5 2.d4 cxd4 3.Bc4 e6 4.f4 b5 5.Bb3 Nc6 6.Nf3 Bc5 7.O-O Nf6 8.Qe1 Ng4 9.h3 Ne3 10.Bxe3 dxe3 11.Kh2 b4 12.c3 a5 13.a3 Ba6 14.axb4 axb4 15.Rh1 Bd3 16.Rxa8 Qxa8 17.cxb4 Nxb4 18.Nc3 Bxe4 0-1

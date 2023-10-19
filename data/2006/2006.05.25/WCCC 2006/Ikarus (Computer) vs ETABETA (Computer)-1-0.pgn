@@ -1,0 +1,14 @@
+[Event "WCCC 2006"]
+[Site "Turin"]
+[Date "2006.05.25"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Ikarus (Computer)"]
+[Black "ETABETA (Computer)"]
+[ECO "D48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1. c4 c6 2. Nf3 d5 3. d4 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. d5 e5 11. b3 Bd6 12. O-O O-O 13. a4 b4 14. Ne2 c4 15. bxc4 Nc5 16. Ng3 a5 17. Be3 Nxd3 18. Qxd3 Bg4 19. c5 Bc7 20. d6 Re8 21. Bg5 Bb8 22. h3 Bd7 23. Nh5 Re6 24. Bxf6 gxf6 25. Nd4 Re8 26. Qg3+ Bg4 27. Qxg4+ Kh8 28. Qg7# 1-0

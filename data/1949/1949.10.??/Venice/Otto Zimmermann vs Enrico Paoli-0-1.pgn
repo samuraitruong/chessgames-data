@@ -1,0 +1,14 @@
+[Event "Venice"]
+[Site "Venice ITA"]
+[Date "1949.10.??"]
+[EventDate "1949.09.28"]
+[Round "6"]
+[Result "0-1"]
+[White "Otto Zimmermann"]
+[Black "Enrico Paoli"]
+[ECO "D44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 dxc4 5.Bg5 Nf6 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5 hxg5 10.Bxg5 Nbd7 11.exf6 Qa5 12.Be2 Bb7 13.O-O O-O-O 14.Bf4 Nxf6 15.Bf3 Bd6 16.Bxd6 Rxd6 17.Ne2 Qc7 18.h3 e5 0-1

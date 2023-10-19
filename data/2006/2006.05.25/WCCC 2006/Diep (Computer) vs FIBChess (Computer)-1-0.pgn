@@ -1,0 +1,14 @@
+[Event "WCCC 2006"]
+[Site "Turin"]
+[Date "2006.05.25"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Diep (Computer)"]
+[Black "FIBChess (Computer)"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 d6 5. Nf3 dxe5 6. Qxd8+ Kxd8 7. Nxe5 Ke8 8. Be3 f6 9. Nc4 Nc6 10. Be2 Kf7 11. Bd3 e5 12. f4 Be6 13. fxe5 fxe5 14. O-O+ Kg8 15. b3 g6 16. Be4 Bxc4 17. bxc4 Kg7 18. Rab1 Na5 19. Bd5 g5 20. Rf7+ Kh6 21. Rbf1 c6 22. R1f6+ Kh5 23. Bf3+ g4 24. Rf5+ Kg6 25. Bxg4 Nxc4 26. R5f6# 1-0

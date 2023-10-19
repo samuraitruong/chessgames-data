@@ -1,0 +1,14 @@
+[Event "WCCC 2006"]
+[Site "Turin"]
+[Date "2006.05.26"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "ETABETA (Computer)"]
+[Black "Uragano3D (Computer)"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bxb5 axb5 12. Nxb5 Rb8 13. Nbc3 Rxb2 14. a3 Nd4 15. Ne3 Qa5 16. exf5 Qxc3+ 17. Qd2 Nxc2+ 18. Nxc2 Qxc2 19. Qc1 Qe2# 0-1

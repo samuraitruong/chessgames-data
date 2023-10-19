@@ -1,0 +1,14 @@
+[Event "Ostend"]
+[Site "Ostend BEL"]
+[Date "1906.06.12"]
+[EventDate "1906.06.05"]
+[Round "7"]
+[Result "1-0"]
+[White "Ossip Bernstein"]
+[Black "Georg Marco"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.dxc5 Nf6 6.Be3 Na6 7.Na4 Bd7 8.a3 Be7 9.b4 Nc7 10.Nf3 Ne4 11.Bd4 O-O 12.e3 a5 13.Nb6 Ra7 14.Nxd7 Qxd7 15.c6 Qxc6 16.Rc1 1-0

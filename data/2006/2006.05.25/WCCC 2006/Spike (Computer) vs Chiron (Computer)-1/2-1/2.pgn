@@ -1,0 +1,14 @@
+[Event "WCCC 2006"]
+[Site "Turin"]
+[Date "2006.05.25"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Spike (Computer)"]
+[Black "Chiron (Computer)"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "151"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Bxf6 gxf6 10.Nd5 f5 11.Bd3 Be6 12.O-O Bxd5 13.exd5 Ne7 14.c3 Bg7 15.Nc2 e4 16.Be2 O-O 17.a4 bxa4 18.Ne3 Qb6 19.Nc4 Qc5 20.Rxa4 Rfb8 21.Ra5 Rb5 22.Ra2 a5 23.Nxd6 Rbb8 24.Nc4 Nxd5 25.Re1 Bxc3 26.bxc3 Nxc3 27.Qc2 Nxa2 28.Qxa2 a4 29.Rd1 a3 30.Rd7 Rbd8 31.Rxd8+ Rxd8 32.Qxa3 Qxa3 33.Nxa3 f4 34.Nc4 Rb8 35.Bf1 Rb1 36.g3 f3 37.g4 Kg7 38.Ne3 Kg6 39.h4 Kf6 40.Kh2 Ke5 41.Kg3 f6 42.h5 h6 43.Bc4 Ra1 44.Bb5 Rb1 45.Bd7 Rc1 46.Bf5 Rg1+ 47.Kh2 Rc1 48.Bg6 Ra1 49.Kg3 Rc1 50.Be8 Rg1+ 51.Kh2 Rc1 52.Bb5 Kf4 53.Nd5+ Kxg4 54.Nxf6+ Kf5 55.Nd5 Rc5 56.Bc4 Ke5 57.Ne3 Kd4 58.Bf7 Rg5 59.Kh3 Kd3 60.Ng4 Kd2 61.Kh4 Ke1 62.Nxh6 Rg7 63.Bg6 e3 64.fxe3 f2 65.Bd3 Rd7 66.Bc4 Rc7 67.Bd3 Rc3 68.Ng4 Rxd3 69.Nxf2 Kxf2 70.h6 Rxe3 71.h7 Re4+ 72.Kg5 Re5+ 73.Kf6 Rh5 74.Kg7 Rh4 75.h8=Q Rxh8 76.Kxh8 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Blitz:110’"]
+[Site "IPCCC 2005"]
+[Date "2005.12.27"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Rybka (Computer)"]
+[Black "Jonny (Computer)"]
+[ECO "C69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. c3 Bd6 8. Be3 Qe7 9. Nbd2 exd4 10. cxd4 O-O-O 11. h3 Bh5 12. Re1 Bb4 13. Rc1 Rd7 14. d5 cxd5 15. exd5 Qf7 16. Nc4 Bxe1 17. d6 c6 18. Qd4 Bb4 19. Qa7 Rxd6 20. Qa8+ Kd7 21. Nxd6 1-0

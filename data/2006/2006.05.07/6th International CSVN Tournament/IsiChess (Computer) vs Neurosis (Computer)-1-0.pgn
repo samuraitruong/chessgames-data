@@ -1,0 +1,14 @@
+[Event "6th International CSVN Tournament"]
+[Site "Leiden NED"]
+[Date "2006.05.07"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "IsiChess (Computer)"]
+[Black "Neurosis (Computer)"]
+[ECO "E91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.Nc3 d6 5.e4 O-O 6.Be2 b6 7.e5 Nfd7 8.exd6 cxd6 9.O-O Bb7 10.Bg5 Nf6 11.d5 Nbd7 12.Qd2 Nc5 13.Qf4 Rc8 14.Qh4 Re8 15.b4 Ncd7 16.Rac1 a5 17.a3 e6 18.dxe6 fxe6 19.Nb5 Bf8 20.Rfd1 d5 21.cxd5 exd5 22.Rxc8 Qxc8 23.Rc1 Qb8 24.Bd3 Nh5 25.Rc7 Ne5 26.Nxe5 Rxe5 27.Bd2 axb4 28.Qd4 Re8 29.Qxb6 Ba8 30.Qa6 Ng7 31.Qf6 Rc8 32.Qf7+ Kh8 33.axb4 Rxc7 34.Nxc7 Bxb4 35.Bxb4 Qxb4 36.Nxa8 Qe1+ 37.Bf1 Qe8 38.Qxd5 Qe7 39.Qd4 Kg8 40.Nb6 Kh8 41.Nd5 Qd6 42.h4 Qd7 43.h5 gxh5 44.Bd3 Qg4 45.Nf4 Qd1+ 46.Kh2 1-0

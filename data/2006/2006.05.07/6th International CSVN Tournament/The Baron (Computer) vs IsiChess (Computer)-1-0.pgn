@@ -1,0 +1,14 @@
+[Event "6th International CSVN Tournament"]
+[Site "Leiden NED"]
+[Date "2006.05.07"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "The Baron (Computer)"]
+[Black "IsiChess (Computer)"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 Ne4 7.Bd2 Bf6 8.Qc2 Nxd2 9.Qxd2 Nc6 10.O-O Na5 11.Qd3 c5 12.d5 exd5 13.cxd5 O-O 14.e4 d6 15.Rfe1 Re8 16.Re3 Qc8 17.Bf1 Qc7 18.Rae1 a6 19.e5 Bxe5 20.Nxe5 Rxe5 21.Rxe5 dxe5 22.Qf5 Re8 23.f4 b5 24.fxe5 b4 25.d6 Qc6 26.Ne4 Qd5 27.d7 Rf8 28.Bh3 Qd4+ 29.Qf2 Bxe4 30.Qxd4 cxd4 31.e6 fxe6 32.Bxe6+ Kh8 33.Rxe4 Nb7 34.Rxd4 a5 35.Bd5 Nd8 36.Re4 g5 37.Re7 a4 38.g4 1-0

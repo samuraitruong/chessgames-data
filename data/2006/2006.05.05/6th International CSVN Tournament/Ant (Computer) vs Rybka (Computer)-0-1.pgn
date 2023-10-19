@@ -1,0 +1,14 @@
+[Event "6th International CSVN Tournament"]
+[Site "Leiden NED"]
+[Date "2006.05.05"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Ant (Computer)"]
+[Black "Rybka (Computer)"]
+[ECO "A58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 g6 6.Nc3 Bxa6 7.g3 d6 8.Bg2 Bg7 9.Nf3 Nbd7 10.O-O Nb6 11.Re1 O-O 12.Bf4 Nc4 13.Qc2 Nh5 14.Bc1 Qa5 15.Nd2 Na3 16.Qd1 Rfb8 17.g4 Nf6 18.g5 Nd7 19.Nde4 Bc4 20.Kf1 Nb5 21.Qc2 Nd4 22.Qb1 Ne5 23.Nd2 Ba6 24.a4 h6 25.h4 h5 26.Be4 Qc7 27.Kg2 Qd7 28.f3 Rb4 29.Ra3 f5 30.gxf6 Bxf6 31.Rh1 Bxe2 32.Kf2 Ba6 33.Bxg6 Bg7 34.a5 Rf8 0-1

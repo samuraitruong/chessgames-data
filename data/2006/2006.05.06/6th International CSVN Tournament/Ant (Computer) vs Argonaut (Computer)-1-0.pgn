@@ -1,0 +1,14 @@
+[Event "6th International CSVN Tournament"]
+[Site "Leiden NED"]
+[Date "2006.05.06"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Ant (Computer)"]
+[Black "Argonaut (Computer)"]
+[ECO "D19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "189"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O O-O 9.Qe2 Bxc3 10.bxc3 Re8 11.Nd2 Bg6 12.e4 c5 13.dxc5 Qc7 14.Ba3 Nbd7 15.Bb5 a6 16.c6 axb5 17.cxd7 Nxd7 18.Qxb5 Ra5 19.Qb3 Ne5 20.Bb4 Ng4 21.Nf3 Rh5 22.h3 Rxh3 23.gxh3 Bxe4 24.Qd1 Bxf3 25.Qd6 Qxd6 26.Bxd6 Nh6 27.Rfe1 Nf5 28.Bb4 Rd8 29.a5 Ra8 30.Ra3 Bd5 31.Rea1 Bc4 32.Rd1 Bd5 33.Rc1 f6 34.c4 Rc8 35.Rac3 Bc6 36.Ra1 Nd4 37.Kh2 Nf3+ 38.Kg3 Nd4 39.Ra2 Nf5+ 40.Kh2 Nd4 41.a6 bxa6 42.Rxa6 Nf3+ 43.Kg3 Nd4 44.Ra2 Rb8 45.Bc5 Nf5+ 46.Kh2 Rb1 47.f3 h6 48.Ra6 Rb2+ 49.Kg1 Bb7 50.Rxe6 Nh4 51.Re8+ Kh7 52.Rb8 Rb1+ 53.Kf2 Rb2+ 54.Ke1 Ng2+ 55.Kf1 Nf4 56.Ba3 Rb1+ 57.Kf2 Nxh3+ 58.Ke3 Ng5 59.f4 Ne4 60.Rd3 f5 61.Rdd8 h5 62.Be7 Kg6 63.Kd4 Rb2 64.Bh4 Rd2+ 65.Ke3 Rb2 66.Rd7 Nc5 67.Re7 Rh2 68.Bf2 Be4 69.Rg8 Rh3+ 70.Kd2 Rh2 71.Rexg7+ Kf6 72.Ke3 Ne6 73.Rh7 Rh1 74.Bg3 Rh3 75.Rh6+ Kf7 76.Rgg6 Nf8 77.Rg5 Rh1 78.Rhxh5 Rc1 79.Rxf5+ Bxf5 80.Rxf5+ Kg7 81.Kd3 Ng6 82.Bf2 Rd1+ 83.Ke4 Ne7 84.Rb5 Rc1 85.c5 Kf7 86.Rb7 Ke8 87.f5 Rc4+ 88.Ke5 Rc2 89.Bd4 Rd2 90.Ke6 Re2+ 91.Be5 Nc6 92.Rc7 Rxe5+ 93.Kd6 Re3 94.Kxc6 Re1 95.f6 1-0

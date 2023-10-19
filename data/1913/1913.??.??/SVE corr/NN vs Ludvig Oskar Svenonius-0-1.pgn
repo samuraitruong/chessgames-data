@@ -1,0 +1,14 @@
+[Event "SVE corr"]
+[Site "Sweden"]
+[Date "1913.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Ludvig Oskar Svenonius"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 cxb2 5.Bxb2 d5 6.Bxd5 Bb4+ 7.Kf1 Nf6 8.Qa4+ Nc6 9.Bxc6+ bxc6 10.Qxb4 Qd1+ 11.Qe1 Ba6+ 12.Ne2 Bxe2+ 13.Kg1 Qxe1# 0-1

@@ -1,0 +1,14 @@
+[Event "6th International CSVN Tournament"]
+[Site "Leiden NED"]
+[Date "2006.05.05"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Usurpator (Computer)"]
+[Black "Argonaut (Computer)"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 e6 4. Bd3 Bb4+ 5. c3 Bd6 6. Nf3 Nc6 7. Bxd6 Qxd6 8. O-O O-O 9. Re1 e5 10. Bb5 e4 11. Bxc6 exf3 12. Ba4 fxg2 13. Kxg2 Ng4 14. f4 Qh6 15. h3 Nh2 16. Qc1 Qxh3+ 17. Kf2 Qf3+ 18. Kg1 Qg3+ 19. Kh1 Nf3 0-1
