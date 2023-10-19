@@ -1,0 +1,14 @@
+[Event "New Orleans"]
+[Site "New Orleans, LA USA"]
+[Date "1886.??.??"]
+[EventDate "1886.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "James McConnell"]
+[Black "Wilhelm Steinitz"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e6 2.e5 f6 3.d4 c5 4.dxc5 Bxc5 5.Nc3 Qc7 6.Bf4 Qb6 7.Qd2 Bxf2+ 8.Qxf2 Qxb2 9.Kd2 Qxa1 10.Nb5 Na6 11.Nd6+ Kf8 12.Bxa6 bxa6 13.Qc5 Ne7 14.exf6 gxf6 15.Bh6+ Kg8 16.h4 Qe5 17.Qxe5 fxe5 18.g4 Rb8 19.Nh3 Bb7 20.Rf1 Bg2 21.Rf7 Ng6 1-0

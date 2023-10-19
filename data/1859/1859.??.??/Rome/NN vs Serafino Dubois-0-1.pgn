@@ -1,0 +1,14 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1859.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Serafino Dubois"]
+[ECO "C39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Bc4 d5 7.exd5 Bd6 8.d4 Nh5 9.Nxg4 Ng3 10.Rh2 Qe7+ 11.Kf2 h5 12.Ne5 Bxe5 13.dxe5 Qc5+ 14.Ke1 Qg1+ 15.Bf1 Qxf1+ 16.Kd2 Ne4# 0-1

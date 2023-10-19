@@ -1,0 +1,14 @@
+[Event "Match"]
+[Site "Paris FRA"]
+[Date "1855.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jules Arnous de Riviere"]
+[Black "Serafino Dubois"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.e5 d5 5.Bb3 Ne4 6.Nf3 g5 7.d3 Nc5 8.h4 g4 9.Nd4 Nxb3 10.axb3 Bc5 11.Ne2 f3 12.gxf3 gxf3 13.Nf4 Bg4 14.Kd2 Nc6 15.c3 d4 16.b4 Be7 0-1

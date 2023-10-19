@@ -1,0 +1,14 @@
+[Event "Hoogovens"]
+[Site "Beverwijk NED"]
+[Date "1946.01.13"]
+[EventDate "1946.01.05"]
+[Round "9"]
+[Result "0-1"]
+[White "Chris Vlagsma"]
+[Black "Alberic O’Kelly de Galway"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Bc5 5.Nxe5 Nxe5 6.d4 c6 7.dxe5 Nxe4 8. Bd3 d5 9.exd6 Nf6 10.Re1+ Be6 11.Bf5 O-O 12.Bxe6 fxe6 13.Rxe6 Qd7 14.Re7 Qf5 15.Be3 Bxd6 16.Rxb7 Ng4 17.Bd4 Bxh2+ 18.Kh1 Be5 19.Bxe5 Nxf2+ 20.Kg1 Qxe5 21.Qd2 Rad8 0-1
