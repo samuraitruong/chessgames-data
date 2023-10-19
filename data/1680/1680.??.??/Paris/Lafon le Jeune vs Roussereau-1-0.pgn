@@ -1,0 +1,14 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1680.??.??"]
+[EventDate "1680.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Lafon le Jeune"]
+[Black "Roussereau"]
+[ECO "C39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 h5 6.Bc4 Nh6 7.d4 d6 8.Nd3 Qe7 9.Nc3 Nf5 10.Bxf4 Nxh4 11.Qd2 Ng6 12.O-O-O c6 13.Rhf1 Be6 14.Bg5 Qxg5 15.Qxg5 Bh6 16.Qxh6 Rxh6 17.Bxe6 fxe6 18.Rf6 Kd7 19.Nf4 Nxf4 20.Rxh6 1-0

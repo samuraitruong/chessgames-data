@@ -2,13 +2,13 @@
 [Site "London ENG"]
 [Date "1846.??.??"]
 [EventDate "1846.07.??"]
-[Round "12"]
+[Round "6"]
 [Result "0-1"]
 [White "Bernhard Horwitz"]
 [Black "Lionel Adalbert Bagration Felix Kieseritzky"]
-[ECO "C51"]
+[ECO "C45"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "62"]
+[PlyCount "58"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O d6 7. d4 exd4 8. cxd4 Bb6 9. Bb2 Nf6 10. Nbd2 O-O 11. d5 Ne7 12. Bxf6 gxf6 13. Nh4 Ng6 14. Qh5 Qe7 15. Nf5 Bxf5 16. exf5 Ne5 17. Rae1 Rae8 18. Re4 Kg7 19. Rh4 Rh8 20. Qh6+ Kg8 21. Rh3 Ng4 22. Qf4 h5 23. Rg3 Kf8 24. h3 Qe5 25. Qxe5 Nxe5 26. Bb3 h4 27. Rc3 Ba5 28. Rc2 Rg8 29. Kh2 Bb6 30. f4 Nd3 31. Rc3 Re2 0-1
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nf5 g6 6.Ng3 d6 7.Bd3 Nf6 8.Nc3 Ng4 9.O-O Qh4 10.h3 Nxf2 11.Rxf2 Qxg3 12.Qf3 Bxf2+ 13.Qxf2 Qxf2+ 14.Kxf2 f5 15.Nd5 fxe4 16.Bxe4 O-O+ 17.Kg3 Rf7 18.Bh6 Bf5 19.Bf3 Nd4 20.c3 Nxf3 21.gxf3 c6 22.Ne3 Re8 23.Nc4 Re6 24.h4 Rfe7 25.Na5 b6 26.Nb3 Re2 27.Bc1 Re1 28.Nd4 Rg1+ 29.Kf4 Rf7 0-1

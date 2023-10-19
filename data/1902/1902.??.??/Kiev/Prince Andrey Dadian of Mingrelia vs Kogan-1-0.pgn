@@ -1,0 +1,14 @@
+[Event "Kiev"]
+[Site "Kiev RUE"]
+[Date "1902.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Prince Andrey Dadian of Mingrelia"]
+[Black "Kogan"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O dxc3 8.Qb3 Qf6 9.e5 Qg6 10.Nxc3 Bxc3 11.Qxc3 Nge7 12.Re1 b6 13.Bd3 Qh5 14.e6 O-O 15.Bb2 f6 16.Be4 Qe8 17.Ng5 g6 18.Qh3 fxg5 19.Qh6 Rf7 20.exf7+ Qxf7 21.Bd5 Nxd5 22.Re8+ Qxe8 23.Qg7# 1-0

@@ -1,0 +1,14 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata ARG"]
+[Date "1961.03.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Roberto Silva Nazzari"]
+[Black "Miroslav Filip"]
+[ECO "D91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bg5 Ne4 6.cxd5 Nxc3 7.bxc3 Qxd5 8.e3 c5 9.Bb5+ Bd7 10.c4 Qe4 11.Qb1 Qxb1+ 12.Rxb1 Nc6 13.d5 Na5 14.Bxd7+ Kxd7 15.e4 b6 16.Rc1 e5 17.Bd2 Nb7 18.Bc3 f6 19.Nd2 Nd6 20.O-O Bh6 21.f3 a6 22.g3 Be3+ 23.Kg2 b5 24.f4 b4 0-1

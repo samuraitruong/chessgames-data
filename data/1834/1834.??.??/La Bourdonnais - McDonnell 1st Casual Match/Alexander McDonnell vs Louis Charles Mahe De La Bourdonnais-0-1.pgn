@@ -2,13 +2,13 @@
 [Site "London ENG"]
 [Date "1834.??.??"]
 [EventDate "1834.00.01"]
-[Round "22"]
+[Round "14"]
 [Result "0-1"]
 [White "Alexander McDonnell"]
 [Black "Louis Charles Mahe De La Bourdonnais"]
-[ECO "C33"]
+[ECO "B21"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "96"]
+[PlyCount "50"]
 
-1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 g5 5. Nc3 Bg7 6. d4 d6 7. Nd5 Kd8 8. Be2 Nc6 9. e5 Nge7 10. Nc3 Nf5 11. Nf3 Qh6 12. Ne4 f6 13. exf6 Bxf6 14. g4 Nfxd4 15. Kg2 Bxg4 16. h4 Bxf3+ 17. Bxf3 Nxf3 18. Qxf3 Ne5 19. Qb3 Qg6 20. Qxb7 Rc8 21. Bd2 gxh4+ 22. Kf1 Rg8 23. Nxd6 cxd6 24. Ba5+ Ke8 25. Qxc8+ Kf7 26. Qb7+ Be7 27. Qd5+ Kf8 28. Rd1 f3 29. Rd2 h3 30. Qa8+ Kf7 31. Qd5+ Kf8 32. Qa8+ Kg7 33.Qxa7 Qg2+ 34. Rxg2+ fxg2+ 35. Kg1 Nf3+ 36. Kf2 gxh1=Q 37. Qxe7+ Kh6 38. Qxd6+ Kh5 39. Qd5+ Rg5 40. Qf7+ Kg4 41. Qc4+ Nd4 42. Qxd4+ Kh5 43. Bb6 Qh2+ 44. Ke1 Re5+ 45. Kd1 Qe2+ 46. Kc1 Qe1+ 47. Qd1+ Qxd1+ 48. Kxd1 h2 0-1
+1. e4 c5 2. f4 e6 3. Nf3 d5 4. e5 Nc6 5. c3 f6 6. Na3 Nh6 7. Nc2 Qb6 8. d4 Bd7 9. Ne3 cxd4 10. cxd4 Bb4+ 11. Kf2 O-O 12. Kg3 fxe5 13. fxe5 Be8 14. Kh3 Bh5 15. g4 Bg6 16. Bg2 Be4 17. g5 Nf5 18. Nxf5 Rxf5 19. Be3 Bxf3 20. Bxf3 Nxe5 21. Bg4 Nxg4 22. Qxg4 Raf8 23. Rag1 Bd6 24. Bc1 Rf3+ 25. Kh4 R8f4 0-1

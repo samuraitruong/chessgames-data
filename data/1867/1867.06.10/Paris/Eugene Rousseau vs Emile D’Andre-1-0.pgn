@@ -1,0 +1,14 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1867.06.10"]
+[EventDate "1867.06.04"]
+[Round "?"]
+[Result "1-0"]
+[White "Eugene Rousseau"]
+[Black "Emile D’Andre"]
+[ECO "C51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8. cxd4 Bb6 9. Ba3 Nge7 10. Ng5 O-O 11. Qh5 h6 12. Nxf7 Rxf7 13. Qxf7+ Kh8 14. e5 Bxd4 15. exd6 cxd6 16. Re1 Bxa1 17. Nd2 Bc3 18. Rxe7 Qxe7 19. Qg8# 1-0
