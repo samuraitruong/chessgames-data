@@ -1,0 +1,14 @@
+[Event "Oslo op"]
+[Site "Sandvika NOR"]
+[Date "1994.03.30"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Jan Borge Wilsbeck"]
+[Black "Roar E Flaten"]
+[ECO "B28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 c5 2.Nf3 a6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Nf5 d5 7.Qf3 d4 8.Nd5 Nxd5 9.exd5 Bxf5 10.Qxf5 Qxd5 11.Qc8+ Qd8 12.Qxb7 Nd7 13.Bxa6 Qa5+ 14.Bd2 Qxa6 15.Qe4 Be7 16.f4 O-O 17.fxe5 Nxe5 18.Qxe5 Bh4+ 19.Kd1 d3 20.c3 Qb7 21.Kc1 Qb3 0-1
