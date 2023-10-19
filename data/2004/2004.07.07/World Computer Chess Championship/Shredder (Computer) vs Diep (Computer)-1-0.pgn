@@ -1,0 +1,14 @@
+[Event "World Computer Chess Championship"]
+[Site "Ramat-Gan ISR"]
+[Date "2004.07.07"]
+[EventDate "2004.??.??"]
+[Round "4"]
+[Result "1-0"]
+[White "Shredder (Computer)"]
+[Black "Diep (Computer)"]
+[ECO "B96"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "151"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nc6 8. Qd3 Bd7 9. O-O-O Rc8 10. Nxc6 Bxc6 11. f5 Be7 12. fxe6 fxe6 13. Kb1 O-O 14. Qh3 Bd7 15. e5 dxe5 16. Bd3 h6 17. Bd2 Qb6 18. Ka1 Bc5 19. Ne4 Nxe4 20. Bxe4 Rf6 21. Bg5 Bd4 22. c3 hxg5 23. Qh7+ Kf8 24. cxd4 exd4 25. Rhf1 Be8 26. Bg6 Bxg6 27. Qh8+ Ke7 28. Qxc8 Be8 29. Qc2 Bb5 30. Rfe1 d3 31. Qc3 Kf7 32. g4 Rf2 33. a4 Bxa4 34. Rxd3 Bb5 35. Rf3+ Rxf3 36. Qxf3+ Kg8 37. Kb1 Qd6 38. Rd1 Qe7 39. Qb3 Be2 40. Rd4 Bb5 41. Qe3 Bc6 42. Rd2 e5 43. Kc1 Qe6 44. b3 Qe7 45. Kb2 e4 46. Rf2 Qd6 47. h3 Kh7 48. Rf5 Qh2+ 49. Kc3 Qc7 50. Rxg5 Bd5+ 51. Kb2 Qh2+ 52. Kb1 Qh1+ 53. Qc1 Qxc1+ 54. Kxc1 Bxb3 55. Re5 Kg6 56. Kb2 Ba4 57. Rxe4 Bc6 58. Re5 Kf6 59. Rf5+ Ke7 60. h4 Bd7 61. Rf4 Be6 62. h5 Bf7 63. Kc3 Be8 64. Rc4 Kd6 65. Rc8 Bf7 66. Rh8 Be6 67. g5 b5 68. h6 gxh6 69. gxh6 Bf5 70. Kb4 Kd5 71. Ra8 Ke5 72. Rxa6 Bh7 73. Ra7 Bd3 74. h7 Bxh7 75. Rxh7 Kf5 76. Kxb5 1-0

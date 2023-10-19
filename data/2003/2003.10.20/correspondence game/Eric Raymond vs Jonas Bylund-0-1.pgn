@@ -1,0 +1,14 @@
+[Event "correspondence game"]
+[Site "corr"]
+[Date "2003.10.20"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Eric Raymond"]
+[Black "Jonas Bylund"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 Be7 9.Nc4 Nd4 10.Bxf6 Bxf6 11.Nd5 Be6 12.Ncb6 Bxd5 13.Nxd5 O-O 14.Bd3 Ne6 15.O-O Nf4 16.Nxf4 exf4 17.c3 Re8 18.Qf3 Be5 19.Bc4 Qh4 20.a4 g5 21.h3 Kg7 22.a5 Rh8 23.Bd5 h5 24.Qe2 g4 25.f3 gxh3 26.gxh3 Rag8 27.Rf2 Kf6+ 28.Kh1 Qxh3+ 29.Rh2 Qd7 30.Qc4 Rg3 31.Rf1 Rhg8 32.Qb3 Qh3 33.Qd1 Qc8 34.Qe2 h4 35.Qf2 h3 36.Rd1 Qf8 37.Bxb7 Qh6 38.Bxa6 Rg2 39.Qe1 Qh5 40.Be2 R8g3 41.Qf1 Qg5 42.Re1 d5 43.exd5 Bb8 44.Bd1 Rxh2+ 45.Kxh2 Rg2+ 46.Kh1 Qg3 47.Qa6+ Kg7 0-1

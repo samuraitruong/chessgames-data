@@ -1,0 +1,14 @@
+[Event "World Computer Chess Championship"]
+[Site "Ramat-Gan ISR"]
+[Date "2004.07.08"]
+[EventDate "2004.??.??"]
+[Round "5"]
+[Result "1-0"]
+[White "IsiChess (Computer)"]
+[Black "FIBChess (Computer)"]
+[ECO "D16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c6 4. a4 Nf6 5. Nc3 Be6 6. e4 Qa5 7. Ng5 c5 8. Nxe6 fxe6 9. Bxc4 Nxe4 10. Qh5+ Kd7 11. Bxe6+ Kxe6 12. Qd5+ Kf6 13. O-O Nxc3 14. Bg5+ Kg6 15. Qe6+ Kh5 16. g4+ Kxg5 17. Qf5+ Kh6 18. Qh5# 1-0

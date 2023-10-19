@@ -1,0 +1,14 @@
+[Event "Match 3"]
+[Site "Amsterdam NED"]
+[Date "1934.12.04"]
+[EventDate "1934.??.??"]
+[Round "7"]
+[Result "0-1"]
+[White "Johannes Hendrik Otto van den Bosch"]
+[Black "Salo Landau"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.d4 Nf6 2.Nf3 e6 3.Nbd2 c5 4.e3 cxd4 5.exd4 Nc6 6.c3 d5 7.Bd3 Bd6 8.O-O O-O 9.Re1 Nh5 10.g3 f5 11.Ne5 Nf6 12.Nf1 Bxe5 13.dxe5 Ng4 14.f4 Qb6+ 15. Kg2 Qf2+ 16.Kh3 Bd7 17.Re2 d4 18.cxd4 Nxd4 19.Rd2 Bc6 20.Bxf5 exf5 21.Rxd4 Qg2+ 22.Kh4 Nf2 0-1

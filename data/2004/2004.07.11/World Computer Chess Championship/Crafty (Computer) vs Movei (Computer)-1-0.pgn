@@ -1,0 +1,14 @@
+[Event "World Computer Chess Championship"]
+[Site "Ramat-Gan ISR"]
+[Date "2004.07.11"]
+[EventDate "2004.??.??"]
+[Round "8"]
+[Result "1-0"]
+[White "Crafty (Computer)"]
+[Black "Movei (Computer)"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3 d6 9. d4 Bb6 10. axb5 axb5 11. Na3 Bg4 12. Nxb5 O-O 13. Be3 exd4 14. cxd4 Re8 15. h3 Bxf3 16. gxf3 Na5 17. Ba4 c6 18. Na3 Bc7 19. Bd2 Qc8 20. Kg2 Rxb2 21. Qc1 Rb8 22. Bxa5 Bxa5 23. Bxc6 Re6 24. Nc4 Qxc6 25. Nxa5 Qxc1 26. Rfxc1 d5 27. Nc6 Rf8 28. exd5 Nxd5 29. Rc5 Nf4+ 30. Kg3 Ne2+ 31. Kh2 Nf4 32. Ra7 Rh6 33. h4 Kh8 34. Re7 Nd3 35. Rc4 Rxh4+ 36. Kg3 g5 37. Ne5 Nxe5 38. Rxe5 f5 39. Re7 Rd8 40. Rcc7 f4+ 41. Kg2 Rh5 42. Re6 Rg8 43. Rd7 Rg7 44. Re8+ Rg8 45. Ree7 Rh6 46. d5 Rc8 47. Kf1 Rh5 48. d6 Kg8 49. Rc7 Rd8 50. Rc5 Rh1+ 51. Ke2 Rb1 52. Rxg5+ Kh8 53. d7 Rb2+ 54. Kd3 Rbb8 55. Rh5 Kg8 56. Ke4 1-0

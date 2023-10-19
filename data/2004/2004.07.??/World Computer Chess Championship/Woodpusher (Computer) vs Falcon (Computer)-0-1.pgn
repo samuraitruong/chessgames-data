@@ -1,0 +1,14 @@
+[Event "World Computer Chess Championship"]
+[Site "Ramat-Gan ISR"]
+[Date "2004.07.??"]
+[EventDate "2004.??.??"]
+[Round "10"]
+[Result "0-1"]
+[White "Woodpusher (Computer)"]
+[Black "Falcon (Computer)"]
+[ECO "A09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "146"]
+
+1. Nf3 d5 2. c4 d4 3. g3 Nc6 4. Bg2 e5 5. O-O Nf6 6. d3 Bd6 7. Na3 O-O 8. Bd2 Be7 9. Qa4 e4 10. dxe4 Nxe4 11. Bf4 g5 12. Bc1 Bf5 13. Qb3 Nc5 14. Qd1 Bf6 15. Re1 Re8 16. Nb5 a6 17. Na3 d3 18. e3 Bg4 19. h3 Bxf3 20. Bxf3 d2 21. Qxd2 Qxd2 22. Bxd2 Bxb2 23. Bxc6 bxc6 24. Nc2 Bxa1 25. Rxa1 Ne4 26. Ba5 Re5 27. Bxc7 Rc5 28. Na3 Rf5 29. Rf1 Ra7 30. Bb6 Rb7 31. c5 Nxc5 32. Nc4 Rd5 33. Kg2 Nd3 34. e4 Rb5 35. Be3 Rd7 36. a4 Rb4 37. Nb6 Rd6 38. Nc8 Re6 39. Rd1 Rb3 40. Bxg5 f6 41. Bh4 Kg7 42. f3 Rb2+ 43. Kg1 Ne5 44. Kf1 Nxf3 45. Rd7+ Kf8 46. Rxh7 Nh2+ 47. Ke1 Rxe4+ 48. Kd1 Rxa4 49. Kc1 Rf2 50. Kb1 Rd4 51. Kc1 Nf3 52. Nb6 Ne5 53. g4 Rh2 54. Bxf6 Rf4 55. Nd7+ Nxd7 56. Rxd7 Rf1+ 57. Rd1 Rhh1 58. Rxf1 Rxf1+ 59. Kc2 Rxf6 60. Kb3 Rf3+ 61. Kb4 Rg3 62. h4 Rxg4+ 63. Kc3 Rxh4 64. Kb3 c5 65. Kc3 Rb4 66. Kc2 a5 67. Kc1 a4 68. Kc2 a3 69. Kd3 a2 70. Ke3 a1=Q 71. Kf3 Qc3+ 72. Ke2 Rb2+ 73. Kf1 Qc1# 0-1

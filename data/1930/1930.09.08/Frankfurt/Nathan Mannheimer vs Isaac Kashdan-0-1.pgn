@@ -1,0 +1,14 @@
+[Event "Frankfurt"]
+[Site "Frankfurt GER"]
+[Date "1930.09.08"]
+[EventDate "1930.??.??"]
+[Round "2"]
+[Result "0-1"]
+[White "Nathan Mannheimer"]
+[Black "Isaac Kashdan"]
+[ECO "E10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Bf4 dxc4 5.e3 Bb4+ 6.Nfd2 b5 7.a4 c6 8.axb5 cxb5 9.Bxb8 Rxb8 10.Rxa7 Ba5 11.Qf3 Qb6 12.Ra8 Rxa8 13.Qxa8 O-O 14.Qf3 Bb7 15.Qf4 Ne4 16.f3 Nxd2 17.Nxd2 Re8 18.Qh4 e5 19.Qf2 exd4 20.e4 f5 21.Kd1 Bxd2 22.Kxd2 fxe4 23.fxe4 Qa5+ 0-1

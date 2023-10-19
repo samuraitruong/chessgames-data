@@ -1,0 +1,14 @@
+[Event "Blindfold simul, 45b"]
+[Site "Sao Paulo BRA"]
+[Date "1947.01.24"]
+[EventDate "1947.01.24"]
+[Round "?"]
+[Result "1-0"]
+[White "Miguel Najdorf"]
+[Black "K Mehla"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.d4 d5 2.c4 Bf5 3.cxd5 e6 4.dxe6 fxe6 5.Nc3 Bd6 6.e4 Bg6 7.Bc4 Nc6 8.Bxe6 Nge7 9.Nge2 a6 10.f4 Na7 11.f5 Bh5 12.Qb3 b5 13.e5 Nec6 14.exd6 Qxd6 15.Bf4 Qb4 16.O-O Bxe2 17.Nxe2 Qe7 18.Rac1 Rf8 19.Rxc6 Nxc6 20.Qd5 Rd8 21.Qxc6+ 1-0

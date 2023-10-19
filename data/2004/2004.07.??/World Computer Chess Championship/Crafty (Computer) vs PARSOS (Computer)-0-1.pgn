@@ -1,0 +1,14 @@
+[Event "World Computer Chess Championship"]
+[Site "Ramat-Gan ISR"]
+[Date "2004.07.??"]
+[EventDate "2004.??.??"]
+[Round "10"]
+[Result "0-1"]
+[White "Crafty (Computer)"]
+[Black "PARSOS (Computer)"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1. e4 c5 2. Nf3 e6 3. b3 d6 4. Bb5+ Bd7 5. Bxd7+ Nxd7 6. c4 Be7 7. O-O Bf6 8. d4 Ne7 9. Bb2 Nc6 10. Na3 cxd4 11. Nxd4 O-O 12. Nxc6 bxc6 13. Bxf6 Nxf6 14. Re1 Rc8 15. Nc2 d5 16. exd5 cxd5 17. Ne3 Re8 18. h3 d4 19. Ng4 Nxg4 20. Qxg4 e5 21. Rad1 g6 22. h4 f5 23. Qg3 e4 24. Qf4 Qf6 25. f3 d3 26. fxe4 Qb6+ 27. Kh2 Qd4 28. Qe3 Qxe3 29. Rxe3 fxe4 30. Kg3 Rcd8 31. Kf4 Rd4 32. Rd2 Kf7 33. g4 Re6 34. Kg3 Rf6 35. g5 Rf5 36. Kg4 Ke6 37. Rd1 Rf2 38. Kg3 Rxa2 39. Kf4 Rf2+ 40. Kg3 Rf7 41. Ra1 a5 42. Kh3 Ke5 43. Kg2 a4 44. bxa4 Rxc4 45. Rae1 d2 46. Rd1 Kd4 47. Re2 e3 48. Rexd2+ 0-1

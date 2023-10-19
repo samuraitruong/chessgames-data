@@ -1,0 +1,14 @@
+[Event "World Computer Chess Championship"]
+[Site "Ramat-Gan ISR"]
+[Date "2004.07.07"]
+[EventDate "2004.??.??"]
+[Round "4"]
+[Result "0-1"]
+[White "Crazy Bishop (Computer)"]
+[Black "Fritz (Computer)"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bd3 Bb7 9. Re1 Nbd7 10. a4 b4 11. Na2 a5 12. Bd2 Be7 13. f3 Qb6 14. Be3 d5 15. exd5 Bxd5 16. c3 Bc5 17. Bb5 O-O 18. cxb4 axb4 19. Qd2 Ne5 20. b3 Rfd8 21. Rec1 Bc4 22. bxc4 b3 23. Qe2 Rxd4 24. Kh1 Rdd8 25. a5 Rxa5 26. Bxc5 Qxc5 27. Nb4 Nxc4 28. Bxc4 Rxa1 29. Rxa1 Qxb4 30. Rd1 Rxd1+ 31. Qxd1 b2 32. Qd8+ Qf8 33. Qb6 Qd6 34. Qb3 Qe5 35. Bf1 g6 36. h3 Nh5 37. f4 Qd4 38. Bd3 Nxf4 39. Bf1 Qd2 40. g3 Nh5 41. g4 Nf4 42. Qb8+ Kg7 43. g5 Qd4 44. Qb7 Qd5+ 45. Bg2 Qxb7 46. Bxb7 b1=Q+ 47. Kh2 Qxb7 48. Kg3 e5 49. Kf2 Qg2+ 50. Ke3 Qe2# 0-1

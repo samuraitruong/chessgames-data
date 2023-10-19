@@ -1,0 +1,14 @@
+[Event "World Computer Chess Championship"]
+[Site "Ramat-Gan ISR"]
+[Date "2004.07.06"]
+[EventDate "2004.??.??"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Jonny (Computer)"]
+[Black "Shredder (Computer)"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 Nc6 8. O-O Nf6 9. e5 Nd5 10. Qb3 Na5 11. Qa4+ Nc6 12. Qb3 Na5 13. Qb5+ c6 14. Qc5 Bg4 15. Qxd4 Bxf3 16. Nxf3 Nb6 17. Qg4 Naxc4 18. Qxg7 Rf8 19. Rad1 Qe7 20. b3 Nxe5 21. Qxe5 Qxe5 22. Nxe5 Nd5 23. f3 f6 24. Nc4 O-O-O 25. Rfe1 Kc7 26. a3 Rfe8 27. Kf2 b5 28. Rxe8 Rxe8 29. Nb2 Nc3 30. Re1 Rxe1 31. Kxe1 Kd6 32. a4 Kc5 33. axb5 cxb5 34. Nd3+ Kd4 35. Kd2 Nd5 36. g3 a5 37. Nc1 Nc3 38. Nd3 a4 39. bxa4 Nb1+ 40. Kc2 bxa4 41. Nf4 Na3+ 42. Kb2 Nc4+ 43. Ka2 f5 44. g4 Nd2 45. Nh5 Nxf3 46. gxf5 Ke5 47. Ka3 Kxf5 48. Kxa4 Nd2 1/2-1/2

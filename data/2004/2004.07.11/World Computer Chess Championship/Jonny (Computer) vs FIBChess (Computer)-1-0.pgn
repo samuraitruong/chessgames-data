@@ -1,0 +1,14 @@
+[Event "World Computer Chess Championship"]
+[Site "Ramat-Gan ISR"]
+[Date "2004.07.11"]
+[EventDate "2004.??.??"]
+[Round "8"]
+[Result "1-0"]
+[White "Jonny (Computer)"]
+[Black "FIBChess (Computer)"]
+[ECO "B12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. e4 c6 2. d4 d5 3. Nd2 e6 4. Ngf3 Nd7 5. Bd3 dxe4 6. Nxe4 Qa5+ 7. Bd2 Qb6 8. b3 c5 9. Bc3 cxd4 10. Bxd4 Qa5+ 11. Bc3 Qc7 12. Qd2 f5 13. Neg5 Qb6 14. Bc4 Ndf6 15. O-O-O h6 16. Bb5+ Nd7 17. Bxd7+ Ke7 18. Bb4+ Kf6 19. Qc3+ Qd4 20. Qxd4+ e5 21. Qxe5+ Kg6 22. Be8# 1-0

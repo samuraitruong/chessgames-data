@@ -1,0 +1,14 @@
+[Event "London m4"]
+[Site "London ENG"]
+[Date "1904.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Paul Saladin Leonhardt"]
+[Black "Georg Schories"]
+[ECO "C54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4+ 7.Nc3 Nxe4 8.O-O Bxc3 9.bxc3 d5 10.Ba3 Be6 11.Bb5 f6 12.Re1 Kf7 13.Rc1 Re8 14.Nh4 Kg8 15.c4 Nd6 16.Rxe6 Rxe6 17.cxd5 Nxb5 18.dxe6 Nxa3 19.e7 Qd5 20.Qe2 Re8 21.Rc5 Rxe7 0-1
