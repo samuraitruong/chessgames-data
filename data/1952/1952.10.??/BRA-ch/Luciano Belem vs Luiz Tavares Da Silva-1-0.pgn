@@ -1,0 +1,14 @@
+[Event "BRA-ch"]
+[Site "Sao Paulo BRA"]
+[Date "1952.10.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Luciano Belem"]
+[Black "Luiz Tavares Da Silva"]
+[ECO "D83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.Qb3 c6 7.Nf3 h6 8.Rc1 Qa5 9.Ne5 e6 10.Be2 g5 11.Bg3 Ne4 12.Bd3 Nxg3 13.hxg3 Bxe5 14.dxe5 dxc4 15.Qxc4 Qxe5 16.Rxh6 Nd7 17.Ke2 Nf6 18.f4 b5 19.fxe5 bxc4 20.exf6 cxd3+ 21.Kd2 Rb8 22.Rch1 Rxb2+ 23.Kc1 1-0

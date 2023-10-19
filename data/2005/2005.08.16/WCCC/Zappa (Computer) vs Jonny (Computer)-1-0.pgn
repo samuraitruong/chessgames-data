@@ -1,0 +1,14 @@
+[Event "WCCC"]
+[Site "Reykjavik"]
+[Date "2005.08.16"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Zappa (Computer)"]
+[Black "Jonny (Computer)"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1.d4 Nf6 2.Nc3 d5 3.f3 c5 4.e4 Nc6 5.Bb5 a6 6.Bxc6+ bxc6 7.Nge2 dxe4 8.fxe4 cxd4 9.Qxd4 Qxd4 10.Nxd4 e6 11.Bg5 Bb4 12.Bxf6 gxf6 13.Nb3 a5 14.a3 Bxc3+ 15.bxc3 a4 16.Nc5 Ra5 17.Nd3 f5 18.exf5 Rxf5 19.Rb1 Rg8 20.g3 Ke7 21.Rb4 Ra5 22.Rf1 e5 23.Rh4 Rg7 24.Kd2 f6 25.c4 Bd7 26.Rh6 Rf7 27.Kc3 Bg4 28.Kb4 Ra8 29.Nc5 Rb8+ 30.Kc3 Rg8 31.Nxa4 Rg6 32.Rh4 Kd6 33.c5+ Ke6 34.Nb6 h5 35.a4 f5 36.Nc4 e4 37.a5 Rg8 38.Ra1 Rb7 39.Nd6 Ra7 40.Kd4 Bf3 41.Ke3 Rga8 42.Nc4 Ra6 43.Rf4 Bg4 44.Rf2 Rd8 45.Rb1 Raa8 46.Rb7 Rd1 47.Rh7 Ra6 48.Kf4 Rd4 49.Ne3 Rxa5 50.Rh6+ Kd7 51.Ke5 Raa4 52.c4 Rd3 53.Nxg4 hxg4 54.Rxf5 Rf3 55.Rh7+ Kc8 56.Rg5 Rf8 57.Rxg4 Re8+ 58.Kd6 e3 59.Rc7+ Kb8 60.Re7 Rxe7 61.Kxe7 e2 62.Re4 Rxc4 63.Rxe2 Rxc5 64.Kd6 1-0

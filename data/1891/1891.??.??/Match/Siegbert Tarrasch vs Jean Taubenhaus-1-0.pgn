@@ -1,5 +1,5 @@
 [Event "Match"]
-[Site "Nuremberg GER"]
+[Site "Nurnberg"]
 [Date "1891.??.??"]
 [EventDate "?"]
 [Round "?"]
@@ -11,4 +11,4 @@
 [BlackElo "?"]
 [PlyCount "33"]
 
-1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Ne7 9.a4 Be6 10.Qe2 c6 11.c3 Ng6 12.Nd4 Bd7 13.axb5 axb5 14.Rxa8 Qxa8 15.Bc2 Nc5 16.f4 Be7 17.f5 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 a6 6. Ba4 b5 7. Bb3 d5 8. dxe5 Ne7 9. a4 c5 10. axb5 c4 11. Ba4 Nc5 12. bxa6+ Nxa4 13. Rxa4 g6 14. Nc3 Bxa6 15. Bg5 Bb7 16. Rxa8 Qxa8 17. Nb5 1-0

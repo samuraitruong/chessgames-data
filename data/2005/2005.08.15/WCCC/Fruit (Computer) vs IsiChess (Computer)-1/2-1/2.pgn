@@ -1,0 +1,14 @@
+[Event "WCCC"]
+[Site "Reykjavik ISL"]
+[Date "2005.08.15"]
+[EventDate "2005.08.14"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Fruit (Computer)"]
+[Black "IsiChess (Computer)"]
+[ECO "B51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. d4 cxd4 5. Qxd4 Bd7 6. Bxc6 Bxc6 7. c4 f5 8. exf5 Qa5+ 9. Nc3 Qxf5 10. O-O Bxf3 11. gxf3 Qxf3 12. Re1 e5 13. Nb5 Nf6 14. Nxd6+ Bxd6 15. Qxd6 Qg4+ 16. Kh1 Qf3+ 17. Kg1 Qg4+ 18. Kh1 Qf3+ 19. Kg1 1/2-1/2

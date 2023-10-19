@@ -1,0 +1,14 @@
+[Event "WCCC"]
+[Site "Reykjavik"]
+[Date "2005.08.19"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Zappa (Computer)"]
+[Black "IsiChess (Computer)"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.Nc3 Bb7 5.e3 Bb4 6.Bd3 O-O 7.O-O d5 8.cxd5 exd5 9.a3 Bd6 10.b4 a6 11.Qb3 Nbd7 12.a4 Ne4 13.Nxd5 Ng5 14.Be2 Nc5 15.bxc5 Bxd5 16.Qd1 Nxf3+ 17.Bxf3 Bxf3 18.Qxf3 bxc5 19.dxc5 Bxc5 20.Bb2 Qg5 21.Qc6 Bb6 22.Rad1 Rad8 23.h3 Rfe8 24.Qc4 a5 25.Bc3 Rxd1 26.Rxd1 Rd8 27.Rxd8+ Qxd8 28.Qb5 c5 29.Kf1 Qd1+ 30.Be1 Qd8 31.Ke2 f6 32.Qc6 Kf7 33.f3 h6 34.Bg3 Ke7 35.h4 c4 36.Qe4+ Kf8 37.Qxc4 Qd7 38.h5 Ke7 39.e4 Kf8 40.Bf4 Qd8 41.Qd3 Ke7 42.Be3 Qc7 43.Qa3+ Kd7 44.Qb3 Bxe3 45.Qf7+ Kc8 46.Qxc7+ Kxc7 47.Kxe3 Kd7 48.Kd4 Kd6 49.f4 Kd7 50.Kd5 1-0

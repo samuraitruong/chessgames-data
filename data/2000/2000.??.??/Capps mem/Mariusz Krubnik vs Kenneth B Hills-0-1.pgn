@@ -1,0 +1,14 @@
+[Event "Capps mem"]
+[Site "San Francisco"]
+[Date "2000.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Mariusz Krubnik"]
+[Black "Kenneth B Hills"]
+[ECO "E10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.e3 Be7 5.Nc3 O-O 6.Bd3 Nbd7 7.cxd5 exd5 8.O-O c6 9.Rb1 Re8 10.b4 a6 11.Bc2 Bd6 12.Qd3 Ne4 13.Ne1 Qh4 14.g3 Qh3 15.Ne2 Re6 16.Nf4 Bxf4 17.exf4 Rh6 18.Nf3 Ndf6 19.Re1 Bg4 20.f5 Rh5 21.Bf4 Rxf5 22.Nh4 Rxf4 0-1

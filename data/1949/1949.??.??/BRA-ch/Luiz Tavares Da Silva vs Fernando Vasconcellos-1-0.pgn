@@ -1,0 +1,14 @@
+[Event "BRA-ch"]
+[Site "Rio de Janeiro BRA"]
+[Date "1949.??.??"]
+[EventDate "1949.08.22"]
+[Round "?"]
+[Result "1-0"]
+[White "Luiz Tavares Da Silva"]
+[Black "Fernando Vasconcellos"]
+[ECO "E01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 c6 5.Nf3 Be7 6.b3 O-O 7.O-O dxc4 8.bxc4 c5 9.e3 Qc7 10.Qb3 b6 11.Nc3 Bb7 12.Rd1 cxd4 13.exd4 Na6 14.Bf4 Qc8 15.Rac1 Ne4 16.Nb5 Rd8 17.Ne5 Nd6 18.c5 Nxb5 19.c6 Bxc6 20.Nxc6 Qd7 21.Qxb5 Nb4 22.Nxe7+ Qxe7 23.Rc7 1-0

@@ -1,0 +1,14 @@
+[Event "Vienna corr"]
+[Site "Austria-Hungary"]
+[Date "1898.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Josef Emil Krejcik"]
+[Black "Julius Thirring"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1.d4 e5 2.dxe5 d6 3.exd6 Bxd6 4.e4 Nf6 5.Bg5 O-O 6.Qf3 Be5 7.c3 Qd6 8.Bc4 Rd8 9.Bb3 Bg4 10.Qe3 Qd1+ 11.Bxd1 Rxd1# 0-1

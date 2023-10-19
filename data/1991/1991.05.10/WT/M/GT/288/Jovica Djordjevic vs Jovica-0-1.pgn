@@ -6,9 +6,9 @@
 [Result "0-1"]
 [White "Jovica Djordjevic"]
 [Black "Jovica"]
-[ECO "A26"]
+[ECO "A93"]
 [WhiteElo "?"]
-[BlackElo "2425"]
-[PlyCount "96"]
+[BlackElo "2355"]
+[PlyCount "64"]
 
-1.c4 e5 2.g3 g6 3.Bg2 Bg7 4.Nc3 Nc6 5.e4 d6 6.d3 f5 7.Nge2 Nf6 8.O-O O-O 9.exf5 Bxf5 10.h3 Qd7 11.g4 Be6 12.Ng3 Kh8 13.Be3 h6 14.Qd2 g5 15. Nd5 Bxd5 16.cxd5 Ne7 17.d4 Nfxd5 18.dxe5 Nxe3 19.Qxe3 d5 20.Nh5 Qe6 21. Nxg7 Kxg7 22.f4 gxf4 23.Rxf4 Rxf4 24.Qxf4 Rf8 25.Qd4 Qb6 26.Qxb6 axb6 27. Rd1 c6 28.Bf1 Ng6 29.Re1 Re8 30.e6 Kf6 31.Bd3 Ne5 32.Rf1+ Kxe6 33.Bf5+ Kd6 34.Kf2 c5 35.h4 b5 36.Kg3 Nc4 37.Rf2 Ne3 38.Bg6 Re6 39.Bh7 d4 40.g5 hxg5 41.hxg5 c4 42.g6 Re7 43.Bg8 Rg7 44.Bf7 c3 45.bxc3 dxc3 46.Bb3 Rxg6+ 47.Kf4 Nc4 48.Rc2 Rf6+ 0-1
+1.c4 f5 2.d4 Nf6 3.Nf3 e6 4.g3 Be7 5.Bg2 O-O 6.O-O d5 7.b3 b6 8.Ba3 c6 9.Bxe7 Qxe7 10.Ne5 Bb7 11.Nd2 c5 12.Ndf3 dxc4 13.Ng5 Bxg2 14.Kxg2 c3 15. e3 Nbd7 16.Nxd7 Nxd7 17.Nf3 cxd4 18.Qxd4 Rac8 19.Rac1 e5 20.Qd5+ Kh8 21. Rfd1 Rc7 22.Qb5 f4 23.exf4 exf4 24.g4 Nf6 25.h3 Rc5 26.Qb4 Qe8 27.Re1 Qb8 28.Re6 Rd8 29.a4 c2 30.Qe1 Qc8 31.Qe2 Nd5 32.Re1 Ne3+ 0-1
