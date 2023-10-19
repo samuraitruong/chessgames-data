@@ -1,0 +1,14 @@
+[Event "corres EUR"]
+[Site "EUR corr"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "J Plath"]
+[Black "Michael Reichel"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "14"]
+
+1.e4 e5 2.Nc3 Bc5 3.Na4 Bxf2+ 4.Kxf2 Qh4+ 5.Ke3 Qf4+ 6.Kd3 d5 7.Qf3 dxe4+ 0-1

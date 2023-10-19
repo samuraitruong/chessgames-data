@@ -1,0 +1,14 @@
+[Event "Chess Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.14"]
+[EventDate "1988.11.13"]
+[Round "2"]
+[Result "1-0"]
+[White "Abed-Rabou Habboush"]
+[Black "Stephen Kgatshe"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O d5 6.exd5 Nxd5 7.Nxd4 Nde7 8.Be3 Ne5 9.Bb3 c5 10.Nb5 Bd7 11.Nd6# 1-0

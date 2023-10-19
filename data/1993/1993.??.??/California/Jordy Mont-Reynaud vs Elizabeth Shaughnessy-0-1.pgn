@@ -1,0 +1,14 @@
+[Event "California"]
+[Site "California"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jordy Mont-Reynaud"]
+[Black "Elizabeth Shaughnessy"]
+[ECO "C26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 e5 2.Nc3 Nf6 3.d3 Bb4 4.f4 d5 5.fxe5 d4 6.exf6 dxc3 7.Nf3 cxb2+ 8.Ke2 bxa1=Q 9.Bd2 Qxd1+ 10.Kxd1 Bxd2 11.Kxd2 Qxf6 12.e5 Qf4+ 13.Kc3 Be6 14.Nd4 Qxe5 15.a4 Nc6 16.Kd2 Nxd4 17.c3 Qf4+ 18.Kd1 Bg4+ 19.Ke1 Qe3+ 20.Be2 Qxe2# 0-1

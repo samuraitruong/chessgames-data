@@ -1,0 +1,14 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "12.0"]
+[Result "0-1"]
+[White "Steffan Eckmann"]
+[Black "Peter Kahn"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 b5 6.Bf1 h6 7.Nxf7 Kxf7 8.dxc6 Bc5 9.Qf3 e4 10.Qc3 Bd4 11.Qb3+ Be6 12.Qxb5 Rb8 13.Qa4 Ng4 14.Bc4 Re8 15.d3 exd3 16.O-O Qd6 17.g3 Rb4 18.Bxe6+ Rxe6 19.Qa5 Re5 20.Bf4 Bxf2+ 21.Rxf2 Re1+ 22.Rf1 Rxf1+ 23.Kxf1 Rxf4+ 0-1

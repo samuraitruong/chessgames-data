@@ -1,0 +1,14 @@
+[Event "It (active)"]
+[Site "Oviedo ESP"]
+[Date "1991.12.??"]
+[EventDate "1991.12.00"]
+[Round "7"]
+[Result "1-0"]
+[White "Pilar Gutierrez"]
+[Black "Rosana Sanz"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Nc3 Bc5 5.d3 O-O 6.h3 d6 7.Bg5 Nd4 8.Nd5 b5 9.Bb3 Be6 10.Nxf6+ gxf6 11.Bh6 Re8 12.Nxd4 Bxb3 13.Qg4+ Kh8 14.Qg7# 1-0

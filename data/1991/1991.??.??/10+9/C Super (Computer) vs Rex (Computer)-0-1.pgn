@@ -1,0 +1,14 @@
+[Event "10+9"]
+[Site "10+9"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "C Super (Computer)"]
+[Black "Rex (Computer)"]
+[ECO "C56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5 7.Bxd5 Qxd5 8.Nc3 Qa5 9.Nxe4 Be6 10.Bg5 h6 11.Bd2 Qd5 12.c3 d3 13.Bf4 O-O-O 14.b3 f5 15.c4 Qd7 16.Nc3 Bb4 17.Bd2 Rhe8 18.a3 Be7 19.Ra2 g5 20.Nb5 Bf6 21.Bc3 Bxc3 22.Nxc3 Qg7 23.Nd5 g4 24.Nd2 Qd4 25.Nb4 Bd7 26.Nxc6 Bxc6 27.Rxe8 Rxe8 28.b4 Re2 29.Qf1 Qe5 30.b5 Bd7 31.Ra1 Rxd2 32.a4 Re2 33.Rd1 d2 34.b6 axb6 35.a5 0-1

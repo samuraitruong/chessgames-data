@@ -1,0 +1,14 @@
+[Event "Omaha"]
+[Site "Omaha"]
+[Date "1949.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Margulies"]
+[Black "Lwow"]
+[ECO "C28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 exf4 4.e5 Qe7 5.Qe2 Ng8 6.d4 Nc6 7.Nf3 d6 8.Nd5 Qd8 9.Nxc7+ Kd7 10.Nxa8 f6 11.Bxf4 Nge7 12.exd6 Nf5 13.d5 Ncd4 14.Qe6+ Nxe6 15.Bb5# 1-0

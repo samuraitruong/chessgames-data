@@ -1,0 +1,14 @@
+[Event "8+7"]
+[Site "8+7"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Mephisto (Computer)"]
+[Black "Conchess (Computer)"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 d5 7.exf6 dxc4 8.Re1+ Kf8 9.fxg7+ Kxg7 10.Nfd2 Qd5 11.b3 cxb3 12.Nxb3 f6 13.c4 Qd6 14.Qh5 h6 15.Nxc5 Ne5 16.Bf4 Qxc5 17.Rxe5 Qb4 18.Re8 Bf5 19.Bd2 Bg6 20.Bxb4 Bxh5 21.Re7+ Bf7 22.Rxc7 b6 23.Nd2 a5 24.Be7 Rhc8 25.Rd7 Rab8 26.Rd6 f5 27.Bf6+ Kh7 28.Bxd4 Rd8 29.Rxd8 Rxd8 30.Be3 Bg6 31.Rd1 Rb8 32.Nf3 h5 33.Ng5+ Kg7 34.Rd7+ Kg8 35.Bd4 Kf8 36.Rg7 Re8 37.Kf1 Rc8 38.Rxg6 Rxc4 39.Rxb6 Rc1+ 40.Ke2 Rc2+ 41.Ke3 Rxa2 42.Rf6+ Kg7 43.Ne6+ Kh7 44.Rxf5 1-0

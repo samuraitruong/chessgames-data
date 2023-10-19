@@ -1,0 +1,14 @@
+[Event "Marienbad"]
+[Site "Marienbad"]
+[Date "1861.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Philipp Hirschfeld"]
+[Black "O Holdheim"]
+[ECO "C28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.e4 e5 2.Nc3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.f4 d6 6.f5 O-O 7.g4 h6 8.h4 Nh7 9.g5 hxg5 10.hxg5 Bxg5 11.Qh5 Bh6 12.Bxh6 Nf6 13.Qg6 Ne8 14.Bxg7 Nxg7 15.Qh7# 1-0

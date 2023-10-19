@@ -1,0 +1,14 @@
+[Event "SchGambit II/57"]
+[Site "SchGambit II/57"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Rolf Rehfeld"]
+[Black "A Schneider"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 5.Nxf7 Bxf2+ 6.Kxf2 Nxe4+ 7.Ke3 Qe7 8.Nxh8 d5 9.Bxd5 Qc5+ 10.d4 Qxd5 11.Qh5+ g6 12.Qxh7 Qxd4+ 13.Kf3 Qf2+ 14.Kxe4 Bf5+ 15.Kd5 Qd4# 0-1

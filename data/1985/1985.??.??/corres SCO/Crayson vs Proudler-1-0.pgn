@@ -1,0 +1,14 @@
+[Event "corres SCO"]
+[Site "corres SCO"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Crayson"]
+[Black "Proudler"]
+[ECO "C29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 Nxc3 6.bxc3 Be6 7.d4 Be7 8.Bd3 O-O 9.Ne2 c5 10.O-O Nd7 11.Nf4 Nb6 12.Nxe6 fxe6 13.Qg4 Qd7 14.Bh6 Rxf1+ 15.Rxf1 Bf8 16.Rf3 Re8 17.Bb5 Qd8 18.Rxf8+ Rxf8 19.Qxg7# 1-0

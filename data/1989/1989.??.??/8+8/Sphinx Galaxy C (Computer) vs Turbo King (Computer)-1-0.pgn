@@ -1,0 +1,14 @@
+[Event "8+8"]
+[Site "8+8"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Sphinx Galaxy C (Computer)"]
+[Black "Turbo King (Computer)"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 d5 7.exf6 dxc4 8.Re1+ Kf8 9.Nbd2 Qxf6 10.Ne4 Qf5 11.Nxc5 Qxc5 12.Bf4 Qb6 13.c3 Bg4 14.cxd4 Bxf3 15.Qxf3 Qxb2 16.d5 Nd4 17.Qe4 f5 18.Qe5 Qc3 19.Rac1 Qd3 20.Bh6 gxh6 21.Qxh8+ Kf7 22.Qxa8 Ne2+ 23.Rxe2 Qxe2 24.Qxb7 Qxa2 25.Qxc7+ Kg6 26.Rxc4 Qb1+ 27.Rc1 Qb2 28.d6 Qe5 29.d7 Qd4 30.Rc6+ Kh5 31.d8=Q Qa1+ 32.Rc1 1-0

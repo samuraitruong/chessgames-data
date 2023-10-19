@@ -2,13 +2,13 @@
 [Site "Paris FRA"]
 [Date "1859.03.??"]
 [EventDate "1859.??.??"]
-[Round "5"]
+[Round "7"]
 [Result "0-1"]
 [White "Augustus Mongredien"]
 [Black "Paul Morphy"]
-[ECO "C33"]
+[ECO "C52"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "52"]
+[PlyCount "36"]
 
-1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Nf6 5. d3 Nxd5 6. exd5 Qxd5 7. Qe2+ Be6 8. Bxf4 Nc6 9. Nf3 O-O-O 10. Nc3 Bb4 11. O-O Qh5 12. a3 Bc5+ 13. Kh1 Bg4 14. Qd2 Rhe8 15. Rae1 Bxf3 16. Rxf3 Rxe1+ 17. Qxe1 Nd4 18. Rf1 Nxc2 19. Qc1 Nd4 20. b4 Bd6 21. Bxd6 Rxd6 22. Qe3 Nf5 23. Qf3 Qxf3 24. Rxf3 Rc6 25. Ne2 Nd4 26. Re3 Nxe2 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O Nf6 7. d4 O-O 8. d5 Ne7 9. Qd3 d6 10. h3 Ng6 11. Nh2 Nh5 12. Bb3 Nhf4 13. Bxf4 Nxf4 14. Qf3 f5 15. exf5 Bxf5 16. g4 Bd3 17. Qe3 Bb6 18. Qd2 Qh4 0-1
