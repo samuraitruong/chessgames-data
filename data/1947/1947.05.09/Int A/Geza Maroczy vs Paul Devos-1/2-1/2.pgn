@@ -1,0 +1,14 @@
+[Event "Int A"]
+[Site "Baarn NED"]
+[Date "1947.05.09"]
+[EventDate "1947.05.09"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Geza Maroczy"]
+[Black "Paul Devos"]
+[ECO "B85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 a6 7.O-O Qc7 8.a4 Nc6 9.Kh1 Be7 10.f4 O-O 11.Nb3 b6 12.Bf3 Bb7 13.Qe1 Nb4 14.Qf2 d5 15.e5 Ne4 16.Bxe4 dxe4 17.Be3 Qc6 18.Nd4 Qc7 19.Qg3 Nc6 20.Nxc6 Qxc6 1/2-1/2

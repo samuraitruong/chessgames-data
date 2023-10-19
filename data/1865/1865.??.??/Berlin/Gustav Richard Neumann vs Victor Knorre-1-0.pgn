@@ -6,9 +6,9 @@
 [Result "1-0"]
 [White "Gustav Richard Neumann"]
 [Black "Victor Knorre"]
-[ECO "C51"]
+[ECO "C66"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "49"]
+[PlyCount "53"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8. cxd4 Bb6 9. Nc3 Na5 10. Bd3 Ne7 11. Bb2 O-O 12. Ne2 Ng6 13. Ng3 Bd7 14. Qd2 a6 15. Rac1 Bb5 16. Nf5 f6 17. d5 Ne5 18. Nxe5 fxe5 19. Kh1 Bxd3 20. Qxd3 Qe8 21. f4 g6 22. Nh6+ Kg7 23. fxe5 Rxf1+ 24. Rxf1 Qb5 25. Rf7+ 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. Nc3 d6 6. d4 Bd7 7. d5 Nb8 8. Qe2 O-O 9. Bxd7 Nbxd7 10. Nd1 Nc5 11. Nd2 Ne8 12. f4 exf4 13. Rxf4 Bg5 14. Rf3 Qe7 15. b4 Nd7 16. Ne3 Qe5 17. Rb1 Nef6 18. Bb2 Qe8 19. Rg3 Bf4 20. Rxg7+ Kh8 21. Ng4 Be5 22. Bxe5 Kxg7 23. Qe3 dxe5 24. Qh6+ Kh8 25. Nxf6 Nxf6 26. Qxf6+ Kg8 27. Rb3 1-0

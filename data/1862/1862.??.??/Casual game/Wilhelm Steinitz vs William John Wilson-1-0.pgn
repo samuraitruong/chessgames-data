@@ -1,15 +1,15 @@
 [Event "Casual game"]
 [Site "London ENG"]
 [Date "1862.??.??"]
-[EventDate "1862.??.??"]
+[EventDate "?"]
 [Round "?"]
 [Result "1-0"]
 [White "Wilhelm Steinitz"]
 [Black "William John Wilson"]
-[ECO "C39"]
+[ECO "C57"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[Source "The Era, 1862.10.26, p.14"]
-[PlyCount "39"]
+[Source "Illustrated London News, 1862.10.25, p.451"]
+[PlyCount "51"]
 
-1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. d4 Nh5 9. Bb5+ Kf8 10. O-O Qxh4 11. Bxf4 g3 12. Bh6+ Kg8 13. Rf3 Qh2+ 14. Kf1 Qh1+ 15. Ke2 Qxg2+ 16. Ke3 f6 17. Bc4 fxe5 18. Rf8+ Bxf8 19. d6+ Be6 20. Bxe6# 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Nxe4 5. Bxf7+ Ke7 6. d3 Nf6 7. Bb3 d5 8. O-O Bg4 9. f3 Bh5 10. Nc3 Nd4 11. Qe1 Kd7 12. Qxe5 Bc5 13. Kh1 Re8 14. Qg3 c6 15. f4 Nf5 16. Qh3 Bg6 17. Nf3 Bd6 18. Ne5+ Kc7 19. Bd2 Qc8 20. Rae1 Bh5 21. g4 Bxe5 22. fxe5 Bxg4 23. Qg2 Nh5 24. e6 Rxe6 25. Qxg4 Rxe1 26. Bxe1 1-0

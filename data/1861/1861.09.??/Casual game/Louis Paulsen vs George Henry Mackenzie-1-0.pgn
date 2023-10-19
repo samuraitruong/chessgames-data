@@ -6,10 +6,9 @@
 [Result "1-0"]
 [White "Louis Paulsen"]
 [Black "George Henry Mackenzie"]
-[ECO "C51"]
+[ECO "C55"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[Source "The Field, 1862.11.15, p.451"]
 [PlyCount "49"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8. cxd4 Bb6 9. Bb2 Nf6 10. d5 Na5 11. Bd3 O-O 12. Nc3 Bg4 13. Ne2 Bxf3 14. gxf3 c5 15. Qd2 c4 16. Bc2 Rc8 17. Bc3 Rc5 18. Kh1 Ne8 19. Rg1 f6 20. Nf4 Nc7 21. Nh5 Rf7 22. Qh6 Qf8 23. Ba4 Kh8 24.Rxg7 Rxg7 25.Bxf6 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8. fxg7 Rg8 9. Bg5 Qd6 10. Nbd2 Bf5 11. Re1+ Kd7 12. Nxc4 Qd5 13. Nce5+ Kc8 14. c4 Qd6 15. Nxc6 Qxc6 16. Nxd4 Bxd4 17. Qxd4 b6 18. b4 Qg6 19. Bf4 Be6 20. Qe5 Kb7 21. Qxc7+ Ka6 22. b5+ Ka5 23. Bd2+ Ka4 24. Qd6 a5 25. bxa6 1-0

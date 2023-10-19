@@ -1,0 +1,14 @@
+[Event "Nuremberg"]
+[Site "Nuremberg GER"]
+[Date "1883.07.17"]
+[EventDate "1883.07.16"]
+[Round "3"]
+[Result "0-1"]
+[White "Max Weiss"]
+[Black "Emil Schallopp"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 Bc5 6.O-O b5 7.Bb3 d6 8.d3 Bg4 9.Ne2 Qd7 10.Ng3 Nd4 11.c3 Bxf3 12.gxf3 Nxb3 13.axb3 h5 14.Be3 h4 15.Ne2 Qh3 16.Nc1 g5 17.Kh1 g4 18.Rg1 Bxe3 19.fxe3 gxf3 20.Qf1 Ng4 0-1

@@ -6,10 +6,10 @@
 [Result "0-1"]
 [White "Bernhard Horwitz"]
 [Black "Howard Staunton"]
-[ECO "B21"]
+[ECO "C53"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[Source "Chess Player’s Chronicle, vol.xii (1851), p.231"]
-[PlyCount "70"]
+[Source "Chess Player’s Chronicle, vol.xii (1851), p.204"]
+[PlyCount "49"]
 
-1.e4 c5 2.f4 e6 3.Nf3 Nc6 4.c3 g6 5.Be2 Bg7 6.O-O Nh6 7.d3 O-O 8.Na3 d5 9.Be3 b6 10.h3 Qe7 11.Qc1 Kh8 12.f5 Ng8 13.fxe6 Bxe6 14.exd5 Bxd5 15.Ng5 Rae8 16.Bf3 Bxf3 17.Rxf3 Ne5 18.Bf4 Nxf3+ 19.Nxf3 Rd8 20.Qc2 Qd7 21.Rd1 b5 22.Qb3 a6 23.c4 Qf5 24.Be3 Rfe8 25.Nc2 b4 26.d4 Nf6 27.Rf1 cxd4 28.Bxd4 Ne4 29.Bxg7+ Kxg7 30.Qxb4 Ng3 31.Rf2 Rd1+ 32.Nfe1 Qe5 33.Rf3 Rb8 34.Qa3 Rxe1+ 35.Nxe1 Qxe1+ 0-1
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d5 6.exd5 Nxd5 7.b4 Bb6 8.b5 Nce7 9.Nxe5 O-O 10.Bb2 Be6 11.O-O Kh8 12.a4 f6 13.Nf3 Ng6 14.Ba3 Re8 15.Qb3 Ngf4 16.Ra2 a6 17.bxa6 bxa6 18.Bc1 Rb8 19.Qc2 Bg4 20.Bxd5 Ne2+ 21.Kh1 Qxd5 22.c4 Qxf3 23.h3 Bxf2 24.Nd2 Ng3+ 25.Kh2 0-1

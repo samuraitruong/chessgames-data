@@ -6,9 +6,9 @@
 [Result "0-1"]
 [White "Gustav Dufresne"]
 [Black "Adolf Anderssen"]
-[ECO "C33"]
+[ECO "C77"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "100"]
+[PlyCount "84"]
 
-1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 g5 5.Nc3 Bg7 6.g3 fxg3 7.Kg2 Qh6 8.hxg3 Qg6 9.d4 Ne7 10.Nf3 h6 11.b3 d6 12.e5 Bf5 13.Qe2 Nbc6 14.exd6 cxd6 15.Nb5 O-O-O 16.Nxa7+ Kb8 17.Nb5 Be4 18.Bxf7 g4 19.Bxg6 Bxf3+ 20.Qxf3 gxf3+ 21.Kxf3 Nxg6 22.c3 Rhf8+ 23.Kg2 Rde8 24.Ba3 Re2+ 25.Kh3 Rf5 26.Nxd6 Rf3 27.Nb5 h5 28.Bd6+ Kc8 29.Rae1 Ref2 30.Re6 Bf6 31.Rhe1 Nd8 32.R6e2 Nf7 33.Rxf2 Rxf2 34.Bf4 Kd7 35.Be3 Ng5+ 36.Bxg5 Bxg5 37.a4 Ne7 38.Re5 Nf5 39.Rd5+ Ke7 40.Re5+ Kf6 41.Nc7 Nh6 42.Nd5+ Kg6 43.Re6+ Kf7 44.Re4 Ng4 45.Rxg4 hxg4+ 46.Kxg4 Bd2 47.c4 Ke6 48.b4 Kd6 49.a5 Be1 50.Kg5 Rb2 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Bc5 6. d3 O-O 7. Be3 Qe7 8. O-O Ba7 9. Re1 d6 10. d4 Bg4 11. d5 Nb8 12. Bxa7 Rxa7 13. Re3 b5 14. Bb3 Nh5 15. Qe1 Nd7 16. Nd2 Nf4 17. f3 Bh5 18. Ne2 Qg5 19. Ng3 Bg6 20. Qf2 h5 21. Kh1 h4 22. Ngf1 Nf6 23. g3 hxg3 24. Qxg3 Qh6 25. h4 Nh7 26. c4 f5 27. c5 Nh5 28. Qg1 fxe4 29. fxe4 Rf4 30. Rh3 N7f6 31. cxd6 cxd6 32. Qxa7 Ng4 33. Rf3 Rxf3 34. Nxf3 Bxe4 35. Kg1 Bxf3 36. Bd1 Qf4 37. a4 Bxd5 38. Qb8+ Kh7 39. Bc2+ g6 40. Qa7+ Kh6 41. Ra3 Qc1 42. Rc3 Nf4 0-1

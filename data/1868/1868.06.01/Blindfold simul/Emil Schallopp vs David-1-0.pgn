@@ -1,0 +1,14 @@
+[Event "Blindfold simul"]
+[Site "Hamburg GER"]
+[Date "1868.06.01"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Emil Schallopp"]
+[Black "David"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 g5 5.Nc3 Bg7 6.d4 d6 7.Nf3 Qh5 8.h4 h6 9.Kg1 g4 10.Ne1 Ne7 11.Bxf4 O-O 12.Ne2 Nbc6 13.c3 Bd7 14.Bg3 Ng6 15.Nd3 Rae8 16.Bd5 Nxh4 17.Rxh4 Qg6 18.Nef4 Qg5 19.Rh5 Qd8 20.Ng6 Ne7 21.Nxf8 Rxf8 22.Bh4 1-0
