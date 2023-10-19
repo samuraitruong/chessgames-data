@@ -2,13 +2,13 @@
 [Site "London ENG"]
 [Date "1864.01.??"]
 [EventDate "?"]
-[Round "7"]
+[Round "5"]
 [Result "0-1"]
 [White "Valentine Green"]
 [Black "Wilhelm Steinitz"]
-[ECO "A00"]
+[ECO "C55"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "42"]
+[PlyCount "38"]
 
-1. e3 f5 2. f4 Nf6 3. Nf3 e6 4. b3 Be7 5. Bb2 O-O 6. c4 c5 7. Nc3 Nc6 8. Be2 d5 9. cxd5 exd5 10. O-O Kh8 11. Ng5 h6 12. Nh3 d4 13. Nb5 a6 14. Na3 Ne4 15. Nf2 Bf6 16. Nd3 Be6 17. Nc4 Bxc4 18. bxc4 Qa5 19. Bf3 Nxd2 20. Re1 Nxc4 21. Bxc6 bxc6 0-1
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bd5 e4 7.Re1 Be7 8.Ne5 O-O 9.Nc3 Bf6 10.Bf4 Nf5 11.Qh5 g6 12.Nxg6 Ng7 13.Qh6 hxg6 14.Nxe4 Ne6 15.Bxc6 Bg7 16.Qh3 Nxf4 17.Qf3 dxc6 18.Qxf4 Bf5 19.Ng5 Bh6 0-1

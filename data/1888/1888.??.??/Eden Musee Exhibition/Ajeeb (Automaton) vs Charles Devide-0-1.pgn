@@ -1,0 +1,14 @@
+[Event "Eden Musee Exhibition"]
+[Site "New York, NY USA"]
+[Date "1888.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ajeeb (Automaton)"]
+[Black "Charles Devide"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Nxe4 5.Nxf7 Qh4 6.Qe2 Bc5 7.g3 Qf6 8.Qxe4 Qxf2+ 9.Kd1 d5 10.Bxd5 Bf5 11.Bxc6+ bxc6 12.Qxe5+ Kxf7 13.Qxc7+ Kg8 14.Qf4 Qxf4 15.gxf4 Bg4+ 16.Ke1 Re8+ 17.Kf1 Bh3# 0-1

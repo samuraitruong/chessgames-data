@@ -6,9 +6,9 @@
 [Result "0-1"]
 [White "Adolf Anderssen"]
 [Black "Gustav Richard Neumann"]
-[ECO "C38"]
+[ECO "C59"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "76"]
+[PlyCount "82"]
 
-1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.d4 d6 6.h4 h6 7.Nc3 Nc6 8.Ne2 Qe7 9.Qd3 Bd7 10.Bd2 O-O-O 11.Bc3 Nf6 12.d5 Ne5 13.Nxe5 dxe5 14.a3 Ng4 15.Bb4 Qf6 16.Bc5 b6 17.Ba6+ Kb8 18.Qb3 Bf8 19.Bg1 Be7 20.a4 Qd6 21.c3 f5 22.exf5 Bxf5 23.Bc4 Be4 24.a5 Bxd5 25.axb6 cxb6 26.Qa4 Qc7 27.Bxd5 Rxd5 28.b4 Rhd8 29.c4 Rd2 30.c5 e4 31.cxb6 Rxe2+ 32.Kf1 Qc4 33.Qxa7+ Kc8 34.b7+ Kd7 35.b8=Q+ Ke8 36.Qa4+ Kf7 37.Qbb5 Rf2+ 38.Ke1 Rf1# 0-1
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ c6 7.dxc6 bxc6 8.Be2 h6 9.Nf3 e4 10.Ne5 Qc7 11.d4 exd3 12.Nxd3 Bd6 13.h3 O-O 14.Nd2 Re8 15.O-O Bf5 16.Nf3 Rad8 17.Bd2 Nc4 18.Bc3 Nd5 19.Nd4 Bg6 20.Bf3 Nxc3 21.bxc3 Ne5 22.Rb1 Nxd3 23.cxd3 c5 24.Nb5 Qa5 25.Bc6 Re6 26.Re1 Be5 27.Qb3 c4 28.dxc4 Bxb1 29.Qxb1 a6 30.Bd5 axb5 31.Bxe6 Bxc3 32.Re2 fxe6 33.cxb5 e5 34.Qb3+ Kh8 35.Rc2 Bd4 36.Kh2 Rf8 37.a4 Qe1 38.Qa3 Rg8 39.Qa2 e4 40.Re2 Qf1 41.a5 Rf8 0-1
