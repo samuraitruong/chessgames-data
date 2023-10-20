@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.31"]
+[EventDate "2020.07.31"]
+[Round "1"]
+[Result "0-1"]
+[White "Stela Lourenco Lima"]
+[Black "Jennika Lynch"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "1399"]
+[PlyCount "118"]
+
+1. d4 d5 2. e3 Nf6 3. Nc3 Bf5 4. Nf3 e6 5. Bb5+ c6 6. Bd3 Bxd3 7. Qxd3 Bb4 8. Bd2 O-O 9. O-O Re8 10. a3 Bxc3 11. Bxc3 Ne4 12. Bb4 a5 13. Bd2 c5 14. dxc5 Nxc5 15. Qb5 b6 16. Ne5 Ne4 17. Nc6 Nxc6 18. Qxc6 Nxd2 19. Rfd1 Nc4 20. b4 axb4 21. axb4 Rxa1 22. Rxa1 Qc8 23. Qb5 h6 24. h3 Rd8 25. Kh1 Qd7 26. Qxd7 Rxd7 27. Ra8+ Kh7 28. Rf8 Na3 29. c3 Nb1 30. Rc8 Rb7 31. g4 Nd2 32. Kg2 Ne4 33. f3 Nd6 34. Rc6 Nb5 35. Kg3 Kg6 36. Kh4 Rc7 37. Rxb6 Nxc3 38. f4 Kh7 39. g5 hxg5+ 40. fxg5 g6 41. b5 Rc4+ 42. Kg3 Ne4+ 43. Kf4 Nc3+ 44. Ke5 Re4+ 45. Kf6 Rxe3 46. Rb7 Rf3+ 47. Ke7 Na4 48. Kf8 d4 49. h4 d3 50. Rd7 Nc5 51. Rd4 Rf2 52. b6 d2 53. Ke7 Nb3 54. b7 Nxd4 55. b8=Q Nc6+ 56. Kd6 Nxb8 57. Ke7 d1=Q 58. Ke8 Qd7+ 59. Kf8 Qd8# 0-1

@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.07"]
+[EventDate "2020.08.07"]
+[Round "1"]
+[Result "0-1"]
+[White "Juan Carlos Mesa Cruz"]
+[Black "Shiva Kalka"]
+[ECO "B40"]
+[WhiteElo "1978"]
+[BlackElo "1614"]
+[PlyCount "50"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 exd5 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. O-O Bd6 8. d4 Ne7 9. dxc5 Nxc5 10. Nbd2 O-O 11. Nb3 Ne4 12. Qd3 Re8 13. Be3 Nf5 14. Rfe1 Qd7 15. Rad1 Nxe3 16. Rxe3 Rad8 17. Nbd4 a6 18. Qe2 Bf4 19. Qd3 Bxe3 20. Qxe3 Qa4 21. Ra1 Rd6 22. Nf5 Rf6 23. N3d4 Qd7 24. Re1 Nd6 25. Ne7+ Kf8 0-1

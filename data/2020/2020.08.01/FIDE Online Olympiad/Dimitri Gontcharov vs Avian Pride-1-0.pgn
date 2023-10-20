@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.01"]
+[EventDate "2020.07.31"]
+[Round "5"]
+[Result "1-0"]
+[White "Dimitri Gontcharov"]
+[Black "Avian Pride"]
+[ECO "C44"]
+[WhiteElo "1456"]
+[BlackElo "1208"]
+[PlyCount "121"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. d5 Nce7 5. Nc3 f5 6. Bc4 fxe4 7. Nxe4 c6 8. Bg5 Qa5+ 9. c3 cxd5 10. Nxd6+ Kd7 11. Nf7 h6 12. N3xe5+ Ke6 13. Bxe7 Nxe7 14. Qg4+ Kf6 15. Qf4+ Nf5 16. Nxh8 dxc4 17. Nhf7 Be6 18. g4 g5 19. Qf3 Bd6 20. gxf5 Bxf5 21. Nxd6 Qxe5+ 22. Ne4+ Qxe4+ 23. Qxe4 Bxe4 24. Rg1 Re8 25. O-O-O Re6 26. Rd7 Bf5 27. Rxb7 a6 28. Ra7 h5 29. Rd1 Bg4 30. Rg1 Kf5 31. Rf7+ Ke4 32. Rd7 Kf5 33. Rf7+ Rf6 34. Rxf6+ Kxf6 35. b3 cxb3 36. axb3 Be6 37. Kb2 g4 38. c4 Kf5 39. Kc3 Kf4 40. c5 Kf3 41. Re1 Bd7 42. Re7 Bb5 43. Rh7 Be8 44. Rh8 Bf7 45. Rf8 Kg2 46. Rxf7 Kxh2 47. Rh7 Kg2 48. Rxh5 Kxf2 49. Rg5 g3 50. Rxg3 Kxg3 51. c6 Kf4 52. c7 Ke5 53. c8=Q Kd6 54. Kd4 a5 55. Qc5+ Kd7 56. Kd5 Kd8 57. Kd6 Ke8 58. Qc7 Kf8 59. Ke6 Kg8 60. Kf6 Kh8 61. Qg7# 1-0

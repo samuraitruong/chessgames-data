@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.01"]
+[EventDate "2020.07.31"]
+[Round "5"]
+[Result "0-1"]
+[White "Aaron Ramtulla"]
+[Black "Moses Mufandaedza"]
+[ECO "B06"]
+[WhiteElo "1191"]
+[BlackElo "1962"]
+[PlyCount "62"]
+
+1. e4 g6 2. Nc3 Bg7 3. d4 a6 4. Nf3 b5 5. a3 d6 6. e5 dxe5 7. Nxe5 Bxe5 8. dxe5 Qxd1+ 9. Nxd1 Nc6 10. f4 f6 11. exf6 Nxf6 12. b4 Nd4 13. Bd3 Bf5 14. Bxf5 gxf5 15. O-O Nxc2 16. Ra2 Nd4 17. Bb2 O-O-O 18. Bc3 Ne4 19. Re1 Rhg8 20. h3 Nf3+ 21. Kf1 Nxe1 22. Bxe1 Rxd1 23. Ke2 Rgd8 24. g4 e6 25. g5 R1d3 26. h4 Rh3 27. Rc2 Rh2+ 28. Kf1 Rxc2 29. h5 Rd1 30. g6 Ng3+ 31. Kg1 Rxe1# 0-1

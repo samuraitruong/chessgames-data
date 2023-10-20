@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.07"]
+[EventDate "2020.08.07"]
+[Round "3"]
+[Result "0-1"]
+[White "Meilin Hoshino"]
+[Black "Yuen Tung Huang"]
+[ECO "D50"]
+[WhiteElo "1373"]
+[BlackElo "1252"]
+[PlyCount "58"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Bd3 dxc4 7. Bxc4 c5 8. Bxf6 Bxf6 9. Nf3 cxd4 10. Nxd4 Bd7 11. O-O Nc6 12. Ne4 Bxd4 13. exd4 Ne7 14. Qf3 Bc6 15. Qd3 Qa5 16. Rad1 Rfd8 17. Ng3 Rd7 18. Qc3 Qg5 19. Be2 Rad8 20. Rd2 Nd5 21. Qc1 Nf4 22. f3 h5 23. Rf2 Rxd4 24. Rc2 Nxe2+ 25. Nxe2 Rd1+ 26. Qxd1 Rxd1+ 27. Rf1 Qe3+ 28. Kh1 Rxf1+ 29. Ng1 Qxg1# 0-1

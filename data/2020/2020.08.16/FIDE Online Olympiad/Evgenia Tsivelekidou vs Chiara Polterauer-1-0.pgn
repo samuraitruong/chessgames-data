@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.16"]
+[EventDate "2020.08.14"]
+[Round "9"]
+[Result "1-0"]
+[White "Evgenia Tsivelekidou"]
+[Black "Chiara Polterauer"]
+[ECO "A70"]
+[WhiteElo "1668"]
+[BlackElo "2092"]
+[PlyCount "73"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 d6 5. Nf3 exd5 6. cxd5 g6 7. e4 Bg7 8. h3 O-O 9. Be2 a6 10. a4 Re8 11. Nd2 Nbd7 12. O-O Rb8 13. Qc2 Qc7 14. a5 b5 15. axb6 Nxb6 16. Nb3 Nfd7 17. Bxa6 Bxa6 18. Rxa6 c4 19. Nd2 Nc5 20. Ra1 Nd3 21. Nb5 Qc5 22. Na3 Nb4 23. Qd1 Bd4 24. Naxc4 Nd3 25. Nxb6 Bxf2+ 26. Kh2 Rxb6 27. Nf3 Qb5 28. Bh6 Bc5 29. Ng5 Rb7 30. Qf3 f5 31. exf5 Ne5 32. Qf4 Qd7 33. fxg6 hxg6 34. Ne6 Rxb2 35. Ng5 Rb7 36. Qf8+ Rxf8 37. Rxf8# 1-0

@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "Gut Sosaar"]
+[Date "1876.01.07"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Harry v Sivers"]
+[Black "Friedrich Amelung"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Baltische Schachblatter no.4, p.281"]
+[PlyCount "64"]
+[SetUp "1"]
+[FEN "rnb1kbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. O-O Bg4 5. Qe2 Bh5 6. Qd3 Nd7 7. Nc3 c6 8. Nh4 b5 9. Bb3 a5 10. Nf5 Nc5 11. Nxd6+ Kd7 12. Qh3+ Kxd6 13. Qxh5 g6 14. Qf3 Be7 15. Qxf7 a4 16. Qxg6+ Nf6 17. Bf7 Raf8 18. d3 Rh7 19. Bxh6 Rfxf7 20. b3 Ne6 21. Be3 Rhg7 22. Qh6 Rg8 23. bxa4 Rh7 24. Bc5+ Nxc5 25. Qe3 Rxh2 26. Qf3 Rgh8 27. g3 Ne6 28. Qe3 Rh1+ 29. Kg2 R8h2+ 30. Kf3 Rxf1 31. Rxf1 Nd4+ 32. Qxd4+ exd4 0-1

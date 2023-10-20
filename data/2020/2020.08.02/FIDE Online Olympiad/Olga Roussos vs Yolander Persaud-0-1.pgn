@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.02"]
+[EventDate "2020.07.31"]
+[Round "9"]
+[Result "0-1"]
+[White "Olga Roussos"]
+[Black "Yolander Persaud"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "1109"]
+[PlyCount "76"]
+
+1. d4 Nf6 2. e3 g6 3. Bd3 Bg7 4. Nf3 d6 5. Nc3 Bg4 6. O-O O-O 7. Be2 Nbd7 8. e4 e5 9. Bd2 Bxf3 10. Bxf3 exd4 11. Ne2 Re8 12. c3 d3 13. Bg5 dxe2 14. Qxe2 h6 15. Bxf6 Bxf6 16. Rfd1 Bg7 17. Rd2 a5 18. Re1 a4 19. a3 Nc5 20. Qd1 Qd7 21. Rde2 Rad8 22. Re3 b6 23. Qc1 Re7 24. b4 axb3 25. R1e2 Qa4 26. Rb2 Rde8 27. Rbe2 f5 28. e5 Rxe5 29. Rxe5 Rxe5 30. Rxe5 Bxe5 31. Bd1 Nd3 32. Qb1 Kh7 33. Qxd3 Qxa3 34. Qb1 b2 35. Bc2 Qa1 36. Qd1 Qxd1+ 37. Bxd1 b1=Q 38. Kf1 Qxd1# 0-1

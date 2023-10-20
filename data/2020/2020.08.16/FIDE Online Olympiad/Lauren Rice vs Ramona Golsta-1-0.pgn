@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.16"]
+[EventDate "2020.08.14"]
+[Round "7"]
+[Result "1-0"]
+[White "Lauren Rice"]
+[Black "Ramona Golsta"]
+[ECO "A18"]
+[WhiteElo "1415"]
+[BlackElo "1778"]
+[PlyCount "43"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. cxd5 exd5 5. e5 Nfd7 6. d4 c6 7. Nf3 Be7 8. Bd3 O-O 9. O-O Nb6 10. Rb1 Bg4 11. Qc2 h6 12. Kh1 Bxf3 13. gxf3 Bg5 14. f4 Bh4 15. Rg1 Nc4 16. f5 Nd7 17. Bxh6 g6 18. fxg6 f6 19. g7 Re8 20. Bh7+ Kf7 21. g8=Q+ Rxg8 22. Bxg8+ 1-0

@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.31"]
+[EventDate "2020.07.31"]
+[Round "3"]
+[Result "0-1"]
+[White "Dimitri Gontcharov"]
+[Black "Jose Nahum Espinoza Solano"]
+[ECO "B22"]
+[WhiteElo "1456"]
+[BlackElo "1874"]
+[PlyCount "64"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 g6 6. Nbd2 Bg7 7. Bc4 Qd8 8. O-O O-O 9. Re1 Nc6 10. Nb3 cxd4 11. cxd4 Bg4 12. Be3 Nb4 13. a3 Bxf3 14. gxf3 Nbd5 15. Rc1 Rc8 16. Nc5 b6 17. Nb3 Qd7 18. Nd2 Rfd8 19. Ne4 Qf5 20. Ng3 Qh3 21. Bxd5 Nxd5 22. Qb3 Rxc1 23. Rxc1 h5 24. Qa4 h4 25. Ne4 Qxf3 26. Ng5 Qg4+ 27. Kf1 Nxe3+ 28. fxe3 Qxg5 29. Qxa7 Qxe3 30. Re1 Qf3+ 31. Kg1 Bxd4+ 32. Re3 Bxe3# 0-1

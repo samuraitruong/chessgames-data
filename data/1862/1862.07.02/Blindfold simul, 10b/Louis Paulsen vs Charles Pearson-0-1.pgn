@@ -1,0 +1,15 @@
+[Event "Blindfold simul, 10b"]
+[Site "London ENG"]
+[Date "1862.07.02"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Louis Paulsen"]
+[Black "Charles Pearson"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Chess Congress of 1862, p.316"]
+[PlyCount "38"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 e6 4.Nf3 h6 5.Bd3 c5 6.c4 Nb4 7.d5 exd5 8.cxd5 Qa5 9.O-O b5 10.Nc3 Nxd3 11.Qxd3 Ba6 12.Ne4 b4 13.Re1 Bxd3 14.Nd6+ Bxd6 15. exd6+ Kd8 16.Ne5 Bg6 17.Nxg6 fxg6 18.Re7 b3 19.a3 Re8 0-1

@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.31"]
+[EventDate "2020.07.31"]
+[Round "3"]
+[Result "1-0"]
+[White "Maria Varona-Thomas"]
+[Black "Sarah Kamara"]
+[ECO "D00"]
+[WhiteElo "1733"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Nc6 4. Nd2 Bg4 5. f3 Bh5 6. h4 e6 7. g4 Bg6 8. h5 Bxh5 9. gxh5 Nxh5 10. Rxh5 g6 11. Rh1 Bb4 12. c3 Bd6 13. Bxd6 Qxd6 14. f4 O-O-O 15. Ngf3 f5 16. Qa4 a6 17. O-O-O h5 18. Nb3 Rhe8 19. Nc5 b6 20. Qxa6+ Kb8 21. Qb7# 1-0

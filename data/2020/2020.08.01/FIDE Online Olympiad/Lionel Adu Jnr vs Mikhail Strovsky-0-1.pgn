@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.01"]
+[EventDate "2020.07.31"]
+[Round "6"]
+[Result "0-1"]
+[White "Lionel Adu Jnr"]
+[Black "Mikhail Strovsky"]
+[ECO "A00"]
+[WhiteElo "1907"]
+[BlackElo "1939"]
+[PlyCount "162"]
+
+1. g3 d5 2. Bg2 e6 3. d4 Nf6 4. Bg5 Be7 5. Nf3 O-O 6. O-O Nbd7 7. c3 b6 8. Nbd2 Bb7 9. Re1 c5 10. Bxf6 Bxf6 11. e3 Qc7 12. Rc1 Rac8 13. Nb3 Ba6 14. Nfd2 c4 15. Na1 Bb7 16. e4 dxe4 17. Nxe4 Rfd8 18. Qf3 Bxe4 19. Qxe4 e5 20. Nc2 exd4 21. cxd4 Qd6 22. Red1 Re8 23. Qg4 Nf8 24. Na3 Qb4 25. Rc2 c3 26. Nb1 Rc4 27. bxc3 Qa4 28. Rdc1 Rec8 29. Nd2 R4c7 30. Nb3 Be7 31. Qf3 Ba3 32. Rd1 Ne6 33. d5 Nc5 34. d6 Rd7 35. Bh3 Ne6 36. Bxe6 fxe6 37. Qd3 Rxd6 38. Qe2 Rxd1+ 39. Qxd1 Re8 40. Nd4 e5 41. Nf5 Bf8 42. Ne3 Qe4 43. Qd5+ Qxd5 44. Nxd5 Rc8 45. Re2 Bd6 46. Kg2 Kf7 47. Kf3 Ke6 48. Ke4 Rc4+ 49. Kd3 Kxd5 50. Rd2 Kc5 51. f3 Ra4 52. Ke3 Kc6 53. h4 Ra3 54. Rc2 Bb4 55. Kd2 Rxc3 56. Rxc3+ Bxc3+ 57. Kxc3 Kd5 58. Kd3 a6 59. a3 b5 60. h5 g5 61. hxg6 hxg6 62. g4 g5 63. Ke3 a5 64. Kd3 b4 65. a4 Kc5 66. Ke4 b3 67. Kxe5 b2 68. Kf5 b1=Q+ 69. Kxg5 Qb4 70. f4 Qxa4 71. f5 Qc4 72. f6 Qf7 73. Kf5 a4 74. g5 a3 75. g6 Qd5+ 76. Kg4 Qe4+ 77. Kg5 Qe5+ 78. Kh6 Qxf6 79. Kh7 a2 80. g7 a1=Q 81. g8=Q Qh1# 0-1

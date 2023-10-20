@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.02"]
+[EventDate "2020.07.31"]
+[Round "7"]
+[Result "0-1"]
+[White "Krishi Shah"]
+[Black "Sophie Yi-Hsuan Tsai"]
+[ECO "B27"]
+[WhiteElo "1600"]
+[BlackElo "1155"]
+[PlyCount "166"]
+
+1. e4 c5 2. Nf3 g6 3. Bc4 Bg7 4. Nc3 Nc6 5. d3 Nf6 6. O-O O-O 7. Be3 b6 8. Qd2 Ng4 9. Bf4 d6 10. h3 Nge5 11. Nxe5 Nxe5 12. Bd5 Rb8 13. a4 e6 14. Bb3 Qe7 15. Bh6 Bb7 16. Bxg7 Kxg7 17. f4 Nd7 18. f5 exf5 19. exf5 Rbe8 20. Rae1 Qd8 21. Nb5 Rxe1 22. Qxe1 Nf6 23. Qg3 Nh5 24. Qxd6 Qg5 25. Bd5 Bxd5 26. Qxd5 Qe3+ 27. Kh2 Qg3+ 28. Kh1 Qe3 29. Rd1 Ng3+ 30. Kh2 Nxf5 31. Qf3 Qe5+ 32. Kg1 Qxb2 33. c4 a6 34. Nc7 Qd4+ 35. Kh1 Qe5 36. Nd5 Ng3+ 37. Kg1 Ne2+ 38. Kf2 Nd4 39. Qe4 Qxe4 40. dxe4 Rb8 41. Rb1 b5 42. axb5 axb5 43. cxb5 Rxb5 44. Rxb5 Nxb5 45. Ke3 c4 46. Nb4 Kf6 47. Kd2 Ke5 48. Ke3 Nd6 49. g3 f5 50. Nc6+ Ke6 51. e5 Ne4 52. g4 fxg4 53. hxg4 Nc5 54. Kd4 Nd7 55. Nd8+ Ke7 56. Nb7 c3 57. Kxc3 Nxe5 58. g5 Nf3 59. Nc5 Nxg5 60. Kd4 Ne6+ 61. Nxe6 Kxe6 62. Ke4 Kf6 63. Kf4 h5 64. Kg3 g5 65. Kh3 Kf5 66. Kg3 h4+ 67. Kh3 Kf4 68. Kh2 g4 69. Kg2 h3+ 70. Kh2 Kf3 71. Kg1 g3 72. Kh1 g2+ 73. Kg1 h2+ 74. Kxh2 Kf2 75. Kh3 g1=Q 76. Kh4 Qg3+ 77. Kh5 Kf3 78. Kh6 Qg4 79. Kh7 Qg5 80. Kh8 Kf4 81. Kh7 Kf5 82. Kh8 Kf6 83. Kh7 Qg7# 0-1

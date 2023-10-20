@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.07"]
+[EventDate "2020.08.07"]
+[Round "3"]
+[Result "0-1"]
+[White "Mitia Randriamaharo"]
+[Black "Sarocha Chuemsakul"]
+[ECO "B18"]
+[WhiteElo "1280"]
+[BlackElo "1694"]
+[PlyCount "68"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Nf3 Bxe4 6. Bc4 Nf6 7. Bf4 e6 8. Qe2 Be7 9. Bd3 Bxd3 10. Qxd3 O-O 11. Be5 Nbd7 12. Bf4 c5 13. O-O cxd4 14. Nxd4 e5 15. Bg5 exd4 16. Qxd4 Qa5 17. Bf4 Rad8 18. Rfe1 Bc5 19. Qd3 Qb6 20. Qg3 Nh5 21. Bc7 Nxg3 22. Bxb6 Nxb6 23. hxg3 Rd2 24. Rf1 Re8 25. Rac1 Ree2 26. a3 Bxf2+ 27. Kh1 Rd6 28. Rxf2 Rxf2 29. Re1 f6 30. Kg1 Rdd2 31. Kh2 Rxg2+ 32. Kh3 h5 33. Rh1 g5 34. Rf1 Rh2# 0-1

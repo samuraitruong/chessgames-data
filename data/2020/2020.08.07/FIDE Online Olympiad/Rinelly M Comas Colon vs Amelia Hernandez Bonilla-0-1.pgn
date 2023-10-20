@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.07"]
+[EventDate "2020.08.07"]
+[Round "1"]
+[Result "0-1"]
+[White "Rinelly M Comas Colon"]
+[Black "Amelia Hernandez Bonilla"]
+[ECO "A20"]
+[WhiteElo "1611"]
+[BlackElo "2041"]
+[PlyCount "36"]
+
+1. c4 e5 2. g3 Nc6 3. Bg2 d6 4. d3 g6 5. Nf3 Bg7 6. O-O Nge7 7. e4 O-O 8. Nc3 h6 9. Be3 Nd4 10. b4 Bg4 11. Bxd4 exd4 12. Ne2 Qd7 13. Rb1 f5 14. Nf4 fxe4 15. dxe4 g5 16. Nd5 Ng6 17. Qd3 Bxf3 18. Bxf3 Ne5 0-1

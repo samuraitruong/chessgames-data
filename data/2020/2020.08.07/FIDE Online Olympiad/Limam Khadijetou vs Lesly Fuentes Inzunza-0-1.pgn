@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.07"]
+[EventDate "2020.08.07"]
+[Round "1"]
+[Result "0-1"]
+[White "Limam Khadijetou"]
+[Black "Lesly Fuentes Inzunza"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "1906"]
+[PlyCount "52"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. Qxe4 Nd7 7. d4 Nf6 8. Qf4 g6 9. Bc4 Nd5 10. Bxd5 Qxd5 11. O-O Bg7 12. Re1 e6 13. Ne5 O-O 14. b3 f6 15. Ba3 fxe5 16. dxe5 Rxf4 17. Re2 Bxe5 18. f3 Bxa1 19. Bc1 Qd1+ 20. Kf2 Qxc1 21. Kg3 g5 22. c4 Rh4 23. Re4 Rxe4 24. fxe4 Qf4+ 25. Kh3 e5+ 26. g4 Qxg4# 0-1

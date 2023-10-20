@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.02"]
+[EventDate "2020.07.31"]
+[Round "9"]
+[Result "0-1"]
+[White "Sandrine Uwase"]
+[Black "Aikaterina Sarkisian"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "1237"]
+[PlyCount "32"]
+
+1. e4 c5 2. Bc4 Nc6 3. d3 e6 4. Be3 Nf6 5. Nc3 d5 6. exd5 exd5 7. Bb5 d4 8. Ne4 dxe3 9. Nxf6+ Qxf6 10. fxe3 Qxb2 11. Bxc6+ bxc6 12. Ne2 Qb4+ 13. c3 Qh4+ 14. Ng3 Bd6 15. O-O Bxg3 16. Qf3 Qxh2# 0-1

@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.02"]
+[EventDate "2020.07.31"]
+[Round "8"]
+[Result "0-1"]
+[White "Bernard Anhwere"]
+[Black "Bernard Lesbros"]
+[ECO "D79"]
+[WhiteElo "1777"]
+[BlackElo "1912"]
+[PlyCount "142"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. Bg2 O-O 6. O-O c6 7. cxd5 cxd5 8. Nc3 Nc6 9. Qb3 Na5 10. Qd1 Nc4 11. b3 Nd6 12. Bg5 Nde4 13. Nxe4 Nxe4 14. Bf4 Bg4 15. Rc1 Rc8 16. Qd3 Qa5 17. a4 Rc3 18. Rxc3 Qxc3 19. Qb5 Bxf3 20. Bxf3 Qxd4 21. Qxb7 e6 22. Be3 Qb2 23. Bxe4 dxe4 24. Bxa7 Qxe2 25. b4 Rd8 26. Qb5 Qf3 27. a5 h5 28. h4 Rd5 29. Qe8+ Kh7 30. Be3 Rd3 31. Qb8 e5 32. Qb6 f5 33. Qc7 Rxe3 34. fxe3 Qxg3+ 35. Kh1 Qh3+ 36. Kg1 Qxe3+ 37. Kh1 Qh3+ 38. Kg1 Qg3+ 39. Kh1 Qxh4+ 40. Kg1 Qg3+ 41. Kh1 h4 42. a6 Qh3+ 43. Kg1 Qe3+ 44. Kh1 Qh3+ 45. Kg1 Qg3+ 46. Kh1 e3 47. a7 e2 48. Ra1 e1=Q+ 49. Rxe1 Qxe1+ 50. Kh2 Qf2+ 51. Kh1 Qf3+ 52. Kg1 h3 53. Qc2 Qg3+ 54. Kh1 Qf3+ 55. Kg1 Qe3+ 56. Qf2 Qc1+ 57. Kh2 Qc8 58. Qf3 e4 59. Qxh3+ Bh6 60. Qa3 Bf4+ 61. Kh3 Qa8 62. b5 g5 63. Qe7+ Kg6 64. Qe6+ Kh5 65. Qf7+ Kh6 66. b6 g4+ 67. Kg2 e3+ 68. b7 Qd8 69. Qe6+ Kg5 70. a8=Q Qd2+ 71. Kh1 Qh2# 0-1

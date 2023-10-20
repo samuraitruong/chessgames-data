@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.16"]
+[EventDate "2020.08.14"]
+[Round "8"]
+[Result "0-1"]
+[White "Kertu Karba"]
+[Black "Ariana Pintor"]
+[ECO "B10"]
+[WhiteElo "1086"]
+[BlackElo "1899"]
+[Source "Chess-Results"]
+[PlyCount "140"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nc6 5. g3 Bf5 6. Bg2 Nf6 7. O-O e6 8. a3 Bd6 9. Nc3 a6 10. Re1 O-O 11. Nh4 Bg4 12. Nf3 b5 13. Be3 Ne4 14. Qd3 Nxc3 15. Qxc3 Rc8 16. Qd2 Na5 17. b3 Nb7 18. Ra2 Qe7 19. b4 Qc7 20. Bf4 Bxf4 21. Qxf4 Qxf4 22. gxf4 Bf5 23. Rc1 f6 24. c3 Nd6 25. Nh4 Bg4 26. f3 Bh5 27. Bf1 Rc7 28. Be2 g5 29. fxg5 fxg5 30. Ng2 Bxf3 31. Bxf3 Rxf3 32. Ne1 Rfxc3 33. Rxc3 Rxc3 34. Rg2 h6 35. Re2 Ne4 36. Rc2 Rxa3 37. Rc8+ Kf7 38. Rc7+ Kf6 39. Nc2 Rc3 40. Rxc3 Nxc3 41. Kf2 Kf5 42. Kf3 g4+ 43. Kg3 Kg5 44. h3 gxh3 45. Kxh3 Kf4 46. Kh4 Ke4 47. Kh5 Kd3 48. Ne1+ Kxd4 49. Nf3+ Kc4 50. Kxh6 Kxb4 51. Nd4 e5 52. Nc6+ Kb3 53. Nxe5 a5 54. Nc6 a4 55. Na5+ Kb2 56. Nc6 a3 57. Nd4 a2 58. Kg5 a1=Q 59. Kf5 Qb1+ 60. Ke5 Qe4+ 61. Kd6 Qxd4 62. Kc6 Qc4+ 63. Kd6 d4 64. Ke5 d3 65. Kd6 d2 66. Ke5 d1=Q 67. Kf5 Qdd5+ 68. Kf6 Qcc6+ 69. Ke7 Qdd7+ 70. Kf8 Qcc8# 0-1

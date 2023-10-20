@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.08"]
+[EventDate "2020.08.07"]
+[Round "6"]
+[Result "0-1"]
+[White "Daniela Larrea"]
+[Black "Thomine Stolberg-Rohr"]
+[ECO "E20"]
+[WhiteElo "1705"]
+[BlackElo "1918"]
+[PlyCount "92"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 O-O 5. Nf3 d5 6. e3 c5 7. cxd5 Nxd5 8. e4 cxd4 9. Nxd5 Bxd2+ 10. Qxd2 exd5 11. exd5 Qxd5 12. Qxd4 Re8+ 13. Be2 Qb5 14. Qd2 Nc6 15. Kf1 Qb6 16. Rd1 Be6 17. a3 Rad8 18. Qc3 Rxd1+ 19. Bxd1 Bg4 20. h3 Qb5+ 21. Kg1 Bh5 22. Kh2 Qd5 23. Bb3 Qd6+ 24. g3 Bxf3 25. Qxf3 Qe7 26. Kg2 Nd4 27. Qe3 Qxe3 28. fxe3 Nxb3 29. Kf3 Nd2+ 30. Ke2 Nc4 31. Rc1 Nxe3 32. Kf3 Nd5 33. Rd1 Nf6 34. Rc1 Nd5 35. Rd1 Rd8 36. Rc1 Kf8 37. Ke4 Nf6+ 38. Ke5 Rd5+ 39. Kf4 Ke7 40. Rc7+ Rd7 41. Rc2 a6 42. g4 h6 43. Re2+ Kd6 44. h4 Nd5+ 45. Kf5 Re7 46. Rd2 Re5# 0-1

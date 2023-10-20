@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.01"]
+[EventDate "2020.07.31"]
+[Round "6"]
+[Result "0-1"]
+[White "Bitaniya Ermiyas Lema"]
+[Black "Rahilou Hemam"]
+[ECO "C22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qa4 Bc5 5. Bc4 Nf6 6. Bxf7+ Kxf7 7. Qc4+ d5 8. Qxc5 Nxe4 9. Qe3 Re8 10. Qf3+ Kg8 11. Ne2 Ne5 12. Qb3 c5 13. c3 Nd3+ 14. Kf1 Nexf2 15. Rg1 c4 16. Qc2 Bg4 17. Nf4 Re1# 0-1

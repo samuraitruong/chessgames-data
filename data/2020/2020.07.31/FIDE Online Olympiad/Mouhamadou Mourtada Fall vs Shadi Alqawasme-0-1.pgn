@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.31"]
+[EventDate "2020.07.31"]
+[Round "3"]
+[Result "0-1"]
+[White "Mouhamadou Mourtada Fall"]
+[Black "Shadi Alqawasme"]
+[ECO "D35"]
+[WhiteElo "1576"]
+[BlackElo "1789"]
+[PlyCount "46"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 c6 8. Qc2 h6 9. Bh4 Nbd7 10. Nge2 Re8 11. O-O-O b5 12. f3 Nb6 13. e4 Be6 14. e5 Nfd7 15. Bxe7 Qxe7 16. f4 b4 17. Na4 Nxa4 18. Qxa4 c5 19. f5 Bxf5 20. Bxf5 Qg5+ 21. Kb1 Qxf5+ 22. Ka1 Nb6 23. Qxb4 cxb4 0-1

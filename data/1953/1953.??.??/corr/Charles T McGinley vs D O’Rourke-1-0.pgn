@@ -1,0 +1,15 @@
+[Event "corr"]
+[Site "USA"]
+[Date "1953.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Charles T McGinley"]
+[Black "D O’Rourke"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess in Action, August 1953, p.11"]
+[PlyCount "43"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Bxd2+ 5. Nbxd2 d6 6. e4 d5 7. cxd5 exd5 8. e5 Ne4 9. Bd3 Nxd2 10. Qxd2 O-O 11. O-O Qe7 12. Ng5 g6 13. f4 h6 14. Nf3 c5 15. dxc5 Qxc5+ 16. Kh1 Nc6 17. f5 Kh7 18. Ng5+ hxg5 19. Qxg5 Nxe5 20. Qh4+ Kg7 21. f6+ Kg8 22. Qh6 1-0

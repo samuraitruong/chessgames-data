@@ -1,0 +1,15 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.14"]
+[EventDate "2020.08.14"]
+[Round "3"]
+[Result "0-1"]
+[White "Dario Alivodic"]
+[Black "Declan Shafi"]
+[ECO "D87"]
+[WhiteElo "2109"]
+[BlackElo "2166"]
+[Source "Chess-Results"]
+[PlyCount "72"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8. Ne2 O-O 9. Be3 Nc6 10. Qd2 b6 11. O-O Bb7 12. h4 Rc8 13. Rac1 Qd7 14. h5 Rfd8 15. hxg6 hxg6 16. Bb5 e6 17. Rfd1 a6 18. Bxc6 Bxc6 19. f3 Ba4 20. Re1 Bb5 21. c4 cxd4 22. Bg5 f6 23. Bxf6 Bxf6 24. cxb5 d3 25. Nf4 g5 26. Nh5 Bd4+ 27. Kh1 Qe7 28. Rxc8 Rxc8 29. Qxd3 Be5 30. bxa6 g4 31. g3 Rc3 32. Qb5 Bxg3 33. Nxg3 Qh4+ 34. Kg2 gxf3+ 35. Kf2 Qh2+ 36. Kf1 Qg2# 0-1

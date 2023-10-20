@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.08"]
+[EventDate "2020.08.07"]
+[Round "5"]
+[Result "1-0"]
+[White "Ching-An Shih"]
+[Black "Esperanca Caxita"]
+[ECO "D45"]
+[WhiteElo "1680"]
+[BlackElo "1837"]
+[PlyCount "33"]
+
+1. Nf3 d5 2. d4 Nf6 3. e3 Nbd7 4. c4 c6 5. Nc3 e6 6. b3 Bb4 7. Bb2 Ne4 8. Qc2 Qa5 9. Rc1 Qxa2 10. Bd3 Bxc3+ 11. Bxc3 Qxc2 12. Rxc2 Nxc3 13. Rxc3 O-O 14. O-O Nf6 15. c5 Re8 16. Ra1 Nd7 17. b4 1-0
