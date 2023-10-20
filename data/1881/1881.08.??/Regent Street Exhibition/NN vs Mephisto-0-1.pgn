@@ -1,0 +1,15 @@
+[Event "Regent Street Exhibition"]
+[Site "London, Piccadilly ENG"]
+[Date "1881.08.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Mephisto"]
+[ECO "C20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Illustrated London News, 1881.08.20, p.187"]
+[PlyCount "30"]
+
+1. e4 e5 2. Qh5 Nf6 3. Qxe5+ Be7 4. d3 O-O 5. Bg5 Re8 6. Qd4 Nc6 7. Qe3 d5 8. h3 dxe4 9. d4 Nxd4 10. Qd2 Bf5 11. c3 e3 12. Qxd4 Bc5 13. Qxd8 exf2+ 14. Kd1 Raxd8+ 15. Bd2 Re1# 0-1

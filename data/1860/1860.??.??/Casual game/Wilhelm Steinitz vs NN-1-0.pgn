@@ -9,9 +9,7 @@
 [ECO "C52"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[Source "Telegraf, I:46, 1860.11.11"]
-[PlyCount "35"]
-[SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+[Source "Telegraf, I:38, 1860.09.16"]
+[PlyCount "40"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O Nf6 7. Ba3 Bb6 8. d4 exd4 9. Qb3 d5 10. exd5 Na5 11. Rfe1+ Be6 12. dxe6 Nxb3 13. exf7+ Kd7 14. Be6+ Kc6 15. Ne5+ Kb5 16. Bc4+ Ka5 17. Bb4+ Ka4 18. axb3# 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O Nf6 8. Ba3 d6 9. e5 d5 10. Bb5 Ne4 11. Bxc6+ bxc6 12. cxd4 Bb6 13. Nbd2 Bg4 14. Re1 c5 15. Nxe4 dxe4 16. Rxe4 Bxf3 17. Qxf3 cxd4 18. e6 f6 19. Rxd4 Bxd4 20. Qc6+ 1-0

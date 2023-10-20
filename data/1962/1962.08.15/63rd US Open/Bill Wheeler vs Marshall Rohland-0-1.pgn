@@ -1,0 +1,15 @@
+[Event "63rd US Open"]
+[Site "San Antonio, TX USA"]
+[Date "1962.08.15"]
+[EventDate "1962.08.13"]
+[Round "3.34"]
+[Result "0-1"]
+[White "Bill Wheeler"]
+[Black "Marshall Rohland"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "63rd United States Open / Jack Spence. Game 40"]
+[PlyCount "38"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Nb3 Bb4 7.Bg5 h6 8.Bxf6 Qxf6 9.Be2 Nd4 10.O-O Bxc3 11.bxc3 Ne6 12.g3 O-O 13.Bg4 Ng5 14.Qd3 d5 15.Bxc8 dxe4 16.Qd7 Raxc8 17.Qxb7 Qf3 18.h4 e3 19.Qxc8 exf2+ 0-1

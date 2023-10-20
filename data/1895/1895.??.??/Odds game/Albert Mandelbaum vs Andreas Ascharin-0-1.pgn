@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "Riga RUE"]
+[Date "1895.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Albert Mandelbaum"]
+[Black "Andreas Ascharin"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Baltische Schachblatter no.5, p.91"]
+[PlyCount "58"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 d6 4. h3 e6 5. Bc4 d5 6. exd5 exd5 7. Bb5 Bd6 8. d4 Nf6 9. O-O O-O 10. Bxc6 bxc6 11. Ne5 Qb6 12. c3 Ne4 13. Na3 cxd4 14. cxd4 Bxe5 15. fxe5 Rxf1+ 16. Kxf1 Ba6+ 17. Kg1 Rf8 18. Kh2 Rf1 19. Qh5 g6 20. Qh4 Qxd4 21. Qd8+ Rf8 22. Qe7 Qc5 23. Qe6+ Rf7 24. Bh6 Qe7 25. Qxc6 Qxe5+ 26. Kg1 Bb7 27. Qb5 Nd6 28. Qc5 Nf5 29. Nc4 Qc7 0-1

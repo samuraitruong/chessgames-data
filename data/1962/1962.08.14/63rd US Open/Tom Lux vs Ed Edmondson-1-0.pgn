@@ -1,0 +1,15 @@
+[Event "63rd US Open"]
+[Site "San Antonio, TX USA"]
+[Date "1962.08.14"]
+[EventDate "1962.08.13"]
+[Round "2.30"]
+[Result "1-0"]
+[White "Tom Lux"]
+[Black "Ed Edmondson"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "63rd United States Open / Jack Spence. Game 25"]
+[PlyCount "26"]
+
+1.e4 e6 2.d4 d5 3.Nc3 c5 4.exd5 cxd4 5.Qxd4 Nf6 6.Bb5+ Nbd7 7.dxe6 fxe6 8.Nf3 Be7 9.Ng5 e5 10.Qc4 Qb6 11.Be3 Qa5 12.Qf7+ Kd8 13.Ne6# 1-0

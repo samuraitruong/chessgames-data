@@ -1,0 +1,17 @@
+[Event "Staunton - Harrwitz Match"]
+[Site "London ENG"]
+[Date "1846.09.??"]
+[EventDate "1846.08.??"]
+[Round "6"]
+[Result "1-0"]
+[White "Daniel Harrwitz"]
+[Black "Howard Staunton"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.vii (1846), p.338"]
+[PlyCount "126"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. Be3 e6 5. Nf3 Nge7 6. Bd3 Bxd3 7. Qxd3 Nb4 8. Qe2 Ng6 9. a3 Nc6 10. c4 Be7 11. cxd5 Qxd5 12. Nc3 Qb3 13. O-O O-O 14. g3 Rad8 15. Rab1 a6 16. Rfd1 b5 17. Nd2 Qc2 18. Rdc1 Qf5 19. Nxb5 Ncxe5 20. dxe5 axb5 21. f4 Qd3 22. Qxd3 Rxd3 23. Nf1 Rc8 24. Rc6 Kf7 25. Rbc1 Bd8 26. Bc5 Ra8 27. Bb4 Ne7 28. Bxe7 Kxe7 29. Kf2 Ra4 30. Ke2 Rb3 31. R1c2 Re4+ 32. Kf2 Rd4 33. Nd2 Rbd3 34. Nf3 Rd5 35. g4 g6 36. Ke2 Kd7 37. Ra6 Rb3 38. Nd2 Rh3 39. Nf3 c5 40. Rd6+ Rxd6 41. exd6 Kxd6 42. Rd2+ Kc7 43. Kf2 Rh6 44. Kg3 g5 45. fxg5 Rg6 46. h4 Kc8 47. Rc2 Bc7+ 48. Kh3 Bb6 49. Nd4 e5 50. Nxb5 Kb7 51. Re2 Kc6 52. Nc3 Bc7 53. b3 Rd6 54. Re3 Rd4 55. Ne4 Rd7 56. Nf6 Rf7 57. h5 Bd8 58. Rxe5 Bxf6 59. Rf5 Rb7 60. gxf6 Rxb3+ 61. Kh4 Rb8 62. f7 Rf8 63. g5 Kd6 1-0

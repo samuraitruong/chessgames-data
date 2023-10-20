@@ -1,0 +1,15 @@
+[Event "FSIM June"]
+[Site "Budapest HUN"]
+[Date "2008.6.16"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Jean-Jacques Rabeyrin"]
+[Black "Johannes Sondermann"]
+[ECO "B36"]
+[WhiteElo "2303"]
+[BlackElo "2279"]
+[Source "Chess Assistant 18 HugeBase, CaissaBase, MillionBase 2.5 and Che"]
+[PlyCount "140"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.c4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7 9.O-O O-O 10.Bg5 h6 11.Bxf6 Bxf6 12.Qd2 Qa5 13.Rac1 Be6 14.Rc2 Kg7 15.f4 Bxc4 16.Bxc4 Qc5+ 17.Kh1 Qxc4 18.Re1 Rac8 19.Rcc1 b5 20.h3 a5 21.Nd5 Qxa2 22.Nxf6 Rxc1 23.Nh5+ gxh5 24.Rxc1 Qe6 25.Qd4+ f6 26.Rc3 h4 27.Qf2 Kh7 28.Re3 Qc4 29.Rc3 Qxe4 30.Re3 Qb7 31.Qxh4 Rg8 32.Re2 Rg7 33.Qe1 Qd5 34.Qxa5 Qd1+ 35.Qe1 Qxe1+ 36.Rxe1 Kg6 37.Re4 e5 38.Rb4 Rb7 39.Kg1 Kf5 40.Kf2 d5 41.Kf3 h5 42.g4+ hxg4+ 43.hxg4+ Ke6 44.g5 fxg5 45.fxe5 Kxe5 46.Rg4 Rf7+ 47.Ke3 d4+ 48.Kd3 Rf3+ 49.Kd2 Kd5 50.Rxg5+ Kc4 51.Rg8 Kb3 52.Rg4 d3 53.Rg5 b4 54.Rb5 Rf2+ 55.Kxd3 Rxb2 56.Rb8 Rh2 57.Rb7 Ka3 58.Kc4 Rc2+ 59.Kd3 b3 60.Ra7+ Kb2 61.Ra8 Rc7 62.Rb8 Ka2 63.Ra8+ Kb1 64.Kd2 b2 65.Rb8 Rd7+ 66.Kc3 Kc1 67.Rxb2 Rc7+ 68.Kb3 Rb7+ 69.Ka2 Rxb2+ 70.Ka1 Rb8 0-1

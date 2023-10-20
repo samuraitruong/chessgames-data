@@ -1,0 +1,16 @@
+[Event "Odds game"]
+[Site "Manchester ENG"]
+[Date "1862.??.??"]
+[EventDate "1862.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "Harley"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNB1KBNR w KQkq - 0 1"]
+
+1. b3 e5 2. Bb2 Bd6 3. Nc3 Ne7 4. e3 O-O 5. O-O-O c5 6. Nge2 b6 7. f4 Nbc6 8. g4 a6 9. f5 Qc7 10. Ng3 e4 11. Ncxe4 Bxg3 12. hxg3 Bb7 13. Bc4 d5 14. Rxh7 Kxh7 15. Rh1+ Kg8 16. Nf6+ gxf6 17. Bxf6 Ng6 18. fxg6 fxg6 19. Bxd5+ Rf7 20. Rh8# 1-0

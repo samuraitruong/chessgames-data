@@ -1,0 +1,14 @@
+[Event "WLS/WCCC21QA"]
+[Site "ICCF"]
+[Date "2021.06.16"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Gareth Jones"]
+[Black "Arthur Wilding"]
+[ECO "C25"]
+[WhiteElo "2211"]
+[BlackElo "1319"]
+[PlyCount "40"]
+
+1.e4 e5 2.Nc3 d6 3.d4 f6 4.Bc4 Nc6 5.Nge2 Nge7 6.a4 exd4 7.Nxd4 Nxd4 8.Qxd4 Bd7 9.Be3 a6 10.Ba2 Nc6 11.Qd5 Qe7 12.Qc4 O-O-O 13.Nd5 Qe5 14.f4 Qh5 15.b4 Qg4 16.b5 axb5 17.axb5 Be6 18.bxc6 b6 19.Qa6+ Kb8 20.Qb7# 1-0

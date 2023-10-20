@@ -1,0 +1,15 @@
+[Event "Red Army 25 yr Jubilee"]
+[Site "Moscow URS"]
+[Date "1943.02.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Grigory Ionovich Ravinsky"]
+[Black "Peter Arsenievich Romanovsky"]
+[ECO "C64"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.O-O Nd4 5.Nxd4 Bxd4 6.c3 Bb6 7.d4 Qe7 8.f4 exd4 9.Kh1 dxc3 10.e5 c6 11.Bc4 Qc5 12.Qb3 d5 13.exd6 Nf6 14.Bxf7+ Kf8 15.Nxc3 Ng4 16.Ne4 Qf5 17.Ng5 h6 18.Bh5 hxg5 19.Bxg4 Qxg4 20.fxg5+ Bf5 21.Qf3 Qxf3 22.Rxf3 g6 23.g4 Re8 24.gxf5 Re1+ 25.Kg2 Rg1# 0-1
