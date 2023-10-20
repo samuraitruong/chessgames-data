@@ -1,0 +1,15 @@
+[Event "Sverdlovsk National Tournament"]
+[Site "Sverdlovsk URS"]
+[Date "1942.04.11"]
+[EventDate "1942.03.22"]
+[Round "11"]
+[Result "1-0"]
+[White "Vladimir Petrov"]
+[Black "G Ivanov"]
+[ECO "D07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "45"]
+
+1.d4 d5 2.c4 Nc6 3.Nf3 Bg4 4.Nc3 Bxf3 5.gxf3 e5 6.cxd5 Nxd4 7.e3 Nf5 8.Qa4+ Ke7 9.Bh3 g6 10.Qe4 Bg7 11.Bxf5 gxf5 12.Qxf5 Qd7 13.Qh5 Kf8 14.Rg1 Ne7 15.e4 Ng6 16.Be3 Ke8 17.O-O-O Kd8 18.Kb1 Kc8 19.Rc1 Kb8 20.Qf5 Qe8 21.d6 cxd6 22.Nd5 Ne7 23.Nxe7 1-0

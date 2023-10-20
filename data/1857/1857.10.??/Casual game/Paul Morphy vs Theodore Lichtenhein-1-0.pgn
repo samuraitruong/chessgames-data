@@ -6,10 +6,10 @@
 [Result "1-0"]
 [White "Paul Morphy"]
 [Black "Theodore Lichtenhein"]
-[ECO "C51"]
+[ECO "C30"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[Source "The Chess Monthly, vol.ii (February 1858), p.50"]
-[PlyCount "51"]
+[Source "Syracuse Daily Standard, 1857.11.09"]
+[PlyCount "39"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O Nf6 7. d4 exd4 8. cxd4 Bb6 9. e5 d5 10. exf6 dxc4 11. fxg7 Rg8 12. Re1+ Ne7 13. Bg5 Be6 14. Nc3 Ba5 15. Ne4 Rxg7 16. Nf6+ Kf8 17. Re5 c6 18. Bh6 Nf5 19. Rxe6 fxe6 20. Ng5 Ke7 21. Bxg7 Nxg7 22. Qf3 Qxd4 23. Rd1 Bd2 24. Ng8+ Rxg8 25. Qf7+ Kd8 26. Nf3 1-0
+1. e4 c5 2. f4 e5 3. Nf3 Nc6 4. Bc4 d6 5. d3 Bg4 6. O-O Nd4 7. Bxf7+ Kxf7 8. Ng5+ Ke8 9. Qxg4 Nxc2 10. fxe5 Nh6 11. Qe6+ Qe7 12. Qc4 Nxa1 13. e6 Rc8 14. Nc3 Qd8 15. Nd5 Qa5 16. Nf7 Nxf7 17. exf7+ Kd7 18. Bd2 Qxd2 19. Qb5+ Ke6 20. Qe8+ 1-0

@@ -1,0 +1,14 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2019.04.09"]
+[EventDate "2019.04.08"]
+[Round "2.96"]
+[Result "0-1"]
+[White "Karl Egill Steingrimsson"]
+[Black "Adam Omarsson"]
+[ECO "A00"]
+[WhiteElo "1633"]
+[BlackElo "1144"]
+[PlyCount "28"]
+
+1. Nf3 d6 2. d4 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. c3 Bg4 7. Nfd2 c5 8. Bxb7 Nbd7 9. Bxa8 Qxa8 10. f3 Bh3 11. Rf2 cxd4 12. cxd4 Ng4 13. fxg4 Bxd4 14. Qe1 Qg2# 0-1

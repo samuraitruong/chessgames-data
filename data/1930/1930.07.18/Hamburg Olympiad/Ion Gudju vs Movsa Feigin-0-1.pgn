@@ -1,0 +1,15 @@
+[Event "Hamburg Olympiad"]
+[Site "Hamburg GER"]
+[Date "1930.07.18"]
+[EventDate "1930.07.13"]
+[Round "7"]
+[Result "0-1"]
+[White "Ion Gudju"]
+[Black "Movsa Feigin"]
+[ECO "B56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "olimpbase"]
+[PlyCount "62"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.h3 g6 7.Be3 Bg7 8.Qd2 O-O 9.O-O-O Re8 10.g4 Nd7 11.f3 Nde5 12.Qg2 Na5 13.b3 Bd7 14.h4 Qc8 15.Kd2 Nac6 16.Nce2 Qc7 17.c3 Qa5 18.a4 d5 19.Nxc6 bxc6 20.exd5 cxd5 21.Nd4 Rac8 22.Rc1 Nc6 23.Qf2 Nxd4 24.Bxd4 e5 25.b4 Qxa4 26.Bxa7 d4 27.Bc5 dxc3+ 28.Rxc3 e4 29.Rc1 e3+ 30.Bxe3 Qa2+ 31.Ke1 Rxc1# 0-1
