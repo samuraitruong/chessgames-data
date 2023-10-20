@@ -6,10 +6,10 @@
 [Result "0-1"]
 [White "F E Greenaway"]
 [Black "Adolf Anderssen"]
-[ECO "C67"]
+[ECO "C37"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[Source "British Chess Review, vol.i (1853), p.79"]
-[PlyCount "70"]
+[Source "British Chess Review, vol.i (1853), p.81"]
+[PlyCount "42"]
 
-1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nf6 6.d4 e4 7.Bg5 Be7 8.Bxf6 Bxf6 9.Rxe4+ Ne7 10.Nc3 c6 11.Bd3 d5 12.Rf4 Ng6 13.Bxg6 hxg6 14.Qd3 g5 15.Re1+ Kf8 16.Rxf6 gxf6 17.Ne2 Qd6 18.Ng3 g4 19.Nd2 f5 20.c4 f4 21.c5 Qh6 22.Ngf1 Be6 23.Qb3 Kg7 24.Qxb7 Rab8 25.Qc7 Rxb2 26.Qe7 Rxa2 27.Re5 Ra1 28.Rg5+ Kh7 29.h4 gxh3 30.Nf3 hxg2 31.Rxg2 Rg8 32.Ng5+ Kh8 33.Rh2 Rxg5+ 34.Qxg5 Rxf1+ 35.Kxf1 Qxh2 0-1
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6 7. e5 Qxe5 8. d3 Bh6 9. Nc3 Ne7 10. Bd2 Nbc6 11. Rae1 Qc5+ 12. Kh1 O-O 13. Qh3 Bg7 14. Rxf4 d5 15. Qh5 Ng6 16. Rf3 Bg4 17. Qxg4 Nce5 18. Qh5 Nxf3 19. gxf3 Qf2 20. Nxd5 Qxd2 21. Rg1 Rae8 0-1

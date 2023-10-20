@@ -2,13 +2,13 @@
 [Site "Helsinki"]
 [Date "1994.??.??"]
 [EventDate "?"]
-[Round "25"]
+[Round "14"]
 [Result "0-1"]
 [White "Tapani Sammalvuo"]
 [Black "Mikhail Rytshagov"]
-[ECO "B90"]
+[ECO "B87"]
 [WhiteElo "2280"]
 [BlackElo "2480"]
-[PlyCount "88"]
+[PlyCount "104"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 b5 7. Bb3 Bb7 8. O-O Nbd7 9. Re1 Nc5 10. Nf5 e6 11. Ng3 Be7 12. a3 Nxb3 13. cxb3 O-O 14. b4 Rc8 15. Be3 Rc4 16. f3 d5 17. e5 d4 18. exf6 Bxf6 19. Bxd4 Bxd4+ 20. Kh1 Bxc3 21. bxc3 Rxc3 22. Qxd8 Rxd8 23. Kg1 Kf8 24. Rec1 Rdd3 25. Rxc3 Rxc3 26. Ne2 Rd3 27. Kf2 g5 28. Kg3 Rd2 29. Kf2 Bd5 30. Ke3 Rb2 31. Nc3 Bc4 32. g4 Rxh2 33. Kd4 Rd2+ 34. Kc5 Rc2 35. Ne4 Bd5+ 36. Kb6 Rc6+ 37. Ka7 h6 38. Nc5 a5 39. Rc1 axb4 40. axb4 Bxf3 41. Rc3 Bd5 42. Rd3 Kg7 43. Ra3 Kg6 44. Nd3 f6 0-1
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O Be7 9. Qf3 Qc7 10. Qg3 O-O 11. Bh6 Ne8 12. Rad1 Bd7 13. a3 Nc6 14. Nxc6 Bxc6 15. Bf4 Qb7 16. e5 dxe5 17. Bxe5 Rd8 18. Rxd8 Bxd8 19. Rd1 Bf6 20. Bxf6 Nxf6 21. f3 h6 22. Qd6 Rc8 23. Rd3 Qb6+ 24. Qd4 Qc7 25. Qd6 Qb6+ 26. Kf1 Qb7 27. Qe5 Qe7 28. Ne2 Nd7 29. Qd6 Qg5 30. Rc3 Nb8 31. Rd3 Kh8 32. Rd4 Nd7 33. c3 Ne5 34. Nf4 Qf5 35. Nd3 Nxd3 36. Rxd3 Bd5 37. Bc2 Bc4 38. Qd7 Qc5 39. Qxf7 Qe3 40. Qd7 Rf8 41. Qd6 Qc1+ 42. Bd1 Qxd1+ 43. Kf2 Qxd3 44. Qxf8+ Kh7 45. h4 Qc2+ 46. Kg3 Bf1 47. Qc5 Qxg2+ 48. Kf4 Qh2+ 49. Ke3 Qxh4 50. Qd4 Qe1+ 51. Kf4 g5+ 52. Kg4 Qh4# 0-1

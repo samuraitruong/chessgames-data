@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1853.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "F E Greenaway"]
+[Black "NN"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Field, 1853.04.23, p.298"]
+[PlyCount "38"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 g5 5. Nc3 Bg7 6. d4 d6 7. g3 fxg3 8. Kg2 Qg4 9. Be2 Qe6 10. hxg3 h6 11. Nh3 c6 12. Nf2 Qf6 13. e5 dxe5 14. Nfe4 Qe7 15. d5 cxd5 16. Nxd5 Qd7 17. Bg4 Qc6 18. Bxc8 Ne7 19. Bxb7 1-0

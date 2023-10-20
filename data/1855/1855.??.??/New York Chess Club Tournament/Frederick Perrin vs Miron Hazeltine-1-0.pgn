@@ -1,0 +1,17 @@
+[Event "New York Chess Club Tournament"]
+[Site "New York, NY USA"]
+[Date "1855.??.??"]
+[EventDate "1855.??.??"]
+[Round "1.3"]
+[Result "1-0"]
+[White "Frederick Perrin"]
+[Black "Miron Hazeltine"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Hazeltine Scrapbook, New York Courier, v65, pdf pp35-36"]
+[PlyCount "36"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1.d4 d5 2.c4 e6 3.a3 c5 4.e3 f5 5.h4 h5 6.Be2 Nf6 7.Nf3 Ne4 8.Ne5 Qa5+ 9. b4 cxb4 10.Bxh5+ Rxh5 11.Qxh5+ Kd8 12.O-O Nf6 13.Qf7 Nbd7 14.e4 Nxe5 15. Qxf8+ Ne8 16.Bg5+ Kd7 17.axb4 Ng6 18.Qf7+ 1-0

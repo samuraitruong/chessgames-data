@@ -1,0 +1,15 @@
+[Event "Casual game"]
+[Site "Cafe de la Regence, Paris FRA"]
+[Date "1866.??.??"]
+[EventDate "1866.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Siwinski"]
+[Black "Leopold Hoffer"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "La Strategie 1867 vol.1, p.112"]
+[PlyCount "34"]
+
+1. e4 e5 2. f4 d5 3. d4 $2 exf4 4. Bxf4 dxe4 5. Bc4 Bd6 6. Ne2 f5 7. O-O Nf6 8. Ng3 Bxf4 9. Rxf4 Nd5 $2 10. Rxe4+ $1 fxe4 11. Qh5+ Kf8 12. Nc3 $1 Be6 13. Rf1+ Ke7 14. Nxd5+ Bxd5 15. Rf7+ Bxf7 16. Qxf7+ Kd6 17. Qe6# 1-0

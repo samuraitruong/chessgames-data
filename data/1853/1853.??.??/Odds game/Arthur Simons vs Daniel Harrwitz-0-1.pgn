@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1853.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Arthur Simons"]
+[Black "Daniel Harrwitz"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "British Chess Review, vol.i (1853), p.236"]
+[PlyCount "72"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. c3 e6 5. Nf3 Nge7 6. Bg5 Qd7 7. Bb5 O-O-O 8. Qa4 Kb8 9. Nbd2 h6 10. Bh4 g5 11. Bg3 a6 12. Be2 Nxe5 13. Qb3 Nxf3+ 14. Nxf3 Ka7 15. Ne5 Qe8 16. Nf7 Qxf7 17. Bxc7 Rc8 18. Qb6+ Ka8 19. Be5 Rh7 20. Bxa6 Nc6 21. Bb5 Nxe5 22. dxe5 Bc5 23. Qa5+ Ba7 24. O-O Qc7 25. Qa4 Qxe5 26. Rad1 Kb8 27. Kh1 g4 28. f4 gxf3 29. Rxf3 Be4 30. Re1 Rg7 31. Bf1 Rcg8 32. Qb4 Bxf3 33. Rxe5 Rxg2 34. Qd6+ Ka8 35. Qd8+ Rxd8 36. Bxg2 Rg8 0-1

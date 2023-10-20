@@ -1,0 +1,17 @@
+[Event "New York Chess Club Tournament"]
+[Site "New York, NY USA"]
+[Date "1855.??.??"]
+[EventDate "1855.??.??"]
+[Round "2.2"]
+[Result "0-1"]
+[White "C E Anderson"]
+[Black "Napoleon Marache"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Hazeltine Scrapbook, New York Courier, v65, pdf pp25-26"]
+[PlyCount "90"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 e6 2.f4 Nh6 3.Nf3 Be7 4.Nc3 c5 5.Ne2 Nc6 6.c3 d5 7.Ng3 a6 8.Be2 b5 9. O-O O-O 10.d3 Bf6 11.e5 Be7 12.Qe1 Qe8 13.Ng5 Bxg5 14.fxg5 Nf7 15.Bh5 g6 16.Bf3 Nfxe5 17.d4 cxd4 18.cxd4 Nxf3+ 19.gxf3 Nxd4 20.Qc3 Nf5 21.b3 d4 22. Qc5 Bb7 23.Bb2 Qc6 24.Bxd4 Nxd4 25.Qxc6 Bxc6 26.Ne4 Bxe4 27.fxe4 Nf3+ 28. Kg2 Nxg5 29.Rxf8+ Rxf8 30.Re1 Rf4 31.Kg3 Rxe4 32.Rxe4 Nxe4+ 33.Kf4 Nc5 34. Ke5 Kf7 35.Kd4 Nd7 36.a4 bxa4 37.bxa4 Ke7 38.Kc4 Kd6 39.Kb4 e5 40.Ka5 e4 41.Kxa6 e3 42.Kb7 e2 43.a5 e1=Q 44.a6 Qb4+ 45.Kc8 Qb8# 0-1
