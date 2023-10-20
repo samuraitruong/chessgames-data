@@ -1,0 +1,14 @@
+[Event "15th World Computer Chess Championship"]
+[Site "Amsterdam, The Netherlands"]
+[Date "2007.06.17"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Rybka (Computer)"]
+[Black "Diep (Computer)"]
+[ECO "B43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 d6 7. O-O Nf6 8. Be3 Bb7 9. f4 Nbd7 10. a3 Qc7 11. Qf3 Be7 12. Rae1 Nc5 13. Bf2 d5 14. e5 Nfe4 15. f5 Nd2 16. Qg4 g6 17. fxe6 fxe6 18. Ncxb5 Qd7 19. Nd6+ Bxd6 20. exd6 O-O 21. Bxg6 hxg6 22. Nf3 Nxf1 23. Bxc5 Bc8 24. Ne5 Qg7 25. d7 Bxd7 26. Nxd7 Qxd7 27. Bd4 Rf7 28. Qxg6+ Rg7 29. Bxg7 Qxg7 1-0

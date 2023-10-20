@@ -1,0 +1,16 @@
+[Event "Handicap tournament"]
+[Site "Lodz POL"]
+[Date "1903.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Chojnacki"]
+[Black "Akiba Rubinstein"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 -- 2.d4 Nc6 3.c3 e5 4.dxe5 Nxe5 5.Qh5+ Ng6 6.e5 d6 7.Bd3 Be6 8.Bxg6+ hxg6 9.Qxh8 dxe5 10.Qh7 Qd3 11.Qh4 Rd8 12.Nd2 Nf6 13.Ngf3 e4 14.Ne5 Qd5 15.Nec4 Qd3 16.Ne3 Bc5 17.Qg3 Kf8 18.Nd1 e3 19.Nxe3 Re8 20.Kd1 Bxe3 21.Re1 Bg4+ 22.f3 Bf5 23.Re2 Qc2+ 24.Ke1 Bd3 0-1

@@ -1,0 +1,14 @@
+[Event "15th World Computer Chess Championship"]
+[Site "Amsterdam, The Netherlands"]
+[Date "2007.06.12"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "IsiChess (Computer)"]
+[Black "Diep (Computer)"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4 h6 13. Bc2 exd4 14. cxd4 Nb4 15. Bb1 c5 16. d5 Nd7 17. Ra3 c4 18. axb5 axb5 19. Nd4 Ne5 20. Nxb5 Qb6 21. Rxa8 Rxa8 22. Na3 Ba6 23. b3 cxb3 24. Re3 Qd4 25. Qxb3 Rc8 26. Nac4 Rxc4 27. Nxc4 Qxc4 28. Qxc4 Bxc4 29. Ra3 Nbd3 30. Bxd3 Nxd3 31. Be3 Ne5 32. f3 g5 33. h4 Be7 34. hxg5 hxg5 35. Bd4 Bf6 36. Kf2 Kg7 37. Kg3 Kg6 38. Bc3 Bb5 39. Ra8 Bd3 40. Rg8 Kh7 41. Re8 Kg7 42. Rb8 Bc2 43. Rb2 Bd1 44. Ra2 Nc4 45. Bxf6 Kxf6 46. Kf2 Kg6 47. Ra8 f5 48. Rg8 Kf7 49. Rxg5 fxe4 50. fxe4 Bc2 51. Rf5 Kg7 52. Rf4 Bd3 53. Kf3 Ne5 54. Ke3 Bb5 55. Kd4 Bd7 56. Rf1 Bg4 57. Rb1 Kf7 58. Rb7 Bd7 59. Rb3 Kf6 60. Rb1 Bg4 61. Rg1 Ng6 62. Ke3 Kf7 63. Rf1 Ke7 64. Kd4 Bc8 65. Rc1 1/2-1/2

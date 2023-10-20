@@ -1,0 +1,14 @@
+[Event "Gibraltar Chess Festival"]
+[Site "Gibraltar ENG"]
+[Date "2008.01.22"]
+[EventDate "2008.01.22"]
+[Round "1"]
+[Result "1-0"]
+[White "Alistair Compton"]
+[Black "Sven Reichard"]
+[ECO "C25"]
+[WhiteElo "2132"]
+[BlackElo "1967"]
+[PlyCount "39"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. h4 g4 6. Ng5 d6 7. d4 h6 8. Nxf7 Kxf7 9. Bc4+ Kg7 10. Bxf4 Be7 11. O-O Bf6 12. Be3 Nge7 13. Rxf6 Kxf6 14. Qf1+ Bf5 15. Qf4 Qd7 16. Rf1 d5 17. Nxd5+ Nxd5 18. Bxd5 Ne7 19. Qxg4 c6 20. e5# 1-0

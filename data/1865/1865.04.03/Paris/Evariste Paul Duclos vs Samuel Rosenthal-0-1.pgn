@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Grand tournoi de la Regence, Paris FRA"]
+[Date "1865.04.03"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Evariste Paul Duclos"]
+[Black "Samuel Rosenthal"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 e6 2. d4 c5 3. c3 Nc6 4. f4 cxd4 5. cxd4 d5 6. e5 Bb4+ 7. Bd2 Be7 8. Nf3 Nh6 9. Bd3 O-O 10. O-O Qb6 11. Qc2 Nf5 12. Bc3 Bd7 13. Nbd2 Rac8 14. Nb3 Nb4 15. Qd2 Nxd3 16. Qxd3 Bb5 17. Qd2 Bxf1 18. Rxf1 Qb5 19. Nc1 Rf7 20. Ne2 g6 21. g4 Ng7 22. h3 Rcf8 23. Nh2 g5 24. fxg5 Rxf1+ 25. Nxf1 Bxg5 26. Qxg5 Qxe2 27. Ne3 Qf2+ 28. Kh1 Qf3+ 29. Kg1 Qg3+ 30. Ng2 Rf2 0-1

@@ -1,0 +1,14 @@
+[Event "Warsaw Olympiad"]
+[Site "Warsaw POL"]
+[Date "1935.08.18"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Birger Rasmusson"]
+[Black "Miguel Najdorf"]
+[ECO "E22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 Nc6 5.Nf3 O-O 6.a3 Bxc3+ 7.Qxc3 d6 8.g3 e5 9.dxe5 dxe5 10.Be3 Qe7 11.Bg2 Ng4 12.O-O Nxe3 13.Qxe3 f5 0-1

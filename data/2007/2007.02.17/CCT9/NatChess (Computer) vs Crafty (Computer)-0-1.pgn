@@ -1,0 +1,14 @@
+[Event "CCT9"]
+[Site "Internet Chess Club"]
+[Date "2007.02.17"]
+[EventDate "?"]
+[Round "-"]
+[Result "0-1"]
+[White "NatChess (Computer)"]
+[Black "Crafty (Computer)"]
+[ECO "E29"]
+[WhiteElo "2000"]
+[BlackElo "2627"]
+[PlyCount "81"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. a3 Bxc3+ 6. bxc3 c5 7. Bd3 Nc6 8. Ne2 b6 9. e4 Ne8 10. O-O Ba6 11. f4 f5 12. d5 Na5 13. e5 d6 14. Ng3 Qe7 15. Re1 Rd8 16. exd6 Nxd6 17. Rxe6 Qf7 18. Rb1 Bxc4 19. Re5 g6 20. Bc2 Ne8 21. Qe1 Nf6 22. d6 Nc6 23. Qd1 Nd5 24. Nxf5 gxf5 25. Rxf5 Nf6 26. Rg5+ Kh8 27. Rg3 Rfe8 28. Re3 Rxe3 29. Bxe3 Nd5 30. Qf3 Rxd6 31. Bd2 Nde7 32. Be1 Bd5 33. Qf2 Nf5 34. g4 Rg6 35. h3 h5 36. g5 Ne5 37. Bd1 Nd3 38. Qf1 Qe6 39. c4 Qe3+ 40. Bf2 Qxf4 41. Qxd3 0-1

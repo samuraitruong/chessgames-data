@@ -1,0 +1,14 @@
+[Event "15th World Computer Chess Championship"]
+[Site "Amsterdam, The Netherlands"]
+[Date "2007.06.16"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "GridChess (Computer)"]
+[Black "micro-Max (Computer)"]
+[ECO "D21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c6 4. e3 b5 5. a4 Qb6 6. axb5 cxb5 7. b3 Be6 8. Na3 Qa5+ 9. Bd2 c3 10. Nxb5 cxd2+ 11. Nxd2 Qb6 12. Qf3 a6 13. Qxa8 axb5 14. Ra7 Bc8 15. Be2 e6 16. O-O Bb4 17. Rc1 Kd8 18. Rc5 Bxd2 19. Rxb5 Qxa7 20. Qxa7 Nd7 21. d5 Ngf6 22. d6 Ne8 23. Rb6 Bb4 24. Rxb4 Nxd6 25. Rd4 Nb7 26. Ba6 e5 27. Rd1 Ke7 28. Bxb7 Bxb7 29. Qxb7 Rd8 30. b4 g5 31. b5 f5 32. Qc6 f4 33. b6 g4 34. b7 g3 35. hxg3 fxg3 36. Qd6+ Kf7 37. fxg3 e4 38. Rf1+ Kg7 39. Qe7+ Kh6 40. Rf5 Rg8 41. b8=B Nxb8 42. Qh4+ Kg6 43. Qg5# 1-0

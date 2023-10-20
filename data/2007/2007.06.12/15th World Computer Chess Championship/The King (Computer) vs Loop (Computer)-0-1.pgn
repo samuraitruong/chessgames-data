@@ -1,0 +1,14 @@
+[Event "15th World Computer Chess Championship"]
+[Site "Amsterdam, The Netherlands"]
+[Date "2007.06.12"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "The King (Computer)"]
+[Black "Loop (Computer)"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Qd2 Be7 9. f3 O-O 10. O-O-O Nbd7 11. g4 b5 12. g5 b4 13. Ne2 Ne8 14. f4 a5 15. f5 Bxb3 16. cxb3 a4 17. bxa4 Rxa4 18. b3 Ra5 19. Kb1 d5 20. exd5 Bc5 21. Bxc5 Nxc5 22. Qxb4 Nd6 23. Nc3 Qa8 24. Bb5 Rc8 25. Bc6 Qa7 26. a4 Rb8 27. Bb5 Nxb5 28. Nxb5 Raxb5 29. axb5 Ra8 30. Kc1 Nd3+ 31. Rxd3 Qa1+ 32. Kd2 Qxh1 33. Qc3 g6 34. Ke3 Qg1+ 35. Kf3 Qf1+ 36. Ke3 Qf4+ 37. Ke2 gxf5 38. Rd2 Qxh2+ 39. Kd1 Qg1+ 40. Ke2 e4 41. g6 hxg6 42. Qd4 Qh2+ 43. Qf2 0-1

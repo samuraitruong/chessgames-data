@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "?"]
+[Date "1902.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Akiba Rubinstein"]
+[Black "NN"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nxe4 5. O-O Be7 6. Qxd4 Nf6 7. Bg5 O-O 8. Bd3 Nc6 9. Qh4 g6 10. Rfe1 Nd5 11. Rxe7 Ndxe7 12. Bf6 d5 13. Re1 Be6 14. Ne5 Nxe5 15. Rxe5 Qd6 16. Qxh7+ Kxh7 17. Rh5+ Kg8 18. Rh8# 1-0

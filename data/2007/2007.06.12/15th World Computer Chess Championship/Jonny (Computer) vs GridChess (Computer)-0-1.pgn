@@ -1,0 +1,14 @@
+[Event "15th World Computer Chess Championship"]
+[Site "Amsterdam, The Netherlands"]
+[Date "2007.06.12"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Jonny (Computer)"]
+[Black "GridChess (Computer)"]
+[ECO "D43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 c6 4.Nc3 e6 5.Bg5 Nbd7 6.cxd5 exd5 7.e3 Be7 8.Qc2 h6 9.Bh4 O-O 10.Bd3 Re8 11.O-O Ne4 12.Bxe7 Qxe7 13.Rae1 b6 14.Rb1 Bb7 15.Rbc1 f5 16.Kh1 Rac8 17.Qa4 a6 18.Qb3 Qd6 19.Bxe4 fxe4 20.Ne5 Nxe5 21.dxe5 Qxe5 22.Qxb6 Qe7 23.Na4 Rb8 24.Rc2 Qd6 25.Rfc1 Rf8 26.Qa5 Qe7 27.Nc5 Bc8 28.Nb3 Bd7 29.Kg1 Kh7 30.Ra1 Qg5 31.Qxa6 Rf6 32.Qf1 Bh3 33.Kh1 Bg4 34.h3 Qh5 35.Kg1 Bd7 36.Nc5 Bc8 37.Qe2 Rf3 38.Rac1 Bxh3 39.gxh3 Rbf8 40.Nb3 Qh4 41.Qf1 Rxh3 42.Qg2 Rf5 43.Kf1 Rh2 44.Qg1 c5 45.f4 Rh1 46.Rg2 0-1

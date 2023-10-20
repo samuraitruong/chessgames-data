@@ -1,0 +1,14 @@
+[Event "CCT9"]
+[Site "Internet Chess Club"]
+[Date "2007.02.17"]
+[EventDate "?"]
+[Round "-"]
+[Result "0-1"]
+[White "Arena (Computer)"]
+[Black "Spike (Computer)"]
+[ECO "E06"]
+[WhiteElo "2000"]
+[BlackElo "2758"]
+[PlyCount "96"]
+
+1. Nf3 d5 2. d4 Nf6 3. g3 e6 4. Bg2 Be7 5. c4 O-O 6. Nc3 dxc4 7. O-O Nc6 8. e3 Bd6 9. Qe2 e5 10. Qxc4 a6 11. d5 Na5 12. Qd3 Bd7 13. Rd1 Ng4 14. b4 f5 15. bxa5 e4 16. Qf1 exf3 17. Bxf3 Ne5 18. Bg2 Rb8 19. Rb1 Be8 20. Qe2 Nd7 21. Qc2 Bg6 22. f4 Nc5 23. Rd4 Be8 24. Kh1 Qe7 25. e4 fxe4 26. Be3 Bg6 27. Rc4 Nd7 28. Ba7 Ra8 29. Bd4 Rfe8 30. Rxb7 e3 31. Qe2 Nf6 32. Rc6 Bf5 33. Bc5 Qd8 34. Bxd6 cxd6 35. Rcc7 Rc8 36. Rxg7+ Kh8 37. Bh3 Bxh3 38. Qd3 Re4 39. Rxh7+ Nxh7 40. Qxe4 Rc7 41. Rb3 Qe7 42. Qd4+ Kg8 43. Ne2 Rc2 44. Rb2 Rxb2 45. Qd3 Rxe2 46. Qg6+ Kh8 47. Qb1 Qe4+ 48. Kg1 Qxb1# 0-1

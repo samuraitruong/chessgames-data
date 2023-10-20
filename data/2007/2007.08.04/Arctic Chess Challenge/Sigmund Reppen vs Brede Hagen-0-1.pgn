@@ -1,0 +1,14 @@
+[Event "Arctic Chess Challenge"]
+[Site "Tromso NOR"]
+[Date "2007.08.04"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Sigmund Reppen"]
+[Black "Brede Hagen"]
+[ECO "C55"]
+[WhiteElo "2086"]
+[BlackElo "2034"]
+[PlyCount "42"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6 5.O-O Bc5 6.Re1 O-O 7.Bg5 d6 8.h3 h6 9.Bh4 Ne5 10.Bb3 Ng6 11.Bg3 Re8 12.Qd3 Nh5 13.Nxd4 Nxg3 14.fxg3 Ne5 15.Qd1 Bxh3 16.Kh1 Qg5 17.gxh3 Qxg3 18.Re2 Bxd4 19.Bxf7+ Kxf7 20.Qxd4 Nf3 21.Qc4+ Kf8 0-1

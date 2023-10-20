@@ -1,0 +1,14 @@
+[Event "?"]
+[Site "?"]
+[Date "1900.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "A K Makarov"]
+[Black "Sergei Tolstoy"]
+[ECO "C36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.e4 e5 2.f4 d5 3.Nf3 exf4 4.e5 d4 5.Bc4 Nc6 6.d3 g5 7.O-O Bg7 8.c3 Nh6 9.Nxg5 Qxg5 10.Bxf4 Qg4 11.Qb3 O-O 12.Bxh6 Bxh6 13.Bxf7+ Kh8 14.e6 Be3+ 15.Kh1 Bxe6 16.Qxb7 Bd5 17.Rg1 Bxg2+ 18.Rxg2 Qd1+ 19.Rg1 Qxg1# 0-1

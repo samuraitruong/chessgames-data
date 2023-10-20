@@ -1,0 +1,14 @@
+[Event "Training"]
+[Site "New York USA"]
+[Date "1919.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Charles Jaffe"]
+[Black "Borislav Kostic"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3 Bb4 5.Qf3 Nc6 6.Qxf4 O-O 7.Nf3 Bxc3 8.dxc3 d5 9.exd5 Re8+ 10.Be3 Na5 0-1

@@ -1,0 +1,14 @@
+[Event "CCT9"]
+[Site "Internet Chess Club"]
+[Date "2007.02.17"]
+[EventDate "?"]
+[Round "-"]
+[Result "0-1"]
+[White "bodo (Computer)"]
+[Black "Crafty (Computer)"]
+[ECO "D12"]
+[WhiteElo "2543"]
+[BlackElo "2627"]
+[PlyCount "168"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. cxd5 cxd5 6. Qb3 Qc7 7. Nc3 e6 8. Nh4 Bg6 9. Nxg6 hxg6 10. Bd2 a6 11. Rc1 Nc6 12. Bd3 Bb4 13. g3 Ng4 14. h3 Bd6 15. e4 Bxg3 16. Nd1 Bd6 17. Be2 Nh6 18. exd5 exd5 19. Ne3 Qe7 20. Qxd5 O-O 21. Rc4 Nb4 22. Qf3 b5 23. Rc1 Nxa2 24. Ra1 Nb4 25. O-O Rfd8 26. Rfc1 Ra7 27. Re1 Bc5 28. Bf1 Qg5+ 29. Ng4 Qxd2 30. dxc5 Nc2 31. Red1 Qg5 32. Rxd8+ Qxd8 33. Qd1 Qxd1 34. Rxd1 Rc7 35. Rd8+ Kh7 36. Ne5 f6 37. Nd3 a5 38. Bg2 Nf5 39. f4 Ncd4 40. Bd5 Ne7 41. Bg8+ Nxg8 42. Rxd4 Ne7 43. Kf2 Nc6 44. Rd6 a4 45. Ke1 b4 46. Kd2 Kh6 47. Kc2 Kh5 48. Nc1 g5 49. Nd3 g4 50. hxg4+ Kxg4 51. Kc1 Kf5 52. Kb1 Ke4 53. Ka2 Ke3 54. Rd5 Ra7 55. Kb1 a3 56. bxa3 bxa3 57. Ka2 Nd4 58. Ne1 Ne2 59. Nc2+ Kxf4 60. Kb3 a2 61. Rd1 g5 62. Rf1+ Kg3 63. Kc4 f5 64. c6 f4 65. Kb5 Nc3+ 66. Kb6 Ra4 67. Kc5 Ne4+ 68. Kb5 Ra8 69. c7 f3 70. Rg1+ Kf4 71. Kc6 f2 72. Rd1 g4 73. Kb7 Rf8 74. Nb4 g3 75. c8=Q Rxc8 76. Kxc8 g2 77. Nd3+ Kg3 78. Nxf2 Kxf2 79. Rd5 a1=Q 80. Kb7 g1=Q 81. Rf5+ Ke1 82. Rb5 Qga7+ 83. Kc6 Qf6+ 84. Kd5 Qad4# 0-1

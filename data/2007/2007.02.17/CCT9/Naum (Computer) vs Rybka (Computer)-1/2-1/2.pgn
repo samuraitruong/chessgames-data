@@ -1,0 +1,14 @@
+[Event "CCT9"]
+[Site "Internet Chess Club"]
+[Date "2007.02.17"]
+[EventDate "?"]
+[Round "-"]
+[Result "1/2-1/2"]
+[White "Naum (Computer)"]
+[Black "Rybka (Computer)"]
+[ECO "D37"]
+[WhiteElo "2744"]
+[BlackElo "2836"]
+[PlyCount "106"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nc6 5. e3 g6 6. Bd3 Bg7 7. Bd2 O-O 8. O-O Re8 9. Rc1 a6 10. a3 b6 11. b4 Bb7 12. Qc2 dxc4 13. Bxc4 Qd6 14. Bd3 Rab8 15. Rfd1 Red8 16. Ne4 Qf8 17. Bxa6 Bxa6 18. Nxf6+ Bxf6 19. Qxc6 Rd6 20. Qe4 Qd8 21. a4 Bg7 22. Rc2 Bb7 23. Qf4 Bxf3 24. gxf3 Rb7 25. Qe4 Rd5 26. f4 Bf8 27. Ra1 Qd7 28. a5 Ra7 29. Rac1 Qb5 30. Qg2 Bxb4 31. axb6 Qxb6 32. Rb2 c5 33. Rcb1 Qc6 34. Bxb4 cxb4 35. Rxb4 Ra2 36. Rb8+ Kg7 37. h3 Qc2 38. Qf3 h5 39. Kg2 h4 40. Rf1 Qc3 41. Rb7 Rda5 42. Qe4 Qc4 43. Rb8 Qc3 44. Rfb1 Qd2 45. Qf3 Qc2 46. R8b6 Ra1 47. R6b2 Qd3 48. Rxa1 Rxa1 49. Qe2 Qc3 50. Rc2 Qb3 51. Rb2 Qc3 52. Rc2 Qb3 53. Rb2 Qc3 1/2-1/2
