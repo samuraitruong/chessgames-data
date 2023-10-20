@@ -1,0 +1,15 @@
+[Event "62nd US Open"]
+[Site "San Francisco, CA USA"]
+[Date "1961.08.21"]
+[EventDate "1961.08.14"]
+[Round "7.21"]
+[Result "0-1"]
+[White "Fred Cramer"]
+[Black "Charles T Morgan"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Tournament book, p. 23, game 139"]
+[PlyCount "36"]
+
+1.e4 e6 2.b3 c5 3.Bb2 d5 4.Bb5+ Bd7 5.Bxd7+ Qxd7 6.exd5 exd5 7.d4 Nc6 8.Ne2 O-O-O 9.O-O f6 10.Nd2 Bd6 11.Nf3 Nge7 12.dxc5 Bxc5 13.Ned4 Ng6 14.Nxc6 bxc6 15.Nd4 Bb6 16.Qd3 Nf4 17.Qf5 Bxd4 18.Qxd7+ Rxd7 0-1

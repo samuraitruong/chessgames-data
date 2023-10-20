@@ -1,0 +1,15 @@
+[Event "62nd US Open"]
+[Site "San Francisco, CA USA"]
+[Date "1961.08.17"]
+[EventDate "1961.08.14"]
+[Round "4.12"]
+[Result "1-0"]
+[White "Milton Otteson"]
+[Black "Richard E Fauber"]
+[ECO "E41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Tournament book, p. 12, game 70"]
+[PlyCount "41"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 O-O 6.Nge2 d5 7.cxd5 Nxd5 8.O-O cxd4 9.Nxd4 Nxc3 10.bxc3 Be7 11.Qc2 h6 12.Rd1 Nd7 13.a4 Qc7 14.Nb5 Qe5 15.Bb2 Bf6 16.Rab1 a6 17.c4 Qb8 18.Nd6 Bxb2 19.Rxb2 Nc5 20.Bh7+ Kh8 21.Nxf7+ 1-0

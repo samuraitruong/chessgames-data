@@ -1,0 +1,14 @@
+[Event "Chigorin Memorial"]
+[Site "St Petersburg RUS"]
+[Date "2017.10.29"]
+[EventDate "2017.10.21"]
+[Round "9.161"]
+[Result "1-0"]
+[White "Alexander Bulsoev"]
+[Black "Danila Shemakhanov"]
+[ECO "B25"]
+[WhiteElo "1853"]
+[BlackElo "1542"]
+[PlyCount "41"]
+
+1. e4 c5 2. Nc3 Nc6 3. d3 g6 4. Be3 d6 5. d4 cxd4 6. Bxd4 Nxd4 7. Qxd4 Nf6 8. e5 dxe5 9. Bb5+ Bd7 10. Qxe5 Bxb5 11. Nxb5 Rc8 12. Rd1 Qa5+ 13. c3 Qa6 14. Nc7+ Rxc7 15. Qxc7 Qe6+ 16. Ne2 Nd5 17. Qb8+ Kd7 18. Qxb7+ Kd6 19. c4 Qg4 20. Rxd5+ Ke6 21. Qc6# 1-0

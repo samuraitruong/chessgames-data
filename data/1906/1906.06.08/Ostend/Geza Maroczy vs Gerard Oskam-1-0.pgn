@@ -1,0 +1,15 @@
+[Event "Ostend"]
+[Site "Ostend BEL"]
+[Date "1906.06.08"]
+[EventDate "1906.06.05"]
+[Round "4"]
+[Result "1-0"]
+[White "Geza Maroczy"]
+[Black "Gerard Oskam"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Ostend 1906 / Gillam, Game 67"]
+[PlyCount "37"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Be6 6.Bf4 Nf6 7.e3 Nc6 8.Be2 Be7 9.dxc5 Bxc5 10.O-O O-O 11.Rc1 Be7 12.Nd4 Nxd4 13.Qxd4 Qa5 14.a3 Rac8 15.Nb5 a6 16.Bc7 Rxc7 17.Nxc7 Bd7 18.Rc3 Ne4 19.Nxd5 1-0

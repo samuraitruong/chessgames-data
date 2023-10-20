@@ -1,0 +1,15 @@
+[Event "62nd US Open"]
+[Site "San Francisco, CA USA"]
+[Date "1961.08.24"]
+[EventDate "1961.08.14"]
+[Round "10.55"]
+[Result "0-1"]
+[White "Robert W Moore"]
+[Black "Gunnar Rasmussen"]
+[ECO "B18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Tournament book, p. 35, game 205"]
+[PlyCount "34"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 e6 7.h4 h6 8.Bd3 Bxd3 9.Qxd3 Bd6 10.Ne4 Be7 11.Bf4 Nf6 12.O-O-O Nxe4 13.Qxe4 Nd7 14.Kb1 Nf6 15.Qe2 Qb6 16.Ne5 Nd5 17.Bh2 Nc3+ 0-1

@@ -1,0 +1,14 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2018.03.06"]
+[EventDate "2018.03.06"]
+[Round "1.100"]
+[Result "0-1"]
+[White "Thomas Due Hestnes"]
+[Black "Stephan Briem"]
+[ECO "A40"]
+[WhiteElo "1425"]
+[BlackElo "1841"]
+[PlyCount "42"]
+
+1. d4 e6 2. Bf4 f5 3. Nf3 Nf6 4. e3 Be7 5. Bd3 d6 6. Nbd2 O-O 7. O-O b6 8. c4 Bb7 9. Qc2 Qe8 10. Ng5 Bd8 11. Rfe1 h6 12. Ngf3 Nc6 13. e4 Nb4 14. Qc3 Nxd3 15. Qxd3 fxe4 16. Nxe4 Nxe4 17. Rxe4 Qg6 18. d5 Rxf4 19. Rae1 Rxe4 20. Rxe4 e5 21. Nh4 Bxh4 0-1

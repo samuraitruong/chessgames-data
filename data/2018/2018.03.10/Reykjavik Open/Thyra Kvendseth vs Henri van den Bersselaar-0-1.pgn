@@ -1,0 +1,14 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2018.03.10"]
+[EventDate "2018.03.06"]
+[Round "5.76"]
+[Result "0-1"]
+[White "Thyra Kvendseth"]
+[Black "Henri van den Bersselaar"]
+[ECO "B01"]
+[WhiteElo "1757"]
+[BlackElo "1956"]
+[PlyCount "42"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nc6 5. Nb5 Qd7 6. Bf4 e5 7. dxe5 Bb4+ 8. c3 Ba5 9. Qxd7+ Bxd7 10. e6 fxe6 11. Nxc7+ Bxc7 12. Bxc7 Nf6 13. Nf3 Nd5 14. Bg3 O-O-O 15. O-O-O Rhf8 16. Ng5 h6 17. Ne4 Nf4 18. Nc5 e5 19. f3 Bf5 20. Bb5 a6 21. Bxc6 Ne2# 0-1

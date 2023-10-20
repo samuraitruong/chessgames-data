@@ -2,13 +2,13 @@
 [Site "Utrecht NED"]
 [Date "1928.04.??"]
 [EventDate "?"]
-[Round "3"]
+[Round "?"]
 [Result "0-1"]
 [White "Adolf Georg Olland"]
 [Black "Edgar Colle"]
-[ECO "B29"]
+[ECO "B03"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "42"]
+[PlyCount "76"]
 
-1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Bc4 Nb6 6. Qe2 Nxc4 7. Qxc4 Nc6 8. Qxc5 e5 9. Qe3 Bd6 10. Ne4 Nb4 11. Kd1 O-O 12. b3 Bf5 13. Bb2 Rc8 14. Ne1 Nd5 15. Qd3 Ba3 16. Bxa3 Bxe4 17. Qf1 Re8 18. Kc1 Qa5 19. Bb2 Nb4 20. d3 Red8 21. Qe2 Nxd3+ 0-1
+1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.d4 d6 5.f4 Bf5 6.Nf3 dxe5 7.fxe5 e6 8.Nc3 Nc6 9.Be3 Nb4 10.Rc1 c5 11.a3 cxd4 12.Nxd4 Nc6 13.Nxf5 exf5 14.c5 Nd7 15.Qc2 Bxc5 16.Bxc5 Nxc5 17.Qxf5 O-O 18.Nb5 Nb3 19.Rd1 Qa5+ 20.Kf2 Qb6+ 21.Kg3 Rae8 22.Qf2 Qxf2+ 23.Kxf2 Rxe5 24.h4 Nc5 25.Rh3 Ne4+ 26.Kg1 a6 27.Nc3 Nf6 28.Rhd3 h5 29.Rd6 Ne7 30.Rb6 Nf5 31.Rxb7 Ng4 32.Bxa6 Rfe8 33.Rbd7 Re1+ 34.Bf1 Ng3 35.Rxe1 Rxe1 36.Rd8+ Kh7 37.Rd1 Ne2+ 38.Nxe2 Rxd1 0-1

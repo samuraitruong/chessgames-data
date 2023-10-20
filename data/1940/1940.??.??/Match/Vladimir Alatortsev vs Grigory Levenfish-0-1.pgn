@@ -2,13 +2,13 @@
 [Site "Leningrad URS"]
 [Date "1940.??.??"]
 [EventDate "?"]
-[Round "12"]
+[Round "2"]
 [Result "0-1"]
 [White "Vladimir Alatortsev"]
 [Black "Grigory Levenfish"]
-[ECO "A17"]
+[ECO "E54"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "80"]
+[PlyCount "108"]
 
-1.c4 Nf6 2.Nc3 e6 3.g3 d5 4.Bg2 Be7 5.d4 O-O 6.Nf3 Nbd7 7.Qb3 dxc4 8.Qxc4 a6 9.O-O b5 10.Qb3 Bb7 11.Rd1 c5 12.dxc5 Bxc5 13.Ne5 Qb6 14.Nxd7 Nxd7 15.Bxb7 Bxf2+ 16.Kf1 Nc5 17.Qb4 Nxb7 18.Ne4 Bg1 19.Kg2 a5 20.Nf6+ gxf6 21.Qg4+ Kh8 22.Rxg1 Qc6+ 23.Kh3 Rg8 24.Qh4 Rg6 25.Rf1 Nd6 26.Bf4 Ne4 27.Qh5 e5 28.Be3 Rag8 29.Rac1 Qe6+ 30.Qf5 Nxg3 31.Qxe6 fxe6 32.hxg3 Rxg3+ 33.Kh2 Rxe3 34.Rf2 Re4 35.Kh1 Rh4+ 36.Rh2 Rgg4 37.Rc6 Rxh2+ 38.Kxh2 Re4 39.Rc2 Kg7 40.Kg3 Rb4 0-1
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 d5 5.Nf3 O-O 6.Bd3 c5 7.O-O dxc4 8.Bxc4 Nc6 9.a3 Ba5 10.Qd3 a6 11.dxc5 Qxd3 12.Bxd3 Bxc3 13.bxc3 Nd7 14.a4 Nxc5 15.Bc2 Re8 16.Ba3 Nd7 17.Rfd1 Nf6 18.c4 e5 19.Bd6 Bg4 20.h3 Bxf3 21.gxf3 g6 22.Rab1 Na5 23.Bc7 Nxc4 24.Rxb7 Re7 25.Rb8+ Rxb8 26.Bxb8 Rd7 27.Kf1 Kf8 28.Ke2 Ke7 29.Rxd7+ Nxd7 30.Ba7 a5 31.Bd3 Ncb6 32.Bb5 Nc8 33.Bxd7 Kxd7 34.Bb8 f6 35.f4 e4 36.f3 exf3+ 37.Kxf3 Nb6 38.Ba7 Nxa4 39.Bd4 f5 40.e4 Kd6 41.Be5+ Kc6 42.exf5 gxf5 43.Ke3 Nc5 44.Bc3 Nb3 45.Kd3 Kd5 46.Bb2 Nc5+ 47.Ke3 a4 48.Ba3 Kc4 49.Kf3 Ne6 50.Bd6 Nc5 51.Be5 a3 52.Kg3 Nb3 53.Kh4 Nd4 54.Kg5 a2 0-1

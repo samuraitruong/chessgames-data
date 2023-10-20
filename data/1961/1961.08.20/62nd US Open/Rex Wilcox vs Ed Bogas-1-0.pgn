@@ -1,0 +1,15 @@
+[Event "62nd US Open"]
+[Site "San Francisco, CA USA"]
+[Date "1961.08.20"]
+[EventDate "1961.08.14"]
+[Round "6.32"]
+[Result "1-0"]
+[White "Rex Wilcox"]
+[Black "Ed Bogas"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Tournament book, p. 21, game 123"]
+[PlyCount "41"]
+
+1.e4 c5 2.Nf3 e6 3.Be2 d5 4.e5 Nc6 5.O-O Bd7 6.Nc3 Nge7 7.d4 Ng6 8.Bg5 Qb8 9.Re1 cxd4 10.Nxd4 a6 11.Bh5 Bc5 12.Nb3 Ba7 13.Be3 O-O 14.Nc5 Rd8 15.Bxg6 hxg6 16.N3a4 Nxe5 17.Bf4 f6 18.Bxe5 fxe5 19.Qg4 Bxa4 20.Qxe6+ Kf8 21.Re3 1-0

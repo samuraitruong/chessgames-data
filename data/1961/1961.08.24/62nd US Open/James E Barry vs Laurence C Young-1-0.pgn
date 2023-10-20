@@ -1,0 +1,15 @@
+[Event "62nd US Open"]
+[Site "San Francisco, CA USA"]
+[Date "1961.08.24"]
+[EventDate "1961.08.14"]
+[Round "10.15"]
+[Result "1-0"]
+[White "James E Barry"]
+[Black "Laurence C Young"]
+[ECO "D93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Tournament book, p. 33, game 197"]
+[PlyCount "33"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.Nf3 O-O 6.e3 c6 7.Qb3 Qa5 8.Rc1 Nbd7 9.Nd2 Nb6 10.Bc7 Ne8 11.Bxb6 axb6 12.cxd5 c5 13.Nc4 Qa7 14.Nxb6 cxd4 15.Nxa8 dxc3 16.Nb6 Bf5 17.bxc3 1-0
