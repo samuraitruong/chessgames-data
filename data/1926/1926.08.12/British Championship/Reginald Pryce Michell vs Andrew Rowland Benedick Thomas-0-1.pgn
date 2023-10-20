@@ -1,0 +1,15 @@
+[Event "British Championship"]
+[Site "Edinburgh SCO"]
+[Date "1926.08.12"]
+[EventDate "1926.08.02"]
+[Round "10"]
+[Result "0-1"]
+[White "Reginald Pryce Michell"]
+[Black "Andrew Rowland Benedick Thomas"]
+[ECO "D67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "BritBase 2022.03.25"]
+[PlyCount "40"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O 7. Rc1 c6 8. Bd3 dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. Ne4 e5 12. dxe5 Nxe5 13. Bxd5 cxd5 14. Nc3 Bg4 15. Nxd5 Qd6 16. O-O Rad8 17. Nf4 Qh6 18. Qe2 Bxf3 19. gxf3 g5 20. Ng2 Rd2 0-1

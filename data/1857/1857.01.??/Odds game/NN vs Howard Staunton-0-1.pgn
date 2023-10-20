@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1857.01.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Howard Staunton"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Illustrated London News, 1857.01.24, p.73"]
+[PlyCount "86"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 d6 2.d4 Nf6 3.Bd3 Nc6 4.Ne2 e6 5.O-O Be7 6.f4 O-O 7.e5 dxe5 8.fxe5 Nxe5 9.dxe5 Bc5+ 10.Kh1 Ng4 11.Bf4 Nf2+ 12.Rxf2 Bxf2 13.Nd2 Bd7 14.Ne4 Bb6 15.Ng5 h6 16.Nh7 Rf7 17.Bg6 Bb5 18.Bd2 Rf2 19.Nf4 Rf1+ 20.Qxf1 Bxf1 21. Rxf1 Qxd2 22.Nxe6 Qe2 23.Bd3 Qxf1+ 24.Bxf1 Kxh7 25.Bd3+ Kg8 26.Bc4 Kh8 27. Nf4 g5 28.Nd3 Kg7 29.g4 Re8 30.c3 c6 31.Kg2 Bc7 32.e6 Kf6 33.a4 Ke7 34.Nc5 Rf8 35.h3 b6 36.Nb3 c5 37.Nd2 Rf4 38.Bb3 a6 39.Bc4 b5 40.axb5 axb5 41.Bd5 Kd6 42.b4 cxb4 43.cxb4 Rd4 0-1

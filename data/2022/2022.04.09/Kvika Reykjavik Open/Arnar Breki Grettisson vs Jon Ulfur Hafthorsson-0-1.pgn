@@ -1,0 +1,14 @@
+[Event "Kvika Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2022.04.09"]
+[EventDate "2022.04.06"]
+[Round "5.115"]
+[Result "0-1"]
+[White "Arnar Breki Grettisson"]
+[Black "Jon Ulfur Hafthorsson"]
+[ECO "C50"]
+[WhiteElo "1518"]
+[BlackElo "1186"]
+[PlyCount "36"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 d6 5. c3 h6 6. a4 a6 7. O-O Nf6 8. d4 exd4 9. cxd4 Bb4 10. Qb3 Bg4 11. d5 Bxf3 12. gxf3 Nd4 13. Qxb4 Nxf3+ 14. Kh1 Ng4 15. Bf4 Qh4 16. Bg3 Qh3 17. Rg1 Nxf2+ 18. Bxf2 Qxh2# 0-1

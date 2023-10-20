@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "ENG"]
+[Date "1852.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Howard Staunton"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.xiii (1852), p.231"]
+[PlyCount "64"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. Nf3 Ng6 5. Bd3 Bc5 6. O-O Nf6 7. a3 O-O 8. b4 Bb6 9. c4 d6 10. Be3 Bg4 11. c5 dxc5 12. bxc5 Ba5 13. Bg5 h6 14. Bd2 Bxd2 15. Nbxd2 Nh5 16. Qb3 Bxf3 17. Nxf3 Rxf3 18. gxf3 Nh4 19. Kh1 Nxf3 20. Be2 Nd4 21. Qe3 Nf4 22. Bd3 Qh4 23. Rad1 Rf8 24. Qg3 Qh5 25. Rg1 g5 26. Bc4 Nh3 27. Rdf1 Nxg1 28. Rxg1 Kh7 29. Qxe5 Qf3+ 30. Rg2 Qd1+ 31. Rg1 Qxg1+ 32. Kxg1 Nf3+ 0-1

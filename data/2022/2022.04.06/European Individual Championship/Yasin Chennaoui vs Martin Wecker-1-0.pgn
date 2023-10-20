@@ -1,0 +1,15 @@
+[Event "European Individual Championship"]
+[Site "Terme Catez SLO"]
+[Date "2022.04.06"]
+[EventDate "2022.03.27"]
+[Round "11.50"]
+[Result "1-0"]
+[White "Yasin Chennaoui"]
+[Black "Martin Wecker"]
+[ECO "A46"]
+[WhiteElo "2015"]
+[BlackElo "2180"]
+[Source "Lichess"]
+[PlyCount "24"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 g6 4. c4 cxd4 5. exd4 d5 6. Nc3 Bg7 7. Bg5 Be6 8. Qb3 Nbd7 9. cxd5 Nxd5 10. Nxd5 Qa5+ 11. Qb4 Qxd5 12. Qxe7# 1-0

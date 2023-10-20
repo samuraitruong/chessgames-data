@@ -1,0 +1,15 @@
+[Event "British Championship"]
+[Site "Edinburgh SCO"]
+[Date "1926.08.09"]
+[EventDate "1926.08.02"]
+[Round "7"]
+[Result "1-0"]
+[White "Fred Dewhirst Yates"]
+[Black "Andrew Rowland Benedick Thomas"]
+[ECO "C48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "BritBase 2022.03.25"]
+[PlyCount "42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bc5 5. O-O O-O 6. Nxe5 Re8 7. Nf3 Nxe4 8. d4 Nxc3 9. bxc3 Bf8 10. Bg5 Be7 11. Bf4 Bf6 12. Qd2 a6 13. Bd3 d6 14. Rae1 Ne7 15. Bg5 Bxg5 16. Qxg5 Bd7 17. Qh5 f5 18. Ng5 h6 19. Qf7+ Kh8 20. Ne6 Bxe6 21. Rxe6 1-0

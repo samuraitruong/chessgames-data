@@ -1,0 +1,14 @@
+[Event "V POL Ch"]
+[Site "Sopot POL"]
+[Date "1946.08.05"]
+[EventDate "1946.07.22"]
+[Round "15"]
+[Result "0-1"]
+[White "Kazimierz Plater"]
+[Black "Andrzej Pytlakowski"]
+[ECO "D80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7 5.Bd3 O-O 6.Qc2 Nc6 7.cxd5 Nb4 8.Qe2 Nxd3+ 9.Qxd3 Nxd5 10.Nge2 Nb4 11.Qd2 c5 12.O-O Bf5 13.d5 Bd3 14.e4 c4 15. a4 Nc2 16.Ra2 Qb6 17.Rd1 f5 18.exf5 Rxf5 19.Ng3 Rxf2 20.a5 Rf1# 0-1
