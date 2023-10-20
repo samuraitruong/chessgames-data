@@ -1,0 +1,15 @@
+[Event "Ch Tashkent"]
+[Site "Tashkent (URS)"]
+[Date "1926.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Skripkin"]
+[Black "A Khodzhaev"]
+[ECO "D51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "42"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 Be7 6.Nf3 c6 7.Rc1 Ne4 8.Bxe7 Qxe7 9.Bd3 f5 10.O-O O-O 11.Ne5 Rf6 12.f4 Nxe5 13.fxe5 Rh6 14.Rf3 Bd7 15.Be2 Qh4 16.h3 Ng5 17.Rf4 Nxh3+ 18.gxh3 Qg3+ 19.Kf1 Rxh3 20.Bf3 Rh2 21.Rc2 g5 0-1

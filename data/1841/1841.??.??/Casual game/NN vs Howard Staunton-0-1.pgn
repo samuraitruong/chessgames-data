@@ -1,15 +1,15 @@
 [Event "Casual game"]
 [Site "London ENG"]
 [Date "1841.??.??"]
-[EventDate "1841.??.??"]
+[EventDate "?"]
 [Round "?"]
 [Result "0-1"]
 [White "NN"]
 [Black "Howard Staunton"]
-[ECO "C30"]
+[ECO "C53"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[Source "Chess Player’s Chronicle, vol.i (1841), p.353"]
-[PlyCount "66"]
+[Source "Chess Player’s Chronicle, vol.i (1841), p.37"]
+[PlyCount "62"]
 
-1. e4 e5 2. f4 Bc5 3. c3 Nc6 4. Bc4 Nf6 5. Qf3 O-O 6. d3 d6 7. f5 Na5 8. b4 Bxg1 9. bxa5 Bc5 10. Nd2 c6 11. Nb3 b5 12. axb6 Bxb6 13. Nd2 d5 14. Bb3 Ba6 15. Ba3 Re8 16. O-O-O h6 17. g4 Nh7 18. h4 Ba5 19. Nb1 d4 20. c4 Rb8 21. Kc2 f6 22. c5+ Kh8 23. g5 fxg5 24. hxg5 Nxg5 25. Qh5 Qe7 26. Rdg1 Nh7 27. Rh2 Bb4 28. Rhg2 Qxc5+ 29. Kd1 Bxa3 30. Nxa3 Qc3 31. Bc2 Bxd3 32. Qg4 Ng5 33. Qg3 Bxc2+ 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7 5. d4 exd4 6. O-O Ne5 7. Nxe5 Qxe5 8. f4 dxc3+ 9. Kh1 Qd4 10. Qb3 Nh6 11. Nxc3 c6 12. Na4 b5 13. Nxc5 bxc4 14. Qa3 Ng4 15. h3 h5 16. e5 a5 17. Bd2 Qxd2 18. Ne4 Qd3 19. Nd6+ Kf8 20. b3 Kg8 21. Rf3 Qd4 22. Raf1 Ne3 23. R1f2 Qd1+ 24. Kh2 Ng4+ 25. Kg3 Qh1 26. Rf1 Qh2+ 27. Kh4 Qxg2 28. Nf5 Nxe5 29. Ne7+ Kh7 30. R3f2 Ng6+ 31. Nxg6 Qxg6 0-1

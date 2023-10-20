@@ -1,0 +1,15 @@
+[Event "Ivanovo National tournament"]
+[Site "Ivanovo (URS)"]
+[Date "1934.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Pomelov"]
+[Black "Krasilnikov"]
+[ECO "D43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "70"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.Bg5 Be7 6.e3 Nbd7 7.cxd5 exd5 8.Qc2 O-O 9.Bd3 Re8 10.O-O Nf8 11.Ne5 Ng4 12.Bf4 Bd6 13.Nxg4 Bxf4 14.Bf5 Bc7 15.h3 Qd6 16.Rac1 a6 17.g3 h5 18.Bxc8 Raxc8 19.Ne5 h4 20.g4 f6 21.Nf3 Nh7 22.Kg2 Ng5 23.Rh1 Rxe3 24.Nxh4 Rxh3 25.Nf5 Rh2+ 26.Rxh2 Qxh2+ 27.Kf1 Qh1+ 28.Ke2 Re8+ 29.Kd3 Qf3+ 30.Ne3 Nh3 31.Ncd1 Ba5 32.b4 Bxb4 33.Qb3 Qe4+ 34.Ke2 Nf4+ 35.Kf1 Qh1# 0-1

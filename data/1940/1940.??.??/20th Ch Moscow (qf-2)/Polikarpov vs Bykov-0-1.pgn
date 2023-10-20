@@ -1,0 +1,15 @@
+[Event "20th Ch Moscow (qf-2)"]
+[Site "Moscow (URS)"]
+[Date "1940.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Polikarpov"]
+[Black "Bykov"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "70"]
+
+1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.d4 d6 5.f4 dxe5 6.fxe5 Nc6 7.Be3 Bf5 8.Nc3 e6 9.Be2 Be7 10.Nf3 O-O 11.Qd2 Nb4 12.O-O-O Na4 13.g4 Bg6 14.Rdg1 Qd7 15.h4 Nxc3 16.bxc3 Qa4 17.c5 Qa3+ 18.Kd1 Nxa2 19.Bd3 Nxc3+ 20.Ke1 Nd5 21.Ke2 Bxd3+ 22.Qxd3 Qxd3+ 23.Kxd3 b5 24.g5 a5 25.h5 a4 26.Nd2 b4 27.Ne4 b3 28.Nf6+ Bxf6 29.gxf6 Nxe3 30.Kxe3 a3 31.d5 exd5 32.Kf4 a2 33.Rxg7+ Kh8 34.Kg5 b2 35.Kh6 b1=Q 0-1

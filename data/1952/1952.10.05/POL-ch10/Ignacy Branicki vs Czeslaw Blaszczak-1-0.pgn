@@ -1,0 +1,15 @@
+[Event "POL-ch10"]
+[Site "Katowice POL"]
+[Date "1952.10.05"]
+[EventDate "1952.10.05"]
+[Round "1"]
+[Result "1-0"]
+[White "Ignacy Branicki"]
+[Black "Czeslaw Blaszczak"]
+[ECO "D61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "64"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Bg5 Nbd7 5.e3 Be7 6.Nc3 O-O 7.Qc2 c5 8.Rd1 Qa5 9.cxd5 exd5 10.Bd3 h6 11.Bh4 c4 12.Bf5 Bb4 13.O-O Bxc3 14.bxc3 Re8 15.Nd2 Qa6 16.e4 dxe4 17.Nxe4 Nxe4 18.Bxe4 Nb6 19.d5 Bd7 20.Rd4 Rac8 21.f4 Rc5 22.f5 f6 23.Qd2 Na4 24.d6 Kh7 25.Bd5 b5 26.Be6 Nb6 27.Bxf6 Bxe6 28.Bxg7 Rxf5 29.Qxh6+ Kg8 30.Bf6 Rxf1+ 31.Kxf1 Bd7 32.Qg7# 1-0

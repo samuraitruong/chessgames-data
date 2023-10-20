@@ -1,0 +1,15 @@
+[Event "Bashkiria championship"]
+[Site "Ufa (URS)"]
+[Date "1934.03.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "A Soloviov"]
+[Black "Lev Kaiev"]
+[ECO "E21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "44"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nc3 c5 5.Bd2 Bxc3 6.Bxc3 Ne4 7.e3 b6 8.Qc2 Nxc3 9.bxc3 Bb7 10.Be2 f5 11.O-O O-O 12.Ne1 Nc6 13.Bf3 Qf6 14.g3 Rad8 15.Nd3 cxd4 16.Bxc6 dxc6 17.cxd4 c5 18.dxc5 Be4 19.Rad1 f4 20.Qb3 Rxd3 21.Rxd3 fxg3 22.f4 Qh4 0-1

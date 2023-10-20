@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1849.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Charles French Smith"]
+[Black "Henry Buckle"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Illustrated London News, 1849.04.28, p.274"]
+[PlyCount "32"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Bg5 Bb4+ 6. Nc3 O-O 7. Qb3 Nc6 8. Nf3 Bg4 9. cxd5 Qe7+ 10. Be2 Qxe2+ 11. Kxe2 Nxd4+ 12. Kf1 Nxb3 13. axb3 Bxc3 14. bxc3 Bxf3 15. gxf3 Nxd5 16. c4 Nf4 0-1

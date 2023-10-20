@@ -1,0 +1,15 @@
+[Event "Kuibyshev championship"]
+[Site "Kuibyshev (URS)"]
+[Date "1937.06.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Argunov"]
+[Black "Braun"]
+[ECO "A03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "38"]
+
+1.f4 d5 2.Nf3 g6 3.g3 Bg7 4.Bg2 c5 5.O-O Nc6 6.Nc3 e6 7.e4 dxe4 8.Nxe4 Nge7 9.c3 b6 10.Ne5 Bb7 11.Nxf7 Kxf7 12.Ng5+ Kf6 13.Qe1 Bc8 14.Qe5+ Nxe5 15.fxe5+ Kxg5 16.d4+ Kg4 17.Rf4+ Kg5 18.Rh4+ Kf5 19.g4# 1-0

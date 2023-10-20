@@ -1,0 +1,15 @@
+[Event "Ural Region championship-sf 1"]
+[Site "Sverdlovsk (URS)"]
+[Date "1926.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yustus"]
+[Black "Shadrin"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "44"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O d6 7.Qb3 Qe7 8.d4 exd4 9.cxd4 Nf6 10.e5 d5 11.exf6 dxc4 12.Qxc4 Qxf6 13.Bg5 Be6 14.Qb5 Qg6 15.Qxb7 Kd7 16.Rd1 Qc2 17.Rc1 Rab8 18.Qxc6+ Qxc6 19.Ne5+ Kd6 20.Nxc6 Rb5 21.Bf4+ Kd5 22.Na3 1-0

@@ -1,0 +1,15 @@
+[Event "Novosibirsk championship"]
+[Site "Novosibirsk (URS)"]
+[Date "1924.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Veman"]
+[Black "Pyotr Komarov"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "44"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Bg4 8.c4 c6 9.Re1 O-O 10.Bxe4 dxe4 11.Rxe4 f5 12.Re1 Bf6 13.d5 Nd7 14.Qb3 Nc5 15.Qe3 Qb6 16.Nd4 f4 17.Qd2 cxd5 18.cxd5 Nd3 19.Qxd3 Bxd4 20.Qd2 f3 21.g3 Rae8 22.Nc3 Re2 0-1

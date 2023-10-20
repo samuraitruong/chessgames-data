@@ -1,0 +1,15 @@
+[Event "Novgorod championship"]
+[Site "Novgorod (URS)"]
+[Date "1926.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "D Rodionov"]
+[Black "Alexander Alexandrovich Smirnov"]
+[ECO "D15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "44"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nc3 dxc4 5.e3 b5 6.a4 b4 7.Na2 e6 8.Bxc4 Nbd7 9.Bd2 a5 10.Qb3 Bb7 11.Be2 c5 12.Nc1 Rc8 13.dxc5 Nxc5 14.Qd1 Be4 15.O-O Bd6 16.Ng5 h5 17.Nxe4 Bxh2+ 18.Kxh2 Ng4+ 19.Kg1 Qh4 20.Nd6+ Kf8 21.Bxg4 hxg4 22.f4 g3 0-1
