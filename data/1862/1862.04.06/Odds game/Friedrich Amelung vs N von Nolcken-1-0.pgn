@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "Dorpat (Tartu) RUE"]
+[Date "1862.04.06"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Friedrich Amelung"]
+[Black "N von Nolcken"]
+[ECO "C37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Baltische Schachblatter No.2 p.109"]
+[PlyCount "57"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 d5 7. exd5 Bd6 8. d4 Ne7 9. Rf2 Bf5 10. Bxf4 Bxf4 11. Qxf4 Bg6 12. Re1 Qd6 13. Qg5 Kd7 14. Rf6 Qb4 15. c3 Qxc4 16. Rxe7+ Kc8 17. Rfxf7 Bxf7 18. Qf5+ Nd7 19. Qxd7+ Kb8 20. Rxf7 Rc8 21. d6 a6 22. d5 Qb5 23. dxc7+ Ka7 24. Qxb5 axb5 25. d6 Kb6 26. Re7 Kc6 27. d7 Rxc7 28. Re8 Rxd7 29. Rxa8 1-0

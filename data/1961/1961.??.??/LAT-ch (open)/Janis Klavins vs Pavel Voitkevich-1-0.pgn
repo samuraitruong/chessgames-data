@@ -1,0 +1,15 @@
+[Event "LAT-ch (open)"]
+[Site "Riga SSR"]
+[Date "1961.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Janis Klavins"]
+[Black "Pavel Voitkevich"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "29"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Nc3 exd4 5.Qxd4 Be7 6.Bg5 O-O 7.O-O-O a6 8.e5 dxe5 9.Qh4 Nbd7 10.Bd3 h6 11.Bxh6 gxh6 12.Qxh6 Re8 13.Ng5 Nf8 14.Bc4 Nd5 15.h4 1-0

@@ -1,0 +1,15 @@
+[Event "Online 10-minute game"]
+[Site "chess.com"]
+[Date "2021.01.23"]
+[EventDate "2021.01.23"]
+[Round "?"]
+[Result "1-0"]
+[White "Tran Nguyen Duy Tung"]
+[Black "NN"]
+[ECO "C50"]
+[WhiteElo "1766"]
+[BlackElo "1765"]
+[Source "https://www.chess.com/live/game/6321101649"]
+[PlyCount "31"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nd4 4.Bxf7+ Kxf7 5.Nxe5+ Ke6 6.Qh5 Nxc2+ 7.Kf1 Nxa1 8.Qf5+ Ke7 9.Qf7+ Kd6 10.Nc4+ Kc5 11.Qd5+ Kb4 12.a3+ Kb3 13.Qb5+ Kc2 14.Nc3 c6 15.Ne3+ Kxc1 16.Ke2# 1-0

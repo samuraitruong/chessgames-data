@@ -1,0 +1,14 @@
+[Event "Hamburg"]
+[Site "Hamburg GER"]
+[Date "1894.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Frensdorff"]
+[Black "Martin Bier"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 Bc5 6.Nxe5 Nxe5 7.d4 Bd6 8.f4 Nc6 9.e5 Bb4 10.d5 Ne4 11.Qf3 Nc5 12.dxc6 dxc6 13.O-O Bxc3 14.Bxc6+ bxc6 15.Qxc6+ Qd7 16.Qxa8 Bd4+ 17.Kh1 O-O 18.Qf3 Bb7 19.Qe2 Ne4 20.Be3 Ng3+ 21.hxg3 Qh3+ 22.Kg1 Bxe3+ 23.Rf2 Qxg2# 0-1

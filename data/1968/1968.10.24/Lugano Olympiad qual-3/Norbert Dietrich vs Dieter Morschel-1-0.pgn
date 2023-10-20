@@ -1,0 +1,15 @@
+[Event "Lugano Olympiad qual-3"]
+[Site "Lugano SUI"]
+[Date "1968.10.24"]
+[EventDate "1968.10.17"]
+[Round "7"]
+[Result "1-0"]
+[White "Norbert Dietrich"]
+[Black "Dieter Morschel"]
+[ECO "C64"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "41"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Bc5 5.c3 O-O 6.d4 Bb6 7.Re1 d6 8.h3 h6 9.Na3 exd4 10.cxd4 d5 11.exd5 Qxd5 12.Be3 Ba5 13.Rf1 Bf5 14.Rc1 Bb4 15.Bc4 Qe4 16.Nb5 a6 17.Nc3 Bxc3 18.bxc3 Na5 19.Be2 c5 20.Ne5 Rad8 21.Bd3 1-0

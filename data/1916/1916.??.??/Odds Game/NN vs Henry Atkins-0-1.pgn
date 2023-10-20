@@ -1,0 +1,17 @@
+[Event "Odds Game"]
+[Site "Yorkshire ENG"]
+[Date "1916.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Henry Atkins"]
+[ECO "C16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "BCM, Jan 1917, p48"]
+[PlyCount "48"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Bg5 c5 6. a3 Bxc3+ 7. bxc3 Nbc6 8. Bd3 Qa5 9. Bd2 Bd7 10. c4 Qc7 11. cxd5 exd5 12. c3 cxd4 13. cxd4 Nxd4 14. f4 O-O 15. Rc1 Qb6 16. Rb1 Qc7 17. Bb4 Rxf4 18. Bd6 Qc3+ 19. Qd2 Nc2+ 20. Kd1 Ne3+ 21. Qxe3 Re4 22. Ke2 Rxe3+ 23. Kxe3 Nf5+ 24. Ke2 Nxd6 0-1
