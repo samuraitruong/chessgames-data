@@ -1,0 +1,15 @@
+[Event "Leningrad It"]
+[Site "Leningrad URS"]
+[Date "1929.08.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Friedrich Vogt"]
+[Black "Nikolay Dmitrievich Grigoriev"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "42"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Nf6 5.Bg5 Be7 6.Nf3 Bg4 7.Nbd2 Nbd7 8.c3 Ne4 9.Bxe7 Qxe7 10.Qe2 f5 11.h3 Bh5 12.O-O-O O-O 13.Rde1 Rae8 14.Nf1 Qd6 15.Ne3 Qf4 16.Kb1 c6 17.Bc2 Ng5 18.Bd1 Nb6 19.h4 Nxf3 20.gxf3 Nc4 21.b3 Bxf3 0-1

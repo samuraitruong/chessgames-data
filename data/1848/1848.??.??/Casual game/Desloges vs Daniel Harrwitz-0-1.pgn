@@ -1,0 +1,15 @@
+[Event "Casual game"]
+[Site "Paris FRA"]
+[Date "1848.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Desloges"]
+[Black "Daniel Harrwitz"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.ix (1848), p.203"]
+[PlyCount "34"]
+
+1.e4 d5 2.exd5 Nf6 3.c4 c6 4.Nc3 cxd5 5.cxd5 Nxd5 6.Bb5+ Nc6 7.Bxc6+ bxc6 8.Nf3 e6 9.O-O Bd6 10.Nd4 Bxh2+ 11.Kh1 Bc7 12.g3 Bb7 13.Qa4 O-O 14.Ne4 Nb6 15.Nxc6 Nxa4 16.Nxd8 Bxe4+ 17.f3 Bd3 0-1

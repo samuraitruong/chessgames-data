@@ -1,0 +1,14 @@
+[Event "Paris-ch op-B"]
+[Site "Paris FRA"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Desol"]
+[Black "Patrick Ferriere"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 f6 6.Bd3 Qc7 7.Bf4 Bd7 8.Qd2 fxe5 9.Bxe5 Nxe5 10.Nxe5 Nf6 11.Qg5 cxd4 12.cxd4 Bb4+ 13.Ke2 O-O 14.Rc1 Bc6 15.a3 Be7 16.Qh4 Ne4 17.Qh3 Rxf2+ 18.Ke3 Bg5# 0-1

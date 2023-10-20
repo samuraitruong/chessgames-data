@@ -1,0 +1,15 @@
+[Event "Blindfold simul match, 6b"]
+[Site "London ENG"]
+[Date "1895.06.15"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Arthur John Curnock"]
+[Black "Thomas Francis Lawrence"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "https://www.chesshistory.com/winter/winter187.html"]
+[PlyCount "30"]
+
+1.e4 e5 2.f4 Bc5 3.Nc3 d6 4.Nf3 Nf6 5.d3 Ng4 6.d4 exd4 7.h3 dxc3 8.hxg4 Bxg4 9.Bc4 c6 10.Qd3 Bxf3 11.Qxf3 Qb6 12.b3 Nd7 13.Ke2 O-O-O 14.Be3 d5 15.exd5 Rhe8 0-1

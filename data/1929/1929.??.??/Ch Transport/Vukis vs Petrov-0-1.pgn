@@ -1,0 +1,15 @@
+[Event "Ch Transport"]
+[Site "URS"]
+[Date "1929.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vukis"]
+[Black "Petrov"]
+[ECO "E10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "42"]
+
+1.d4 e6 2.c4 Nf6 3.Nf3 d5 4.e3 Be7 5.Nc3 O-O 6.Bd3 b6 7.O-O Bb7 8.Ne5 Nbd7 9.Qc2 h6 10.b3 c5 11.f4 Ne8 12.Kh1 Nd6 13.Nxd7 Qxd7 14.dxc5 bxc5 15.cxd5 exd5 16.e4 dxe4 17.Nxe4 Nf5 18.Nxc5 Ng3+ 19.hxg3 Qh3+ 20.Kg1 Bxc5+ 21.Rf2 Qxg2# 0-1

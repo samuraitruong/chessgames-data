@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1845.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lionel Adalbert Bagration Felix Kieseritzky"]
+[Black "Howard Staunton"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Illustrated London News, 1845.02.22, p.125"]
+[PlyCount "64"]
+[SetUp "1"]
+[FEN "1nbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5 5.Ng5 Nh6 6.Nxf7 Nxf7 7.Bxf7+ Kxf7 8.Qh5+ g6 9.Qxc5 d6 10.Qg5 Qd7 11.c3 d3 12.Be3 Re8 13.f3 Re5 14.Qh6 Kg8 15.Bd4 Rh5 16.Qe3 Ne7 17.Qxd3 b5 18.Nd2 Bb7 19.a4 c5 20.Be3 c4 21.Nxc4 bxc4 22.Qxc4+ Kf8 23.O-O d5 24.Qb3 Bc8 25.exd5 Qd6 26.h3 Nxd5 27.Rad1 Bxh3 28.c4 Bxg2 29.Bc5 Qxc5+ 30.Rf2 Rh1+ 31.Kxg2 Rxd1 32.cxd5 Rxd5 0-1

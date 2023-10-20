@@ -1,0 +1,14 @@
+[Event "3rd World Computer Chess Championship"]
+[Site "Linz, Austria"]
+[Date "1980.09.25"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Chaos (Computer)"]
+[Black "Dark Horse (Computer)"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nf6 6. Bg5 Be6 7. Bxf6 gxf6 8. e4 dxe4 9. Nxe4 cxd4 10. Bb5+ Bd7 11. Bxd7+ Nxd7 12. Qxd4 Qb6 13. Qxb6 axb6 14. O-O Rg8 15. Rfd1 Rg6 16. Nd6+ Bxd6 17. Rxd6 f5 18. Re1+ Kd8 19. Rd5 Ra5 20. Red1 Rxd5 21. Rxd5 Rc6 22. h3 Rc5 23. Rxc5 bxc5 24. Ng5 Ne5 25. Nxh7 Nd3 26. Ng5 f6 27. Nf7+ Ke7 28. Nh6 Nxb2 29. Nxf5+ Ke6 30. Ne3 Nd3 31. a4 Kd7 32. g3 Nb2 33. a5 Nd3 34. h4 Ne5 35. Kf1 Nc6 36. Nc4 Ke6 37. h5 Kd5 38. h6 Ne5 39. Nxe5 b6 40. axb6 Kxe5 41. b7 Ke6 1-0

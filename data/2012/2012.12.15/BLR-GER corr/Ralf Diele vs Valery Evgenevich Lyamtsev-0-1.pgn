@@ -1,0 +1,14 @@
+[Event "BLR-GER corr"]
+[Site "ICCF"]
+[Date "2012.12.15"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ralf Diele"]
+[Black "Valery Evgenevich Lyamtsev"]
+[ECO "C11"]
+[WhiteElo "2232"]
+[BlackElo "2217"]
+[PlyCount "44"]
+
+1.d4 e6 2.e4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 cxd4 7.Nxd4 Nc6 8.Be3 Bc5 9.Qd2 a6 10.O-O-O Nxd4 11.Bxd4 O-O 12.Qe3 Qc7 13.Bd3 Bxd4 14.Qxd4 b5 15.b4 Nb6 16.g4 Bd7 17.f5 Rfc8 18.Ne2 f6 19.exf6 e5 20.Qa1 e4 21.Bxe4 dxe4 22.fxg7 Qxc2# 0-1

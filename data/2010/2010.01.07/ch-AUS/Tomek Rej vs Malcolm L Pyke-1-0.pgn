@@ -1,0 +1,15 @@
+[Event "ch-AUS"]
+[Site "Sydney AUS"]
+[Date "2010.01.07"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Tomek Rej"]
+[Black "Malcolm L Pyke"]
+[ECO "E47"]
+[WhiteElo "2364"]
+[BlackElo "2164"]
+[Source "Chess Assistant 18 and ChessTempo.com"]
+[PlyCount "61"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 Nc6 7.O-O b6 8.d5 Na5 9.Ne4 exd5 10.Nxf6+ Qxf6 11.a3 dxc4 12.Be4 Rb8 13.axb4 cxb4 14.Qc2 h6 15.Bd2 Qe7 16.Bd5 Ba6 17.Rfd1 Rfc8 18.Qf5 Bb7 19.Bxb4 Qxb4 20.Bxf7+ Kh8 21.Ng5 Be4 22.Nxe4 Rc6 23.Qe5 Rbc8 24.Rxd7 c3 25.bxc3 Qb2 26.Rad1 Qe2 27.Rd8+ Rxd8 28.Rxd8+ Kh7 29.Rh8+ Kxh8 30.Qe8+ Kh7 31.Qg8# 1-0

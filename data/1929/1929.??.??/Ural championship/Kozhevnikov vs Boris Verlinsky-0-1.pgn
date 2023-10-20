@@ -1,0 +1,15 @@
+[Event "Ural championship"]
+[Site "Sverdlovsk URS"]
+[Date "1929.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Kozhevnikov"]
+[Black "Boris Verlinsky"]
+[ECO "A16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "32"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.Qc2 Nc6 6.e3 Nb4 7.Qb1 d5 8.a3 Bf5 9.e4 dxe4 10.axb4 e3 11.Be4 exf2+ 12.Kxf2 Qd4+ 13.Kf3 Nxe4 14.Nxe4 Qxc4 15.d3 Bxe4+ 16.dxe4 Qf1+ 0-1

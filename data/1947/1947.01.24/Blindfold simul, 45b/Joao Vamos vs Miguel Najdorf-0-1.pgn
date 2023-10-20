@@ -1,0 +1,14 @@
+[Event "Blindfold simul, 45b"]
+[Site "Sao Paulo BRA"]
+[Date "1947.01.24"]
+[EventDate "1947.01.24"]
+[Round "?"]
+[Result "0-1"]
+[White "Joao Vamos"]
+[Black "Miguel Najdorf"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 e5 4. Nf3 exd4 5. Nxd4 a6 6. Qa4+ Nd7 7. Qxc4 Ngf6 8. Bf4 c5 9. Nf5 Nb6 10. Qb3 Bxf5 11. Rd1 Bd7 12. e4 c4 13. Bxc4 Nxc4 14. Qxc4 Qa5 15. Qd3 Bb4 16. e5 Bb5 17. Qf3 Nd7 0-1

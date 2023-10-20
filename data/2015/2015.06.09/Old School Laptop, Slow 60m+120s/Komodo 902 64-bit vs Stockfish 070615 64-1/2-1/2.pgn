@@ -1,0 +1,14 @@
+[Event "Old School Laptop, Slow 60m+120s"]
+[Site "Expert-PC Laptop Sortland"]
+[Date "2015.06.09"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Komodo 902 64-bit"]
+[Black "Stockfish 070615 64"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "126"]
+
+1. e4 g6 2. d4 d6 3. Nc3 c6 4. Be3 Bg7 5. Qd2 b5 6. Bd3 Nd7 7. Nf3 Qc7 8. h3 Ngf6 9. Ne2 O-O 10. a4 bxa4 11. O-O c5 12. c3 Nb6 13. Rfd1 Bb7 14. d5 e6 15. c4 Ba6 16. dxe6 fxe6 17. Qc1 Nh5 18. Ra3 Rxf3 19. gxf3 Rf8 20. f4 Qf7 21. Kh2 g5 22. fxg5 Qf3 23. Rg1 Be5+ 24. Ng3 Nf4 25. Bf1 Ne2 26. Bxe2 Qxe2 27. Rg2 Qxb2 28. f4 Qxc1 29. Bxc1 Bd4 30. Bb2 Bxc4 31. Bxd4 cxd4 32. f5 e5 33. Nh5 Bb3 34. Ra1 Nd7 35. Rag1 a3 36. Rg3 Rb8 37. Ra1 a5 38. Rxa3 a4 39. Ra1 Nc5 40. Nf6+ Kg7 41. Rg4 d3 42. Rh4 Rh8 43. Rh6 d2 44. Nh5+ Kf7 45. Rxd6 d1=R 46. Rdxd1 Bxd1 47. Rxd1 Rb8 48. Rd5 Rb2+ 49. Kh1 Rc2 50. Rd6 a3 51. g6+ hxg6 52. fxg6+ Ke7 53. Rd1 Ne6 54. g7 Nxg7 55. Nxg7 a2 56. Nf5+ Ke6 57. Ne3 Rb2 58. Rg1 Rb4 59. Nc2 Rb2 60. Na1 Kd6 61. h4 Kc5 62. h5 Kd4 63. Rg6 Rb1+ 1/2-1/2

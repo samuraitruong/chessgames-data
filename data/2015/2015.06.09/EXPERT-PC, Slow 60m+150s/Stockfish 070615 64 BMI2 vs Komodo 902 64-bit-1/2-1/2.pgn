@@ -1,0 +1,14 @@
+[Event "EXPERT-PC, Slow 60m+150s"]
+[Site "Sortland"]
+[Date "2015.06.09"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Stockfish 070615 64 BMI2"]
+[Black "Komodo 902 64-bit"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "165"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Qb6 6. Be2 Nh6 7. Bxh6 gxh6 8. Qd2 Bg7 9. O-O Bd7 10. Na3 a5 11. Nc2 cxd4 12. cxd4 O-O 13. Rab1 Kh8 14. Rfc1 f6 15. exf6 Rxf6 16. b4 Rf7 17. bxa5 Qxa5 18. Qe3 Be8 19. h3 Rc7 20. Rb5 Qa7 21. Rc5 Qb6 22. Nce1 Bf8 23. Rb5 Qa7 24. Rb3 Re7 25. Nd3 Qxa2 26. Nc5 e5 27. dxe5 d4 28. Qd3 Nxe5 29. Qxd4 Bg7 30. Qd1 Bh5 31. Nd4 Nc6 32. Rc2 Qa7 33. Nde6 Bg6 34. Rc4 Qa1 35. Rc1 Nd4 36. Bf1 Qxc1 37. Qxc1 Nxb3 38. Qc4 Nxc5 39. Nxg7 Rxg7 40. Qxc5 Rd8 41. f4 Bd3 42. Qa5 Rgd7 43. Qc3+ Kg8 44. Qb3+ Kh8 45. Bxd3 Rxd3 46. Qxb7 Rg3 47. Qb2+ Rg7 48. Kf2 h5 49. g3 Rd3 50. Qb8+ Rg8 51. Qe5+ Rg7 52. Ke2 Rd8 53. Qf6 Rdd7 54. Qf8+ Rg8 55. Qf5 Rdg7 56. Qf6 Ra8 57. Kf2 Raa7 58. h4 Rad7 59. Ke2 Rde7+ 60. Kf1 Rd7 61. Qf8+ Rg8 62. Qf5 Rdg7 63. Qf6 Rc8 64. Qe6 Rd8 65. Ke2 Rf8 66. Qe5 Rfg8 67. Qa1 Rc8 68. Qd4 Rc1 69. Qd8+ Rg8 70. Qf6+ Rg7 71. Qe5 Rc2+ 72. Ke1 Rc8 73. Kf1 Ra8 74. Qc3 Rd8 75. Kf2 Ra8 76. Kf3 Re8 77. Kg2 Re2+ 78. Kh3 Re8 79. Kh2 Rd8 80. Qb3 Rc8 81. Qe6 Rb8 82. Qd5 Re8 83. Kg2 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Koltanowski blindfold sim"]
+[Site "Antwerp BEL"]
+[Date "1931.05.10"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Georges Koltanowski"]
+[Black "Climan"]
+[ECO "C16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.d4 d5 2.Nc3 e6 3.e4 Bb4 4.e5 Ne7 5.Qg4 Ng6 6.h4 h5 7.Qg3 Be7 8.Nf3 c5 9.dxc5 Bxc5 10.Bd3 Kd7 11.Bxg6 fxg6 12.Qxg6 Qf8 13.Bg5 Nc6 14.O-O Ne7 15.Qd3 a6 16.Ne4 Ng6 17.Nxc5+ Qxc5 18.Qxg6 1-0

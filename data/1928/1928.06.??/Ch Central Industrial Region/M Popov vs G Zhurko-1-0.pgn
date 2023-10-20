@@ -1,0 +1,15 @@
+[Event "Ch Central Industrial Region"]
+[Site "Novgorod URS"]
+[Date "1928.06.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "M Popov"]
+[Black "G Zhurko"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "31"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.e5 Bxc3+ 7.bxc3 Qc7 8.exf6 Qxc3+ 9.Qd2 Qxa1 10.fxg7 Rg8 11.Bc4 Nc6 12.Nxc6 dxc6 13.c3 Qb1 14.Bd3 Qb6 15.Qh6 Qc5 16.Qf6 1-0

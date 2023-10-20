@@ -1,0 +1,15 @@
+[Event "Ch Leningrad (sf-3)"]
+[Site "Leningrad URS"]
+[Date "1938.11.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lev Isaevich Guldin"]
+[Black "Volk"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 a6 7.a4 b6 8.f4 Nbd7 9.Bf3 Bb7 10.O-O Qc7 11.Re1 Rc8 12.Be3 Be7 13.Bf2 g6 14.Qd2 O-O 15.e5 Ne8 16.Bxb7 Qxb7 17.Rad1 Qc7 18.f5 gxf5 19.Nxf5 Nxe5 20.Nxe7+ Qxe7 21.Bxb6 f5 0-1

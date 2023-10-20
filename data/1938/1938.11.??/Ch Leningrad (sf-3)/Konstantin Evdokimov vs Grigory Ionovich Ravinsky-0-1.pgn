@@ -1,0 +1,15 @@
+[Event "Ch Leningrad (sf-3)"]
+[Site "Leningrad URS"]
+[Date "1938.11.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Konstantin Evdokimov"]
+[Black "Grigory Ionovich Ravinsky"]
+[ECO "C29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "34"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.exd5 Nxd5 5.Qh5 Nxc3 6.Qxe5+ Be7 7.Qxc3 O-O 8.Bc4 Nc6 9.Ne2 Bf6 10.Qf3 Nd4 11.Nxd4 Bxd4 12.c3 Re8+ 13.Be2 Qh4+ 14.Kf1 Bg4 15.cxd4 Bxf3 16.gxf3 Qh3+ 17.Kf2 Rxe2+ 0-1
