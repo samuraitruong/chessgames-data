@@ -1,0 +1,14 @@
+[Event "Chess Programmers Tournament"]
+[Site "Wortel"]
+[Date "2008.06.28"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Crash Test Dummy (Computer)"]
+[Black "Brutus (Computer)"]
+[ECO "A31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 d5 5. cxd5 Nxd5 6. e4 Nc7 7. Bf4 Ne6 8. Bb5+ Nc6 9. Nxe6 Qxd1+ 10. Kxd1 Bxe6 11. Bxc6+ bxc6 12. Nd2 g6 13. Be5 f6 14. Bc3 a5 15. Kc2 Bh6 16. Nb3 a4 17. Nc5 Bf7 18. Rhd1 Bf4 19. Rd4 a3 20. b3 Bd6 21. Nb7 Bc7 22. Rad1 Bb6 23. R4d3 O-O 24. Bd4 Bxd4 25. Rxd4 c5 26. Rd8 c4 27. b4 c3 28. b5 Bxa2 29. b6 Be6 30. Rxf8+ Kxf8 31. Nc5 Kf7 32. b7 Rb8 33. Kxc3 f5 34. f3 a2 35. Kb2 fxe4 36. fxe4 Bc8 37. Rd8 Rxb7+ 38. Nxb7 Bxb7 39. Rd4 Kf6 40. Kxa2 e6 41. g3 h5 42. Rb4 Bc6 43. Kb3 Ke5 44. Kc4 Bxe4 45. Kc5 g5 46. Rb8 g4 47. Rb3 Bf5 48. Kc6 Kf6 49. Kd6 e5 50. Rc3 Bg6 51. Rc5 e4 52. Re5 Kg7 53. Kd5 Kf7 54. Kd4 Kg8 55. Ke3 Kg7 56. Kf4 Kh6 57. Re6 1-0

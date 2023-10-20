@@ -1,0 +1,14 @@
+[Event "IPCCC"]
+[Site "Paderborn"]
+[Date "2000.02.10"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Fritz (Computer)"]
+[Black "Amy (Computer)"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. h4 d5 4. Nd2 Nxd2 5. Bxd2 Nc6 6. e3 e6 7. Qe2 Bd6 8. O-O-O O-O 9. Nf3 Qf6 10. Kb1 Bd7 11. Bc3 Qf5 12. Qd2 h6 13. Bd3 Qg4 14. Ne5 Nxe5 15. dxe5 Be7 16. e4 Bc5 17. exd5 exd5 18. Be2 Qf5 19. Qxd5 Qxf2 20. e6 Bc6 21. Qh5 f6 22. Rhf1 Qe3 23. Bd3 Be8 24. Qf5 g6 25. Qd5 Be7 26. Qxb7 Ba4 27. Qxc7 Qc5 28. Qg3 g5 29. Rf5 Qxf5 30. Bxf5 Rad8 31. Rh1 Rd5 32. Qf3 Re5 33. Qh5 Be8 34. Qxh6 Rxf5 35. hxg5 Rf1+ 36. Rxf1 a6 37. Rh1 Bh5 38. Qxh5 fxg5 39. Qg6# 1-0

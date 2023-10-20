@@ -1,0 +1,14 @@
+[Event "Chess Programmers Tournament"]
+[Site "Wortel"]
+[Date "2008.06.29"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Shredder (Computer)"]
+[Black "Ayito (Computer)"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Nf3 b5 6. b3 Bf5 7. Ne5 e6 8. g4 Bg6 9. h4 Ne4 10. Nxe4 Bxe4 11. f3 f6 12. Nxc6 Nxc6 13. fxe4 dxe4 14. Kf2 bxc4 15. bxc4 Rb8 16. Qc2 f5 17. Rb1 Rxb1 18. Qxb1 Be7 19. gxf5 exf5 20. Qb7 Bxh4+ 21. Ke2 Nxd4+ 22. exd4 Qxd4 23. Rxh4 Qd3+ 24. Kf2 Qf3+ 25. Ke1 Qg3+ 26. Kd2 Qxh4 27. Qxg7 Qf4+ 28. Kc2 Qf2+ 29. Kc3 Qe1+ 30. Kb3 Qxc1 31. Qxh8+ Kd7 32. Qxh7+ Ke6 33. Qg6+ Ke5 34. Qg3+ Ke6 35. Qf2 a5 36. Ka4 e3 37. Qg2 Kf6 38. Kxa5 Qc3+ 39. Kb5 Qd4 40. c5 Qe5 41. a4 Qc3 42. Bc4 Qe5 43. Qg8 Qb2+ 44. Ka6 Qa3 45. Qd8+ Kg6 46. Bb5 Qxc5 47. Qb6+ Qxb6+ 48. Kxb6 f4 49. Be2 Kf5 50. a5 Ke4 51. a6 f3 52. Bxf3+ Kxf3 53. a7 e2 54. a8=Q+ Ke3 55. Qh1 Kf2 56. Qh2+ Kf3 57. Qg1 1-0

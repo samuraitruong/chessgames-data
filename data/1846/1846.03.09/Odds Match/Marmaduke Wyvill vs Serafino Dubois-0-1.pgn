@@ -1,0 +1,16 @@
+[Event "Odds Match"]
+[Site "Rome ITA"]
+[Date "1846.03.09"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Marmaduke Wyvill"]
+[Black "Serafino Dubois"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.Bd3 g6 5.c3 Nc6 6.Nf3 Bg7 7.b4 cxb4 8.cxb4 Nxb4 9.Nc3 Nxd3+ 10.Qxd3 Bd7 11.Rb1 Bc6 12.Nb5 Qa5+ 13.Bd2 Bxb5 14.Rxb5 Qa6 15.O-O Ne7 16.Qb3 b6 17.Ng5 Qc8 18.Qf3 Rf8 19.Qg4 Rf5 20.Rc1 Qd7 21.Rb3 h5 22.Qe2 Nc6 23.Be3 Nxd4 24.Bxd4 Rxg5 25.Rbc3 Qa4 26.Qd3 Rg4 27.f4 h4 28.Rc7 Bh6 29.Qc3 Rd8 30.Rh7 Rxf4 31.Qc7 Qxd4+ 32.Kh1 Qc5 33.Qxc5 bxc5 34.Rxh6 Kf7 0-1

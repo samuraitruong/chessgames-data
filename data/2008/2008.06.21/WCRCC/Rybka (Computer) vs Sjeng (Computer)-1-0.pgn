@@ -1,0 +1,14 @@
+[Event "WCRCC"]
+[Site "Internet Chess Club"]
+[Date "2008.06.21"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Rybka (Computer)"]
+[Black "Sjeng (Computer)"]
+[ECO "B00"]
+[WhiteElo "2821"]
+[BlackElo "2720"]
+[PlyCount "122"]
+
+1. e4 d6 2. Nc3 g6 3. Nf3 Nd7 4. d4 Bg7 5. Be2 c5 6. dxc5 Bxc3+ 7. bxc3 Nxc5 8. e5 a6 9. O-O dxe5 10. Qxd8+ Kxd8 11. Nxe5 Be6 12. Be3 Rc8 13. Nd3 Ne4 14. Bf3 Ngf6 15. Rfe1 Nd6 16. Bb6+ Ke8 17. Bd4 Rf8 18. Nc5 Nd5 19. Re5 Nc7 20. a4 Rb8 21. Ree1 Kd8 22. Rab1 Kc8 23. a5 Ba2 24. Ra1 Bd5 25. Rxe7 Bxf3 26. Nd7 Kd8 27. Bf6 Nd5 28. Rxf7+ Nxf6 29. Rxf8+ Kxd7 30. Rxb8 Be4 31. Rc1 h5 32. f3 Bf5 33. h3 Kc7 34. Rf8 Nd5 35. g4 Be6 36. Re1 Kd7 37. Rh8 Nf6 38. g5 Nd5 39. Rh7+ Ne7 40. Rd1 Bg8 41. Rg7 Bc4 42. f4 Be6 43. Kg2 Bg8 44. Kf2 Be6 45. f5 gxf5 46. Ke3 Ba2 47. Kf4 Ke6 48. Re1+ Ne4 49. Rxe7+ Kxe7 50. Kxf5 Be6+ 51. Kxe4 Bxh3 52. Rb1 Bc8 53. Rf1 Bh3 54. Rf4 Bd7 55. g6 Ba4 56. g7 Bxc2+ 57. Ke5 Bh7 58. Rf8 h4 59. Rh8 Bg8 60. Rxg8 Kf7 61. Rh8 Kxg7 1-0

@@ -1,0 +1,14 @@
+[Event "CCT 10"]
+[Site "Internet Chess Club"]
+[Date "2008.01.27"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "HIARCS (Computer)"]
+[Black "Rybka (Computer)"]
+[ECO "D47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "137"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 Bb7 9. O-O a6 10. e4 c5 11. d5 Qc7 12. dxe6 fxe6 13. Bc2 c4 14. Nd4 Nc5 15. Be3 O-O-O 16. Qe2 e5 17. Nf3 Bd6 18. Rfd1 Rhe8 19. b3 b4 20. Nd5 Bxd5 21. exd5 e4 22. Ng5 Bxh2+ 23. Kf1 c3 24. Bxc5 Qxc5 25. Qxa6+ Kc7 26. Ne6+ Rxe6 27. dxe6 Bg3 28. Qe2 Rf8 29. e7 Rf7 30. Kg1 Rxe7 31. a3 Nd5 32. Rxd5 Qxd5 33. fxg3 bxa3 34. Qe3 Qd6 35. Qxc3+ Kb7 36. Qe3 Qb4 37. Kh2 Re6 38. Rd1 Rh6+ 39. Kg1 Qb6 40. Bxe4+ Kb8 41. Qxb6+ Rxb6 42. Bxh7 Rxb3 43. Rb1 Rxb1+ 44. Bxb1 Kc7 45. Kf2 Kd6 46. Kf3 Ke5 47. Ke3 Ke6 48. Kf4 g6 49. Ba2+ Kf6 50. g4 g5+ 51. Ke4 Kg6 52. Ke5 Kg7 53. Ke6 Kg6 54. Ke7 Kg7 55. Bf7 Kh7 56. Kf6 Kh8 57. Kxg5 Kg7 58. Ba2 Kf8 59. Kf6 Ke8 60. g5 Kd7 61. g6 Kc7 62. g7 Kb7 63. g8=Q Kc6 64. Qd5+ Kb6 65. Ke7 Ka6 66. Bc4+ Kb6 67. Qb5+ Kc7 68. Bd5 Kc8 69. Qb7# 1-0

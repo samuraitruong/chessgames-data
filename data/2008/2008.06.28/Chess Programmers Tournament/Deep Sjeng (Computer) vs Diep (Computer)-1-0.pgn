@@ -1,0 +1,14 @@
+[Event "Chess Programmers Tournament"]
+[Site "Wortel"]
+[Date "2008.06.28"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Deep Sjeng (Computer)"]
+[Black "Diep (Computer)"]
+[ECO "C43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O Bd6 8. Nc3 Qh4 9. g3 Nxc3 10. Re1+ Be6 11. bxc3 Qh3 12. c4 dxc4 13. Bxc4 O-O 14. Bf1 Qg4 15. Qxg4 Bxg4 16. Rb1 b6 17. Bb5 Bf3 18. Re3 Bd5 19. Ba3 Bxa2 20. Ra1 Be6 21. Bxd6 cxd6 22. Bc6 Rac8 23. d5 a5 24. c4 Bf5 25. f3 Rb8 26. Kf2 Bc8 27. Re7 f6 28. Rae1 Bf5 29. g4 Bd3 30. Rc1 Bg6 31. f4 Rbc8 32. Bd7 Rb8 33. Rce1 Bd3 34. Be6+ Kh8 35. Rc1 Bg6 36. f5 Be8 37. Ra1 a4 38. Rc1 h6 39. Ke3 Ra8 40. Rb7 Ra6 41. Rb8 Kh7 42. Rd8 a3 43. Rxd6 a2 44. Ra1 h5 45. Kf2 hxg4 46. c5 Bb5 47. Rxb6 Rxb6 48. cxb6 Rb8 49. Rxa2 Rxb6 50. Rb2 Kh6 51. Ke3 Rb7 52. d6 Kg5 53. Rb4 g6 54. fxg6 Kxg6 55. Kf4 g3 56. hxg3 Rb8 57. Bd5 Rb6 58. d7 Rd6 59. Be4+ Kf7 60. Rxb5 Rxd7 61. Rb7 1-0

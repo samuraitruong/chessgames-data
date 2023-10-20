@@ -1,0 +1,14 @@
+[Event "SSDF-match"]
+[Site "Sundsvall"]
+[Date "2008.08.28"]
+[EventDate "2008.08.28"]
+[Round "1"]
+[Result "1-0"]
+[White "Rybka (Computer)"]
+[Black "Deep Junior (Computer)"]
+[ECO "B97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2 Qxb2 9. Rb1 Qa3 10. e5 dxe5 11. fxe5 Nfd7 12. Ne4 h6 13. Bh4 Qxa2 14. Rd1 Qb2 15. Qe3 Qb6 16. Be2 Bc5 17. c3 O-O 18. Nf6+ Kh8 19. O-O Qc7 20. Ng4 f6 21. exf6 Nxf6 22. Rxf6 Rxf6 23. Bxf6 gxf6 24. Qxh6+ Qh7 25. Qxf6+ Qg7 26. Qh4+ Qh7 27. Nh6 Be7 28. Nf7+ Kg8 29. Qxe7 1-0
