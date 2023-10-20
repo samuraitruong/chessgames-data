@@ -1,0 +1,14 @@
+[Event "Warsaw Olympiad"]
+[Site "Warsaw POL"]
+[Date "1935.08.25"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Savielly Tartakower"]
+[Black "Lajos Steiner"]
+[ECO "E18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 b6 4.Bg2 Bb7 5.O-O Be7 6.c4 O-O 7.Nc3 d5 8.Ne5 Qc8 9.cxd5 exd5 10.Qb3 c6 11.Bd2 Na6 12.Rac1 Nc7 13.e4 Rd8 14.Rfe1 c5 15.dxc5 bxc5 16.exd5 Ncxd5 17.Bg5 Rb8 18.Bxf6 Bxf6 19.Nxf7 c4 20.Nxd8 1-0

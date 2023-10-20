@@ -1,0 +1,14 @@
+[Event "26th Dutch CC"]
+[Site "Leiden NED"]
+[Date "2006.11.04"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "IsiChess (Computer)"]
+[Black "Ant (Computer)"]
+[ECO "C47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "130"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 O-O 8.O-O d5 9.exd5 cxd5 10.Bg5 c6 11.Qf3 Bxc3 12.bxc3 Qd6 13.Bxf6 Qxf6 14.Qxf6 gxf6 15.Rfe1 Be6 16.Re3 Rab8 17.Kf1 c5 18.Ke1 Rb2 19.Kd2 c4 20.Be2 Rfb8 21.g4 h6 22.f4 f5 23.Re5 fxg4 24.f5 Bd7 25.Rxd5 Ba4 26.Rc1 Kg7 27.Bxc4 h5 28.Rd4 Bc6 29.Bb3 a5 30.Re1 a4 31.Kc1 R2xb3 32.cxb3 axb3 33.a3 Bf3 34.Kb2 Kf6 35.Rd7 Rb7 36.Rxb7 Bxb7 37.Rg1 Bd5 38.Rd1 Bf3 39.Rd3 h4 40.Kxb3 Be4 41.Re3 Kxf5 42.Kc4 Kf4 43.Re1 f5 44.a4 h3 45.a5 g3 46.hxg3+ Kxg3 47.Re3+ Kg4 48.Rxe4+ fxe4 49.a6 h2 50.a7 Kg3 51.a8=Q h1=Q 52.Qb8+ Kf2 53.Qb2+ Kf3 54.Qa2 Qd1 55.Qa8 Qe2+ 56.Kc5 Kf2 57.Qh8 Qf3 58.c4 e3 59.Qd4 Kg3 60.Kb4 e2 61.Qg1+ Kh3 62.Qc1 Kg2 63.Kb5 Kf2 64.Qc2 Kf1 65.Qd2 e1=Q 0-1

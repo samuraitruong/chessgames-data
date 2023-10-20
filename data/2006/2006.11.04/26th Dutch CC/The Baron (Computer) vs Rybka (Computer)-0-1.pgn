@@ -1,0 +1,14 @@
+[Event "26th Dutch CC"]
+[Site "Leiden"]
+[Date "2006.11.04"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "The Baron (Computer)"]
+[Black "Rybka (Computer)"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "137"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 c5 4.c3 b6 5.e3 Bb7 6.Bd3 Be7 7.h3 O-O 8.O-O cxd4 9.exd4 d6 10.Re1 Nc6 11.Nbd2 Rc8 12.Ne4 Na5 13.Nxf6+ Bxf6 14.Qe2 Bd5 15.Nd2 Bg5 16.Qh5 h6 17.Bxg5 Qxg5 18.Qxg5 hxg5 19.Ne4 Bxe4 20.Rxe4 Nc4 21.Re2 g6 22.Kh2 Kg7 23.Rc1 Rh8 24.g4 b5 25.Kg3 a5 26.Kg2 d5 27.Rb1 a4 28.a3 Rb8 29.Kh2 Rb6 30.Rg1 Rh6 31.Rg3 Rb8 32.Rf3 Rhh8 33.Kg2 Ra8 34.Rg3 Rac8 35.Kh2 Rh4 36.Rf3 Rch8 37.Kg2 Ra8 38.Rg3 Rb8 39.Kh2 Kf6 40.Kg2 Ke7 41.Kf1 Kd6 42.Kg2 Rh7 43.Rf3 Ke7 44.Kh2 Kd7 45.Rf6 Kd6 46.Kg1 Ke7 47.Rf3 Kd7 48.Kg2 Kd6 49.Rf6 Ke7 50.Rf3 Kd7 51.Rg3 Kc6 52.Rf3 Rd8 53.Re1 Re8 54.Re2 Reh8 55.Bxg6 fxg6 56.Rxe6+ Kc7 57.Rxg6 Nxb2 58.Rxg5 Rd7 59.Rff5 Rhd8 60.Rg6 Nc4 61.Rff6 Nxa3 62.Rc6+ Kb8 63.f4 Nc4 64.Rc5 a3 65.Re6 a2 66.Re1 Ne3+ 67.Kf2 Nc2 68.Rxb5+ Rb7 69.Ra5 0-1

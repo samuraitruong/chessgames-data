@@ -1,0 +1,14 @@
+[Event "26th Dutch CC"]
+[Site "Leiden NED"]
+[Date "2006.11.03"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Rybka (Computer)"]
+[Black "Loop (Computer)"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be7 8.f3 Be6 9.Qd2 O-O 10.O-O-O Nbd7 11.g4 b5 12.g5 b4 13.Ne2 Ne8 14.f4 a5 15.f5 a4 16.Nbd4 exd4 17.Nxd4 b3 18.Kb1 bxc2+ 19.Nxc2 Bb3 20.axb3 axb3 21.Na3 Ne5 22.Qg2 Qb8 23.f6 Bd8 24.Rd5 Ra5 25.Be2 Rxd5 26.exd5 Bb6 27.Bf4 Bc5 28.fxg7 Kxg7 29.Qg3 Qa8 30.Qxb3 Bxa3 31.Bxe5+ dxe5 32.Qxa3 Qxa3 33.bxa3 Nd6 34.Rc1 Rd8 35.a4 Ne4 36.Bb5 Rxd5 37.Bc6 Nd2+ 38.Kb2 Rd4 39.Kc3 Nc4 40.Kb4 Nd2+ 41.Kb5 Rd8 42.a5 Nb3 43.Rc4 Rb8+ 44.Ka4 Nd4 45.Bd5 Rb1 46.Rc3 f5 47.gxf6+ Kxf6 48.a6 Rb6 49.Bc4 Rb8 50.Rh3 h5 51.Rxh5 e4 52.Rd5 Nf5 53.Ka5 e3 54.Rd1 Ne7 55.Rd6+ Kf5 56.Re6 Nc8 1-0

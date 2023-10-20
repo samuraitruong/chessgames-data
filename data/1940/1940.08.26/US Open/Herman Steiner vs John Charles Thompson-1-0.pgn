@@ -1,0 +1,14 @@
+[Event "US Open"]
+[Site "Dallas, TX USA"]
+[Date "1940.08.26"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Herman Steiner"]
+[Black "John Charles Thompson"]
+[ECO "D41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.Nc3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 Nc6 8.d5 Ne7 9.Bb5+ Bd7 10.Bxd7+ Qxd7 11.Ne5 Qb5 12.dxe6 1-0

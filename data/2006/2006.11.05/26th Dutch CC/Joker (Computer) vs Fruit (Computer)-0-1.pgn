@@ -1,0 +1,14 @@
+[Event "26th Dutch CC"]
+[Site "Leiden NED"]
+[Date "2006.11.05"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Joker (Computer)"]
+[Black "Fruit (Computer)"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1.d4 g6 2.e4 c6 3.Nf3 Bg7 4.Bd3 d6 5.O-O Nf6 6.c4 O-O 7.Nc3 e5 8.d5 a5 9.Be2 Na6 10.Be3 Bd7 11.b3 Re8 12.Nd2 Rc8 13.a3 Qe7 14.Bb6 Bh6 15.Bxa5 cxd5 16.exd5 e4 17.Bb6 e3 18.Ndb1 Nc5 19.fxe3 Qxe3+ 20.Kh1 Nfe4 21.Nxe4 Rxe4 22.Bxc5 Rxc5 23.Bd3 Rd4 24.Qf3 Qxf3 25.Rxf3 Bg4 26.Be2 Bxf3 27.gxf3 Rc7 28.Ra2 Re7 29.b4 Rh4 30.Kg2 Re5 31.h3 Be3 32.Bf1 Rhh5 33.f4 Bxf4 34.Rb2 Rhg5+ 35.Kf3 Rg3+ 36.Kf2 Rf5 37.Ke1 Rg1 38.Rg2 Bg3+ 39.Ke2 Rgxf1 40.Rxg3 Rxb1 41.Rd3 Rb2+ 42.Ke3 Rh5 43.Kd4 Rc2 44.Rc3 Rh4+ 45.Kd3 Rxc3+ 46.Kxc3 Rxh3+ 47.Kc2 Rxa3 48.c5 dxc5 49.bxc5 Ra5 50.Kd3 Rxc5 51.Kd4 Rc1 52.Ke5 h5 53.Kd6 h4 54.Ke7 h3 55.d6 Re1+ 56.Kf6 h2 57.d7 h1=Q 58.d8=Q+ Kh7 59.Kxf7 Qf1+ 60.Qf6 Qc4+ 61.Qe6 Qxe6+ 62.Kf8 Rf1# 0-1

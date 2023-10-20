@@ -1,0 +1,14 @@
+[Event "26th Dutch CC"]
+[Site "Leiden"]
+[Date "2006.11.04"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Zzzzzz (Computer)"]
+[Black "Joker (Computer)"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.e4 e6 2.d4 Ke7 3.Bd3 Ke8 4.Nf3 Bd6 5.O-O Bb4 6.a3 Ba5 7.c4 c6 8.e5 d5 9.exd6 Qxd6 10.c5 Qd8 11.Bf4 Nd7 12.Qc2 Ngf6 13.Nbd2 Nd5 14.Bd6 Bxd2 15.Qxd2 Ne7 16.Nh4 Nf6 17.Rfe1 h6 18.Nf5 Nxf5 19.Bxf5 Nd5 20.Bg4 Qg5 21.Qd1 Nf6 22.Bf3 Kd7 23.Re5 Qg6 24.d5 cxd5 25.Bh5 Nxh5 26.Qa4+ Kd8 27.c6 Bd7 28.cxb7 Bxa4 29.bxa8=Q+ Kd7 30.Qxh8 Nf4 31.g3 Nh3+ 32.Kg2 Nf4+ 33.Kh1 Qg4 34.Re3 d4 35.f3 Qh5 36.Rc1 Bc6 37.Qb8 Nd5 38.Be5 Ne7 39.Rb3 Qxf3+ 40.Rxf3 Bxf3+ 41.Kg1 Bc6 42.Qd6+ Ke8 43.Rxc6 Nxc6 44.Qxc6+ Kf8 45.Qc8+ Ke7 46.Qc7+ Ke8 47.Bd6 h5 48.Qc8# 1-0

@@ -1,0 +1,14 @@
+[Event "Paderborn Computer Championship"]
+[Site "Paderborn"]
+[Date "2006.12.30"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Spike (Computer)"]
+[Black "Shredder (Computer)"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be7 8.f3 Be6 9.Qd2 O-O 10.O-O-O Nbd7 11.g4 b5 12.g5 Nh5 13.Nd5 Bxd5 14.exd5 f6 15.gxf6 Bxf6 16.Na5 Qc7 17.Nc6 Nf4 18.Bxf4 exf4 19.Bh3 Ne5 20.Nxe5 Bxe5 21.Rde1 a5 22.Qd3 b4 23.Re4 Rab8 24.Rg1 a4 25.Qc4 Qa7 26.Rge1 Kh8 27.Kb1 Qf7 28.R1e2 Qg6 29.Rg2 Qf6 30.b3 Ba1 31.c3 axb3 32.cxb4 bxa2+ 33.Rxa2 Be5 34.Bd7 Qg6 35.Bc6 Rf5 36.b5 Rg5 37.Rc2 Rg1+ 38.Rc1 Kg8 39.Rxg1 Qxg1+ 40.Kc2 Qxh2+ 41.Qe2 Qg1 42.Rxe5 dxe5 43.Qxe5 Rd8 44.Qe7 Qg6+ 45.Kc3 Qf6+ 46.Qxf6 gxf6 47.d6 f5 48.Kd4 h5 49.Bd5+ Kf8 50.Be6 Rxd6+ 51.Ke5 Rb6 52.Bc4 h4 53.Bf1 Rg6 54.Kxf5 Rg1 55.Bh3 Ke7 56.Kxf4 Kd6 57.Bg4 Rg3 58.Bf5 Kc5 59.Bd7 Kb6 60.Bf5 0-1

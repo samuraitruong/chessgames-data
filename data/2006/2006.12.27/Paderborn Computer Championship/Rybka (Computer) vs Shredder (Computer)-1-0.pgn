@@ -1,0 +1,14 @@
+[Event "Paderborn Computer Championship"]
+[Site "Paderborn"]
+[Date "2006.12.27"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Rybka (Computer)"]
+[Black "Shredder (Computer)"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Be7 9.Qd2 O-O 10.O-O-O Nbd7 11.g4 b5 12.g5 Nh5 13.Nd5 Bxd5 14.exd5 f6 15.gxf6 Bxf6 16.Na5 Qc7 17.Nc6 Bd8 18.Bd3 Nb6 19.b3 Nxd5 20.Bc4 bxc4 21.Qxd5+ Qf7 22.Qxd6 Bf6 23.Nxe5 Bxe5 24.Qxe5 Rfe8 25.Qd4 Rac8 26.Kb2 cxb3 27.axb3 Qxf3 28.Rhe1 Nf6 29.Bf4 Qc6 30.Rxe8+ Rxe8 31.Be5 Kf7 32.Rf1 Qe6 33.Bxf6 gxf6 34.Kb1 Re7 35.Qh4 Kg7 36.Qg3+ Kh8 37.h4 Re8 38.Qf4 Rf8 39.h5 f5 40.h6 Qf6 41.Rd1 Re8 42.Ka2 Rc8 43.c4 Re8 44.Re1 Rg8 45.Qd2 Rd8 46.Qd5 Rg8 47.c5 Rf8 48.c6 Qxh6 49.Qd7 1-0

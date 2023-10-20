@@ -1,0 +1,14 @@
+[Event "IECC TH-M email"]
+[Site "IECC email"]
+[Date "2003.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexandre Le Corre"]
+[Black "Craig Evans"]
+[ECO "D09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "12"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.g3 Bf5 6.Nbd2 Nb4 0-1

@@ -1,0 +1,14 @@
+[Event "26th Dutch CC"]
+[Site "Leiden NED"]
+[Date "2006.11.04"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Shredder (Computer)"]
+[Black "Joker (Computer)"]
+[ECO "D21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 b5 4.a4 c6 5.e3 Qb6 6.axb5 cxb5 7.b3 Be6 8.bxc4 bxc4 9.Nc3 Nd7 10.e4 Bg4 11.Bxc4 Qb4 12.Qd3 Bxf3 13.Ra4 Bxg2 14.Rxb4 Bxh1 15.Rb7 Ngf6 16.Bb5 a6 17.Nd5 axb5 18.Qxb5 Kd8 19.Bd2 Ra1+ 20.Ke2 Bf3+ 21.Kxf3 e5 22.Nxf6 Ra3+ 23.Kg2 Nxf6 24.Ba5+ Rxa5 25.Qxa5+ Ke8 26.Qa8# 1-0

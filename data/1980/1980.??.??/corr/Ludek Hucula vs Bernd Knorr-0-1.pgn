@@ -1,0 +1,14 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ludek Hucula"]
+[Black "Bernd Knorr"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Bc4 cxb2 6.Bxb2 d6 7.O-O Be6 8.Bxe6 fxe6 9.Qb3 Qd7 10.Ng5 Nd8 11.f4 Nf6 12.Nd2 Be7 13.e5 dxe5 14.fxe5 Nd5 15.Nge4 h6 16.Qh3 Qc6 17.Bd4 Rf8 18.Rxf8+ Bxf8 19.Nf3 Nf4 0-1
