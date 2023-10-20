@@ -1,0 +1,14 @@
+[Event "Olympiad"]
+[Site "Dresden GER"]
+[Date "2008.11.20"]
+[EventDate "2008.11.13"]
+[Round "7"]
+[Result "0-1"]
+[White "Arnold Mein"]
+[Black "Herman Hou-Meng Ho"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "1926"]
+[PlyCount "38"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. Be2 Bd6 5. O-O Ne7 6. d4 c6 7. Bg5 O-O 8. Nc3 f6 9. Bh4 Nf5 10. g3 g5 11. g4 Nxh4 12. Nxh4 gxh4 13. Nb1 Kh8 14. c3 Rg8 15. h3 f5 16. b3 fxg4 17. hxg4 Qg5 18. Kh1 Qf4 19. Kg1 Qh2# 0-1
