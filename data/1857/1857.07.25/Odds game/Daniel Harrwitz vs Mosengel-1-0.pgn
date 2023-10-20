@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "Paris FRA"]
+[Date "1857.07.25"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Daniel Harrwitz"]
+[Black "Mosengel"]
+[ECO "C38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Chess Monthly, February 1858, p.54"]
+[PlyCount "70"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. d4 h6 6. c3 d6 7. h4 a6 8. a4 c6 9. Bd2 d5 10. exd5 cxd5 11. Bd3 Qe7+ 12. Kf2 Nf6 13. Re1 Be6 14. Kg1 Nc6 15. hxg5 hxg5 16. Nxg5 O-O-O 17. Nxe6 fxe6 18. Bxf4 Rh4 19. Bg5 Rhh8 20. Qf3 Qf7 21. Rxe6 Rdf8 22. Rae1 Nd7 23. Qg3 Bf6 24. Bxa6 Ncb8 25. Bxf6 Nxf6 26. Re7 Rh1+ 27. Kxh1 Qh5+ 28. Kg1 Nxa6 29. Qd6 Qg4 30. Rxb7 Kxb7 31. Re7+ Kc8 32. Qxa6+ Kd8 33. Qd6+ Nd7 34. Rxd7+ Qxd7 35. Qxf8+ 1-0

@@ -1,0 +1,15 @@
+[Event "Siegen Olympiad Final-D"]
+[Site "Siegen FRG"]
+[Date "1970.09.15"]
+[EventDate "1970.09.05"]
+[Round "2"]
+[Result "1-0"]
+[White "Jose Mondragon"]
+[Black "Federico Yabra"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "41"]
+
+1.e4 c5 2.Nc3 Nc6 3.f4 d6 4.Nf3 g6 5.Bc4 Bg7 6.d3 e6 7.f5 exf5 8.Ng5 Ne5 9.Bb5+ Bd7 10.exf5 h6 11.Nge4 Bc6 12.fxg6 fxg6 13.O-O Ne7 14.Nf6+ Bxf6 15. Rxf6 Qd7 16.Bxc6 Qxc6 17.Bf4 Nf7 18.Qe2 Rd8 19.Qe6 Rh7 20.Rxg6 Kf8 21.Rf1 1-0

@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "St. Petersburg RUE"]
+[Date "1889.12.04"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Friederich Amelung"]
+[Black "E Erler"]
+[ECO "?"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Baltische Schachblatter No.7 p.328"]
+[PlyCount "22"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNB1KBNR b KQkq - 0 1"]
+
+1.e5 e4 2.d5 Nf3 3.dxe4 Nfxe5 4.Qd5 f4 5.Bd6 Bc4 6.Qc5 b4 7.Qxb4 Ba3 8.Qa4 Bxd6 9.cxd6 Nexf7 10.Ngh6 Bb5+ 11.Qxb5 Nf7xd6+ 0-1

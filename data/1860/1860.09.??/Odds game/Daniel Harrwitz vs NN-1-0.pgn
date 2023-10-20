@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1860.09.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Daniel Harrwitz"]
+[Black "NN"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Field, 1860.10.13, p.310"]
+[PlyCount "41"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w KQkq - 0 1"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 d5 4.exd5 Nf6 5.Nc3 Bb4 6.Nf3 Bg4 7.O-O Bxc3 8. Re1+ Be5 9.Rxe5+ Kf8 10.d4 Nbd7 11.h3 Nxe5 12.dxe5 Bxf3 13.Qxf3 Nd7 14. Bxf4 Nb6 15.Bb3 h5 16.d6 cxd6 17.Bg5 Qd7 18.e6 Qc7 19.e7+ Ke8 20.Qxf7+ Kd7 21.e8=Q# 1-0

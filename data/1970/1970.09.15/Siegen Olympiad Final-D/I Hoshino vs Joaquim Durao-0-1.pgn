@@ -1,0 +1,15 @@
+[Event "Siegen Olympiad Final-D"]
+[Site "Siegen FRG"]
+[Date "1970.09.15"]
+[EventDate "1970.09.05"]
+[Round "2"]
+[Result "0-1"]
+[White "I Hoshino"]
+[Black "Joaquim Durao"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "38"]
+
+1.g3 g6 2.Bg2 Bg7 3.Nf3 e5 4.e4 d6 5.O-O Ne7 6.c3 f5 7.Qb3 fxe4 8.Ng5 d5 9.d3 h6 10.Nh3 exd3 11.c4 dxc4 12.Qxc4 Nbc6 13.Rd1 Qd4 14.Qb3 Qd6 15.Rxd3 Nd4 16.Qd1 Bf5 17.Re3 Nc2 18.Qe2 Nxa1 19.g4 Bxb1 0-1

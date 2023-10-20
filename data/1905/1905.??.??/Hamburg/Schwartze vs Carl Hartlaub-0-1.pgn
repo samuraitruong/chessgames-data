@@ -1,0 +1,14 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1905.??.??"]
+[EventDate "1905.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Schwartze"]
+[Black "Carl Hartlaub"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1. e4 f5 2. exf5 Nf6 3. d4 d5 4. Bd3 c5 5. dxc5 e5 6. Bb5+ Nc6 7. Nf3 Bxc5 8. Nxe5 O-O 9. Bxc6 bxc6 10. O-O Bxf5 11. Nxc6 Qd6 12. Nd4 Ng4 13. Nf3 Bxc2 14. Qxc2 Rxf3 15. g3 Rxg3+ 16. Kh1 Rg1+ 17. Kxg1 Qxh2# 0-1

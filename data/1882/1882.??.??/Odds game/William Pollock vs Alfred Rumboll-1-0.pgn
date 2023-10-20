@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "Bath ENG"]
+[Date "1882.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "William Pollock"]
+[Black "Alfred Rumboll"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Urcan and Hilbert bio of Pollock, p.206  //  F.F. Rowland, ’Pollock Memories’ (1899), pp.79-80"]
+[PlyCount "30"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. Ng5 Nh6 6. Qh5 Ne5 7. Ne6 Bb4+ 8. c3 Nd3+ 9. Bxd3 dxc3 10. Nxg7+ Kf8 11. Bxh6 cxb2+ 12. Ke2 bxa1=Q 13. Rxa1 Qf6 14. Ne6+ Kg8 15. e5 Qxe6 1-0
