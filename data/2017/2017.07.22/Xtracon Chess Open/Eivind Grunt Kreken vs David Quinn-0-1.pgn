@@ -1,0 +1,14 @@
+[Event "Xtracon Chess Open"]
+[Site "Elsinore"]
+[Date "2017.07.22"]
+[EventDate "2017.07.22"]
+[Round "1.179"]
+[Result "0-1"]
+[White "Eivind Grunt Kreken"]
+[Black "David Quinn"]
+[ECO "C55"]
+[WhiteElo "1412"]
+[BlackElo "2001"]
+[PlyCount "42"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8. fxg7 Rg8 9. Bg5 Be7 10. Bxe7 Kxe7 11. Re1+ Be6 12. Nh4 Qd5 13. f4 Rxg7 14. f5 Rag8 15. Qe2 Rg4 16. fxe6 fxe6 17. Nd2 Rxh4 18. Nxc4 d3 19. cxd3 Nd4 20. Nd2 Nxe2+ 21. Rxe2 Rhg4 0-1

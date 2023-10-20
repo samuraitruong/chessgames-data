@@ -1,0 +1,14 @@
+[Event "Xtracon Chess Open"]
+[Site "Elsinore"]
+[Date "2017.07.30"]
+[EventDate "2017.07.22"]
+[Round "10.204"]
+[Result "0-1"]
+[White "Lars Paul Huse"]
+[Black "Johannes Frank Jensen"]
+[ECO "B01"]
+[WhiteElo "1163"]
+[BlackElo "1170"]
+[PlyCount "42"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Nf6 5. Nf3 Qf5 6. O-O Qh5 7. h3 e5 8. d3 Nc6 9. Nd2 Qf5 10. Nc4 b5 11. Nxb5 Nd5 12. Bf3 Kd8 13. Bxd5 Bd7 14. Nc3 Rb8 15. Be4 Qe6 16. Rb1 f6 17. Ne3 Bd6 18. Bf5 Qe7 19. Bxd7 e4 20. Bxc6 Qe5 21. Qg4 Qh2# 0-1

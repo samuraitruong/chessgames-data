@@ -1,0 +1,14 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo MNC"]
+[Date "1901.02.14"]
+[EventDate "1901.02.04"]
+[Round "7"]
+[Result "0-1"]
+[White "M Didier"]
+[Black "Theodor von Scheve"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "134"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 Bc5 6.Nc3 d6 7.Bg5 Bb4 8.O-O Bxc3 9.bxc3 h6 10.Bh4 O-O 11.Qd2 Be6 12.Rae1 Kh7 13.Bb3 Qe7 14.d4 Bxb3 15.axb3 Rae8 16.h3 Rg8 17.g4 g5 18.Bg3 Rg6 19.d5 Nb8 20.Kg2 Reg8 21.Rh1 Kg7 22.h4 Kf8 23.h5 R6g7 24.Nh2 Rh8 25.f3 Qd8 26.Nf1 Ng8 27.Ne3 f6 28.c4 Rd7 29.b4 c5 30.bxc5 dxc5 31.Rb1 Ne7 32.c3 Nc8 33.Bf2 b6 34.Qa2 Nd6 35.Rb2 Ra7 36.Rhb1 Nd7 37.Qa4 Qc7 38.Qc6 Rh7 39.Nf5 Nxf5 40.gxf5 Rf7 41.Rxb6 Nxb6 42.Bxc5+ Kg7 43.Rxb6 a5 44.Qb5 Ra8 45.Ba3 Qc8 46.c5 Kh8 47.Kg3 g4 48.fxg4 Qg8 49.c6 Qg5 50.Qe2 Rg8 51.Rb7 Rxb7 52.cxb7 Rb8 53.Qf3 Rxb7 54.d6 a4 55.Qd3 Rg7 56.Qe2 Rg8 57.Kh3 Kh7 58.Bc5 Qc1 59.Qd3 Qh1+ 60.Kg3 Qxh5 61.Qd1 Qg5 62.d7 Qf4+ 63.Kh3 h5 64.d8=Q Qxg4+ 65.Qxg4 hxg4+ 66.Kg3 Rxd8 67.Kxg4 Rd3 0-1

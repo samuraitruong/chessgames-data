@@ -1,0 +1,14 @@
+[Event "88th US Open"]
+[Site "Portland, OR USA"]
+[Date "1987.08.02"]
+[EventDate "1987.08.02"]
+[Round "1"]
+[Result "1-0"]
+[White "Walter M Buehl"]
+[Black "Chedly Aouriri"]
+[ECO "A53"]
+[WhiteElo "2153"]
+[BlackElo "1678"]
+[PlyCount "39"]
+
+1.d4 c6 2.c4 Nf6 3.Nf3 d6 4.Nc3 g6 5.e4 Bg7 6.Be2 O-O 7.O-O Nbd7 8.e5 dxe5 9.dxe5 Ne8 10.e6 fxe6 11.Ng5 Nc7 12.Bg4 Ne5 13.Be2 Qxd1 14.Rxd1 b6 15.f4 Nf7 16.Nce4 Rd8 17.Rxd8+ Nxd8 18.Be3 Bb7 19.Rd1 Bc8 20.Rxd8+ 1-0

@@ -1,0 +1,14 @@
+[Event "London Chess Classic Open"]
+[Site "London ENG"]
+[Date "2016.12.15"]
+[EventDate "2016.12.09"]
+[Round "8.103"]
+[Result "0-1"]
+[White "Len Cotter"]
+[Black "Fernando Fernandez Aransay"]
+[ECO "B76"]
+[WhiteElo "1758"]
+[BlackElo "1862"]
+[PlyCount "30"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 e5 13. Bc5 Be6 14. Kb1 Nxc3+ 15. Qxc3 Qxd1# 0-1

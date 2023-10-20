@@ -1,0 +1,14 @@
+[Event "88th US Open"]
+[Site "Portland, OR USA"]
+[Date "1987.08.02"]
+[EventDate "1987.08.02"]
+[Round "1"]
+[Result "0-1"]
+[White "Albert E Babcock"]
+[Black "David Moody"]
+[ECO "C58"]
+[WhiteElo "1377"]
+[BlackElo "2083"]
+[PlyCount "80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ c6 7.dxc6 bxc6 8.Ba4 Bc5 9.O-O h6 10.Nf3 e4 11.Qe2 O-O 12.Ne1 Qb6 13.d3 Bg4 14.Qd2 Rad8 15.Nc3 e3 16.Qxe3 Bxe3 17.fxe3 Nd5 18.Nxd5 Rxd5 19.c3 Be2 20.Rf2 Bxd3 21.b4 Nc4 22.Bb3 Rd6 23.Nxd3 Nxe3 24.Nc5 Nd5 25.Bb2 Rf6 26.Rxf6 Nxf6 27.Kf1 Qb5+ 28.Kf2 Re8 29.Re1 Ng4+ 30.Kg3 Rxe1 31.Kxg4 Qe2+ 32.Kh3 Qxb2 33.c4 Re3+ 34.g3 Qf2 35.b5 g6 36.Na6 Qf1+ 37.Kh4 Re4+ 38.g4 Qf2+ 39.Kh3 Qf3+ 40.Kh4 Qxg4# 0-1

@@ -1,0 +1,14 @@
+[Event "88th US Open"]
+[Site "Portland, OR USA"]
+[Date "1987.08.09"]
+[EventDate "1987.08.02"]
+[Round "7"]
+[Result "0-1"]
+[White "David Moody"]
+[Black "Jeff Eskew"]
+[ECO "B78"]
+[WhiteElo "2083"]
+[BlackElo "1766"]
+[PlyCount "76"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.O-O-O Rc8 11.Bb3 Ne5 12.h4 Nc4 13.Bxc4 Rxc4 14.h5 Nxh5 15.g4 Nf6 16.Bh6 Nxe4 17.Nxe4 Rxd4 18.Qh2 Be5 19.f4 Rxd1+ 20.Kxd1 Bxg4+ 21.Kc1 Bxb2+ 22.Kxb2 Qb6+ 23.Ka1 Qd4+ 24.c3 Qxe4 25.Bxf8 Kxf8 26.Qxh7 Ke8 27.Qg8+ Kd7 28.Rh8 Qe1+ 29.Kb2 Qd2+ 30.Kb3 Be6+ 31.Kb4 Qb2+ 32.Ka4 Qxa2+ 33.Kb4 Qb3+ 34.Ka5 b6+ 35.Ka6 Qa4+ 36.Kb7 Qc6+ 37.Kxa7 Qc7+ 38.Ka8 Bd5# 0-1

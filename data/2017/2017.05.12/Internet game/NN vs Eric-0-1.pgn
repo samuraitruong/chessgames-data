@@ -1,0 +1,14 @@
+[Event "Internet game"]
+[Site "chess.com"]
+[Date "2017.05.12"]
+[EventDate "2017.05.12"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Eric"]
+[ECO "C20"]
+[WhiteElo "1349"]
+[BlackElo "1779"]
+[PlyCount "38"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 g6 4. Qf3 Qe7 5. Nc3 Nd4 6. Qd1 c6 7. Nf3 Bg7 8. Nxd4 exd4 9. Ne2 d5 10. Bb3 dxe4 11. Nxd4 Bxd4 12. c3 Bb6 13. d4 exd3+ 14. Be3 Bxe3 15. fxe3 Qxe3+ 16. Kf1 Be6 17. Bxe6 fxe6 18. h3 Nh6 19. Qb3 O-O# 0-1

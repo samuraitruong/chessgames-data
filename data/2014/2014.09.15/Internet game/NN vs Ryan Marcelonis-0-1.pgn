@@ -1,0 +1,14 @@
+[Event "Internet game"]
+[Site "chess.com"]
+[Date "2014.09.15"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Ryan Marcelonis"]
+[ECO "B20"]
+[WhiteElo "662"]
+[BlackElo "774"]
+[PlyCount "20"]
+
+1.e4 c5 2.Bc4 Nc6 3.Nf3 d6 4.e5 Qc7 5.Bb5 Bd7 6.d4 dxe5 7.Nxe5 Nxe5 8.dxe5 Bxb5 9.a4 Qxe5+ 10.Kd2 O-O-O# 0-1

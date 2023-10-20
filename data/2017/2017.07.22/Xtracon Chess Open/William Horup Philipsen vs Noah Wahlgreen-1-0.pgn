@@ -1,0 +1,14 @@
+[Event "Xtracon Chess Open"]
+[Site "Elsinore"]
+[Date "2017.07.22"]
+[EventDate "2017.07.22"]
+[Round "1.190"]
+[Result "1-0"]
+[White "William Horup Philipsen"]
+[Black "Noah Wahlgreen"]
+[ECO "B21"]
+[WhiteElo "1977"]
+[BlackElo "1315"]
+[PlyCount "31"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e5 5. Bc4 Bb4 6. Bxf7+ Kf8 7. Qb3 Bc5 8. Nf3 Qf6 9. Bxg8 Rxg8 10. Nd5 Qd6 11. Ng5 h6 12. Nh7+ Ke8 13. Ndf6+ gxf6 14. Qxg8+ Ke7 15. Qf8+ Ke6 16. Qxf6# 1-0

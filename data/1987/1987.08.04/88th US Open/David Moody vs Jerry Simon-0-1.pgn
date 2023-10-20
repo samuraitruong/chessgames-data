@@ -1,0 +1,14 @@
+[Event "88th US Open"]
+[Site "Portland, OR USA"]
+[Date "1987.08.04"]
+[EventDate "1987.08.02"]
+[Round "3"]
+[Result "0-1"]
+[White "David Moody"]
+[Black "Jerry Simon"]
+[ECO "C19"]
+[WhiteElo "2083"]
+[BlackElo "2199"]
+[PlyCount "46"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Nf3 Nbc6 8.a4 Qa5 9.Bd2 Bd7 10.Bb5 Qc7 11.O-O O-O 12.Bd3 h6 13.Nh4 cxd4 14.cxd4 Nxd4 15.Bb4 Rfe8 16.Bd6 Qa5 17.f4 Rac8 18.Rb1 b6 19.Rb4 Ndf5 20.Nxf5 Nxf5 21.Bxf5 exf5 22.Qd3 Re6 23.c4 Rxd6 0-1

@@ -1,0 +1,14 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2017.04.23"]
+[EventDate "2017.04.19"]
+[Round "6.96"]
+[Result "0-1"]
+[White "Jon I Horni Nielsen"]
+[Black "Loftur Baldvinsson"]
+[ECO "B00"]
+[WhiteElo "1454"]
+[BlackElo "1971"]
+[PlyCount "38"]
+
+1. e4 Nc6 2. Nf3 f5 3. exf5 d5 4. d4 Bxf5 5. c3 e6 6. Bb5 Bd6 7. Bg5 Ne7 8. Qa4 O-O 9. Bxc6 bxc6 10. Bxe7 Qxe7 11. Qxc6 Rab8 12. b3 Bd3 13. Qa4 e5 14. dxe5 Rxf3 15. Kd2 Qg5+ 16. Kd1 Qxg2 17. Re1 Rxf2 18. exd6 Qf3+ 19. Kc1 Rc2# 0-1

@@ -1,0 +1,14 @@
+[Event "88th US Open"]
+[Site "Portland, OR USA"]
+[Date "1987.08.02"]
+[EventDate "1987.08.02"]
+[Round "1"]
+[Result "0-1"]
+[White "Richard Chadwick"]
+[Black "Nicholas Kleszczewski"]
+[ECO "D85"]
+[WhiteElo "1705"]
+[BlackElo "2196"]
+[PlyCount "34"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 O-O 8.Bc4 c5 9.h3 Nc6 10.Be3 Qa5 11.Qb3 cxd4 12.Nxd4 Nxd4 13.Bxd4 Bxd4 14.Rc1 Bg7 15.O-O Qg5 16.Kh1 Qf4 17.Qc2 Be5 0-1

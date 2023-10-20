@@ -1,0 +1,14 @@
+[Event "80th US Open"]
+[Site "Chicago, IL USA"]
+[Date "1979.08.07"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Peter Hoppner"]
+[Black "David Moody"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d3 5.Bxd3 Bc5 6.O-O d6 7.h3 Nf6 8.Bg5 h6 9.Bh4 g5 10.Bg3 g4 11.hxg4 Bxg4 12.Nbd2 Nh5 13.Bh4 Qd7 14.Qa4 Rg8 15.Kh2 Nf4 16.Bb5 Bxf3 17.g4 Rxg4 18.Bg3 Rh4+ 19.Bxh4 Qh3+ 20.Kg1 Qh1# 0-1
