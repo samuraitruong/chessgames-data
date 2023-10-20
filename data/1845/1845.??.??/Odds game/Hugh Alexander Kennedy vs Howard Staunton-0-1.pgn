@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1845.??.??"]
+[EventDate "1845.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Hugh Alexander Kennedy"]
+[Black "Howard Staunton"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Illustrated London News, 1845.07.26, p.64"]
+[PlyCount "46"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 -- 2. d4 e6 3. Bd3 c5 4. dxc5 Qa5+ 5. Nc3 Bxc5 6. Nge2 Nc6 7. O-O Nf6 8. Ng3 O-O 9. a3 Qd8 10. b4 Bb6 11. Bg5 Bd4 12. Nge2 Bb6 13. Kh1 Ne5 14. Bh4 Neg4 15. Na4 Nxe4 16. Bxd8 Nexf2+ 17. Kg1 Nh3+ 18. Kh1 Ngf2+ 19. Rxf2 Nxf2+ 20. Kg1 Be3 21. Qb1 Nd1+ 22. Kh1 Rf1+ 23. Ng1 Nf2# 0-1

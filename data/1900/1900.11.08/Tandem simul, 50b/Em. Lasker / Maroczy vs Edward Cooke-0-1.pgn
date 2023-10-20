@@ -1,0 +1,15 @@
+[Event "Tandem simul, 50b"]
+[Site "London ENG"]
+[Date "1900.11.08"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Em. Lasker / Maroczy"]
+[Black "Edward Cooke"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Standard, 1900.11.14, p.3"]
+[PlyCount "30"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 g5 4.h4 Bg7 5.Qh5 Qe7 6.d3 gxh4 7.Nc3 c6 8.Nge2 Bxc3+ 9.bxc3 d5 10.exd5 cxd5 11.Qxd5 Nf6 12.Bb5+ Nbd7 13.Qg5 Rg8 14.Qxf4 Rxg2 15.Rxh4 Qxe2# 0-1
