@@ -1,0 +1,15 @@
+[Event "Candidate to Master"]
+[Site "Moscow URS"]
+[Date "1940.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Volk"]
+[Black "Sergey Vsevolodovich Belavenets"]
+[ECO "C24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "rusbase"]
+[PlyCount "30"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Qe2 Bc5 5. f4 d5 6. exd5 O-O 7. dxc6 Nxc6 8. c3 exf4 9. Qf1 Re8+ 10. Kd1 Ne5 11. Nd2 Nfg4 12. Qxf4 Ne3+ 13. Ke2 N3xc4 14. Nxc4 Qxd3+ 15. Ke1 Nf3# 0-1

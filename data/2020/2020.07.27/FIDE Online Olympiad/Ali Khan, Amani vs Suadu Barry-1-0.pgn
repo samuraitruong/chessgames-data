@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.27"]
+[EventDate "2020.07.25"]
+[Round "9"]
+[Result "1-0"]
+[White "Ali Khan, Amani"]
+[Black "Suadu Barry"]
+[ECO "C41"]
+[WhiteElo "1384"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nf6 4. d3 Be7 5. h3 O-O 6. c3 Nc6 7. Bb3 Be6 8. Bc2 d5 9. Qe2 Bd6 10. Nbd2 Re8 11. Nf1 Qd7 12. Ng3 Rad8 13. O-O a6 14. Nh4 g6 15. Bg5 Qe7 16. Qf3 Bc5 17. Bxf6 g5 18. Bxe7 Rxe7 19. Nhf5 Ree8 20. Qh5 Bxf5 21. Nxf5 Rf8 22. Qxg5+ Kh8 23. Qg7# 1-0

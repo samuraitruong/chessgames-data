@@ -1,0 +1,15 @@
+[Event "Washington - Baltimore m"]
+[Site "Washington, D.C. USA"]
+[Date "1915.11.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Albert Whiting Fox"]
+[Black "D S Mehamet"]
+[ECO "C15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Washington Post, 1915.11.14"]
+[PlyCount "25"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd3 c5 5.exd5 cxd4 6.Bb5+ Kf8 7.Qxd4 Bxc3+ 8. bxc3 Qxd5 9.Ba3+ Ne7 10.O-O-O Nc6 11.Bxc6 bxc6 12.Qc5 Qxc5 13.Rd8# 1-0

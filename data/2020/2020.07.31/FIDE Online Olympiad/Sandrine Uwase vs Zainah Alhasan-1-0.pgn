@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.31"]
+[EventDate "2020.07.31"]
+[Round "2"]
+[Result "1-0"]
+[White "Sandrine Uwase"]
+[Black "Zainah Alhasan"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. Be3 Bd6 6. Nc3 O-O 7. a3 Qe7 8. Qd2 Bc5 9. O-O-O Bxe3 10. Qxe3 d6 11. h4 Be6 12. Nd5 Nxd5 13. Bxd5 Bxd5 14. exd5 Nd8 15. g4 c6 16. dxc6 Nxc6 17. g5 hxg5 18. hxg5 Rad8 19. Qe4 Rfe8 20. Qh7+ Kf8 21. Qh8# 1-0

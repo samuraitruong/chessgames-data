@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.31"]
+[EventDate "2020.07.31"]
+[Round "1"]
+[Result "1-0"]
+[White "Patience Tsuses"]
+[Black "Salma Almutawaa"]
+[ECO "C02"]
+[WhiteElo "1031"]
+[BlackElo "1009"]
+[PlyCount "63"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Qb3 Qxb3 7. axb3 Bd7 8. Be3 cxd4 9. Bxd4 Nxd4 10. Nxd4 Bc5 11. b4 Bxd4 12. cxd4 Nh6 13. Bd3 O-O 14. O-O a6 15. Nc3 Bc6 16. b5 Bxb5 17. Nxb5 axb5 18. Bxb5 Nf5 19. Rad1 f6 20. f4 Ne3 21. Ra1 Nxf1 22. Rxa8 Rxa8 23. Kxf1 Ra1+ 24. Kf2 Rb1 25. Kf3 Rxb2 26. Bd7 b5 27. Bxe6+ Kh8 28. Bxd5 Rd2 29. Ke3 Rb2 30. e6 Kg8 31. e7+ Kh8 32. e8=Q# 1-0

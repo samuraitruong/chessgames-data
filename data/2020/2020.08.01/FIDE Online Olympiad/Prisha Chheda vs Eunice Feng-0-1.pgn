@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.01"]
+[EventDate "2020.07.31"]
+[Round "5"]
+[Result "0-1"]
+[White "Prisha Chheda"]
+[Black "Eunice Feng"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "1306"]
+[PlyCount "44"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 h6 8. Qd2 Be6 9. O-O-O Nbd7 10. Ne1 Ng4 11. h3 Nxe3 12. Qxe3 Be7 13. Nf3 b5 14. g4 Qc7 15. Bd3 Nb6 16. b3 O-O 17. h4 Qxc3 18. Qxb6 d5 19. Rdg1 dxe4 20. Bxe4 Rfd8 21. Nd2 Ba3+ 22. Kb1 Qb2# 0-1

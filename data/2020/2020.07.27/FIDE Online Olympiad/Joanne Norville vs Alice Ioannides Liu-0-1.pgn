@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.27"]
+[EventDate "2020.07.25"]
+[Round "8"]
+[Result "0-1"]
+[White "Joanne Norville"]
+[Black "Alice Ioannides Liu"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "1475"]
+[PlyCount "48"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. O-O O-O 6. Ng5 d6 7. d3 h6 8. Nf3 Bg4 9. Nd5 Nd4 10. Nxf6+ Qxf6 11. g3 Bxf3 12. Qd2 Qg6 13. Re1 Qh5 14. h4 Qg4 15. Kh2 Kh7 16. b4 Bxb4 17. Qxb4 Nxc2 18. Qxb7 Nxe1 19. d4 Bd1 20. Bb3 Nf3+ 21. Kg2 Nxh4+ 22. Kg1 Qh3 23. gxh4 Bf3 24. Bd1 Qg2# 0-1

@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.31"]
+[EventDate "2020.07.31"]
+[Round "2"]
+[Result "1-0"]
+[White "Amenah Alawadhi"]
+[Black "Joselyne Uwase"]
+[ECO "D00"]
+[WhiteElo "1505"]
+[BlackElo "1553"]
+[PlyCount "33"]
+
+1. d4 d5 2. Bf4 Nc6 3. e3 a6 4. Nf3 Bg4 5. c4 e6 6. a3 Bd6 7. Bxd6 cxd6 8. cxd5 exd5 9. Nbd2 Nf6 10. Bd3 O-O 11. O-O Qe7 12. Qb3 Rab8 13. Rac1 Ne4 14. Qxd5 Nxd2 15. Nxd2 Be6 16. Qe4 Qf6 17. Qxh7# 1-0

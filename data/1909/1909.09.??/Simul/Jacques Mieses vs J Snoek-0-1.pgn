@@ -1,0 +1,14 @@
+[Event "Simul"]
+[Site "Rotterdam NED"]
+[Date "1909.09.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jacques Mieses"]
+[Black "J Snoek"]
+[ECO "C28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 d6 5. f4 Bg4 6. Nge2 Be6 7. f5 Bxc4 8. dxc4 Be7 9. g4 Nxg4 10. Nd5 Bh4+ 11. Ng3 Nxh2 12. Qd3 Ng4 13. Rxh4 Qxh4 14. Nxc7+ Kd7 15. Nxa8 Rxa8 16. c5 Nd4 17. c3 Nc2+ 18. Kf1 Qh3+ 19. Kg1 Qh2+ 20. Kf1 Qf2# 0-1

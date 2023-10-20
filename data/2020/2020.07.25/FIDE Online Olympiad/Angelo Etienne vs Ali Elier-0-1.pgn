@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.25"]
+[EventDate "2020.07.25"]
+[Round "2"]
+[Result "0-1"]
+[White "Angelo Etienne"]
+[Black "Ali Elier"]
+[ECO "D32"]
+[WhiteElo "1995"]
+[BlackElo "2037"]
+[PlyCount "40"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qxd4 Nc6 6. Qd1 exd5 7. Qxd5 Bd7 8. Bg5 Nf6 9. Qd2 Bb4 10. g3 Qa5 11. Bxf6 gxf6 12. O-O-O O-O-O 13. a3 Bf5 14. Qe3 Qxa3 15. Rd3 Qa1+ 16. Kc2 Bxd3+ 17. exd3 Nd4+ 18. Kd2 Qxb2+ 19. Kd1 Qc2+ 20. Ke1 Bxc3+ 0-1

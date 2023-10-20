@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.27"]
+[EventDate "2020.07.25"]
+[Round "8"]
+[Result "0-1"]
+[White "Luc Sinton"]
+[Black "Angelo Etienne"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "1995"]
+[PlyCount "68"]
+
+1. e4 d5 2. exd5 c6 3. d6 exd6 4. Bd3 Nf6 5. Nf3 d5 6. O-O Be7 7. Nc3 O-O 8. Be2 d4 9. Nb1 c5 10. d3 Nc6 11. Qd2 Nd5 12. c4 Nf6 13. Qf4 Bd6 14. Qg5 Qe7 15. Bf4 Bxf4 16. Qxf4 Qxe2 17. Re1 Qxd3 18. Ne5 Nxe5 19. Qxe5 Bg4 20. f3 Rae8 21. Qxe8 Rxe8 22. Rxe8+ Nxe8 23. fxg4 Nf6 24. Na3 Qe3+ 25. Kh1 Nxg4 26. h3 Nf2+ 27. Kg1 Nxh3+ 28. Kh2 Ng5 29. Nc2 Qe5+ 30. Kh1 h5 31. Re1 Qf5 32. Re8+ Kh7 33. Re7 Qxc2 34. Rxb7 d3 0-1

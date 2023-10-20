@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.31"]
+[EventDate "2020.07.31"]
+[Round "2"]
+[Result "0-1"]
+[White "Mohamad Firdaus Erfan"]
+[Black "Aram Chekh Adm Khedr"]
+[ECO "B40"]
+[WhiteElo "1241"]
+[BlackElo "2146"]
+[PlyCount "150"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. h3 Nc6 7. Be3 cxd4 8. Nxd4 Nxd4 9. Qxd4 Be7 10. Bc4 Qxd4 11. Bxd4 O-O 12. O-O Bd7 13. Nd2 Bc6 14. Nb3 b5 15. Bd3 a5 16. Rfe1 Nd7 17. Nd2 Rfd8 18. Rad1 Bc5 19. Nb3 Be7 20. Nd2 e5 21. Be3 Nf6 22. Be2 b4 23. Nc4 bxc3 24. bxc3 Rxd1 25. Rxd1 Bb5 26. Nb6 Bxe2 27. Rd2 Rd8 28. Rxe2 Ne4 29. c4 f5 30. Nd5 Bd6 31. Bb6 Rc8 32. Rc2 a4 33. f3 Nc5 34. Kf2 Kf7 35. Ke2 g6 36. Nc3 a3 37. Nb5 Ke6 38. Nxa3 Nd7 39. c5 Bxc5 40. Bxc5 Rxc5 41. Rxc5 Nxc5 42. Nb5 Kd5 43. Kd2 h5 44. h4 e4 45. fxe4+ Nxe4+ 46. Kd3 Kc5 47. Nc3 Nf6 48. Ne2 Nd5 49. a3 Kd6 50. Kd4 Nc7 51. Nf4 Nb5+ 52. Kd3 Nxa3 53. Nxg6 Nb5 54. Nf4 Ke5 55. Nxh5 Nc7 56. Ng7 Nd5 57. g3 Kf6 58. Nh5+ Kg6 59. Nf4+ Nxf4+ 60. gxf4 Kh5 61. Kd4 Kxh4 62. Kd5 Kg3 63. Ke5 Kg4 64. Kd4 Kxf4 65. Kd3 Kg3 66. Ke2 f4 67. Kf1 Kf3 68. Kg1 Ke2 69. Kg2 f3+ 70. Kg1 f2+ 71. Kh1 f1=Q+ 72. Kh2 Qf4+ 73. Kh1 Qg4 74. Kh2 Kf2 75. Kh1 Qh4# 0-1

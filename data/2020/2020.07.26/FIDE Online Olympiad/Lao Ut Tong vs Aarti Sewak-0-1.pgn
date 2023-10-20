@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.26"]
+[EventDate "2020.07.25"]
+[Round "5"]
+[Result "0-1"]
+[White "Lao Ut Tong"]
+[Black "Aarti Sewak"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "1412"]
+[PlyCount "72"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 a6 4. e4 Bb4 5. Bg5 Be7 6. Nf3 d6 7. Bd3 Nbd7 8. e5 Ng8 9. Bxe7 Qxe7 10. O-O b6 11. d5 Nc5 12. dxe6 fxe6 13. Ne4 Bb7 14. Nxc5 bxc5 15. Re1 O-O-O 16. Qa4 Rf8 17. Be4 d5 18. cxd5 exd5 19. Bd3 c4 20. Bc2 Nh6 21. e6 Rxf3 22. gxf3 Qg5+ 23. Kh1 Qh5 24. Qd7+ Kb8 25. Bd1 Nf5 26. f4 d4+ 27. Kg1 Qg6+ 28. Kf1 d3 29. f3 Nh4 30. Re3 Qg2+ 31. Ke1 d2+ 32. Qxd2 Qg1+ 33. Ke2 Ng2 34. Re5 Ka7 35. e7 Re8 36. Qd8 Qe1# 0-1

@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.25"]
+[EventDate "2020.07.25"]
+[Round "1"]
+[Result "1-0"]
+[White "Loedi Gomes"]
+[Black "Laia Swaminathan"]
+[ECO "C50"]
+[WhiteElo "1070"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 d6 6. Be3 Bb6 7. d4 Ba5 8. O-O Bg4 9. d5 Ne7 10. Bb5+ c6 11. dxc6 Nxc6 12. Nd5 O-O 13. Bc4 Nxe4 14. Qd3 Bxf3 15. gxf3 Nb4 16. Qxe4 Nxd5 17. Bxd5 Qf6 18. Qg4 Bd8 19. Be4 Be7 20. Qh3 h6 21. Kh1 Rfc8 22. Rg1 Kf8 23. Bxb7 Rxc2 24. Bxa8 Rxb2 25. Rab1 e4 26. Rxb2 Qxb2 27. Qc8+ Bd8 28. Qxd8# 1-0

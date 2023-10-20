@@ -1,0 +1,15 @@
+[Event "Blindfold simul, 10b"]
+[Site "London ENG"]
+[Date "1861.10.07"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Louis Paulsen"]
+[Black "Francis Burden"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, 1861, p.344"]
+[PlyCount "98"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Bc4 Be6 5.Bxe6 fxe6 6.Nxd4 Kd7 7.O-O Nc6 8. Nc3 Nxd4 9.Qxd4 Qf6 10.Qa4+ c6 11.f4 Nh6 12.f5 e5 13.Bxh6 Qxh6 14.Nd5 Be7 15.Qb3 b6 16.Ne3 Kc7 17.Rad1 Rhf8 18.Ng4 Qh5 19.Qe6 Qf7 20.Ne3 Qxe6 21. fxe6 Rxf1+ 22.Rxf1 Rf8 23.Nf5 Bf6 24.g4 g6 25.Ne3 Be7 26.Rxf8 Bxf8 27.h4 Kd8 28.h5 Ke7 29.hxg6 hxg6 30.Kf2 Kxe6 31.Kf3 d5 32.exd5+ cxd5 33.Ng2 g5 34.c3 e4+ 35.Ke3 Bc5+ 36.Ke2 Ke5 37.b4 Bg1 38.Kf1 Bh2 39.Ke1 Bf4 40.a4 d4 41.cxd4+ Kxd4 42.b5 Kc4 43.Kf2 Kd3 44.Nxf4+ gxf4 45.g5 e3+ 46.Ke1 e2 47.g6 Ke3 48.g7 f3 49.g8=Q f2# 0-1

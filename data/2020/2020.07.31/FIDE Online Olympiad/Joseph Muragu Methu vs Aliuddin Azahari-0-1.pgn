@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.31"]
+[EventDate "2020.07.31"]
+[Round "1"]
+[Result "0-1"]
+[White "Joseph Muragu Methu"]
+[Black "Aliuddin Azahari"]
+[ECO "A57"]
+[WhiteElo "1972"]
+[BlackElo "2059"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 bxc4 5. Nc3 d6 6. e4 g6 7. Bxc4 Bg7 0-1

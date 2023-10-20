@@ -1,0 +1,15 @@
+[Event "Buenos Aires Olympiad prel-C"]
+[Site "Buenos Aires ARG"]
+[Date "1939.08.24"]
+[EventDate "1939.08.24"]
+[Round "1"]
+[Result "1-0"]
+[White "Marcos Luckis"]
+[Black "Jose Sierra"]
+[ECO "D97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "39"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 c6 8.Be2 Be6 9.Qd3 Nbd7 10.Ng5 Qb6 11.O-O Rad8 12.Nxe6 fxe6 13.Qc4 Kh8 14.Be3 Ng8 15.Rab1 e5 16.d5 Qc7 17.Nb5 Qb8 18.dxc6 bxc6 19.Nxa7 c5 20.Nc6 1-0

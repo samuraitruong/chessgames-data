@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.31"]
+[EventDate "2020.07.31"]
+[Round "2"]
+[Result "0-1"]
+[White "Daniel Mouton"]
+[Black "Fayzan Momin"]
+[ECO "B30"]
+[WhiteElo "1005"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. e4 c5 2. Nf3 Nc6 3. d3 e5 4. c3 g6 5. g3 Bg7 6. Bg2 d6 7. O-O h6 8. Nbd2 Nge7 9. Re1 Be6 10. Nf1 Qd7 11. Ne3 O-O 12. Qe2 Kh7 13. Bd2 b5 14. Nc2 Rfb8 15. a3 a5 16. Reb1 a4 17. Be3 Na5 18. d4 Bc4 19. Qd2 Nb3 20. Qd1 Rd8 21. dxc5 dxc5 22. Qxd7 Rxd7 23. Ra2 Rad8 24. Bh3 Rd1+ 25. Rxd1 Rxd1+ 26. Nce1 Nc1 27. Bxc1 Rxc1 28. b3 axb3 29. Rb2 Rxc3 30. Bd7 f5 31. exf5 gxf5 32. Nd2 e4 33. a4 bxa4 34. Bxa4 Rc1 35. Nxc4 Rxe1+ 36. Kg2 Bxb2 37. Bxb3 Bd4 38. Nd6 Re2 39. Kh3 Rxf2 40. Be6 e3 41. Bc4 e2 42. Bxe2 Rxe2 43. Nc4 Bg1 44. Kh4 Rxh2# 0-1

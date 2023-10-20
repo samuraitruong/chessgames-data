@@ -6,9 +6,10 @@
 [Result "0-1"]
 [White "Gustav Richard Neumann"]
 [Black "Louis Paulsen"]
-[ECO "C51"]
+[ECO "C65"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "66"]
+[Source "Uber Land und Meer, July 1865, p.670"]
+[PlyCount "53"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O d6 8. cxd4 Bb6 9. Nc3 Na5 10. Bd3 Ne7 11. d5 O-O 12. Bb2 f6 13. Qd2 Ng6 14. Kh1 Bd7 15. Ne1 Ne5 16. f4 Nec4 17. Qe2 Nxb2 18. Qxb2 c5 19. f5 c4 20. Bb1 Bd4 21. Nf3 Be5 22. Nxe5 fxe5 23. Rf3 b5 24. Bc2 Rb8 25. a3 Nb7 26. a4 bxa4 27. Qa3 Nc5 28. Rff1 Qg5 29. Rfe1 Qh4 30. Qa2 Rb4 31. Rab1 a5 32. g3 Qg5 33. Qa3 Rfb8 0-1
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Be7 5.d3 d6 6.Bxc6+ bxc6 7.Nc3 O-O 8.h3 c5 9.Nh2 Nd7 10.g4 Nb6 11.f4 exf4 12.Bxf4 Bf6 13.Qd2 Bd4+ 14.Kg2 Bb7 15. Nf3 f6 16.Nxd4 cxd4 17.Nb5 d5 18.e5 a6 19.Nxd4 fxe5 20.Bxe5 Qe7 21.Rfe1 Qd7 22.Nf5 d4+ 23.Kh2 Rf7 24.Nxd4 Re8 25.Nb3 Qd5 26.Bg3 Ref8 27.c4 0-1

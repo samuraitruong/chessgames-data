@@ -1,0 +1,15 @@
+[Event "Blindfold simul, 8b"]
+[Site "City of London CC, London ENG"]
+[Date "1897.10.09"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "J Webster-Brown"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Hampstead & Highgate Express, 1897.10.16, p.6"]
+[PlyCount "33"]
+
+1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 c2 5.Qxc2 Bb4+ 6.Nc3 Qf6 7.Nf3 Bxc3+ 8. bxc3 d6 9.O-O Nc6 10.Re1 Ne5 11.Nxe5 Qxe5 12.Qb3 Qe7 13.e5 dxe5 14.Ba3 c5 15.Qb5+ Qd7 16.Rxe5+ Ne7 17.Rd1 1-0

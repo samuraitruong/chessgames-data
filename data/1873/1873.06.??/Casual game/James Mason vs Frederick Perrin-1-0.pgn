@@ -1,0 +1,14 @@
+[Event "Casual game"]
+[Site "New York City NY USA"]
+[Date "1873.06.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "James Mason"]
+[Black "Frederick Perrin"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.O-O Nxe4 5.d4 d5 6.Bb3 Bg4 7.dxe5 Be6 8.Qe2 Bc5 9.c4 Nd4 10.Nxd4 Bxd4 11.Qd3 c5 12.cxd5 Bxd5 13.Ba4+ Ke7 14.Nc3 Nxc3 15.bxc3 Bxe5 16.Qe3 Kd6 17.Rd1 Qh4 18.f4 Bf6 19.Rb1 Qg4 20.Qxc5+ Kxc5 21.Ba3+ Kc4 22.Bb5+ Kxc3 23.Rbc1# 1-0

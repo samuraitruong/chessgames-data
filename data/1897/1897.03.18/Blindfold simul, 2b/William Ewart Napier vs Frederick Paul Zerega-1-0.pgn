@@ -1,0 +1,15 @@
+[Event "Blindfold simul, 2b"]
+[Site "USA Brooklyn, NY (Brooklyn Heights Chess Club)"]
+[Date "1897.03.18"]
+[EventDate "1897.03.18"]
+[Round "?"]
+[Result "1-0"]
+[White "William Ewart Napier"]
+[Black "Frederick Paul Zerega"]
+[ECO "C51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Brooklyn Daily Eagle, 1897.03.25, p10"]
+[PlyCount "29"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.O-O Nf6 7.d4 exd4 8.cxd4 Na5 9.dxc5 Nxc4 10.e5 Ng4 11.Qd4 d5 12.exd6 Qf6 13.Re1+ Kf8 14.d7 Qxd4 15.Re8# 1-0

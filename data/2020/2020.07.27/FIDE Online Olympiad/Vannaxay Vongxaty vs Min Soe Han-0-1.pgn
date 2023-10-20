@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.27"]
+[EventDate "2020.07.25"]
+[Round "7"]
+[Result "0-1"]
+[White "Vannaxay Vongxaty"]
+[Black "Min Soe Han"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "2270"]
+[PlyCount "64"]
+
+1. e4 Nc6 2. f4 e5 3. Nf3 Nf6 4. Nc3 exf4 5. Bc4 Bb4 6. d3 d5 7. exd5 Nxd5 8. Bxd5 Qxd5 9. O-O Bxc3 10. bxc3 O-O 11. Bxf4 Bg4 12. h3 Bh5 13. Bxc7 Rac8 14. Bf4 Qc5+ 15. Kh1 Qxc3 16. Qb1 b6 17. Qb5 Bxf3 18. Rxf3 Qxa1+ 19. Kh2 Nd4 20. Qg5 Nxf3+ 21. gxf3 Rxc2+ 22. Kg3 Qg1+ 23. Kh4 Qxg5+ 24. Bxg5 Rxa2 25. Be7 Rg2 26. d4 Re8 27. Bd6 Re6 28. Bf4 Rf6 29. Bg5 Rxf3 30. d5 f6 31. Bc1 g5+ 32. Kh5 Rxh3# 0-1

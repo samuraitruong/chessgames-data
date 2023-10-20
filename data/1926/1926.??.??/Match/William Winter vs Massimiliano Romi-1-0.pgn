@@ -2,14 +2,13 @@
 [Site "Paris FRA"]
 [Date "1926.??.??"]
 [EventDate "?"]
-[Round "2"]
+[Round "?"]
 [Result "1-0"]
 [White "William Winter"]
 [Black "Massimiliano Romi"]
-[ECO "E16"]
+[ECO "A14"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "31"]
-[Source "Glasgow Herald 24.4.26"]
+[PlyCount "91"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 c5 6. d5 exd5 7. Nh4 Na6 8. cxd5 g6 9. Nc3 Bg7 10. Nb5 d6 11. Bf4 Bf8 12. Qa4 Qd7 13. Bh3 Qxh3 14. Nxd6+ Ke7 15. Nxb7 Nb4 16. Bd6# 1-0
+1. Nf3 Nf6 2. c4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O d6 6. d4 Nbd7 7. Nc3 Ne4 8. Qc2 Nxc3 9. Qxc3 Be7 10. Qc2 Rb8 11. e4 O-O 12. Be3 h6 13. Rad1 Qe8 14. h3 f5 15. exf5 exf5 16. d5 Qh5 17. Nd4 Rf7 18. Ne6 g5 19. g4 Qg6 20. Nd4 Nf8 21. Nxf5 Bc8 22. Be4 Bxf5 23. Bxf5 Qg7 24. Bd4 Bf6 25. Bxf6 Qxf6 26. Rde1 Re7 27. Re2 Rbe8 28. Rfe1 Rxe2 29. Rxe2 Rxe2 30. Qxe2 Kf7 31. Kg2 a5 32. Qf3 Kg7 33. Qc3 Qxc3 34. bxc3 Kf6 35. Kg3 h5 36. f4 hxg4 37. hxg4 a4 38. a3 gxf4+ 39. Kxf4 Kf7 40. g5 Kg7 41. Kg4 Kf7 42. Kh5 Kg7 43. g6 Kf6 44. Kh6 Nxg6 45. Bxg6 Ke5 46. Be8 1-0

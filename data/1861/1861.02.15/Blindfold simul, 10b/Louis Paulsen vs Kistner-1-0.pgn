@@ -1,0 +1,15 @@
+[Event "Blindfold simul, 10b"]
+[Site "Hameln GER"]
+[Date "1861.02.15"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Louis Paulsen"]
+[Black "Kistner"]
+[ECO "C40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Sonntags-Blatter fuer Schach-Freunde, 1861.09.01"]
+[PlyCount "39"]
+
+1.e4 e5 2.Nf3 Qf6 3.Bc4 c6 4.O-O Bc5 5.d4 exd4 6.e5 Qd8 7.c3 d5 8.exd6 dxc3 9.Nxc3 Bf5 10.Qb3 Qd7 11.Ne5 Qc8 12.Bxf7+ Kf8 13.Bxg8 Qe8 14.Bg5 Bxd6 15.Rae1 Rxg8 16.Nc4 Qd7 17.Nxd6 g6 18.Bh6+ Rg7 19.Qxb7 Qxb7 20.Re8# 1-0

@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.27"]
+[EventDate "2020.07.25"]
+[Round "9"]
+[Result "1-0"]
+[White "Samantha Aponte"]
+[Black "Kiegel George"]
+[ECO "C40"]
+[WhiteElo "1087"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Nf6 4. Nc3 Nc6 5. dxc6 bxc6 6. Nxe5 Bd6 7. Nf3 O-O 8. Bc4 Re8+ 9. Be2 Ba6 10. d3 c5 11. O-O Qe7 12. Re1 Nh5 13. Nd5 c6 14. Nxe7+ Bxe7 15. d4 Red8 16. Bxa6 cxd4 17. Rxe7 Nf6 18. Qd3 h5 19. Bg5 Rab8 20. Bxf6 Rxb2 21. Ng5 Kh8 22. Qh7# 1-0

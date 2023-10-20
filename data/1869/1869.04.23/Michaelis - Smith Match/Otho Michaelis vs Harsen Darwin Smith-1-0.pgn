@@ -1,0 +1,15 @@
+[Event "Michaelis - Smith Match"]
+[Site "Jackson, MI USA (Young Mens’ Association)"]
+[Date "1869.04.23"]
+[EventDate "1869.03.16"]
+[Round "10"]
+[Result "1-0"]
+[White "Otho Michaelis"]
+[Black "Harsen Darwin Smith"]
+[ECO "C56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Detroit Free Press, 1869.04.24, p1"]
+[PlyCount "25"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5 7.Bxd5 Qxd5 8.Nc3 Qf5 9.Nxe4 Be6 10.Nxd4 Nxd4 11.Qxd4 Rd8 12.Qc4 Bxc4 13.Nf6# 1-0

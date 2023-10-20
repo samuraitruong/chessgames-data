@@ -2,12 +2,14 @@
 [Site "Paris (Cafe de la Regence) FRA"]
 [Date "1864.10.??"]
 [EventDate "1864.??.??"]
-[Round "6"]
+[Round "8"]
+[Result "1-0"]
 [White "Ignatz von Kolisch"]
 [Black "Samuel Rosenthal"]
-[Result "1-0"]
 [ECO "C33"]
-[Source "Le Palamede Francais, Nov 1864, v1, pp114-115"] 
-[PlyCount "44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Le Palamede Francais, Nov 1864, v1, p116"]
+[PlyCount "31"]
 
-1.e4 e5 2.f4 exf4 3.Bc4 Ne7 4.Nc3 c6 5.Qe2 g5 6.h4 Ng6 7.d4 Nxh4 8.Rxh4 gxh4 9.Bxf4 Bg7 10.Bd6 Qg5 11.Nf3 Qh6 12.e5 b5 13.Bb3 Ba6 14.Ne4 b4 15.Qf2 Qf4 16.Neg5 f6 17.Nf7 Rg8 18.e6 Qe4+ 19.Kd2 Qg6 20.Re1 Bh6+ 21.Kd1 Be2+ 22.Rxe2 Na6 1-0
+1.e4 e5 2.f4 exf4 3.Bc4 Ne7 4.Nc3 d6 5.d4 g5 6.h4 Ng6 7.h5 Ne7 8.g3 fxg3 9.Bxg5 Rg8 10.Nd5 Nxd5 11.Bxd8 Ne3 12.Bxf7+ Kxd8 13.Qe2 g2 14.Rh2 Rg3 15.Qf2 Nf1 16.Rxg2 1-0

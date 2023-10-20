@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.01"]
+[EventDate "2020.07.31"]
+[Round "5"]
+[Result "1-0"]
+[White "Ali Khan Salman"]
+[Black "Aram Chekh Adm Khedr"]
+[ECO "D02"]
+[WhiteElo "1687"]
+[BlackElo "2146"]
+[PlyCount "63"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c3 Nc6 5. Nd2 Qb6 6. Qb3 c4 7. Qc2 g6 8. b3 Bf5 9. Qc1 cxb3 10. axb3 Rc8 11. Qb2 Nh5 12. Bg5 h6 13. Bh4 g5 14. Be2 Nf6 15. Bg3 h5 16. h4 g4 17. Bd1 Bg7 18. Ne2 Ne4 19. Nxe4 Bxe4 20. O-O e6 21. Bc2 Bxc2 22. Qxc2 O-O 23. Rfd1 Bh6 24. e4 Ne7 25. exd5 Nxd5 26. c4 Ne7 27. Nf4 Bxf4 28. Bxf4 Nf5 29. d5 Nxh4 30. Qc3 Ng6 31. Bh6 exd5 32. Qg7# 1-0

@@ -1,0 +1,17 @@
+[Event "Casual game"]
+[Site "London ENG"]
+[Date "1840.12.09"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Louis Charles Mahe De La Bourdonnais"]
+[Black "Marmaduke Wyvill"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Bell’s Life in London, 1840.12.27, p.3"]
+[PlyCount "71"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w KQkq - 0 1"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 g5 5.Nc3 Bg7 6.d4 d6 7.Nf3 Qh5 8.Nd5 Kd8 9.h4 c6 10.Nc3 h6 11.Kf2 Bg4 12.hxg5 Bxf3 13.gxf3 Qxg5 14.Ne2 Nd7 15. Bxf4 Qf6 16.Be3 Ne7 17.f4 Kc7 18.Ng3 Rad8 19.Nh5 Qg6 20.Rg1 Qxe4 21.Rxg7 Nf5 22.Rg3 Nxg3 23.Nxg3 Qe7 24.d5 Rde8 25.Nf5 Qe4 26.dxc6 bxc6 27.Qxd6+ Kd8 28.Bd3 Qh1 29.Qb4 Rhg8 30.Qa5+ Nb6 31.Bxb6+ axb6 32.Qxb6+ Kd7 33.Qb7+ Kd8 34.Qb8+ Kd7 35.Qd6+ Kc8 36.Ba6# 1-0

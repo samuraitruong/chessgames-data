@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.07.26"]
+[EventDate "2020.07.25"]
+[Round "5"]
+[Result "0-1"]
+[White "Rania Alsalti"]
+[Black "Maya Jalloul"]
+[ECO "B07"]
+[WhiteElo "1287"]
+[BlackElo "1876"]
+[PlyCount "46"]
+
+1. d4 Nf6 2. Nc3 d6 3. e4 g6 4. Bc4 Bg7 5. Bf4 O-O 6. Nf3 Nbd7 7. O-O c5 8. d5 a6 9. Re1 b5 10. Be2 b4 11. Na4 Nxe4 12. Bd3 Nef6 13. Ng5 h6 14. Ne4 Nxd5 15. Qd2 Nxf4 16. Qxf4 Ne5 17. b3 Nxd3 18. cxd3 Bxa1 19. Rxa1 Kg7 20. Qf3 e5 21. Nexc5 Rb8 22. Qe3 Qe7 23. d4 dxc5 0-1

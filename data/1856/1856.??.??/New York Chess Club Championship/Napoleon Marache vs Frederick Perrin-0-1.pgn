@@ -1,0 +1,15 @@
+[Event "New York Chess Club Championship"]
+[Site "New York, NY USA"]
+[Date "1856.??.??"]
+[EventDate "?"]
+[Round "3.6"]
+[Result "0-1"]
+[White "Napoleon Marache"]
+[Black "Frederick Perrin"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "New York Clipper, 1856.09.20, p174"]
+[PlyCount "42"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd1 e6 5.Bd3 Bc5 6.Nf3 Nge7 7.O-O d5 8.Bf4 Ng6 9.Bg3 dxe4 10.Bxe4 Qxd1 11.Rxd1 f5 12.Bxc6+ bxc6 13.Ne5 f4 14.Nxg6 fxg3 15.hxg3 hxg6 16.Nc3 O-O 17.Ne4 Be7 18.f3 Ba6 19.Kf2 Rad8 20.Rh1 Rd4 21.Rh3 Rxe4 0-1

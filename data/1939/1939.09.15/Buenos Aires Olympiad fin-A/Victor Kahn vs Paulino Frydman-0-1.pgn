@@ -1,0 +1,15 @@
+[Event "Buenos Aires Olympiad fin-A"]
+[Site "Buenos Aires ARG"]
+[Date "1939.09.15"]
+[EventDate "1939.09.01"]
+[Round "13"]
+[Result "0-1"]
+[White "Victor Kahn"]
+[Black "Paulino Frydman"]
+[ECO "D15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Olimpbase"]
+[PlyCount "42"]
+
+1.d4 Nf6 2.c4 c6 3.Nc3 d5 4.Nf3 g6 5.e3 Bg7 6.Qb3 O-O 7.Bd2 e6 8.Bd3 Nbd7 9.cxd5 exd5 10.O-O Re8 11.Rfc1 Ne4 12.Be1 f5 13.Na4 Qf6 14.Nd2 Bf8 15.Nxe4 fxe4 16.Bf1 Qg5 17.Bb4 Nf6 18.Qa3 Ng4 19.Bd6 Qf6 20.Bxf8 Qxf2+ 21.Kh1 Rxf8 0-1

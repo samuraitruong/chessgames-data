@@ -1,0 +1,14 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.01"]
+[EventDate "2020.07.31"]
+[Round "6"]
+[Result "0-1"]
+[White "Ahmed Nihaya"]
+[Black "Azahari Siti Nur Fatimah Hj"]
+[ECO "C45"]
+[WhiteElo "1126"]
+[BlackElo "1927"]
+[PlyCount "28"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bf4 Nxe4 7. Qe2 Qe7 8. Ndb5 O-O 9. O-O-O Bxc3 10. bxc3 a6 11. f3 axb5 12. fxe4 Rxa2 13. Qxb5 Qxe4 14. Bg5 Qxc2# 0-1
