@@ -1,0 +1,14 @@
+[Event "Brasschaat Open"]
+[Site "Brasschaat BEL"]
+[Date "2017.08.23"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Wesley Carmans"]
+[Black "Van Elven, Erik"]
+[ECO "D00"]
+[WhiteElo "1753"]
+[BlackElo "1912"]
+[PlyCount "46"]
+
+1.d4 d5 2.Bf4 e6 3.e3 Nf6 4.Nd2 Bd6 5.Bg3 O-O 6.Bd3 b6 7.Qe2 Bb7 8.e4 dxe4 9.Nxe4 Be7 10.c3 Nbd7 11.h4 c5 12.Nf3 Re8 13.O-O-O Nxe4 14.Bxe4 Bxe4 15.Qxe4 Nf6 16.Qe2 Qc8 17.Kb1 c4 18.Bf4 Nd5 19.Bc1 b5 20.Ng5 Nf6 21.h5 b4 22.Ne4 bxc3 23.bxc3 Qb7+ 0-1

@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1851.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Bernhard Horwitz"]
+[Black "NN"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Chess Player, vol.i no.22, 1851.12.13, p.171"]
+[PlyCount "34"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Bc4 gxf3 6. Qxf3 Bh6 7. d4 Nc6 8. c3 d6 9. g3 Na5 10. Bd3 fxg3 11. O-O Qe7 12. Bxh6 Nxh6 13. Qh5 Ng4 14. Qxa5 Qxh4 15. Qa4+ Bd7 16. Qc2 Qh2+ 17. Qxh2 gxh2+ 0-1

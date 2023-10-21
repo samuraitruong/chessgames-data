@@ -1,0 +1,15 @@
+[Event "GER Pyramid email"]
+[Site "GER email"]
+[Date "2005.07.27"]
+[EventDate "2005.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Dirk Langschmidt"]
+[Black "Ralf Bergerhoff"]
+[ECO "C02"]
+[WhiteElo "1942"]
+[BlackElo "2454"]
+[Source "ChessBase"]
+[PlyCount "42"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Nh6 7. b4 cxd4 8. Bxh6 gxh6 9. cxd4 Bd7 10. Nc3 Nxb4 11. axb4 Bxb4 12. Qb3 Rc8 13. Rc1 Qa5 14. Kd2 O-O 15. Bd3 Rc7 16. Ng1 f6 17. f4 fxe5 18. fxe5 Ba4 19. Qb2 Qb6 20. Ke3 Qxd4+ 21. Kxd4 Bc5# 0-1

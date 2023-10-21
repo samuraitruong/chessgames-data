@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1859.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Ernst Falkbeer"]
+[Black "NN"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "(London) Sunday Times, 1859.07.24"]
+[PlyCount "60"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. d4 d6 6. h4 g4 7. Ng5 Nh6 8. Bxf4 c6 9. Qd3 Qf6 10. Be3 d5 11. exd5 Qg6 12. Qb3 O-O 13. h5 Qd6 14. O-O-O b5 15. Bd3 Nf5 16. h6 Bxh6 17. Bxf5 Bxf5 18. Rdf1 Bxg5 19. Bxg5 Qg6 20. Bd2 h5 21. Rf4 Be4 22. Rxe4 Qxe4 23. Rxh5 Qxg2 24. Qe3 Qf1+ 25. Be1 Qf6 26. Bh4 Qf1+ 27. Kd2 Qg2+ 28. Kc3 Qf3 29. Qxf3 gxf3 30. Bf6 1-0

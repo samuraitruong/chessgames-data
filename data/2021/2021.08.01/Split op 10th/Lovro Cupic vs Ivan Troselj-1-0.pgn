@@ -1,0 +1,14 @@
+[Event "Split op 10th"]
+[Site "Split"]
+[Date "2021.08.01"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Lovro Cupic"]
+[Black "Ivan Troselj"]
+[ECO "B12"]
+[WhiteElo "2271"]
+[BlackElo "2030"]
+[PlyCount "46"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. c4 Bg4 6. dxc5 dxc4 7. Qa4 Bxf3 8. gxf3 e6 9. Be3 Qa5+ 10. Qxa5 Nxa5 11. Nd2 Rc8 12. Ne4 f5 13. Nd6+ Bxd6 14. cxd6 b6 15. O-O-O Kd8 16. Rg1 g6 17. Kb1 Nc6 18. Bxc4 Nxe5 19. Bxe6 Nf6 20. Bd4 Re8 21. Bxc8 Kxc8 22. Rge1 Ned7 23. Bxf6 1-0
