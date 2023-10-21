@@ -1,0 +1,14 @@
+[Event "Vienna Open"]
+[Site "Vienna AUT"]
+[Date "1990.10.28"]
+[EventDate "1990.10.26"]
+[Round "3"]
+[Result "0-1"]
+[White "Fritz Haider"]
+[Black "Harald Steiner"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. g4 e5 2. d3 d5 3. Bg2 c6 4. e4 dxe4 5. Bxe4 Nf6 6. Bf3 Bc5 7. g5 Nd5 8. Qe2 O-O 9. Bxd5 cxd5 10. Nc3 Nc6 11. a3 Nd4 12. Qd1 e4 13. dxe4 Re8 14. f3 dxe4 15. f4 Nf3+ 16. Ke2 Bg4 17. Qxd8 Nxg1+ 18. Kf1 Bh3+ 19. Ke1 Raxd8 20. Ne2 Nf3# 0-1
