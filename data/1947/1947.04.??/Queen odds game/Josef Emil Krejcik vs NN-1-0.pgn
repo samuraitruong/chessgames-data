@@ -1,0 +1,18 @@
+[Event "Queen odds game"]
+[Site "Cafe Jagerzeile AUT"]
+[Date "1947.04.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Josef Emil Krejcik"]
+[Black "NN"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+[Source "Krejcik, ’Mien Abshied vom Schach’ pp.24-25
+// Winter ’Chess Explorations’ (1996) p.58"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNB1KBNR w KQkq - 0 1"]
+
+1. e4 e6 2. d4 h6 3. Nc3 a6 4. Nf3 g5 5. Bc4 g4 6. Ne5 f5 7. exf5 exf5 8. Bf7+ Ke7 9. Nd5+ Kd6 10. Nc4+ Kc6 11. Nb4+ Kb5 12. a4+ Kxb4 13. Bd2# 1-0

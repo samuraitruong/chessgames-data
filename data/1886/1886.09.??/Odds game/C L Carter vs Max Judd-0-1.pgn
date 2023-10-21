@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "St. Louis, MO USA"]
+[Date "1886.09.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "C L Carter"]
+[Black "Max Judd"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "St Louis Globe Democrat, 1886.09.25, p.16"]
+[PlyCount "40"]
+[SetUp "1"]
+[FEN "1nbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQk - 0 1"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 Qe7 4. Bc4 b5 5. Bxb5 c6 6. Bc4 d5 7. exd5 e4 8. O-O f5 9. Re1 Nf6 10. dxc6 Kd8 11. Ng5 Rf8 12. Nd5 Nxd5 13. Bxd5 Qxg5 14. d4 f4 15. Bxe4 Bd6 16. d5 Qh4 17. f3 Rf6 18. Qd2 Bc5+ 19. Kh1 Qxh2+ 20. Kxh2 Rh6# 0-1

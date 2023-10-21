@@ -1,0 +1,15 @@
+[Event "Simul"]
+[Site "Huddersfield ENG"]
+[Date "1913.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Henry Atkins"]
+[ECO "C37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Lowestoft Journal, 1913.08.02, p.3"]
+[PlyCount "40"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Qh4+ 6. Kf1 Nc6 7. Nxf7 d5 8. Bxd5 Nf6 9. Nxh8 Ne5 10. c3 f3 11. d4 Nh5 12. dxe5 Ng3+ 13. Ke1 fxg2 14. Rg1 Nxe4+ 15. Ke2 Qf2+ 16. Kd3 Nc5+ 17. Kc4 b5+ 18. Kb4 a5+ 19. Ka3 Nb3+ 20. Kxb3 a4# 0-1
