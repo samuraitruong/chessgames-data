@@ -1,0 +1,14 @@
+[Event "CAN-op"]
+[Site "Toronto CAN"]
+[Date "1968.08.29"]
+[EventDate "1968.08.24"]
+[Round "7"]
+[Result "1-0"]
+[White "Alexander Strojevs"]
+[Black "Robert Story"]
+[ECO "C10"]
+[WhiteElo "1751"]
+[BlackElo "1738"]
+[PlyCount "46"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. f4 Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6 8. Bd3 c6 9. c3 Bd6 10. Nf3 h6 11. Ne5 Qc7 12. Bd2 Qe7 13. O-O Bd7 14. Qe2 O-O-O 15. b4 b5 16. a4 a6 17. axb5 cxb5 18. Rxa6 Bxe5 19. fxe5 Nd5 20. Bxb5 Bxb5 21. Qxb5 Nc7 22. Qc6 Qd7 23. Ra8# 1-0

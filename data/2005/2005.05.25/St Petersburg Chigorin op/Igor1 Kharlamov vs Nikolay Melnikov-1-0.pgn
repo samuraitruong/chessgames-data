@@ -1,0 +1,14 @@
+[Event "St Petersburg Chigorin op"]
+[Site "St. Petersburg RUS"]
+[Date "2005.05.25"]
+[EventDate "2005.05.16"]
+[Round "9"]
+[Result "1-0"]
+[White "Igor1 Kharlamov"]
+[Black "Nikolay Melnikov"]
+[ECO "B21"]
+[WhiteElo "1935"]
+[BlackElo "1847"]
+[PlyCount "44"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 Nc6 4. c3 dxc3 5. Nxc3 e5 6. Bc4 d6 7. O-O Be6 8. Bxe6 fxe6 9. Ng5 Qd7 10. f4 O-O-O 11. f5 exf5 12. exf5 Nd4 13. Be3 h6 14. Ne6 Nxe6 15. fxe6 Qxe6 16. Bxa7 Kd7 17. Nd5 Qg6 18. Qa4+ Ke6 19. Qc4 Kd7 20. Qc7+ Ke6 21. Qxd8 Kxd5 22. Rad1+ 1-0

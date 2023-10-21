@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "Manchester ENG"]
+[Date "1857.08.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Howard Staunton"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Illustrated London News, 1857.10.03, p.347"]
+[PlyCount "76"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 d6 2. Bc4 Nf6 3. d3 c6 4. Nc3 e6 5. Nge2 Be7 6. O-O a5 7. a4 Na6 8. Ng3 Nc7 9. f4 d5 10. Bb3 O-O 11. e5 Nd7 12. d4 c5 13. Be3 b6 14. dxc5 Nxc5 15. Ba2 g6 16. Nce2 Ba6 17. Rf3 Qe8 18. b3 Rd8 19. Nd4 Ne4 20. Nxe4 dxe4 21. Rf2 Bc5 22. c4 Rd7 23. Qd2 Bb7 24. Rd1 Na6 25. Bb1 Nb4 26. Qe1 Qe7 27. Rfd2 Rfd8 28. Kh1 Nd3 29. Bxd3 exd3 30. Nb5 Bb4 31. Bxb6 Rf8 32. Qg1 Bxd2 33. Bc5 Qh4 34. Bxf8 Bxf4 35. Bd6 d2 36. Nd4 Qg4 37. Rf1 d1=Q 38. Rxd1 Bxg2+ 0-1

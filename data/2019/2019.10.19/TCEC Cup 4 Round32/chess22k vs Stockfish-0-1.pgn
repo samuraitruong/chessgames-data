@@ -1,0 +1,15 @@
+[Event "TCEC Cup 4 Round32"]
+[Site "https://tcec-chess.com"]
+[Date "2019.10.19"]
+[EventDate "?"]
+[Round "1.56"]
+[Result "0-1"]
+[White "chess22k"]
+[Black "Stockfish"]
+[ECO "E64"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "TCEC"]
+[PlyCount "96"]
+
+1. c4 d6 2. g3 g6 3. d4 Bg7 4. Nc3 Nf6 5. Nf3 O-O 6. Bg2 c5 7. d5 e6 8. O-O Re8 9. dxe6 Bxe6 10. Ng5 Bxc4 11. Bxb7 Nbd7 12. Bxa8 Qxa8 13. Qxd6 h6 14. Nf3 Rxe2 15. Qf4 Bd5 16. Nxe2 Bxf3 17. Nc3 Ng4 18. h3 Be5 19. Qa4 Bd4 20. Be3 Bc6 21. Qa6 Nge5 22. Bxd4 Nf3+ 23. Kh1 Nxd4+ 24. f3 Ne5 25. Kg2 Bxf3+ 26. Kh2 Qb8 27. b3 h5 28. Qf6 Nf5 29. Ne2 Bxe2 30. Rxf5 gxf5 31. Qg5+ Kf8 32. Qh6+ Ke7 33. Qe3 Bf3 34. Re1 Be4 35. Qxc5+ Ke6 36. Rc1 f4 37. Qc8+ Qxc8 38. Rxc8 Nf3+ 39. Kg2 Ng5+ 40. Kh2 f3 41. Rc1 Bd3 42. a4 Ke5 43. b4 Kd4 44. b5 f2 45. Kg2 Ke3 46. b6 axb6 47. g4 h4 48. Rd1 0-1

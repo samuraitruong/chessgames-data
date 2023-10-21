@@ -1,0 +1,15 @@
+[Event "corr"]
+[Site "GER"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Peter Leisebein"]
+[Black "Peter Grott"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Jan Pinski, The Two Knights Defence, p.16-17"]
+[PlyCount "38"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 h6 7. Nxf7 Kxf7 8. dxc6 Bc5 9. Be2 Ne4 10. O-O Qf6 11. Bh5+ g6 12. Qf3 gxh5 13. Qxe4 Rg8 14. Kh1 Bf5 15. Qf3 Rxg2 16. Kxg2 Rg8+ 17. Kh1 e4 18. Qc3 Bg4 19. Qxf6+ Kxf6 0-1
