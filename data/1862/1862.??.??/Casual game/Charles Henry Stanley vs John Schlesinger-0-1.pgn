@@ -1,0 +1,15 @@
+[Event "Casual game"]
+[Site "New York, NY USA (Morphy Chess Rooms)"]
+[Date "1862.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Charles Henry Stanley"]
+[Black "John Schlesinger"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "New York Clipper, 1862.11.22, p252"]
+[PlyCount "40"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 h6 5.O-O Nf6 6.Be3 Bb6 7.c3 d6 8.Qd2 Bxe3 9.fxe3 a6 10.Na3 Be6 11.Bb3 Qe7 12.Bc2 O-O-O 13.b4 d5 14.Ba4 dxe4 15.Bxc6 Rxd3 16.Bxb7+ Kxb7 17.Qe2 Ng4 18.h3 Rxe3 19.Qb2 exf3 20.hxg4 Re2 0-1

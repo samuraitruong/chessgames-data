@@ -1,0 +1,17 @@
+[Event "Odds Game, Pawn and two moves"]
+[Site "Wakefield ENG"]
+[Date "1846.05.13"]
+[EventDate "1846.05.13"]
+[Round "?"]
+[Result "1-0"]
+[White "John Rhodes"]
+[Black "Pierre Charles Fournier de Saint-Amant"]
+[ECO "?"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Le Palamède, v6 n5, May 1846, pp212-213"]
+[PlyCount "101"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 -- 2.d4 e6 3.Bd3 c5 4.dxc5 Qa5+ 5.Bd2 Qxc5 6.Nc3 d6 7.Qg4 Nc6 8.Be3 Qa5 9.f4 Nf6 10.Qg3 Bd7 11.Ne2 Be7 12.a3 a6 13.O-O Qh5 14.Nd4 Ng4 15.Be2 Qc5 16.Bxg4 Nxd4 17.Qf2 Bf6 18.Rad1 e5 19.fxe5 dxe5 20.Bxd7+ Kxd7 21.Ne2 Kc6 22.Nxd4+ exd4 23.Bxd4 Bxd4 24.Qxd4 Rhf8 25.Qxc5+ Kxc5 26.Rxf8 Rxf8 27.Rd7 Rg8 28.Rxb7 Kd4 29.Rb4+ Ke3 30.c3 g5 31.Rd4 g4 32.e5 h5 33.e6 Re8 34.Rd6 h4 35.c4 Ke2 36.Rd4 g3 37.Rxh4 Rxe6 38.Rd4 Ke3 39.Rd5 Rc6 40.b3 Rb6 41.b4 gxh2+ 42.Kxh2 Kf2 43.Rf5+ Ke2 44.g4 Rh6+ 45.Kg3 Rd6 46.Re5+ Kf1 47.Re3 Rg6 48.Kh4 Kf2 49.Re5 Kf3 50.Kh5 Rc6 51.c5 1-0

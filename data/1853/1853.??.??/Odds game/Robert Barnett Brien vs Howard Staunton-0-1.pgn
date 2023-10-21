@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "ENG"]
+[Date "1853.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Robert Barnett Brien"]
+[Black "Howard Staunton"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.i (N.S.) n.4 (Apr 1853), p.108"]
+[PlyCount "42"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 -- 2. d4 e6 3. c4 c5 4. d5 d6 5. Nc3 g6 6. h4 Bg7 7. h5 Bxc3+ 8. bxc3 Qf6 9. Bd2 Ne7 10. hxg6 Nxg6 11. Qh5 Na6 12. f4 Bd7 13. Bd3 O-O-O 14. dxe6 Bxe6 15. f5 Ne5 16. Qe2 Nxd3+ 17. Qxd3 Nb4 18. Qb1 Bxf5 19. exf5 Qg7 20. Ne2 Rde8 21. Kd1 Rxe2 0-1

@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "Brussels BEL"]
+[Date "1853.08.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "L de Rives"]
+[Black "Howard Staunton"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.i (N.S.) n.11 (Nov 1853), p.349"]
+[PlyCount "52"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"]
+
+2. d4 Nc6 3. d5 Ne5 4. f4 Nf7 5. c4 e5 6. Nf3 Bb4+ 7. Nc3 Bxc3+ 8. bxc3 d6 9. Bd3 Nf6 10. O-O O-O 11. fxe5 dxe5 12. c5 Bg4 13. Qb3 Rb8 14. Be3 Kh8 15. a4 Bxf3 16. Rxf3 Ng4 17. Raf1 Nxe3 18. Rxe3 Qe7 19. Qb4 Ng5 20. d6 cxd6 21. cxd6 Rxf1+ 22. Bxf1 Qf6 23. Qb1 Rf8 24. Qe1 Qxd6 25. Bc4 Qc5 26. Bd5 Rf3 0-1

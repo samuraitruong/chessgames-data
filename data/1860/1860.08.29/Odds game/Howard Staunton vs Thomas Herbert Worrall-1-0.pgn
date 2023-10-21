@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "Cambridge ENG"]
+[Date "1860.08.29"]
+[EventDate "1860.08.29"]
+[Round "6"]
+[Result "1-0"]
+[White "Howard Staunton"]
+[Black "Thomas Herbert Worrall"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Association, Report of the Annual Meeting, 1860, p33"]
+[PlyCount "42"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1.e4 b6 2.d4 Bb7 3.Bd3 e6 4.Nf3 h6 5.O-O d6 6.c4 Nd7 7.Be3 Qf6 8.Qc2 Ne7 9.b4 Ng6 10.Rab1 Nf4 11.Bxf4 Qxf4 12.c5 c6 13.d5 exd5 14.exd5 dxc5 15. Rfe1+ Kd8 16.dxc6 Bxc6 17.Be4 Rc8 18.Rbd1 Be7 19.Qd3 Qc7 20.Bxc6 Qxc6 21. Ne5 1-0

@@ -1,0 +1,15 @@
+[Event "Kling Simul, 4b Cambridge"]
+[Site "Cambridge ENG"]
+[Date "1860.08.31"]
+[EventDate "1860.08.31"]
+[Round "?"]
+[Result "1-0"]
+[White "Edward Walker"]
+[Black "Josef Kling"]
+[ECO "C38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Association, Report of the Annual Meeting, 1860, p25"]
+[PlyCount "38"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.O-O c5 6.c3 Nc6 7.d4 cxd4 8.cxd4 h6 9.Nc3 Nge7 10.Nb5 O-O 11.Nd6 Qb6 12.e5 Nxe5 13.Nxe5 Qxd6 14.Kh1 Bxe5 15. dxe5 Qxe5 16.Re1 Qf6 17.Bd2 Nc6 18.Bc3 Qd8 19.Qd3 1-0

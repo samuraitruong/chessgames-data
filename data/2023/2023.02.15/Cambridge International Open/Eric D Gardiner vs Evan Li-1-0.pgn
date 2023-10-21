@@ -1,0 +1,14 @@
+[Event "Cambridge International Open"]
+[Site "Cambridge ENG"]
+[Date "2023.02.15"]
+[EventDate "2023.02.15"]
+[Round "2.33"]
+[Result "1-0"]
+[White "Eric D Gardiner"]
+[Black "Evan Li"]
+[ECO "B22"]
+[WhiteElo "1883"]
+[BlackElo "1394"]
+[PlyCount "48"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 Nf6 5. Nc3 g6 6. Nf3 Nc6 7. d5 Nb8 8. Bb5+ Bd7 9. Bd3 Bg7 10. O-O O-O 11. Be3 Bg4 12. h3 Bxf3 13. Qxf3 Nbd7 14. Qe2 e6 15. dxe6 fxe6 16. Bc4 Qe7 17. Rad1 Rac8 18. Bg5 Ne5 19. Bb3 Nc6 20. Rd2 Na5 21. Rfd1 Nxb3 22. axb3 Rfd8 23. Nb5 Rc6 24. e5 1-0

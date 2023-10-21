@@ -1,0 +1,15 @@
+[Event "Casual game"]
+[Site "St. Petersburg RUS"]
+[Date "1878.07.23"]
+[EventDate "1878.07.23"]
+[Round "?"]
+[Result "1-0"]
+[White "Eugen Schmidt"]
+[Black "Mikhail Chigorin"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Shakhmatny Listok, n1, January 1879, p12"]
+[PlyCount "36"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Ne7 9.Re1 Bb7 10.Ng5 Nxg5 11.Bxg5 Qd7 12.Nc3 Rd8 13.Qf3 c5 14.Ne4 Qf5 15. Nd6+ Rxd6 16.exd6 Qxf3 17.gxf3 f6 18.dxe7 1-0

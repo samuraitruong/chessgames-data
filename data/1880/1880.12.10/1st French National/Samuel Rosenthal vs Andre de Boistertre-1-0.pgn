@@ -1,0 +1,15 @@
+[Event "1st French National"]
+[Site "Paris FRA"]
+[Date "1880.12.10"]
+[EventDate "1880.12.03"]
+[Round "?"]
+[Result "1-0"]
+[White "Samuel Rosenthal"]
+[Black "Andre de Boistertre"]
+[ECO "C48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "L’Échiquier d’Aix, v3 n10, 1880, p186"]
+[PlyCount "24"]
+
+1.e4 e5 2.Nc3 Nc6 3.Bb5 Bc5 4.Nf3 Nf6 5.Nxe5 Nxe5 6.d4 Bb4 7.dxe5 Nxe4 8. Qd4 Nxc3 9.bxc3 Be7 10.O-O O-O 11.Bd3 b6 12.Qe4 1-0

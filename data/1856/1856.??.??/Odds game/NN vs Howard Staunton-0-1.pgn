@@ -6,12 +6,12 @@
 [Result "0-1"]
 [White "NN"]
 [Black "Howard Staunton"]
-[ECO "C02"]
+[ECO "000"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[Source "Illustrated London News, 1856.09.27, p.333"]
-[PlyCount "46"]
+[Source "Illustrated London News, 1856.11.01, p.460"]
+[PlyCount "68"]
 [SetUp "1"]
 [FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
 
-1. e4 e6 2. d4 d5 3. e5 c5 4. Bd3 g6 5. c3 Nc6 6. Be3 cxd4 7. cxd4 Nb4 8. Ne2 Nxd3+ 9. Qxd3 Bd7 10. Nbc3 Ne7 11. Bg5 Qb6 12. O-O Nf5 13. g4 Ne7 14. Nf4 O-O-O 15. Bxe7 Bxe7 16. Nfxd5 exd5 17. Nxd5 Qe6 18. Nxe7+ Qxe7 19. d5 Qxe5 20. Rfe1 Qd6 21. Re7 Qxe7 22. Qg3 Qg5 23. Rd1 Bc6 0-1
+1. e4 d6 2. d4 Nf6 3. Nc3 Nc6 4. Bb5 Bd7 5. f4 e5 6. Nf3 exd4 7. Nxd4 Nxd4 8. Bxd7+ Qxd7 9. Qxd4 Be7 10. O-O O-O 11. f5 b5 12. Bg5 c5 13. Qd3 c4 14. Qf3 Qb7 15. Rad1 Rad8 16. Ne2 Nxe4 17. Bxe7 Qxe7 18. Nd4 d5 19. Ne6 Ng5 20. Nxg5 Qxg5 21. Rxd5 a6 22. Rxd8 Qxd8 23. Rd1 Qb6+ 24. Kh1 Qf6 25. Qd5+ Kh8 26. Qc5 h6 27. g4 Re8 28. c3 Qh4 29. Qd4 Re2 30. Qd8+ Qxd8 31. Rxd8+ Kh7 32. Ra8 Rxb2 33. Rxa6 b4 34. cxb4 c3 0-1

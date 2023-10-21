@@ -1,0 +1,17 @@
+[Event "Odds m"]
+[Site "London ENG"]
+[Date "1856.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Howard Staunton"]
+[Black "Thomas Carroll"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Illustrated London News, 1856.12.13, p.605"]
+[PlyCount "70"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. d4 Nc6 3. d5 Nce7 4. Nf3 d6 5. h3 Nf6 6. Bd3 Ng6 7. O-O h6 8. Be3 Be7 9. a4 O-O 10. Ra3 Nh7 11. c4 Ng5 12. Nh2 f5 13. exf5 Bxf5 14. Bxf5 Rxf5 15. Qg4 Qf8 16. h4 Nxh4 17. f4 h5 18. Qg3 Ne4 19. Qe1 exf4 20. Bd4 Ng3 21. Rf2 Bf6 22. Bxf6 Qxf6 23. a5 Re5 24. Qd2 Rae8 25. Rxg3 Re1+ 26. Nf1 R8e4 27. Rh3 Qg5 28. b4 Nf5 29. c5 Ng3 30. cxd6 cxd6 31. b5 R4e2 32. Qxf4 Qxf4 33. Rxf4 Rxf1+ 34. Rxf1 Nxf1 35. Kxf1 Re5 0-1

@@ -1,0 +1,14 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2023.03.29"]
+[EventDate "2023.03.29"]
+[Round "1.84"]
+[Result "1-0"]
+[White "Rajaa Karthik"]
+[Black "David Mehlhorn"]
+[ECO "D02"]
+[WhiteElo "2302"]
+[BlackElo "2004"]
+[PlyCount "54"]
+
+1. d4 d5 2. Nf3 Nf6 3. c3 e6 4. Bf4 Bd6 5. e3 O-O 6. Nbd2 c5 7. Bg3 Qc7 8. dxc5 Bxg3 9. hxg3 Qxc5 10. Bd3 Nbd7 11. g4 e5 12. g5 e4 13. gxf6 Nxf6 14. Bc2 exf3 15. Qxf3 Qb6 16. O-O-O h6 17. Rh4 Rd8 18. g4 Qe6 19. Rg1 d4 20. cxd4 Qxa2 21. g5 hxg5 22. Rxg5 Qa1+ 23. Bb1 Ne8 24. Rh8+ Kxh8 25. Qxf7 Bf5 26. Rh5+ Bh7 27. Rxh7# 1-0

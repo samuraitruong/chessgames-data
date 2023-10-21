@@ -1,0 +1,15 @@
+[Event "NN"]
+[Site "ENG"]
+[Date "1950.01.01"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "John Roycroft"]
+[Black "NN"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Assiac, ’Delights of Chess’, p.13"]
+[PlyCount "30"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e5 4. cxd5 cxd5 5. e4 dxe4 6. Bb5+ Bd7 7. Qe2 $6 exd4 8. Nxe4 Bb4+ 9. Kd1 Qe7 10. a3 Ba5 $2 11. Bg5 Nf6 $2 12. Rc1 $1 Qxe4 13. Qxe4+ Nxe4 14. Rc8+ Bd8 15. Rxd8# 1-0

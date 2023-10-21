@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "Brussels BEL"]
+[Date "1853.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "L de Rives"]
+[Black "Howard Staunton"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Illustrated London News, 1853.09.10, p.211"]
+[PlyCount "64"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"]
+
+2. d4 Nc6 3. f4 e6 4. Nf3 d5 5. e5 Nh6 6. Bd3 Nb4 7. O-O Nxd3 8. Qxd3 c5 9. b3 Bd7 10. c4 cxd4 11. Nxd4 Bc5 12. cxd5 Nf5 13. Be3 Nxe3 14. Qxe3 Bb5 15. Rd1 O-O 16. Nc3 Bd7 17. d6 Qh4 18. Nce2 Bc6 19. Kh1 Rac8 20. Rac1 Bxd4 21. Rxd4 Rf5 22. Qg3 Qh5 23. Qe3 Rf7 24. Ng3 Qg6 25. b4 Rcf8 26. Rf1 h5 27. h3 h4 28. Ne4 Qf5 29. Ng5 Qg6 30. Qd2 Qxg5 31. fxg5 Rxf1+ 32. Kh2 R1f2 0-1

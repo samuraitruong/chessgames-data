@@ -1,0 +1,17 @@
+[Event "Odds m"]
+[Site "London ENG"]
+[Date "1860.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ignatz von Kolisch"]
+[Black "George Maude"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Era, 1860.08.19, p.14"]
+[PlyCount "34"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. Bc4 Nf6 3. f4 Bc5 4. fxe5 Nxe4 5. d4 Qh4+ 6. g3 Nxg3 7. Nf3 Qe4+ 8. Kf2 Nxh1+ 9. Kg1 Bb6 10. Bxf7+ Kf8 11. c3 d5 12. Ng5 Qg4+ 13. Qxg4 Bxg4 14. Bxd5 Nc6 15. b3 Nxd4 16. Ba3+ Ke8 17. Kxh1 Nc2 0-1

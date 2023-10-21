@@ -1,0 +1,17 @@
+[Event "Simpson’s Divan Handicap"]
+[Site "London ENG (Simpson’s Divan)"]
+[Date "1888.??.??"]
+[EventDate "1888.03.22"]
+[Round "14"]
+[Result "1-0"]
+[White "Johannes Zukertort"]
+[Black "J B Purchase"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "(London) Morning Post, 1888.04.02, p2; Chess Monthly, v9 n8, April 1888, p253 (from w19)"]
+[PlyCount "46"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.f4 d6 5.Nf3 Nh6 6.c3 Ba5 7.fxe5 Qe7 8.Qa4+ Nc6 9.d4 Bxc3+ 10.Bd2 Bxa1 11.d5 Bd7 12.dxc6 Bxc6 13.Qc2 Bxe5 14.O-O f6 15.Kh1 Nf7 16.Nh4 g6 17.Nf3 a6 18.a4 b5 19.Bxf7+ Kd7 20.Rc1 Qxf7 21.Qxc6+ Ke7 22.Nxe5 Qe8 23.Qxc7+ 1-0

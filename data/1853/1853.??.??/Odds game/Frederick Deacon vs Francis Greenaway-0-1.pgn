@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1853.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Frederick Deacon"]
+[Black "Francis Greenaway"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.i (N.S.) n.9 (Sep 1853), p.260"]
+[PlyCount "58"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"]
+
+2. d4 e6 3. Bd3 c5 4. e5 g6 5. c3 Nc6 6. Ne2 cxd4 7. cxd4 Bg7 8. Nbc3 Nge7 9. Bg5 O-O 10. Qd2 Qa5 11. h4 Nf5 12. Be4 d5 13. Bf3 Qb6 14. Rd1 Qa5 15. Rh3 Bd7 16. g4 Nfxd4 17. Nxd4 Bxe5 18. Nde2 Bxc3 19. bxc3 Ne5 20. Qe3 Nc4 21. Qd4 Bc6 22. h5 Rxf3 23. Rxf3 e5 24. Qd3 e4 25. Qd4 exf3 26. Nf4 Re8+ 27. Kf1 Qxa2 28. h6 Ne5 29. Re1 Qc4+ 0-1
