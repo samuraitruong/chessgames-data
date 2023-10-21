@@ -1,0 +1,17 @@
+[Event "Knight-odds game"]
+[Site "Kiev RUE"]
+[Date "1902.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Prince Andrey Dadian of Mingrelia"]
+[Black "Magedow"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "La Stratégie, Sept. 17, 1902, Vol. 35, #9, page 279"]
+[PlyCount "46"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h5 6.Bc4 Nh6 7.d4 f6 8.Bxf4 fxg5 9.Bxg5 Be7 10.Qd2 Nf7 11.O-O Bxg5 12.Bxf7+ Kf8 13.Bxh5+ Kg7 14.Rf7+ Kh6 15.Qd3 Kxh5 16. e5 Bxh4 17.g3 Bxg3 18.Kg2 Bh4 19.Rh1 Qg5 20.Rh7+ Rxh7 21.Qxh7+ Qh6 22.Rxh4+ Kxh4 23.Qxh6# 1-0

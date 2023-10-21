@@ -1,0 +1,15 @@
+[Event "Burlington Championship"]
+[Site "Burlington, VT USA"]
+[Date "1984.02.04"]
+[EventDate "1984"]
+[Round "1"]
+[Result "1-0"]
+[White "Alan Shaw"]
+[Black "Theodore Fink"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Shaw"]
+[PlyCount "40"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.f4 c5 6.c3 Nc6 7.Ndf3 Qb6 8.g3 cxd4 9.cxd4 Bb4+ 10.Kf2 f6 11.Kg2 O-O 12.Bd3 Be7 13.a3 Na5 14.b4 Nc4 15.Qc2 Qc6 16.Bxh7+ Kh8 17.Qg6 Rd8 18.Qh5 Nf8 19.Bg6+ Kg8 20.Bf7# 1-0

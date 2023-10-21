@@ -1,0 +1,15 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg RUE"]
+[Date "1880.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Count Aleksandr Adlerberg"]
+[Black "Prince Andrey Dadian of Mingrelia"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Vsemirnaya Illyustratsiya, Apr. 26, 1880, pg. 363"]
+[PlyCount "32"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nxd4 5.Qxd4 Ne7 6.Bg5 f6 7.Bh4 Nc6 8.Qd3 Bb4+ 9.c3 Ba5 10.Qf3 O-O 11.Bc4+ Kh8 12.Be2 Ne5 13.Qh5 g6 14.Qh6 Nf7 15.Bxf6+ Qxf6 16.Qxf8# 1-0

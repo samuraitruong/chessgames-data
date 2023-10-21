@@ -1,0 +1,15 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg RUE"]
+[Date "1880.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Prince Andrey Dadian of Mingrelia"]
+[Black "Colonel Boutourlin"]
+[ECO "B44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "La Stratégie, June 15, 1880, Vol. 13, #6, pg. 181"]
+[PlyCount "30"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 Nc6 4.Nxd4 e6 5.Nb5 Qa5+ 6.N1c3 Bb4 7.Bf4 e5 8.Bc4 a6 9.Nd6+ Bxd6 10.Qxd6 exf4 11.O-O Nh6 12.Nd5 Kd8 13.b4 Qa3 14.Rfb1 a5 15.Bb5 1-0

@@ -1,0 +1,14 @@
+[Event "Geneve op"]
+[Site "Geneva SUI"]
+[Date "2003.04.27"]
+[EventDate "2003.04.24"]
+[Round "7.19"]
+[Result "1-0"]
+[White "Isabelle Lamoureux"]
+[Black "Ventzislav Simeonov"]
+[ECO "C44"]
+[WhiteElo "2080"]
+[BlackElo "1900"]
+[PlyCount "16"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Be7 5. c3 dxc3 6. Qd5 d6 7. Qxf7+ Kd7 8. Be6# 1-0

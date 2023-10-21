@@ -1,0 +1,15 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg RUE"]
+[Date "1880.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Prince Andrey Dadian of Mingrelia"]
+[Black "Prince Matchabelli"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "La Stratégie, Nov. 15, 1880, Vol. 13, #11, pg. 342-3"]
+[PlyCount "38"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bb4+ 5.c3 dxc3 6.O-O Nge7 7.Ng5 O-O 8.Qh5 h6 9.h4 d5 10.Nxf7 Qe8 11.exd5 Rxf7 12.dxc6 Bd6 13.Nxc3 Nxc6 14.Bxh6 gxh6 15.Rae1 Ne7 16.Nd5 Qf8 17.Re3 Bd7 18.Nxe7+ Bxe7 19.Rfe1 1-0

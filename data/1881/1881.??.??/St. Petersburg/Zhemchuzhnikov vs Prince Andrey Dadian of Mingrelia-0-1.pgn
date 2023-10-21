@@ -1,0 +1,15 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg RUE"]
+[Date "1881.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Zhemchuzhnikov"]
+[Black "Prince Andrey Dadian of Mingrelia"]
+[ECO "B44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "La Stratégie, Mar. 15, 1881, Vol. 14, #3, pgs. 75-6"]
+[PlyCount "20"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nxc6 bxc6 6.Bd3 Nf6 7.Nc3 h5 8.O-O Bd6 9.h3 Ng4 10.hxg4 Bh2+ 0-1

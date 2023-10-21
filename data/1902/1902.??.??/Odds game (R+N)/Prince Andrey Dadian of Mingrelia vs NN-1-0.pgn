@@ -1,0 +1,17 @@
+[Event "Odds game (R+N)"]
+[Site "Kiev RUE"]
+[Date "1902.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Prince Andrey Dadian of Mingrelia"]
+[Black "NN"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "La Stratégie, Nov. 21, 1902, Vol. 35, #11, pg. 351"]
+[PlyCount "28"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/2BQKBNR w Kkq - 0 1"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O gxf3 6.d4 fxg2 7.Bxf7+ Kxf7 8.Rxf4+ Nf6 9.e5 Rg8 10.Qh5+ Kg7 11.exf6+ Kh8 12.Rh4 h6 13.Qxh6+ Bxh6 14.Rxh6# 1-0

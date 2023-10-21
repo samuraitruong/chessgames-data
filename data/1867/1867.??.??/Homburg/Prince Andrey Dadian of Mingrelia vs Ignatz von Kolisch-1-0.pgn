@@ -9,6 +9,7 @@
 [ECO "C37"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "45"]
+[Source "The Westminster Budget, Dec. 11, 1896, page 45"]
+[PlyCount "44"]
 
-1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6 7. e5 Qxe5 8. b3 Bh6 9. Bb2 Qxb2 10. Nc3 Qxc2 11. Rae1+ Ne7 12. Qh5 Qg6 13. Rxe7+ Kd8 14. Qe2 d6 15. Re1 Bd7 16. Rxd7+ $1 Kxd7 17. Bb5+ c6 18. Qe7+ Kc8 19. Nd5 cxd5 20. Rc1+ Nc6 21. Rxc6+ bxc6 22. Ba6+ Kb8 23. Qb7# 1-0
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Nc3 gxf3 6.Qxf3 Bh6 7.d4 Nc6 8.O-O Nxd4 9.Bxf7+ Kxf7 10.Qh5+ Kg7 11.Bxf4 Bxf4 12.Rxf4 Nh6 13.Qe5+ Kg8 14.Rf6 Ne6 15.Nd5 c6 16.Qg3+ Ng7 17.Raf1 cxd5 18.Qd6 Ne6 19.Rxe6 Nf7 20.Rg6+ hxg6 21.Qxg6+ Kf8 22.Qxf7# 1-0

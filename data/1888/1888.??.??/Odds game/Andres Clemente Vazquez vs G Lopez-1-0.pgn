@@ -1,0 +1,16 @@
+[Event "Odds game"]
+[Site "Havana CUB"]
+[Date "1888.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andres Clemente Vazquez"]
+[Black "G Lopez"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O Nf6 7. d4 exd4 8. cxd4 Bb6 9. e5 d5 10. exf6 dxc4 11. Re1+ Kf8 12. Ba3+ Kg8 13. d5 Bd7 14. dxc6 Bxc6 15. fxg7 Kxg7 16. Bb2+ f6 17. Qc1 Rf8 18. Qg5+ Kh8 19. Ne5 fxg5 20. Nf7+ Kg8 21. Nh6# 1-0

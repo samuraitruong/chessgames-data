@@ -9,9 +9,9 @@
 [ECO "000"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "53"]
 [Source "G. Walker, Chess Studies (1844), p.42"]
+[PlyCount "60"]
 [SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w KQkq - 0 1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
 
-1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Nc3 gxf3 6.O-O d6 7.Qxf3 c6 8.d4 Bh6 9.Bxf7+ Kxf7 10.Qh5+ Kg7 11.Bxf4 Bxf4 12.Rxf4 Nf6 13.Qg5+ Kf7 14.e5 dxe5 15.dxe5 Nbd7 16.Ne4 Rg8 17.Qh5+ Kg7 18.exf6+ Kh8 19.Rh4 Nf8 20.Ng5 Rxg5 21.Qxg5 Ne6 22.Qh5 Qg8 23.f7 Qg7 24.Rg4 Qf8 25.Qe5+ Ng7 26.Rxg7 Qxg7 27.f8=Q# 1-0
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Nc3 gxf3 6. Qxf3 Qf6 7. O-O Bh6 8. d4 Nc6 9. Bxf4 d6 10. Nd5 Qxd4+ 11. Kh1 Qxc4 12. Nxc7+ Kd8 13. Bxd6 Nd4 14. Qd1 Bg4 15. Qe1 Rc8 16. Nd5 Be6 17. b3 Qe2 18. Qh4+ Kd7 19. Re1 Qd2 20. Bb4 Qg5 21. Qf2 Rxc2 22. Qg1 Rc1 23. Qxd4 Rxe1+ 24. Bxe1 Bxd5 25. exd5 Bg7 26. Qa4+ Ke7 27. Bh4 Qxh4 28. Qxh4+ Nf6 29. Qb4+ Ke8 30. Qxb7 1-0
