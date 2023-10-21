@@ -1,0 +1,14 @@
+[Event "Novi Sad"]
+[Site "Novi Sad YUG"]
+[Date "1936.04.18"]
+[EventDate "1936.04.05"]
+[Round "10"]
+[Result "0-1"]
+[White "Zarko Popovic"]
+[Black "Vasilje Tomovic"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 Bf5 4.Qb3 e6 5.Qxb7 Nbd7 6.Nc3 Rb8 7.Qxa7 Bb4 8.Bf4 Ne4 9.Rc1 Ra8 10.Qxc7 Qxc7 11.Bxc7 Rxa2 12.Bf4 Rxb2 13.Bd2 Rxd2 14.Nxd2 Bxc3 15.Rc2 Bxd2+ 16.Rxd2 Nxd2 17.Kxd2 dxc4 18.f3 Bb1 0-1

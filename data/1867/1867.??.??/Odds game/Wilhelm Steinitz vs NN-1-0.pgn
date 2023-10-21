@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1867.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "NN"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Magazine, vol.iii, 1867.07.01, p.215"]
+[PlyCount "42"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Qxd5 5. Be2 Bc5 6. d4 Bb6 7. O-O g5 8. c4 Qf5 9. c5 Bxc5 10. dxc5 Qxc5+ 11. Kh1 Be6 12. Bd2 h6 13. Rc1 Qb6 14. Bc3 f6 15. Nd4 Bd5 16. Bh5+ Kf8 17. Nf5 c6 18. Qxd5 cxd5 19. Bb4+ Ne7 20. Rc8+ Qd8 21. Rxd8# 1-0

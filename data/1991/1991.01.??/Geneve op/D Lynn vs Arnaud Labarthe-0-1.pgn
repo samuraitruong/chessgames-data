@@ -1,0 +1,14 @@
+[Event "Geneve op"]
+[Site "Geneva SUI"]
+[Date "1991.01.??"]
+[EventDate "1991.01.??"]
+[Round "5"]
+[Result "0-1"]
+[White "D Lynn"]
+[Black "Arnaud Labarthe"]
+[ECO "D32"]
+[WhiteElo "2230"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4 5.Qa4+ Bd7 6.Qxd4 exd5 7.Qxd5 Nc6 8.e4 Nf6 9.Qd1 Bc5 10.Bg5 Bxf2+ 11.Kxf2 Ng4+ 12.Kg3 Qxg5 13.Nf3 Qc5 14.Qd2 Nf6 15.Rd1 O-O 16.Qg5 Qb6 17.e5 h6 18.Qc1 Nh5+ 19.Kh4 Qb4+ 20.Nd4 Nxd4 21.Kxh5 Nf5 22.g4 g6# 0-1

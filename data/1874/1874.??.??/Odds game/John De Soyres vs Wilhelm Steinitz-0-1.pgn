@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "ENG"]
+[Date "1874.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "John De Soyres"]
+[Black "Wilhelm Steinitz"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Liverpool Weekly Albion, 1874.04.25, p.7"]
+[PlyCount "46"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nf6 5. Nf3 Be7 6. O-O O-O 7. Be3 Bg4 8. Nbd2 Nc6 9. h3 Bh5 10. c3 Bd6 11. Qc2 Qd7 12. Bf5 Qe7 13. Rae1 Rae8 14. g4 Bf7 15. Bg5 Qd8 16. Bxf6 Qxf6 17. Bxh7+ Kh8 18. Qf5 Qh6 19. Ng5 Rxe1 20. Rxe1 Bg8 21. Re8 Rxe8 22. Bxg8 Nd8 23. Bxd5 Rf8 0-1

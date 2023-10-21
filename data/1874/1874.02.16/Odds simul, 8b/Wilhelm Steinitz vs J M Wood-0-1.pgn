@@ -1,0 +1,17 @@
+[Event "Odds simul, 8b"]
+[Site "Liverpool ENG"]
+[Date "1874.02.16"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Wilhelm Steinitz"]
+[Black "J M Wood"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Liverpool Weekly Albion, 1874.03.21, p.7"]
+[PlyCount "52"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O d6 6. d4 Nc6 7. c3 h6 8. g3 Bh3 9. Rf2 g4 10. Nh4 f3 11. Qb3 Qd7 12. Qxb7 Rb8 13. Qa6 Nxd4 14. cxd4 Bxd4 15. Nf5 Bxf2+ 16. Kxf2 Nf6 17. Bd3 Rb4 18. Qxa7 O-O 19. Qe3 Rxe4 20. Bxe4 Nxe4+ 21. Qxe4 Re8 22. Nxh6+ Kf8 23. Qd4 Re2+ 24. Kg1 f2+ 25. Qxf2 Rxf2 26. Kxf2 Qb5 0-1
