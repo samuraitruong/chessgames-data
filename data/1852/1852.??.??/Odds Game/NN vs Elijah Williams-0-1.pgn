@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "ENG"]
+[Date "1852.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Elijah Williams"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Chess Player, vol.ii no.36, 1852.03.20, p.94"]
+[PlyCount "34"]
+[SetUp "1"]
+[FEN "1nbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Nf6 5.Qf3 c6 6.Bb3 Bd6 7.h3 O-O 8.Ne2 Nbd7 9.O-O Ne5 10.Qxf4 Neg4 11.Qg5 Qb6+ 12.d4 Nxe4 13.Qh4 Bg3 14.Nxg3 Qxd4+ 15.Kh1 Nef2+ 16.Rxf2 Nxf2+ 17.Kh2 Qxh4 0-1

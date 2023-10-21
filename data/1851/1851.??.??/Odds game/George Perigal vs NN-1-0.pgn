@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "ENG"]
+[Date "1851.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "George Perigal"]
+[Black "NN"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Chess Player, vol.i no.22, 1851.12.13, p.171"]
+[PlyCount "40"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O Nf6 7. d4 Nxe4 8. d5 Nd6 9. dxc6 Nxc4 10. Qd3 Nd6 11. cxb7 Bxb7 12. Nxe5 O-O 13. f4 Bb6+ 14. Kh1 a5 15. Bb2 Ba6 16. c4 Rb8 17. Rf3 f6 18. Qd5+ Kh8 19. Ng6+ hxg6 20. Rh3# 1-0

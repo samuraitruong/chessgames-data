@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1843.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "John Cochrane"]
+[Black "Howard Staunton"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.iv (1843), p.130"]
+[PlyCount "60"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 d6 2.d4 Nc6 3.d5 Ne5 4.f4 Nf7 5.f5 Nf6 6.Bd3 g6 7.Nc3 c6 8.Nge2 cxd5 9.fxg6 hxg6 10.exd5 Ne5 11.Bf4 Nxd3+ 12.Qxd3 Bf5 13.Qd2 Qb6 14.O-O-O Ng4 15.h3 Ne5 16.Bxe5 dxe5 17.g4 O-O-O 18.Kb1 Bd7 19.Qg5 Qf6 20.Qe3 Kb8 21.Ne4 Qh4 22.N2g3 Bh6 23.g5 Bg7 24.Qc5 Rhe8 25.d6 Rc8 26.Qd5 Bc6 27.Qd3 Red8 28. Rhe1 exd6 29.Nxd6 Bf8 30.Qa3 Ba4 0-1

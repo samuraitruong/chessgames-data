@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "ENG"]
+[Date "1850.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Charles French Smith"]
+[Black "Duff"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.xi (1850), p.116"]
+[PlyCount "34"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w KQkq - 0 1"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O dxc3 8.e5 d6 9.Re1 Bf5 10.exd6+ Kf8 11.Ba3 Bb4 12.Qb3 Qxd6 13.Bxf7 c2 14.Bxg8 Rxg8 15.Ng5 Bg6 16.Qf7+ Bxf7 17.Nxh7# 1-0

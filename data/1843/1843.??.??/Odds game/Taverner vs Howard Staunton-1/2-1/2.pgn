@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1843.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Taverner"]
+[Black "Howard Staunton"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.iv (1843), p.134"]
+[PlyCount "62"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 Nc6 2.d4 d5 3.e5 Bf5 4.Be3 e6 5.Be2 Nb4 6.Na3 Nc6 7.Nf3 Bxa3 8.bxa3 Qe7 9.Qc1 Qd7 10.Nh4 Nge7 11.Qb2 O-O 12.g4 Bg6 13.Nxg6 Nxg6 14.h4 Nf4 15. Bf1 b6 16.h5 Qf7 17.c3 Na5 18.Qc1 c5 19.dxc5 Nc6 20.cxb6 axb6 21.Bxf4 Qxf4 22.Qxf4 Rxf4 23.Rb1 Rxa3 24.Rxb6 Rxc3 25.Kd2 Rc5 26.Ke3 Re4+ 27.Kd2 Nxe5 28.Be2 Ra5 29.Ra1 Ra3 30.Rb3 Rea4 31.Rxa3 Rxa3 1/2-1/2

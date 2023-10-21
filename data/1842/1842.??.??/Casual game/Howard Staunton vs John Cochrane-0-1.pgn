@@ -6,10 +6,10 @@
 [Result "0-1"]
 [White "Howard Staunton"]
 [Black "John Cochrane"]
-[ECO "C23"]
+[ECO "D15"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[Source "Chess Player’s Chronicle, vol.iii (1842), p.49"]
-[PlyCount "28"]
+[Source "Chess Player’s Chronicle, vol.iii (1842), p.359"]
+[PlyCount "78"]
 
-1. e4 e5 2. Bc4 Bc5 3. Qh5 Qe7 4. Nf3 Nc6 5. Nc3 Nf6 6. Qh4 O-O 7. d3 Nd4 8. Nxd4 exd4 9. Ne2 Bb4+ 10. c3 dxc3 11. bxc3 d5 12. Bb3 dxe4 13. dxe4 Qe5 14. cxb4 Qxa1 0-1
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. e4 b5 6. Bg5 b4 7. Bxf6 bxc3 8. Be5 f6 9. Bxb8 cxb2 10. Rb1 Qa5+ 11. Nd2 Rxb8 12. Bxc4 Qc3 13. Qh5+ Kd8 14. Qf3 Qxf3 15. gxf3 e6 16. Bb3 a5 17. Ke2 g6 18. Kd3 Bh6 19. Kc2 Rb4 20. Nc4 a4 21. Kc3 Bf8 22. Bc2 Rxc4+ 23. Kxc4 a3 24. f4 Kd7 25. h4 Ba6+ 26. Kc3 Be7 27. Bb3 Rb8 28. Kc2 Bb4 29. h5 g5 30. f5 exf5 31. exf5 Be2 32. Rh3 Bg4 33. Be6+ Kd6 34. Rb3 Rb5 35. f3 Bh3 36. Rh1 g4 37. fxg4 Bg2 38. Rd1 Be4+ 39. Rdd3 Bc3 0-1

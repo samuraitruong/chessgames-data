@@ -1,0 +1,15 @@
+[Event "Casual game"]
+[Site "London ENG"]
+[Date "1850.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Charles French Smith"]
+[Black "Henry Bird"]
+[ECO "C38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.xi (1850), p.74"]
+[PlyCount "40"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.h4 h6 6.hxg5 hxg5 7.Rxh8 Bxh8 8.Kf2 g4 9.Qh1 gxf3 10.Qh7 Qf6 11.Qxg8+ Ke7 12.gxf3 Nc6 13.Nc3 Qh4+ 14.Ke2 Qh2+ 15.Kd1 Ne5 16.Nd5+ Kd6 17.Qf8+ Kc6 18.Bb5+ Kxb5 19.Qb4+ Kc6 20.Ne7# 1-0
