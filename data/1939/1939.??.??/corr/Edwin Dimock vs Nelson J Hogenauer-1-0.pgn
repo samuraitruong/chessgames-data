@@ -1,0 +1,15 @@
+[Event "corr"]
+[Site "USA"]
+[Date "1939.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Edwin Dimock"]
+[Black "Nelson J Hogenauer"]
+[ECO "B72"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Irving Chernev, The Fireside Book of Chess, p.348-349"]
+[PlyCount "44"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 g6 7.Be3 Bg7 8.Nb3 Be6 9.f4 d5 10.e5 Nd7 11.O-O f6 12.Bg4 Bxg4 13.Qxg4 fxe5 14.Nxd5 exf4 15.Qxf4 Nce5 16.Nd4 Nc5 17.Nb5 Ne6 18.Qa4 Nc6 19.Rad1 Qc8 20.Nxe7 Qb8 21.Nxc6 bxc6 22.Nd6+ 1-0
