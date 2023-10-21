@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1869.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "George MacDonnell"]
+[Black "White"]
+[ECO "C37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Westminster Papers, vol.ii n.4 (August 1869), p.54"]
+[PlyCount "38"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Rxf3 Qf6 7. d4 Bh6 8. c3 d6 9. Qb3 Nc6 10. Bxf4 Bxf4 11. Raf1 Bxh2+ 12. Kxh2 Qh4+ 13. Kg1 Nge7 14. Bxf7+ Kd8 15. Be6 Ng6 16. Bg8 Bd7 17. e5 dxe5 18. Rf8+ Nxf8 19. Rxf8+ Ke7 1-0

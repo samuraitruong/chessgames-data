@@ -9,9 +9,8 @@
 [ECO "000"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[Source "Chess Player’s Chronicle, vol.iv (1843), p.268"]
-[PlyCount "52"]
+[PlyCount "62"]
 [SetUp "1"]
-[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"]
 
-1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. Bg5 d6 5. Bd3 h6 6. Bxe7 Nxe7 7. Ne2 Ng6 8. O-O Be7 9. f4 Bg4 10. f5 Nf4 11. Nbc3 O-O 12. Qd2 Bg5 13. Nxf4 Bxf4 14. Qe1 Qg5 15. Be2 Be3+ 16. Kh1 h5 17. Rd1 a6 18. Rd3 Ba7 19. Rg3 Rf6 20. h3 Rh6 21. Qd1 Be3 22. Bxg4 Bf4 23. f6 Bxg3 24. Be6+ Kh7 25. fxg7 Kxg7 26. Rf7+ Kh8 0-1
+2. d4 d6 3. f4 Nf6 4. e5 Ng4 5. f5 Bxf5 6. h3 Nh6 7. Bxh6 gxh6 8. Bd3 Bg6 9. Qg4 Rg8 10. Nf3 Nd7 11. Nh4 dxe5 12. Nxg6 Nf6 13. Qe6 hxg6 14. dxe5 Qd5 15. Qxd5 Nxd5 16. Be4 c6 17. Nd2 e6 18. c4 Ne3 19. Ke2 Bc5 20. Rab1 Nf5 21. b4 Bd4 22. Kf3 Ke7 23. Bxf5 gxf5 24. Kf4 Rxg2 25. Nf3 Re2 26. Rhe1 Be3+ 27. Kg3 Rg8+ 28. Kh4 Bf2+ 29. Kh5 Bxe1 30. Rxe1 Rxe1 31. Nxe1 Rg3 0-1

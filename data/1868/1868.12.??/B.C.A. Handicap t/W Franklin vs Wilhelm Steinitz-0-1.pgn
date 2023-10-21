@@ -1,0 +1,17 @@
+[Event "B.C.A. Handicap t"]
+[Site "London ENG"]
+[Date "1868.12.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "W Franklin"]
+[Black "Wilhelm Steinitz"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Transactions of the British Chess Association for the Years 1868/69, p.77"]
+[PlyCount "62"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 -- 2. d4 e6 3. Bd3 c5 4. e5 g6 5. h4 cxd4 6. h5 Qa5+ 7. Kf1 Qxe5 8. hxg6 hxg6 9. Rxh8 Qxh8 10. Bxg6+ Kd8 11. c3 Nc6 12. cxd4 Nge7 13. Bd3 Bg7 14. Nd2 Bxd4 15. Qb3 d5 16. Ndf3 Bf6 17. Rb1 e5 18. Be2 Bf5 19. Ra1 Kc7 20. Bg5 Rg8 21. Bxf6 Qxf6 22. Rc1 e4 23. Ne1 Be6 24. Bb5 d4 25. Qa3 d3 26. Bxc6 Nxc6 27. Qa5+ Kb8 28. Qd2 Ne5 29. b3 Ng4 30. f4 Nh2+ 31. Kf2 Qd4+ 0-1

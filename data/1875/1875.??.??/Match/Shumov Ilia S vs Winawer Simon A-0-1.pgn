@@ -2,13 +2,13 @@
 [Site "St. Petersburg RUE"]
 [Date "1875.??.??"]
 [EventDate "?"]
-[Round "2"]
+[Round "6"]
 [Result "0-1"]
 [White "Shumov Ilia S"]
 [Black "Winawer Simon A"]
-[ECO "C67"]
+[ECO "C70"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "72"]
+[PlyCount "70"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Bxc6 bxc6 7. Rxe5+ Be7 8. Qe2 f6 9. Re3 Nf5 10. Re4 d5 11. Ra4 O-O 12. d3 Re8 13. Be3 c5 14. Nbd2 d4 15. Bxd4 Nxd4 16. Nxd4 cxd4 17. Qe4 Bd7 18. Rxd4 Bd6 19. Qh4 Be5 20. Rb4 c5 21. Qc4+ Be6 22. Qxc5 Bd6 23. Qd4 Bxb4 24. Qxb4 Rb8 25. Qa3 Qb6 26. b3 Bd5 27. Kf1 Qc6 28. f3 Qxc2 29. Ne4 Qxd3+ 30. Kf2 Qd4+ 31. Kg3 Rxe4 32. Rc1 Rg4+ 33. fxg4 Qe3+ 34. Kh4 g5+ 35. Kh5 Qe8+ 36. Kh6 Qg6# 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bc5 5. O-O b5 6. Bb3 d6 7. Bd5 Nge7 8. c3 Nxd5 9. exd5 Ne7 10. d4 exd4 11. cxd4 Bb6 12. Re1 O-O 13. Bg5 f6 14. Bh4 Bb7 15. Nc3 b4 16. Na4 Ba7 17. a3 a5 18. axb4 axb4 19. Qe2 Nxd5 20. Qb5 Qc8 21. Bg3 f5 22. Qc4 Kh8 23. Ng5 f4 24. Bh4 h6 25. Ne6 Re8 26. Nxg7 Kxg7 27. h3 Qd7 28. b3 Kh8 29. Nb2 Rg8 30. Qd3 Qg7 31. g4 fxg3 32. Bxg3 Bxd4 33. Rxa8 Bxa8 34. Nd1 Nf4 35. Qd2 Qxg3+ 0-1

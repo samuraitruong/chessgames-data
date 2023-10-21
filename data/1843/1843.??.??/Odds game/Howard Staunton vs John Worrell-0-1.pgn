@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1843.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Howard Staunton"]
+[Black "John Worrell"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.iv (1843), p.33"]
+[PlyCount "52"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+
+1. e4 e5 2. Bc4 Bc5 3. b4 Bxb4 4. f4 d5 5. Bxd5 Nf6 6. c3 Nxd5 7. exd5 Bd6 8. Nf3 exf4 9. O-O Bg4 10. d4 O-O 11. c4 c5 12. Nc3 cxd4 13. Ne4 f5 14. Nxd6 Qxd6 15. Qxd4 Bxf3 16. Rxf3 Nc6 17. Qc3 Qc5+ 18. Kh1 Nd4 19. Ba3 Qb6 20. Bb2 Rae8 21. h3 Re4 22. Rd3 Re1+ 23. Qxe1 Qxb2 24. Qd1 Ne2 25. Rd2 Ng3+ 26. Kh2 Qxd2 0-1

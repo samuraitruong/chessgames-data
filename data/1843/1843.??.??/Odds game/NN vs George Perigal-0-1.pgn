@@ -1,0 +1,16 @@
+[Event "Odds game"]
+[Site "ENG"]
+[Date "1843.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "George Perigal"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 -- 2. d4 c5 3. d5 d6 4. c4 g6 5. f4 Bg7 6. Nf3 Bg4 7. Nc3 Nd7 8. Bd3 Nh6 9. O-O O-O 10. Qc2 Bxf3 11. Rxf3 Ng4 12. h3 Bd4+ 13. Kh1 e5 14. hxg4 0-1

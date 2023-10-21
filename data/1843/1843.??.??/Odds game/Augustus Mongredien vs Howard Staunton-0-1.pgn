@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "ENG"]
+[Date "1843.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Augustus Mongredien"]
+[Black "Howard Staunton"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.iv (1843), p.65"]
+[PlyCount "50"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 -- 2. d4 d6 3. Bd3 Nc6 4. e5 g6 5. h4 Nb4 6. h5 Nxd3+ 7. cxd3 Bg7 8. hxg6 hxg6 9. Rxh8 Bxh8 10. Bg5 c6 11. Qb3 d5 12. Ne2 Qd7 13. Nd2 Qg4 14. Ne4 Kf8 15. Nf4 dxe4 16. Nxg6+ Kg7 17. Nxe7 Nxe7 18. Bxe7 exd3 19. Bf6+ Kh6 20. Qxd3 Bxf6 21. exf6 Bf5 22. Qe3+ Kg6 23. Kd2 Rd8 24. Qe7 Qxd4+ 25. Ke1 Qe4+ 0-1

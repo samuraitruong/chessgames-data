@@ -1,0 +1,16 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1843.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Adolf Zytogorski"]
+[Black "Howard Staunton"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 -- 2. d4 Nc6 3. e5 d6 4. f4 dxe5 5. d5 Nd4 6. Qh5+ g6 7. Qxe5 Nxc2+ 8. Kd1 Nxa1 9. Qxh8 Nf6 10. Nf3 Qxd5+ 11. Bd2 Bg4 12. Be2 Qxa2 13. Nc3 Qxb2 14. Ke1 O-O-O 15. Kf2 Bxf3 16. gxf3 Nb3 17. Na4 Ne4+ 0-1

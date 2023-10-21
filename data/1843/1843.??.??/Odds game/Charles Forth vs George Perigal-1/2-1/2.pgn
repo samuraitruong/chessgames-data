@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1843.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Charles Forth"]
+[Black "George Perigal"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.iv (1843), p.96"]
+[PlyCount "52"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 -- 2. d4 c5 3. Qh5+ g6 4. Qxc5 Nc6 5. Qc4 e6 6. Nf3 d5 7. exd5 exd5 8. Qe2+ Nge7 9. c3 Bg7 10. Ne5 O-O 11. f4 Nf5 12. Nd2 Ncxd4 13. cxd4 Nxd4 14. Qd3 Rxf4 15. Ndf3 Bf5 16. Qd2 Nc2+ 17. Kd1 Bxe5 18. Nxe5 Rd4 19. Bd3 Nxa1 20. Qc3 Qb6 21. Be3 Rxd3+ 22. Qxd3 d4 23. Bxd4 Bxd3 24. Bxb6 Bc2+ 25. Kd2 axb6 26. Rxa1 1/2-1/2

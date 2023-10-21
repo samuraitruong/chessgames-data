@@ -1,0 +1,14 @@
+[Event "European Blitz Chess Championship"]
+[Site "Katowice POL"]
+[Date "2022.12.16"]
+[EventDate "2022.12.16"]
+[Round "1.71"]
+[Result "0-1"]
+[White "Kamil Misecka"]
+[Black "Thomas Paehtz"]
+[ECO "B07"]
+[WhiteElo "1807"]
+[BlackElo "2339"]
+[PlyCount "36"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Qd2 Nd7 6. Bc4 b5 7. Bb3 Bb7 8. Nge2 Ngf6 9. f3 c5 10. Bd5 Nxd5 11. Nxd5 e6 12. Ndf4 Nb6 13. dxc5 Nc4 14. Qd3 Nxb2 15. Qxd6 Nc4 16. Qxd8+ Rxd8 17. Bd4 Bxd4 18. Nxd4 Rxd4 0-1

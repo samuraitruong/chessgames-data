@@ -1,0 +1,14 @@
+[Event "II Open A"]
+[Site "Padua ITA"]
+[Date "1999.12.13"]
+[EventDate "1999.12.11"]
+[Round "3"]
+[Result "0-1"]
+[White "Andrea Bianchi"]
+[Black "Armando Rossato"]
+[ECO "B12"]
+[WhiteElo "2121"]
+[BlackElo "2219"]
+[PlyCount "14"]
+
+1.e4 c6 2.d4 d5 3.Nd2 h6 4.Bd3 dxe4 5.Nxe4 Qxd4 6.Nf3 Qd8 7.Ne5 Qa5+ 0-1
