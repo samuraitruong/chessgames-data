@@ -1,0 +1,14 @@
+[Event "Rio Chess Open"]
+[Site "Rio de Janeiro BRA"]
+[Date "2023.05.??"]
+[EventDate "2023.??.??"]
+[Round "1"]
+[Result "0-1"]
+[White "Matheus Braga Dias"]
+[Black "Yago Santiago"]
+[ECO "A84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1. d4 e6 2. c4 f5 3. Nf3 Nf6 4. g3 d5 5. Bg2 Ne4 6. c5 b6 7. Ne5 bxc5 8. e3 Nf6 9. O-O Bd6 10. b3 O-O 11. Nd2 Bxe5 12. dxe5 Nfd7 13. f4 a5 14. Nf3 Nc6 15. g4 fxg4 16. Ng5 Ndxe5 17. fxe5 Rxf1+ 18. Kxf1 Qxg5 19. Bxd5 Qd8 20. Bb2 Qxd5 21. Qxg4 Qh1+ 0-1

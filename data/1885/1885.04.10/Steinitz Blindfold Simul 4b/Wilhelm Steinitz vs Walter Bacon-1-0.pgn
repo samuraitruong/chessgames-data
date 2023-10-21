@@ -1,0 +1,15 @@
+[Event "Steinitz Blindfold Simul 4b"]
+[Site "Wilmington, DE USA"]
+[Date "1885.04.10"]
+[EventDate "1885.04.10"]
+[Round "2"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Walter Bacon"]
+[ECO "C37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "(Wilmington) Star, 1885.04.26, p2"]
+[PlyCount "54"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5 Nh6 6.d4 Qh4+ 7.Kf1 d6 8.Nd3 f3 9.Nc3 fxg2+ 10.Kxg2 Rg8 11.Nf4 Nc6 12.Ncd5 Kd8 13.c3 Be6 14.Nxe6+ fxe6 15. Nf4 e5 16.dxe5 Rh8 17.Qd5 a6 18.Rf1 Be7 19.exd6 cxd6 20.e5 Kc7 21.Qe6 Ng8 22.exd6+ Kb8 23.dxe7 Ngxe7 24.Qd6+ Ka7 25.Be3+ Nd4 26.Bxd4+ b6 27.Qc7# 1-0

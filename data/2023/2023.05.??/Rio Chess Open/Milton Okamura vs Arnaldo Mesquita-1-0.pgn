@@ -1,0 +1,14 @@
+[Event "Rio Chess Open"]
+[Site "Rio de Janeiro BRA"]
+[Date "2023.05.??"]
+[EventDate "2023.??.??"]
+[Round "5"]
+[Result "1-0"]
+[White "Milton Okamura"]
+[Black "Arnaldo Mesquita"]
+[ECO "E40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Bxc3+ 5. bxc3 O-O 6. Bd3 d6 7. Ne2 b6 8. O-O Bb7 9. Ng3 Nbd7 10. e4 e5 11. Be3 Re8 12. f3 Nf8 13. Qd2 Kh8 14. Nf5 Qd7 15. Nxg7 Rec8 16. Nf5 Ne6 17. d5 Nc5 18. Bxc5 dxc5 19. Qh6 Ne8 20. Qf8# 1-0

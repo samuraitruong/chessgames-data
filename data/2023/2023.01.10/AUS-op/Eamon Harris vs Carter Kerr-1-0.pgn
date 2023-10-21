@@ -1,0 +1,14 @@
+[Event "AUS-op"]
+[Site "Scarborough, Perth AUS"]
+[Date "2023.01.10"]
+[EventDate "2023.01.02"]
+[Round "11.49"]
+[Result "1-0"]
+[White "Eamon Harris"]
+[Black "Carter Kerr"]
+[ECO "E60"]
+[WhiteElo "1884"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1. d4 Nf6 2. c4 g6 3. h4 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 e5 7. dxe5 Qxd1+ 8. Kxd1 Ng4 9. Ke1 Nxe5 10. Be2 Bg7 11. h5 Nbc6 12. Nd5 Kd7 13. h6 Bf8 14. f4 Nd4 15. Kd1 Nec6 16. Nf3 Nxe2 17. Kxe2 Ne7 18. Nf6+ Ke6 19. Ng5+ Kxf6 20. e5+ Kf5 21. Kf3 Bxh6 22. g4# 1-0

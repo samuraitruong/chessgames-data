@@ -1,0 +1,14 @@
+[Event "AUS-op"]
+[Site "Scarborough, Perth AUS"]
+[Date "2023.01.09"]
+[EventDate "2023.01.02"]
+[Round "10.25"]
+[Result "1-0"]
+[White "Craig C Kinsman"]
+[Black "Ian McAteer"]
+[ECO "B15"]
+[WhiteElo "1986"]
+[BlackElo "1605"]
+[PlyCount "44"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8. Qc2 Re8+ 9. Ne2 h5 10. O-O Nd7 11. Ng3 Qc7 12. h3 Bxg3 13. fxg3 Nf8 14. Bf4 Qd8 15. Rae1 Be6 16. Qd1 Bxa2 17. b3 Qd5 18. Bc4 Qa5 19. Qa1 b5 20. b4 Bxc4 21. Qxa5 Bxf1 22. Rxe8 1-0

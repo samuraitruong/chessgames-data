@@ -1,0 +1,15 @@
+[Event "Polish tt"]
+[Site "Ustron-Jaszowiec POL"]
+[Date "2007.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Piotr Chrobak"]
+[Black "Piotr Chmiel"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Nikolay Kalinichenko, Winning In The Chess Opening, p.44"]
+[PlyCount "32"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. d3 Nc6 6. c3 O-O 7. a4 a5 8. Na3 exf4 9. Bxf4 d5 10. exd5 Re8+ 11. Kd2 Nxd5 12. Bg5 Be3+ 13. Bxe3 Nxe3 14. Qb3 Qf6 15. Nb5 Re7 16. Nbd4 Qf4 0-1
