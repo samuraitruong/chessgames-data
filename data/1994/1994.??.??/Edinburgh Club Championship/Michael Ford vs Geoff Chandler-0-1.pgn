@@ -1,0 +1,15 @@
+[Event "Edinburgh Club Championship"]
+[Site "Edinburgh SCO"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Michael Ford"]
+[Black "Geoff Chandler"]
+[ECO "B44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Scorebook G.Chandler"]
+[PlyCount "32"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.c4 Nf6 6.f3 Bc5 7.Nb3 Nxe4 8.fxe4 Qh4+ 9.Kd2 Qf4+ 10.Kc3 Qe5+ 11.Kd2 Qf4+ 12.Kc3 Bb4+ 13.Kd3 Ne5+ 14.Kd4 Qf2+ 15.Be3 Qxb2+ 16.Nc3 Qxc3# 0-1

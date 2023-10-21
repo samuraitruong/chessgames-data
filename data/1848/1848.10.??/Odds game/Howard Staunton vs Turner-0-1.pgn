@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "Brighton ENG"]
+[Date "1848.10.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Howard Staunton"]
+[Black "Turner"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.ix (1848), p.289"]
+[PlyCount "68"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O d6 7. Qb3 Nh6 8. d4 O-O 9. Bg5 Qe8 10. Rad1 Bb6 11. Bxh6 gxh6 12. Qb1 Bg4 13. Rd3 Kh8 14. Qc1 f5 15. exf5 e4 16. Re1 Rxf5 17. Nd2 d5 18. Rg3 Ne5 19. Bxd5 Nd3 20. Rxd3 Rxd5 21. Rxe4 Qd7 22. Rde3 Bh5 23. Re7 Qd8 24. Qe1 c5 25. R3e5 cxd4 26. Qe4 Bg6 27. Qf3 Qf8 28. Qxd5 dxc3 29. Re3 Bxe3 30. Qe5+ Kg8 31. Qxe3 cxd2 32. Rd7 Qf6 33. Qxd2 Qa1+ 34. Qd1 Qxd1+ 0-1

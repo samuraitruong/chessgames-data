@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1844.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Thomas Hampton"]
+[Black "Howard Staunton"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.v (1844), p.261"]
+[PlyCount "62"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 -- 2. d4 e6 3. Bd3 c5 4. d5 d6 5. c4 g6 6. h4 Bg7 7. Nc3 a6 8. Nge2 Nf6 9. Bg5 e5 10. f4 Bg4 11. Qb3 b6 12. O-O-O Nbd7 13. Rdf1 exf4 14. Nxf4 Ne5 15. Bc2 h6 16. Bxf6 Bxf6 17. Bd1 Bd7 18. Nce2 b5 19. cxb5 c4 20. Qg3 g5 21. Nh5 Nd3+ 22. Kc2 Be5 23. Qf3 Qa5 24. Nc1 Rc8 25. Ng7+ Kd8 26. Ne6+ Bxe6 27. dxe6 Qxb5 28. e7+ Kxe7 29. Nxd3 cxd3+ 30. Kd2 Qxb2+ 31. Ke1 Bc3# 0-1

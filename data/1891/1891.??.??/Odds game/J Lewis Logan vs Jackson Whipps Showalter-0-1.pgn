@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "Lexington, KY USA"]
+[Date "1891.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "J Lewis Logan"]
+[Black "Jackson Whipps Showalter"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "(Louisville) Courier-Journal, 1891.09.18, p.20"]
+[PlyCount "56"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1.e4 -- 2.d4 e6 3.c4 Nf6 4.Bd3 d5 5.e5 Ne4 6.Bxe4 dxe4 7.Be3 Bb4+ 8.Nc3 O-O 9.Qg4 c5 10.Qxe4 cxd4 11.Rd1 dxe3 12.Rxd8 exf2+ 13.Kf1 fxg1=Q+ 14.Kxg1 Bc5+ 15.Rd4 Nc6 16.Ne2 Bd7 17.h3 Nxd4 18.Nxd4 Bc6 19.Qg4 Rad8 20.Kh2 Rxd4 21.Qxe6+ Kh8 22.Re1 Rd2 23.Qg4 h6 24.Re2 Rxe2 25.Qxe2 Rf2 26.Qg4 Rxg2+ 27.Qxg2 Bxg2 28.Kxg2 Bd4 0-1

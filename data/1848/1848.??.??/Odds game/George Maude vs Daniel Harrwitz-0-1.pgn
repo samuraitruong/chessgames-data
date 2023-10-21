@@ -1,0 +1,18 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1848.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "George Maude"]
+[Black "Daniel Harrwitz"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.ix (1848), p.208"]
+[SourceNote "23...Nc2+"] 
+[PlyCount "46"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 -- 2. d4 e6 3. Bd3 c5 4. e5 g6 5. h4 cxd4 6. f4 Ne7 7. h5 Bg7 8. Qg4 Kf7 9. Nf3 Nbc6 10. hxg6+ hxg6 11. Ng5+ Kf8 12. Rxh8+ Bxh8 13. Qh4 Bg7 14. c3 d6 15. cxd4 dxe5 16. fxe5 Qxd4 17. Qxd4 Nxd4 18. Bf4 Nd5 19. g3 Bh6 20. Nxe6+ Bxe6 21. Bxh6+ Kf7 22. Nd2 Nb4 23. Be4 Nbc2+ 0-1

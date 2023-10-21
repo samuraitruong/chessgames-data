@@ -6,9 +6,10 @@
 [Result "1-0"]
 [White "John Cochrane"]
 [Black "Howard Staunton"]
-[ECO "C44"]
+[ECO "B20"]
 [WhiteElo "?"]
 [BlackElo "?"]
-[PlyCount "69"]
+[Source "Chess Player’s Chronicle, vol.viii, 1847.11.27, p.377"]
+[PlyCount "64"]
 
-1.e4 e5 2.Nf3 Nc6 3.d4 Nxd4 4.Nxe5 Ne6 5.Bc4 Qf6 6.Nf3 Bc5 7.O-O d6 8.Nc3 c6 9.e5 dxe5 10.Ne4 Qe7 11.Nxe5 Nf6 12.Bxe6 Bxe6 13.Bg5 Bd5 14.Nxc5 Qxc5 15.Bxf6 gxf6 16.Nd3 Qd6 17.Re1+ Be6 18.Qf3 O-O-O 19.Qxf6 Rhg8 20.Nf4 Rde8 21.Rad1 Qe7 22.Qxe7 Rxe7 23.Nxe6 fxe6 24.Re5 Rd8 25.Rxd8+ Kxd8 26.f4 Kd7 27.Kf2 Kd6 28.Ke3 c5 29.g4 b5 30.h4 a5 31.b3 a4 32.h5 axb3 33.axb3 h6 34.Re4 Rg7 35.Kf3 1-0
+1. e4 c5 2. c4 e6 3. Nc3 Ne7 4. f4 Ng6 5. d3 Be7 6. Nf3 d6 7. Be2 Nc6 8. O-O Bf6 9. Be3 Bd4 10. Qd2 Nxf4 11. Nxd4 cxd4 12. Bxf4 dxc3 13. bxc3 e5 14. Be3 O-O 15. Rf2 Qe7 16. Raf1 b6 17. h4 Rb8 18. h5 f6 19. h6 Rf7 20. hxg7 Rxg7 21. Bh6 Rg6 22. Bh5 f5 23. Bxg6 hxg6 24. exf5 gxf5 25. Qg5+ Qxg5 26. Bxg5 Rb7 27. g3 Rg7 28. Bh4 Rg4 29. Rxf5 Bxf5 30. Rxf5 Rg6 31. Kf2 Kg7 32. Ke3 1-0

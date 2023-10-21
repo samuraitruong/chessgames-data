@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "Brighton ENG"]
+[Date "1846.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Howard Staunton"]
+[Black "James Hannah"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.xii (1846), p.360"]
+[PlyCount "68"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+
+1. g3 e5 2. c4 Bc5 3. e3 d6 4. Bg2 Nc6 5. Ne2 f5 6. O-O Nf6 7. d4 Bb6 8. b4 a5 9. b5 Ne7 10. Qc2 c6 11. a4 e4 12. c5 dxc5 13. dxc5 Qd3 14. Qa2 Bxc5 15. Nf4 Qd6 16. Nd2 Ned5 17. Nc4 Qe7 18. Ne2 Be6 19. Qc2 Nb4 20. Qc3 Bxc4 21. Qxc4 Nd3 22. f3 exf3 23. Bxf3 Nxc1 24. Nxc1 Qxe3+ 25. Kg2 O-O-O 26. bxc6 Rd2+ 27. Kh1 Re8 28. cxb7+ Kb8 29. Nb3 Ne4 30. Bxe4 Rxe4 31. Qxc5 Qxb3 32. Qc8+ Ka7 33. Qa8+ Kb6 34. b8=Q+ 1-0

@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "Brighton ENG"]
+[Date "1847.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Hugh Alexander Kennedy"]
+[Black "Howard Staunton"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, 1847.03.13, p.81"]
+[PlyCount "88"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 -- 2. d4 e6 3. Bd3 c5 4. dxc5 Qa5+ 5. Nc3 Bxc5 6. Nf3 a6 7. O-O Nc6 8. Bf4 Nge7 9. a3 Ng6 10. Bg3 Qd8 11. e5 O-O 12. Bxg6 hxg6 13. Qd3 Ne7 14. Bh4 d5 15. Bxe7 Qxe7 16. Qxg6 Rf5 17. Ne2 Bd7 18. Ng3 Qf7 19. Qxf7+ Rxf7 20. c3 Raf8 21. Nd4 Bxd4 22. cxd4 Bb5 23. Rfc1 Rxf2 24. b3 Rd2 25. a4 Bc6 26. Rf1 Rxf1+ 27. Rxf1 Rxd4 28. Kf2 Rb4 29. Ne2 Re4 30. Nc1 Rxe5 31. Nd3 Rf5+ 32. Kg1 Rxf1+ 33. Kxf1 Kf7 34. Kf2 Kf6 35. g4 g5 36. Kg3 e5 37. h4 gxh4+ 38. Kxh4 e4 39. g5+ Kf5 40. Nc5 a5 41. Kh5 b6 42. g6 bxc5 43. g7 Be8+ 44. Kh6 Bf7 0-1

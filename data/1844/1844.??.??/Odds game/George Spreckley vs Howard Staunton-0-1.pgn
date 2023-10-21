@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "ENG"]
+[Date "1844.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "George Spreckley"]
+[Black "Howard Staunton"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.v (1844), p.327"]
+[PlyCount "78"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"]
+
+2. d4 Nc6 3. Nc3 e5 4. dxe5 Nxe5 5. f4 Nf7 6. Bc4 Ngh6 7. Nf3 c6 8. O-O Bc5+ 9. Kh1 d6 10. h3 Qe7 11. f5 Bd7 12. a3 a5 13. Bf4 Qf6 14. Bg3 g5 15. Na4 Be3 16. Qd3 Bf4 17. Bxf4 gxf4 18. Nb6 Rd8 19. Bxf7+ Nxf7 20. Nxd7 Rxd7 21. Qd2 Rg8 22. Rad1 Ng5 23. Qxf4 Nxf3 24. Rxf3 Qxb2 25. Rxd6 Qxc2 26. Re6+ Kf7 27. Rg3 Rxg3 28. Qxg3 Qc5 29. Qb3 Qc1+ 30. Kh2 Qf4+ 31. Qg3 Qxg3+ 32. Kxg3 Rd3+ 33. Kh4 Rxa3 34. g4 Re3 35. g5 a4 36. Kg4 a3 37. Rd6 Rxe4+ 38. Kf3 a2 39. Rd1 Ra4 0-1

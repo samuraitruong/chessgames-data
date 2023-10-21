@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1844.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "William Henderson"]
+[Black "Howard Staunton"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player’s Chronicle, vol.v (1844), p.262"]
+[PlyCount "66"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 -- 2. d4 e6 3. Bd3 c5 4. d5 d6 5. c4 g6 6. Bd2 Bg7 7. Bc3 Qe7 8. Bxg7 Qxg7 9. Nc3 Nh6 10. Nge2 e5 11. O-O O-O 12. f4 Ng4 13. Qd2 exf4 14. Rxf4 Rxf4 15. Qxf4 Ne5 16. Rd1 Bg4 17. h3 Bxe2 18. Bxe2 Nbd7 19. Nb5 Rf8 20. Qe3 Nf7 21. b3 Nde5 22. Rf1 a6 23. Nc3 Re8 24. Nd1 Nh6 25. Qf4 Nef7 26. Bf3 b5 27. Ne3 Qd4 28. Rd1 g5 29. Qxf7+ Nxf7 30. Rxd4 cxd4 31. Nc2 d3 32. Nb4 bxc4 33. bxc4 Ne5 0-1
