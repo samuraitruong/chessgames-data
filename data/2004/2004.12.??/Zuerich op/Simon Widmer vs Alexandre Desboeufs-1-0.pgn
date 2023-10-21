@@ -1,0 +1,14 @@
+[Event "Zuerich op"]
+[Site "Zuerich SUI"]
+[Date "2004.12.??"]
+[EventDate "2004.12.26"]
+[Round "2"]
+[Result "1-0"]
+[White "Simon Widmer"]
+[Black "Alexandre Desboeufs"]
+[ECO "D30"]
+[WhiteElo "2199"]
+[BlackElo "2033"]
+[PlyCount "34"]
+
+1. d4 e6 2. c4 d5 3. Nf3 Nf6 4. Bg5 Bb4+ 5. Nbd2 c6 6. e3 Nbd7 7. Bd3 O-O 8. O-O h6 9. Bh4 Re8 10. Ne5 Bxd2 11. Nxd7 Qxd7 12. Qxd2 dxc4 13. Bxc4 g5 14. Bg3 Ne4 15. Qc2 Nxg3 16. hxg3 e5 17. Qg6+ 1-0

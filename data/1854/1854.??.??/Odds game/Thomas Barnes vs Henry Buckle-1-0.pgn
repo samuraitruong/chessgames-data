@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1854.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Thomas Barnes"]
+[Black "Henry Buckle"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Field, 1854.05.13, p.444"]
+[PlyCount "100"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. e4 d6 5. Bd3 Be7 6. Ne2 O-O 7. O-O Nh5 8. Nbc3 g5 9. Ng3 Nf4 10. Bxf4 gxf4 11. Nf5 Kh8 12. Qh5 Bxf5 13. exf5 Nd7 14. Ne4 Nf6 15. Qh3 Nxe4 16. Bxe4 Bf6 17. g3 Rb8 18. g4 b5 19. b3 bxc4 20. bxc4 Rb4 21. Rac1 Qe7 22. Qh6 Qg7 23. Qh5 Qg5 24. Qxg5 Bxg5 25. f3 Kg7 26. Bd3 h5 27. h3 Bd8 28. Rb1 Bb6 29. g5 h4 30. Kf2 Ra4 31. Rb2 Kf7 32. Rg1 Ra3 33. Ke2 Rg8 34. f6 Rh8 35. Bf5 Re3+ 36. Kf2 Rc3 37. Be6+ Kg6 38. a4 Ra8 39. Bd7 Rd8 40. Bc6 e4 41. fxe4 Rxh3 42. a5 Bxa5 43. Rb7 Rg3 44. Rg7+ Kh5 45. f7 Bc3 46. Be8 Bd4+ 47. Ke2 f3+ 48. Kd2 Bxg1 49. f8=Q+ Kg4 50. Qf5# 1-0

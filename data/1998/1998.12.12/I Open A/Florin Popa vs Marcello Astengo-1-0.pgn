@@ -1,0 +1,14 @@
+[Event "I Open A"]
+[Site "Padua ITA"]
+[Date "1998.12.12"]
+[EventDate "1998.12.11"]
+[Round "2"]
+[Result "1-0"]
+[White "Florin Popa"]
+[Black "Marcello Astengo"]
+[ECO "C05"]
+[WhiteElo "2215"]
+[BlackElo "2040"]
+[PlyCount "72"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.f4 c5 6.c3 Nc6 7.Ndf3 Qb6 8.Ne2 cxd4 9.cxd4 Bb4+ 10.Bd2 O-O 11.g3 f6 12.Bh3 fxe5 13.Bxe6+ Kh8 14.Bxb4 Qxb4+ 15. Qd2 e4 16.Nh4 Nb6 17.Bxc8 Raxc8 18.b3 Qxd2+ 19.Kxd2 Nb4 20.Rhc1 Nd3 21. Rxc8 Rxc8 22.Nf5 g6 23.Ne3 Kg7 24.Rf1 h6 25.f5 g5 26.Nc3 Rd8 27.f6+ Kf8 28.Rf5 Nb4 29.Ng4 Nc6 30.Ke3 Nb4 31.Kd2 Nc6 32.Ne2 h5 33.Nh6 e3+ 34.Kd1 h4 35.Rxg5 hxg3 36.Rg8# 1-0

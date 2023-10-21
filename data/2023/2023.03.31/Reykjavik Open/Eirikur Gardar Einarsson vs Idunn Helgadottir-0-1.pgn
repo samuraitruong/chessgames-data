@@ -1,0 +1,14 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2023.03.31"]
+[EventDate "2023.03.29"]
+[Round "4.188"]
+[Result "0-1"]
+[White "Eirikur Gardar Einarsson"]
+[Black "Idunn Helgadottir"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "1636"]
+[PlyCount "40"]
+
+1. d4 Nf6 2. c4 e6 3. a3 d5 4. Nc3 Be7 5. Nf3 O-O 6. Qc2 Nbd7 7. e3 b6 8. Bd3 dxc4 9. Bxc4 c5 10. Bd3 Bb7 11. e4 cxd4 12. Nxd4 Nc5 13. Be3 Nxd3+ 14. Qxd3 e5 15. O-O-O exd4 16. Bxd4 Qc7 17. g4 Bxe4 18. Qe3 Bxh1 19. Rxh1 Nd5 20. Qd3 Nxc3 0-1

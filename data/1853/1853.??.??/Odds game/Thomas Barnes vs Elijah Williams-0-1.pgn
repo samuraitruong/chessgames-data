@@ -1,0 +1,17 @@
+[Event "Odds game"]
+[Site "London ENG"]
+[Date "1853.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Thomas Barnes"]
+[Black "Elijah Williams"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Field, 1853.01.15, p.44"]
+[PlyCount "72"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 e6 4. c4 c5 5. Nf3 Nc6 6. Nc3 a6 7. Bg5 Be7 8. dxc5 O-O 9. cxd5 exd5 10. Bxf6 Bxf6 11. Nxd5 Bxb2 12. Rb1 Qa5+ 13. Nd2 Qxa2 14. Bc4 Qa3 15. Nb6+ Kh8 16. Nxa8 Bf5 17. Rxb2 Qxb2 18. Nb6 Rd8 19. Bd5 Nb4 20. e4 Nd3+ 21. Kf1 Qd4 22. Qf3 Bg4 23. Nb3 Qc3 24. Qe3 Qc2 25. Qd2 Qb1+ 26. Nc1 Nxc1 27. Qe1 Qd3+ 28. Kg1 Ne2+ 29. Kf1 Ng3+ 30. Kg1 Nxh1 31. Kxh1 Qb5 32. f3 Qxc5 33. Na4 Qc2 34. Nc3 Be6 35. Bxb7 Qxc3 36. Qb1 Qd3 0-1
